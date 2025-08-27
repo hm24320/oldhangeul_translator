@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title>大學栗谷先生諺解</title>
+<author>李珥 撰</author>
+<date>1749年(英祖25)</date>
+</titleStmt>
+<notesStmt>
+<bibl><title>大學栗谷先生諺解 全</title>
+<pubPlace>서울</pubPlace>
+<publisher>디지털한글박물관, 국립중앙도서관 소장본</publisher><!--http://www.hangeulmuseum.org/-->
+<date></date>
+</bibl>
+</notesStmt>
+<revisionDesc>
+<date>2016/03/30</date>
+<respStmt>
+<resp>입력자</resp><name>박지용</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>박진호</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">大學栗谷先生諺解</sent>
+<sent type="main" lang="chi" page="01a" n="2">大學之道 在明明德며</sent>
+<sent type="main" lang="kor" page="01a" n="2">大學의 道 明德을 明호매 이시며</sent>
+<sent type="main" lang="chi" page="01a" n="3">在親民며</sent>
+<sent type="main" lang="kor" page="01a" n="3">民을 新호매 이시며</sent>
+<sent type="main" lang="chi" page="01a" n="4">在止於至善이니라</sent>
+<sent type="main" lang="kor" page="01a" n="4">至善의 止호매 잇니라</sent>
+<sent type="anno" lang="chi" page="01a" n="5">親當作新</sent>
+
+<sent type="main" lang="chi" page="01b" n="1">知止而后有定이니</sent>
+<sent type="main" lang="kor" page="01b" n="1">止 안 后애 定호미 이실디니</sent>
+<sent type="main" lang="chi" page="01b" n="2">定而后能靜고</sent>
+<sent type="main" lang="kor" page="01b" n="2">定 后애 能히 靜고</sent>
+<sent type="main" lang="chi" page="01b" n="3">靜而后能安고</sent>
+<sent type="main" lang="kor" page="01b" n="3">靜 后애 能히 安고</sent>
+<sent type="main" lang="chi" page="01b" n="4">安而后能慮고</sent>
+<sent type="main" lang="kor" page="01b" n="4">安 后애 能히 慮고</sent>
+<sent type="main" lang="chi" page="01b" n="5">慮而后能得이니라</sent>
+<sent type="main" lang="kor" page="01b" n="5">慮 后애 能히 得디니라</sent>
+<sent type="main" lang="chi" page="01b" n="6">物有本末고</sent>
+<sent type="main" lang="kor" page="01b" n="6">物이 本과 末이 잇고</sent>
+<sent type="main" lang="chi" page="01b-02a" n="7">事有終始니</sent>
+<sent type="main" lang="kor" page="01b-02a" n="7">事ᅵ 終과 始ᅵ 이시니</sent><!--終^과-->
+
+<sent type="main" lang="chi" page="02a" n="1">知所先後ᅵ면 則近道矣리라</sent>
+<sent type="main" lang="kor" page="02a" n="1">몬져 며 후에  바 알면 道의 갓가오리라</sent>
+
+<sent type="main" lang="chi" page="02b" n="1">古之欲明明德於天下者 先治其國고</sent>
+<sent type="main" lang="kor" page="02b" n="1">녜 明德을 天下의 明코져  者 몬져 그 國을 治고</sent>
+<sent type="main" lang="chi" page="02b" n="2">欲治其國者 先齊其家고</sent>
+<sent type="main" lang="kor" page="02b" n="2">그 國을 治코져  者 몬져 그 家 齊고</sent>
+<sent type="main" lang="chi" page="02b" n="3">欲齊其家者 先脩其身고</sent>
+<sent type="main" lang="kor" page="02b" n="3">그 家 齊코져  者 몬져 그 身을 脩고</sent>
+<sent type="main" lang="chi" page="02b" n="4">欲脩其身者 先正其心고</sent>
+<sent type="main" lang="kor" page="02b" n="4">그 身을 脩코져  者 몬져 그 心을 正고</sent>
+<sent type="main" lang="chi" page="02b" n="5">欲正奇心者 先誠其意고</sent>
+<sent type="main" lang="kor" page="02b" n="5">그 心을 正코져  者 몬져 그 意 誠고</sent>
+<sent type="main" lang="chi" page="02b-03a" n="6">欲誠其意者 先致其知니</sent>
+<sent type="main" lang="kor" page="02b-03a" n="6">그 意 誠코져  者 몬져 그 知 致니</sent><!--^니-->
+
+<sent type="main" lang="chi" page="03a" n="1">致知 在格物이니라</sent>
+<sent type="main" lang="kor" page="03a" n="1">知 致호 物을 格호매 잇니라</sent>
+<sent type="main" lang="chi" page="03a" n="2">物格而后知至고</sent>
+<sent type="main" lang="kor" page="03a" n="2">物이 格 后애 知ᅵ 至고</sent>
+<sent type="main" lang="chi" page="03a" n="3">知至而后意誠고</sent>
+<sent type="main" lang="kor" page="03a" n="3">知ᅵ 至 后애 意ᅵ 誠고</sent>
+
+<sent type="main" lang="chi" page="03b" n="1">意誠而后心正고</sent>
+<sent type="main" lang="kor" page="03b" n="1">意ᅵ 誠 后애 心이 正고</sent>
+<sent type="main" lang="chi" page="03b" n="2">心正而后身脩고</sent>
+<sent type="main" lang="kor" page="03b" n="2">心ᅵ 正 后애 身이 脩고</sent>
+<sent type="main" lang="chi" page="03b" n="3">身脩而后家齊고</sent>
+<sent type="main" lang="kor" page="03b" n="3">身ᅵ 脩 后애 家이 齊고</sent>
+<sent type="main" lang="chi" page="03b" n="4">家齊而后國治고</sent>
+<sent type="main" lang="kor" page="03b" n="4">家ᅵ 齊 后애 國이 治고</sent>
+<sent type="main" lang="chi" page="03b" n="5">國治而后天下平이니라</sent>
+<sent type="main" lang="kor" page="03b" n="5">國ᅵ 治 后애 天下이 平디니라</sent>
+<sent type="main" lang="chi" page="03b" n="6">自天子以至於庶人히</sent>
+<sent type="main" lang="kor" page="03b" n="6">天子로브터  庶人의 니르히</sent>
+
+<sent type="main" lang="chi" page="04a" n="1">臺是皆以脩身為本이니라</sent>
+<sent type="main" lang="kor" page="04a" n="1">티 다 身을 脩호로  本을 사디니라</sent>
+<sent type="main" lang="chi" page="04a" n="2">其本亂而末治者ᅵ 否矣며</sent>
+<sent type="main" lang="kor" page="04a" n="2">그 本이 亂코 末이 治 者ᅵ 업스며</sent>
+<sent type="main" lang="chi" page="04a" n="3">其所厚者薄이오 而其所薄者厚ᅵ 未之有也ᅵ니라</sent>
+<sent type="main" lang="kor" page="04a" n="3">그 厚 바의 薄고 그 薄 바의 厚리 잇디 아니니라</sent>
+<sent type="title2" lang="chi" page="04a" n="4">右經 一章</sent>
+
+<sent type="main" lang="chi" page="04b" n="1">康誥曰 克明德이라 고</sent>
+<sent type="main" lang="kor" page="04b" n="1">康誥의 오 德을 克히 明다 고</sent>
+<sent type="main" lang="chi" page="04b" n="2">大甲曰 顧諟天之明命이라 고</sent>
+<sent type="main" lang="kor" page="04b" n="2">太甲의 오 이 天의 明 命을 顧다 고</sent>
+<sent type="main" lang="chi" page="04b" n="3">帝典曰 克明峻德이라 니</sent>
+<sent type="main" lang="kor" page="04b" n="3">帝典의 오 峻 德을 克히 明다 니</sent>
+
+<sent type="main" lang="chi" page="05a" n="1">皆自明也ᅵ니라</sent>
+<sent type="main" lang="kor" page="05a" n="1">다 스스로 明호미니라</sent>
+<sent type="title2" lang="chi" page="05a" n="2">右傳之首章</sent>
+<sent type="main" lang="chi" page="05a" n="3">湯之盤銘曰</sent>
+<sent type="main" lang="kor" page="05a" n="3">湯ᄉ 盤銘의 오</sent>
+<sent type="main" lang="chi" page="05a" n="4">茍日新이어든 日日新며 又日新이라 고</sent>
+<sent type="main" lang="kor" page="05a" n="4">진실로 날애 新거든 나날 新며  날로 新라 고</sent>
+<sent type="main" lang="chi" page="05a-05b" n="5">康誥曰 作新民이라 고</sent>
+<sent type="main" lang="kor" page="05a-05b" n="5">康誥의 오 新 民을 作라 고</sent><!--作^-->
+
+<sent type="main" lang="chi" page="05b" n="1">詩曰 周雖舊邦이나 其命維新이라 니</sent>
+<sent type="main" lang="kor" page="05b" n="1">詩예 오 周ᅵ 비록 녯 나라히나 그 命이 新다 니</sent>
+<sent type="main" lang="chi" page="05b" n="2">是故君子 無所不用其極이니라</sent>
+<sent type="main" lang="kor" page="05b" n="2">이런 故로 君子 그 極을 디 아닐 배 업스니라</sent>
+<sent type="title2" lang="chi" page="05b" n="3">右傳之二章</sent>
+
+<sent type="main" lang="chi" page="06a" n="1">詩云 邦畿千里여 惟民所止라 도다</sent>
+<sent type="main" lang="kor" page="06a" n="1">詩예 닐오 邦읫 畿ᅵ 千里여 民의 止 배라 도다</sent>
+<sent type="main" lang="chi" page="06a" n="2">詩云 緡蠻黃鳥ᅵ 止于丘隅ᅵ라 야</sent>
+<sent type="main" lang="kor" page="06a" n="2">詩예 닐오 緡蠻 黃鳥ᅵ 丘隅에 止타 야</sent>
+<sent type="main" lang="chi" page="06a-06b" n="3">子曰 於止예 知其所止로소니</sent>
+<sent type="main" lang="kor" page="06a-06b" n="3">子ᅵ 샤 止 제 그 止 바 아노소니</sent><!--^-->
+
+<sent type="main" lang="chi" page="06b" n="1">可以人而不如鳥乎아 시니라</sent>
+<sent type="main" lang="kor" page="06b" n="1">可히 人으로  鳥만 디 몯 것가 시니라</sent>
+<sent type="main" lang="chi" page="06b-07a" n="2">詩云 穆穆文王이여</sent>
+<sent type="main" lang="kor" page="06b-07a" n="2">詩예 닐오 穆穆신 文王이여</sent><!--王^이-->
+
+<sent type="main" lang="chi" page="07a" n="1">於緝熙敬止라 니</sent>
+<sent type="main" lang="kor" page="07a" n="1">於홉다 니워 熙야 敬고 止시다 니</sent>
+<sent type="main" lang="chi" page="07a" n="2">為人君얀 止於仁시고</sent>
+<sent type="main" lang="kor" page="07a" n="2">人君이 되얀 仁의 止시고</sent>
+<sent type="main" lang="chi" page="07a" n="3">為人臣얀 止於敬시고</sent>
+<sent type="main" lang="kor" page="07a" n="3">人臣이 되얀 敬의 止시고</sent>
+<sent type="main" lang="chi" page="07a" n="4">為人子얀 止於孝시고</sent>
+<sent type="main" lang="kor" page="07a" n="4">人子ᅵ 되얀 孝의 止시고</sent>
+<sent type="main" lang="chi" page="07a" n="5">為人父얀 止於慈시고</sent>
+<sent type="main" lang="kor" page="07a" n="5">人父ᅵ 되얀 慈의 止시고</sent>
+<sent type="main" lang="chi" page="07a" n="6">與國人交앤 止於信이러시다</sent>
+<sent type="main" lang="kor" page="07a" n="6">國人과 더브러 交호매 信에 止더시다</sent>
+
+<sent type="main" lang="chi" page="08a" n="1">詩云 瞻彼淇澳혼</sent>
+<sent type="main" lang="kor" page="08a" n="1">詩예 닐오 뎌 淇澳을 본</sent>
+<sent type="main" lang="chi" page="08a" n="2">菉竹猗猗로다</sent>
+<sent type="main" lang="kor" page="08a" n="2">菉 竹이 猗猗도다</sent>
+<sent type="main" lang="chi" page="08a" n="3">有斐君子ᅵ여</sent>
+<sent type="main" lang="kor" page="08a" n="3">斐 君子ᅵ여</sent>
+<sent type="main" lang="chi" page="08a" n="4">如切如磋며 如琢如磨ᅵ로다</sent>
+<sent type="main" lang="kor" page="08a" n="4">切 며 磋 며 琢 며 磨 도다</sent>
+<sent type="main" lang="chi" page="08a" n="5">瑟兮僩兮며 赫兮喧兮라</sent>
+<sent type="main" lang="kor" page="08a" n="5">瑟며 僩며 赫며 喧디라</sent>
+<sent type="main" lang="chi" page="08a" n="6">有斐君子ᅵ여</sent>
+<sent type="main" lang="kor" page="08a" n="6">斐 君子ᅵ여</sent>
+<sent type="main" lang="chi" page="08a" n="7">終不可諠兮로다 니</sent>
+<sent type="main" lang="kor" page="08a" n="7">내 可히 닛디 몯리로다 니</sent>
+<sent type="main" lang="chi" page="08a" n="8">如切如磋者 道學也ᅵ오</sent>
+<sent type="main" lang="kor" page="08a" n="8">切 磋 호 學을 닐오미오</sent>
+<sent type="main" lang="chi" page="08a" n="9">如琢如磨者 自脩也ᅵ오</sent>
+<sent type="main" lang="kor" page="08a" n="9">琢 磨 호 스스로 脩호미오</sent>
+<sent type="main" lang="chi" page="08a" n="10">瑟兮僩兮者 恂慄也ᅵ오</sent>
+<sent type="main" lang="kor" page="08a" n="10">瑟며 僩호 恂慄호미오</sent>
+<sent type="main" lang="chi" page="08a" n="11">赫兮喧兮者 威儀也ᅵ오</sent>
+<sent type="main" lang="kor" page="08a" n="11">赫며 喧호믄 威儀오</sent>
+<sent type="main" lang="chi" page="08a-08b" n="12">有斐君子終不可諠兮者 道盛德至善을 民之不能忘也ᅵ니라</sent>
+<sent type="main" lang="kor" page="08a-08b" n="12">斐 君子 내 可히 닛디 몯호믄 盛 德과 지극 善을 民이 能히 닛디 몯호 니니라</sent><!-- ^ 君-->
+
+<sent type="main" lang="chi" page="08b" n="1">詩云 於戲前王不忘이라 나</sent>
+<sent type="main" lang="kor" page="08b" n="1">詩예 닐오 於戱ᅵ라 前王을 닛디 몯리로다 니</sent>
+<sent type="main" lang="chi" page="08b-09a" n="2">君子 賢其賢而親其親고</sent>
+<sent type="main" lang="kor" page="08b-09a" n="2">君子 그 賢샤 賢히 너기며 그 親샤 親히 너기시고</sent><!--그 ^ 賢-->
+
+<sent type="main" lang="chi" page="09a" n="1">小人은 樂其樂而利其利라</sent>
+<sent type="main" lang="kor" page="09a" n="1">小人은 그 樂게 샤 樂히 너기며 그 利케 샤 利히 너기디라</sent>
+<sent type="main" lang="chi" page="09a" n="2">此以沒世不忘也ᅵ니라</sent>
+<sent type="main" lang="kor" page="09a" n="2">이  世沒호 닛디 몯호미니라</sent>
+<sent type="title2" lang="chi" page="09a" n="3">右傳之三章</sent>
+
+<sent type="main" lang="chi" page="09b" n="1">子曰 聽訟이 吾猶人也ᅵ나</sent>
+<sent type="main" lang="kor" page="09b" n="1">子ᅵ 샤 訟을 聽기 내 人 나</sent>
+<sent type="main" lang="chi" page="09b" n="2">必也使無訟乎뎌 시니</sent>
+<sent type="main" lang="kor" page="09b" n="2">반시 여곰 訟을 업게 딘뎌 시니</sent>
+<sent type="main" lang="chi" page="09b" n="3">無情者ᅵ 不得盡其辭 大畏民志니</sent>
+<sent type="main" lang="kor" page="09b" n="3">情 업슨 者ᅵ 시러곰 그 辭 盡티 몯호 크게 民의 志를 畏케 호미니</sent>
+<sent type="main" lang="chi" page="09b" n="4">此謂知本이니라</sent>
+<sent type="main" lang="kor" page="09b" n="4">이 닐온 本을 알오미니라</sent>
+<sent type="title2" lang="chi" page="09b" n="5">右傳之四章</sent>
+<sent type="main" lang="chi" page="09b" n="6">此謂知本</sent><!--구결도 없고 언해문도 없음-->
+
+<sent type="main" lang="chi" page="10a" n="1">此謂知之至也ᅵ니라</sent>
+<sent type="main" lang="kor" page="10a" n="1">이 닐온 知의 至호미니라</sent>
+<sent type="title2" lang="chi" page="10a" n="2">右傳之五章</sent>
+
+<sent type="main2" lang="chi" page="10b" n="1">間嘗竊取程子之意以補之니</sent><!--상단에 “此章栗谷先生吐釋缺”이라고 적혀 있음-->
+<sent type="main2" lang="kor" page="10b" n="1">근간의 일즉 程子 을 竊取야  補니</sent>
+<sent type="main2" lang="chi" page="10b" n="2">曰所謂致知在格物者</sent>
+<sent type="main2" lang="kor" page="10b" n="2">오 닐온 밧 知 致호미 物을 格호매 잇다 홈은</sent>
+<sent type="main2" lang="chi" page="10b-11a" n="3">言欲至吾之知댄 在即物而窮其理也ᅵ라</sent>
+<sent type="main2" lang="kor" page="10b-11a" n="3">내 知 致코져 진댄 物에 卽야 그 理를 窮호매 이숌을 니르미라</sent><!--窮^호-->
+
+<sent type="main2" lang="chi" page="11a" n="1">蓋人心之靈이 莫不有知오</sent>
+<sent type="main2" lang="kor" page="11a" n="1">人心의 靈이 知ᅵ 잇지 아닌 이 업고</sent>
+<sent type="main2" lang="chi" page="11a" n="2">而天下之物이 莫不有理니</sent>
+<sent type="main2" lang="kor" page="11a" n="2">天下앳 物이 理ᅵ 잇지 아닌 이 업니</sent>
+<sent type="main2" lang="chi" page="11a" n="3">惟於理有未窮이라</sent>
+<sent type="main2" lang="kor" page="11a" n="3">오직 理예 窮치 못호미 잇지라</sent>
+<sent type="main2" lang="chi" page="11a" n="4">故其知有未盡也ᅵ니</sent>
+<sent type="main2" lang="kor" page="11a" n="4">故로 그 知ᅵ 盡치 못호미 잇니</sent>
+<sent type="main2" lang="chi" page="11a" n="5">是以大學始教애</sent>
+<sent type="main2" lang="kor" page="11a" n="5">일로  大學 비로소 치매</sent>
+<sent type="main2" lang="chi" page="11a" n="6">必使學者로 即凡天下之物야</sent>
+<sent type="main2" lang="kor" page="11a" n="6">반시 學者로 여곰 믈읫 天下의 物의 卽야</sent>
+<sent type="main2" lang="chi" page="11a" n="7">莫不因其已知之理야 而益窮之야</sent>
+<sent type="main2" lang="kor" page="11a" n="7">그 임의 아 理 因야 더욱 窮야</sent>
+<sent type="main2" lang="chi" page="11a" n="8">以求至乎其極니</sent>
+<sent type="main2" lang="kor" page="11a" n="8"> 그 極애 至홈을 求티 아님이 업게 니</sent>
+<sent type="main2" lang="chi" page="11a" n="9">至於用力之久야</sent>
+<sent type="main2" lang="kor" page="11a" n="9">力을 씀이 오라</sent>
+<sent type="main2" lang="chi" page="11a-11b" n="10">而一旦豁然貫通焉면</sent>
+<sent type="main2" lang="kor" page="11a-11b" n="10">一旦애 豁然히 貫通호매 니면</sent><!--貫^通-->
+
+<sent type="main2" lang="chi" page="11b" n="1">則衆物之表裡精粗ᅵ 無不到ᅵ오</sent>
+<sent type="main2" lang="kor" page="11b" n="1">衆物의 表裏와 精粗ᅵ 到티 아님이 업고</sent>
+<sent type="main2" lang="chi" page="11b" n="2">而吾心之全體大用이 無不明矣리니</sent>
+<sent type="main2" lang="kor" page="11b" n="2">吾心의 全體와 大用이 明치 아님이 업리니</sent>
+<sent type="main2" lang="chi" page="11b" n="3">此謂物格이며</sent>
+<sent type="main2" lang="kor" page="11b" n="3">이 닐온 物이 格호미며</sent>
+<sent type="main2" lang="chi" page="11b" n="4">此謂知之至也ᅵ니라</sent>
+<sent type="main2" lang="kor" page="11b" n="4">이 닐온 知의 至호미니라</sent>
+<sent type="anno" lang="chi" page="11b" n="5">元本所缺而追補者不可與元本並例故不係諺書於逐字之下以別之覧者詳之</sent><!--영인본상 10b에 나타남-->
+
+<sent type="main" lang="chi" page="12a" n="1">所謂誠其意者 毋自欺也ᅵ니</sent>
+<sent type="main" lang="kor" page="12a" n="1">닐온 밧 그 意 誠다 호 스스로 欺디 마로미니</sent>
+<sent type="main" lang="chi" page="12a" n="2">如惡惡臭고 如好好色이 此之謂自謙이니</sent>
+<sent type="main" lang="kor" page="12a" n="2">惡臭를 惡 고 好色을 好 호미 이 닐온 스스로 謙호미니</sent>
+<sent type="main" lang="chi" page="12a" n="3">故君子 必慎其獨也ᅵ니라</sent>
+<sent type="main" lang="kor" page="12a" n="3">故로 君子 반시 獨애 愼디니라</sent>
+
+<sent type="main" lang="chi" page="12b" n="1">小人閒居애 為不善호</sent>
+<sent type="main" lang="kor" page="12b" n="1">小人이 閒居호매 不善을 호</sent>
+<sent type="main" lang="chi" page="12b" n="2">無所不至라가</sent>
+<sent type="main" lang="kor" page="12b" n="2">니디 아닐 배 업시 다가</sent>
+<sent type="main" lang="chi" page="12b" n="3">見君子而后厭然揜其不善고</sent>
+<sent type="main" lang="kor" page="12b" n="3">君子를 본 후 제 厭然히 그 不善을 揜고</sent>
+<sent type="main" lang="chi" page="12b" n="4">而著其善니</sent>
+<sent type="main" lang="kor" page="12b" n="4">그 善을 著니</sent>
+<sent type="main" lang="chi" page="12b" n="5">人之視己ᅵ 如見其肺肝然이니</sent>
+<sent type="main" lang="kor" page="12b" n="5">人의 己ᅵ 보기 그 肺肝을 봄티 논디니</sent>
+<sent type="main" lang="chi" page="12b" n="6">則何益矣리오</sent>
+<sent type="main" lang="kor" page="12b" n="6">엇디 益리오</sent>
+<sent type="main" lang="chi" page="12b" n="7">此謂誠於中이면 形於外니</sent>
+<sent type="main" lang="kor" page="12b" n="7">이 닐온 中에 誠면 外예 形호미니</sent>
+<sent type="main" lang="chi" page="12b-13a" n="8">故君子 必慎其獨也ᅵ니라</sent>
+<sent type="main" lang="kor" page="12b-13a" n="8">故로 君子 반시 그 獨애 愼디니라</sent><!--君^子-->
+
+<sent type="main" lang="chi" page="13a" n="1">曾子曰 十目所視며 十手所指니</sent>
+<sent type="main" lang="kor" page="13a" n="1">曾子ᅵ 샤</sent>
+<sent type="main" lang="chi" page="13a" n="2">其嚴乎뎌 시니라</sent>
+<sent type="main" lang="kor" page="13a" n="2">그 嚴뎌 시니라</sent>
+<sent type="main" lang="chi" page="13a" n="3">富潤屋이오</sent>
+<sent type="main" lang="kor" page="13a" n="3">富 屋을 潤케 고</sent>
+<sent type="main" lang="chi" page="13a-13b" n="4">德潤身이라</sent>
+<sent type="main" lang="kor" page="13a-13b" n="4">德은 身을 潤케 디라</sent><!--身^을-->
+
+<sent type="main" lang="chi" page="13b" n="1">心廣體胖니</sent>
+<sent type="main" lang="kor" page="13b" n="1">心이 廣며 體ᅵ 胖니</sent>
+<sent type="main" lang="chi" page="13b" n="2">故君子 必誠其意니라</sent>
+<sent type="main" lang="kor" page="13b" n="2">故로 君子 반시 그 意를 誠디니라</sent>
+<sent type="title2" lang="chi" page="13b" n="3">右傳之六章</sent>
+
+<sent type="main" lang="chi" page="14a" n="1">所謂脩身이 在正其心者</sent>
+<sent type="main" lang="kor" page="14a" n="1">닐온 밧 身을 修기 그 心을 正호매 잇다 호</sent>
+<sent type="main" lang="chi" page="14a" n="2">身有所忿懥면 則不得其正며</sent>
+<sent type="main" lang="kor" page="14a" n="2">心의 忿懥 바를 두면 그 正을 得디 몯며</sent><!--영인본상 ‘몯며’가 ‘몬며’와 같이 나타나나 탈획자로 판단하여 수정하여 입력함-->
+<sent type="main" lang="chi" page="14a" n="3">有所恐懼면 則不得其正며</sent>
+<sent type="main" lang="kor" page="14a" n="3">恐懼 바를 두면 그 正을 得디 몯며</sent>
+<sent type="main" lang="chi" page="14a" n="4">有所好樂면 則不得其正며</sent>
+<sent type="main" lang="kor" page="14a" n="4">好樂 바를 두면 그 正을 得디 몯며</sent>
+<sent type="main" lang="chi" page="14a" n="5">有所憂患면 則不得其正이니라</sent>
+<sent type="main" lang="kor" page="14a" n="5">憂患 바를 두면 그 正을 得디 몯디니라</sent>
+<sent type="anno" lang="chi" page="14a" n="6">身有之身當作心</sent>
+<sent type="main" lang="chi" page="14a" n="7">心不在焉이면</sent>
+<sent type="main" lang="kor" page="14a" n="7">心이 잇디 아니면</sent>
+<sent type="main" lang="chi" page="14a" n="8">視而不見며</sent>
+<sent type="main" lang="kor" page="14a" n="8">視야도 見티 몯며</sent>
+<sent type="main" lang="chi" page="14a" n="9">聽而不聞며</sent>
+<sent type="main" lang="kor" page="14a" n="9">聽야도 聞티 몯며</sent>
+<sent type="main" lang="chi" page="14a" n="10">食而不知其味니라</sent>
+<sent type="main" lang="kor" page="14a" n="10">食야도 그 마 아디 몯니라</sent>
+<sent type="main" lang="chi" page="14a" n="11">此謂脩身이 在正其心이니라</sent>
+<sent type="main" lang="kor" page="14a" n="11">이 닐온 身을 修기 그 心을 正호매 이쇼미니라</sent>
+<sent type="title2" lang="chi" page="14a" n="12">右傳之七章</sent>
+
+<sent type="main" lang="chi" page="15a" n="1">所謂齊其家ᅵ 在脩其身者</sent>
+<sent type="main" lang="kor" page="15a" n="1">닐온 밧 그 家를 齊기 그 身을 修호매 잇다 호</sent>
+<sent type="main" lang="chi" page="15a-15b" n="2">人이 之其所親愛而辟焉며</sent>
+<sent type="main" lang="kor" page="15a-15b" n="2">人이 그 親愛 바의 辟며</sent><!--^-->
+
+<sent type="main" lang="chi" page="15b" n="1">之其所賤惡而辟焉며</sent>
+<sent type="main" lang="kor" page="15b" n="1">그 賤惡 바의 辟며</sent>
+<sent type="main" lang="chi" page="15b" n="2">之其所畏敬而辟焉며</sent>
+<sent type="main" lang="kor" page="15b" n="2">그 畏敬 바의 辟며</sent>
+<sent type="main" lang="chi" page="15b" n="3">之其所哀矜而辟焉며</sent>
+<sent type="main" lang="kor" page="15b" n="3">그 哀矜 바의 辟며</sent>
+<sent type="main" lang="chi" page="15b" n="4">之其所敖惰而辟焉니</sent>
+<sent type="main" lang="kor" page="15b" n="4">그 敖惰 바의 辟니</sent>
+<sent type="main" lang="chi" page="15b" n="5">故好而知其惡며 惡而知其美者ᅵ 天下鮮矣니라</sent>
+<sent type="main" lang="kor" page="15b" n="5">故로 好코 그 惡을 알며 惡코 그 美를 알 者ᅵ 天下의 鮮니라</sent>
+<sent type="main" lang="chi" page="15b" n="6">故諺有之니</sent>
+<sent type="main" lang="kor" page="15b" n="6">故로 諺에 이시니</sent>
+<sent type="main" lang="chi" page="15b-16a" n="7">曰 人莫知其子之惡며</sent>
+<sent type="main" lang="kor" page="15b-16a" n="7">오 人이 그 子의 惡을 아디 몯며</sent><!--그 ^ 子-->
+
+<sent type="main" lang="chi" page="16a" n="1">莫知其苗之碩이라 니라</sent>
+<sent type="main" lang="kor" page="16a" n="1">그 苗의 碩호 아디 몯다 니라</sent>
+<sent type="main" lang="chi" page="16a" n="2">此謂身不脩ᅵ면</sent>
+<sent type="main" lang="kor" page="16a" n="2">이 닐온 身이 修티 몯면</sent>
+<sent type="main" lang="chi" page="16a" n="3">不可以齊其家ᅵ니라</sent>
+<sent type="main" lang="kor" page="16a" n="3">可히  그 家를 齊티 몯호미니라</sent>
+<sent type="title2" lang="chi" page="16a" n="4">右傳之八章</sent>
+
+<sent type="main" lang="chi" page="16b" n="1">所謂治國이 必先齊其家者</sent>
+<sent type="main" lang="kor" page="16b" n="1">닐온 밧 國을 治기 반시 몬져 그 家를 齊다 호</sent>
+<sent type="main" lang="chi" page="16b" n="2">其家不可教ᅵ오 而能教人者ᅵ 無之라</sent>
+<sent type="main" lang="kor" page="16b" n="2">그 家를 可히 敎티 몯고 能히 人을 敎 者ᅵ 업슨디라</sent>
+<sent type="main" lang="chi" page="16b" n="3">故君子 不出家而成教於國니</sent>
+<sent type="main" lang="kor" page="16b" n="3">故로 君子 家의 나디 아녀 國애 敎를 일우니</sent>
+<sent type="main" lang="chi" page="16b-17a" n="4">孝者 所以事君也ᅵ오</sent>
+<sent type="main" lang="kor" page="16b-17a" n="4">孝  君을 事 배오</sent><!--孝^-->
+
+<sent type="main" lang="chi" page="17a" n="1">弟者 所以事長也ᅵ오</sent>
+<sent type="main" lang="kor" page="17a" n="1">弟  長을 事 배오</sent>
+<sent type="main" lang="chi" page="17a" n="2">慈者 所以使衆也ᅵ니라</sent>
+<sent type="main" lang="kor" page="17a" n="2">慈  衆을 事 배니라</sent>
+<sent type="main" lang="chi" page="17a" n="3">康誥曰 如保赤子ᅵ라 니</sent>
+<sent type="main" lang="kor" page="17a" n="3">康誥의 오 赤子를 保 라 니</sent>
+<sent type="main" lang="chi" page="17a" n="4">心誠求之면 雖不中이나 不遠矣니</sent>
+<sent type="main" lang="kor" page="17a" n="4">心의 誠으로 求면 비록 中티 몯나 遠티 아닛니</sent>
+<sent type="main" lang="chi" page="17a-17b" n="5">未有學養子而后嫁者也ᅵ니라</sent>
+<sent type="main" lang="kor" page="17a-17b" n="5">子養키를 學 后애 嫁 者ᅵ 잇디 아니니라</sent><!--子^養-->
+
+<sent type="main" lang="chi" page="17b" n="1">一家仁이면 一國興仁며</sent>
+<sent type="main" lang="kor" page="17b" n="1">一家ᅵ 仁면 一國이 仁을 興며</sent>
+<sent type="main" lang="chi" page="17b" n="2">一家讓이면 一國興讓고</sent>
+<sent type="main" lang="kor" page="17b" n="2">一家ᅵ 讓면 一國이 讓을 興고</sent>
+<sent type="main" lang="chi" page="17b-18a" n="3">一人貪戾ᅵ면 一國作亂니</sent>
+<sent type="main" lang="kor" page="17b-18a" n="3">一人이 貪코 戾면 一國이 亂을 作니</sent><!--貪^코-->
+
+<sent type="main" lang="chi" page="18a" n="1">其機如此니</sent>
+<sent type="main" lang="kor" page="18a" n="1">그 機ᅵ 이 니</sent>
+<sent type="main" lang="chi" page="18a" n="2">此謂一言僨事ᅵ며 一人定國이니라</sent>
+<sent type="main" lang="kor" page="18a" n="2">이 닐온 一言이 事를 僨며 一人이 國을 定호미니라</sent>
+
+<sent type="main" lang="chi" page="18b" n="1">堯舜이 帥天下以仁신대 而民從之며</sent>
+<sent type="main" lang="kor" page="18b" n="1">堯舜이 天下를 仁으로  帥신대 民이 從며</sent>
+<sent type="main" lang="chi" page="18b" n="2">桀紂ᅵ 帥天下以暴대 而民從之니</sent>
+<sent type="main" lang="kor" page="18b" n="2">桀紏ᅵ 天下를 暴로  帥대 民이 從니</sent>
+<sent type="main" lang="chi" page="18b" n="3">其所令이 反其所好ᅵ면 而民不從이라</sent>
+<sent type="main" lang="kor" page="18b" n="3">그 令 배 그 好 바의 反면 民이 從티 아닛디라</sent>
+<sent type="main" lang="chi" page="18b-19a" n="4">是故君子 有諸己而後求諸人며</sent>
+<sent type="main" lang="kor" page="18b-19a" n="4">이런 故로 君子 己예 둔 後 제 人의게 求며</sent><!--後 ^ 제-->
+
+<sent type="main" lang="chi" page="19a" n="1">無諸己而後非諸人니</sent>
+<sent type="main" lang="kor" page="19a" n="1">己예 업슨 後 제 人의게 외다 니</sent>
+<sent type="main" lang="chi" page="19a" n="2">所藏乎身이 不怒ᅵ오</sent>
+<sent type="main" lang="kor" page="19a" n="2">身의 藏 배 恕ᅵ 아니오</sent>
+<sent type="main" lang="chi" page="19a" n="3">而能喻諸人者ᅵ 未之有也ᅵ니라</sent>
+<sent type="main" lang="kor" page="19a" n="3">能히 人을 喩 者ᅵ 잇디 아니니라</sent>
+<sent type="main" lang="chi" page="19a" n="4">故治國이 在齊其家ᅵ니라</sent>
+<sent type="main" lang="kor" page="19a" n="4">故로 國을 治기 그 家를 齊호매 잇니라</sent>
+
+<sent type="main" lang="chi" page="19b" n="1">詩云 桃之夭夭ᅵ여 其葉蓁蓁이로다</sent>
+<sent type="main" lang="kor" page="19b" n="1">詩예 닐오 桃의 夭夭호미여 그 니피 秦秦도다</sent>
+<sent type="main" lang="chi" page="19b" n="2">之子于歸여 宜其家人이라 니</sent>
+<sent type="main" lang="kor" page="19b" n="2">之子의 歸호미여</sent>
+<sent type="main" lang="chi" page="19b" n="3">宜其家人而后可以教國人이니라</sent>
+<sent type="main" lang="kor" page="19b" n="3">그 家人을 宜케  后 제 可히  國人을 敎디니라</sent>
+<sent type="main" lang="chi" page="19b-20a" n="4">詩云 宜兄宜弟라 니</sent>
+<sent type="main" lang="kor" page="19b-20a" n="4">詩예 닐오 兄을 宜케 며 弟를 宜케 다 니</sent><!--弟^를-->
+
+<sent type="main" lang="chi" page="20a" n="1">宜兄宜弟而后可以教國人이니라</sent>
+<sent type="main" lang="kor" page="20a" n="1">兄을 宜케 며 弟 宜케  后 제 可히  國人을 敎디니라</sent>
+<sent type="main" lang="chi" page="20a" n="2">詩云 其儀不忒이라</sent>
+<sent type="main" lang="kor" page="20a" n="2">詩예 닐오 그 儀ᅵ 忒디 아닌디라</sent>
+<sent type="main" lang="chi" page="20a" n="3">正是四國이라 니</sent>
+<sent type="main" lang="kor" page="20a" n="3">이 四國을 正다 니</sent>
+<sent type="main" lang="chi" page="20a-20b" n="4">其為父子兄弟足法而后民法之也ᅵ니라</sent>
+<sent type="main" lang="kor" page="20a-20b" n="4">그 父子兄弟 되엿니 足히 法 后 제 民이 法니라</sent><!-- ^ 后-->
+
+<sent type="main" lang="chi" page="20b" n="1">此謂治國이 在齊其家ᅵ니라</sent>
+<sent type="main" lang="kor" page="20b" n="1">이 닐온 國을 治기 그 家 齊호매 이쇼미니라</sent>
+<sent type="title2" lang="chi" page="20b" n="2">右傳之九章</sent>
+
+<sent type="main" lang="chi" page="21a" n="1">所謂平天下ᅵ 在治其國者</sent>
+<sent type="main" lang="kor" page="21a" n="1">닐온 밧 天下 平기 그 國을 治호매 잇다 호</sent>
+<sent type="main" lang="chi" page="21a" n="2">上老老而民興孝며</sent>
+<sent type="main" lang="kor" page="21a" n="2">上이 老 老호매 民이 孝 興며</sent>
+<sent type="main" lang="chi" page="21a" n="3">上長長而民興弟며</sent>
+<sent type="main" lang="kor" page="21a" n="3">上이 長을 長호매 民이 弟 興며</sent>
+<sent type="main" lang="chi" page="21a" n="4">上恤孤而民不倍니</sent>
+<sent type="main" lang="kor" page="21a" n="4">上이 孤 恤호매 民이 倍티 아니니</sent>
+<sent type="main" lang="chi" page="21a" n="5">是以君子ᅵ 有絜矩之道也ᅵ니라</sent>
+<sent type="main" lang="kor" page="21a" n="5">일로  君子ᅵ 矩로 絜 道 둣니라</sent>
+
+<sent type="main" lang="chi" page="21b" n="1">所惡於上으로 毋以使下며</sent>
+<sent type="main" lang="kor" page="21b" n="1">上의게 惡 바로  下를 使티 말며</sent>
+<sent type="main" lang="chi" page="21b" n="2">所惡於下로 毋以事上며</sent>
+<sent type="main" lang="kor" page="21b" n="2">下의게 惡 바로  上을 事티 말며</sent>
+<sent type="main" lang="chi" page="21b-22a" n="3">所惡於前으로 毋以先後며</sent>
+<sent type="main" lang="kor" page="21b-22a" n="3">前의게 惡 바로  後의 先티 말며</sent><!--로 ^ -->
+
+<sent type="main" lang="chi" page="22a" n="1">所惡於後로 毋以從前며</sent>
+<sent type="main" lang="kor" page="22a" n="1">後의게 惡 바로  前의 從티 말며</sent>
+<sent type="main" lang="chi" page="22a" n="2">所惡於右로 毋以交於左며</sent>
+<sent type="main" lang="kor" page="22a" n="2">右의게 惡 바로  左의 交티 말며</sent>
+<sent type="main" lang="chi" page="22a" n="3">所惡於左로 毋以交於右ᅵ 此之謂絜矩之道ᅵ니라</sent>
+<sent type="main" lang="kor" page="22a" n="3">左의게 惡 바로  右의 交티 마로미 이 닐온 矩로 絜 道ᅵ니라</sent>
+
+<sent type="main" lang="chi" page="22b" n="1">詩云 樂只君子ᅵ여 民之父母ᅵ라 니</sent>
+<sent type="main" lang="kor" page="22b" n="1">詩예 닐오 樂 君子ᅵ여 民의 父母ᅵ라 니</sent>
+<sent type="main" lang="chi" page="22b" n="2">民之所好를 好之고 民之所惡를 惡之ᅵ 此之謂民之父母ᅵ니라</sent>
+<sent type="main" lang="kor" page="22b" n="2">民의 好 바 好고</sent>
+
+<sent type="main" lang="chi" page="23a" n="1">詩云 節彼南山이여 維石巖巖이로다</sent>
+<sent type="main" lang="kor" page="23a" n="1">詩예 닐오 節 뎌 南山이여 石이 巖巖도다</sent>
+<sent type="main" lang="chi" page="23a" n="2">赫赫師尹이여 民具爾瞻이라 니</sent>
+<sent type="main" lang="kor" page="23a" n="2">赫赫 師尹이여 民이 다 爾를 瞻다 니</sent>
+<sent type="main" lang="chi" page="23a" n="3">有國者ᅵ 不可以不慎이니</sent>
+<sent type="main" lang="kor" page="23a" n="3">國을 둣 者ᅵ 可히  愼티 아니티 몯디니</sent>
+<sent type="main" lang="chi" page="23a" n="4">辟則為天下僇矣리라</sent>
+<sent type="main" lang="kor" page="23a" n="4">辟면 天下의 僇이 되리다</sent>
+
+<sent type="main" lang="chi" page="23b" n="1">詩云 殷之未喪師애 克配上帝러니</sent>
+<sent type="main" lang="kor" page="23b" n="1">詩예 닐오 殷의 師를 喪티 아닌 제 上帝 克히 配더니</sent>
+<sent type="main" lang="chi" page="23b" n="2">儀監于殷이어다</sent>
+<sent type="main" lang="kor" page="23b" n="2">맛당히 殷의 監디어다</sent>
+<sent type="main" lang="chi" page="23b" n="3">峻命不易라 니</sent>
+<sent type="main" lang="kor" page="23b" n="3">峻 命이 易티 아니타 니</sent>
+<sent type="main" lang="chi" page="23b" n="4">道德衆則得國고</sent>
+<sent type="main" lang="kor" page="23b" n="4">衆을 得면 國을 得고</sent>
+<sent type="main" lang="chi" page="23b" n="5">失衆則失國이니라</sent>
+<sent type="main" lang="kor" page="23b" n="5">衆을 失면 國을 失호 니니라</sent>
+
+<sent type="main" lang="chi" page="24a" n="1">是故君子 先慎乎德이니</sent>
+<sent type="main" lang="kor" page="24a" n="1">이런 故로 君子 몬져 德의 愼디니</sent>
+<sent type="main" lang="chi" page="24a" n="2">有德이면 此有人이오</sent>
+<sent type="main" lang="kor" page="24a" n="2">德을 두면 이에 人을 둘디오</sent>
+<sent type="main" lang="chi" page="24a" n="3">有人이면 此有土ᅵ오</sent>
+<sent type="main" lang="kor" page="24a" n="3">人을 두면 이에 土 둘디오</sent>
+<sent type="main" lang="chi" page="24a" n="4">有土ᅵ면 此有財오</sent>
+<sent type="main" lang="kor" page="24a" n="4">土를 두면 이에 財를 둘디오</sent>
+<sent type="main" lang="chi" page="24a" n="5">有財면 此有用이니라</sent>
+<sent type="main" lang="kor" page="24a" n="5">財를 두면 이에 用을 둘디니라</sent>
+<sent type="main" lang="chi" page="24a" n="6">德者 本也ᅵ오 財者 末也ᅵ니</sent>
+<sent type="main" lang="kor" page="24a" n="6">德은 本이오 財 末이니</sent>
+
+<sent type="main" lang="chi" page="24b" n="1">外本內末이면</sent>
+<sent type="main" lang="kor" page="24b" n="1">本을 外고 末을 內면</sent>
+<sent type="main" lang="chi" page="24b" n="2">爭民施奪이니라</sent>
+<sent type="main" lang="kor" page="24b" n="2">民을 爭케 야 奪로 施호미니라</sent>
+<sent type="main" lang="chi" page="24b" n="3">是故財聚則民散고</sent>
+<sent type="main" lang="kor" page="24b" n="3">이런 故로 財ᅵ 聚면 民이 散고</sent>
+<sent type="main" lang="chi" page="24b" n="4">財散則民聚니라</sent>
+<sent type="main" lang="kor" page="24b" n="4">財ᅵ 散면 民이 聚니라</sent>
+
+<sent type="main" lang="chi" page="25a" n="1">是故言悖而出者ᅵ 亦悖而入며</sent>
+<sent type="main" lang="kor" page="25a" n="1">이런 故로 言이 悖야 出 者ᅵ  悖야 入며</sent>
+<sent type="main" lang="chi" page="25a" n="2">貨悖而入者ᅵ 亦悖而出이니라</sent>
+<sent type="main" lang="kor" page="25a" n="2">貨ᅵ 悖야 入 者ᅵ  悖야 出니라</sent>
+<sent type="main" lang="chi" page="25a" n="3">康誥曰 惟命不于常이라 니</sent>
+<sent type="main" lang="kor" page="25a" n="3">康誥의 오 오직 命은 常티 아니타 니</sent>
+<sent type="main" lang="chi" page="25a" n="4">道善則得之고</sent>
+<sent type="main" lang="kor" page="25a" n="4">善면 得고</sent>
+<sent type="main" lang="chi" page="25a-25b" n="5">不善則失之矣니라</sent>
+<sent type="main" lang="kor" page="25a-25b" n="5">善티 몯면 失호 니니라</sent><!--티 ^ 몯-->
+
+<sent type="main" lang="chi" page="25b" n="1">楚書曰 楚國은 無以為寶ᅵ오</sent>
+<sent type="main" lang="kor" page="25b" n="1">楚書의 오 楚ᄉ나라  寶 사 거시 업고</sent>
+<sent type="main" lang="chi" page="25b" n="2">惟善以為寶ᅵ라 니라</sent>
+<sent type="main" lang="kor" page="25b" n="2">오직 善으로  寶를 삼다 니라</sent>
+<sent type="main" lang="chi" page="25b" n="3">舅犯曰 亡人은 無以為寶ᅵ오</sent>
+<sent type="main" lang="kor" page="25b" n="3">舅犯이 오 亡人은  寶 사 거시 업고</sent>
+<sent type="main" lang="chi" page="25b-26a" n="4">仁親以為寶ᅵ라 니라</sent>
+<sent type="main" lang="kor" page="25b-26a" n="4">親을 仁호로  寶 사디라 니라</sent><!--寶^-->
+
+<sent type="main" lang="chi" page="26b" n="1">秦誓曰 若有一個臣이 斷斷兮無他技나</sent>
+<sent type="main" lang="kor" page="26b" n="1">秦誓의 오 만일 一介 臣이 斷斷코 다 죄 업스나</sent>
+<sent type="main" lang="chi" page="26b" n="2">其心이 休休焉其如有容焉이라</sent>
+<sent type="main" lang="kor" page="26b" n="2">그 음이 休休호미 그 容호미 잇  디라</sent>
+<sent type="main" lang="chi" page="26b" n="3">人之有技 若己有之며</sent>
+<sent type="main" lang="kor" page="26b" n="3">人의 技 두 己 둠티 너기며</sent>
+<sent type="main" lang="chi" page="26b-27a" n="4">人之彥聖을 其心好之ᅵ 不啻若自其口出이면</sent>
+<sent type="main" lang="kor" page="26b-27a" n="4">人의 彦과 聖을 그 음의 好호미 그 口로브터 남티 너길  아니면</sent><!--好^호-->
+
+<sent type="main" lang="chi" page="27a" n="1">寔能容之라</sent>
+<sent type="main" lang="kor" page="27a" n="1">진실로 能히 容디라</sent>
+<sent type="main" lang="chi" page="27a" n="2">以能保我子孫黎民이니</sent>
+<sent type="main" lang="kor" page="27a" n="2"> 能히 우리 子孫이며 黎民을 保디니</sent>
+<sent type="main" lang="chi" page="27a" n="3">尚亦有利哉뎌</sent>
+<sent type="main" lang="kor" page="27a" n="3">거의  利 이시린뎌</sent>
+<sent type="main" lang="chi" page="27a" n="4">人之有技 娼疾以惡之며</sent>
+<sent type="main" lang="kor" page="27a" n="4">人의 技 두 媢疾야  惡며</sent>
+<sent type="main" lang="chi" page="27a" n="5">人之彥聖을 而違之야 俾不通이면</sent>
+<sent type="main" lang="kor" page="27a" n="5">人의 彦과 聖을 違야 여곰 通티 몯게 면</sent>
+<sent type="main" lang="chi" page="27a" n="6">寔不能容이라</sent>
+<sent type="main" lang="kor" page="27a" n="6">진실로 能히 容티 몯디라</sent>
+<sent type="main" lang="chi" page="27a" n="7">以不能保我子孫黎民이니</sent>
+<sent type="main" lang="kor" page="27a" n="7"> 能히 우리 子孫이며 黎民을 保티 몯디니</sent>
+<sent type="main" lang="chi" page="27a" n="8">亦曰殆哉뎌 니라</sent>
+<sent type="main" lang="kor" page="27a" n="8"> 온 殆뎌 니라</sent>
+
+<sent type="main" lang="chi" page="27b" n="1">唯仁人이아 放流之야 迸諸四夷야</sent>
+<sent type="main" lang="kor" page="27b" n="1">오직 仁人이아 放流야 四夷예 迸야</sent>
+<sent type="main" lang="chi" page="27b" n="2">不與同中國니</sent>
+<sent type="main" lang="kor" page="27b" n="2">더브러 中國을 同티 아니니</sent>
+<sent type="main" lang="chi" page="27b" n="3">此謂唯仁人이아</sent>
+<sent type="main" lang="kor" page="27b" n="3">이 닐온 오직 仁人이아</sent>
+<sent type="main" lang="chi" page="27b" n="4">為能愛人며 能惡人이니라</sent>
+<sent type="main" lang="kor" page="27b" n="4">能히 人을 愛며 能히 人을 惡호미니라</sent>
+
+<sent type="main" lang="chi" page="28a" n="1">見賢而不能舉며 舉而不能先이 命也ᅵ오</sent>
+<sent type="main" lang="kor" page="28a" n="1">賢을 보고 能히 擧티 몯며 擧호 能히 先티 몯호미 慢호미오</sent>
+<sent type="main" lang="chi" page="28a" n="2">見不善而不能退며 退而不能遠이 過也ᅵ니라</sent>
+<sent type="main" lang="kor" page="28a" n="2">不善을 보고 能히 退티 몯며 退호 能히 遠티 몯호미 過ᅵ니라</sent>
+<sent type="anno" lang="chi" page="28a" n="3">命當作慢</sent>
+
+<sent type="main" lang="chi" page="28b" n="1">好人之所惡고 惡人之所好ᅵ 是謂拂人之性이라</sent>
+<sent type="main" lang="kor" page="28b" n="1">人의 惡 바 好고 人의 好 바 惡호미 이 닐온 人의 性을 拂호미라</sent>
+<sent type="main" lang="chi" page="28b" n="2">菑必逮夫身이니라</sent>
+<sent type="main" lang="kor" page="28b" n="2">菑 반시 身의 미츨디니라</sent><!--영인본상 ‘미츨디니라’의 ‘미’는 ''를 수정한 것으로도 보임-->
+<sent type="main" lang="chi" page="28b" n="3">是故君子ᅵ 有大道니</sent>
+<sent type="main" lang="kor" page="28b" n="3">이런 故로 君子ᅵ 큰 道ᅵ 이시니</sent>
+<sent type="main" lang="chi" page="28b" n="4">必忠信以得之고</sent>
+<sent type="main" lang="kor" page="28b" n="4">반시 忠信야  得고</sent>
+<sent type="main" lang="chi" page="28b-29a" n="5">驕泰以失之니라</sent>
+<sent type="main" lang="kor" page="28b-29a" n="5">驕泰야  失디니라</sent><!--驕^泰-->
+
+<sent type="main" lang="chi" page="29a" n="1">生財有大道니</sent>
+<sent type="main" lang="kor" page="29a" n="1">財를 生기 큰 道ᅵ 이시니</sent>
+<sent type="main" lang="chi" page="29a" n="2">生之者衆고</sent>
+<sent type="main" lang="kor" page="29a" n="2">生 者ᅵ 衆고</sent>
+<sent type="main" lang="chi" page="29a" n="3">食之者寡며</sent>
+<sent type="main" lang="kor" page="29a" n="3">食 者ᅵ 寡며</sent>
+<sent type="main" lang="chi" page="29a" n="4">為之者疾고</sent>
+<sent type="main" lang="kor" page="29a" n="4">爲 者ᅵ 疾고</sent>
+<sent type="main" lang="chi" page="29a" n="5">用之者舒면</sent>
+<sent type="main" lang="kor" page="29a" n="5">用 者ᅵ 舒면</sent>
+<sent type="main" lang="chi" page="29a" n="6">則財恒足矣리라</sent>
+<sent type="main" lang="kor" page="29a" n="6">財ᅵ 샹 足리라</sent>
+
+<sent type="main" lang="chi" page="29b" n="1">仁者 以財發身고</sent>
+<sent type="main" lang="kor" page="29b" n="1">仁 者 財로  身을 發고</sent>
+<sent type="main" lang="chi" page="29b" n="2">不仁者 以身發財니라</sent>
+<sent type="main" lang="kor" page="29b" n="2">仁티 아닌 者 身으로  財 發니라</sent>
+<sent type="main" lang="chi" page="29b-30a" n="3">未有上好仁而下不好義者也ᅵ니</sent>
+<sent type="main" lang="kor" page="29b-30a" n="3">上이 仁을 好코 下ᅵ 義를 好티 아닐 者ᅵ 잇디 아니니</sent><!--好^티-->
+
+<sent type="main" lang="chi" page="30a" n="1">未有好義오 其事不終者也ᅵ며</sent>
+<sent type="main" lang="kor" page="30a" n="1">義 好코 그 事ᅵ 終티 몯 者ᅵ 잇디 아니며</sent>
+<sent type="main" lang="chi" page="30a" n="2">未有府庫財ᅵ 非其財者也ᅵ니라</sent>
+<sent type="main" lang="kor" page="30a" n="2">府庫의 財ᅵ 그 財ᅵ 아닌 者ᅵ 잇디 아니니라</sent>
+
+<sent type="main" lang="chi" page="30b" n="1">孟獻子曰 畜馬乘은 不察於雞豚고</sent>
+<sent type="main" lang="kor" page="30b" n="1">孟獻子ᅵ 오 馬乘을 畜니 雞와 豚의 察티 아니고</sent>
+<sent type="main" lang="chi" page="30b" n="2">伐冰之家 不畜牛羊고</sent>
+<sent type="main" lang="kor" page="30b" n="2">冰을 伐 家 牛羊을 畜디 아니고</sent>
+<sent type="main" lang="chi" page="30b" n="3">百乘之家 不畜聚歛之臣이니</sent>
+<sent type="main" lang="kor" page="30b" n="3">百乘의 家 聚斂 臣을 畜디 아니디니</sent>
+<sent type="main" lang="chi" page="30b" n="4">與其有聚歛之臣으론 寧有盜臣이라 니</sent>
+<sent type="main" lang="kor" page="30b" n="4">다 그 聚斂 臣을 두모론 히 盜 臣을 둘 거시라 니</sent>
+<sent type="main" lang="chi" page="30b-31a" n="5">此謂國不以利為利ᅵ오 以義為利也ᅵ니라</sent>
+<sent type="main" lang="kor" page="30b-31a" n="5">이 닐온 國은 利로  利 삼디 아니코 義로  利 삼오미니라</sent><!--니^코-->
+
+<sent type="main" lang="chi" page="31a-31b" n="1">長國家而務財用者 必自小人矣니</sent>
+<sent type="main" lang="kor" page="31a-31b" n="1">國家의 長야 財用을 務 者 반시 小人으로브터 니</sent><!--터 ^ -->
+
+<sent type="main" lang="chi" page="31b" n="1">彼為善之小人之使為國家ᅵ면 菑害幷至라</sent>
+<sent type="main" lang="kor" page="31b" n="1">小人을 여곰 國家 면 菑害  至디라</sent>
+<sent type="main" lang="chi" page="31b" n="2">雖有善者ᅵ라도 亦無如之何矣리니</sent>
+<sent type="main" lang="kor" page="31b" n="2">비록 善者ᅵ 이실디라도  엇디려뇨 홈도 업스리니</sent>
+<sent type="main" lang="chi" page="31b" n="3">此謂國不以利為利오 以義為利也ᅵ니라</sent>
+<sent type="main" lang="kor" page="31b" n="3">이 닐온 國은 利로  利 삼디 아니코 義로  利 사 거시라 호미니라</sent>
+<sent type="title2" lang="chi" page="31b" n="4">右傳之十章</sent>
+<sent type="title" lang="chi" page="31b" n="5">大學栗谷先生諺解</sent><!--洪啟禧 발문: 右四書諺解栗谷先生之所詳定也經書之有諺解厥惟久矣而諸家互有同異至退溪李先生合成釋義而乃定猶未大僃 萬曆丙子 宣廟因睂巖柳公希春言 命先生詳定四書五經諺解先是先生有所定大學吐釋及承 命中庸語孟以次續成而未及於經不果 進御士林恨之卽今見行官本諺解蓋出於其後而又婁經竄易先生所定或有採入而元本則不行焉惟一二謄本在先生後孫及門生家中庸則手筆惟存今攷諸編凡例不無抵捂或有有釋而無吐恐當時有未及整頓而然也然一吐一釋之閒旨義精確其於開發後學類非官本之所可及沙溪金先生平日訓誨常據此解畸翁鄭公輒稱精密歎不得廣布南溪朴文洵公略有修整欲刊行而未能頃年陶菴李先生使先生後孫鎭五倣官本浄寫一袠啓禧亦嘗與聞於讎校之事戊辰冬鎭五自石潭哭李先生於泉上仍訪余曰此書之宐傳久矣迄今未能李先生嘗惓惓於斯而今焉已矣其卒不專乎余爲之感歎謨以私力得芸館活字印若干本役旣訖略書顚末于下方云. 崇禎三己巳春後學南陽洪啟禧謹識--><!--title: 제목, title2: 장 제목 main: 본문, main2: 본문2(들여 쓴 부분), anno: 주석-->
+</doc>

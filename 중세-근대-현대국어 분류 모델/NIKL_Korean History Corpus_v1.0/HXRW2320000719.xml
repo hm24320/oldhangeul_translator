@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title>詩經諺解 卷之二十</title>
+<author>宣祖(朝鮮) 命撰</author>
+<date>1613년</date><!--內賜記: 萬曆四十一年 九月 日 內賜詩經諺解一件五臺山上 左承旨臣李(押)-->
+</titleStmt>
+<notesStmt>
+<bibl><title>詩經諺解(光海君本)</title>
+<pubPlace>서울</pubPlace>
+<publisher>홍문각</publisher>
+<date>1992</date>
+</bibl>
+</notesStmt>
+<revisionDesc>
+<date>2016/03/27</date>
+<respStmt>
+<resp>입력자</resp><name>박지용</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>박진호</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">詩經諺解 卷之二十</sent>
+<sent type="title3" lang="chi" page="01a" n="2">魯頌</sent>
+<sent type="main" lang="chi" page="01a" n="3">駉駉牡馬ᅵ 在坰之野니</sent>
+<sent type="main" lang="kor" page="01a" n="3">駉駉 牡馬ᅵ 坰野애 이시니</sent>
+<sent type="main" lang="chi" page="01a" n="4">薄言駉者ᅵ로다</sent><!--영인본상 ‘다’는 불명확함-->
+<sent type="main" lang="kor" page="01a" n="4">잠 駉디로다</sent>
+<sent type="main" lang="chi" page="01a" n="5">有驈有皇며 有驪有黃니</sent>
+<sent type="main" lang="kor" page="01a" n="5">驈이 이시며 皇이 이시며 驪 이시며 黃이 이시니</sent>
+<sent type="main" lang="chi" page="01a" n="6">以車彭彭이로다</sent>
+<sent type="main" lang="kor" page="01a" n="6">車애 以홈애 彭彭도다</sent>
+<sent type="main" lang="chi" page="01a-01b" n="7">思無彊니 思馬斯臧이로다</sent>
+<sent type="main" lang="kor" page="01a-01b" n="7">思ᅵ 彊이 업스니 馬를 思홈애 이에 臧도다</sent><!--니 ^ 馬-->
+
+<sent type="main" lang="chi" page="01b" n="1">駉駉牡馬ᅵ 在坰之野니 薄言駉者ᅵ로다</sent>
+<sent type="main" lang="kor" page="01b" n="1">駉駉 牡馬ᅵ 坰애 이시니 잠 駉디로다</sent>
+<sent type="main" lang="chi" page="01b" n="2">有騅有駓며 有騂有騏니</sent>
+<sent type="main" lang="kor" page="01b" n="2">騅ᅵ 이시며 駓 이시며 騂이 이시며 騏 이시니</sent><!--'駓 이시며'는 영인본에 ‘駓어시며’로 나타나나 오자로 판단하여 수정하여 입력함-->
+<sent type="main" lang="chi" page="01b" n="3">以車伾伾로다</sent>
+<sent type="main" lang="kor" page="01b" n="3">車애 以홈애 伾伾도다</sent>
+<sent type="main" lang="chi" page="01b" n="4">思無期니 思馬斯才로다</sent>
+<sent type="main" lang="kor" page="01b" n="4">思ᅵ 期 업스니 馬를 思홈애 이에 才도다</sent>
+
+<sent type="main" lang="chi" page="02a" n="1">駉駉牡馬ᅵ 在坰之野니 薄言駉者ᅵ로다</sent>
+<sent type="main" lang="kor" page="02a" n="1">駉駉 牡馬ᅵ 坰野애 이시니 잠 駉디로다</sent>
+<sent type="main" lang="chi" page="02a" n="2">有驒有駱며 有駵有雒니</sent>
+<sent type="main" lang="kor" page="02a" n="2">驒ᅵ 이시며 駱이 이시며 駵ᅵ 이시며 雒이 이시니</sent>
+<sent type="main" lang="chi" page="02a" n="3">以車繹繹이로다</sent>
+<sent type="main" lang="kor" page="02a" n="3">車애 以홈애 繹繹도다</sent>
+<sent type="main" lang="chi" page="02a" n="4">思無斁니 思馬斯作이로다</sent>
+<sent type="main" lang="kor" page="02a" n="4">思ᅵ 斁홈이 업스니 馬를 思홈애 이에 作놋다</sent>
+
+<sent type="main" lang="chi" page="02b" n="1">駉駉牡馬ᅵ 在坰之野니 薄言駉者ᅵ로다</sent>
+<sent type="main" lang="kor" page="02b" n="1">駉駉 牡馬ᅵ 坰野애 이시니 잠 駉디로다</sent>
+<sent type="main" lang="chi" page="02b" n="2">有駰有騢며 有驔有魚니</sent>
+<sent type="main" lang="kor" page="02b" n="2">駰이 이시며 騢ᅵ 이시며 驔이 이시며 魚ᅵ 이시니</sent>
+<sent type="main" lang="chi" page="02b" n="3">以車袪袪ᅵ로다</sent>
+<sent type="main" lang="kor" page="02b" n="3">車애 以홈애 祛祛도다</sent>
+<sent type="main" lang="chi" page="02b" n="4">思無邪니 思馬斯徂ᅵ로다</sent>
+<sent type="main" lang="kor" page="02b" n="4">思ᅵ 邪ᅵ 업스니 馬를 思홈애 이에 徂놋다</sent>
+<sent type="title4" lang="chi" page="02b" n="5">駉 四章</sent>
+
+<sent type="main" lang="chi" page="03a" n="1">有駜有駜니 駜彼乘黃이로다</sent>
+<sent type="main" lang="kor" page="03a" n="1">駜며 駜니 駜 뎌 乘黃이로다</sent>
+<sent type="main" lang="chi" page="03a" n="2">夙夜在公니 在公明明이로다</sent>
+<sent type="main" lang="kor" page="03a" n="2">夙夜애 公애 이시니 公애 이셔 明明놋다</sent>
+<sent type="main" lang="chi" page="03a" n="3">振振鷺ᅵ여 鷺于下ᅵ로다</sent>
+<sent type="main" lang="kor" page="03a" n="3">振振 鷺ᅵ여 鷺ᅵ 下 놋다</sent>
+<sent type="main" lang="chi" page="03a" n="4">鼓咽咽이어 醉言舞하니 于胥樂兮로다</sent>
+<sent type="main" lang="kor" page="03a" n="4">鼓ᅵ 咽咽거늘 醉야 舞니 서르 樂놋다</sent>
+
+<sent type="main" lang="chi" page="03b" n="1">有駜有駜니 駜彼乘牡ᅵ로다</sent>
+<sent type="main" lang="kor" page="03b" n="1">駜며 駜니 駜 뎌 乘牡ᅵ로다</sent>
+<sent type="main" lang="chi" page="03b" n="2">夙夜在公니 在公飮酒ᅵ로다</sent>
+<sent type="main" lang="kor" page="03b" n="2">夙夜애 公애 이시니 公애 이셔 酒를 飮놋다</sent>
+<sent type="main" lang="chi" page="03b" n="3">振振鷺ᅵ여 鷺于飛로다</sent>
+<sent type="main" lang="kor" page="03b" n="3">振振 鷺ᅵ여 鷺ᅵ 飛 놋다</sent>
+<sent type="main" lang="chi" page="03b" n="4">鼓咽咽이어 醉言歸니 于胥樂兮로다</sent>
+<sent type="main" lang="kor" page="03b" n="4">鼓ᅵ 咽咽거늘 醉야 歸니 서르 樂놋다</sent>
+
+<sent type="main" lang="chi" page="04a" n="1">有駜有駜니 駜彼乘駽이로다</sent>
+<sent type="main" lang="kor" page="04a" n="1">駜며 駜니 駜 뎌 乘駽이로다</sent>
+<sent type="main" lang="chi" page="04a" n="2">夙夜在公니 在公載燕이로다</sent>
+<sent type="main" lang="kor" page="04a" n="2">夙夜애 公애 이시니 公애 이셔 곧 燕놋다</sent>
+<sent type="main" lang="chi" page="04a" n="3">自今以始야 歲其有ᅵ로다</sent>
+<sent type="main" lang="kor" page="04a" n="3">이제로브터  始야 歲 그 有리로다</sent>
+<sent type="main" lang="chi" page="04a" n="4">君子有穀야 詒孫子ᅵ로소니 于胥樂兮로다</sent>
+<sent type="main" lang="kor" page="04a" n="4">君子ᅵ 穀을 두어 孫子애 詒리로소니 서르 樂놋다</sent>
+<sent type="title4" lang="chi" page="04a" n="5">有駜 三章</sent>
+
+<sent type="main" lang="chi" page="04b" n="1">思樂泮水애 薄采其芹호라</sent>
+<sent type="main" lang="kor" page="04b" n="1">樂 泮水애 잠 그 芹을 采호라</sent>
+<sent type="main" lang="chi" page="04b" n="2">魯侯戾止시니 言觀其旂로다</sent>
+<sent type="main" lang="kor" page="04b" n="2">魯侯ᅵ 戾시니 그 旂를 觀리로다</sent>
+<sent type="main" lang="chi" page="04b" n="3">其旂茷茷며 鸞聲噦噦니</sent>
+<sent type="main" lang="kor" page="04b" n="3">그 旂ᅵ 茷茷며 鸞聲이 噦噦니</sent>
+<sent type="main" lang="chi" page="04b" n="4">無小無大히 從公于邁로다</sent>
+<sent type="main" lang="kor" page="04b" n="4">小ᅵ 업스며 大 업시 公을 조차 邁놋다</sent>
+
+<sent type="main" lang="chi" page="05a" n="1">思樂泮水애 薄采其藻호라</sent>
+<sent type="main" lang="kor" page="05a" n="1">樂 泮水애 잠 그 藻를 采호라</sent>
+<sent type="main" lang="chi" page="05a" n="2">魯侯戾止시니 其馬蹻蹻ᅵ로다</sent>
+<sent type="main" lang="kor" page="05a" n="2">魯侯ᅵ 戾시니 그 馬ᅵ 蹻蹻도다</sent>
+<sent type="main" lang="chi" page="05a" n="3">其旂蹻蹻니 其音昭昭ᅵ샷다</sent>
+<sent type="main" lang="kor" page="05a" n="3">그 馬ᅵ 蹻蹻니 그 音이 昭昭샷다</sent>
+<sent type="main" lang="chi" page="05a" n="4">載色載笑시니 匪怒伊敎ᅵ샷다</sent>
+<sent type="main" lang="kor" page="05a" n="4">곧 色시며 곧 笑시니 怒ᅵ 아니라 敎ᅵ샷다</sent>
+
+<sent type="main" lang="chi" page="05b" n="1">思樂泮水애 薄采其茆호라</sent>
+<sent type="main" lang="kor" page="05b" n="1">樂 泮水애 잠 그 茆를 采호라</sent><!--영인본상 '茆'의 자형은 ‘𦭘’-->
+<sent type="main" lang="chi" page="05b" n="2">魯侯戾止시니 在泮飮酒ᅵ로다</sent>
+<sent type="main" lang="kor" page="05b" n="2">魯侯ᅵ 戾시니 泮애 이셔 酒를 飮놋다</sent>
+<sent type="main" lang="chi" page="05b" n="3">旣飮旨酒시니 永錫難老ᅵ로다</sent>
+<sent type="main" lang="kor" page="05b" n="3">이믜 旨酒를 飮시니 기리 難老 錫리로다</sent>
+<sent type="main" lang="chi" page="05b" n="4">順彼長道샤 屈此羣醜쇼셔</sent>
+<sent type="main" lang="kor" page="05b" n="4">뎌 長道를 順샤 이 羣醉를 屈쇼셔</sent>
+
+<sent type="main" lang="chi" page="06a" n="1">穆穆魯侯ᅵ여 敬明其德이샷다</sent>
+<sent type="main" lang="kor" page="06a" n="1">穆穆신 魯侯ᅵ여 그 德을 敬明샷다</sent>
+<sent type="main" lang="chi" page="06a" n="2">敬愼威儀시니 維民之則이샷다</sent>
+<sent type="main" lang="kor" page="06a" n="2">威儀를 敬愼시니 民의 則이샷다</sent>
+<sent type="main" lang="chi" page="06a" n="3">允文允武샤 昭假烈祖시니</sent>
+<sent type="main" lang="kor" page="06a" n="3">진실로 文시며 진실로 武샤 烈祖 昭히 假시니</sent>
+<sent type="main" lang="chi" page="06a" n="4">靡有不孝야 自求伊祜ᅵ샷다</sent>
+<sent type="main" lang="kor" page="06a" n="4">孝 아님이 잇디 아녀 스스로 祜 求샷다</sent>
+
+<sent type="main" lang="chi" page="06b" n="1">明明魯侯ᅵ여 克明其德이샷다</sent>
+<sent type="main" lang="kor" page="06b" n="1">明明신 魯侯ᅵ여 히 그 德을 明샷다</sent>
+<sent type="main" lang="chi" page="06b" n="2">旣作泮宮니 淮夷攸服이로다</sent>
+<sent type="main" lang="kor" page="06b" n="2">이믜 泮宮을 作니 淮夷의 服 배로다</sent>
+<sent type="main" lang="chi" page="06b" n="3">矯矯虎臣이 在泮獻馘며</sent>
+<sent type="main" lang="kor" page="06b" n="3">矯矯 虎臣이 泮애 이셔 馘을 獻며</sent>
+<sent type="main" lang="chi" page="06b-07a" n="4">淑問如皐陶ᅵ 在泮獻囚ᅵ리로다</sent>
+<sent type="main" lang="kor" page="06b-07a" n="4">淑問이 皐陶  이 泮애 이셔 囚를 獻리로다</sent><!--^리-->
+
+<sent type="main" lang="chi" page="07a" n="1">濟濟多士ᅵ 克廣德心야</sent>
+<sent type="main" lang="kor" page="07a" n="1">濟濟 多士ᅵ 히 德心을 廣야</sent>
+<sent type="main" lang="chi" page="07a" n="2">桓桓于征야 狄彼東南니</sent>
+<sent type="main" lang="kor" page="07a" n="2">桓桓히 征야 뎌 東南을 狄니</sent>
+<sent type="main" lang="chi" page="07a" n="3">烝烝皇皇며 不吳不揚며</sent>
+<sent type="main" lang="kor" page="07a" n="3">烝烝며 皇皇며 吳티 아니며 揚티 아니며</sent>
+<sent type="main" lang="chi" page="07a" n="4">不告于訩야 在泮獻功이리로다</sent>
+<sent type="main" lang="kor" page="07a" n="4">訩을 告티 아니야 泮애 이셔 功을 獻리로다</sent>
+
+<sent type="main" lang="chi" page="07b" n="1">角弓其觩니 束矢其搜ᅵ로다</sent>
+<sent type="main" lang="kor" page="07b" n="1">角弓이 그 鯄니 束矢 그 搜도다</sent>
+<sent type="main" lang="chi" page="07b" n="2">戎車孔博니 徒御無斁이로다</sent>
+<sent type="main" lang="kor" page="07b" n="2">戎車ᅵ 심히 慱니 徒와 御ᅵ 斁홈이 업도다</sent>
+<sent type="main" lang="chi" page="07b" n="3">旣克淮夷니 孔淑不逆이로다</sent>
+<sent type="main" lang="kor" page="07b" n="3">이믜 淮夷를 克니 심히 淑야 逆디 아니놋다</sent>
+<sent type="main" lang="chi" page="07b" n="4">式固爾猶ᅵ면 淮夷卒獲리라</sent>
+<sent type="main" lang="kor" page="07b" n="4"> 네 猶를 固면 淮夷 내 獲리라</sent>
+
+<sent type="main" lang="chi" page="08a" n="1">翩彼飛鴞ᅵ 集于泮林야</sent>
+<sent type="main" lang="kor" page="08a" n="1">翩히 뎌 飛 鴞ᅵ 泮林에 集야</sent>
+<sent type="main" lang="chi" page="08a" n="2">食我桑黮고 懷我好音이로다</sent>
+<sent type="main" lang="kor" page="08a" n="2">우리 桑黮을 食고 나를 好音으로 懷놋다</sent>
+<sent type="main" lang="chi" page="08a" n="3">憬彼淮夷ᅵ 來獻其琛니</sent>
+<sent type="main" lang="kor" page="08a" n="3">憬 뎌 淮夷ᅵ 來야 그 琛을 獻니</sent>
+<sent type="main" lang="chi" page="08a" n="4">元龜象齒와 大賂南金이로다</sent>
+<sent type="main" lang="kor" page="08a" n="4">元龜와 象齒와 키 南金을 賂놋다</sent>
+<sent type="title4" lang="chi" page="08a" n="5">泮水 八章</sent>
+<sent type="main" lang="chi" page="08b-09a" n="6">閟宮有侐니 實實枚枚로다</sent>
+<sent type="main" lang="kor" page="08b-09a" n="6">閟 宮이 侐니 實實며 枚枚도다</sent><!--枚^枚-->
+
+<sent type="main" lang="chi" page="09a" n="1">赫赫姜嫄이 其德不回샤</sent>
+<sent type="main" lang="kor" page="09a" n="1">赫赫 姜嫄이 그 德이 回티 아니샤</sent>
+<sent type="main" lang="chi" page="09a" n="2">上帝是依시니 無災無害야</sent>
+<sent type="main" lang="kor" page="09a" n="2">上帝 이에 依시니 災 업스며 害 업서</sent>
+<sent type="main" lang="chi" page="09a" n="3">彌月不遲야</sent>
+<sent type="main" lang="kor" page="09a" n="3">月이 彌야 遲티 아니야</sent>
+<sent type="main" lang="chi" page="09a" n="4">是生后稷시고 降之百福시니</sent>
+<sent type="main" lang="kor" page="09a" n="4">이에 后稷을 生시고 百福을 降시니</sent>
+<sent type="main" lang="chi" page="09a" n="5">黍稷重穋과 稙穉菽麥이로다</sent>
+<sent type="main" lang="kor" page="09a" n="5">黍와 稷이 重며 穋 것과 稙며 穉 菽과 麥이로다</sent>
+<sent type="main" lang="chi" page="09a" n="6">奄有下國샤 俾民稼穡시니</sent>
+<sent type="main" lang="kor" page="09a" n="6">믄득 下國을 두샤 民으로 여곰 稼穡게 시니</sent>
+<sent type="main" lang="chi" page="09a" n="7">有稷有黍며 有稻有秬ᅵ로소니</sent>
+<sent type="main" lang="kor" page="09a" n="7">稷이 이시며 黍ᅵ 이시며 滔ᅵ 이시며 秬ᅵ 잇도소니</sent>
+<sent type="main" lang="chi" page="09a-09b" n="8">奄有下土샤 纘禹之緖ᅵ샷다</sent>
+<sent type="main" lang="kor" page="09a-09b" n="8">믄득 下土 두샤 禹의 緖 纘샷다</sent><!--纘^-->
+
+<sent type="main" lang="chi" page="10a" n="1">后稷之孫이 實維大王이시니</sent>
+<sent type="main" lang="kor" page="10a" n="1">后稷의 孫이 진실로 大王이시니</sent>
+<sent type="main" lang="chi" page="10a" n="2">居岐之陽샤 實始翦商이어시</sent>
+<sent type="main" lang="kor" page="10a" n="2">岐ᄉ 陽에 居샤 진실로 비로소 商을 翦여시</sent>
+<sent type="main" lang="chi" page="10a" n="3">至于文武샤 纘大王之緖샤</sent>
+<sent type="main" lang="kor" page="10a" n="3">文武의 니샤 大王의 緖 纘샤</sent>
+<sent type="main" lang="chi" page="10a" n="4">致天之屆 于牧之野시니</sent>
+<sent type="main" lang="kor" page="10a" n="4">天의 屆 致홈을 牧ᄉ 野에 시니</sent>
+<sent type="main" lang="chi" page="10a" n="5">無貳無虞라 上帝臨女ᅵ시니라</sent>
+<sent type="main" lang="kor" page="10a" n="5">貳티 말며 虞티 말라 上帝 너 臨야 겨시니라</sent>
+<sent type="main" lang="chi" page="10a" n="6">敦商之旅야 克咸厥功야</sent>
+<sent type="main" lang="kor" page="10a" n="6">商의 旅 敦야 히 그 功을 咸커</sent>
+<sent type="main" lang="chi" page="10a" n="7">王曰叔父아 建爾元子야 俾侯于魯노니</sent>
+<sent type="main" lang="kor" page="10a" n="7">王이 샤 叔父아 네 元子 建야 여곰 魯애 侯노니</sent>
+<sent type="main" lang="chi" page="10a" n="8">大啓爾宇야 爲周室輔ᅵ어다</sent>
+<sent type="main" lang="kor" page="10a" n="8">키 네 宇 啓야 周室에 輔ᅵ 될디어다</sent>
+<sent type="main" lang="chi" page="10b-11a" n="9">乃命魯公샤 俾侯于東시고</sent>
+<sent type="main" lang="kor" page="10b-11a" n="9">魯公을 命샤 여곰 東의 侯시고</sent><!--^시-->
+
+<sent type="main" lang="chi" page="11a" n="1">錫之山川과 土田附庸이로다</sent>
+<sent type="main" lang="kor" page="11a" n="1">山川과 土田과 附庸을 錫도다</sent>
+<sent type="main" lang="chi" page="11a" n="2">周公之孫莊公之子ᅵ 龍旂承祀시니</sent>
+<sent type="main" lang="kor" page="11a" n="2">周公의 孫이언 莊公의 子ᅵ 龍旂로 祀 承시니</sent>
+<sent type="main" lang="chi" page="11a" n="3">六轡耳耳로다</sent>
+<sent type="main" lang="kor" page="11a" n="3">六轡ᅵ 耳耳도다</sent>
+<sent type="main" lang="chi" page="11a" n="4">春秋匪解샤 享祀不忒샤</sent>
+<sent type="main" lang="kor" page="11a" n="4">春秋에 解티 아니샤 享祀 忒디 아니샤</sent>
+<sent type="main" lang="chi" page="11a" n="5">皇皇后帝와 皇祖后稷 享以騂犧시니</sent>
+<sent type="main" lang="kor" page="11a" n="5">皇皇신 后帝와 皇祖 后稷 享호 騂犧로  시니</sent>
+<sent type="main" lang="chi" page="11a" n="6">是饗是宜야 降福旣多ᅵ며</sent>
+<sent type="main" lang="kor" page="11a" n="6">이에 饗며 이에 宜야 福을 降홈이 이믜 多며</sent>
+<sent type="main" lang="chi" page="11a" n="7">周公皇祖도 亦其福女ᅵ샷다</sent>
+<sent type="main" lang="kor" page="11a" n="7">周公과 皇祖도  그 너 福샷다</sent>
+
+<sent type="main" lang="chi" page="11b" n="1">秋而載嘗이라 夏而楅衡니</sent>
+<sent type="main" lang="kor" page="11b" n="1">秋에 곧 嘗홀디라 夏애 福衡니</sent>
+
+<sent type="main" lang="chi" page="12a" n="1">白牡騂剛이며 犧尊將將며</sent>
+<sent type="main" lang="kor" page="12a" n="1">白牡와 騂剛이며 犧尊이 將將며</sent>
+<sent type="main" lang="chi" page="12a" n="2">毛炰胾羹이며 籩豆大房이어</sent>
+<sent type="main" lang="kor" page="12a" n="2">毛야 炰며 胾며 羹이며 籩豆와 大房이어</sent>
+<sent type="main" lang="chi" page="12a" n="3">萬舞洋洋니 孝孫有慶이로다</sent>
+<sent type="main" lang="kor" page="12a" n="3">萬으로 舞홈을 洋洋히 니 孝孫이 慶이 잇도다</sent>
+<sent type="main" lang="chi" page="12a" n="4">俾爾熾而昌며 俾爾壽而臧야</sent>
+<sent type="main" lang="kor" page="12a" n="4">널로 여곰 熾고 昌며 널로 여곰 壽고 臧야</sent>
+<sent type="main" lang="chi" page="12a" n="5">保彼東方야 魯邦是常이시며</sent>
+<sent type="main" lang="kor" page="12a" n="5">뎌 東方을 保야 魯邦을 이에 常시며</sent>
+<sent type="main" lang="chi" page="12a" n="6">不虧不崩며 不震不騰야</sent>
+<sent type="main" lang="kor" page="12a" n="6">虧티 아니며 崩티 아니며 震티 아니며 騰티 아니야</sent>
+<sent type="main" lang="chi" page="12a" n="7">三壽作朋샤 如岡如陵이쇼셔</sent>
+<sent type="main" lang="kor" page="12a" n="7">三壽로 朋을 作야 岡 며 陵 쇼셔</sent>
+
+<sent type="main" lang="chi" page="12b" n="1">公車千乘이니</sent>
+<sent type="main" lang="kor" page="12b" n="1">公의 車ᅵ 千乘이니</sent>
+<sent type="main" lang="chi" page="12b-13a" n="2">朱英綠騰이며 二矛重弓이로다</sent>
+<sent type="main" lang="kor" page="12b-13a" n="2">朱 英과 祿 騰이며 二矛와 重弓이로다</sent><!--과 ^ 祿-->
+
+<sent type="main" lang="chi" page="13a" n="1">公徒三萬이니</sent>
+<sent type="main" lang="kor" page="13a" n="1">公의 徒ᅵ 三萬이니</sent>
+<sent type="main" lang="chi" page="13a" n="2">貝冑朱綅이며 烝徒增增이로다</sent>
+<sent type="main" lang="kor" page="13a" n="2">貝로  冑와 朱 綅이며 모 徒ᅵ 增增도다</sent>
+<sent type="main" lang="chi" page="13a" n="3">戎狄是膺며 荊舒是懲니</sent>
+<sent type="main" lang="kor" page="13a" n="3">戎狄을 이에 膺며 荊舒 이에 懲케 니</sent>
+<sent type="main" lang="chi" page="13a" n="4">則莫我敢承이로다</sent>
+<sent type="main" lang="kor" page="13a" n="4">곧 우리 敢히 承리 업도다</sent>
+<sent type="main" lang="chi" page="13a" n="5">俾爾昌而熾며 俾爾壽而富야</sent>
+<sent type="main" lang="kor" page="13a" n="5">널로 여곰 昌고 熾며 널로 여곰 壽고 富야</sent>
+<sent type="main" lang="chi" page="13a" n="6">黃髮台背ᅵ 壽胥與試며</sent>
+<sent type="main" lang="kor" page="13a" n="6">黃髮台背ᅵ 壽야 서 다 試며</sent>
+<sent type="main" lang="chi" page="13a" n="7">卑爾昌而大며 俾爾耆而艾야</sent>
+<sent type="main" lang="kor" page="13a" n="7">널로 여곰 昌고 大며 널로 여곰 耆고 艾야</sent>
+<sent type="main" lang="chi" page="13a-13b" n="8">萬有千歲예 眉壽無有害쇼셔</sent>
+<sent type="main" lang="kor" page="13a-13b" n="8">萬이오 千歲예 眉壽야 害 이심이 업쇼셔</sent><!--壽^-->
+
+<sent type="main" lang="chi" page="13b" n="1">泰山巖巖니 魯邦所詹이로다</sent>
+<sent type="main" lang="kor" page="13b" n="1">泰山이 巖巖니 魯邦의 詹 배로다</sent>
+<sent type="main" lang="chi" page="13b" n="2">奄有龜蒙야 遂荒大東야</sent>
+<sent type="main" lang="kor" page="13b" n="2">龜와 蒙을 두어 드듸여 大東을 荒야</sent>
+<sent type="main" lang="chi" page="13b" n="3">至于海邦니 淮夷來同야</sent>
+<sent type="main" lang="kor" page="13b" n="3">海邦애 니히 니 淮夷ᅵ 來야 同야</sent>
+<sent type="main" lang="chi" page="13b" n="4">莫不率從니 魯侯之功이샷다</sent>
+<sent type="main" lang="kor" page="13b" n="4">率從티 아닛 아니니 魯侯의 功이샷다</sent>
+
+<sent type="main" lang="chi" page="14a" n="1">保有鳧繹야 遂荒徐宅야</sent>
+<sent type="main" lang="kor" page="14a" n="1">鳧와 繹을 保有야 드듸여 徐宅을 荒야</sent>
+<sent type="main" lang="chi" page="14a" n="2">至于海邦니</sent>
+<sent type="main" lang="kor" page="14a" n="2">海邦의 니히 니</sent>
+<sent type="main" lang="chi" page="14a" n="3">淮夷蠻貊과 及彼南夷ᅵ 莫不率從며</sent>
+<sent type="main" lang="kor" page="14a" n="3">淮夷와 蠻貊과 믿 뎌 南夷ᅵ 率從티 아닛 아니며</sent>
+<sent type="main" lang="chi" page="14a" n="4">莫敢不諾야 魯侯是若이로다</sent>
+<sent type="main" lang="kor" page="14a" n="4">敢히 諾디 아닛 아니야 魯侯 이에 若놋다</sent>
+
+<sent type="main" lang="chi" page="14b" n="1">天錫公純嘏시니 眉壽保魯샤</sent>
+<sent type="main" lang="kor" page="14b" n="1">天이 公 純嘏 錫시니 眉壽야 魯 保샤</sent>
+<sent type="main" lang="chi" page="14b" n="2">居常與許야 復周公之宇ᅵ샷다</sent>
+<sent type="main" lang="kor" page="14b" n="2">常과 다 許에 居야 周公의 宇 復샷다</sent>
+<sent type="main" lang="chi" page="14b" n="3">魯侯燕喜시니 令妻壽母ᅵ샷다</sent>
+<sent type="main" lang="kor" page="14b" n="3">魯侯ᅵ 燕야 喜시니 令 妻와 壽 母ᅵ샷다</sent>
+<sent type="main" lang="chi" page="14b-15a" n="4">宜大夫庶士샤 邦國是有시니</sent>
+<sent type="main" lang="kor" page="14b-15a" n="4">태우와 庶士 宜케 샤 邦國을 이에 두시니</sent><!-- ^ 宜-->
+
+<sent type="main" lang="chi" page="15a" n="1">旣多受祉샤 黃髮兒齒샷다</sent>
+<sent type="main" lang="kor" page="15a" n="1">이믜 祉를 해 受샤 黃髮이며 兒齒리샷다</sent>
+<sent type="main" lang="chi" page="15a" n="2">徂來之松과 新甫之栢을 是斷是度며</sent>
+<sent type="main" lang="kor" page="15a" n="2">徂來의 松과 新甫의 栢을 이에 斷며 이에 度며</sent>
+<sent type="main" lang="chi" page="15a-15b" n="3">是尋是尺야 松桷有舃니</sent>
+<sent type="main" lang="kor" page="15a-15b" n="3">이에 尋며 이에 尺야 松으로  桷이 舃니</sent><!--에 ^ 尺-->
+
+<sent type="main" lang="chi" page="15b" n="1">路寢孔碩이로다</sent><!--영인본상 ‘다’는 불명확함-->
+<sent type="main" lang="kor" page="15b" n="1">路寢이 심히 碩도다</sent>
+<sent type="main" lang="chi" page="15b" n="2">新廟奕奕니 奚斯所作이로다</sent>
+<sent type="main" lang="kor" page="15b" n="2">新廟ᅵ 奕奕니 奚斯의 作 배로다</sent>
+<sent type="main" lang="chi" page="15b" n="3">孔曼且碩니 萬民是若이로다</sent>
+<sent type="main" lang="kor" page="15b" n="3">심히 曼고  碩니 萬民을 이에 若도다</sent>
+<sent type="title4" lang="chi" page="15b" n="4">閟宮 九章</sent>
+<sent type="title3" lang="chi" page="15b" n="5">商頌</sent>
+<sent type="main" lang="chi" page="15b-16a" n="6">猗與那與ᅵ라 置我鞉鼓야</sent>
+<sent type="main" lang="kor" page="15b-16a" n="6">猗홉다 那디라 우리 鞉와 鼓 置야</sent><!--置^-->
+
+<sent type="main" lang="chi" page="16a" n="1">奏鼓簡簡니 衎我烈祖ᅵ로다</sent>
+<sent type="main" lang="kor" page="16a" n="1">鼓奏홈을 簡簡히 니 우리 烈祖 衎놋다</sent>
+<sent type="main" lang="chi" page="16a" n="2">湯孫奏假시니</sent>
+<sent type="main" lang="kor" page="16a" n="2">湯의 孫이 奏야 假시니</sent>
+<sent type="main" lang="chi" page="16a" n="3">綏我思成이샷다</sent>
+<sent type="main" lang="kor" page="16a" n="3">우리 綏호 思야 成 이로 샷다</sent>
+<sent type="main" lang="chi" page="16a" n="4">鞉鼓淵淵며</sent>
+<sent type="main" lang="kor" page="16a" n="4">鞉와 鼓ᅵ 淵淵며</sent>
+<sent type="main" lang="chi" page="16a" n="5">嘒嘒管聲이 旣和且平야</sent>
+<sent type="main" lang="kor" page="16a" n="5">嘒嘒 管ᄉ 聲이 이믜 和고  平야</sent>
+<sent type="main" lang="chi" page="16a-16b" n="6">依我磬聲니</sent>
+<sent type="main" lang="kor" page="16a-16b" n="6">우리 磬ᄉ 聲에 依니</sent><!--磬^ᄉ-->
+
+<sent type="main" lang="chi" page="16b" n="1">於赫湯孫이여 穆穆厥聲이샷다</sent>
+<sent type="main" lang="kor" page="16b" n="1">於홉다 赫 湯의 孫이여 穆穆 그 聲이샷다</sent>
+<sent type="main" lang="chi" page="16b" n="2">庸鼓有斁며 萬舞有奕니</sent>
+<sent type="main" lang="kor" page="16b" n="2">庸鼓ᅵ 斁며 萬舞ᅵ 奕니</sent>
+<sent type="main" lang="chi" page="16b" n="3">我有嘉客이 亦不夷懌아</sent>
+<sent type="main" lang="kor" page="16b" n="3">우리 嘉客이  夷懌티 아니랴</sent>
+<sent type="main" lang="chi" page="16b" n="4">自古在昔애 先民有作니</sent>
+<sent type="main" lang="kor" page="16b" n="4">古로브터 昔에 이숌애 先民이 作홈을 두니</sent>
+<sent type="main" lang="chi" page="16b-17a" n="5">溫恭朝夕야 執事有恪니라</sent>
+<sent type="main" lang="kor" page="16b-17a" n="5">朝夕에 溫恭야 事 執홈을 恪니라</sent><!-- ^ 執-->
+
+<sent type="main" lang="chi" page="17a" n="1">顧予烝嘗인뎌 湯孫之將이니라</sent>
+<sent type="main" lang="kor" page="17a" n="1">내 烝嘗을 顧홀딘뎌 湯孫의 將이니라</sent>
+<sent type="title4" lang="chi" page="17a" n="2">那 一章</sent>
+<sent type="main" lang="chi" page="17a" n="3">嗟嗟烈祖ᅵ 有秩斯祜샤</sent>
+<sent type="main" lang="kor" page="17a" n="3">嗟홉다 嗟홉다 烈祖ᅵ 秩 이 祜 두샤</sent>
+<sent type="main" lang="chi" page="17a" n="4">申錫無疆이라 及爾斯所ᅵ로다</sent>
+<sent type="main" lang="kor" page="17a" n="4">다시곰 無疆에 錫신디라 네 이 所에 及도다</sent>
+
+<sent type="main" lang="chi" page="17b" n="1">旣載淸酤니 賚我思成이며</sent>
+<sent type="main" lang="kor" page="17b" n="1">이믜 淸酤 載니 우리 賚호 思야 成 이로 며</sent>
+<sent type="main" lang="chi" page="17b" n="2">亦有和羹이 旣戒旣平이어</sent>
+<sent type="main" lang="kor" page="17b" n="2"> 和 羹이 이믜 戒며 이믜 平거</sent>
+<sent type="main" lang="chi" page="17b" n="3">鬷[中庸作奏]假無言야 時靡有爭니</sent>
+<sent type="main" lang="kor" page="17b" n="3">鬷야 假홈애 言이 업서 時예 爭리 잇디 아니니</sent>
+<sent type="main" lang="chi" page="17b-18a" n="4">綏我眉壽야 黃耈無疆이로다</sent>
+<sent type="main" lang="kor" page="17b-18a" n="4">우리 綏호 眉壽야 黃耈ᅵ 疆이 업슴으로 놋다</sent><!--黃^耈-->
+
+<sent type="main" lang="chi" page="18a" n="1">約軝錯衡이며 八鸞鶬鶬이라</sent>
+<sent type="main" lang="kor" page="18a" n="1">約 軝와 錯 衡이며 八鸞이 鶬鶬디라</sent>
+<sent type="main" lang="chi" page="18a" n="2">以假以享니 我受命溥將이어</sent>
+<sent type="main" lang="kor" page="18a" n="2"> 假며  享니 우리 命受홈이 溥將거</sent>
+<sent type="main" lang="chi" page="18a" n="3">自天降康샤 豊年穰穰니</sent>
+<sent type="main" lang="kor" page="18a" n="3">天으로브터 康을 降샤 豊年이 穰穰니</sent>
+<sent type="main" lang="chi" page="18a-18b" n="4">來假來饗야 降福無疆이로다</sent>
+<sent type="main" lang="kor" page="18a-18b" n="4">來야 假며 來야 饗야 福을 降홈이 疆이 업도다</sent><!--야 ^ 福-->
+
+<sent type="main" lang="chi" page="18b" n="1">顧予烝嘗인뎌 湯孫之將이니라</sent>
+<sent type="main" lang="kor" page="18b" n="1">내 烝嘗을 顧홀딘뎌 湯孫의 將이니라</sent>
+<sent type="title4" lang="chi" page="18b" n="2">烈祖 一章</sent>
+<sent type="main" lang="chi" page="18b" n="3">天命玄鳥샤 降而生商야</sent>
+<sent type="main" lang="kor" page="18b" n="3">天이 玄鳥 命샤 降야 商을 生야</sent>
+<sent type="main" lang="chi" page="18b-19a" n="4">宅殷土芒芒이어시</sent>
+<sent type="main" lang="kor" page="18b-19a" n="4">殷土ᅵ 芒芒  宅야시</sent><!--宅^-->
+
+<sent type="main" lang="chi" page="19a" n="1">古帝命武湯샤 正域彼四方시니라</sent>
+<sent type="main" lang="kor" page="19a" n="1">녯 帝ᅵ 武湯을 命샤 域을 뎌 四方애 正시니라</sent>
+<sent type="main" lang="chi" page="19a" n="2">方命厥后샤 奄有九有시니</sent>
+<sent type="main" lang="kor" page="19a" n="2">方으로 그 后 命샤 다 九有 두시니</sent>
+<sent type="main" lang="chi" page="19a" n="3">商之先后ᅵ 受命不殆ᅵ라</sent>
+<sent type="main" lang="kor" page="19a" n="3">商의 先后ᅵ 命受홈이 殆티 아닌디라</sent>
+<sent type="main" lang="chi" page="19a" n="4">在武丁孫子샷다</sent>
+<sent type="main" lang="kor" page="19a" n="4">武丁ᄉ 孫子의 겨샷다</sent>
+
+<sent type="main" lang="chi" page="19b" n="1">武丁孫子武王이 靡不勝시니</sent>
+<sent type="main" lang="kor" page="19b" n="1">武丁ᄉ 孫子ᅵ언 武王이 勝티 아닐 이 업스시니</sent>
+<sent type="main" lang="chi" page="19b" n="2">龍旂十乘으로 大糦是承이로다</sent>
+<sent type="main" lang="kor" page="19b" n="2">龍旂十乘으로 大糦 이 承놋다</sent>
+<sent type="main" lang="chi" page="19b" n="3">邦畿千里여</sent>
+<sent type="main" lang="kor" page="19b" n="3">邦ᄉ 畿 千里여</sent>
+<sent type="main" lang="chi" page="19b" n="4">維民所止로소니 肇域彼四海로다</sent>
+<sent type="main" lang="kor" page="19b" n="4">民의 止연 배로소니 域은 뎌 四海예 肇얏도다</sent>
+
+<sent type="main" lang="chi" page="20a" n="1">四海來假니 來假旂旂로다</sent>
+<sent type="main" lang="kor" page="20a" n="1">四海ᅵ 來야 假니 來야 假홈을 旂旂히 놋다</sent>
+<sent type="main" lang="chi" page="20a" n="2">景員維河애 殷受命咸宜라</sent>
+<sent type="main" lang="kor" page="20a" n="2">景에 員 河애 殷이 命을 受홈이 다 맛디라</sent>
+<sent type="main" lang="chi" page="20a" n="3">百祿是何ᅵ로다</sent>
+<sent type="main" lang="kor" page="20a" n="3">百祿을 이 何놋다</sent>
+<sent type="title4" lang="chi" page="20a" n="4">玄鳥 一章</sent>
+
+<sent type="main" lang="chi" page="20b" n="1">濬哲維商애 長發其詳이로다</sent>
+<sent type="main" lang="kor" page="20b" n="1">濬哲 商애 그 祥이 發컨 디 長도다</sent>
+<sent type="main" lang="chi" page="20b" n="2">洪水芒芒이어 禹敷下土方샤</sent>
+<sent type="main" lang="kor" page="20b" n="2">洪水ᅵ 芒芒거 禹ᅵ 下土方을 敷샤</sent>
+<sent type="main" lang="chi" page="20b" n="3">外大國是疆야 幅隕旣長이어</sent>
+<sent type="main" lang="kor" page="20b" n="3">外大國을 이에 疆야 福隕이 이믜 長거</sent>
+<sent type="main" lang="chi" page="20b" n="4">有娀方將일 帝立子生商시니라</sent>
+<sent type="main" lang="kor" page="20b" n="4">有娀이 보야흐로 將 帝ᅵ 子 立야 商을 生시니라</sent>
+
+<sent type="main" lang="chi" page="21a" n="1">玄王桓撥시니 受小國是達이며</sent>
+<sent type="main" lang="kor" page="21a" n="1">玄王이 桓으로 撥시니 小國을 受여도 이에 達며</sent>
+<sent type="main" lang="chi" page="21a" n="2">受大國是達이샷다</sent>
+<sent type="main" lang="kor" page="21a" n="2">大國을 受여도 이에 達샷다</sent>
+<sent type="main" lang="chi" page="21a" n="3">率履不越시니 遂視旣發이로다</sent>
+<sent type="main" lang="kor" page="21a" n="3">履 率야 越티 아니시니 드듸여 視홈애 이믜 發도다</sent>
+<sent type="main" lang="chi" page="21a" n="4">相土烈烈시니 海外有截이로다</sent>
+<sent type="main" lang="kor" page="21a" n="4">相土ᅵ 烈烈시니 海外ᅵ 截도다</sent>
+
+<sent type="main" lang="chi" page="21b" n="1">帝命不違샤 至于湯齊시니</sent>
+<sent type="main" lang="kor" page="21b" n="1">帝命이 違티 아니샤 湯의 니르러 齊시니</sent>
+<sent type="main" lang="chi" page="21b" n="2">湯降不遲시며 聖敬日躋샤</sent>
+<sent type="main" lang="kor" page="21b" n="2">湯이 降샴이 遲티 아니시며 聖敬이 日로 躋샤</sent>
+<sent type="main" lang="chi" page="21b" n="3">昭假遲遲샤 上帝是祗시니</sent>
+<sent type="main" lang="kor" page="21b" n="3">昭히 假홈을 遲遲히 샤 上帝 이에 祉시니</sent>
+<sent type="main" lang="chi" page="21b" n="4">帝命式于九圍시니라</sent>
+<sent type="main" lang="kor" page="21b" n="4">帝ᅵ 命샤 九圍에 式게 시니라</sent>
+
+<sent type="main" lang="chi" page="22a" n="1">受小球大球샤 爲下國綴旒샤</sent>
+<sent type="main" lang="kor" page="22a" n="1">小球와 大球 受샤 下國에 綴旒ᅵ 되샤</sent>
+<sent type="main" lang="chi" page="22a" n="2">何天之休ᅵ샷다</sent>
+<sent type="main" lang="kor" page="22a" n="2">天의 休 何샷다</sent>
+<sent type="main" lang="chi" page="22a" n="3">不競不絿시며 不剛不柔샤</sent>
+<sent type="main" lang="kor" page="22a" n="3">競티 아니시며 絿티 아니시며 剛티 아니시며 柔티 아니샤</sent>
+<sent type="main" lang="chi" page="22a" n="4">敷政優優시니 百祿是遒ᅵ샷다</sent>
+<sent type="main" lang="kor" page="22a" n="4">政을 敷홈을 優優히 시니 百祿이 이에 遒샷다</sent>
+
+<sent type="main" lang="chi" page="22b" n="1">受小共大共샤 爲下國駿厖샤</sent>
+<sent type="main" lang="kor" page="22b" n="1">小共과 大共을 受샤 下國에 駿厖이 되샤</sent>
+<sent type="main" lang="chi" page="22b" n="2">何天之龍이샷다</sent>
+<sent type="main" lang="kor" page="22b" n="2">天의 龍을 何샷다</sent>
+<sent type="main" lang="chi" page="22b" n="3">敷奏其勇샤</sent>
+<sent type="main" lang="kor" page="22b" n="3">그 勇을 敷奏샤</sent>
+<sent type="main" lang="chi" page="22b" n="4">不震不動시며 不戁不竦시니</sent>
+<sent type="main" lang="kor" page="22b" n="4">震티 아니시며 動티 아니시며 戁티 아니시며 竦티 아니시니</sent>
+<sent type="main" lang="chi" page="22b" n="5">百祿是緫이샷다</sent>
+<sent type="main" lang="kor" page="22b" n="5">百祿이 이예 緫샷다</sent>
+
+<sent type="main" lang="chi" page="23a" n="1">武王載旆샤 有虔秉鉞시니</sent>
+<sent type="main" lang="kor" page="23a" n="1">武王이 旆 載샤 虔야 鉞을 秉시니</sent>
+<sent type="main" lang="chi" page="23a" n="2">如火烈烈야 則莫我敢曷이로다</sent>
+<sent type="main" lang="kor" page="23a" n="2">火ᅵ 烈烈 야 곧 나 敢히 曷리 업도다</sent>
+<sent type="main" lang="chi" page="23a" n="3">苞有三蘖이 莫遂莫達야</sent>
+<sent type="main" lang="kor" page="23a" n="3">苞의 세 蘖이 遂티 몯며 達티 몯야</sent>
+<sent type="main" lang="chi" page="23a" n="4">九有有截이어 韋顧旣伐시고</sent>
+<sent type="main" lang="kor" page="23a" n="4">九有ᅵ 截거 韋와 顧 이믜 伐시고</sent>
+<sent type="main" lang="chi" page="23a" n="5">昆吾夏桀이로다</sent>
+<sent type="main" lang="kor" page="23a" n="5">昆吾와 夏榤을 도다</sent>
+
+<sent type="main" lang="chi" page="23b" n="1">昔在中葉야 有震且業이러니</sent>
+<sent type="main" lang="kor" page="23b" n="1">녜 中葉에 이셔 震고  業더니</sent>
+<sent type="main" lang="chi" page="23b" n="2">允也天子 降于卿士시니</sent>
+<sent type="main" lang="kor" page="23b" n="2">진실로 天子 卿士 降시니</sent>
+<sent type="main" lang="chi" page="23b" n="3">實維阿衡이 實左右商王이로다</sent>
+<sent type="main" lang="kor" page="23b" n="3">진실로 阿衡이 진실로 商王을 左右도다</sent>
+<sent type="title4" lang="chi" page="23b" n="4">長發 七章</sent>
+
+<sent type="main" lang="chi" page="24a" n="1">撻彼殷武로 奮伐荊楚샤</sent>
+<sent type="main" lang="kor" page="24a" n="1">撻 뎌 殷ᄉ 武로 荊楚 奮야 伐샤</sent>
+<sent type="main" lang="chi" page="24a" n="2">冞入其阻야 裒荊有旅야</sent>
+<sent type="main" lang="kor" page="24a" n="2">그 阻애 冞入야 荊의 旅 裒야</sent>
+<sent type="main" lang="chi" page="24a" n="3">有截其所니 湯孫之緖ᅵ샷다</sent>
+<sent type="main" lang="kor" page="24a" n="3">그 所 截케 니 湯孫의 緖ᅵ샷다</sent>
+<sent type="main" lang="chi" page="24a-24b" n="4">維女荊楚ᅵ 居國南鄕니</sent>
+<sent type="main" lang="kor" page="24a-24b" n="4">너 荊楚ᅵ 國ᄉ 南鄕의 居니</sent><!--^니-->
+
+<sent type="main" lang="chi" page="24b" n="1">昔有成湯실 自彼氐羗야</sent>
+<sent type="main" lang="kor" page="24b" n="1">녜 成湯이 겨실 뎌 氐羗으로브터</sent>
+<sent type="main" lang="chi" page="24b" n="2">莫敢不來享며 莫敢不來王야</sent>
+<sent type="main" lang="kor" page="24b" n="2">敢히 來야 享티 아니리 업스며 敢히 來야 王티 아니리 업서</sent>
+<sent type="main" lang="chi" page="24b" n="3">曰商是常이러니라</sent>
+<sent type="main" lang="kor" page="24b" n="3">오 商애 이 常이라 더니라</sent>
+<sent type="main" lang="chi" page="24b" n="4">天命多辟샤 設都于禹之績시니</sent>
+<sent type="main" lang="kor" page="24b" n="4">天이 多辟을 命샤 都 禹의 績신  設시니</sent>
+<sent type="main" lang="chi" page="24b" n="5">歲事來辟야 勿予禍適이어다</sent>
+<sent type="main" lang="kor" page="24b" n="5">歲事로 來야 辟야 나 禍適디 마롤디어다</sent>
+<sent type="main" lang="chi" page="24b-25a" n="6">稼穡匪解로이다</sent>
+<sent type="main" lang="kor" page="24b-25a" n="6">稼穡을 解티 아니농이다</sent><!--稼^穡-->
+
+<sent type="main" lang="chi" page="25a" n="1">天命降監이라 下民有嚴니</sent>
+<sent type="main" lang="kor" page="25a" n="1">天의 命이 降監시디라 下民이 嚴홈이 이시니</sent>
+<sent type="main" lang="chi" page="25a" n="2">不僭不濫야 不敢怠遑면</sent>
+<sent type="main" lang="kor" page="25a" n="2">僭티 아니며 濫티 아니야 敢히 怠遑티 아니면</sent>
+<sent type="main" lang="chi" page="25a" n="3">命于下國샤 封建厥福시니라</sent>
+<sent type="main" lang="kor" page="25a" n="3">下國의 命샤 키 그 福을 建샤니라</sent>
+
+<sent type="main" lang="chi" page="25b" n="1">商邑翼翼니 四方之極이로다</sent>
+<sent type="main" lang="kor" page="25b" n="1">商邑이 翼翼니 四方의 極이로다</sent>
+<sent type="main" lang="chi" page="25b" n="2">赫赫厥聲이며 濯濯厥靈이로소니</sent>
+<sent type="main" lang="kor" page="25b" n="2">赫赫 그 聲이며 濯濯 그 靈이로소니</sent>
+<sent type="main" lang="chi" page="25b" n="3">壽考且寧샤 以保我後生이샷다</sent>
+<sent type="main" lang="kor" page="25b" n="3">壽考고  寧샤  우리 後生을 保샷다</sent>
+
+<sent type="main" lang="chi" page="26a" n="1">陟彼景山니 松栢丸丸이어</sent>
+<sent type="main" lang="kor" page="26a" n="1">뎌 景山의 陟니 松栢이 丸丸거</sent>
+<sent type="main" lang="chi" page="26a" n="2">是斷是遷야 方斲是虔니</sent>
+<sent type="main" lang="kor" page="26a" n="2">이에 斷며 이에 遷야 方히 斲야 이에 虔니</sent>
+<sent type="main" lang="chi" page="26a" n="3">松桷有梴며 旅楹有閑니</sent>
+<sent type="main" lang="kor" page="26a" n="3">松으로  桷이 梴며 旅楹이 閑니</sent>
+<sent type="main" lang="chi" page="26a" n="4">寢成孔安이로다</sent>
+<sent type="main" lang="kor" page="26a" n="4">寢이 成홈애 심히 安도다</sent>
+<sent type="title4" lang="chi" page="26a" n="5">殷武 六章</sent>
+<sent type="title" lang="chi" page="26a" n="6">詩經諺解 卷之二十 終</sent><!--title: 제목(권수제, 권미제), title2: 편명[풍(風), 아(雅), 송(頌)], title3: 편명2, title4: 곡명, main: 본문, name: 물명 표제어, name_anno: 물명 주석-->
+</doc>

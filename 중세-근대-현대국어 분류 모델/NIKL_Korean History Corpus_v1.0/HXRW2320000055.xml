@@ -1,0 +1,3471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title>廣才物譜</title>
+<volume n="1"/>
+<author>미상</author>
+<date>19세기 초</date>
+</titleStmt>
+<notesStmt>
+<bibl><title>광재물보</title>
+<pubPlace>서울</pubPlace>
+<publisher>홍문각</publisher>
+<date></date><!--영인본은 서울대 가람문고본을 저본으로 하고 있음. http://kyudb.snu.ac.kr/pf01/rendererImg.do-->
+</bibl>
+</notesStmt>
+<revisionDesc>
+<date>2016/11/30</date>
+<respStmt>
+<resp>입력자</resp><name>조정아</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>황문환</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">廣才物譜 一</sent>
+
+<sent type="title2" lang="chi" page="05a" n="1">天道部</sent>
+<sent type="main" lang="chi" page="05a" n="2">太極</sent>
+<sent type="main" lang="kor" page="05a" n="2">태극</sent>
+<sent type="main" lang="chi" page="05a" n="3">天</sent>
+<sent type="main" lang="kor" page="05a" n="3">하</sent>
+
+<sent type="main" lang="chi" page="05b" n="1">日</sent>
+<sent type="main" lang="kor" page="05b" n="1"></sent>
+<sent type="main" lang="chi" page="05b" n="2">曦</sent>
+<sent type="main" lang="kor" page="05b" n="2">빗</sent>
+<sent type="main" lang="chi" page="05b" n="3">晛</sent>
+<sent type="main" lang="kor" page="05b" n="3">기운</sent>
+<sent type="main" lang="chi" page="05b" n="4">陰</sent>
+<sent type="main" lang="kor" page="05b" n="4">그늘</sent>
+<sent type="main" lang="chi" page="05b" n="5">影</sent>
+<sent type="main" lang="kor" page="05b" n="5">그림</sent>
+<sent type="main" lang="chi" page="05b" n="6">日食</sent>
+<sent type="main" lang="kor" page="05b" n="6">일식</sent>
+<sent type="main" lang="chi" page="05b" n="7">日暈日珥</sent>
+<sent type="main" lang="kor" page="05b" n="7">귀에골이</sent>
+<sent type="main" lang="chi" page="05b" n="8">日環野馬</sent>
+<sent type="main" lang="kor" page="05b" n="8">아즈랑이</sent>
+<sent type="main" lang="chi" page="05b" n="9">假陰天</sent>
+<sent type="main" lang="kor" page="05b" n="9">흐린날</sent>
+<sent type="main" lang="chi" page="05b" n="11">東發亮</sent>
+<sent type="main" lang="kor" page="05b" n="11">동트다</sent>
+<sent type="main" lang="chi" page="05b" n="12">晨</sent>
+<sent type="main" lang="kor" page="05b" n="12">벽</sent>
+<sent type="main" lang="chi" page="05b" n="13">晝</sent>
+<sent type="main" lang="kor" page="05b" n="13">낫</sent>
+<sent type="main" lang="chi" page="05b" n="14">亭午</sent>
+<sent type="main" lang="kor" page="05b" n="14">졍낫</sent>
+<sent type="main" lang="chi" page="05b" n="15">小晑午</sent>
+<sent type="main" lang="kor" page="05b" n="15">기낫</sent>
+<sent type="main" lang="chi" page="05b" n="16">夕陽</sent>
+<sent type="main" lang="kor" page="05b" n="16">젼역</sent>
+<sent type="main" lang="chi" page="05b" n="17">薄暮</sent>
+<sent type="main" lang="kor" page="05b" n="17">젼역</sent>
+<sent type="main" lang="chi" page="05b" n="18">黃昏</sent>
+<sent type="main" lang="kor" page="05b" n="18">어스름</sent>
+<sent type="main" lang="chi" page="05b" n="19">夜</sent>
+<sent type="main" lang="kor" page="05b" n="19">밤</sent>
+<sent type="main" lang="chi" page="05b" n="20">三更</sent>
+<sent type="main" lang="kor" page="05b" n="20">삼경</sent>
+<sent type="main" lang="chi" page="05b" n="21">五更</sent>
+<sent type="main" lang="kor" page="05b" n="21">오경</sent>
+<sent type="main" lang="chi" page="05b-6a" n="22">更点</sent>
+<sent type="main" lang="kor" page="05b-6a" n="22">경졈</sent>
+
+<sent type="main" lang="chi" page="06a" n="1">點子</sent>
+<sent type="main" lang="kor" page="06a" n="1">경졈 치 람</sent>
+<sent type="main" lang="chi" page="06a" n="2">人定鍾</sent>
+<sent type="main" lang="kor" page="06a" n="2">인경</sent>
+<sent type="main" lang="chi" page="06a" n="3">罷漏</sent>
+<sent type="main" lang="kor" page="06a" n="3">파루</sent>
+<sent type="main" lang="chi" page="06a" n="4">月</sent>
+<sent type="main" lang="kor" page="06a" n="4">달</sent>
+<sent type="main" lang="chi" page="06a" n="5">廣寒殿</sent>
+<sent type="main" lang="kor" page="06a" n="5">월궁</sent>
+<sent type="main" lang="chi" page="06a" n="6">月芽</sent>
+<sent type="main" lang="kor" page="06a" n="6">초달</sent>
+<sent type="main" lang="chi" page="06a" n="7">月食</sent>
+<sent type="main" lang="kor" page="06a" n="7">월식</sent>
+<sent type="main" lang="chi" page="06a" n="8">月暈</sent>
+<sent type="main" lang="kor" page="06a" n="8">달무리</sent>
+<sent type="main" lang="chi" page="06a" n="9">星辰</sent>
+<sent type="main" lang="kor" page="06a" n="9">별</sent>
+
+<sent type="main" lang="chi" page="06b" n="1">彗星</sent>
+<sent type="main" lang="kor" page="06b" n="1">혜셩</sent>
+<sent type="main" lang="chi" page="06b" n="2">河漢</sent>
+<sent type="main" lang="kor" page="06b" n="2">은하슈</sent>
+<sent type="main" lang="chi" page="06b" n="3">風</sent>
+<sent type="main" lang="kor" page="06b" n="3">바람</sent>
+<sent type="main" lang="chi" page="06b" n="4">廻風</sent>
+<sent type="main" lang="kor" page="06b" n="4">회호리 바람</sent>
+<sent type="main" lang="chi" page="06b" n="5">颶風</sent>
+<sent type="main" lang="kor" page="06b" n="5">도지바람</sent>
+<sent type="main" lang="chi" page="06b" n="6">雲</sent>
+<sent type="main" lang="kor" page="06b" n="6">구룸</sent>
+<sent type="main" lang="chi" page="06b" n="7">火雲</sent>
+<sent type="main" lang="kor" page="06b" n="7">노흘</sent>
+<sent type="main" lang="chi" page="06b" n="8">早霞</sent>
+<sent type="main" lang="kor" page="06b" n="8">아노흘</sent>
+<sent type="main" lang="chi" page="06b" n="9">晩霞</sent>
+<sent type="main" lang="kor" page="06b" n="9">젼역노흘</sent>
+
+<sent type="main" lang="chi" page="07a" n="1">霧</sent>
+<sent type="main" lang="kor" page="07a" n="1">안</sent>
+<sent type="main" lang="chi" page="07a" n="2">霧凇</sent>
+<sent type="main" lang="kor" page="07a" n="2">진고 又 산고</sent>
+<sent type="main" lang="chi" page="07a" n="3">霾</sent>
+<sent type="main" lang="kor" page="07a" n="3">토우</sent>
+<sent type="main" lang="chi" page="07a" n="4">雷</sent>
+<sent type="main" lang="kor" page="07a" n="4">우뢰</sent>
+<sent type="main" lang="chi" page="07a" n="5">雷轟</sent>
+<sent type="main" lang="kor" page="07a" n="5">별악</sent>
+<sent type="main" lang="chi" page="07a" n="6">電</sent>
+<sent type="main" lang="kor" page="07a" n="6">번</sent>
+<sent type="main" lang="chi" page="07a" n="7">虹霓</sent>
+<sent type="main" lang="kor" page="07a" n="7">무지</sent>
+<sent type="main" lang="chi" page="07a" n="8">霜</sent>
+<sent type="main" lang="kor" page="07a" n="8">셔리</sent>
+<sent type="main" lang="chi" page="07a" n="9">甛霜</sent>
+<sent type="main" lang="kor" page="07a" n="9">무셔리</sent>
+<sent type="main" lang="chi" page="07a" n="10">嚴霜</sent>
+<sent type="main" lang="kor" page="07a" n="10">된기</sent>
+<sent type="main" lang="chi" page="07a" n="11">露</sent>
+<sent type="main" lang="kor" page="07a" n="11">이슬</sent>
+<sent type="main" lang="chi" page="07a" n="12">雨</sent>
+<sent type="main" lang="kor" page="07a" n="12">비</sent>
+
+<sent type="main" lang="chi" page="07b" n="1">霖雨</sent>
+<sent type="main" lang="kor" page="07b" n="1">쟝마</sent>
+<sent type="main" lang="chi" page="07b" n="2">霰</sent>
+<sent type="main" lang="kor" page="07b" n="2">진눈갑이</sent>
+<sent type="main" lang="chi" page="07b" n="3">過雨</sent>
+<sent type="main" lang="kor" page="07b" n="3">소나기</sent>
+<sent type="main" lang="chi" page="07b" n="4">濛鬆雨</sent>
+<sent type="main" lang="kor" page="07b" n="4">이슬비</sent>
+<sent type="main" lang="chi" page="07b" n="5">雨起泡</sent>
+<sent type="main" lang="kor" page="07b" n="5">비방울</sent>
+<sent type="main" lang="chi" page="07b" n="6">一犁雨</sent>
+<sent type="main" lang="kor" page="07b" n="6">보락비</sent>
+<sent type="main" lang="chi" page="07b" n="7">一鋤雨</sent>
+<sent type="main" lang="kor" page="07b" n="7">호믜락비</sent>
+<sent type="main" lang="chi" page="07b" n="8">晴</sent>
+<sent type="main" lang="kor" page="07b" n="8">비개다</sent>
+<sent type="main" lang="chi" page="07b" n="9">旱</sent>
+<sent type="main" lang="kor" page="07b" n="9">가미다</sent>
+<sent type="main" lang="chi" page="07b" n="10">雪</sent>
+<sent type="main" lang="kor" page="07b" n="10">눈</sent>
+<sent type="main" lang="chi" page="07b" n="11">鵝毛</sent>
+<sent type="main" lang="kor" page="07b" n="11">눈송이</sent>
+<sent type="main" lang="chi" page="07b" n="12">米雪</sent>
+<sent type="main" lang="kor" page="07b" n="12">싸라기눈</sent>
+<sent type="main" lang="chi" page="07b" n="13">霰一抹雪</sent>
+<sent type="main" lang="kor" page="07b" n="13">최눈</sent>
+<sent type="main" lang="chi" page="07b" n="14">雹</sent>
+<sent type="main" lang="kor" page="07b" n="14">우박</sent>
+
+<sent type="main" lang="chi" page="08a" n="1">朔</sent>
+<sent type="main" lang="kor" page="08a" n="1">초하로</sent>
+<sent type="main" lang="chi" page="08a" n="2">初吉上日旁死魄</sent>
+<sent type="main" lang="kor" page="08a" n="2">초이틀</sent>
+<sent type="main" lang="chi" page="08a" n="3">哉生魄</sent>
+<sent type="main" lang="kor" page="08a" n="3">초사흘</sent>
+<sent type="main" lang="chi" page="08a" n="4">旬</sent>
+<sent type="main" lang="kor" page="08a" n="4">열흘</sent>
+<sent type="main" lang="chi" page="08a" n="5">望</sent>
+<sent type="main" lang="kor" page="08a" n="5">보름</sent>
+<sent type="main" lang="chi" page="08a" n="6">念</sent>
+<sent type="main" lang="kor" page="08a" n="6">스무날</sent>
+<sent type="main" lang="chi" page="08a" n="7">晦</sent>
+<sent type="main" lang="kor" page="08a" n="7">그뭄</sent>
+<sent type="main" lang="chi" page="08a" n="8">昨</sent>
+<sent type="main" lang="kor" page="08a" n="8">어젹긔</sent>
+<sent type="main" lang="chi" page="08a" n="9">再昨</sent>
+<sent type="main" lang="kor" page="08a" n="9">그젹긔</sent>
+<sent type="main" lang="chi" page="08a" n="10">大前日</sent>
+<sent type="main" lang="kor" page="08a" n="10">긋그젹긔</sent>
+<sent type="main" lang="chi" page="08a" n="11">曩</sent>
+<sent type="main" lang="kor" page="08a" n="11">거번</sent>
+
+<sent type="main" lang="chi" page="08b" n="1">今</sent>
+<sent type="main" lang="kor" page="08b" n="1">이졔</sent>
+<sent type="main" lang="chi" page="08b" n="2">明</sent>
+<sent type="main" lang="kor" page="08b" n="2">일</sent>
+<sent type="main" lang="chi" page="08b" n="3">再明</sent>
+<sent type="main" lang="kor" page="08b" n="3">모</sent>
+<sent type="main" lang="chi" page="08b" n="4">外後日</sent>
+<sent type="main" lang="kor" page="08b" n="4">글피</sent>
+<sent type="main" lang="chi" page="08b" n="5">有時</sent>
+<sent type="main" lang="kor" page="08b" n="5">잇다금</sent>
+<sent type="main" lang="chi" page="08b" n="6">漏</sent>
+<sent type="main" lang="kor" page="08b" n="6">누슈</sent>
+<sent type="main" lang="chi" page="08b" n="7">自鳴鍾</sent>
+<sent type="main" lang="kor" page="08b" n="7">명죵</sent>
+<sent type="main" lang="chi" page="08b" n="8">春</sent>
+<sent type="main" lang="kor" page="08b" n="8">봄</sent>
+<sent type="main" lang="chi" page="08b" n="9">春帖子</sent>
+<sent type="main" lang="kor" page="08b" n="9">립츈부치다</sent>
+<sent type="main" lang="chi" page="08b" n="10">夏</sent>
+<sent type="main" lang="kor" page="08b" n="10">여름</sent>
+<sent type="main" lang="chi" page="08b" n="11">熰熱</sent>
+<sent type="main" lang="kor" page="08b" n="11">무덥다</sent>
+
+<sent type="main" lang="chi" page="09a" n="1">秋</sent>
+<sent type="main" lang="kor" page="09a" n="1">을</sent>
+<sent type="main" lang="chi" page="09a" n="2">冬</sent>
+<sent type="main" lang="kor" page="09a" n="2">겨을</sent>
+<sent type="main" lang="chi" page="09a" n="3">上元</sent>
+<sent type="main" lang="kor" page="09a" n="3">대보름</sent>
+<sent type="main" lang="chi" page="09a" n="4">耗磨日</sent>
+<sent type="main" lang="kor" page="09a" n="4">귀신날</sent>
+
+<sent type="main" lang="chi" page="10a" n="1">馬日</sent>
+<sent type="main" lang="kor" page="10a" n="1">마날</sent>
+
+<sent type="main" lang="chi" page="10b" n="1">閏</sent>
+<sent type="main" lang="kor" page="10b" n="1">윤달</sent>
+<sent type="title2" lang="chi" page="10b" n="2">地道部</sent>
+<sent type="main" lang="chi" page="10b" n="3">地</sent>
+<sent type="main" lang="kor" page="10b" n="3">히라</sent>
+
+<sent type="main" lang="chi" page="11a" n="1">國</sent>
+<sent type="main" lang="kor" page="11a" n="1">나라</sent>
+
+<sent type="main" lang="chi" page="12a" n="1">帽子</sent>
+<sent type="main" lang="kor" page="12a" n="1">마라기</sent>
+
+<sent type="main" lang="chi" page="12b" n="1">固麻[百濟稱都城今俗稱闕門曰]</sent>
+<sent type="main" lang="kor" page="12b" n="1">고아문</sent>
+<sent type="main" lang="chi" page="12b" n="2">垜口</sent>
+<sent type="main" lang="kor" page="12b" n="2">셩각휘</sent>
+<sent type="main" lang="chi" page="12b" n="3">砲眼</sent>
+<sent type="main" lang="kor" page="12b" n="3">셩구멍</sent>
+<sent type="main" lang="chi" page="12b" n="4">烽</sent>
+<sent type="main" lang="kor" page="12b" n="4">봉화</sent>
+<sent type="main" lang="chi" page="12b" n="5">烽橧</sent>
+<sent type="main" lang="kor" page="12b" n="5">봉화둑</sent>
+<sent type="main" lang="chi" page="12b" n="6">燉臺</sent>
+<sent type="main" lang="kor" page="12b" n="6">봉화드 뫼 닥이</sent>
+<sent type="main" lang="chi" page="12b" n="7">死衚衕</sent>
+<sent type="main" lang="kor" page="12b" n="7">막다른 골목</sent>
+<sent type="main" lang="chi" page="12b" n="8">道</sent>
+<sent type="main" lang="kor" page="12b" n="8">길</sent>
+<sent type="main" lang="chi" page="12b" n="9">衖</sent>
+<sent type="main" lang="kor" page="12b" n="9">병문</sent>
+<sent type="main" lang="chi" page="12b" n="10">街</sent>
+<sent type="main" lang="kor" page="12b" n="10">거리</sent>
+<sent type="main" lang="chi" page="12b" n="11">徑</sent>
+<sent type="main" lang="kor" page="12b" n="11">지렁길</sent>
+
+<sent type="main" lang="chi" page="13a" n="1">彎路</sent>
+<sent type="main" lang="kor" page="13a" n="1">어음길</sent>
+<sent type="main" lang="chi" page="13a" n="2">遷</sent>
+<sent type="main" lang="kor" page="13a" n="2">벼로길</sent>
+<sent type="main" lang="chi" page="13a" n="3">路濃</sent>
+<sent type="main" lang="kor" page="13a" n="3">길수의다</sent>
+<sent type="main" lang="chi" page="13a" n="4">堠子</sent>
+<sent type="main" lang="kor" page="13a" n="4">쟝승</sent>
+<sent type="main" lang="chi" page="13a" n="5">橋</sent>
+<sent type="main" lang="kor" page="13a" n="5">다리</sent>
+<sent type="main" lang="chi" page="13a" n="6">梁</sent>
+<sent type="main" lang="kor" page="13a" n="6">돌다리</sent>
+<sent type="main" lang="chi" page="13a" n="7">榷</sent>
+<sent type="main" lang="kor" page="13a" n="7">외나무다리</sent>
+<sent type="main" lang="chi" page="13a" n="8">跳過橋</sent>
+<sent type="main" lang="kor" page="13a" n="8">징검다리</sent>
+<sent type="main" lang="chi" page="13a" n="9">橋洞</sent>
+<sent type="main" lang="kor" page="13a" n="9">다리구멍</sent>
+<sent type="main" lang="chi" page="13a" n="10">土</sent>
+<sent type="main" lang="kor" page="13a" n="10">흙</sent>
+<sent type="main" lang="chi" page="13a" n="11">埴土</sent>
+<sent type="main" lang="kor" page="13a" n="11">질흙</sent>
+<sent type="main" lang="chi" page="13a" n="12">赤剛土</sent>
+<sent type="main" lang="kor" page="13a" n="12">불근 질흙</sent>
+<sent type="main" lang="chi" page="13a" n="13">涅</sent>
+<sent type="main" lang="kor" page="13a" n="13">거문흙</sent>
+<sent type="main" lang="chi" page="13a" n="14">埣</sent>
+<sent type="main" lang="kor" page="13a" n="14">몌흙</sent>
+<sent type="main" lang="chi" page="13a" n="15">堊</sent>
+<sent type="main" lang="kor" page="13a" n="15">토</sent>
+<sent type="main" lang="chi" page="13a" n="16">蚡壤</sent>
+<sent type="main" lang="kor" page="13a" n="16">두더 수신흙</sent>
+<sent type="main" lang="chi" page="13a" n="17">茅蕩</sent>
+<sent type="main" lang="kor" page="13a" n="17">즌퍼리</sent>
+<sent type="main" lang="chi" page="13a" n="18">穿地</sent>
+<sent type="main" lang="kor" page="13a" n="18">판 구덩이</sent>
+<sent type="main" lang="chi" page="13a" n="19">壤地</sent>
+<sent type="main" lang="kor" page="13a" n="19">그러 흙 무덕이</sent>
+<sent type="main" lang="chi" page="13a" n="20">堅地</sent>
+<sent type="main" lang="kor" page="13a" n="20">다진 흙</sent>
+<sent type="main" lang="chi" page="13a" n="21">地皮硝起</sent>
+<sent type="main" lang="kor" page="13a" n="21">소으르다</sent>
+<sent type="main" lang="chi" page="13a" n="22">地潮</sent>
+<sent type="main" lang="kor" page="13a" n="22">츅츅</sent>
+<sent type="main" lang="chi" page="13a" n="23">地酥</sent>
+<sent type="main" lang="kor" page="13a" n="23">무루다</sent>
+<sent type="main" lang="chi" page="13a" n="24">地鬆</sent>
+<sent type="main" lang="kor" page="13a" n="24">부수수 흙</sent>
+<sent type="main" lang="chi" page="13a" n="25">艸坯子</sent>
+<sent type="main" lang="kor" page="13a" n="25">덩이</sent>
+<sent type="main" lang="chi" page="13a" n="26">鼓堆土</sent>
+<sent type="main" lang="kor" page="13a" n="26">두둑 흙</sent>
+<sent type="main" lang="chi" page="13a" n="27">塵</sent>
+<sent type="main" lang="kor" page="13a" n="27">틔글</sent>
+<sent type="main" lang="chi" page="13a" n="28">梁上塵</sent>
+<sent type="main" lang="kor" page="13a" n="28">냥샹진</sent>
+<sent type="main" lang="chi" page="13a" n="29">山</sent>
+<sent type="main" lang="kor" page="13a" n="29">산</sent>
+
+<sent type="main" lang="chi" page="13b" n="1">嶺</sent>
+<sent type="main" lang="kor" page="13b" n="1">고</sent>
+<sent type="main" lang="chi" page="13b" n="2">山梁</sent>
+<sent type="main" lang="kor" page="13b" n="2">산마루</sent>
+<sent type="main" lang="chi" page="13b" n="3">山縫</sent>
+<sent type="main" lang="kor" page="13b" n="3">뫼틈</sent>
+<sent type="main" lang="chi" page="13b" n="4">丘</sent>
+<sent type="main" lang="kor" page="13b" n="4">언덕</sent>
+<sent type="main" lang="chi" page="13b" n="5">谷</sent>
+<sent type="main" lang="kor" page="13b" n="5">골</sent>
+<sent type="main" lang="chi" page="13b" n="6">窟</sent>
+<sent type="main" lang="kor" page="13b" n="6">굴</sent>
+<sent type="main" lang="chi" page="13b" n="7">坎</sent>
+<sent type="main" lang="kor" page="13b" n="7">구덩이</sent>
+<sent type="main" lang="chi" page="13b" n="8">水</sent>
+<sent type="main" lang="kor" page="13b" n="8">물</sent>
+<sent type="main" lang="chi" page="13b" n="9">涯</sent>
+<sent type="main" lang="kor" page="13b" n="9">물</sent>
+
+<sent type="main" lang="chi" page="14a" n="1">澗</sent>
+<sent type="main" lang="kor" page="14a" n="1">시</sent>
+<sent type="main" lang="chi" page="14a" n="2">溪</sent>
+<sent type="main" lang="kor" page="14a" n="2">울</sent>
+<sent type="main" lang="chi" page="14a" n="3">塘</sent>
+<sent type="main" lang="kor" page="14a" n="3">방쥭</sent>
+<sent type="main" lang="chi" page="14a" n="4">陂</sent>
+<sent type="main" lang="kor" page="14a" n="4">늡</sent>
+<sent type="main" lang="chi" page="14a" n="5">洿</sent>
+<sent type="main" lang="kor" page="14a" n="5">웅덩이</sent>
+<sent type="main" lang="chi" page="14a" n="6">□□</sent>
+<sent type="main" lang="kor" page="14a" n="6">즈젹즈젹 </sent>
+<sent type="main" lang="chi" page="14a" n="7">川</sent>
+<sent type="main" lang="kor" page="14a" n="7"></sent>
+<sent type="main" lang="chi" page="14a" n="8">泉</sent>
+<sent type="main" lang="kor" page="14a" n="8">암</sent>
+<sent type="main" lang="chi" page="14a" n="9">池</sent>
+<sent type="main" lang="kor" page="14a" n="9">못</sent>
+<sent type="main" lang="chi" page="14a" n="10">瀑布</sent>
+<sent type="main" lang="kor" page="14a" n="10">폭포</sent>
+<sent type="main" lang="chi" page="14a" n="11">井</sent>
+<sent type="main" lang="kor" page="14a" n="11">우물</sent>
+<sent type="main" lang="chi" page="14a" n="12">汲</sent>
+<sent type="main" lang="kor" page="14a" n="12">물기읍다</sent>
+<sent type="main" lang="chi" page="14a" n="13">綆</sent>
+<sent type="main" lang="kor" page="14a" n="13">두레박쥴</sent>
+<sent type="main" lang="chi" page="14a" n="14">水斗</sent>
+<sent type="main" lang="kor" page="14a" n="14">두레</sent>
+<sent type="main" lang="chi" page="14a" n="15">桶梁</sent>
+<sent type="main" lang="kor" page="14a" n="15">두레가로싸</sent>
+<sent type="main" lang="chi" page="14a" n="16">長盆</sent>
+<sent type="main" lang="kor" page="14a" n="16">쟝군</sent>
+<sent type="main" lang="chi" page="14a" n="17">窶藪</sent>
+<sent type="main" lang="kor" page="14a" n="17">아리</sent>
+<sent type="main" lang="chi" page="14a" n="18">海</sent>
+<sent type="main" lang="kor" page="14a" n="18">바다</sent>
+
+<sent type="main" lang="chi" page="14b" n="1">尾閭</sent>
+<sent type="main" lang="kor" page="14b" n="1">미려혈</sent>
+<sent type="main" lang="chi" page="14b" n="2">大起</sent>
+<sent type="main" lang="kor" page="14b" n="2">리</sent>
+<sent type="main" lang="chi" page="14b" n="3">小汛</sent>
+<sent type="main" lang="kor" page="14b" n="3">죠금</sent>
+<sent type="main" lang="chi" page="14b" n="4">江</sent>
+<sent type="main" lang="kor" page="14b" n="4">강</sent>
+<sent type="main" lang="chi" page="14b" n="5">黃河</sent>
+<sent type="main" lang="kor" page="14b" n="5">황하슈</sent>
+<sent type="main" lang="chi" page="14b" n="6">津</sent>
+<sent type="main" lang="kor" page="14b" n="6">나루</sent>
+<sent type="main" lang="chi" page="14b" n="7">渡</sent>
+<sent type="main" lang="kor" page="14b" n="7">나드리</sent>
+<sent type="main" lang="chi" page="14b" n="8">泳</sent>
+<sent type="main" lang="kor" page="14b" n="8">잠의약질</sent>
+<sent type="main" lang="chi" page="14b" n="9">氵+子</sent><!--헤엄칠 수-->
+<sent type="main" lang="kor" page="14b" n="9">혀염</sent>
+<sent type="main" lang="chi" page="14b" n="10">潛</sent>
+<sent type="main" lang="kor" page="14b" n="10">물숨박질</sent>
+<sent type="main" lang="chi" page="14b" n="11">瀨</sent>
+<sent type="main" lang="kor" page="14b" n="11">여흘</sent>
+<sent type="main" lang="chi" page="14b" n="12">浦</sent>
+<sent type="main" lang="kor" page="14b" n="12">포</sent>
+<sent type="main" lang="chi" page="14b" n="13">波</sent>
+<sent type="main" lang="kor" page="14b" n="13">물결</sent>
+<sent type="main" lang="chi" page="14b" n="14">浪</sent>
+<sent type="main" lang="kor" page="14b" n="14">물노울</sent>
+
+<sent type="main" lang="chi" page="15a" n="1">活水</sent>
+<sent type="main" lang="kor" page="15a" n="1">날 물</sent>
+<sent type="main" lang="chi" page="15a" n="2">煎熱湯</sent>
+<sent type="main" lang="kor" page="15a" n="2">인 물</sent>
+<sent type="main" lang="chi" page="15a" n="3">甑氣水</sent>
+<sent type="main" lang="kor" page="15a" n="3">더운 김 오른 물</sent>
+<sent type="main" lang="chi" page="15a" n="4">桃花水</sent>
+<sent type="main" lang="kor" page="15a" n="4">눈 목은 물</sent>
+<sent type="main" lang="chi" page="15a" n="5">泡</sent>
+<sent type="main" lang="kor" page="15a" n="5">거품</sent>
+<sent type="main" lang="chi" page="15a" n="6">水泡</sent>
+<sent type="main" lang="kor" page="15a" n="6">물방울</sent>
+<sent type="main" lang="chi" page="15a" n="7">淸</sent>
+<sent type="main" lang="kor" page="15a" n="7">맑다</sent>
+<sent type="main" lang="chi" page="15a" n="8">濁</sent>
+<sent type="main" lang="kor" page="15a" n="8">흐리다</sent>
+<sent type="main" lang="chi" page="15a" n="9">深</sent>
+<sent type="main" lang="kor" page="15a" n="9">깁다</sent>
+<sent type="main" lang="chi" page="15a" n="10">溢</sent>
+<sent type="main" lang="kor" page="15a" n="10">넘치다</sent>
+<sent type="main" lang="chi" page="15a" n="11">淺</sent>
+<sent type="main" lang="kor" page="15a" n="11">얏다</sent>
+<sent type="main" lang="chi" page="15a" n="12">緊水</sent>
+<sent type="main" lang="kor" page="15a" n="12">물발 셰다</sent>
+<sent type="main" lang="chi" page="15a" n="13">漏</sent>
+<sent type="main" lang="kor" page="15a" n="13">이다</sent>
+<sent type="main" lang="chi" page="15a" n="14">瀉</sent>
+<sent type="main" lang="kor" page="15a" n="14">쏫다</sent>
+<sent type="main" lang="chi" page="15a" n="15">滴</sent>
+<sent type="main" lang="kor" page="15a" n="15">물 러지다</sent>
+<sent type="main" lang="chi" page="15a" n="16">漬</sent>
+<sent type="main" lang="kor" page="15a" n="16">번지다</sent>
+<sent type="main" lang="chi" page="15a" n="17">沾</sent>
+<sent type="main" lang="kor" page="15a" n="17">졋다</sent>
+<sent type="main" lang="chi" page="15a" n="18">浮</sent>
+<sent type="main" lang="kor" page="15a" n="18">다</sent>
+<sent type="main" lang="chi" page="15a" n="19">沈</sent>
+<sent type="main" lang="kor" page="15a" n="19">잠기다</sent>
+<sent type="main" lang="chi" page="15a" n="20">□</sent>
+<sent type="main" lang="kor" page="15a" n="20">물의 늣타</sent>
+<sent type="main" lang="chi" page="15a" n="21">拯</sent>
+<sent type="main" lang="kor" page="15a" n="21">건지다</sent>
+<sent type="main" lang="chi" page="15a" n="22">漲</sent>
+<sent type="main" lang="kor" page="15a" n="22">시위</sent>
+<sent type="main" lang="chi" page="15a" n="23">河身</sent>
+<sent type="main" lang="kor" page="15a" n="23">물</sent>
+<sent type="main" lang="chi" page="15a" n="24">生熟湯</sent>
+<sent type="main" lang="kor" page="15a" n="24">음양슈</sent>
+<sent type="main" lang="chi" page="15a" n="25">溝</sent>
+<sent type="main" lang="kor" page="15a" n="25">쳔</sent>
+<sent type="main" lang="chi" page="15a" n="26">隱溝</sent>
+<sent type="main" lang="kor" page="15a" n="26">은구</sent>
+
+<sent type="main" lang="chi" page="15b" n="1">筧</sent>
+<sent type="main" lang="kor" page="15b" n="1">홈</sent>
+<sent type="main" lang="chi" page="15b" n="2">梘</sent>
+<sent type="main" lang="kor" page="15b" n="2">목홈</sent>
+<sent type="main" lang="chi" page="15b" n="3">桔槹</sent>
+<sent type="main" lang="kor" page="15b" n="3">뇽두레</sent>
+<sent type="main" lang="chi" page="15b" n="4">水車</sent>
+<sent type="main" lang="kor" page="15b" n="4">무위</sent>
+<sent type="main" lang="chi" page="15b" n="5">氷</sent>
+<sent type="main" lang="kor" page="15b" n="5">어름</sent>
+<sent type="main" lang="chi" page="15b" n="6">澌</sent>
+<sent type="main" lang="kor" page="15b" n="6">셩쟝</sent>
+<sent type="main" lang="chi" page="15b" n="7">凝</sent>
+<sent type="main" lang="kor" page="15b" n="7">살어름</sent>
+<sent type="main" lang="chi" page="15b" n="8">簷凌</sent>
+<sent type="main" lang="kor" page="15b" n="8">고도름</sent>
+<sent type="main" lang="chi" page="15b" n="9">沙</sent>
+<sent type="main" lang="kor" page="15b" n="9">모</sent>
+<sent type="main" lang="chi" page="15b" n="10">沙汰</sent>
+<sent type="main" lang="kor" page="15b" n="10">태나다</sent>
+<sent type="main" lang="chi" page="15b" n="11">灣</sent>
+<sent type="main" lang="kor" page="15b" n="11">물구븨</sent>
+<sent type="main" lang="chi" page="15b" n="12">島</sent>
+<sent type="main" lang="kor" page="15b" n="12">서음</sent>
+<sent type="main" lang="chi" page="15b" n="13">田</sent>
+<sent type="main" lang="kor" page="15b" n="13">밧</sent>
+<sent type="main" lang="chi" page="15b" n="14">水田</sent>
+<sent type="main" lang="kor" page="15b" n="14">논</sent>
+<sent type="main" lang="chi" page="15b" n="15">甫田</sent>
+<sent type="main" lang="kor" page="15b" n="15">언마기</sent>
+<sent type="main" lang="chi" page="15b" n="16">隄</sent>
+<sent type="main" lang="kor" page="15b" n="16">둑</sent>
+<sent type="main" lang="chi" page="15b" n="17">埽</sent>
+<sent type="main" lang="kor" page="15b" n="17">방쳔다</sent>
+<sent type="main" lang="chi" page="15b" n="18">火田</sent>
+<sent type="main" lang="kor" page="15b" n="18">화젼</sent>
+<sent type="main" lang="chi" page="15b" n="19">畎</sent>
+<sent type="main" lang="kor" page="15b" n="19">밧고랑</sent>
+<sent type="main" lang="chi" page="15b" n="20">甾</sent>
+<sent type="main" lang="kor" page="15b" n="20">두덕</sent>
+<sent type="main" lang="chi" page="15b" n="21">打量</sent>
+<sent type="main" lang="kor" page="15b" n="21">쳑냥</sent>
+
+<sent type="title2" lang="chi" page="16a" n="1">人道部</sent>
+<sent type="main" lang="chi" page="16a" n="2">男</sent>
+<sent type="main" lang="kor" page="16a" n="2">사나</sent>
+<sent type="main" lang="chi" page="16a" n="3">閹</sent>
+<sent type="main" lang="kor" page="16a" n="3">고</sent>
+<sent type="main" lang="chi" page="16a" n="4">天</sent>
+<sent type="main" lang="kor" page="16a" n="4">쳔고</sent>
+<sent type="main" lang="chi" page="16a" n="5">龍陽</sent>
+<sent type="main" lang="kor" page="16a" n="5">남</sent>
+<sent type="main" lang="chi" page="16a" n="6">女</sent>
+<sent type="main" lang="kor" page="16a" n="6">겨집</sent>
+<sent type="main" lang="chi" page="16a" n="7">太太</sent>
+<sent type="main" lang="kor" page="16a" n="7">마노라</sent>
+<sent type="main" lang="chi" page="16a" n="8">奶奶</sent>
+<sent type="main" lang="kor" page="16a" n="8">각시님</sent>
+<sent type="main" lang="chi" page="16a" n="9">召史</sent>
+<sent type="main" lang="kor" page="16a" n="9">조이</sent>
+<sent type="main" lang="chi" page="16a" n="10">月水</sent>
+<sent type="main" lang="kor" page="16a" n="10">월경</sent>
+
+<sent type="main" lang="chi" page="16b" n="1">血衣</sent>
+<sent type="main" lang="kor" page="16b" n="1">가짐</sent>
+<sent type="main" lang="chi" page="16b" n="2">刁姦</sent>
+<sent type="main" lang="kor" page="16b" n="2">졔히고 엇다</sent>
+<sent type="main" lang="chi" page="16b" n="3">和姦</sent>
+<sent type="main" lang="kor" page="16b" n="3">조화셔 엇다</sent>
+<sent type="main" lang="chi" page="16b" n="4">妬</sent>
+<sent type="main" lang="kor" page="16b" n="4">투긔</sent>
+<sent type="main" lang="chi" page="16b" n="5">孕</sent>
+<sent type="main" lang="kor" page="16b" n="5">식다</sent>
+<sent type="main" lang="chi" page="16b" n="6">雙胎</sent>
+<sent type="main" lang="kor" page="16b" n="6"></sent>
+<sent type="main" lang="chi" page="16b" n="7">品胎</sent>
+<sent type="main" lang="kor" page="16b" n="7">삼</sent>
+<sent type="main" lang="chi" page="16b" n="8">害喜</sent>
+<sent type="main" lang="kor" page="16b" n="8">식셔다</sent>
+<sent type="main" lang="chi" page="16b" n="9">害口</sent>
+<sent type="main" lang="kor" page="16b" n="9">입젹다</sent>
+<sent type="main" lang="chi" page="16b" n="10">就館</sent>
+<sent type="main" lang="kor" page="16b" n="10">산다</sent>
+<sent type="main" lang="chi" page="16b" n="11">截臍</sent>
+<sent type="main" lang="kor" page="16b" n="11">삼르다</sent>
+<sent type="main" lang="chi" page="16b" n="12">小産</sent>
+<sent type="main" lang="kor" page="16b" n="12">나읏다</sent>
+<sent type="main" lang="chi" page="16b" n="13">胞衣</sent>
+<sent type="main" lang="kor" page="16b" n="13"></sent>
+<sent type="main" lang="chi" page="16b" n="14">落胎</sent>
+<sent type="main" lang="kor" page="16b" n="14">낙</sent>
+<sent type="main" lang="chi" page="16b" n="15">死胎</sent>
+<sent type="main" lang="kor" page="16b" n="15">사</sent>
+<sent type="main" lang="chi" page="16b" n="16">兒枕痛</sent>
+<sent type="main" lang="kor" page="16b" n="16">훗알이</sent>
+<sent type="main" lang="chi" page="16b" n="17">坐婆</sent>
+<sent type="main" lang="kor" page="16b" n="17">산구완 </sent>
+<sent type="main" lang="chi" page="16b" n="18">蓐母褥</sent>
+<sent type="main" lang="kor" page="16b" n="18">산거젹</sent>
+<sent type="main" lang="chi" page="16b" n="19">粧</sent>
+<sent type="main" lang="kor" page="16b" n="19">셩젹</sent>
+<sent type="main" lang="chi" page="16b" n="20">描眉</sent>
+<sent type="main" lang="kor" page="16b" n="20">눈섭짓다</sent>
+
+<sent type="main" lang="chi" page="17a" n="1">絞面</sent>
+<sent type="main" lang="kor" page="17a" n="1">얼골의 털 미다</sent>
+<sent type="main" lang="chi" page="17a" n="2">丹的</sent>
+<sent type="main" lang="kor" page="17a" n="2">곤지</sent>
+<sent type="main" lang="chi" page="17a" n="3">搽面</sent>
+<sent type="main" lang="kor" page="17a" n="3">분바르다</sent>
+<sent type="main" lang="chi" page="17a" n="4">膏脣</sent>
+<sent type="main" lang="kor" page="17a" n="4">연지다</sent>
+<sent type="main" lang="chi" page="17a" n="5">臙脂</sent>
+<sent type="main" lang="kor" page="17a" n="5">연지</sent>
+<sent type="main" lang="chi" page="17a" n="6">粧奩</sent>
+<sent type="main" lang="kor" page="17a" n="6">셩젹함</sent>
+<sent type="main" lang="chi" page="17a" n="7">鏡臺</sent>
+<sent type="main" lang="kor" page="17a" n="7">경</sent>
+<sent type="main" lang="chi" page="17a" n="8">髲</sent>
+<sent type="main" lang="kor" page="17a" n="8">머리</sent>
+<sent type="main" lang="chi" page="17a" n="9">髻</sent>
+<sent type="main" lang="kor" page="17a" n="9">머리[俗稱 다리]</sent>
+<sent type="main" lang="chi" page="17a" n="10">笄</sent>
+<sent type="main" lang="kor" page="17a" n="10">빈혀</sent>
+<sent type="main" lang="chi" page="17a" n="11">都多益</sent>
+<sent type="main" lang="kor" page="17a" n="11">도토락당긔</sent>
+<sent type="main" lang="chi" page="17a" n="12">珥</sent>
+<sent type="main" lang="kor" page="17a" n="12">귀에 골희</sent>
+<sent type="main" lang="chi" page="17a" n="13">指環</sent>
+<sent type="main" lang="kor" page="17a" n="13">가락지</sent>
+<sent type="main" lang="chi" page="17a" n="14">釧</sent>
+<sent type="main" lang="kor" page="17a" n="14">팔쇠</sent>
+<sent type="main" lang="chi" page="17a" n="15">遮臉皮</sent>
+<sent type="main" lang="kor" page="17a" n="15">볼지</sent>
+<sent type="main" lang="chi" page="17a" n="16">蒙頭衣</sent>
+<sent type="main" lang="kor" page="17a" n="16">무루[俗稱 쟝옷]</sent>
+<sent type="main" lang="chi" page="17a" n="17">裙</sent>
+<sent type="main" lang="kor" page="17a" n="17">치마</sent>
+<sent type="main" lang="chi" page="17a" n="18">裙帶</sent>
+<sent type="main" lang="kor" page="17a" n="18">치마</sent>
+<sent type="main" lang="chi" page="17a" n="19">窮袴</sent>
+<sent type="main" lang="kor" page="17a" n="19">밋막은 바지</sent>
+<sent type="main" lang="chi" page="17a" n="20">桶裙</sent>
+<sent type="main" lang="kor" page="17a" n="20">도랑치마</sent>
+<sent type="main" lang="chi" page="17a" n="21">紟</sent>
+<sent type="main" lang="kor" page="17a" n="21">옷고름</sent>
+<sent type="main" lang="chi" page="17a" n="22">小兒</sent>
+<sent type="main" lang="kor" page="17a" n="22">어린 </sent>
+
+<sent type="main" lang="chi" page="17b" n="1">圻臍帶</sent>
+<sent type="main" lang="kor" page="17b" n="1">쥴</sent>
+<sent type="main" lang="chi" page="17b" n="2">日卒日</sent>
+<sent type="main" lang="kor" page="17b" n="2">돌날</sent>
+<sent type="main" lang="chi" page="17b" n="3">日卒盤</sent>
+<sent type="main" lang="kor" page="17b" n="3">돌상</sent>
+<sent type="main" lang="chi" page="17b" n="4">差池同甲</sent>
+<sent type="main" lang="kor" page="17b" n="4">자치동갑</sent>
+<sent type="main" lang="chi" page="17b" n="5">咂□子</sent>
+<sent type="main" lang="kor" page="17b" n="5">젓다</sent>
+<sent type="main" lang="chi" page="17b" n="6">洋奶</sent>
+<sent type="main" lang="kor" page="17b" n="6">젓토다</sent>
+<sent type="main" lang="chi" page="17b" n="7">乳媼</sent>
+<sent type="main" lang="kor" page="17b" n="7">유모</sent>
+<sent type="main" lang="chi" page="17b" n="8">奶公</sent>
+<sent type="main" lang="kor" page="17b" n="8">젓아비</sent>
+<sent type="main" lang="chi" page="17b" n="9">育養</sent>
+<sent type="main" lang="kor" page="17b" n="9">기르다</sent>
+<sent type="main" lang="chi" page="17b" n="10">髟+第</sent><!--髟아래에 第가 표기됨.-->
+<sent type="main" lang="kor" page="17b" n="10">머리다</sent>
+<sent type="main" lang="chi" page="17b" n="11">編髮</sent>
+<sent type="main" lang="kor" page="17b" n="11">머리타</sent>
+<sent type="main" lang="chi" page="17b" n="12">峏系</sent>
+<sent type="main" lang="kor" page="17b" n="12">당기</sent>
+<sent type="main" lang="chi" page="17b" n="13">系齠</sent>
+<sent type="main" lang="kor" page="17b" n="13">니갈다</sent>
+<sent type="main" lang="chi" page="17b" n="14">衤冒</sent>
+<sent type="main" lang="kor" page="17b" n="14">굴네</sent>
+<sent type="main" lang="chi" page="17b" n="15">襁</sent>
+<sent type="main" lang="kor" page="17b" n="15">업고  슈건</sent>
+<sent type="main" lang="chi" page="17b" n="16">褓</sent>
+<sent type="main" lang="kor" page="17b" n="16">두렁이</sent>
+<sent type="main" lang="chi" page="17b" n="17">䙔衣</sent>
+<sent type="main" lang="kor" page="17b" n="17"> 춤 밧기</sent>
+<sent type="main" lang="chi" page="17b" n="18">尿布</sent>
+<sent type="main" lang="kor" page="17b" n="18">샷깃 卽 기저귀</sent>
+<sent type="main" lang="chi" page="17b" n="19">把尿</sent>
+<sent type="main" lang="kor" page="17b" n="19">오좀그느다</sent>
+<sent type="main" lang="chi" page="17b" n="20">鹿飯塗羹</sent>
+<sent type="main" lang="kor" page="17b" n="20">솟곱노리</sent>
+<sent type="main" lang="chi" page="17b" n="21">迷藏</sent>
+<sent type="main" lang="kor" page="17b" n="21">숨박질</sent>
+<sent type="main" lang="chi" page="17b" n="22">怕生</sent>
+<sent type="main" lang="kor" page="17b" n="22">낫서러다</sent>
+<sent type="main" lang="chi" page="17b" n="23">麻胡將軍</sent>
+<sent type="main" lang="kor" page="17b" n="23">야오광</sent>
+<sent type="main" lang="chi" page="17b" n="24">繼病</sent>
+<sent type="main" lang="kor" page="17b" n="24">오오타병</sent>
+<sent type="main" lang="chi" page="17b" n="25">驚風</sent>
+<sent type="main" lang="kor" page="17b" n="25">경풍</sent>
+
+<sent type="main" lang="chi" page="18a" n="1">重舌</sent>
+<sent type="main" lang="kor" page="18a" n="1">즁혀</sent>
+<sent type="main" lang="chi" page="18a" n="2">丹毒</sent>
+<sent type="main" lang="kor" page="18a" n="2">단독</sent>
+<sent type="main" lang="chi" page="18a" n="3">解顱</sent>
+<sent type="main" lang="kor" page="18a" n="3">뢰</sent>
+<sent type="main" lang="chi" page="18a" n="4">水痘</sent>
+<sent type="main" lang="kor" page="18a" n="4">이</sent>
+<sent type="main" lang="chi" page="18a" n="5">痘瘡</sent>
+<sent type="main" lang="kor" page="18a" n="5">역질</sent>
+<sent type="main" lang="chi" page="18a" n="6">發斑</sent>
+<sent type="main" lang="kor" page="18a" n="6">발반</sent>
+<sent type="main" lang="chi" page="18a" n="7">出花兒</sent>
+<sent type="main" lang="kor" page="18a" n="7">역질돗다</sent>
+<sent type="main" lang="chi" page="18a" n="8">起脹</sent>
+<sent type="main" lang="kor" page="18a" n="8">긔챵</sent>
+<sent type="main" lang="chi" page="18a" n="9">貫膿</sent>
+<sent type="main" lang="kor" page="18a" n="9">관롱</sent>
+<sent type="main" lang="chi" page="18a" n="10">收靨</sent>
+<sent type="main" lang="kor" page="18a" n="10">슈합</sent>
+<sent type="main" lang="chi" page="18a" n="11">虎口太太</sent>
+<sent type="main" lang="kor" page="18a" n="11">호구마노라</sent>
+<sent type="main" lang="chi" page="18a" n="12">麻疹</sent>
+<sent type="main" lang="kor" page="18a" n="12">홍역</sent>
+<sent type="main" lang="chi" page="18a" n="13">胎丹</sent>
+<sent type="main" lang="kor" page="18a" n="13">단</sent>
+<sent type="main" lang="chi" page="18a" n="14">疳疾</sent>
+<sent type="main" lang="kor" page="18a" n="14">감질</sent>
+<sent type="main" lang="chi" page="18a" n="15">蠟梨頭瘡</sent>
+<sent type="main" lang="kor" page="18a" n="15">머리의 쇠더덩이</sent>
+<sent type="main" lang="chi" page="18a" n="16">閃癖</sent>
+<sent type="main" lang="kor" page="18a" n="16">복학</sent>
+<sent type="main" lang="chi" page="18a" n="17">老人</sent>
+<sent type="main" lang="kor" page="18a" n="17">늙그니</sent>
+<sent type="main" lang="chi" page="18a" n="18">亡+口</sent><!--노둔할 망. 亡 밑에 口-->
+<sent type="main" lang="kor" page="18a" n="18">노망</sent>
+<sent type="main" lang="chi" page="18a" n="19">壽考</sent>
+<sent type="main" lang="kor" page="18a" n="19">슈다</sent>
+<sent type="main" lang="chi" page="18a" n="20">回甲</sent>
+<sent type="main" lang="kor" page="18a" n="20">환갑</sent>
+<sent type="main" lang="chi" page="18a" n="21">回巹</sent>
+<sent type="main" lang="kor" page="18a" n="21">회혼례</sent>
+<sent type="main" lang="chi" page="18a" n="22">壽衣</sent>
+<sent type="main" lang="kor" page="18a" n="22">수의</sent>
+
+<sent type="main" lang="chi" page="18b" n="1">壽哭年</sent>
+<sent type="main" lang="kor" page="18b" n="1">나히라</sent>
+<sent type="main" lang="chi" page="18b" n="2">病</sent>
+<sent type="main" lang="kor" page="18b" n="2">병</sent>
+<sent type="main" lang="chi" page="18b" n="3">痼疾</sent>
+<sent type="main" lang="kor" page="18b" n="3">고질</sent>
+<sent type="main" lang="chi" page="18b" n="4">痛</sent>
+<sent type="main" lang="kor" page="18b" n="4">알타</sent>
+<sent type="main" lang="chi" page="18b" n="5">病落炕</sent>
+<sent type="main" lang="kor" page="18b" n="5">몸져눕다</sent>
+<sent type="main" lang="chi" page="18b" n="6">撮痛</sent>
+<sent type="main" lang="kor" page="18b" n="6">러 쥔드시 알푸다</sent>
+<sent type="main" lang="chi" page="18b" n="7">口艾也</sent>
+<sent type="main" lang="kor" page="18b" n="7">아야</sent>
+<sent type="main" lang="chi" page="18b" n="8">愈</sent>
+<sent type="main" lang="kor" page="18b" n="8">병나읏다</sent>
+<sent type="main" lang="chi" page="18b" n="9">蘇</sent>
+<sent type="main" lang="kor" page="18b" n="9">여다</sent>
+<sent type="main" lang="chi" page="18b" n="10">偏枯</sent>
+<sent type="main" lang="kor" page="18b" n="10">반신불슈</sent>
+<sent type="main" lang="chi" page="18b" n="11">麻木</sent>
+<sent type="main" lang="kor" page="18b" n="11">고 져리다</sent>
+<sent type="main" lang="chi" page="18b" n="12">呆了</sent>
+<sent type="main" lang="kor" page="18b" n="12">얼잇얼잇</sent>
+<sent type="main" lang="chi" page="18b" n="13">受暑</sent>
+<sent type="main" lang="kor" page="18b" n="13">더위드다</sent>
+<sent type="main" lang="chi" page="18b" n="14">飮暍</sent>
+<sent type="main" lang="kor" page="18b" n="14">더위먹다</sent>
+<sent type="main" lang="chi" page="18b" n="15">害熱</sent>
+<sent type="main" lang="kor" page="18b" n="15">더위타다</sent>
+<sent type="main" lang="chi" page="18b" n="16">中寒</sent>
+<sent type="main" lang="kor" page="18b" n="16">어러 막히다</sent>
+<sent type="main" lang="chi" page="18b" n="17">害冷</sent>
+<sent type="main" lang="kor" page="18b" n="17">치위타다</sent>
+<sent type="main" lang="chi" page="18b" n="18">澿</sent>
+<sent type="main" lang="kor" page="18b" n="18">치워다</sent>
+
+<sent type="main" lang="chi" page="19a" n="1">感冒</sent>
+<sent type="main" lang="kor" page="19a" n="1">감긔</sent>
+<sent type="main" lang="chi" page="19a" n="2">輪感</sent>
+<sent type="main" lang="kor" page="19a" n="2">뉸감</sent>
+<sent type="main" lang="chi" page="19a" n="3">害鼻淵</sent>
+<sent type="main" lang="kor" page="19a" n="3">곳불</sent>
+<sent type="main" lang="chi" page="19a" n="4">瘟疫</sent>
+<sent type="main" lang="kor" page="19a" n="4">염병</sent>
+<sent type="main" lang="chi" page="19a" n="5">痎瘧</sent>
+<sent type="main" lang="kor" page="19a" n="5">학질</sent>
+<sent type="main" lang="chi" page="19a" n="6">虛勞</sent>
+<sent type="main" lang="kor" page="19a" n="6">허로</sent>
+<sent type="main" lang="chi" page="19a" n="7">煩燥</sent>
+<sent type="main" lang="kor" page="19a" n="7">번조</sent>
+<sent type="main" lang="chi" page="19a" n="8">痰</sent>
+<sent type="main" lang="kor" page="19a" n="8">담</sent>
+<sent type="main" lang="chi" page="19a" n="9">咳嗽</sent>
+<sent type="main" lang="kor" page="19a" n="9">기침</sent>
+<sent type="main" lang="chi" page="19a" n="10">痢疾</sent>
+<sent type="main" lang="kor" page="19a" n="10">니질</sent>
+<sent type="main" lang="chi" page="19a" n="11">泄瀉</sent>
+<sent type="main" lang="kor" page="19a" n="11">셜샤</sent>
+<sent type="main" lang="chi" page="19a" n="12">霍亂</sent>
+<sent type="main" lang="kor" page="19a" n="12">곽난</sent>
+<sent type="main" lang="chi" page="19a" n="13">轉筋霍亂</sent>
+<sent type="main" lang="kor" page="19a" n="13">젼근곽난</sent>
+<sent type="main" lang="chi" page="19a" n="14">嘔吐</sent>
+<sent type="main" lang="kor" page="19a" n="14">구토</sent>
+<sent type="main" lang="chi" page="19a" n="15">惡心</sent>
+<sent type="main" lang="kor" page="19a" n="15">아니다</sent>
+<sent type="main" lang="chi" page="19a" n="16">口逆</sent>
+<sent type="main" lang="kor" page="19a" n="16">구역증</sent>
+<sent type="main" lang="chi" page="19a" n="17">醋心</sent>
+<sent type="main" lang="kor" page="19a" n="17">목곱다</sent>
+<sent type="main" lang="chi" page="19a" n="18">嘈雜</sent>
+<sent type="main" lang="kor" page="19a" n="18">다</sent>
+<sent type="main" lang="chi" page="19a" n="19">關格</sent>
+<sent type="main" lang="kor" page="19a" n="19">관격</sent>
+<sent type="main" lang="chi" page="19a" n="20">積聚</sent>
+<sent type="main" lang="kor" page="19a" n="20">젹</sent>
+<sent type="main" lang="chi" page="19a" n="21">疝症</sent>
+<sent type="main" lang="kor" page="19a" n="21">산증</sent>
+<sent type="main" lang="chi" page="19a" n="22">疸</sent>
+<sent type="main" lang="kor" page="19a" n="22">황달</sent>
+<sent type="main" lang="chi" page="19a" n="23">淋疾</sent>
+<sent type="main" lang="kor" page="19a" n="23">림질</sent>
+
+<sent type="main" lang="chi" page="19b" n="1">痔漏</sent>
+<sent type="main" lang="kor" page="19b" n="1">치질</sent>
+<sent type="main" lang="chi" page="19b" n="2">牡痔</sent>
+<sent type="main" lang="kor" page="19b" n="2">수치질</sent>
+<sent type="main" lang="chi" page="19b" n="3">牝痔</sent>
+<sent type="main" lang="kor" page="19b" n="3">안치질</sent>
+<sent type="main" lang="chi" page="19b" n="4">脫肛</sent>
+<sent type="main" lang="kor" page="19b" n="4">탈항</sent>
+<sent type="main" lang="chi" page="19b" n="5">陰虛火動</sent>
+<sent type="main" lang="kor" page="19b" n="5">음화동</sent>
+<sent type="main" lang="chi" page="19b" n="6">癲狂</sent>
+<sent type="main" lang="kor" page="19b" n="6">미치다</sent>
+<sent type="main" lang="chi" page="19b" n="7">癎疾</sent>
+<sent type="main" lang="kor" page="19b" n="7">질알</sent>
+<sent type="main" lang="chi" page="19b" n="8">中惡</sent>
+<sent type="main" lang="kor" page="19b" n="8">긔</sent>
+<sent type="main" lang="chi" page="19b" n="9">眩暈</sent>
+<sent type="main" lang="kor" page="19b" n="9">어질병</sent>
+<sent type="main" lang="chi" page="19b" n="10">注船</sent>
+<sent type="main" lang="kor" page="19b" n="10">멀믜</sent>
+<sent type="main" lang="chi" page="19b" n="11">注車</sent>
+<sent type="main" lang="kor" page="19b" n="11">수레멀믜</sent>
+<sent type="main" lang="chi" page="19b" n="12">健忘</sent>
+<sent type="main" lang="kor" page="19b" n="12">건망증</sent>
+<sent type="main" lang="chi" page="19b" n="13">驚悸</sent>
+<sent type="main" lang="kor" page="19b" n="13">경계증[마음이 우둔우둔다]</sent>
+<sent type="main" lang="chi" page="19b" n="14">怔忡</sent>
+<sent type="main" lang="kor" page="19b" n="14">졍츙증[가이 벌덕벌덕]</sent>
+<sent type="main" lang="chi" page="19b" n="15">邪崇</sent>
+<sent type="main" lang="kor" page="19b" n="15">샤질</sent>
+<sent type="main" lang="chi" page="19b" n="16">的呼</sent>
+<sent type="main" lang="kor" page="19b" n="16">젹호</sent>
+<sent type="main" lang="chi" page="19b" n="17">蠱毒</sent>
+<sent type="main" lang="kor" page="19b" n="17">노올병</sent>
+<sent type="main" lang="chi" page="19b" n="18">消渴</sent>
+<sent type="main" lang="kor" page="19b" n="18">조갈증</sent>
+<sent type="main" lang="chi" page="19b" n="19">癰疽</sent>
+<sent type="main" lang="kor" page="19b" n="19">죵긔</sent>
+<sent type="main" lang="chi" page="19b" n="20">掀痛</sent>
+<sent type="main" lang="kor" page="19b" n="20">들먹들먹 알푸다</sent>
+<sent type="main" lang="chi" page="19b" n="21">膿</sent>
+<sent type="main" lang="kor" page="19b" n="21">고름</sent>
+<sent type="main" lang="chi" page="19b" n="22">會膿</sent>
+<sent type="main" lang="kor" page="19b" n="22">곰기다</sent>
+<sent type="main" lang="chi" page="19b" n="23">疔</sent>
+<sent type="main" lang="kor" page="19b" n="23">뎡</sent>
+
+<sent type="main" lang="chi" page="20a" n="1">擠腫</sent>
+<sent type="main" lang="kor" page="20a" n="1">죵긔 다</sent>
+<sent type="main" lang="chi" page="20a" n="2">瘡</sent>
+<sent type="main" lang="kor" page="20a" n="2">챵</sent>
+<sent type="main" lang="chi" page="20a" n="3">痂</sent>
+<sent type="main" lang="kor" page="20a" n="3">헌듸지</sent>
+<sent type="main" lang="chi" page="20a" n="4">硬痂</sent>
+<sent type="main" lang="kor" page="20a" n="4">쇠더덩이</sent>
+<sent type="main" lang="chi" page="20a" n="5">瘡坐痂</sent>
+<sent type="main" lang="kor" page="20a" n="5">더덩이지다</sent>
+<sent type="main" lang="chi" page="20a" n="6">癩</sent>
+<sent type="main" lang="kor" page="20a" n="6">문둥이</sent>
+<sent type="main" lang="chi" page="20a" n="7">疥瘡</sent>
+<sent type="main" lang="kor" page="20a" n="7">옴</sent>
+<sent type="main" lang="chi" page="20a" n="8">唐瘡</sent>
+<sent type="main" lang="kor" page="20a" n="8">당창</sent>
+<sent type="main" lang="chi" page="20a" n="9">連珠</sent>
+<sent type="main" lang="kor" page="20a" n="9">년쥬창</sent>
+<sent type="main" lang="chi" page="20a" n="10">瘰癧</sent>
+<sent type="main" lang="kor" page="20a" n="10">나력</sent>
+<sent type="main" lang="chi" page="20a" n="11">白癩</sent>
+<sent type="main" lang="kor" page="20a" n="11">납</sent>
+<sent type="main" lang="chi" page="20a" n="12">癮疹</sent>
+<sent type="main" lang="kor" page="20a" n="12">두두럭이</sent>
+<sent type="main" lang="chi" page="20a" n="13">癭</sent>
+<sent type="main" lang="kor" page="20a" n="13">혹</sent>
+<sent type="main" lang="chi" page="20a" n="14">龜背</sent>
+<sent type="main" lang="kor" page="20a" n="14">곱등이</sent>
+<sent type="main" lang="chi" page="20a" n="15">軆氣</sent>
+<sent type="main" lang="kor" page="20a" n="15">암</sent>
+<sent type="main" lang="chi" page="20a" n="16">蚘蟲</sent>
+<sent type="main" lang="kor" page="20a" n="16">회츙</sent>
+<sent type="main" lang="chi" page="20a" n="17">白蟲</sent>
+<sent type="main" lang="kor" page="20a" n="17">촌츙</sent>
+<sent type="main" lang="chi" page="20a" n="18">帶下</sent>
+<sent type="main" lang="kor" page="20a" n="18">하증</sent>
+<sent type="main" lang="chi" page="20a" n="19">乳腫</sent>
+<sent type="main" lang="kor" page="20a" n="19">유죵</sent>
+<sent type="main" lang="chi" page="20a" n="20">茄病</sent>
+<sent type="main" lang="kor" page="20a" n="20">염불지다</sent>
+<sent type="main" lang="chi" page="20a" n="21">瘣疾</sent>
+<sent type="main" lang="kor" page="20a" n="21">괴</sent>
+<sent type="main" lang="chi" page="20a" n="22">鼓</sent><!--支대신 皮-->
+<sent type="main" lang="kor" page="20a" n="22">고녀</sent>
+<sent type="main" lang="chi" page="20a" n="23">死</sent>
+<sent type="main" lang="kor" page="20a" n="23">쥭다</sent>
+
+<sent type="main" lang="chi" page="20b" n="1">自裁</sent>
+<sent type="main" lang="kor" page="20b" n="1">쳐</sent>
+<sent type="main" lang="chi" page="20b" n="2">燒死</sent>
+<sent type="main" lang="kor" page="20b" n="2">불타쥭다</sent>
+<sent type="main" lang="chi" page="20b" n="3">嚂死</sent>
+<sent type="main" lang="kor" page="20b" n="3">산김의 쥭다</sent>
+<sent type="main" lang="chi" page="20b" n="4">毆鬪喪命</sent>
+<sent type="main" lang="kor" page="20b" n="4">남과 다투와 쥭다</sent>
+<sent type="main" lang="chi" page="20b" n="5">厭死</sent>
+<sent type="main" lang="kor" page="20b" n="5">치어쥭다</sent>
+<sent type="main" lang="chi" page="20b" n="6">諫死</sent>
+<sent type="main" lang="kor" page="20b" n="6">간다 쥭다</sent>
+<sent type="main" lang="chi" page="20b" n="7">死禍</sent>
+<sent type="main" lang="kor" page="20b" n="7">옥의 쥭다</sent>
+<sent type="main" lang="chi" page="20b" n="8">戰亡</sent>
+<sent type="main" lang="kor" page="20b" n="8">젼쟝의셔 쥭다</sent>
+<sent type="main" lang="chi" page="20b" n="9">死節</sent>
+<sent type="main" lang="kor" page="20b" n="9">졀로 쥭다</sent>
+<sent type="main" lang="chi" page="20b" n="10">孱</sent>
+<sent type="main" lang="kor" page="20b" n="10">잔약다</sent>
+<sent type="main" lang="chi" page="20b" n="11">苶</sent>
+<sent type="main" lang="kor" page="20b" n="11">날은다</sent>
+<sent type="main" lang="chi" page="20b" n="12">疲</sent>
+<sent type="main" lang="kor" page="20b" n="12">지치다</sent>
+<sent type="main" lang="chi" page="20b" n="13">眠</sent>
+<sent type="main" lang="kor" page="20b" n="13">다</sent>
+<sent type="main" lang="chi" page="20b" n="14">晝寢</sent>
+<sent type="main" lang="kor" page="20b" n="14">낫잠</sent>
+<sent type="main" lang="chi" page="20b" n="15">打睡</sent>
+<sent type="main" lang="kor" page="20b" n="15">조으다</sent>
+<sent type="main" lang="chi" page="20b" n="16">通脚睡</sent>
+<sent type="main" lang="kor" page="20b" n="16">어금 막겨 누어 다</sent>
+<sent type="main" lang="chi" page="20b" n="17">睡魔</sent>
+<sent type="main" lang="kor" page="20b" n="17">조으름 귀신</sent>
+<sent type="main" lang="chi" page="20b" n="18">睡聰</sent>
+<sent type="main" lang="kor" page="20b" n="18">잠귀 다</sent>
+<sent type="main" lang="chi" page="20b" n="19">寱</sent><!--臬대신 含-->
+<sent type="main" lang="kor" page="20b" n="19">잠고</sent>
+
+<sent type="main" lang="chi" page="21a" n="1">夢</sent>
+<sent type="main" lang="kor" page="21a" n="1"></sent>
+<sent type="main" lang="chi" page="21a" n="2">魘</sent>
+<sent type="main" lang="kor" page="21a" n="2">가의 눌니다</sent>
+<sent type="main" lang="chi" page="21a" n="3">覺</sent>
+<sent type="main" lang="kor" page="21a" n="3">다</sent>
+<sent type="main" lang="chi" page="21a" n="4">寤</sent>
+<sent type="main" lang="kor" page="21a" n="4">잠다</sent>
+<sent type="main" lang="chi" page="21a" n="5">拜</sent>
+<sent type="main" lang="kor" page="21a" n="5">졀</sent>
+<sent type="main" lang="chi" page="21a" n="6">揖</sent>
+<sent type="main" lang="kor" page="21a" n="6">읍</sent>
+<sent type="main" lang="chi" page="21a" n="7">厭</sent>
+<sent type="main" lang="kor" page="21a" n="7">팔미리</sent>
+<sent type="main" lang="chi" page="21a" n="8">言</sent>
+<sent type="main" lang="kor" page="21a" n="8">말</sent>
+<sent type="main" lang="chi" page="21a" n="9">四土俚語</sent>
+<sent type="main" lang="kor" page="21a" n="9">토리</sent>
+<sent type="main" lang="chi" page="21a" n="10">訥</sent>
+<sent type="main" lang="kor" page="21a" n="10">어룰</sent>
+<sent type="main" lang="chi" page="21a" n="11">結吧</sent>
+<sent type="main" lang="kor" page="21a" n="11">두어리</sent>
+<sent type="main" lang="chi" page="21a" n="12">拮把子</sent>
+<sent type="main" lang="kor" page="21a" n="12">두어리 </sent>
+<sent type="main" lang="chi" page="21a" n="13">嘴僵子</sent>
+<sent type="main" lang="kor" page="21a" n="13">반벙어리</sent>
+<sent type="main" lang="chi" page="21a" n="14">啞吧</sent>
+<sent type="main" lang="kor" page="21a" n="14">벙어리</sent>
+<sent type="main" lang="chi" page="21a" n="15">小米子話</sent>
+<sent type="main" lang="kor" page="21a" n="15">잔말</sent>
+<sent type="main" lang="chi" page="21a" n="16">嘴碎的</sent>
+<sent type="main" lang="kor" page="21a" n="16">잔말 </sent>
+<sent type="main" lang="chi" page="21a" n="17">詶酢</sent>
+<sent type="main" lang="kor" page="21a" n="17">슈쟉</sent>
+<sent type="main" lang="chi" page="21a" n="18">嘸然</sent>
+<sent type="main" lang="kor" page="21a" n="18">어렴푸시</sent>
+<sent type="main" lang="chi" page="21a" n="19">問</sent>
+<sent type="main" lang="kor" page="21a" n="19">무읏다</sent>
+<sent type="main" lang="chi" page="21a" n="20">議</sent>
+<sent type="main" lang="kor" page="21a" n="20">의논다</sent>
+<sent type="main" lang="chi" page="21a" n="21">譬</sent>
+<sent type="main" lang="kor" page="21a" n="21">비유다</sent>
+<sent type="main" lang="chi" page="21a" n="22">諫</sent>
+<sent type="main" lang="kor" page="21a" n="22">간다</sent>
+<sent type="main" lang="chi" page="21a" n="23">譽</sent>
+<sent type="main" lang="kor" page="21a" n="23">기리다</sent>
+<sent type="main" lang="chi" page="21a" n="24">喝采</sent>
+<sent type="main" lang="kor" page="21a" n="24">혀며 기리다</sent>
+<sent type="main" lang="chi" page="21a" n="25">誘</sent>
+<sent type="main" lang="kor" page="21a" n="25">이다</sent>
+
+<sent type="main" lang="chi" page="21b" n="1">說</sent>
+<sent type="main" lang="kor" page="21b" n="1">달다</sent>
+<sent type="main" lang="chi" page="21b" n="2">謔</sent>
+<sent type="main" lang="kor" page="21b" n="2">희롱다</sent>
+<sent type="main" lang="chi" page="21b" n="3">謗</sent>
+<sent type="main" lang="kor" page="21b" n="3">남을다</sent>
+<sent type="main" lang="chi" page="21b" n="4">責</sent>
+<sent type="main" lang="kor" page="21b" n="4">망다</sent>
+<sent type="main" lang="chi" page="21b" n="5">叱</sent>
+<sent type="main" lang="kor" page="21b" n="5">짓다</sent>
+<sent type="main" lang="chi" page="21b" n="6">絮叨</sent>
+<sent type="main" lang="kor" page="21b" n="6">즁어리다</sent>
+<sent type="main" lang="chi" page="21b" n="7">對口</sent>
+<sent type="main" lang="kor" page="21b" n="7">신구다</sent>
+<sent type="main" lang="chi" page="21b" n="8">角口</sent>
+<sent type="main" lang="kor" page="21b" n="8">각록이다</sent>
+<sent type="main" lang="chi" page="21b" n="9">讒</sent>
+<sent type="main" lang="kor" page="21b" n="9">참소다</sent>
+<sent type="main" lang="chi" page="21b" n="10">嘴利害</sent>
+<sent type="main" lang="kor" page="21b" n="10">부리 오납다</sent>
+<sent type="main" lang="chi" page="21b" n="11">記恨</sent>
+<sent type="main" lang="kor" page="21b" n="11">벼르다</sent>
+<sent type="main" lang="chi" page="21b" n="12">數落</sent>
+<sent type="main" lang="kor" page="21b" n="12">수죄다</sent>
+<sent type="main" lang="chi" page="21b" n="13">趁願</sent>
+<sent type="main" lang="kor" page="21b" n="13">잘코산이</sent>
+<sent type="main" lang="chi" page="21b" n="14">諂諛</sent>
+<sent type="main" lang="kor" page="21b" n="14">아쳠다</sent>
+<sent type="main" lang="chi" page="21b" n="15">謊</sent>
+<sent type="main" lang="kor" page="21b" n="15">거즌말</sent>
+<sent type="main" lang="chi" page="21b" n="16">浮言</sent>
+<sent type="main" lang="kor" page="21b" n="16">말</sent>
+<sent type="main" lang="chi" page="21b" n="17">潑賊</sent>
+<sent type="main" lang="kor" page="21b" n="17">발측 놈</sent>
+<sent type="main" lang="chi" page="21b" n="18">旡樣的</sent>
+<sent type="main" lang="kor" page="21b" n="18">상업다</sent>
+<sent type="main" lang="chi" page="21b" n="19">破頭的</sent>
+<sent type="main" lang="kor" page="21b" n="19">목뼈힐놈</sent>
+<sent type="main" lang="chi" page="21b" n="20">賤貨</sent>
+<sent type="main" lang="kor" page="21b" n="20">못긴놈</sent>
+<sent type="main" lang="chi" page="21b" n="21">賊短命</sent>
+<sent type="main" lang="kor" page="21b" n="21">뒤여질놈</sent>
+<sent type="main" lang="chi" page="21b" n="22">王八滓子</sent>
+<sent type="main" lang="kor" page="21b" n="22">겨집파 놈의 식</sent>
+<sent type="main" lang="chi" page="21b" n="23">誕</sent>
+<sent type="main" lang="kor" page="21b" n="23">허탄다</sent>
+<sent type="main" lang="chi" page="21b" n="24">約</sent>
+<sent type="main" lang="kor" page="21b" n="24">언약다</sent>
+<sent type="main" lang="chi" page="21b" n="25">囑</sent>
+<sent type="main" lang="kor" page="21b" n="25">부탁다</sent>
+<sent type="main" lang="chi" page="21b" n="26">諾</sent>
+<sent type="main" lang="kor" page="21b" n="26">허락다</sent>
+<sent type="main" lang="chi" page="21b" n="27">謎子</sent>
+<sent type="main" lang="kor" page="21b" n="27">수수격기</sent>
+<sent type="main" lang="chi" page="21b" n="28">猜謎</sent>
+<sent type="main" lang="kor" page="21b" n="28">수수격기 아러다</sent>
+<sent type="main" lang="chi" page="21b" n="29">笑</sent>
+<sent type="main" lang="kor" page="21b" n="29">우숨</sent>
+<sent type="main" lang="chi" page="21b" n="30">哭</sent>
+<sent type="main" lang="kor" page="21b" n="30">우름</sent>
+<sent type="main" lang="chi" page="21b" n="31">嗄</sent>
+<sent type="main" lang="kor" page="21b" n="31">울어 목이 수이다</sent>
+<sent type="main" lang="chi" page="21b" n="32">歎息</sent>
+<sent type="main" lang="kor" page="21b" n="32">탄식</sent>
+<sent type="main" lang="chi" page="21b" n="33">嘯</sent>
+<sent type="main" lang="kor" page="21b" n="33">수파람</sent>
+<sent type="main" lang="chi" page="21b-22a" n="34">呼</sent>
+<sent type="main" lang="kor" page="21b-22a" n="34">부르다</sent>
+
+<sent type="main" lang="chi" page="22a" n="1">行旅</sent>
+<sent type="main" lang="kor" page="22a" n="1">나근</sent>
+<sent type="main" lang="chi" page="22a" n="2">來</sent>
+<sent type="main" lang="kor" page="22a" n="2">오다</sent>
+<sent type="main" lang="chi" page="22a" n="3">還</sent>
+<sent type="main" lang="kor" page="22a" n="3">도라오다</sent>
+<sent type="main" lang="chi" page="22a" n="4">去</sent>
+<sent type="main" lang="kor" page="22a" n="4">가다</sent>
+<sent type="main" lang="chi" page="22a" n="5">逃</sent>
+<sent type="main" lang="kor" page="22a" n="5">도망다</sent>
+<sent type="main" lang="chi" page="22a" n="6">匿</sent>
+<sent type="main" lang="kor" page="22a" n="6">순긴다</sent>
+<sent type="main" lang="chi" page="22a" n="7">逐</sent>
+<sent type="main" lang="kor" page="22a" n="7">다</sent>
+<sent type="main" lang="chi" page="22a" n="8">行裝</sent>
+<sent type="main" lang="kor" page="22a" n="8">장</sent>
+<sent type="main" lang="chi" page="22a" n="9">酒店</sent>
+<sent type="main" lang="kor" page="22a" n="9">슐막집</sent>
+<sent type="main" lang="chi" page="22a" n="10">腰站</sent>
+<sent type="main" lang="kor" page="22a" n="10">졈심</sent>
+<sent type="main" lang="chi" page="22a" n="11">宿頭</sent>
+<sent type="main" lang="kor" page="22a" n="11">잘참</sent>
+<sent type="main" lang="chi" page="22a" n="12">店小二</sent>
+<sent type="main" lang="kor" page="22a" n="12">쥬막의 즁놈이</sent>
+<sent type="main" lang="chi" page="22a" n="13">謁</sent>
+<sent type="main" lang="kor" page="22a" n="13">뵙다</sent>
+<sent type="main" lang="chi" page="22a" n="14">刺</sent>
+<sent type="main" lang="kor" page="22a" n="14">명함</sent>
+<sent type="main" lang="chi" page="22a" n="15">拜匣</sent>
+<sent type="main" lang="kor" page="22a" n="15">명쳡집</sent>
+<sent type="main" lang="chi" page="22a" n="16">迎</sent>
+<sent type="main" lang="kor" page="22a" n="16">맛다</sent>
+<sent type="main" lang="chi" page="22a" n="17">逢</sent>
+<sent type="main" lang="kor" page="22a" n="17">만다</sent>
+<sent type="main" lang="chi" page="22a" n="18">趁想</sent>
+<sent type="main" lang="kor" page="22a" n="18">반갑다</sent>
+<sent type="main" lang="chi" page="22a" n="19">面善</sent>
+<sent type="main" lang="kor" page="22a" n="19">낫닉다</sent>
+<sent type="main" lang="chi" page="22a" n="20">待</sent>
+<sent type="main" lang="kor" page="22a" n="20">기다리다</sent>
+<sent type="main" lang="chi" page="22a" n="21">召</sent>
+<sent type="main" lang="kor" page="22a" n="21">부르다</sent>
+<sent type="main" lang="chi" page="22a" n="22">會</sent>
+<sent type="main" lang="kor" page="22a" n="22">모도다</sent>
+
+<sent type="main" lang="chi" page="22b" n="1">離</sent>
+<sent type="main" lang="kor" page="22b" n="1">니별</sent>
+<sent type="main" lang="chi" page="22b" n="2">悵然</sent>
+<sent type="main" lang="kor" page="22b" n="2">섭섭다</sent>
+<sent type="main" lang="chi" page="22b" n="3">惆悵想念</sent>
+<sent type="main" lang="kor" page="22b" n="3">그립다</sent>
+<sent type="main" lang="chi" page="22b" n="4">戹</sent>
+<sent type="main" lang="kor" page="22b" n="4">회</sent>
+<sent type="main" lang="chi" page="22b" n="5">事勢</sent>
+<sent type="main" lang="kor" page="22b" n="5">셰</sent>
+<sent type="main" lang="chi" page="22b" n="6">經營</sent>
+<sent type="main" lang="kor" page="22b" n="6">경영</sent>
+<sent type="main" lang="chi" page="22b" n="7">排布</sent>
+<sent type="main" lang="kor" page="22b" n="7">포</sent>
+<sent type="main" lang="chi" page="22b" n="8">區處</sent>
+<sent type="main" lang="kor" page="22b" n="8">구쳐</sent>
+<sent type="main" lang="chi" page="22b" n="9">弥縫</sent>
+<sent type="main" lang="kor" page="22b" n="9">미봉</sent>
+<sent type="main" lang="chi" page="22b" n="10">商量</sent>
+<sent type="main" lang="kor" page="22b" n="10">샹량</sent>
+<sent type="main" lang="chi" page="22b" n="11">裁量</sent>
+<sent type="main" lang="kor" page="22b" n="11">량</sent>
+<sent type="main" lang="chi" page="22b" n="12">拮据</sent>
+<sent type="main" lang="kor" page="22b" n="12">길거</sent>
+<sent type="main" lang="chi" page="22b" n="13">指麾</sent>
+<sent type="main" lang="kor" page="22b" n="13">지휘</sent>
+<sent type="main" lang="chi" page="22b" n="14">穩當</sent>
+<sent type="main" lang="kor" page="22b" n="14">온단</sent>
+<sent type="main" lang="chi" page="22b" n="15">周密</sent>
+<sent type="main" lang="kor" page="22b" n="15">쥬밀</sent>
+<sent type="main" lang="chi" page="22b" n="16">妥帖</sent>
+<sent type="main" lang="kor" page="22b" n="16">타쳡</sent>
+<sent type="main" lang="chi" page="22b" n="17">幾微</sent>
+<sent type="main" lang="kor" page="22b" n="17">긔미</sent>
+<sent type="main" lang="chi" page="22b" n="18">兆朕</sent>
+<sent type="main" lang="kor" page="22b" n="18">됴짐</sent>
+<sent type="main" lang="chi" page="22b" n="19">始終</sent>
+<sent type="main" lang="kor" page="22b" n="19">시죵</sent>
+<sent type="main" lang="chi" page="22b" n="20">先後</sent>
+<sent type="main" lang="kor" page="22b" n="20">션후</sent>
+<sent type="main" lang="chi" page="22b" n="21">畢竟</sent>
+<sent type="main" lang="kor" page="22b" n="21">필경</sent>
+<sent type="main" lang="chi" page="22b" n="22">謀計</sent>
+<sent type="main" lang="kor" page="22b" n="22">모계</sent>
+<sent type="main" lang="chi" page="22b" n="23">技癢</sent>
+<sent type="main" lang="kor" page="22b" n="23">기양</sent>
+
+<sent type="main" lang="chi" page="23a" n="1">勉</sent>
+<sent type="main" lang="kor" page="23a" n="1">힘다</sent>
+<sent type="main" lang="chi" page="23a" n="2">勞</sent>
+<sent type="main" lang="kor" page="23a" n="2">수구다</sent>
+<sent type="main" lang="chi" page="23a" n="3">汨沒</sent>
+<sent type="main" lang="kor" page="23a" n="3">골몰</sent>
+<sent type="main" lang="chi" page="23a" n="4">辛苦</sent>
+<sent type="main" lang="kor" page="23a" n="4">다</sent>
+<sent type="main" lang="chi" page="23a" n="5">習</sent>
+<sent type="main" lang="kor" page="23a" n="5">익다</sent>
+<sent type="main" lang="chi" page="23a" n="6">仔細</sent>
+<sent type="main" lang="kor" page="23a" n="6">셰</sent>
+<sent type="main" lang="chi" page="23a" n="7">糢糊</sent>
+<sent type="main" lang="kor" page="23a" n="7">모호</sent>
+<sent type="main" lang="chi" page="23a" n="8">齟齬</sent>
+<sent type="main" lang="kor" page="23a" n="8">서어</sent>
+<sent type="main" lang="chi" page="23a" n="9">遷延</sent>
+<sent type="main" lang="kor" page="23a" n="9">쳔연</sent>
+<sent type="main" lang="chi" page="23a" n="10">趑趄</sent>
+<sent type="main" lang="kor" page="23a" n="10">져</sent>
+<sent type="main" lang="chi" page="23a" n="11">遲緩</sent>
+<sent type="main" lang="kor" page="23a" n="11">더듸다</sent>
+<sent type="main" lang="chi" page="23a" n="12">歇后</sent>
+<sent type="main" lang="kor" page="23a" n="12">헐후다</sent>
+<sent type="main" lang="chi" page="23a" n="13">模稜</sent>
+<sent type="main" lang="kor" page="23a" n="13">모나다</sent>
+<sent type="main" lang="chi" page="23a" n="14">騎墻說過</sent>
+<sent type="main" lang="kor" page="23a" n="14">두동 말이라</sent>
+<sent type="main" lang="chi" page="23a" n="15">決</sent>
+<sent type="main" lang="kor" page="23a" n="15">결단다</sent>
+<sent type="main" lang="chi" page="23a" n="16">干涉</sent>
+<sent type="main" lang="kor" page="23a" n="16">간셥</sent>
+<sent type="main" lang="chi" page="23a" n="17">狼狽</sent>
+<sent type="main" lang="kor" page="23a" n="17">낭</sent>
+<sent type="main" lang="chi" page="23a" n="18">弄壞</sent>
+<sent type="main" lang="kor" page="23a" n="18">희짓다</sent>
+<sent type="main" lang="chi" page="23a" n="19">發作</sent>
+<sent type="main" lang="kor" page="23a" n="19">야단치다</sent>
+<sent type="main" lang="chi" page="23a" n="20">放刁</sent>
+<sent type="main" lang="kor" page="23a" n="20">셩식부리다</sent>
+<sent type="main" lang="chi" page="23a" n="21">歇</sent>
+<sent type="main" lang="kor" page="23a" n="21">쉬다</sent>
+<sent type="main" lang="chi" page="23a" n="22">徼幸</sent>
+<sent type="main" lang="kor" page="23a" n="22">요</sent>
+<sent type="main" lang="chi" page="23a" n="23">苟且</sent>
+<sent type="main" lang="kor" page="23a" n="23">구</sent>
+<sent type="main" lang="chi" page="23a" n="24">過</sent>
+<sent type="main" lang="kor" page="23a" n="24">허물</sent>
+<sent type="main" lang="chi" page="23a" n="25">非</sent>
+<sent type="main" lang="kor" page="23a" n="25">그르다</sent>
+<sent type="main" lang="chi" page="23a" n="26">謝</sent>
+<sent type="main" lang="kor" page="23a" n="26">죄</sent>
+<sent type="main" lang="chi" page="23a" n="27">曖昧</sent>
+<sent type="main" lang="kor" page="23a" n="27"></sent>
+
+<sent type="main" lang="chi" page="23b" n="1">孟浪</sent>
+<sent type="main" lang="kor" page="23b" n="1">낭</sent>
+<sent type="main" lang="chi" page="23b" n="2">漸</sent>
+<sent type="main" lang="kor" page="23b" n="2">졈졈</sent>
+<sent type="main" lang="chi" page="23b" n="3">重</sent>
+<sent type="main" lang="kor" page="23b" n="3">거푸</sent>
+<sent type="main" lang="chi" page="23b" n="4">更</sent>
+<sent type="main" lang="kor" page="23b" n="4">다시</sent>
+<sent type="main" lang="chi" page="23b" n="5">數</sent>
+<sent type="main" lang="kor" page="23b" n="5">로</sent>
+<sent type="main" lang="chi" page="23b" n="6">屢</sent>
+<sent type="main" lang="kor" page="23b" n="6">여러번</sent>
+<sent type="main" lang="chi" page="23b" n="7">倉卒</sent>
+<sent type="main" lang="kor" page="23b" n="7">창졸</sent>
+<sent type="main" lang="chi" page="23b" n="8">焦燥</sent>
+<sent type="main" lang="kor" page="23b" n="8">갑갑히 납뒤다</sent>
+<sent type="main" lang="chi" page="23b" n="9">悤悤</sent>
+<sent type="main" lang="kor" page="23b" n="9">총총</sent>
+<sent type="main" lang="chi" page="23b" n="10">忙</sent>
+<sent type="main" lang="kor" page="23b" n="10">밧부다</sent>
+<sent type="title2" lang="chi" page="23b" n="11">人倫部</sent>
+<sent type="main" lang="chi" page="23b" n="12">人倫</sent>
+<sent type="main" lang="kor" page="23b" n="12">인륜</sent>
+<sent type="main" lang="chi" page="23b" n="13">五倫</sent>
+<sent type="main" lang="kor" page="23b" n="13">오륜</sent>
+<sent type="main" lang="chi" page="23b" n="14">名分</sent>
+<sent type="main" lang="kor" page="23b" n="14">명분</sent>
+<sent type="main" lang="chi" page="23b" n="15">父</sent>
+<sent type="main" lang="kor" page="23b" n="15">아비</sent>
+<sent type="main" lang="chi" page="23b" n="16">義父</sent>
+<sent type="main" lang="kor" page="23b" n="16">의붓아비</sent>
+<sent type="main" lang="chi" page="23b" n="17">乾爺</sent>
+<sent type="main" lang="kor" page="23b" n="17">슈양아비</sent>
+<sent type="main" lang="chi" page="23b" n="18">繼父</sent>
+<sent type="main" lang="kor" page="23b" n="18">계부</sent>
+<sent type="main" lang="chi" page="23b" n="19">母</sent>
+<sent type="main" lang="kor" page="23b" n="19">어미</sent>
+<sent type="main" lang="chi" page="23b" n="20">繼母</sent>
+<sent type="main" lang="kor" page="23b" n="20">계모</sent>
+<sent type="main" lang="chi" page="23b" n="21">乾娘</sent>
+<sent type="main" lang="kor" page="23b" n="21">슈양어미</sent>
+<sent type="main" lang="chi" page="23b" n="22">祖</sent>
+<sent type="main" lang="kor" page="23b" n="22">한아비</sent>
+
+<sent type="main" lang="chi" page="24a" n="1">從祖</sent>
+<sent type="main" lang="kor" page="24a" n="1">죵조</sent>
+<sent type="main" lang="chi" page="24a" n="2">曾祖</sent>
+<sent type="main" lang="kor" page="24a" n="2">증조</sent>
+<sent type="main" lang="chi" page="24a" n="3">高祖</sent>
+<sent type="main" lang="kor" page="24a" n="3">고조</sent>
+<sent type="main" lang="chi" page="24a" n="4">先祖</sent>
+<sent type="main" lang="kor" page="24a" n="4">션조</sent>
+<sent type="main" lang="chi" page="24a" n="5">始祖</sent>
+<sent type="main" lang="kor" page="24a" n="5">시조</sent>
+<sent type="main" lang="chi" page="24a" n="6">祖母</sent>
+<sent type="main" lang="kor" page="24a" n="6">조모</sent>
+<sent type="main" lang="chi" page="24a" n="7">曾祖母</sent>
+<sent type="main" lang="kor" page="24a" n="7">증조모</sent>
+<sent type="main" lang="chi" page="24a" n="8">高祖母</sent>
+<sent type="main" lang="kor" page="24a" n="8">고조모</sent>
+<sent type="main" lang="chi" page="24a" n="9">叔</sent>
+<sent type="main" lang="kor" page="24a" n="9">삼촌</sent>
+<sent type="main" lang="chi" page="24a" n="10">從叔</sent>
+<sent type="main" lang="kor" page="24a" n="10">죵슉</sent>
+<sent type="main" lang="chi" page="24a" n="11">再從叔</sent>
+<sent type="main" lang="kor" page="24a" n="11">당슉</sent>
+<sent type="main" lang="chi" page="24a" n="12">叔母</sent>
+<sent type="main" lang="kor" page="24a" n="12">슉모</sent>
+<sent type="main" lang="chi" page="24a" n="13">姑母</sent>
+<sent type="main" lang="kor" page="24a" n="13">고모</sent>
+<sent type="main" lang="chi" page="24a" n="14">王姑</sent>
+<sent type="main" lang="kor" page="24a" n="14">고모</sent>
+<sent type="main" lang="chi" page="24a" n="15">從姑</sent>
+<sent type="main" lang="kor" page="24a" n="15">당고모</sent>
+<sent type="main" lang="chi" page="24a" n="16">姑</sent>
+<sent type="main" lang="kor" page="24a" n="16">아미</sent>
+<sent type="main" lang="chi" page="24a" n="17">子</sent>
+<sent type="main" lang="kor" page="24a" n="17"></sent>
+<sent type="main" lang="chi" page="24a" n="18">息</sent>
+<sent type="main" lang="kor" page="24a" n="18">식</sent>
+<sent type="main" lang="chi" page="24a" n="19">長子</sent>
+<sent type="main" lang="kor" page="24a" n="19">맛들</sent>
+<sent type="main" lang="chi" page="24a" n="20">樹子</sent>
+<sent type="main" lang="kor" page="24a" n="20">뎍</sent>
+<sent type="main" lang="chi" page="24a" n="21">次子</sent>
+<sent type="main" lang="kor" page="24a" n="21">버금</sent>
+<sent type="main" lang="chi" page="24a" n="22">庶子</sent>
+<sent type="main" lang="kor" page="24a" n="22">셔</sent>
+<sent type="main" lang="chi" page="24a" n="23">系子</sent>
+<sent type="main" lang="kor" page="24a" n="23">양</sent>
+<sent type="main" lang="chi" page="24a" n="24">侍養子</sent>
+<sent type="main" lang="kor" page="24a" n="24">슈양</sent>
+<sent type="main" lang="chi" page="24a" n="25">義子</sent>
+<sent type="main" lang="kor" page="24a" n="25">의붓</sent>
+
+<sent type="main" lang="chi" page="24b" n="1">女</sent>
+<sent type="main" lang="kor" page="24b" n="1"></sent>
+<sent type="main" lang="chi" page="24b" n="2">孫</sent>
+<sent type="main" lang="kor" page="24b" n="2">손</sent>
+<sent type="main" lang="chi" page="24b" n="3">曾孫</sent>
+<sent type="main" lang="kor" page="24b" n="3">증손</sent>
+<sent type="main" lang="chi" page="24b" n="4">玄孫</sent>
+<sent type="main" lang="kor" page="24b" n="4">현손</sent>
+<sent type="main" lang="chi" page="24b" n="5">姪孫</sent>
+<sent type="main" lang="kor" page="24b" n="5">죵손</sent>
+<sent type="main" lang="chi" page="24b" n="6">夫</sent>
+<sent type="main" lang="kor" page="24b" n="6">지아비</sent>
+<sent type="main" lang="chi" page="24b" n="7">鰥</sent>
+<sent type="main" lang="kor" page="24b" n="7">홀아비</sent>
+<sent type="main" lang="chi" page="24b" n="8">妻</sent>
+<sent type="main" lang="kor" page="24b" n="8">안</sent>
+<sent type="main" lang="chi" page="24b" n="9">寡婦</sent>
+<sent type="main" lang="kor" page="24b" n="9">과부</sent>
+<sent type="main" lang="chi" page="24b" n="10">兄</sent>
+<sent type="main" lang="kor" page="24b" n="10">형</sent>
+<sent type="main" lang="chi" page="24b" n="11">弟</sent>
+<sent type="main" lang="kor" page="24b" n="11">아오</sent>
+
+<sent type="main" lang="chi" page="25a" n="1">孿</sent>
+<sent type="main" lang="kor" page="25a" n="1">동이</sent>
+<sent type="main" lang="chi" page="25a" n="2">從兄弟</sent>
+<sent type="main" lang="kor" page="25a" n="2">촌</sent>
+<sent type="main" lang="chi" page="25a" n="3">再從兄弟</sent>
+<sent type="main" lang="kor" page="25a" n="3">뉵촌</sent>
+<sent type="main" lang="chi" page="25a" n="4">從子</sent>
+<sent type="main" lang="kor" page="25a" n="4">족하</sent>
+<sent type="main" lang="chi" page="25a" n="5">從姪</sent>
+<sent type="main" lang="kor" page="25a" n="5">당질</sent>
+<sent type="main" lang="chi" page="25a" n="6">再從姪</sent>
+<sent type="main" lang="kor" page="25a" n="6">당질</sent>
+<sent type="main" lang="chi" page="25a" n="7">姉</sent>
+<sent type="main" lang="kor" page="25a" n="7">맛누의</sent>
+<sent type="main" lang="chi" page="25a" n="8">妹</sent>
+<sent type="main" lang="kor" page="25a" n="8">오누의</sent>
+<sent type="main" lang="chi" page="25a" n="9">兄弟</sent>
+<sent type="main" lang="kor" page="25a" n="9">오라비</sent>
+<sent type="main" lang="chi" page="25a" n="10">妹夫</sent>
+<sent type="main" lang="kor" page="25a" n="10">부</sent>
+<sent type="main" lang="chi" page="25a" n="11">舅</sent>
+<sent type="main" lang="kor" page="25a" n="11">싀아비</sent>
+<sent type="main" lang="chi" page="25a" n="12">姑</sent>
+<sent type="main" lang="kor" page="25a" n="12">싀어미</sent>
+<sent type="main" lang="chi" page="25a" n="13">子婦</sent>
+<sent type="main" lang="kor" page="25a" n="13">며리</sent>
+<sent type="main" lang="chi" page="25a" n="14">豚養媳婦</sent>
+<sent type="main" lang="kor" page="25a" n="14">민며리</sent>
+<sent type="main" lang="chi" page="25a" n="15">兄公</sent>
+<sent type="main" lang="kor" page="25a" n="15">맛 싀아바니</sent>
+<sent type="main" lang="chi" page="25a" n="16">小叔</sent>
+<sent type="main" lang="kor" page="25a" n="16">근 싀아바니</sent>
+<sent type="main" lang="chi" page="25a" n="17">大姑</sent>
+<sent type="main" lang="kor" page="25a" n="17">맛 싀누의</sent>
+<sent type="main" lang="chi" page="25a" n="18">小姑</sent>
+<sent type="main" lang="kor" page="25a" n="18">근 싀누의</sent>
+<sent type="main" lang="chi" page="25a" n="19">姆</sent>
+<sent type="main" lang="kor" page="25a" n="19">맛 동셔</sent>
+<sent type="main" lang="chi" page="25a" n="20">嬸</sent>
+<sent type="main" lang="kor" page="25a" n="20">근 동셔</sent>
+<sent type="main" lang="chi" page="25a" n="21">兄嫂</sent>
+<sent type="main" lang="kor" page="25a" n="21">형수</sent>
+<sent type="main" lang="chi" page="25a" n="22">弟嫂</sent>
+<sent type="main" lang="kor" page="25a" n="22">뎨수</sent>
+<sent type="main" lang="chi" page="25a" n="23">外祖</sent>
+<sent type="main" lang="kor" page="25a" n="23">외조</sent>
+<sent type="main" lang="chi" page="25a" n="24">外祖母</sent>
+<sent type="main" lang="kor" page="25a" n="24">외조모</sent>
+<sent type="main" lang="chi" page="25a" n="25">內舅</sent>
+<sent type="main" lang="kor" page="25a" n="25">외삼촌</sent>
+<sent type="main" lang="chi" page="25a" n="26">內姑</sent>
+<sent type="main" lang="kor" page="25a" n="26">외슉모</sent>
+<sent type="main" lang="chi" page="25a" n="27">姨母</sent>
+<sent type="main" lang="kor" page="25a" n="27">이모</sent>
+
+<sent type="main" lang="chi" page="25b" n="1">外孫</sent>
+<sent type="main" lang="kor" page="25b" n="1">외손</sent>
+<sent type="main" lang="chi" page="25b" n="2">甥姪</sent>
+<sent type="main" lang="kor" page="25b" n="2">질</sent>
+<sent type="main" lang="chi" page="25b" n="3">姪</sent>
+<sent type="main" lang="kor" page="25b" n="3">올아비 </sent>
+<sent type="main" lang="chi" page="25b" n="4">歸孫</sent>
+<sent type="main" lang="kor" page="25b" n="4">올아비 손</sent>
+<sent type="main" lang="chi" page="25b" n="5">外舅</sent>
+<sent type="main" lang="kor" page="25b" n="5">쟝인</sent>
+<sent type="main" lang="chi" page="25b" n="6">外姑</sent>
+<sent type="main" lang="kor" page="25b" n="6">쟝모</sent>
+<sent type="main" lang="chi" page="25b" n="7">婿</sent>
+<sent type="main" lang="kor" page="25b" n="7">회</sent>
+<sent type="main" lang="chi" page="25b" n="8">贅婿</sent>
+<sent type="main" lang="kor" page="25b" n="8">덜일회</sent>
+<sent type="main" lang="chi" page="25b" n="9">婭</sent>
+<sent type="main" lang="kor" page="25b" n="9">동셔</sent>
+<sent type="main" lang="chi" page="25b" n="10">舅子</sent>
+<sent type="main" lang="kor" page="25b" n="10">쳐남</sent>
+<sent type="main" lang="chi" page="25b" n="11">査</sent>
+<sent type="main" lang="kor" page="25b" n="11">샤돈</sent>
+<sent type="main" lang="chi" page="25b" n="12">妾</sent>
+<sent type="main" lang="kor" page="25b" n="12">첩</sent>
+<sent type="main" lang="chi" page="25b" n="13">庶母</sent>
+<sent type="main" lang="kor" page="25b" n="13">셔모</sent>
+
+<sent type="main" lang="chi" page="26a" n="1">兩班</sent>
+<sent type="main" lang="kor" page="26a" n="1">냥반</sent>
+<sent type="main" lang="chi" page="26a" n="2">士大夫</sent>
+<sent type="main" lang="kor" page="26a" n="2">대부</sent>
+<sent type="main" lang="chi" page="26a" n="3">鄕族</sent>
+<sent type="main" lang="kor" page="26a" n="3">향족</sent>
+<sent type="main" lang="chi" page="26a" n="4">中人</sent>
+<sent type="main" lang="kor" page="26a" n="4">즁인</sent>
+<sent type="main" lang="chi" page="26a" n="5">常人</sent>
+<sent type="main" lang="kor" page="26a" n="5">샹인</sent>
+<sent type="main" lang="chi" page="26a" n="6">良人</sent>
+<sent type="main" lang="kor" page="26a" n="6">냥민</sent>
+<sent type="main" lang="chi" page="26a" n="7">姓</sent>
+<sent type="main" lang="kor" page="26a" n="7">셩</sent>
+<sent type="main" lang="chi" page="26a" n="8">名</sent>
+<sent type="main" lang="kor" page="26a" n="8">일홈</sent>
+<sent type="main" lang="chi" page="26a" n="9">諱</sent>
+<sent type="main" lang="kor" page="26a" n="9">휘</sent>
+<sent type="main" lang="chi" page="26a" n="10">小字</sent>
+<sent type="main" lang="kor" page="26a" n="10">아명</sent>
+<sent type="main" lang="chi" page="26a" n="11">冠名</sent>
+<sent type="main" lang="kor" page="26a" n="11">관명</sent>
+<sent type="main" lang="chi" page="26a" n="12">字</sent>
+<sent type="main" lang="kor" page="26a" n="12"></sent>
+<sent type="main" lang="chi" page="26a" n="13">別號</sent>
+<sent type="main" lang="kor" page="26a" n="13">별호</sent>
+<sent type="main" lang="chi" page="26a" n="14">諡號</sent>
+<sent type="main" lang="kor" page="26a" n="14">시호</sent>
+
+<sent type="main" lang="chi" page="26b" n="1">父執</sent>
+<sent type="main" lang="kor" page="26b" n="1">부집</sent>
+<sent type="main" lang="chi" page="26b" n="2">弟子</sent>
+<sent type="main" lang="kor" page="26b" n="2">뎨</sent>
+<sent type="main" lang="chi" page="26b" n="3">朋友</sent>
+<sent type="main" lang="kor" page="26b" n="3">벗</sent>
+<sent type="main" lang="chi" page="26b" n="4">勸</sent>
+<sent type="main" lang="kor" page="26b" n="4">권다</sent>
+<sent type="main" lang="chi" page="26b" n="5">助</sent>
+<sent type="main" lang="kor" page="26b" n="5">도옵다</sent>
+
+<sent type="main" lang="chi" page="27a" n="1">使</sent>
+<sent type="main" lang="kor" page="27a" n="1">부리다</sent>
+<sent type="main" lang="chi" page="27a" n="2">恃</sent>
+<sent type="main" lang="kor" page="27a" n="2">밋다</sent>
+<sent type="main" lang="chi" page="27a" n="3">從</sent>
+<sent type="main" lang="kor" page="27a" n="3">좃다</sent>
+<sent type="main" lang="chi" page="27a" n="4">隨</sent>
+<sent type="main" lang="kor" page="27a" n="4">로다</sent>
+<sent type="main" lang="chi" page="27a" n="5">效</sent>
+<sent type="main" lang="kor" page="27a" n="5">본밧다</sent>
+<sent type="main" lang="chi" page="27a" n="6">代</sent>
+<sent type="main" lang="kor" page="27a" n="6">신다</sent>
+<sent type="main" lang="chi" page="27a" n="7">借</sent>
+<sent type="main" lang="kor" page="27a" n="7">빌니다 又 빌다</sent>
+<sent type="main" lang="chi" page="27a" n="8">保</sent>
+<sent type="main" lang="kor" page="27a" n="8">보젼다</sent>
+<sent type="main" lang="chi" page="27a" n="9">負</sent>
+<sent type="main" lang="kor" page="27a" n="9">져리다</sent>
+<sent type="main" lang="chi" page="27a" n="10">欺</sent>
+<sent type="main" lang="kor" page="27a" n="10">속이다</sent>
+<sent type="main" lang="chi" page="27a" n="11">佯</sent>
+<sent type="main" lang="kor" page="27a" n="11">거즛</sent>
+<sent type="main" lang="chi" page="27a" n="12">侵</sent>
+<sent type="main" lang="kor" page="27a" n="12">침노다</sent>
+<sent type="main" lang="chi" page="27a" n="13">害</sent>
+<sent type="main" lang="kor" page="27a" n="13">로옵다</sent>
+<sent type="main" lang="chi" page="27a" n="14">爭</sent>
+<sent type="main" lang="kor" page="27a" n="14">다토다</sent>
+<sent type="main" lang="chi" page="27a" n="15">合口</sent>
+<sent type="main" lang="kor" page="27a" n="15">닙름</sent>
+<sent type="main" lang="chi" page="27a" n="16">交手</sent>
+<sent type="main" lang="kor" page="27a" n="16">호다</sent>
+<sent type="main" lang="chi" page="27a" n="17">劫</sent>
+<sent type="main" lang="kor" page="27a" n="17">겁박다</sent>
+<sent type="main" lang="chi" page="27a" n="18">托庇</sent>
+<sent type="main" lang="kor" page="27a" n="18">덕분</sent>
+<sent type="main" lang="chi" page="27a" n="19">堂客</sent>
+<sent type="main" lang="kor" page="27a" n="19">안손임</sent>
+<sent type="main" lang="chi" page="27a" n="20">主人</sent>
+<sent type="main" lang="kor" page="27a" n="20">쥬인</sent>
+<sent type="main" lang="chi" page="27a" n="21">我</sent>
+<sent type="main" lang="kor" page="27a" n="21">나</sent>
+<sent type="main" lang="chi" page="27a" n="22">俺</sent>
+<sent type="main" lang="kor" page="27a" n="22">우리</sent>
+<sent type="main" lang="chi" page="27a" n="23">君</sent>
+<sent type="main" lang="kor" page="27a" n="23">그</sent>
+<sent type="main" lang="chi" page="27a" n="24">汝</sent>
+<sent type="main" lang="kor" page="27a" n="24">너</sent>
+<sent type="main" lang="chi" page="27a" n="25">誰</sent>
+<sent type="main" lang="kor" page="27a" n="25">누구</sent>
+
+<sent type="title2" lang="chi" page="27b" n="1">君道部</sent>
+<sent type="main" lang="chi" page="27b" n="2">治</sent>
+<sent type="main" lang="kor" page="27b" n="2">다리다</sent>
+<sent type="main" lang="chi" page="27b" n="3">亂</sent>
+<sent type="main" lang="kor" page="27b" n="3">어즈럽다</sent>
+<sent type="main" lang="chi" page="27b" n="4">君</sent>
+<sent type="main" lang="kor" page="27b" n="4">님금</sent>
+<sent type="main" lang="chi" page="27b" n="5">天子</sent>
+<sent type="main" lang="kor" page="27b" n="5">텬</sent>
+
+<sent type="title2" lang="chi" page="29a" n="1">臣道部</sent>
+<sent type="main" lang="chi" page="29b" n="2">有司</sent>
+<sent type="main" lang="kor" page="29b" n="2">소임</sent>
+<sent type="main" lang="chi" page="29b" n="3">同官</sent>
+<sent type="main" lang="kor" page="29b" n="3">동관</sent>
+<sent type="main" lang="chi" page="29b" n="4">頂缺</sent>
+<sent type="main" lang="kor" page="29b" n="4">절며우다</sent>
+<sent type="main" lang="chi" page="29b" n="5">裁缺</sent>
+<sent type="main" lang="kor" page="29b" n="5">궐줄이다</sent>
+
+<sent type="main" lang="chi" page="30a" n="1">坐堂</sent>
+<sent type="main" lang="kor" page="30a" n="1">좌긔</sent>
+<sent type="main" lang="chi" page="30a" n="2">科擧</sent>
+<sent type="main" lang="kor" page="30a" n="2">과거</sent>
+
+<sent type="main" lang="chi" page="31a" n="1">鈕[印鼻卽印]</sent>
+<sent type="main" lang="kor" page="31a" n="1">지</sent>
+<sent type="main" lang="chi" page="31a" n="2">壓印</sent>
+<sent type="main" lang="kor" page="31a" n="2">인치다</sent>
+<sent type="main" lang="chi" page="31a" n="3">條記</sent>
+<sent type="main" lang="kor" page="31a" n="3">죠</sent>
+<sent type="main" lang="chi" page="31a" n="4">關</sent>
+<sent type="main" lang="kor" page="31a" n="4">관</sent>
+<sent type="main" lang="chi" page="31a" n="5">帖</sent>
+<sent type="main" lang="kor" page="31a" n="5">차졉</sent>
+<sent type="main" lang="chi" page="31a" n="6">套署</sent>
+<sent type="main" lang="kor" page="31a" n="6">투셔</sent>
+<sent type="main" lang="chi" page="31a" n="7">日傘</sent>
+<sent type="main" lang="kor" page="31a" n="7">일산</sent>
+<sent type="main" lang="chi" page="31a" n="8">繖脚</sent>
+<sent type="main" lang="kor" page="31a" n="8">일산드림</sent>
+<sent type="main" lang="chi" page="31a" n="9">繖竿</sent>
+<sent type="main" lang="kor" page="31a" n="9">일산대</sent>
+<sent type="main" lang="chi" page="31a" n="10">浮圖</sent>
+<sent type="main" lang="kor" page="31a" n="10">일산지</sent>
+
+<sent type="main" lang="chi" page="31b" n="1">朝報</sent>
+<sent type="main" lang="kor" page="31b" n="1">긔별</sent>
+<sent type="main" lang="chi" page="31b" n="2">申狀</sent>
+<sent type="main" lang="kor" page="31b" n="2">소지</sent>
+<sent type="main" lang="chi" page="31b" n="3">議送</sent>
+<sent type="main" lang="kor" page="31b" n="3">의송</sent>
+<sent type="main" lang="chi" page="31b" n="4">接狀</sent>
+<sent type="main" lang="kor" page="31b" n="4">소지밧다</sent>
+<sent type="main" lang="chi" page="31b" n="5">准了狀</sent>
+<sent type="main" lang="kor" page="31b" n="5">소지젹이다</sent>
+
+<sent type="main" lang="chi" page="31b" n="1">題辭</sent>
+<sent type="main" lang="kor" page="31b" n="1">졔</sent>
+<sent type="main" lang="chi" page="31b" n="2">差帖</sent>
+<sent type="main" lang="kor" page="31b" n="2">차졉</sent>
+<sent type="main" lang="chi" page="31b" n="3">立旨</sent>
+<sent type="main" lang="kor" page="31b" n="3">립지</sent>
+<sent type="main" lang="chi" page="31b" n="4">完文</sent>
+<sent type="main" lang="kor" page="31b" n="4">완문</sent>
+<sent type="main" lang="chi" page="31b" n="5">紅契</sent>
+<sent type="main" lang="kor" page="31b" n="5">인친문셔</sent>
+<sent type="main" lang="chi" page="31b" n="6">底策</sent>
+<sent type="main" lang="kor" page="31b" n="6">흘님</sent>
+<sent type="main" lang="chi" page="31b" n="7">襠子</sent>
+<sent type="main" lang="kor" page="31b" n="7">보람</sent>
+<sent type="main" lang="chi" page="31b" n="8">件記</sent>
+<sent type="main" lang="kor" page="31b" n="8">발긔</sent>
+<sent type="main" lang="chi" page="31b" n="9">謄錄</sent>
+<sent type="main" lang="kor" page="31b" n="9">등녹</sent>
+<sent type="main" lang="chi" page="31b" n="10">說帖</sent>
+<sent type="main" lang="kor" page="31b" n="10">소록</sent>
+
+<sent type="main" lang="chi" page="32a" n="1">畵字</sent>
+<sent type="main" lang="kor" page="32a" n="1">일홈두다</sent>
+<sent type="main" lang="chi" page="32a" n="2">花押</sent>
+<sent type="main" lang="kor" page="32a" n="2">슈려</sent>
+<sent type="main" lang="chi" page="32a" n="3">吏讀</sent>
+<sent type="main" lang="kor" page="32a" n="3">리두</sent>
+<sent type="main" lang="chi" page="32a" n="4">刑推</sent>
+<sent type="main" lang="kor" page="32a" n="4">형문</sent>
+<sent type="main" lang="chi" page="32a" n="5">亂杖</sent>
+<sent type="main" lang="kor" page="32a" n="5">난쟝</sent>
+<sent type="main" lang="chi" page="32a" n="6">夾棍</sent>
+<sent type="main" lang="kor" page="32a" n="6">쥬리</sent>
+<sent type="main" lang="chi" page="32a" n="7">捽胡</sent>
+<sent type="main" lang="kor" page="32a" n="7">멱살쥐다</sent>
+<sent type="main" lang="chi" page="32a" n="8">捽回</sent>
+<sent type="main" lang="kor" page="32a" n="8">어두루다</sent>
+<sent type="main" lang="chi" page="32a" n="9">黥</sent>
+<sent type="main" lang="kor" page="32a" n="9"></sent>
+<sent type="main" lang="chi" page="32a" n="10">刖</sent>
+<sent type="main" lang="kor" page="32a" n="10">발뒤츅버히다</sent>
+<sent type="main" lang="chi" page="32a" n="11">殺</sent>
+<sent type="main" lang="kor" page="32a" n="11">죽이다</sent>
+
+<sent type="main" lang="chi" page="32b" n="1">籍沒</sent>
+<sent type="main" lang="kor" page="32b" n="1">젹몰</sent>
+<sent type="main" lang="chi" page="32b" n="2">搜索</sent>
+<sent type="main" lang="kor" page="32b" n="2">뒤여찻다</sent>
+<sent type="main" lang="chi" page="32b" n="3">騰房子</sent>
+<sent type="main" lang="kor" page="32b" n="3">집뒤다</sent>
+<sent type="main" lang="chi" page="32b" n="4">監着</sent>
+<sent type="main" lang="kor" page="32b" n="4">가두다</sent>
+<sent type="main" lang="chi" page="32b" n="5">嫴</sent>
+<sent type="main" lang="kor" page="32b" n="5">보방다</sent>
+<sent type="main" lang="chi" page="32b" n="6">栲訊</sent>
+<sent type="main" lang="kor" page="32b" n="6">치면셔 뭇다</sent>
+<sent type="main" lang="chi" page="32b" n="7">査覈</sent>
+<sent type="main" lang="kor" page="32b" n="7">샤다</sent>
+<sent type="main" lang="chi" page="32b" n="8">獄</sent>
+<sent type="main" lang="kor" page="32b" n="8">옥</sent>
+<sent type="main" lang="chi" page="32b" n="9">鎖匠</sent>
+<sent type="main" lang="kor" page="32b" n="9">옥샤이</sent>
+<sent type="main" lang="chi" page="32b" n="10">擺站去</sent>
+<sent type="main" lang="kor" page="32b" n="10">귀향가다</sent>
+<sent type="main" lang="chi" page="32b" n="11">徇</sent>
+<sent type="main" lang="kor" page="32b" n="11">조리돌니다</sent>
+<sent type="main" lang="chi" page="32b" n="12">坐罪</sent>
+<sent type="main" lang="kor" page="32b" n="12">죄져즈르다</sent>
+
+<sent type="main" lang="chi" page="33a" n="1">屈認</sent>
+<sent type="main" lang="kor" page="33a" n="1">히 복다</sent>
+<sent type="main" lang="chi" page="33a" n="2">侤音</sent>
+<sent type="main" lang="kor" page="33a" n="2">다짐</sent>
+<sent type="main" lang="chi" page="33a" n="3">白活</sent>
+<sent type="main" lang="kor" page="33a" n="3">발괄</sent>
+<sent type="main" lang="chi" page="33a" n="4">面質</sent>
+<sent type="main" lang="kor" page="33a" n="4">면지</sent>
+<sent type="main" lang="chi" page="33a" n="5">打官司</sent>
+<sent type="main" lang="kor" page="33a" n="5">송다</sent>
+<sent type="main" lang="chi" page="33a" n="6">喫官司</sent>
+<sent type="main" lang="kor" page="33a" n="6">죄의 걸니다</sent>
+<sent type="main" lang="chi" page="33a" n="7">屈官司</sent>
+<sent type="main" lang="kor" page="33a" n="7">원통 송</sent>
+<sent type="main" lang="chi" page="33a" n="8">斷案</sent>
+<sent type="main" lang="kor" page="33a" n="8">결입안</sent>
+<sent type="main" lang="chi" page="33a" n="9">批判</sent>
+<sent type="main" lang="kor" page="33a" n="9">졔다</sent>
+<sent type="main" lang="chi" page="33a" n="10">跋尾</sent>
+<sent type="main" lang="kor" page="33a" n="10">살옥의 마감</sent>
+
+<sent type="main" lang="chi" page="33b" n="1">棒</sent>
+<sent type="main" lang="kor" page="33b" n="1">도리</sent>
+<sent type="main" lang="chi" page="33b" n="2">板子</sent>
+<sent type="main" lang="kor" page="33b" n="2">곤장</sent>
+<sent type="main" lang="chi" page="33b" n="3">枷</sent>
+<sent type="main" lang="kor" page="33b" n="3">칼</sent>
+<sent type="main" lang="chi" page="33b" n="4">行枷</sent>
+<sent type="main" lang="kor" page="33b" n="4">칼</sent>
+<sent type="main" lang="chi" page="33b" n="5">手杻</sent>
+<sent type="main" lang="kor" page="33b" n="5">손의 슈박다</sent>
+<sent type="main" lang="chi" page="33b" n="6">鉗</sent>
+<sent type="main" lang="kor" page="33b" n="6">착고</sent>
+<sent type="main" lang="chi" page="33b" n="7">儧指</sent>
+<sent type="main" lang="kor" page="33b" n="7">손가락의  것</sent>
+<sent type="main" lang="chi" page="33b" n="8">索板</sent>
+<sent type="main" lang="kor" page="33b" n="8">손가락의 고치 나무</sent>
+<sent type="main" lang="chi" page="33b" n="9">挾挾掍</sent>
+<sent type="main" lang="kor" page="33b" n="9">쥬리트다</sent>
+<sent type="main" lang="chi" page="33b" n="10">打尻骨</sent>
+<sent type="main" lang="kor" page="33b" n="10">볼기치다</sent>
+<sent type="main" lang="chi" page="33b" n="11">徽纆</sent>
+<sent type="main" lang="kor" page="33b" n="11">오라</sent>
+<sent type="main" lang="chi" page="33b" n="12">縛</sent>
+<sent type="main" lang="kor" page="33b" n="12">결박</sent>
+<sent type="main" lang="chi" page="33b" n="13">背綁</sent>
+<sent type="main" lang="kor" page="33b" n="13">뒤졔침</sent>
+<sent type="main" lang="chi" page="33b" n="14">鋃鐺</sent>
+<sent type="main" lang="kor" page="33b" n="14">쇠슬</sent>
+<sent type="main" lang="chi" page="33b" n="15">囊頭</sent>
+<sent type="main" lang="kor" page="33b" n="15">보씌우다</sent>
+<sent type="main" lang="chi" page="33b" n="16">捽回來</sent>
+<sent type="main" lang="kor" page="33b" n="16">어두루다</sent>
+<sent type="main" lang="chi" page="33b" n="17">拉</sent>
+<sent type="main" lang="kor" page="33b" n="17">으다</sent>
+<sent type="main" lang="chi" page="33b" n="18">巡風的</sent>
+<sent type="main" lang="kor" page="33b" n="18">금난령</sent>
+
+<sent type="title2" lang="chi" page="34a" n="1">形氣部</sent>
+<sent type="main" lang="chi" page="34a" n="2">身</sent>
+<sent type="main" lang="kor" page="34a" n="2">몸</sent>
+<sent type="main" lang="chi" page="34a" n="3">矮子</sent>
+<sent type="main" lang="kor" page="34a" n="3">난쟝이</sent>
+<sent type="main" lang="chi" page="34a" n="4">躽</sent>
+<sent type="main" lang="kor" page="34a" n="4">굽다</sent>
+<sent type="main" lang="chi" page="34a" n="5">仰子</sent>
+<sent type="main" lang="kor" page="34a" n="5">텬샹라기</sent>
+<sent type="main" lang="chi" page="34a" n="6">肥</sent>
+<sent type="main" lang="kor" page="34a" n="6">살지다</sent>
+<sent type="main" lang="chi" page="34a" n="7">瘦</sent>
+<sent type="main" lang="kor" page="34a" n="7">리다</sent>
+<sent type="main" lang="chi" page="34a" n="8">臞尫</sent>
+<sent type="main" lang="kor" page="34a" n="8">리병</sent>
+<sent type="main" lang="chi" page="34a" n="9">痟首</sent>
+<sent type="main" lang="kor" page="34a" n="9">봄타다</sent>
+<sent type="main" lang="chi" page="34a" n="10">坐</sent>
+<sent type="main" lang="kor" page="34a" n="10">안다</sent>
+<sent type="main" lang="chi" page="34a" n="11">盤膝</sent>
+<sent type="main" lang="kor" page="34a" n="11">도리고 안다</sent>
+<sent type="main" lang="chi" page="34a" n="12">跪</sent>
+<sent type="main" lang="kor" page="34a" n="12">러안다</sent>
+<sent type="main" lang="chi" page="34a" n="13">立</sent>
+<sent type="main" lang="kor" page="34a" n="13">서다</sent>
+<sent type="main" lang="chi" page="34a" n="14">臥</sent>
+<sent type="main" lang="kor" page="34a" n="14">눕다</sent>
+<sent type="main" lang="chi" page="34a" n="15">伏</sent>
+<sent type="main" lang="kor" page="34a" n="15">업드리다</sent>
+<sent type="main" lang="chi" page="34a" n="16">起</sent>
+<sent type="main" lang="kor" page="34a" n="16">일어나다</sent>
+<sent type="main" lang="chi" page="34a" n="17">倚</sent>
+<sent type="main" lang="kor" page="34a" n="17">의지다</sent>
+<sent type="main" lang="chi" page="34a" n="18">屈</sent>
+<sent type="main" lang="kor" page="34a" n="18">구부리다</sent>
+<sent type="main" lang="chi" page="34a" n="19">伸</sent>
+<sent type="main" lang="kor" page="34a" n="19">기지켜다</sent>
+<sent type="main" lang="chi" page="34a" n="20">俛</sent>
+<sent type="main" lang="kor" page="34a" n="20">구피다</sent>
+<sent type="main" lang="chi" page="34a" n="21">氣顫</sent>
+<sent type="main" lang="kor" page="34a" n="21">즌저리치다</sent>
+<sent type="main" lang="chi" page="34a" n="22">戰</sent>
+<sent type="main" lang="kor" page="34a" n="22">다</sent>
+<sent type="main" lang="chi" page="34a" n="23">起粟</sent>
+<sent type="main" lang="kor" page="34a" n="23">소오름돗다</sent>
+<sent type="main" lang="chi" page="34a" n="24">筋惕</sent>
+<sent type="main" lang="kor" page="34a" n="24">몸이 울넉울넉</sent>
+<sent type="main" lang="chi" page="34a" n="25">結筋</sent>
+<sent type="main" lang="kor" page="34a" n="25">몸이 쥐나다</sent>
+<sent type="main" lang="chi" page="34a" n="26">浴</sent>
+<sent type="main" lang="kor" page="34a" n="26">목욕감다</sent>
+<sent type="main" lang="chi" page="34a" n="27">頭</sent>
+<sent type="main" lang="kor" page="34a" n="27">머리</sent>
+<sent type="main" lang="chi" page="34a" n="28">光頭</sent>
+<sent type="main" lang="kor" page="34a" n="28">뮈인머리</sent>
+<sent type="main" lang="chi" page="34a" n="29">亻+蜀亻+束</sent>
+<sent type="main" lang="kor" page="34a" n="29">쳬머리 흔드다</sent>
+<sent type="main" lang="chi" page="34a" n="30">掐頭</sent>
+<sent type="main" lang="kor" page="34a" n="30">머리직이다</sent>
+<sent type="main" lang="chi" page="34a" n="31">風屑</sent>
+<sent type="main" lang="kor" page="34a" n="31">비듬</sent>
+<sent type="main" lang="chi" page="34a" n="32">戴</sent>
+<sent type="main" lang="kor" page="34a" n="32">니다</sent>
+<sent type="main" lang="chi" page="34a" n="33">觸</sent>
+<sent type="main" lang="kor" page="34a" n="33">밧다</sent>
+
+<sent type="main" lang="chi" page="34b" n="1">顖</sent><!--心이 없음.-->
+<sent type="main" lang="kor" page="34b" n="1">숫구멍</sent>
+<sent type="main" lang="chi" page="34b" n="2">爭食窩處</sent>
+<sent type="main" lang="kor" page="34b" n="2">이통소</sent>
+<sent type="main" lang="chi" page="34b" n="3">額</sent>
+<sent type="main" lang="kor" page="34b" n="3">이마</sent>
+<sent type="main" lang="chi" page="34b" n="4">髮</sent>
+<sent type="main" lang="kor" page="34b" n="4">터럭</sent>
+<sent type="main" lang="chi" page="34b" n="5">頭旋</sent>
+<sent type="main" lang="kor" page="34b" n="5">머리가마</sent>
+<sent type="main" lang="chi" page="34b" n="6">分道子</sent>
+<sent type="main" lang="kor" page="34b" n="6">가리마</sent>
+<sent type="main" lang="chi" page="34b" n="7">捲螺髮</sent>
+<sent type="main" lang="kor" page="34b" n="7">사양머리</sent>
+<sent type="main" lang="chi" page="34b" n="8">白髮</sent>
+<sent type="main" lang="kor" page="34b" n="8">세다</sent>
+<sent type="main" lang="chi" page="34b" n="9">雜頭髮</sent>
+<sent type="main" lang="kor" page="34b" n="9">샤치</sent>
+<sent type="main" lang="chi" page="34b" n="10">會撮</sent>
+<sent type="main" lang="kor" page="34b" n="10">샹토</sent>
+<sent type="main" lang="chi" page="34b" n="11">匝髻</sent>
+<sent type="main" lang="kor" page="34b" n="11">겨집의 샹토</sent>
+<sent type="main" lang="chi" page="34b" n="12">串子</sent>
+<sent type="main" lang="kor" page="34b" n="12">동곳</sent>
+<sent type="main" lang="chi" page="34b" n="13">沐</sent>
+<sent type="main" lang="kor" page="34b" n="13">머리감다</sent>
+<sent type="main" lang="chi" page="34b" n="14">律</sent>
+<sent type="main" lang="kor" page="34b" n="14">머리가리다</sent>
+<sent type="main" lang="chi" page="34b" n="15">梳</sent>
+<sent type="main" lang="kor" page="34b" n="15">빗</sent>
+<sent type="main" lang="chi" page="34b" n="16">篦揥</sent>
+<sent type="main" lang="kor" page="34b" n="16">빗치</sent>
+<sent type="main" lang="chi" page="34b" n="17">鑷兒</sent>
+<sent type="main" lang="kor" page="34b" n="17">족집</sent>
+<sent type="main" lang="chi" page="34b" n="18">細櫛</sent>
+<sent type="main" lang="kor" page="34b" n="18">참빗</sent>
+<sent type="main" lang="chi" page="34b" n="19">踈篦</sent>
+<sent type="main" lang="kor" page="34b" n="19">어레빗</sent>
+<sent type="main" lang="chi" page="34b" n="20">□</sent>
+<sent type="main" lang="kor" page="34b" n="20">석훌치</sent>
+<sent type="main" lang="chi" page="34b" n="21">鬢</sent>
+<sent type="main" lang="kor" page="34b" n="21">살젹</sent>
+<sent type="main" lang="chi" page="34b" n="22">眉</sent>
+<sent type="main" lang="kor" page="34b" n="22">눈섭</sent>
+
+<sent type="main" lang="chi" page="35a" n="1">面</sent>
+<sent type="main" lang="kor" page="35a" n="1">얼골</sent>
+<sent type="main" lang="chi" page="35a" n="2">䵟䵳</sent>
+<sent type="main" lang="kor" page="35a" n="2">김의</sent>
+<sent type="main" lang="chi" page="35a" n="3">汗刺</sent>
+<sent type="main" lang="kor" page="35a" n="3"></sent>
+<sent type="main" lang="chi" page="35a" n="4">雀斑</sent>
+<sent type="main" lang="kor" page="35a" n="4">죽은</sent>
+<sent type="main" lang="chi" page="35a" n="5">生癬</sent>
+<sent type="main" lang="kor" page="35a" n="5">버즘</sent>
+<sent type="main" lang="chi" page="35a" n="6">濕癬</sent>
+<sent type="main" lang="kor" page="35a" n="6">즌버즘</sent>
+<sent type="main" lang="chi" page="35a" n="7">面皺</sent>
+<sent type="main" lang="kor" page="35a" n="7">얼골 트석트석</sent>
+<sent type="main" lang="chi" page="35a" n="8">皰</sent>
+<sent type="main" lang="kor" page="35a" n="8">여드름</sent>
+<sent type="main" lang="chi" page="35a" n="9">縛</sent>
+<sent type="main" lang="kor" page="35a" n="9">얽다</sent>
+<sent type="main" lang="chi" page="35a" n="10">頮</sent>
+<sent type="main" lang="kor" page="35a" n="10">낫 싯다</sent>
+<sent type="main" lang="chi" page="35a" n="11">澡豆</sent>
+<sent type="main" lang="kor" page="35a" n="11">비누</sent>
+<sent type="main" lang="chi" page="35a" n="12">胰壺</sent>
+<sent type="main" lang="kor" page="35a" n="12">비누통</sent>
+<sent type="main" lang="chi" page="35a" n="13">巾</sent>
+<sent type="main" lang="kor" page="35a" n="13">슈건</sent>
+<sent type="main" lang="chi" page="35a" n="14">畵像</sent>
+<sent type="main" lang="kor" page="35a" n="14">화샹</sent>
+<sent type="main" lang="chi" page="35a" n="15">目</sent>
+<sent type="main" lang="kor" page="35a" n="15">눈</sent>
+<sent type="main" lang="chi" page="35a" n="16">瞳</sent>
+<sent type="main" lang="kor" page="35a" n="16">동</sent>
+<sent type="main" lang="chi" page="35a" n="17">睫</sent>
+<sent type="main" lang="kor" page="35a" n="17">눈시울</sent>
+<sent type="main" lang="chi" page="35a" n="18">乜斜眼</sent>
+<sent type="main" lang="kor" page="35a" n="18">홉 눈</sent>
+<sent type="main" lang="chi" page="35a" n="19">望天子</sent>
+<sent type="main" lang="kor" page="35a" n="19">거적 눈</sent>
+<sent type="main" lang="chi" page="35a" n="20">通睛</sent>
+<sent type="main" lang="kor" page="35a" n="20">모도기</sent>
+<sent type="main" lang="chi" page="35a" n="21">見</sent>
+<sent type="main" lang="kor" page="35a" n="21">보다</sent>
+<sent type="main" lang="chi" page="35a" n="22">顧</sent>
+<sent type="main" lang="kor" page="35a" n="22">도라보다</sent>
+<sent type="main" lang="chi" page="35a" n="23">眺</sent>
+<sent type="main" lang="kor" page="35a" n="23">두루보다</sent>
+<sent type="main" lang="chi" page="35a" n="24">擠眼</sent>
+<sent type="main" lang="kor" page="35a" n="24">눈다</sent>
+<sent type="main" lang="chi" page="35a" n="25">眼勢</sent>
+<sent type="main" lang="kor" page="35a" n="25">눈치</sent>
+<sent type="main" lang="chi" page="35a" n="26">閃眼</sent>
+<sent type="main" lang="kor" page="35a" n="26">눈 금젹이다</sent>
+<sent type="main" lang="chi" page="35a" n="27">睚眦</sent>
+<sent type="main" lang="kor" page="35a" n="27">눈 흘기다</sent>
+<sent type="main" lang="chi" page="35a" n="28">睜</sent>
+<sent type="main" lang="kor" page="35a" n="28">눈 홉다</sent>
+<sent type="main" lang="chi" page="35a" n="29">紅爛眼</sent>
+<sent type="main" lang="kor" page="35a" n="29">눈 즌무르다</sent>
+<sent type="main" lang="chi" page="35a" n="30">羞明</sent>
+<sent type="main" lang="kor" page="35a" n="30">눈부싀다</sent>
+<sent type="main" lang="chi" page="35a" n="31">眯</sent>
+<sent type="main" lang="kor" page="35a" n="31">눈의 틔드다</sent>
+<sent type="main" lang="chi" page="35a" n="32">瞖</sent>
+<sent type="main" lang="kor" page="35a" n="32">삼</sent>
+
+<sent type="main" lang="chi" page="35b" n="1">內障</sent>
+<sent type="main" lang="kor" page="35b" n="1">속삼</sent>
+<sent type="main" lang="chi" page="35b" n="2">外障</sent>
+<sent type="main" lang="kor" page="35b" n="2">것삼</sent>
+<sent type="main" lang="chi" page="35b" n="3">蘿葍眼</sent>
+<sent type="main" lang="kor" page="35b" n="3">알적이다</sent>
+<sent type="main" lang="chi" page="35b" n="4">生眼丹</sent>
+<sent type="main" lang="kor" page="35b" n="4">다라치</sent>
+<sent type="main" lang="chi" page="35b" n="5">瞽</sent>
+<sent type="main" lang="kor" page="35b" n="5">소경</sent>
+<sent type="main" lang="chi" page="35b" n="6">靑盲</sent>
+<sent type="main" lang="kor" page="35b" n="6">쳥관이</sent>
+<sent type="main" lang="chi" page="35b" n="7">眇</sent>
+<sent type="main" lang="kor" page="35b" n="7">고눈</sent>
+<sent type="main" lang="chi" page="35b" n="8">雀目</sent>
+<sent type="main" lang="kor" page="35b" n="8">밤눈 못보다</sent>
+<sent type="main" lang="chi" page="35b" n="9">目豆眵</sent>
+<sent type="main" lang="kor" page="35b" n="9">눈곱</sent>
+<sent type="main" lang="chi" page="35b" n="10">淚</sent>
+<sent type="main" lang="kor" page="35b" n="10">눈물</sent>
+<sent type="main" lang="chi" page="35b" n="11">閣眼淚</sent>
+<sent type="main" lang="kor" page="35b" n="11">눈물 먹이다</sent>
+<sent type="main" lang="chi" page="35b" n="12">拭淚</sent>
+<sent type="main" lang="kor" page="35b" n="12">눈물 씻다</sent>
+<sent type="main" lang="chi" page="35b" n="13">耳</sent>
+<sent type="main" lang="kor" page="35b" n="13">귀</sent>
+<sent type="main" lang="chi" page="35b" n="14">耳輪</sent>
+<sent type="main" lang="kor" page="35b" n="14">귀박회</sent>
+<sent type="main" lang="chi" page="35b" n="15">耳朶</sent>
+<sent type="main" lang="kor" page="35b" n="15">귀밥</sent>
+<sent type="main" lang="chi" page="35b" n="16">耳善</sent>
+<sent type="main" lang="kor" page="35b" n="16">귀문</sent>
+<sent type="main" lang="chi" page="35b" n="17">漏</sent>
+<sent type="main" lang="kor" page="35b" n="17">귀구멍</sent>
+<sent type="main" lang="chi" page="35b" n="18">聽</sent>
+<sent type="main" lang="kor" page="35b" n="18">듯다</sent>
+<sent type="main" lang="chi" page="35b" n="19">聰</sent>
+<sent type="main" lang="kor" page="35b" n="19">귀 다</sent>
+<sent type="main" lang="chi" page="35b" n="20">聤</sent>
+<sent type="main" lang="kor" page="35b" n="20">귀졋알타</sent>
+<sent type="main" lang="chi" page="35b" n="21">生耳底</sent>
+<sent type="main" lang="kor" page="35b" n="21">귀졋</sent>
+<sent type="main" lang="chi" page="35b" n="22">聾</sent>
+<sent type="main" lang="kor" page="35b" n="22">귀먹다</sent>
+<sent type="main" lang="chi" page="35b" n="23">睽</sent>
+<sent type="main" lang="kor" page="35b" n="23">귀어둡다</sent>
+<sent type="main" lang="chi" page="35b" n="24">耳宰</sent>
+<sent type="main" lang="kor" page="35b" n="24">가귀 먹다</sent>
+<sent type="main" lang="chi" page="35b" n="25">耳穵子</sent>
+<sent type="main" lang="kor" page="35b" n="25">귀우</sent>
+<sent type="main" lang="chi" page="35b" n="26">鼻</sent>
+<sent type="main" lang="kor" page="35b" n="26">코</sent>
+<sent type="main" lang="chi" page="35b" n="27">鼻梁</sent>
+<sent type="main" lang="kor" page="35b" n="27">코마루</sent>
+<sent type="main" lang="chi" page="35b" n="28">鼻翅</sent>
+<sent type="main" lang="kor" page="35b" n="28">코방울</sent>
+<sent type="main" lang="chi" page="35b" n="29">鼻凹</sent>
+<sent type="main" lang="kor" page="35b" n="29">코구멍</sent>
+<sent type="main" lang="chi" page="35b" n="30">人中</sent>
+<sent type="main" lang="kor" page="35b" n="30">인즁</sent>
+<sent type="main" lang="chi" page="35b" n="31">鼻兀</sent>
+<sent type="main" lang="kor" page="35b" n="31">들창코</sent>
+<sent type="main" lang="chi" page="35b" n="32">嗅</sent>
+<sent type="main" lang="kor" page="35b" n="32">내맛다</sent>
+<sent type="main" lang="chi" page="35b" n="33">囔</sent>
+<sent type="main" lang="kor" page="35b" n="33">기</sent>
+<sent type="main" lang="chi" page="35b" n="34">洟</sent>
+<sent type="main" lang="kor" page="35b" n="34">코물</sent>
+<sent type="main" lang="chi" page="35b" n="35">酒皻</sent>
+<sent type="main" lang="kor" page="35b" n="35">쥬부코</sent>
+<sent type="main" lang="chi" page="35b" n="36">衄</sent>
+<sent type="main" lang="kor" page="35b" n="36">코피나다</sent>
+<sent type="main" lang="chi" page="35b" n="37">口</sent>
+<sent type="main" lang="kor" page="35b" n="37">입</sent>
+<sent type="main" lang="chi" page="35b" n="38">呆</sent>
+<sent type="main" lang="kor" page="35b" n="38">벙벙다</sent>
+<sent type="main" lang="chi" page="35b" n="39">吧吧</sent>
+<sent type="main" lang="kor" page="35b" n="39">입 벙긋벙긋다</sent>
+<sent type="main" lang="chi" page="35b" n="40">脗</sent>
+<sent type="main" lang="kor" page="35b" n="40">입담으다</sent>
+<sent type="main" lang="chi" page="35b" n="41">扭嘴</sent>
+<sent type="main" lang="kor" page="35b" n="41">입주다</sent>
+<sent type="main" lang="chi" page="35b" n="42">親嘴</sent>
+<sent type="main" lang="kor" page="35b" n="42">입마초다</sent>
+<sent type="main" lang="chi" page="35b" n="43">咂嘴</sent>
+<sent type="main" lang="kor" page="35b" n="43">입다시다</sent>
+<sent type="main" lang="chi" page="35b" n="44">漱</sent>
+<sent type="main" lang="kor" page="35b" n="44">양치질다</sent>
+<sent type="main" lang="chi" page="35b" n="45">脣</sent>
+<sent type="main" lang="kor" page="35b" n="45">입술</sent>
+
+<sent type="main" lang="chi" page="36a" n="1">豁脣子</sent>
+<sent type="main" lang="kor" page="36a" n="1">쳥이</sent>
+<sent type="main" lang="chi" page="36a" n="2">鹻脣</sent>
+<sent type="main" lang="kor" page="36a" n="2">슌죵</sent>
+<sent type="main" lang="chi" page="36a" n="3">舌</sent>
+<sent type="main" lang="kor" page="36a" n="3">혀</sent>
+<sent type="main" lang="chi" page="36a" n="4">舌本</sent>
+<sent type="main" lang="kor" page="36a" n="4">혀쥴기</sent>
+<sent type="main" lang="chi" page="36a" n="5">舌單舌闌</sent>
+<sent type="main" lang="kor" page="36a" n="5">말 듬듬다</sent>
+<sent type="main" lang="chi" page="36a" n="6">吃口</sent>
+<sent type="main" lang="kor" page="36a" n="6">어룰다</sent>
+<sent type="main" lang="chi" page="36a" n="7">嘖舌</sent>
+<sent type="main" lang="kor" page="36a" n="7">혀다</sent>
+<sent type="main" lang="chi" page="36a" n="8">舐</sent>
+<sent type="main" lang="kor" page="36a" n="8">할다</sent>
+<sent type="main" lang="chi" page="36a" n="9">餂</sent>
+<sent type="main" lang="kor" page="36a" n="9">혀로 훔쳐 먹다</sent>
+<sent type="main" lang="chi" page="36a" n="10">齒</sent>
+<sent type="main" lang="kor" page="36a" n="10">니</sent>
+<sent type="main" lang="chi" page="36a" n="11">牙</sent>
+<sent type="main" lang="kor" page="36a" n="11">어금니</sent>
+<sent type="main" lang="chi" page="36a" n="12">板齒</sent>
+<sent type="main" lang="kor" page="36a" n="12">압니</sent>
+<sent type="main" lang="chi" page="36a" n="13">月牙</sent>
+<sent type="main" lang="kor" page="36a" n="13">송곳니</sent>
+<sent type="main" lang="chi" page="36a" n="14">齻牙</sent>
+<sent type="main" lang="kor" page="36a" n="14">례니</sent>
+<sent type="main" lang="chi" page="36a" n="15">重牙</sent>
+<sent type="main" lang="kor" page="36a" n="15">덧니</sent>
+<sent type="main" lang="chi" page="36a" n="16">齒幷</sent>
+<sent type="main" lang="kor" page="36a" n="16">겹니</sent>
+<sent type="main" lang="chi" page="36a" n="17">歷齒</sent>
+<sent type="main" lang="kor" page="36a" n="17">셜퓌니</sent>
+<sent type="main" lang="chi" page="36a" n="18">馬牙子</sent>
+<sent type="main" lang="kor" page="36a" n="18">니</sent>
+<sent type="main" lang="chi" page="36a" n="19">齦</sent>
+<sent type="main" lang="kor" page="36a" n="19">니몸</sent>
+<sent type="main" lang="chi" page="36a" n="20">矧齒縫</sent>
+<sent type="main" lang="kor" page="36a" n="20">니샷</sent>
+<sent type="main" lang="chi" page="36a" n="21">齒根</sent>
+<sent type="main" lang="kor" page="36a" n="21">니희</sent>
+<sent type="main" lang="chi" page="36a" n="22">齒+臿 齒+內</sent>
+<sent type="main" lang="kor" page="36a" n="22">니 흔들니다</sent>
+<sent type="main" lang="chi" page="36a" n="23">齒脫</sent>
+<sent type="main" lang="kor" page="36a" n="23">니 지다</sent>
+<sent type="main" lang="chi" page="36a" n="24">齼</sent>
+<sent type="main" lang="kor" page="36a" n="24">싄 것 먹어 니 곱다</sent>
+<sent type="main" lang="chi" page="36a" n="25">齘</sent>
+<sent type="main" lang="kor" page="36a" n="25">니 갈다</sent>
+<sent type="main" lang="chi" page="36a" n="26">齒宜齒宜</sent>
+<sent type="main" lang="kor" page="36a" n="26">니가  소</sent>
+<sent type="main" lang="chi" page="36a" n="27">病齒</sent>
+<sent type="main" lang="kor" page="36a" n="27">니 알타</sent>
+<sent type="main" lang="chi" page="36a" n="28">齲</sent>
+<sent type="main" lang="kor" page="36a" n="28">니 버레 먹어 지다</sent>
+<sent type="main" lang="chi" page="36a" n="29">齧</sent>
+<sent type="main" lang="kor" page="36a" n="29">씹다 又 너흐다</sent>
+<sent type="main" lang="chi" page="36a" n="30">剔齒纖</sent>
+<sent type="main" lang="kor" page="36a" n="30">니쑤시</sent>
+<sent type="main" lang="chi" page="36a" n="31">牙簽筒</sent>
+<sent type="main" lang="kor" page="36a" n="31">초여집</sent>
+<sent type="main" lang="chi" page="36a" n="32">齒垽</sent>
+<sent type="main" lang="kor" page="36a" n="32">니의 인 곱</sent>
+<sent type="main" lang="chi" page="36a" n="33">牙刷子</sent>
+<sent type="main" lang="kor" page="36a" n="33">니  </sent>
+<sent type="main" lang="chi" page="36a" n="34">牙杖</sent>
+<sent type="main" lang="kor" page="36a" n="34">양치대</sent>
+<sent type="main" lang="chi" page="36a" n="35">涎</sent>
+<sent type="main" lang="kor" page="36a" n="35">춤</sent>
+<sent type="main" lang="chi" page="36a" n="36">喀</sent>
+<sent type="main" lang="kor" page="36a" n="36">춤 밧다</sent>
+<sent type="main" lang="chi" page="36a" n="37">漦水</sent>
+<sent type="main" lang="kor" page="36a" n="37">누의 춤</sent>
+<sent type="main" lang="chi" page="36a" n="38">唾壺</sent>
+<sent type="main" lang="kor" page="36a" n="38">타구</sent>
+<sent type="main" lang="chi" page="36a" n="39">咽喉</sent>
+<sent type="main" lang="kor" page="36a" n="39">목구멍</sent>
+<sent type="main" lang="chi" page="36a" n="40">嗉袋</sent>
+<sent type="main" lang="kor" page="36a" n="40">숨통</sent>
+<sent type="main" lang="chi" page="36a" n="41">月契</sent>
+<sent type="main" lang="kor" page="36a" n="41">목구멍줄</sent>
+<sent type="main" lang="chi" page="36a" n="42">懸雍</sent>
+<sent type="main" lang="kor" page="36a" n="42">목젓</sent>
+<sent type="main" lang="chi" page="36a" n="43">呑</sent>
+<sent type="main" lang="kor" page="36a" n="43">삼키다</sent>
+<sent type="main" lang="chi" page="36a" n="44">囫圇呑</sent>
+<sent type="main" lang="kor" page="36a" n="44">외니로 삼키다</sent>
+<sent type="main" lang="chi" page="36a" n="45">㿌了</sent>
+<sent type="main" lang="kor" page="36a" n="45">목다</sent>
+<sent type="main" lang="chi" page="36a" n="46">帝鐘風</sent>
+<sent type="main" lang="kor" page="36a" n="46">목젓 붓 병</sent>
+
+<sent type="main" lang="chi" page="36b" n="1">頰</sent>
+<sent type="main" lang="kor" page="36b" n="1"></sent>
+<sent type="main" lang="chi" page="36b" n="2">顴</sent>
+<sent type="main" lang="kor" page="36b" n="2">관쥬</sent>
+<sent type="main" lang="chi" page="36b" n="3">㶊</sent>
+<sent type="main" lang="kor" page="36b" n="3">턱</sent>
+<sent type="main" lang="chi" page="36b" n="4">顉㶊</sent>
+<sent type="main" lang="kor" page="36b" n="4">주걱턱</sent>
+<sent type="main" lang="chi" page="36b" n="5">支㶊</sent>
+<sent type="main" lang="kor" page="36b" n="5">턱치다</sent>
+<sent type="main" lang="chi" page="36b" n="6">鬚髥</sent>
+<sent type="main" lang="kor" page="36b" n="6">슈염</sent>
+<sent type="main" lang="chi" page="36b" n="7">光嘴鬍子</sent>
+<sent type="main" lang="kor" page="36b" n="7">구레나롯</sent>
+<sent type="main" lang="chi" page="36b" n="8">捋鬚</sent>
+<sent type="main" lang="kor" page="36b" n="8">나롯 잡다</sent>
+<sent type="main" lang="chi" page="36b" n="9">張髥</sent>
+<sent type="main" lang="kor" page="36b" n="9">슈염 거리다</sent>
+<sent type="main" lang="chi" page="36b" n="10">綽髥</sent>
+<sent type="main" lang="kor" page="36b" n="10">나롯 퓌우다</sent>
+<sent type="main" lang="chi" page="36b" n="11">撚髭</sent>
+<sent type="main" lang="kor" page="36b" n="11">나롯 만다</sent>
+<sent type="main" lang="chi" page="36b" n="12">項</sent>
+<sent type="main" lang="kor" page="36b" n="12">목</sent>
+<sent type="main" lang="chi" page="36b" n="13">嗓子</sent>
+<sent type="main" lang="kor" page="36b" n="13">목줄듸</sent>
+<sent type="main" lang="chi" page="36b" n="14">孛頁</sent>
+<sent type="main" lang="kor" page="36b" n="14">목덜믜</sent>
+<sent type="main" lang="chi" page="36b" n="15">嗓子骨</sent>
+<sent type="main" lang="kor" page="36b" n="15">념쥬</sent>
+<sent type="main" lang="chi" page="36b" n="16">肩</sent>
+<sent type="main" lang="kor" page="36b" n="16">억</sent>
+<sent type="main" lang="chi" page="36b" n="17">荷</sent>
+<sent type="main" lang="kor" page="36b" n="17">메다</sent>
+<sent type="main" lang="chi" page="36b" n="18">腋</sent>
+<sent type="main" lang="kor" page="36b" n="18">겨드이</sent>
+<sent type="main" lang="chi" page="36b" n="19">胳窩</sent>
+<sent type="main" lang="kor" page="36b" n="19">겨드이 오목</sent>
+<sent type="main" lang="chi" page="36b" n="20">腋氣</sent>
+<sent type="main" lang="kor" page="36b" n="20">암내</sent>
+<sent type="main" lang="chi" page="36b" n="21">臂</sent>
+<sent type="main" lang="kor" page="36b" n="21">팔</sent>
+<sent type="main" lang="chi" page="36b" n="22">肘</sent>
+<sent type="main" lang="kor" page="36b" n="22">팔굼치</sent>
+<sent type="main" lang="chi" page="36b" n="23">肐膊</sent>
+<sent type="main" lang="kor" page="36b" n="23">팔독</sent>
+<sent type="main" lang="chi" page="36b" n="24">紾臂</sent>
+<sent type="main" lang="kor" page="36b" n="24">팔 졉지르다</sent>
+<sent type="main" lang="chi" page="36b" n="25">腕</sent>
+<sent type="main" lang="kor" page="36b" n="25">손목</sent>
+<sent type="main" lang="chi" page="36b" n="26">搤腕</sent>
+<sent type="main" lang="kor" page="36b" n="26">손목 다</sent>
+<sent type="main" lang="chi" page="36b" n="27">手</sent>
+<sent type="main" lang="kor" page="36b" n="27">손</sent>
+<sent type="main" lang="chi" page="36b" n="28">指</sent>
+<sent type="main" lang="kor" page="36b" n="28">손가락</sent>
+<sent type="main" lang="chi" page="36b" n="29">大指</sent>
+<sent type="main" lang="kor" page="36b" n="29">엄지가락</sent>
+<sent type="main" lang="chi" page="36b" n="30">贅指</sent>
+<sent type="main" lang="kor" page="36b" n="30">뉵손</sent>
+<sent type="main" lang="chi" page="36b" n="31">腡</sent>
+<sent type="main" lang="kor" page="36b" n="31">손금</sent>
+<sent type="main" lang="chi" page="36b" n="32">手破落</sent>
+<sent type="main" lang="kor" page="36b" n="32">손금고리</sent>
+<sent type="main" lang="chi" page="36b" n="33">手簸箕</sent>
+<sent type="main" lang="kor" page="36b" n="33">손금키</sent>
+<sent type="main" lang="chi" page="36b" n="34">爪</sent>
+<sent type="main" lang="kor" page="36b" n="34">손톱</sent>
+<sent type="main" lang="chi" page="36b" n="35">拳</sent>
+<sent type="main" lang="kor" page="36b" n="35">주먹</sent>
+<sent type="main" lang="chi" page="36b" n="36">背叉手</sent>
+<sent type="main" lang="kor" page="36b" n="36">뒤짐</sent>
+<sent type="main" lang="chi" page="36b" n="37">執</sent>
+<sent type="main" lang="kor" page="36b" n="37">잡다</sent>
+<sent type="main" lang="chi" page="36b" n="38">扌+九</sent>
+<sent type="main" lang="kor" page="36b" n="38">쳔쳔히 잡다</sent><!--쳔〃히-->
+<sent type="main" lang="chi" page="36b" n="39">挾</sent>
+<sent type="main" lang="kor" page="36b" n="39">다</sent>
+<sent type="main" lang="chi" page="36b" n="40">扼</sent>
+<sent type="main" lang="kor" page="36b" n="40">허지게 쥐다</sent>
+
+<sent type="main" lang="chi" page="37a" n="1">摑掬</sent>
+<sent type="main" lang="kor" page="37a" n="1">움킈다</sent>
+<sent type="main" lang="chi" page="37a" n="2">挽</sent>
+<sent type="main" lang="kor" page="37a" n="2">당긔다</sent>
+<sent type="main" lang="chi" page="37a" n="3">掣</sent>
+<sent type="main" lang="kor" page="37a" n="3">지긋지긋 당긔다</sent>
+<sent type="main" lang="chi" page="37a" n="4">扌+犆 苴</sent>
+<sent type="main" lang="kor" page="37a" n="4">이 쎵긔다</sent><!--〃이-->
+<sent type="main" lang="chi" page="37a" n="5">曳</sent>
+<sent type="main" lang="kor" page="37a" n="5">으다</sent>
+<sent type="main" lang="chi" page="37a" n="6">打</sent>
+<sent type="main" lang="kor" page="37a" n="6">치다</sent>
+<sent type="main" lang="chi" page="37a" n="7">拂</sent>
+<sent type="main" lang="kor" page="37a" n="7">쓰쳐치다</sent>
+<sent type="main" lang="chi" page="37a" n="8">批頰</sent>
+<sent type="main" lang="kor" page="37a" n="8">치다</sent>
+<sent type="main" lang="chi" page="37a" n="9">揕</sent>
+<sent type="main" lang="kor" page="37a" n="9">치랴 견우다</sent>
+<sent type="main" lang="chi" page="37a" n="10">搖</sent>
+<sent type="main" lang="kor" page="37a" n="10">흔드다</sent>
+<sent type="main" lang="chi" page="37a" n="11">擺</sent>
+<sent type="main" lang="kor" page="37a" n="11">잡고 드다</sent>
+<sent type="main" lang="chi" page="37a" n="12">投</sent>
+<sent type="main" lang="kor" page="37a" n="12">던지다</sent>
+<sent type="main" lang="chi" page="37a" n="13">揮</sent>
+<sent type="main" lang="kor" page="37a" n="13">두루다</sent>
+<sent type="main" lang="chi" page="37a" n="14">擢</sent>
+<sent type="main" lang="kor" page="37a" n="14">히다</sent>
+<sent type="main" lang="chi" page="37a" n="15">擧</sent>
+<sent type="main" lang="kor" page="37a" n="15">드다</sent>
+<sent type="main" lang="chi" page="37a" n="16">舁</sent>
+<sent type="main" lang="kor" page="37a" n="16">마쥬드다</sent>
+<sent type="main" lang="chi" page="37a" n="17">擎</sent>
+<sent type="main" lang="kor" page="37a" n="17">쳐드다</sent>
+<sent type="main" lang="chi" page="37a" n="18">攀</sent>
+<sent type="main" lang="kor" page="37a" n="18">우러어 밧드다</sent>
+<sent type="main" lang="chi" page="37a" n="19">摩挲</sent>
+<sent type="main" lang="kor" page="37a" n="19">만지다</sent>
+<sent type="main" lang="chi" page="37a" n="20">抖擻</sent>
+<sent type="main" lang="kor" page="37a" n="20">으다</sent>
+<sent type="main" lang="chi" page="37a" n="21">捼</sent>
+<sent type="main" lang="kor" page="37a" n="21">부븨다</sent>
+<sent type="main" lang="chi" page="37a" n="22">尉+手</sent><!--手는 尉 밑에.-->
+<sent type="main" lang="kor" page="37a" n="22">펴다</sent>
+<sent type="main" lang="chi" page="37a" n="23">搏</sent>
+<sent type="main" lang="kor" page="37a" n="23">둥굴니다</sent>
+<sent type="main" lang="chi" page="37a" n="24">按</sent>
+<sent type="main" lang="kor" page="37a" n="24">누루다</sent>
+<sent type="main" lang="chi" page="37a" n="25">撒</sent>
+<sent type="main" lang="kor" page="37a" n="25">혯치다</sent>
+<sent type="main" lang="chi" page="37a" n="26">扶</sent>
+<sent type="main" lang="kor" page="37a" n="26">붓드다</sent>
+<sent type="main" lang="chi" page="37a" n="27">抱</sent>
+<sent type="main" lang="kor" page="37a" n="27">안다</sent>
+<sent type="main" lang="chi" page="37a" n="28">揶揄</sent>
+<sent type="main" lang="kor" page="37a" n="28">손가락질며 붓그리붓그리다</sent>
+<sent type="main" lang="chi" page="37a" n="29">拍手</sent>
+<sent type="main" lang="kor" page="37a" n="29">손닥 치다</sent>
+<sent type="main" lang="chi" page="37a" n="30">搯</sent>
+<sent type="main" lang="kor" page="37a" n="30">손톱으로 직이다</sent>
+<sent type="main" lang="chi" page="37a" n="31">爪包</sent>
+<sent type="main" lang="kor" page="37a" n="31">할쾨다</sent>
+<sent type="main" lang="chi" page="37a" n="32">抓</sent>
+<sent type="main" lang="kor" page="37a" n="32">글거우븨다</sent>
+<sent type="main" lang="chi" page="37a" n="33">搔</sent>
+<sent type="main" lang="kor" page="37a" n="33">긁다</sent>
+<sent type="main" lang="chi" page="37a" n="34">挏</sent>
+<sent type="main" lang="kor" page="37a" n="34">간질이다</sent>
+<sent type="main" lang="chi" page="37a" n="35">彈</sent>
+<sent type="main" lang="kor" page="37a" n="35">손톱 통긔다</sent>
+<sent type="main" lang="chi" page="37a" n="36">手麻</sent>
+<sent type="main" lang="kor" page="37a" n="36">손 져리다</sent>
+<sent type="main" lang="chi" page="37a" n="37">惡指</sent>
+<sent type="main" lang="kor" page="37a" n="37">샹 손</sent>
+<sent type="main" lang="chi" page="37a" n="38">代指</sent>
+<sent type="main" lang="kor" page="37a" n="38">손톱밋 곰기다</sent>
+<sent type="main" lang="chi" page="37a" n="39">龜手</sent>
+<sent type="main" lang="kor" page="37a" n="39">손 트지다</sent>
+<sent type="main" lang="chi" page="37a" n="40">盥</sent>
+<sent type="main" lang="kor" page="37a" n="40">손씻다</sent>
+<sent type="main" lang="chi" page="37a" n="41">匜</sent>
+<sent type="main" lang="kor" page="37a" n="41">대야</sent>
+<sent type="main" lang="chi" page="37a" n="42">帨</sent>
+<sent type="main" lang="kor" page="37a" n="42">슈건</sent>
+<sent type="main" lang="chi" page="37a" n="43">胸</sent>
+<sent type="main" lang="kor" page="37a" n="43">가</sent>
+<sent type="main" lang="chi" page="37a" n="44">膈</sent>
+<sent type="main" lang="kor" page="37a" n="44">속가</sent>
+<sent type="main" lang="chi" page="37a" n="45">缺盆骨</sent>
+<sent type="main" lang="kor" page="37a" n="45">명치</sent>
+<sent type="main" lang="chi" page="37a" n="46">乳</sent>
+<sent type="main" lang="kor" page="37a" n="46">졋</sent>
+<sent type="main" lang="chi" page="37a" n="47">奶觜</sent>
+<sent type="main" lang="kor" page="37a" n="47">졋지</sent>
+<sent type="main" lang="chi" page="37a" n="48">乳房</sent>
+<sent type="main" lang="kor" page="37a" n="48">졋통</sent>
+<sent type="main" lang="chi" page="37a" n="49">酥胸</sent>
+<sent type="main" lang="kor" page="37a" n="49">졋가</sent>
+<sent type="main" lang="chi" page="37a" n="50">腰</sent>
+<sent type="main" lang="kor" page="37a" n="50">허리</sent>
+<sent type="main" lang="chi" page="37a" n="51">腰眼</sent>
+<sent type="main" lang="kor" page="37a" n="51">쟈라눈</sent>
+<sent type="main" lang="chi" page="37a" n="52">閃挫</sent>
+<sent type="main" lang="kor" page="37a" n="52">허리다</sent>
+
+<sent type="main" lang="chi" page="37b" n="1">腹</sent>
+<sent type="main" lang="kor" page="37b" n="1"></sent>
+<sent type="main" lang="chi" page="37b" n="2">肚 山+片</sent><!--山밑에 片.-->
+<sent type="main" lang="kor" page="37b" n="2">두던</sent>
+<sent type="main" lang="chi" page="37b" n="3">脇</sent>
+<sent type="main" lang="kor" page="37b" n="3">가리</sent>
+<sent type="main" lang="chi" page="37b" n="4">膘</sent>
+<sent type="main" lang="kor" page="37b" n="4">허구리</sent>
+<sent type="main" lang="chi" page="37b" n="5">軟腰</sent>
+<sent type="main" lang="kor" page="37b" n="5">잔허리</sent>
+<sent type="main" lang="chi" page="37b" n="6">臍</sent>
+<sent type="main" lang="kor" page="37b" n="6">곱</sent>
+<sent type="main" lang="chi" page="37b" n="7">背</sent>
+<sent type="main" lang="kor" page="37b" n="7">등</sent>
+<sent type="main" lang="chi" page="37b" n="8">脊</sent>
+<sent type="main" lang="kor" page="37b" n="8">등마루</sent>
+<sent type="main" lang="chi" page="37b" n="9">骸</sent>
+<sent type="main" lang="kor" page="37b" n="9">심육</sent>
+<sent type="main" lang="chi" page="37b" n="10">督脈</sent>
+<sent type="main" lang="kor" page="37b" n="10">등골</sent>
+<sent type="main" lang="chi" page="37b" n="11">僂</sent>
+<sent type="main" lang="kor" page="37b" n="11">곱샤등이</sent>
+<sent type="main" lang="chi" page="37b" n="12">老摏子</sent>
+<sent type="main" lang="kor" page="37b" n="12">등글게</sent>
+<sent type="main" lang="chi" page="37b" n="13">尻</sent>
+<sent type="main" lang="kor" page="37b" n="13">옥문이 </sent>
+<sent type="main" lang="chi" page="37b" n="14">水脬</sent>
+<sent type="main" lang="kor" page="37b" n="14">오줌통</sent>
+<sent type="main" lang="chi" page="37b" n="15">小便</sent>
+<sent type="main" lang="kor" page="37b" n="15">오줌</sent>
+<sent type="main" lang="chi" page="37b" n="16">小解</sent>
+<sent type="main" lang="kor" page="37b" n="16">오줌 누다</sent>
+<sent type="main" lang="chi" page="37b" n="17">遺尿</sent>
+<sent type="main" lang="kor" page="37b" n="17">오줌 다</sent>
+<sent type="main" lang="chi" page="37b" n="18">自己尿</sent>
+<sent type="main" lang="kor" page="37b" n="18">졔 오줌</sent>
+<sent type="main" lang="chi" page="37b" n="19">人中白</sent>
+<sent type="main" lang="kor" page="37b" n="19">오줌젹</sent>
+<sent type="main" lang="chi" page="37b" n="20">尿缸</sent>
+<sent type="main" lang="kor" page="37b" n="20">뇨강</sent>
+<sent type="main" lang="chi" page="37b" n="21">溲杯</sent>
+<sent type="main" lang="kor" page="37b" n="21">오줌귀우</sent>
+<sent type="main" lang="chi" page="37b" n="22">虎子</sent>
+<sent type="main" lang="kor" page="37b" n="22">오줌박</sent>
+<sent type="main" lang="chi" page="37b" n="23">陰囊</sent>
+<sent type="main" lang="kor" page="37b" n="23">불</sent>
+<sent type="main" lang="chi" page="37b" n="24">陰卵</sent>
+<sent type="main" lang="kor" page="37b" n="24">불알</sent>
+<sent type="main" lang="chi" page="37b" n="25">卵根</sent>
+<sent type="main" lang="kor" page="37b" n="25">불쥴기</sent>
+<sent type="main" lang="chi" page="37b" n="26">潮毬</sent>
+<sent type="main" lang="kor" page="37b" n="26">외 불</sent>
+<sent type="main" lang="chi" page="37b" n="27">㿗疝卵</sent>
+<sent type="main" lang="kor" page="37b" n="27">퇴산불</sent>
+<sent type="main" lang="chi" page="37b" n="28">大便</sent>
+<sent type="main" lang="kor" page="37b" n="28"></sent>
+
+<sent type="main" lang="chi" page="38a" n="1">裏急</sent>
+<sent type="main" lang="kor" page="38a" n="1">마렵다</sent>
+<sent type="main" lang="chi" page="38a" n="2">大解</sent>
+<sent type="main" lang="kor" page="38a" n="2">누다</sent>
+<sent type="main" lang="chi" page="38a" n="3">屁</sent>
+<sent type="main" lang="kor" page="38a" n="3">방긔</sent>
+<sent type="main" lang="chi" page="38a" n="4">厠</sent>
+<sent type="main" lang="kor" page="38a" n="4">뒤간</sent>
+<sent type="main" lang="chi" page="38a" n="5">行淸</sent>
+<sent type="main" lang="kor" page="38a" n="5">마유</sent>
+<sent type="main" lang="chi" page="38a" n="6">木+威 瘉</sent>
+<sent type="main" lang="kor" page="38a" n="6">밧기</sent>
+<sent type="main" lang="chi" page="38a" n="7">厠籌</sent>
+<sent type="main" lang="kor" page="38a" n="7">뒤나무</sent>
+<sent type="main" lang="chi" page="38a" n="8">茅紙</sent>
+<sent type="main" lang="kor" page="38a" n="8">뒤지[以紙除糞밋씻 조희]</sent>
+<sent type="main" lang="chi" page="38a" n="9">抒厠</sent>
+<sent type="main" lang="kor" page="38a" n="9">뒤간 츠다</sent>
+<sent type="main" lang="chi" page="38a" n="10">臀</sent>
+<sent type="main" lang="kor" page="38a" n="10">볼기</sent>
+<sent type="main" lang="chi" page="38a" n="11">髖</sent>
+<sent type="main" lang="kor" page="38a" n="11">옥문이</sent>
+<sent type="main" lang="chi" page="38a" n="12">股</sent>
+<sent type="main" lang="kor" page="38a" n="12">다리</sent>
+<sent type="main" lang="chi" page="38a" n="13">大腿</sent>
+<sent type="main" lang="kor" page="38a" n="13">넙젹다리</sent>
+<sent type="main" lang="chi" page="38a" n="14">行陽</sent>
+<sent type="main" lang="kor" page="38a" n="14">가톳</sent>
+<sent type="main" lang="chi" page="38a" n="15">膝</sent>
+<sent type="main" lang="kor" page="38a" n="15">무릅</sent>
+<sent type="main" lang="chi" page="38a" n="16">臏</sent>
+<sent type="main" lang="kor" page="38a" n="16">종</sent>
+<sent type="main" lang="chi" page="38a" n="17">膕</sent>
+<sent type="main" lang="kor" page="38a" n="17">오곰</sent>
+<sent type="main" lang="chi" page="38a" n="18">脛</sent>
+<sent type="main" lang="kor" page="38a" n="18">죵아리</sent>
+<sent type="main" lang="chi" page="38a" n="19">腿頂骨</sent>
+<sent type="main" lang="kor" page="38a" n="19">졍강이</sent>
+<sent type="main" lang="chi" page="38a" n="20">腓</sent>
+<sent type="main" lang="kor" page="38a" n="20">쟝단지</sent>
+<sent type="main" lang="chi" page="38a" n="21">足</sent>
+<sent type="main" lang="kor" page="38a" n="21">발</sent>
+<sent type="main" lang="chi" page="38a" n="22">足高</sent>
+<sent type="main" lang="kor" page="38a" n="22">발목</sent>
+<sent type="main" lang="chi" page="38a" n="23">廉</sent>
+<sent type="main" lang="kor" page="38a" n="23">밧복샤아</sent>
+<sent type="main" lang="chi" page="38a" n="24">踝</sent>
+<sent type="main" lang="kor" page="38a" n="24">안복샤아</sent>
+<sent type="main" lang="chi" page="38a" n="25">踵</sent>
+<sent type="main" lang="kor" page="38a" n="25">발구머리</sent>
+<sent type="main" lang="chi" page="38a" n="26">脚心</sent>
+<sent type="main" lang="kor" page="38a" n="26">발당</sent>
+<sent type="main" lang="chi" page="38a" n="27">脚背</sent>
+<sent type="main" lang="kor" page="38a" n="27">발등</sent>
+<sent type="main" lang="chi" page="38a" n="28">脚面趾</sent>
+<sent type="main" lang="kor" page="38a" n="28">발가락</sent>
+<sent type="main" lang="chi" page="38a" n="29">拇</sent>
+<sent type="main" lang="kor" page="38a" n="29">엄지발가락</sent>
+<sent type="main" lang="chi" page="38a" n="30">足瓜</sent>
+<sent type="main" lang="kor" page="38a" n="30">발금</sent>
+<sent type="main" lang="chi" page="38a" n="31">鱉脚</sent>
+<sent type="main" lang="kor" page="38a" n="31">밧장다리</sent>
+<sent type="main" lang="chi" page="38a" n="32">鴨脚</sent>
+<sent type="main" lang="kor" page="38a" n="32">안장다리</sent>
+<sent type="main" lang="chi" page="38a" n="33">步</sent>
+<sent type="main" lang="kor" page="38a" n="33">거름것다</sent>
+<sent type="main" lang="chi" page="38a" n="34">徐行</sent>
+<sent type="main" lang="kor" page="38a" n="34">쳔쳔히 가다</sent>
+<sent type="main" lang="chi" page="38a" n="35">走</sent>
+<sent type="main" lang="kor" page="38a" n="35">급히 가다</sent>
+<sent type="main" lang="chi" page="38a" n="36">踟躕</sent>
+<sent type="main" lang="kor" page="38a" n="36">주졔주졔다</sent>
+<sent type="main" lang="chi" page="38a" n="37">跛</sent>
+<sent type="main" lang="kor" page="38a" n="37">져다</sent>
+<sent type="main" lang="chi" page="38a" n="38">躄</sent>
+<sent type="main" lang="kor" page="38a" n="38">졀독발이</sent>
+<sent type="main" lang="chi" page="38a" n="39">兀子</sent>
+<sent type="main" lang="kor" page="38a" n="39">발버히다</sent>
+<sent type="main" lang="chi" page="38a" n="40">單腿跳</sent>
+<sent type="main" lang="kor" page="38a" n="40">금좃다</sent>
+<sent type="main" lang="chi" page="38a" n="41">輕+足</sent><!--輕 밑에 足.-->
+<sent type="main" lang="kor" page="38a" n="41">금질</sent>
+<sent type="main" lang="chi" page="38a" n="42">匍匐</sent>
+<sent type="main" lang="kor" page="38a" n="42">긔다</sent>
+<sent type="main" lang="chi" page="38a" n="43">走截</sent>
+<sent type="main" lang="kor" page="38a" n="43">엽가다 다려 압셔다</sent>
+
+<sent type="main" lang="chi" page="38b" n="1">倒</sent>
+<sent type="main" lang="kor" page="38b" n="1">업더다</sent>
+<sent type="main" lang="chi" page="38b" n="2">伂</sent>
+<sent type="main" lang="kor" page="38b" n="2">쟛지다</sent>
+<sent type="main" lang="chi" page="38b" n="3">跌</sent>
+<sent type="main" lang="kor" page="38b" n="3">밋그러지다</sent>
+<sent type="main" lang="chi" page="38b" n="4">登</sent>
+<sent type="main" lang="kor" page="38b" n="4">오르다</sent>
+<sent type="main" lang="chi" page="38b" n="5">降</sent>
+<sent type="main" lang="kor" page="38b" n="5">나리다</sent>
+<sent type="main" lang="chi" page="38b" n="6">跳</sent>
+<sent type="main" lang="kor" page="38b" n="6">다</sent>
+<sent type="main" lang="chi" page="38b" n="7">踐</sent>
+<sent type="main" lang="kor" page="38b" n="7">다</sent>
+<sent type="main" lang="chi" page="38b" n="8">蹴</sent>
+<sent type="main" lang="kor" page="38b" n="8">다</sent>
+<sent type="main" lang="chi" page="38b" n="9">趿</sent>
+<sent type="main" lang="kor" page="38b" n="9">발노 그러다리다</sent>
+<sent type="main" lang="chi" page="38b" n="10">躡</sent>
+<sent type="main" lang="kor" page="38b" n="10">발노 지근거리다</sent>
+<sent type="main" lang="chi" page="38b" n="11">跂</sent>
+<sent type="main" lang="kor" page="38b" n="11">젹여드듸다</sent>
+<sent type="main" lang="chi" page="38b" n="12">跌</sent>
+<sent type="main" lang="kor" page="38b" n="12">발벗다</sent>
+<sent type="main" lang="chi" page="38b" n="13">紮足</sent>
+<sent type="main" lang="kor" page="38b" n="13">발다</sent>
+<sent type="main" lang="chi" page="38b" n="14">繭</sent>
+<sent type="main" lang="kor" page="38b" n="14">발부릇다</sent>
+<sent type="main" lang="chi" page="38b" n="15">肉刺</sent>
+<sent type="main" lang="kor" page="38b" n="15">틔눈</sent>
+<sent type="main" lang="chi" page="38b" n="16">脚麻</sent>
+<sent type="main" lang="kor" page="38b" n="16">발져리다</sent>
+<sent type="main" lang="chi" page="38b" n="17">足困</sent>
+<sent type="main" lang="kor" page="38b" n="17">발터지다</sent>
+<sent type="main" lang="chi" page="38b" n="18">皮</sent>
+<sent type="main" lang="kor" page="38b" n="18">가족</sent>
+<sent type="main" lang="chi" page="38b" n="19">皺</sent>
+<sent type="main" lang="kor" page="38b" n="19">주룸살 잡히다</sent>
+<sent type="main" lang="chi" page="38b" n="20">起疿子</sent>
+<sent type="main" lang="kor" page="38b" n="20">듸돗다</sent>
+<sent type="main" lang="chi" page="38b" n="21">酸疼</sent>
+<sent type="main" lang="kor" page="38b" n="21">싀근싀근다</sent>
+<sent type="main" lang="chi" page="38b" n="22">胼胝</sent>
+<sent type="main" lang="kor" page="38b" n="22">가족 덕다</sent>
+<sent type="main" lang="chi" page="38b" n="23">皴</sent>
+<sent type="main" lang="kor" page="38b" n="23">가족 트다</sent>
+<sent type="main" lang="chi" page="38b" n="24">皸</sent>
+<sent type="main" lang="kor" page="38b" n="24">어러 트다</sent>
+<sent type="main" lang="chi" page="38b" n="25">起泡</sent>
+<sent type="main" lang="kor" page="38b" n="25">부릇다</sent>
+<sent type="main" lang="chi" page="38b" n="26">㾕 疒+束</sent>
+<sent type="main" lang="kor" page="38b" n="26">몸의 소오롬돗다</sent>
+<sent type="main" lang="chi" page="38b" n="27">擦破油皮</sent>
+<sent type="main" lang="kor" page="38b" n="27">버서지다</sent>
+<sent type="main" lang="chi" page="38b" n="28">戳刺</sent>
+<sent type="main" lang="kor" page="38b" n="28">가시드다</sent>
+<sent type="main" lang="chi" page="38b" n="29">傷靑</sent>
+<sent type="main" lang="kor" page="38b" n="29">다처프르다</sent>
+<sent type="main" lang="chi" page="38b" n="30">刺刺疼</sent>
+<sent type="main" lang="kor" page="38b" n="30">알이다</sent>
+<sent type="main" lang="chi" page="38b" n="31">黑子</sent>
+<sent type="main" lang="kor" page="38b" n="31">사마괴</sent>
+<sent type="main" lang="chi" page="38b" n="32">疣子</sent>
+<sent type="main" lang="kor" page="38b" n="32">무사마괴</sent>
+<sent type="main" lang="chi" page="38b" n="33">拴馬樁</sent>
+<sent type="main" lang="kor" page="38b" n="33">쥐젓</sent>
+<sent type="main" lang="chi" page="38b" n="34">癭袋</sent>
+<sent type="main" lang="kor" page="38b" n="34">혹</sent>
+<sent type="main" lang="chi" page="38b" n="35">肉</sent>
+<sent type="main" lang="kor" page="38b" n="35">살</sent>
+<sent type="main" lang="chi" page="38b" n="36">脂 月+曼</sent>
+<sent type="main" lang="kor" page="38b" n="36">기름</sent>
+<sent type="main" lang="chi" page="38b" n="37">贅肉</sent>
+<sent type="main" lang="kor" page="38b" n="37">구즌살</sent>
+<sent type="main" lang="chi" page="38b" n="38">骨</sent>
+<sent type="main" lang="kor" page="38b" n="38"></sent>
+<sent type="main" lang="chi" page="38b" n="39">髓</sent>
+<sent type="main" lang="kor" page="38b" n="39">골</sent>
+<sent type="main" lang="chi" page="38b" n="40">筋</sent>
+<sent type="main" lang="kor" page="38b" n="40">힘줄</sent>
+<sent type="main" lang="chi" page="38b" n="41">血</sent>
+<sent type="main" lang="kor" page="38b" n="41">피</sent>
+<sent type="main" lang="chi" page="38b" n="42">衁瘀血</sent>
+<sent type="main" lang="kor" page="38b" n="42">어혈</sent>
+<sent type="main" lang="chi" page="38b" n="43">吐血</sent>
+<sent type="main" lang="kor" page="38b" n="43">토혈</sent>
+<sent type="main" lang="chi" page="38b" n="44">衄血</sent>
+<sent type="main" lang="kor" page="38b" n="44">코피</sent>
+
+<sent type="main" lang="chi" page="39a" n="1">脈</sent>
+<sent type="main" lang="kor" page="39a" n="1"></sent>
+
+<sent type="main" lang="chi" page="40b" n="1">五臟</sent>
+<sent type="main" lang="kor" page="40b" n="1">오쟝</sent>
+<sent type="main" lang="chi" page="40b" n="2">心</sent>
+<sent type="main" lang="kor" page="40b" n="2">념통</sent>
+<sent type="main" lang="chi" page="40b" n="3">念</sent>
+<sent type="main" lang="kor" page="40b" n="3">각</sent>
+<sent type="main" lang="chi" page="40b" n="4">用心</sent>
+<sent type="main" lang="kor" page="40b" n="4">마 부리다</sent>
+<sent type="main" lang="chi" page="40b" n="5">信</sent>
+<sent type="main" lang="kor" page="40b" n="5">밋부다</sent>
+<sent type="main" lang="chi" page="40b" n="6">寬</sent>
+<sent type="main" lang="kor" page="40b" n="6">너그럽다</sent>
+<sent type="main" lang="chi" page="40b" n="7">恭</sent>
+<sent type="main" lang="kor" page="40b" n="7">공손</sent>
+<sent type="main" lang="chi" page="40b" n="8">敬</sent>
+<sent type="main" lang="kor" page="40b" n="8">공경</sent>
+<sent type="main" lang="chi" page="40b" n="9">謹</sent>
+<sent type="main" lang="kor" page="40b" n="9">삼가다</sent>
+<sent type="main" lang="chi" page="40b" n="10">慤仔細看</sent>
+<sent type="main" lang="kor" page="40b" n="10">조심다</sent>
+<sent type="main" lang="chi" page="40b" n="11">柔</sent>
+<sent type="main" lang="kor" page="40b" n="11">부드럽다</sent>
+<sent type="main" lang="chi" page="40b" n="12">順</sent>
+<sent type="main" lang="kor" page="40b" n="12">슌다</sent>
+<sent type="main" lang="chi" page="40b" n="13">愚</sent>
+<sent type="main" lang="kor" page="40b" n="13">우리석다</sent>
+<sent type="main" lang="chi" page="40b" n="14">惡</sent>
+<sent type="main" lang="kor" page="40b" n="14">오납다</sent>
+<sent type="main" lang="chi" page="40b" n="15">酷</sent>
+<sent type="main" lang="kor" page="40b" n="15">혹독다</sent>
+<sent type="main" lang="chi" page="40b" n="16">愎</sent>
+<sent type="main" lang="kor" page="40b" n="16">다</sent>
+<sent type="main" lang="chi" page="40b" n="17">毒</sent>
+<sent type="main" lang="kor" page="40b" n="17">독다</sent>
+<sent type="main" lang="chi" page="40b" n="18">刻薄</sent>
+<sent type="main" lang="kor" page="40b" n="18">각박다</sent>
+<sent type="main" lang="chi" page="40b" n="19">隘</sent>
+<sent type="main" lang="kor" page="40b" n="19">협</sent>
+<sent type="main" lang="chi" page="40b" n="20">躁</sent>
+<sent type="main" lang="kor" page="40b" n="20">조급</sent>
+<sent type="main" lang="chi" page="40b" n="21">固執</sent>
+<sent type="main" lang="kor" page="40b" n="21">고집</sent>
+<sent type="main" lang="chi" page="40b" n="22">姦</sent>
+<sent type="main" lang="kor" page="40b" n="22">간샤</sent>
+<sent type="main" lang="chi" page="40b" n="23">嬾</sent>
+<sent type="main" lang="kor" page="40b" n="23">겨르다</sent>
+<sent type="main" lang="chi" page="40b" n="24">喜</sent>
+<sent type="main" lang="kor" page="40b" n="24">깃부다</sent>
+<sent type="main" lang="chi" page="40b" n="25">怒</sent>
+<sent type="main" lang="kor" page="40b" n="25">셩다</sent>
+<sent type="main" lang="chi" page="40b" n="26">忿</sent>
+<sent type="main" lang="kor" page="40b" n="26">분다</sent>
+<sent type="main" lang="chi" page="40b" n="27">怨</sent>
+<sent type="main" lang="kor" page="40b" n="27">원망다</sent>
+<sent type="main" lang="chi" page="40b" n="28">憝憾</sent>
+<sent type="main" lang="kor" page="40b" n="28">야속다</sent>
+<sent type="main" lang="chi" page="40b" n="29">嫌</sent>
+<sent type="main" lang="kor" page="40b" n="29">혐의</sent>
+
+<sent type="main" lang="chi" page="41a" n="1">記恨</sent>
+<sent type="main" lang="kor" page="41a" n="1">별으다</sent>
+<sent type="main" lang="chi" page="41a" n="2">禁+頁 齘</sent>
+<sent type="main" lang="kor" page="41a" n="2">치니다</sent>
+<sent type="main" lang="chi" page="41a" n="3">哀</sent>
+<sent type="main" lang="kor" page="41a" n="3">슬프다</sent>
+<sent type="main" lang="chi" page="41a" n="4">憐</sent>
+<sent type="main" lang="kor" page="41a" n="4">불상다</sent>
+<sent type="main" lang="chi" page="41a" n="5">慟</sent>
+<sent type="main" lang="kor" page="41a" n="5">섧다</sent>
+<sent type="main" lang="chi" page="41a" n="6">苦啊</sent>
+<sent type="main" lang="kor" page="41a" n="6">스러옵다</sent>
+<sent type="main" lang="chi" page="41a" n="7">愁</sent>
+<sent type="main" lang="kor" page="41a" n="7">근심</sent>
+<sent type="main" lang="chi" page="41a" n="8">揪心</sent>
+<sent type="main" lang="kor" page="41a" n="8"> 켸이다</sent>
+<sent type="main" lang="chi" page="41a" n="9">懼</sent>
+<sent type="main" lang="kor" page="41a" n="9">두렵다</sent>
+<sent type="main" lang="chi" page="41a" n="10">怯</sent>
+<sent type="main" lang="kor" page="41a" n="10">겁다</sent>
+<sent type="main" lang="chi" page="41a" n="11">憚</sent>
+<sent type="main" lang="kor" page="41a" n="11">리다</sent>
+<sent type="main" lang="chi" page="41a" n="12">驚</sent>
+<sent type="main" lang="kor" page="41a" n="12">놀나다</sent>
+<sent type="main" lang="chi" page="41a" n="13">嚇他</sent>
+<sent type="main" lang="kor" page="41a" n="13">남 저히다</sent>
+<sent type="main" lang="chi" page="41a" n="14">愛</sent>
+<sent type="main" lang="kor" page="41a" n="14">랑다</sent>
+<sent type="main" lang="chi" page="41a" n="15">憎</sent>
+<sent type="main" lang="kor" page="41a" n="15">믜워다</sent>
+<sent type="main" lang="chi" page="41a" n="16">慾</sent>
+<sent type="main" lang="kor" page="41a" n="16">욕심다</sent>
+<sent type="main" lang="chi" page="41a" n="17">望</sent>
+<sent type="main" lang="kor" page="41a" n="17">라다</sent>
+<sent type="main" lang="chi" page="41a" n="18">貪</sent>
+<sent type="main" lang="kor" page="41a" n="18">탐다</sent>
+<sent type="main" lang="chi" page="41a" n="19">恥</sent>
+<sent type="main" lang="kor" page="41a" n="19">붓그럽다</sent>
+<sent type="main" lang="chi" page="41a" n="20">受愧</sent>
+<sent type="main" lang="kor" page="41a" n="20">무류다</sent>
+<sent type="main" lang="chi" page="41a" n="21">悔</sent>
+<sent type="main" lang="kor" page="41a" n="21">뉘우치다</sent>
+<sent type="main" lang="chi" page="41a" n="22">吝</sent>
+<sent type="main" lang="kor" page="41a" n="22">린다</sent>
+<sent type="main" lang="chi" page="41a" n="23">戒</sent>
+<sent type="main" lang="kor" page="41a" n="23">경계</sent>
+<sent type="main" lang="chi" page="41a" n="24">快</sent>
+<sent type="main" lang="kor" page="41a" n="24">쾌다</sent>
+<sent type="main" lang="chi" page="41a" n="25">慰</sent>
+<sent type="main" lang="kor" page="41a" n="25">위로다</sent>
+<sent type="main" lang="chi" page="41a" n="26">疑</sent>
+<sent type="main" lang="kor" page="41a" n="26">의심다</sent>
+<sent type="main" lang="chi" page="41a" n="27">覺</sent>
+<sent type="main" lang="kor" page="41a" n="27">닷다</sent>
+<sent type="main" lang="chi" page="41a" n="28">悵</sent>
+<sent type="main" lang="kor" page="41a" n="28">섭섭다 又 섬다</sent>
+<sent type="main" lang="chi" page="41a" n="29">壹鬱</sent>
+<sent type="main" lang="kor" page="41a" n="29">답답다</sent>
+<sent type="main" lang="chi" page="41a" n="30">讓</sent>
+<sent type="main" lang="kor" page="41a" n="30">양다</sent>
+<sent type="main" lang="chi" page="41a" n="31">欿然</sent>
+<sent type="main" lang="kor" page="41a" n="31">낫부다</sent>
+<sent type="main" lang="chi" page="41a" n="32">羨</sent>
+<sent type="main" lang="kor" page="41a" n="32">부러다</sent>
+<sent type="main" lang="chi" page="41a" n="33">忮</sent>
+<sent type="main" lang="kor" page="41a" n="33">게염다</sent>
+<sent type="main" lang="chi" page="41a" n="34">健</sent>
+<sent type="main" lang="kor" page="41a" n="34">호승다</sent>
+<sent type="main" lang="chi" page="41a" n="35">知</sent>
+<sent type="main" lang="kor" page="41a" n="35">아다</sent>
+<sent type="main" lang="chi" page="41a" n="36">測</sent>
+<sent type="main" lang="kor" page="41a" n="36">혜아리다</sent>
+<sent type="main" lang="chi" page="41a" n="37">肺</sent>
+<sent type="main" lang="kor" page="41a" n="37">부화</sent>
+
+<sent type="main" lang="chi" page="41b" n="1">脾</sent>
+<sent type="main" lang="kor" page="41b" n="1">길혀</sent>
+<sent type="main" lang="chi" page="41b" n="2">肝</sent>
+<sent type="main" lang="kor" page="41b" n="2">간</sent>
+<sent type="main" lang="chi" page="41b" n="3">腎</sent>
+<sent type="main" lang="kor" page="41b" n="3">콩팟</sent>
+<sent type="main" lang="chi" page="41b" n="4">命門</sent>
+<sent type="main" lang="kor" page="41b" n="4">명문</sent>
+<sent type="main" lang="chi" page="41b" n="5">六腑</sent>
+<sent type="main" lang="kor" page="41b" n="5">뉵부</sent>
+<sent type="main" lang="chi" page="41b" n="6">小腸</sent>
+<sent type="main" lang="kor" page="41b" n="6">근창</sent>
+<sent type="main" lang="chi" page="41b" n="7">大腸</sent>
+<sent type="main" lang="kor" page="41b" n="7">큰창</sent>
+<sent type="main" lang="chi" page="41b" n="8">廻腸</sent>
+<sent type="main" lang="kor" page="41b" n="8">굽은창</sent>
+<sent type="main" lang="chi" page="41b" n="9">廣腸</sent>
+<sent type="main" lang="kor" page="41b" n="9">넙은창</sent>
+<sent type="main" lang="chi" page="41b" n="10">胃</sent>
+<sent type="main" lang="kor" page="41b" n="10">양</sent>
+<sent type="main" lang="chi" page="41b" n="11">膽</sent>
+<sent type="main" lang="kor" page="41b" n="11"></sent>
+<sent type="main" lang="chi" page="41b" n="12">膀胱</sent>
+<sent type="main" lang="kor" page="41b" n="12">방광</sent>
+<sent type="main" lang="chi" page="41b" n="13">水脬</sent>
+<sent type="main" lang="kor" page="41b" n="13">오줌통</sent>
+<sent type="main" lang="chi" page="41b" n="14">三焦</sent>
+<sent type="main" lang="kor" page="41b" n="14">삼쵸</sent>
+<sent type="main" lang="chi" page="41b" n="15">氣</sent>
+<sent type="main" lang="kor" page="41b" n="15">긔운</sent>
+<sent type="main" lang="chi" page="41b" n="16">息</sent>
+<sent type="main" lang="kor" page="41b" n="16">숨쉬다</sent>
+
+<sent type="main" lang="chi" page="42a" n="1">齁子</sent>
+<sent type="main" lang="kor" page="42a" n="1">헐근거리 람</sent>
+<sent type="main" lang="chi" page="42a" n="2">食+厄 逆</sent>
+<sent type="main" lang="kor" page="42a" n="2">폐긔</sent>
+<sent type="main" lang="chi" page="42a" n="3">打嗝噦</sent>
+<sent type="main" lang="kor" page="42a" n="3">욕지기</sent>
+<sent type="main" lang="chi" page="42a" n="4">噫</sent>
+<sent type="main" lang="kor" page="42a" n="4">트림</sent>
+<sent type="main" lang="chi" page="42a" n="5">嗄咽</sent>
+<sent type="main" lang="kor" page="42a" n="5">릐</sent>
+<sent type="main" lang="chi" page="42a" n="6">暢子錯喉嚔</sent>
+<sent type="main" lang="kor" page="42a" n="6">쟈차기</sent>
+<sent type="main" lang="chi" page="42a" n="7">欠</sent>
+<sent type="main" lang="kor" page="42a" n="7">하픔</sent>
+<sent type="main" lang="chi" page="42a" n="8">汗</sent>
+<sent type="main" lang="kor" page="42a" n="8"></sent>
+<sent type="main" lang="chi" page="42a" n="9">冷汗</sent>
+<sent type="main" lang="kor" page="42a" n="9">진</sent>
+<sent type="main" lang="chi" page="42a" n="10">黕</sent>
+<sent type="main" lang="kor" page="42a" n="10">옷셰  여 검다</sent>
+
+<sent type="main" lang="chi" page="42b" n="1">伶俐</sent>
+<sent type="main" lang="kor" page="42b" n="1">녕니</sent>
+<sent type="main" lang="chi" page="42b" n="2">了了</sent>
+<sent type="main" lang="kor" page="42b" n="2">료료다 다</sent>
+<sent type="main" lang="chi" page="42b" n="3">闒茸</sent>
+<sent type="main" lang="kor" page="42b" n="3">탑용다</sent>
+<sent type="main" lang="chi" page="42b" n="4">徿侗</sent>
+<sent type="main" lang="kor" page="42b" n="4">룡통다</sent>
+<sent type="main" lang="chi" page="42b" n="5">碌碌</sent>
+<sent type="main" lang="kor" page="42b" n="5">녹녹다</sent>
+<sent type="main" lang="chi" page="42b" n="6">派癩的</sent>
+<sent type="main" lang="kor" page="42b" n="6">못슬 놈</sent>
+<sent type="main" lang="chi" page="42b" n="7">賴皮</sent>
+<sent type="main" lang="kor" page="42b" n="7">뮈은 놈</sent>
+<sent type="main" lang="chi" page="42b" n="8">蟒漢子</sent>
+<sent type="main" lang="kor" page="42b" n="8">모리진 놈</sent>
+<sent type="main" lang="chi" page="42b" n="9">硬漢</sent>
+<sent type="main" lang="kor" page="42b" n="9">굿은 놈</sent>
+
+<sent type="main" lang="chi" page="43a" n="1">癡漢</sent>
+<sent type="main" lang="kor" page="43a" n="1">어린 놈</sent>
+<sent type="main" lang="chi" page="43a" n="2">潑皮</sent>
+<sent type="main" lang="kor" page="43a" n="2">못된 놈</sent>
+<sent type="main" lang="chi" page="43a" n="3">無樣的</sent>
+<sent type="main" lang="kor" page="43a" n="3">상업다</sent>
+<sent type="main" lang="chi" page="43a" n="4">斫頭的</sent>
+<sent type="main" lang="kor" page="43a" n="4">목벼힐 놈</sent>
+
+<sent type="title2" lang="chi" page="43b" n="1">民業部</sent>
+<sent type="main" lang="chi" page="43b" n="2">民</sent>
+<sent type="main" lang="kor" page="43b" n="2">셩</sent>
+
+<sent type="main" lang="chi" page="44a" n="1">農夫</sent>
+<sent type="main" lang="kor" page="44a" n="1">농부</sent>
+<sent type="main" lang="chi" page="44a" n="2">庄頭</sent>
+<sent type="main" lang="kor" page="44a" n="2">마름</sent>
+<sent type="main" lang="chi" page="44a" n="3">懶農</sent>
+<sent type="main" lang="kor" page="44a" n="3">나롱</sent>
+<sent type="main" lang="chi" page="44a" n="4">耒</sent>
+<sent type="main" lang="kor" page="44a" n="4">쟝기술</sent>
+<sent type="main" lang="chi" page="44a" n="5">犂底</sent>
+<sent type="main" lang="kor" page="44a" n="5">쟝기술 보습마초 </sent>
+<sent type="main" lang="chi" page="44a" n="6">壓鑱</sent>
+<sent type="main" lang="kor" page="44a" n="6">보습 눌너 무 나무</sent>
+<sent type="main" lang="chi" page="44a" n="7">犂箭</sent>
+<sent type="main" lang="kor" page="44a" n="7">보습 뵈옴 지르 나무</sent>
+<sent type="main" lang="chi" page="44a" n="8">犂轅</sent>
+<sent type="main" lang="kor" page="44a" n="8">장기성에</sent>
+<sent type="main" lang="chi" page="44a" n="9">犂梢</sent>
+<sent type="main" lang="kor" page="44a" n="9">쟝기 잡 로</sent>
+<sent type="main" lang="chi" page="44a" n="10">犂槃</sent>
+<sent type="main" lang="kor" page="44a" n="10">성에 머리보 줄 </sent>
+<sent type="main" lang="chi" page="44a" n="11">犂柱</sent>
+<sent type="main" lang="kor" page="44a" n="11">쟝기 마루</sent>
+<sent type="main" lang="chi" page="44a" n="12">犂評</sent>
+<sent type="main" lang="kor" page="44a" n="12">쟝기 마루 성에 놉히고 나초 구멍</sent>
+<sent type="main" lang="chi" page="44a" n="13">耕索</sent>
+<sent type="main" lang="kor" page="44a" n="13">보줄</sent>
+<sent type="main" lang="chi" page="44a" n="14">鏵子</sent>
+<sent type="main" lang="kor" page="44a" n="14">볏</sent>
+<sent type="main" lang="chi" page="44a" n="15">銕匙</sent>
+<sent type="main" lang="kor" page="44a" n="15">보습</sent>
+<sent type="main" lang="chi" page="44a" n="16">金危</sent>
+<sent type="main" lang="kor" page="44a" n="16">쟝기볏</sent>
+<sent type="main" lang="chi" page="44a" n="17">軛</sent>
+<sent type="main" lang="kor" page="44a" n="17">멍에</sent>
+<sent type="main" lang="chi" page="44a" n="18">踏犂</sent>
+<sent type="main" lang="kor" page="44a" n="18">븨</sent>
+<sent type="main" lang="chi" page="44a" n="19">耙</sent>
+<sent type="main" lang="kor" page="44a" n="19">써으레</sent>
+<sent type="main" lang="chi" page="44a" n="20">三枝鈀</sent>
+<sent type="main" lang="kor" page="44a" n="20">쇠시랑</sent>
+<sent type="main" lang="chi" page="44a" n="21">銕鐹</sent>
+<sent type="main" lang="kor" page="44a" n="21">광이</sent>
+<sent type="main" lang="chi" page="44a" n="22">尖金厥</sent>
+<sent type="main" lang="kor" page="44a" n="22">곳광이</sent>
+<sent type="main" lang="chi" page="44a" n="23">鍤</sent>
+<sent type="main" lang="kor" page="44a" n="23">삽</sent>
+<sent type="main" lang="chi" page="44a" n="24">銕杴</sent>
+<sent type="main" lang="kor" page="44a" n="24">쇠가</sent>
+<sent type="main" lang="chi" page="44a" n="25">木杴</sent>
+<sent type="main" lang="kor" page="44a" n="25">나무 넙가</sent>
+<sent type="main" lang="chi" page="44a" n="26">板勞</sent>
+<sent type="main" lang="kor" page="44a" n="26">번지</sent>
+<sent type="main" lang="chi" page="44a" n="27">金助</sent>
+<sent type="main" lang="kor" page="44a" n="27">호믜</sent>
+<sent type="main" lang="chi" page="44a" n="28">鎌</sent>
+<sent type="main" lang="kor" page="44a" n="28">낫</sent>
+<sent type="main" lang="chi" page="44a-44b" n="29">喬扦</sent>
+<sent type="main" lang="kor" page="44a-44b" n="29">어리</sent>
+
+<sent type="main" lang="chi" page="44b" n="1">耞</sent>
+<sent type="main" lang="kor" page="44b" n="1">도리</sent>
+<sent type="main" lang="chi" page="44b" n="2">連耞關</sent>
+<sent type="main" lang="kor" page="44b" n="2">도리 지</sent>
+<sent type="main" lang="chi" page="44b" n="3">杷</sent>
+<sent type="main" lang="kor" page="44b" n="3">고미</sent>
+<sent type="main" lang="chi" page="44b" n="4">颺場</sent>
+<sent type="main" lang="kor" page="44b" n="4">붓두질</sent>
+<sent type="main" lang="chi" page="44b" n="5">篹</sent>
+<sent type="main" lang="kor" page="44b" n="5">셤</sent>
+<sent type="main" lang="chi" page="44b" n="6">簑衣</sent>
+<sent type="main" lang="kor" page="44b" n="6">도롱이</sent>
+<sent type="main" lang="chi" page="44b" n="7">背篷</sent>
+<sent type="main" lang="kor" page="44b" n="7">졉리</sent>
+<sent type="main" lang="chi" page="44b" n="8">箬笠</sent>
+<sent type="main" lang="kor" page="44b" n="8">삿갓</sent>
+<sent type="main" lang="chi" page="44b" n="9">工</sent>
+<sent type="main" lang="kor" page="44b" n="9">쟝인</sent>
+<sent type="main" lang="chi" page="44b" n="10">做工的</sent>
+<sent type="main" lang="kor" page="44b" n="10">공쟝바치</sent>
+<sent type="main" lang="chi" page="44b" n="11">溜夫</sent>
+<sent type="main" lang="kor" page="44b" n="11">격군</sent>
+<sent type="main" lang="chi" page="44b" n="12">傢伙</sent>
+<sent type="main" lang="kor" page="44b" n="12">연쟝</sent>
+<sent type="main" lang="chi" page="44b" n="13">撓手</sent>
+<sent type="main" lang="kor" page="44b" n="13">쟝의 손시시</sent>
+<sent type="main" lang="chi" page="44b" n="14">木工</sent>
+<sent type="main" lang="kor" page="44b" n="14">목슈</sent>
+<sent type="main" lang="chi" page="44b" n="15">大木手</sent>
+<sent type="main" lang="kor" page="44b" n="15">편슈</sent>
+<sent type="main" lang="chi" page="44b" n="16">小木手</sent>
+<sent type="main" lang="kor" page="44b" n="16">쇼목쟝이</sent>
+<sent type="main" lang="chi" page="44b" n="17">曲尺</sent>
+<sent type="main" lang="kor" page="44b" n="17">곡쳑</sent>
+<sent type="main" lang="chi" page="44b" n="18">墨斗</sent>
+<sent type="main" lang="kor" page="44b" n="18">먹통</sent>
+<sent type="main" lang="chi" page="44b" n="19">墨葠</sent>
+<sent type="main" lang="kor" page="44b" n="19">먹칼</sent>
+<sent type="main" lang="chi" page="44b" n="20">錛子</sent>
+<sent type="main" lang="kor" page="44b" n="20">가귀</sent>
+<sent type="main" lang="chi" page="44b" n="21">鏟</sent>
+<sent type="main" lang="kor" page="44b" n="21">작위</sent>
+<sent type="main" lang="chi" page="44b" n="22">剮了</sent>
+<sent type="main" lang="kor" page="44b" n="22">다</sent>
+<sent type="main" lang="chi" page="44b" n="23">鋸</sent>
+<sent type="main" lang="kor" page="44b" n="23">톱</sent>
+<sent type="main" lang="chi" page="44b" n="24">鋸齒</sent>
+<sent type="main" lang="kor" page="44b" n="24">톱니</sent>
+<sent type="main" lang="chi" page="44b" n="25">鋸屑</sent>
+<sent type="main" lang="kor" page="44b" n="25">톱밥</sent>
+<sent type="main" lang="chi" page="44b" n="26">鉋</sent>
+<sent type="main" lang="kor" page="44b" n="26">패</sent>
+<sent type="main" lang="chi" page="44b" n="27">鉋匡</sent>
+<sent type="main" lang="kor" page="44b" n="27">패집</sent>
+<sent type="main" lang="chi" page="44b" n="28">鉋花</sent>
+<sent type="main" lang="kor" page="44b" n="28">패밥</sent>
+<sent type="main" lang="chi" page="44b" n="29">鑿</sent>
+<sent type="main" lang="kor" page="44b" n="29"></sent>
+<sent type="main" lang="chi" page="44b" n="30">椎</sent>
+<sent type="main" lang="kor" page="44b" n="30">방망이</sent>
+<sent type="main" lang="chi" page="44b" n="31">邊鐋</sent>
+<sent type="main" lang="kor" page="44b" n="31">변탕</sent>
+<sent type="main" lang="chi" page="44b" n="32">鑢</sent>
+<sent type="main" lang="kor" page="44b" n="32">환</sent>
+<sent type="main" lang="chi" page="44b" n="33">木銼</sent>
+<sent type="main" lang="kor" page="44b" n="33">나무환</sent>
+<sent type="main" lang="chi" page="44b" n="34">銼刀</sent>
+<sent type="main" lang="kor" page="44b" n="34">톱  줄</sent>
+<sent type="main" lang="chi" page="44b" n="35">斧</sent>
+<sent type="main" lang="kor" page="44b" n="35">독긔</sent>
+<sent type="main" lang="chi" page="44b" n="36">椹</sent>
+<sent type="main" lang="kor" page="44b" n="36">모탕</sent>
+<sent type="main" lang="chi" page="44b" n="37">鎚</sent>
+<sent type="main" lang="kor" page="44b" n="37">장도리</sent>
+<sent type="main" lang="chi" page="44b" n="38">食+郞 頭</sent>
+<sent type="main" lang="kor" page="44b" n="38">쇠몽동이</sent>
+<sent type="main" lang="chi" page="44b" n="39">鸛鉗</sent>
+<sent type="main" lang="kor" page="44b" n="39">집게</sent>
+<sent type="main" lang="chi" page="44b" n="40">銕銼</sent>
+<sent type="main" lang="kor" page="44b" n="40">줄</sent>
+<sent type="main" lang="chi" page="44b" n="41">鍖</sent>
+<sent type="main" lang="kor" page="44b" n="41">모루</sent>
+<sent type="main" lang="chi" page="44b" n="42">鎚</sent>
+<sent type="main" lang="kor" page="44b" n="42">마치</sent>
+<sent type="main" lang="chi" page="44b" n="43">鋊</sent>
+<sent type="main" lang="kor" page="44b" n="43">요구쇠</sent>
+<sent type="main" lang="chi" page="44b" n="44">鑪</sent>
+<sent type="main" lang="kor" page="44b" n="44">풀무</sent>
+<sent type="main" lang="chi" page="44b" n="45">風匣鑪</sent>
+<sent type="main" lang="kor" page="44b" n="45">골풀무</sent>
+<sent type="main" lang="chi" page="44b" n="46">放砂鑪</sent>
+<sent type="main" lang="kor" page="44b" n="46">쇠불 니 풀무</sent>
+<sent type="main" lang="chi" page="44b" n="47">韋葡</sent>
+<sent type="main" lang="kor" page="44b" n="47">허풍손이</sent>
+
+<sent type="main" lang="chi" page="45a" n="1">火罐子</sent>
+<sent type="main" lang="kor" page="45a" n="1">쇠 뇌기 도간이</sent>
+<sent type="main" lang="chi" page="45a" n="2">泥工</sent>
+<sent type="main" lang="kor" page="45a" n="2">미쟝이</sent>
+<sent type="main" lang="chi" page="45a" n="3">弱+土</sent><!--弱 밑에 土.-->
+<sent type="main" lang="kor" page="45a" n="3">흙닉이다</sent>
+<sent type="main" lang="chi" page="45a" n="4">墍</sent>
+<sent type="main" lang="kor" page="45a" n="4">잉벽다</sent>
+<sent type="main" lang="chi" page="45a" n="5">塗槾</sent>
+<sent type="main" lang="kor" page="45a" n="5">흙질다</sent>
+<sent type="main" lang="chi" page="45a" n="6">抹槾</sent>
+<sent type="main" lang="kor" page="45a" n="6">흙다</sent>
+<sent type="main" lang="chi" page="45a" n="7">鏝</sent>
+<sent type="main" lang="kor" page="45a" n="7">흙손</sent>
+<sent type="main" lang="chi" page="45a" n="8">泥托</sent>
+<sent type="main" lang="kor" page="45a" n="8">흙밧기</sent>
+<sent type="main" lang="chi" page="45a" n="9">畚</sent>
+<sent type="main" lang="kor" page="45a" n="9"></sent>
+<sent type="main" lang="chi" page="45a" n="10">模板</sent>
+<sent type="main" lang="kor" page="45a" n="10">탄판</sent>
+<sent type="main" lang="chi" page="45a" n="11">盔</sent>
+<sent type="main" lang="kor" page="45a" n="11">골</sent>
+<sent type="main" lang="chi" page="45a" n="12">坄</sent>
+<sent type="main" lang="kor" page="45a" n="12">즐그릇 굽 굴</sent>
+<sent type="main" lang="chi" page="45a" n="13">窯</sent>
+<sent type="main" lang="kor" page="45a" n="13">독 굽 굴</sent>
+<sent type="main" lang="chi" page="45a" n="14">雕刻</sent>
+<sent type="main" lang="kor" page="45a" n="14">샤기다</sent>
+<sent type="main" lang="chi" page="45a" n="15">規工</sent>
+<sent type="main" lang="kor" page="45a" n="15">가리쟝이</sent>
+<sent type="main" lang="chi" page="45a" n="16">鏇了</sent>
+<sent type="main" lang="kor" page="45a" n="16">그릇 가리다</sent>
+<sent type="main" lang="chi" page="45a" n="17">剜刀</sent>
+<sent type="main" lang="kor" page="45a" n="17">우뷔칼</sent>
+<sent type="main" lang="chi" page="45a" n="18">彎之</sent>
+<sent type="main" lang="kor" page="45a" n="18">휘우다</sent>
+<sent type="main" lang="chi" page="45a" n="19">皮匠</sent>
+<sent type="main" lang="kor" page="45a" n="19">갓밧치</sent>
+<sent type="main" lang="chi" page="45a" n="20">秋板</sent>
+<sent type="main" lang="kor" page="45a" n="20">털 부튼 가족</sent>
+<sent type="main" lang="chi" page="45a" n="21">尸+叉</sent><!--尸 밑에 叉.-->
+<sent type="main" lang="kor" page="45a" n="21">가족 부뷔다</sent>
+<sent type="main" lang="chi" page="45a" n="22">揉搓燖皮</sent>
+<sent type="main" lang="kor" page="45a" n="22">털 지우다</sent>
+<sent type="main" lang="chi" page="45a" n="23">油了</sent>
+<sent type="main" lang="kor" page="45a" n="23">기름 결우다</sent>
+<sent type="main" lang="chi" page="45a" n="24">重油</sent>
+<sent type="main" lang="kor" page="45a" n="24">가유다</sent>
+<sent type="main" lang="chi" page="45a" n="25">皮股子</sent>
+<sent type="main" lang="kor" page="45a" n="25">련</sent>
+<sent type="main" lang="chi" page="45a" n="26">皮鍬子</sent>
+<sent type="main" lang="kor" page="45a" n="26">무두</sent>
+<sent type="main" lang="chi" page="45a" n="27">□皮</sent>
+<sent type="main" lang="kor" page="45a" n="27">무두질</sent>
+<sent type="main" lang="chi" page="45a" n="28">末技利家</sent>
+<sent type="main" lang="kor" page="45a" n="28">흥졍바치</sent>
+
+<sent type="main" lang="chi" page="45b" n="1">牙儈</sent>
+<sent type="main" lang="kor" page="45b" n="1">주름</sent>
+<sent type="main" lang="chi" page="45b" n="2">牙婆</sent>
+<sent type="main" lang="kor" page="45b" n="2">방물쟝</sent>
+<sent type="main" lang="chi" page="45b" n="3">牙錢</sent>
+<sent type="main" lang="kor" page="45b" n="3">주름갑</sent>
+<sent type="main" lang="chi" page="45b" n="4">火伴</sent>
+<sent type="main" lang="kor" page="45b" n="4">동모</sent>
+<sent type="main" lang="chi" page="45b" n="5">搖貨郞</sent>
+<sent type="main" lang="kor" page="45b" n="5">도부쟝</sent>
+<sent type="main" lang="chi" page="45b" n="6">噯喓賣</sent>
+<sent type="main" lang="kor" page="45b" n="6">외여파다</sent>
+<sent type="main" lang="chi" page="45b" n="7">榷</sent>
+<sent type="main" lang="kor" page="45b" n="7">도고다</sent>
+<sent type="main" lang="chi" page="45b" n="8">貿</sent>
+<sent type="main" lang="kor" page="45b" n="8">무역다</sent>
+<sent type="main" lang="chi" page="45b" n="9">買</sent>
+<sent type="main" lang="kor" page="45b" n="9">다</sent>
+<sent type="main" lang="chi" page="45b" n="10">賣</sent>
+<sent type="main" lang="kor" page="45b" n="10">파다</sent>
+<sent type="main" lang="chi" page="45b" n="11">贉</sent>
+<sent type="main" lang="kor" page="45b" n="11">마초이다</sent>
+<sent type="main" lang="chi" page="45b" n="12">貝僉賖</sent>
+<sent type="main" lang="kor" page="45b" n="12">외상</sent>
+<sent type="main" lang="chi" page="45b" n="13">縣買</sent>
+<sent type="main" lang="kor" page="45b" n="13">갑쥬고 다</sent>
+<sent type="main" lang="chi" page="45b" n="14">折閱</sent>
+<sent type="main" lang="kor" page="45b" n="14">갑훌다</sent>
+<sent type="main" lang="chi" page="45b" n="15">討添</sent>
+<sent type="main" lang="kor" page="45b" n="15">투졍다</sent>
+<sent type="main" lang="chi" page="45b" n="16">補錠</sent>
+<sent type="main" lang="kor" page="45b" n="16">더음밧다</sent>
+<sent type="main" lang="chi" page="45b" n="17">刁蹬</sent>
+<sent type="main" lang="kor" page="45b" n="17">물건 갑 도도다</sent>
+<sent type="main" lang="chi" page="45b" n="18">賺</sent>
+<sent type="main" lang="kor" page="45b" n="18">속아 갑 만히 주다</sent>
+<sent type="main" lang="chi" page="45b" n="19">退換</sent>
+<sent type="main" lang="kor" page="45b" n="19">흥졍 무르다</sent>
+<sent type="main" lang="chi" page="45b" n="20">主顧</sent>
+<sent type="main" lang="kor" page="45b" n="20">단골</sent>
+<sent type="main" lang="chi" page="45b" n="21">兌換</sent>
+<sent type="main" lang="kor" page="45b" n="21">밧고다</sent>
+<sent type="main" lang="chi" page="45b" n="22">賖着來</sent>
+<sent type="main" lang="kor" page="45b" n="22">외샹지다</sent>
+<sent type="main" lang="chi" page="45b" n="23">折本</sent>
+<sent type="main" lang="kor" page="45b" n="23">밋지다</sent>
+<sent type="main" lang="chi" page="45b" n="24">折閱</sent>
+<sent type="main" lang="kor" page="45b" n="24">밋지다</sent>
+<sent type="main" lang="chi" page="45b" n="25">撈本</sent>
+<sent type="main" lang="kor" page="45b" n="25">본젼 건지다</sent>
+<sent type="main" lang="chi" page="45b" n="26">撚閹</sent>
+<sent type="main" lang="kor" page="45b" n="26">졉이 지르다</sent>
+<sent type="main" lang="chi" page="45b" n="27">賆喫</sent>
+<sent type="main" lang="kor" page="45b" n="27">여 먹다</sent>
+<sent type="main" lang="chi" page="45b" n="28">按人派分</sent>
+<sent type="main" lang="kor" page="45b" n="28">난호다</sent>
+<sent type="main" lang="chi" page="45b" n="29">扺兌還償</sent>
+<sent type="main" lang="kor" page="45b" n="29">쳐주다</sent>
+<sent type="main" lang="chi" page="45b" n="30">直價</sent>
+<sent type="main" lang="kor" page="45b" n="30">갑이라</sent>
+<sent type="main" lang="chi" page="45b" n="31">狼賤</sent>
+<sent type="main" lang="kor" page="45b" n="31">쟝 흔다</sent>
+<sent type="main" lang="chi" page="45b" n="32">造化高</sent>
+<sent type="main" lang="kor" page="45b" n="32">망만타</sent>
+<sent type="main" lang="chi" page="45b" n="33">賬目</sent>
+<sent type="main" lang="kor" page="45b" n="33">치부</sent>
+<sent type="main" lang="chi" page="45b" n="34">市</sent>
+<sent type="main" lang="kor" page="45b" n="34">져</sent>
+<sent type="main" lang="chi" page="45b" n="35">廛</sent>
+<sent type="main" lang="kor" page="45b" n="35">젼</sent>
+<sent type="main" lang="chi" page="45b" n="36">肆</sent>
+<sent type="main" lang="kor" page="45b" n="36">가가</sent>
+<sent type="main" lang="chi" page="45b" n="37">賈區</sent>
+<sent type="main" lang="kor" page="45b" n="37">져 보 집</sent>
+
+<sent type="main" lang="chi" page="46a" n="1">珍寶</sent>
+<sent type="main" lang="kor" page="46a" n="1">보</sent>
+<sent type="main" lang="chi" page="46a" n="2">錢</sent>
+<sent type="main" lang="kor" page="46a" n="2">돈</sent>
+<sent type="main" lang="chi" page="46a" n="3">葉</sent>
+<sent type="main" lang="kor" page="46a" n="3"> 푼</sent>
+<sent type="main" lang="chi" page="46a" n="4">錢</sent>
+<sent type="main" lang="kor" page="46a" n="4"> 돈</sent>
+<sent type="main" lang="chi" page="46a" n="5">兩</sent>
+<sent type="main" lang="kor" page="46a" n="5"> 냥</sent>
+<sent type="main" lang="chi" page="46a" n="6">貫</sent>
+<sent type="main" lang="kor" page="46a" n="6"> 쾌</sent>
+<sent type="main" lang="chi" page="46a" n="7">定</sent>
+<sent type="main" lang="kor" page="46a" n="7">냥</sent>
+<sent type="main" lang="chi" page="46a" n="8">繈</sent>
+<sent type="main" lang="kor" page="46a" n="8">돈</sent>
+<sent type="main" lang="chi" page="46a" n="9">缿</sent>
+<sent type="main" lang="kor" page="46a" n="9">돈 넛 벙어리</sent>
+<sent type="main" lang="chi" page="46a" n="10">産</sent>
+<sent type="main" lang="kor" page="46a" n="10">셰간</sent>
+<sent type="main" lang="chi" page="46a" n="11">出舍</sent>
+<sent type="main" lang="kor" page="46a" n="11">셰간 다</sent>
+<sent type="main" lang="chi" page="46a" n="12">火帳</sent>
+<sent type="main" lang="kor" page="46a" n="12">젹은 발긔</sent>
+
+<sent type="main" lang="chi" page="46b" n="1">貸</sent>
+<sent type="main" lang="kor" page="46b" n="1">다</sent>
+<sent type="main" lang="chi" page="46b" n="2">子貸</sent>
+<sent type="main" lang="kor" page="46b" n="2">빗다</sent>
+<sent type="main" lang="chi" page="46b" n="3">放債</sent>
+<sent type="main" lang="kor" page="46b" n="3">빗쥬다</sent>
+<sent type="main" lang="chi" page="46b" n="4">保債</sent>
+<sent type="main" lang="kor" page="46b" n="4">빗 보인다</sent>
+<sent type="main" lang="chi" page="46b" n="5">典當</sent>
+<sent type="main" lang="kor" page="46b" n="5">뎐당</sent>
+<sent type="main" lang="chi" page="46b" n="6">質</sent>
+<sent type="main" lang="kor" page="46b" n="6">볼모</sent>
+<sent type="main" lang="chi" page="46b" n="7">還當</sent>
+<sent type="main" lang="kor" page="46b" n="7">뎐당 무루다</sent>
+<sent type="main" lang="chi" page="46b" n="8">儅鋪</sent>
+<sent type="main" lang="kor" page="46b" n="8">뎐당 쥬 집</sent>
+<sent type="main" lang="chi" page="46b" n="9">遞計</sent>
+<sent type="main" lang="kor" page="46b" n="9">체계</sent>
+<sent type="main" lang="chi" page="46b" n="10">負</sent>
+<sent type="main" lang="kor" page="46b" n="10">빗지다</sent>
+<sent type="main" lang="chi" page="46b" n="11">儅</sent>
+<sent type="main" lang="kor" page="46b" n="11">빗갑다</sent>
+<sent type="main" lang="chi" page="46b" n="12">贖</sent>
+<sent type="main" lang="kor" page="46b" n="12">물너다</sent>
+<sent type="main" lang="chi" page="46b" n="13">賠</sent>
+<sent type="main" lang="kor" page="46b" n="13">남의 빗 무다</sent>
+<sent type="main" lang="chi" page="46b" n="14">追賠</sent>
+<sent type="main" lang="kor" page="46b" n="14">물니다</sent>
+<sent type="main" lang="chi" page="46b" n="15">枉賠</sent>
+<sent type="main" lang="kor" page="46b" n="15">원통이 무다</sent>
+<sent type="main" lang="chi" page="46b" n="16">合同</sent>
+<sent type="main" lang="kor" page="46b" n="16">어음</sent>
+<sent type="main" lang="chi" page="46b" n="17">文券</sent>
+<sent type="main" lang="kor" page="46b" n="17">문셔</sent>
+<sent type="main" lang="chi" page="46b" n="18">流水帳</sent>
+<sent type="main" lang="kor" page="46b" n="18">흘님쟝</sent>
+<sent type="title2" lang="chi" page="46b" n="19">庶流部</sent>
+<sent type="main" lang="chi" page="46b" n="20">閹</sent>
+<sent type="main" lang="kor" page="46b" n="20">고</sent>
+
+<sent type="main" lang="chi" page="47a" n="1">宮女</sent>
+<sent type="main" lang="kor" page="47a" n="1">인</sent>
+<sent type="main" lang="chi" page="47a" n="2">譯</sent>
+<sent type="main" lang="kor" page="47a" n="2">역관</sent>
+<sent type="main" lang="chi" page="47a" n="3">計司</sent>
+<sent type="main" lang="kor" page="47a" n="3">계</sent>
+<sent type="main" lang="chi" page="47a" n="4">團領</sent>
+<sent type="main" lang="kor" page="47a" n="4">단령</sent>
+<sent type="main" lang="chi" page="47a" n="5">通引</sent>
+<sent type="main" lang="kor" page="47a" n="5">통인</sent>
+<sent type="main" lang="chi" page="47a" n="6">衙府</sent>
+<sent type="main" lang="kor" page="47a" n="6">관</sent>
+
+<sent type="main" lang="chi" page="47b" n="1">使令</sent>
+<sent type="main" lang="kor" page="47b" n="1">령</sent>
+<sent type="main" lang="chi" page="47b" n="2">五百</sent>
+<sent type="main" lang="kor" page="47b" n="2">길나쟝이</sent>
+<sent type="main" lang="chi" page="47b" n="3">螺匠</sent>
+<sent type="main" lang="kor" page="47b" n="3">나쟝이</sent>
+<sent type="main" lang="chi" page="47b" n="4">伴當頭目籠街</sent>
+<sent type="main" lang="kor" page="47b" n="4">갈도</sent>
+<sent type="main" lang="chi" page="47b" n="5">安童</sent>
+<sent type="main" lang="kor" page="47b" n="5">슈쳥</sent>
+<sent type="main" lang="chi" page="47b" n="6">傔從</sent>
+<sent type="main" lang="kor" page="47b" n="6">쳥직이</sent>
+<sent type="main" lang="chi" page="47b" n="7">傭</sent>
+<sent type="main" lang="kor" page="47b" n="7">더부리</sent>
+<sent type="main" lang="chi" page="47b" n="8">封+手 子</sent><!--封 밑에 手.-->
+<sent type="main" lang="kor" page="47b" n="8">종</sent>
+
+<sent type="main" lang="chi" page="48a" n="1">冬粮</sent>
+<sent type="main" lang="kor" page="48a" n="1">동녕아치</sent>
+<sent type="main" lang="chi" page="48a" n="2">要子</sent>
+<sent type="main" lang="kor" page="48a" n="2">광</sent>
+<sent type="main" lang="chi" page="48a" n="3">花郞</sent>
+<sent type="main" lang="kor" page="48a" n="3">화랑이</sent>
+<sent type="main" lang="chi" page="48a" n="4">呈才人</sent>
+<sent type="main" lang="kor" page="48a" n="4">인</sent>
+<sent type="main" lang="chi" page="48a" n="5">韃帽</sent>
+<sent type="main" lang="kor" page="48a" n="5">돌모</sent>
+<sent type="main" lang="chi" page="48a" n="6">娼妓</sent>
+<sent type="main" lang="kor" page="48a" n="6">기</sent>
+<sent type="main" lang="chi" page="48a" n="7">老鴇</sent>
+<sent type="main" lang="kor" page="48a" n="7">간나희 쳐셔 파라 먹 겨집</sent>
+<sent type="main" lang="chi" page="48a" n="8">表子</sent>
+<sent type="main" lang="kor" page="48a" n="8">간나희</sent>
+<sent type="main" lang="chi" page="48a" n="9">靑樓</sent>
+<sent type="main" lang="kor" page="48a" n="9">쳥누</sent>
+<sent type="main" lang="chi" page="48a" n="10">戱要</sent>
+<sent type="main" lang="kor" page="48a" n="10">희롱</sent>
+<sent type="main" lang="chi" page="48a" n="11">玩要</sent>
+<sent type="main" lang="kor" page="48a" n="11">노다</sent>
+<sent type="main" lang="chi" page="48a" n="12">光光</sent>
+<sent type="main" lang="kor" page="48a" n="12">구경다</sent>
+<sent type="main" lang="chi" page="48a" n="13">閑散心</sent>
+<sent type="main" lang="kor" page="48a" n="13">풀다</sent>
+<sent type="main" lang="chi" page="48a" n="14">鄔藏</sent>
+<sent type="main" lang="kor" page="48a" n="14">오쟝</sent>
+<sent type="main" lang="chi" page="48a" n="15">王人債</sent>
+<sent type="main" lang="kor" page="48a" n="15">왁갑</sent>
+<sent type="main" lang="chi" page="48a" n="16">禾尺</sent>
+<sent type="main" lang="kor" page="48a" n="16">쟝</sent>
+
+<sent type="main" lang="chi" page="48b" n="1">懸房</sent>
+<sent type="main" lang="kor" page="48b" n="1">다림방</sent>
+<sent type="main" lang="chi" page="48b" n="2">鋪子</sent>
+<sent type="main" lang="kor" page="48b" n="2">푸주</sent>
+<sent type="main" lang="chi" page="48b" n="3">盜賊</sent>
+<sent type="main" lang="kor" page="48b" n="3">도적</sent>
+<sent type="main" lang="chi" page="48b" n="4">難當賊</sent>
+<sent type="main" lang="kor" page="48b" n="4">불안당</sent>
+<sent type="main" lang="chi" page="48b" n="5">口向馬</sent>
+<sent type="main" lang="kor" page="48b" n="5">샹마적</sent>
+<sent type="main" lang="chi" page="48b" n="6">贓</sent>
+<sent type="main" lang="kor" page="48b" n="6">장물</sent>
+<sent type="main" lang="chi" page="48b" n="7">喫盜</sent>
+<sent type="main" lang="kor" page="48b" n="7">도적 맛다</sent>
+<sent type="main" lang="chi" page="48b" n="8">被搶</sent>
+<sent type="main" lang="kor" page="48b" n="8">앗기이다</sent>
+<sent type="main" lang="chi" page="48b" n="9">抽拿</sent>
+<sent type="main" lang="kor" page="48b" n="9">여드다</sent>
+<sent type="main" lang="chi" page="48b" n="10">剪綹的</sent>
+<sent type="main" lang="kor" page="48b" n="10">가린 주먼이</sent>
+<sent type="main" lang="chi" page="48b" n="11">醫</sent>
+<sent type="main" lang="kor" page="48b" n="11">의원</sent>
+
+<sent type="main" lang="chi" page="49a" n="1">丸</sent>
+<sent type="main" lang="kor" page="49a" n="1">환약</sent>
+<sent type="main" lang="chi" page="49a" n="2">膏</sent>
+<sent type="main" lang="kor" page="49a" n="2">고약</sent>
+<sent type="main" lang="chi" page="49a" n="3">藥錄</sent>
+<sent type="main" lang="kor" page="49a" n="3">방문</sent>
+<sent type="main" lang="chi" page="49a" n="4">祝藥</sent>
+<sent type="main" lang="kor" page="49a" n="4">약부치다</sent>
+<sent type="main" lang="chi" page="49a" n="5">搽藥</sent>
+<sent type="main" lang="kor" page="49a" n="5">약르다</sent>
+<sent type="main" lang="chi" page="49a" n="6">剉刀</sent>
+<sent type="main" lang="kor" page="49a" n="6">협도</sent>
+<sent type="main" lang="chi" page="49a" n="7">藥碾</sent>
+<sent type="main" lang="kor" page="49a" n="7">연</sent>
+<sent type="main" lang="chi" page="49a" n="8">擂木追</sent>
+<sent type="main" lang="kor" page="49a" n="8">막</sent>
+<sent type="main" lang="chi" page="49a" n="9">鍉針</sent>
+<sent type="main" lang="kor" page="49a" n="9">동침</sent>
+<sent type="main" lang="chi" page="49a" n="10">鈹針</sent>
+<sent type="main" lang="kor" page="49a" n="10">소</sent>
+<sent type="main" lang="chi" page="49a" n="11">毫針</sent>
+<sent type="main" lang="kor" page="49a" n="11">졍낙</sent>
+<sent type="main" lang="chi" page="49a" n="12">火針</sent>
+<sent type="main" lang="kor" page="49a" n="12">화침</sent>
+
+<sent type="main" lang="chi" page="49b" n="1">艾焙</sent>
+<sent type="main" lang="kor" page="49b" n="1"></sent>
+<sent type="main" lang="chi" page="49b" n="2">虛灸</sent>
+<sent type="main" lang="kor" page="49b" n="2">우각</sent>
+<sent type="main" lang="chi" page="49b" n="3">炷</sent>
+<sent type="main" lang="kor" page="49b" n="3"> 부븬 것</sent>
+<sent type="main" lang="chi" page="49b" n="4">灼拔火罐</sent>
+<sent type="main" lang="kor" page="49b" n="4">단지</sent>
+<sent type="main" lang="chi" page="49b" n="5">立效</sent>
+<sent type="main" lang="kor" page="49b" n="5">즉효</sent>
+<sent type="main" lang="chi" page="49b" n="6">驗</sent>
+<sent type="main" lang="kor" page="49b" n="6">효험</sent>
+<sent type="main" lang="chi" page="49b" n="7">占</sent>
+<sent type="main" lang="kor" page="49b" n="7">졈치다</sent>
+<sent type="main" lang="chi" page="49b" n="8">龜</sent>
+<sent type="main" lang="kor" page="49b" n="8">거복</sent>
+
+<sent type="main" lang="chi" page="50a" n="1">人錢</sent>
+<sent type="main" lang="kor" page="50a" n="1">복</sent>
+
+<sent type="main" lang="chi" page="50b" n="1">針</sent>
+<sent type="main" lang="kor" page="50b" n="1">방아쇠</sent>
+<sent type="main" lang="chi" page="50b" n="2">安銕</sent>
+<sent type="main" lang="kor" page="50b" n="2">쇠놋타</sent>
+<sent type="main" lang="chi" page="50b" n="3">談星的</sent>
+<sent type="main" lang="kor" page="50b" n="3">쥬쟝이</sent>
+<sent type="main" lang="chi" page="50b" n="4">錄命</sent>
+<sent type="main" lang="kor" page="50b" n="4">쥬보다</sent>
+<sent type="main" lang="chi" page="50b" n="5">命金</sent>
+<sent type="main" lang="kor" page="50b" n="5">쥬보 갑</sent>
+<sent type="main" lang="chi" page="50b" n="6">畵師</sent>
+<sent type="main" lang="kor" page="50b" n="6">환쟝이</sent>
+<sent type="main" lang="chi" page="50b" n="7">畵圖</sent>
+<sent type="main" lang="kor" page="50b" n="7">그림</sent>
+<sent type="main" lang="chi" page="50b" n="8">師婆</sent>
+<sent type="main" lang="kor" page="50b" n="8">무당</sent>
+<sent type="main" lang="chi" page="50b" n="9">端公</sent>
+<sent type="main" lang="kor" page="50b" n="9">박슈</sent>
+<sent type="main" lang="chi" page="50b" n="10">君王</sent>
+<sent type="main" lang="kor" page="50b" n="10">군웅</sent>
+<sent type="main" lang="chi" page="50b" n="11">帝釋</sent>
+<sent type="main" lang="kor" page="50b" n="11">졔셕</sent>
+<sent type="main" lang="chi" page="50b" n="12">産神</sent>
+<sent type="main" lang="kor" page="50b" n="12">삼신</sent>
+<sent type="main" lang="chi" page="50b" n="13">末命</sent>
+<sent type="main" lang="kor" page="50b" n="13">말명</sent>
+<sent type="main" lang="chi" page="50b" n="14">忌門</sent>
+<sent type="main" lang="kor" page="50b" n="14">긔우다</sent>
+<sent type="main" lang="chi" page="50b" n="15">跳神</sent>
+<sent type="main" lang="kor" page="50b" n="15">무당의 굿</sent>
+<sent type="main" lang="chi" page="50b" n="16">送崇</sent>
+<sent type="main" lang="kor" page="50b" n="16">푸닥거리</sent>
+<sent type="main" lang="chi" page="50b" n="17">招魂</sent>
+<sent type="main" lang="kor" page="50b" n="17">넉두리</sent>
+<sent type="main" lang="chi" page="50b" n="18">賽男</sent>
+<sent type="main" lang="kor" page="50b-51a" n="18">남 남터</sent>
+
+<sent type="main" lang="chi" page="51a" n="1">嗔言</sent>
+<sent type="main" lang="kor" page="51a" n="1">진언</sent>
+<sent type="main" lang="chi" page="51a" n="2">滅滅</sent>
+<sent type="main" lang="kor" page="51a" n="2"></sent>
+<sent type="main" lang="chi" page="51a" n="3">壓魅</sent>
+<sent type="main" lang="kor" page="51a" n="3">르다</sent>
+<sent type="main" lang="chi" page="51a" n="4">巫蠱</sent>
+<sent type="main" lang="kor" page="51a" n="4">주져</sent>
+<sent type="main" lang="chi" page="51a" n="5">符章</sent>
+<sent type="main" lang="kor" page="51a" n="5">부쟉</sent>
+<sent type="main" lang="chi" page="51a" n="6">叢鈴</sent>
+<sent type="main" lang="kor" page="51a" n="6">방울</sent>
+<sent type="main" lang="chi" page="51a" n="7">太子</sent>
+<sent type="main" lang="kor" page="51a" n="7">슈</sent>
+<sent type="main" lang="chi" page="51a" n="8">幻術</sent>
+<sent type="main" lang="kor" page="51a" n="8">환슐</sent>
+<sent type="main" lang="chi" page="51a" n="9">一</sent>
+<sent type="main" lang="kor" page="51a" n="9">나</sent>
+<sent type="main" lang="chi" page="51a" n="10">二</sent>
+<sent type="main" lang="kor" page="51a" n="10">둘</sent>
+<sent type="main" lang="chi" page="51a" n="11">三</sent>
+<sent type="main" lang="kor" page="51a" n="11">솃</sent>
+<sent type="main" lang="chi" page="51a" n="12">四</sent>
+<sent type="main" lang="kor" page="51a" n="12">넷</sent>
+<sent type="main" lang="chi" page="51a" n="13">五</sent>
+<sent type="main" lang="kor" page="51a" n="13">샷</sent>
+<sent type="main" lang="chi" page="51a" n="14">六</sent>
+<sent type="main" lang="kor" page="51a" n="14">녀샷</sent>
+<sent type="main" lang="chi" page="51a" n="15">七</sent>
+<sent type="main" lang="kor" page="51a" n="15">일곱</sent>
+<sent type="main" lang="chi" page="51a" n="16">八</sent>
+<sent type="main" lang="kor" page="51a" n="16">여</sent>
+<sent type="main" lang="chi" page="51a" n="17">九</sent>
+<sent type="main" lang="kor" page="51a" n="17">아홉</sent>
+<sent type="main" lang="chi" page="51a" n="18">十</sent>
+<sent type="main" lang="kor" page="51a" n="18">열</sent>
+
+<sent type="main" lang="chi" page="51b" n="1">再</sent>
+<sent type="main" lang="kor" page="51b" n="1">두 번</sent>
+<sent type="main" lang="chi" page="51b" n="2">倍</sent>
+<sent type="main" lang="kor" page="51b" n="2">곱졀</sent>
+<sent type="main" lang="chi" page="51b" n="3">多少</sent>
+<sent type="main" lang="kor" page="51b" n="3">얼머나</sent>
+<sent type="main" lang="chi" page="51b" n="4">計</sent>
+<sent type="main" lang="kor" page="51b" n="4">셰음혜다</sent>
+<sent type="main" lang="chi" page="51b" n="5">尺</sent>
+<sent type="main" lang="kor" page="51b" n="5">자</sent>
+
+<sent type="main" lang="chi" page="52a" n="1">一指</sent>
+<sent type="main" lang="kor" page="52a" n="1"> </sent>
+<sent type="main" lang="chi" page="52a" n="2">指量</sent>
+<sent type="main" lang="kor" page="52a" n="2">다</sent>
+<sent type="main" lang="chi" page="52a" n="3">一臂</sent>
+<sent type="main" lang="kor" page="52a" n="3"> 발</sent>
+<sent type="main" lang="chi" page="52a" n="4">臂量</sent>
+<sent type="main" lang="kor" page="52a" n="4">밤다</sent>
+<sent type="main" lang="chi" page="52a" n="5">一摟</sent>
+<sent type="main" lang="kor" page="52a" n="5"> 아름</sent>
+<sent type="main" lang="chi" page="52a" n="6">一握</sent>
+<sent type="main" lang="kor" page="52a" n="6"> 줌</sent>
+<sent type="main" lang="chi" page="52a" n="7">一掬</sent>
+<sent type="main" lang="kor" page="52a" n="7"> 우쿰</sent>
+<sent type="main" lang="chi" page="52a" n="8">量</sent>
+<sent type="main" lang="kor" page="52a" n="8">되다</sent>
+<sent type="main" lang="chi" page="52a" n="9">䢏</sent>
+<sent type="main" lang="kor" page="52a" n="9">마두리</sent>
+<sent type="main" lang="chi" page="52a" n="10">鼓</sent>
+<sent type="main" lang="kor" page="52a" n="10">휘</sent>
+<sent type="main" lang="chi" page="52a" n="11">□</sent>
+<sent type="main" lang="kor" page="52a" n="11">휘긁 고미</sent>
+<sent type="main" lang="chi" page="52a" n="12">槩</sent>
+<sent type="main" lang="kor" page="52a" n="12">휘치 고미</sent>
+<sent type="main" lang="chi" page="52a" n="13">尖量</sent>
+<sent type="main" lang="kor" page="52a" n="13">후이 되다</sent>
+<sent type="main" lang="chi" page="52a" n="14">凹量</sent>
+<sent type="main" lang="kor" page="52a" n="14">골케 되다</sent>
+<sent type="main" lang="chi" page="52a" n="15">平量</sent>
+<sent type="main" lang="kor" page="52a" n="15">셔 되다</sent>
+<sent type="main" lang="chi" page="52a" n="16">蒡+斗</sent><!--艹는 없음.-->
+<sent type="main" lang="kor" page="52a" n="16">마두리</sent>
+
+<sent type="main" lang="chi" page="52b" n="1">秤竿</sent>
+<sent type="main" lang="kor" page="52b" n="1">저울대</sent>
+<sent type="main" lang="chi" page="52b" n="2">星</sent>
+<sent type="main" lang="kor" page="52b" n="2">저울눈</sent>
+<sent type="main" lang="chi" page="52b" n="3">錘</sent>
+<sent type="main" lang="kor" page="52b" n="3">저울츄</sent>
+<sent type="main" lang="chi" page="52b" n="4">對法子杠秤</sent>
+<sent type="main" lang="kor" page="52b" n="4">메고 다 저울</sent>
+<sent type="main" lang="chi" page="52b" n="5">等子</sent>
+<sent type="main" lang="kor" page="52b" n="5">저근 저울</sent>
+<sent type="main" lang="chi" page="52b" n="6">工曹稱</sent>
+<sent type="main" lang="kor" page="52b" n="6">공조저울</sent>
+<sent type="main" lang="chi" page="52b" n="7">倍秤</sent>
+<sent type="main" lang="kor" page="52b" n="7">곱바기</sent>
+<sent type="main" lang="chi" page="52b" n="8">高稱</sent>
+<sent type="main" lang="kor" page="52b" n="8">저울 셰게 달다</sent>
+<sent type="main" lang="chi" page="52b" n="9">拉拉</sent>
+<sent type="main" lang="kor" page="52b" n="9">저울 리게 달다</sent>
+<sent type="main" lang="chi" page="52b" n="10">小小的</sent>
+<sent type="main" lang="kor" page="52b" n="10">저구마치</sent>
+<sent type="main" lang="chi" page="52b" n="11">添上</sent>
+<sent type="main" lang="kor" page="52b" n="11">덜다</sent>
+
+<sent type="title2" lang="chi" page="53a" n="1">文學部</sent>
+<sent type="main" lang="chi" page="53a" n="2">巨擘</sent>
+<sent type="main" lang="kor" page="53a" n="2">거벽</sent>
+
+<sent type="main" lang="chi" page="53b" n="1">文章</sent>
+<sent type="main" lang="kor" page="53b" n="1">문쟝</sent>
+
+<sent type="main" lang="chi" page="54a" n="1">句</sent>
+<sent type="main" lang="kor" page="54a" n="1">구졀</sent>
+<sent type="main" lang="chi" page="54a" n="2">章</sent>
+<sent type="main" lang="kor" page="54a" n="2"> 대문</sent>
+<sent type="main" lang="chi" page="54a" n="3">讀</sent>
+<sent type="main" lang="kor" page="54a" n="3">글 읽다</sent>
+<sent type="main" lang="chi" page="54a" n="4">諷</sent>
+<sent type="main" lang="kor" page="54a" n="4">글 외우다</sent>
+
+<sent type="main" lang="chi" page="54b" n="1">吟</sent>
+<sent type="main" lang="kor" page="54b" n="1">읇다</sent>
+<sent type="main" lang="chi" page="54b" n="2">攃</sent>
+<sent type="main" lang="kor" page="54b" n="2">긁다</sent>
+<sent type="main" lang="chi" page="54b" n="3">壓寫</sent>
+<sent type="main" lang="kor" page="54b" n="3">눌너 다</sent>
+<sent type="main" lang="chi" page="54b" n="4">刮貼</sent>
+<sent type="main" lang="kor" page="54b" n="4">긁고 부치다</sent>
+<sent type="main" lang="chi" page="54b" n="5">平行寫</sent>
+<sent type="main" lang="kor" page="54b" n="5">평항으로 다</sent>
+<sent type="main" lang="chi" page="54b" n="6">擡頭寫</sent>
+<sent type="main" lang="kor" page="54b" n="6">올녀 다</sent>
+<sent type="main" lang="chi" page="54b" n="7">影子</sent>
+<sent type="main" lang="kor" page="54b" n="7">  영</sent>
+<sent type="main" lang="chi" page="54b" n="8">文字</sent>
+<sent type="main" lang="kor" page="54b" n="8">글</sent>
+<sent type="main" lang="chi" page="54b" n="9">書</sent>
+<sent type="main" lang="kor" page="54b" n="9">글시</sent>
+<sent type="main" lang="chi" page="54b" n="10">劃</sent>
+<sent type="main" lang="kor" page="54b" n="10">글시획</sent>
+<sent type="main" lang="chi" page="54b" n="11">點</sent>
+<sent type="main" lang="kor" page="54b" n="11">글시졈</sent>
+<sent type="main" lang="chi" page="54b" n="12">左戾</sent>
+<sent type="main" lang="kor" page="54b" n="12">왼편으로 치다</sent>
+<sent type="main" lang="chi" page="54b" n="13">右戾</sent>
+<sent type="main" lang="kor" page="54b" n="13">올흔편 파임</sent>
+<sent type="main" lang="chi" page="54b" n="14">迻</sent>
+<sent type="main" lang="kor" page="54b" n="14">바침</sent>
+<sent type="main" lang="chi" page="54b" n="15">鉤挑</sent>
+<sent type="main" lang="kor" page="54b" n="15">거 치치다</sent><!--치〃다-->
+
+<sent type="main" lang="chi" page="55a" n="1">篆</sent>
+<sent type="main" lang="kor" page="55a" n="1">젼</sent>
+<sent type="main" lang="chi" page="55a" n="2">八分</sent>
+<sent type="main" lang="kor" page="55a" n="2">팔분</sent>
+<sent type="main" lang="chi" page="55a" n="3">隸書</sent>
+<sent type="main" lang="kor" page="55a" n="3">례셔</sent>
+<sent type="main" lang="chi" page="55a" n="4">楷字</sent>
+<sent type="main" lang="kor" page="55a" n="4"></sent>
+<sent type="main" lang="chi" page="55a" n="5">諺書</sent>
+<sent type="main" lang="kor" page="55a" n="5">언문</sent>
+<sent type="main" lang="chi" page="55a" n="6">臨帖</sent>
+<sent type="main" lang="kor" page="55a" n="6">쳬보아 다</sent>
+<sent type="main" lang="chi" page="55a" n="7">贉</sent>
+<sent type="main" lang="kor" page="55a" n="7">츅 비단 부친 것</sent>
+<sent type="main" lang="chi" page="55a" n="8">引首</sent>
+<sent type="main" lang="kor" page="55a" n="8">츅안 대  것</sent>
+<sent type="main" lang="chi" page="55a-55b" n="9">打擫</sent>
+<sent type="main" lang="kor" page="55a-55b" n="9">츅가의 너흔 나무</sent>
+
+<sent type="main" lang="chi" page="55b" n="1">躞</sent>
+<sent type="main" lang="kor" page="55b" n="1">츅속의 둥근 나무</sent>
+<sent type="main" lang="chi" page="55b" n="2">楔子</sent>
+<sent type="main" lang="kor" page="55b" n="2">뫼기</sent>
+<sent type="main" lang="chi" page="55b" n="3">玉躞</sent>
+<sent type="main" lang="kor" page="55b" n="3">츅감아  뫼기</sent>
+<sent type="main" lang="chi" page="55b" n="4">帙</sent>
+<sent type="main" lang="kor" page="55b" n="4">의</sent>
+<sent type="main" lang="chi" page="55b" n="5">懶架</sent>
+<sent type="main" lang="kor" page="55b" n="5">와간상</sent>
+
+<sent type="main" lang="chi" page="56b" n="1">小說</sent>
+<sent type="main" lang="kor" page="56b" n="1">이아긔</sent>
+<sent type="main" lang="chi" page="56b" n="2">草</sent>
+<sent type="main" lang="kor" page="56b" n="2">글초잡다</sent>
+<sent type="main" lang="chi" page="56b" n="3">書札</sent>
+<sent type="main" lang="kor" page="56b" n="3">편지</sent>
+
+<sent type="main" lang="chi" page="57a" n="1">皮封</sent>
+<sent type="main" lang="kor" page="57a" n="1">것봉</sent>
+<sent type="main" lang="chi" page="57a" n="2">方底</sent>
+<sent type="main" lang="kor" page="57a" n="2">편지 넛 주머니</sent>
+<sent type="main" lang="chi" page="57a" n="3">紙</sent>
+<sent type="main" lang="kor" page="57a" n="3">조희</sent>
+<sent type="main" lang="chi" page="57a" n="4">竹紙</sent>
+<sent type="main" lang="kor" page="57a" n="4">련지</sent>
+<sent type="main" lang="chi" page="57a" n="5">冷金牋紙</sent>
+<sent type="main" lang="kor" page="57a" n="5">금젼지</sent>
+<sent type="main" lang="chi" page="57a" n="6">壯紙</sent>
+<sent type="main" lang="kor" page="57a" n="6">쟝지</sent>
+<sent type="main" lang="chi" page="57a" n="7">白紙</sent>
+<sent type="main" lang="kor" page="57a" n="7">지</sent>
+<sent type="main" lang="chi" page="57a" n="8">一張</sent>
+<sent type="main" lang="kor" page="57a" n="8"> 쟝</sent>
+<sent type="main" lang="chi" page="57a" n="9">合褙</sent>
+<sent type="main" lang="kor" page="57a" n="9">졉</sent>
+<sent type="main" lang="chi" page="57a" n="10">簡紙</sent>
+<sent type="main" lang="kor" page="57a" n="10">간지</sent>
+<sent type="main" lang="chi" page="57a" n="11">周紙</sent>
+<sent type="main" lang="kor" page="57a" n="11">두루마지</sent>
+<sent type="main" lang="chi" page="57a" n="12">粉板</sent>
+<sent type="main" lang="kor" page="57a" n="12">분판</sent>
+<sent type="main" lang="chi" page="57a" n="13">筆</sent>
+<sent type="main" lang="kor" page="57a" n="13">붓</sent>
+
+<sent type="main" lang="chi" page="57b" n="1">墨</sent>
+<sent type="main" lang="kor" page="57b" n="1">먹</sent>
+<sent type="main" lang="chi" page="57b" n="2">硯</sent>
+<sent type="main" lang="kor" page="57b" n="2">벼로</sent>
+<sent type="main" lang="chi" page="57b" n="3">硯池</sent>
+<sent type="main" lang="kor" page="57b" n="3">벼로확</sent>
+<sent type="main" lang="chi" page="57b" n="4">硯滴</sent>
+<sent type="main" lang="kor" page="57b" n="4">연젹</sent>
+<sent type="main" lang="chi" page="57b" n="5">鄕學</sent>
+<sent type="main" lang="kor" page="57b" n="5">향교</sent>
+
+<sent type="main" lang="chi" page="58a" n="1">佛</sent>
+<sent type="main" lang="kor" page="58a" n="1">부쳐</sent>
+<sent type="main" lang="chi" page="58a" n="2">彌勒</sent>
+<sent type="main" lang="kor" page="58a" n="2">미력</sent>
+
+<sent type="main" lang="chi" page="58b" n="1">寺</sent>
+<sent type="main" lang="kor" page="58b" n="1">졀</sent>
+<sent type="main" lang="chi" page="58b" n="2">貧婆法堂</sent>
+<sent type="main" lang="kor" page="58b" n="2">법당</sent>
+<sent type="main" lang="chi" page="58b" n="3">方丈室</sent>
+<sent type="main" lang="kor" page="58b" n="3">판도방</sent>
+<sent type="main" lang="chi" page="58b" n="4">塔</sent>
+<sent type="main" lang="kor" page="58b" n="4">탑</sent>
+<sent type="main" lang="chi" page="58b" n="5">刹竿</sent>
+<sent type="main" lang="kor" page="58b" n="5">짐</sent>
+<sent type="main" lang="chi" page="58b" n="6">風鈴</sent>
+<sent type="main" lang="kor" page="58b" n="6">풍경</sent>
+<sent type="main" lang="chi" page="58b" n="7">願堂</sent>
+<sent type="main" lang="kor" page="58b" n="7">원당</sent>
+<sent type="main" lang="chi" page="58b" n="8">佛供</sent>
+<sent type="main" lang="kor" page="58b" n="8">불공</sent>
+<sent type="main" lang="chi" page="58b" n="9">僧</sent>
+<sent type="main" lang="kor" page="58b" n="9">즁</sent>
+<sent type="main" lang="chi" page="58b" n="10">上佐</sent>
+<sent type="main" lang="kor" page="58b" n="10">샹</sent>
+
+<sent type="main" lang="chi" page="59a" n="1">祝髮</sent>
+<sent type="main" lang="kor" page="59a" n="1">머리다</sent>
+<sent type="main" lang="chi" page="59a" n="2">受戒</sent>
+<sent type="main" lang="kor" page="59a" n="2">불밧다</sent>
+<sent type="main" lang="chi" page="59a" n="3">衲衣</sent>
+<sent type="main" lang="kor" page="59a" n="3">쟝삼</sent>
+<sent type="main" lang="chi" page="59a" n="4">芙蓉帽</sent>
+<sent type="main" lang="kor" page="59a" n="4">관곡갈</sent>
+<sent type="main" lang="chi" page="59a" n="5">頭面</sent>
+<sent type="main" lang="kor" page="59a" n="5">곡갈</sent>
+<sent type="main" lang="chi" page="59a" n="6">松蘿</sent>
+<sent type="main" lang="kor" page="59a" n="6">숑낙</sent>
+<sent type="main" lang="chi" page="59a" n="7">箬笠</sent>
+<sent type="main" lang="kor" page="59a" n="7">굴갓</sent>
+<sent type="main" lang="chi" page="59a" n="8">鉢囊</sent>
+<sent type="main" lang="kor" page="59a" n="8">바랑</sent>
+<sent type="main" lang="chi" page="59a" n="9">應哭</sent>
+<sent type="main" lang="kor" page="59a" n="9">바리</sent>
+<sent type="main" lang="chi" page="59a" n="10">數珠子</sent>
+<sent type="main" lang="kor" page="59a" n="10">념쥬</sent>
+<sent type="main" lang="chi" page="59a" n="11">檀越</sent>
+<sent type="main" lang="kor" page="59a" n="11">시쥬다</sent>
+<sent type="main" lang="chi" page="59a" n="12">優婆塞</sent>
+<sent type="main" lang="kor" page="59a" n="12">거</sent>
+
+<sent type="main" lang="chi" page="59b" n="1">尼</sent>
+<sent type="main" lang="kor" page="59b" n="1">승</sent>
+<sent type="main" lang="chi" page="59b" n="2">優婆夷</sent>
+<sent type="main" lang="kor" page="59b" n="2">당</sent>
+<sent type="main" lang="chi" page="59b" n="3">抄化</sent>
+<sent type="main" lang="kor" page="59b" n="3">즁의 동녕</sent>
+
+</doc>

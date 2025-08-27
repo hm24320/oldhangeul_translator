@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">판소리 사설 춘향가 [동창]</title>
+<title lang="chi">春香哥 [童唱]</title>
+<full_name></full_name>
+<general_name></general_name>
+<another_name></another_name>
+<abbre></abbre>
+<version>가람本</version>
+<author>姜漢永校注</author>
+<date>20C</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<author>姜漢永校注</author>
+<title>申在孝판소리사설集(全)</title>
+<pubPlace>?</pubPlace>
+<publisher>敎文社</publisher>
+<date>1984</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>1994/10/12</date>
+<respStmt>
+<resp>입력자</resp><name>권두환</name>
+</respStmt>
+<item>2~320면</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1994/11/28</date>
+<respStmt>
+<resp>교정자</resp><name>권두환</name>
+</respStmt>
+<item>교정</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1998/10</date>
+<respStmt>
+<resp>프로젝트 책임자</resp><name>김흥규</name>
+<resp>연구원</resp><name>차준경</name>
+<resp>프로그래머</resp><name>이애란</name>
+</respStmt>
+<item>파일 변환, 세종 21 프로젝트 헤더 붙임, 마킹</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/11/15</date>
+<respStmt>
+<resp>입력자</resp><name>박성희</name><!--연구보조원-->
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>교정자 성명</name>
+</respStmt>
+<item></item><!--교정사항 입력-->
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="kor" page="102" n="1">판소리 사설 츈향가 [동챵] (가람本)</sent>
+<sent type="main" lang="kor" page="102" n="2">아동방 예 문물 단군 기쟈 교화로다</sent>
+<sent type="main" lang="kor" page="102" n="3">죠왕 챵업 슈통 한양 도읍신 후의</sent>
+<sent type="main" lang="kor" page="102" n="4">열셩죠의 지인지덕 훈도 함양옵신이</sent>
+<sent type="main" lang="kor" page="102" n="5">일국이 죠란고 삼강이 쇼명야</sent>
+<sent type="main" lang="kor" page="102" n="6">츙 효 열 장 실 샹즁 람덜이 집집이 나구나</sent>
+<sent type="main" lang="kor" page="102" n="7">잇의 삼쳥동 이 진가 츙훈의 후예시요 쳥니 쟈손이라</sent>
+<sent type="main" lang="kor" page="102" n="8">실이 쳥검고 문명이 다</sent><!--뒤에 오는 ‘’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="102" n="9">돈녕 쥬부 츌육여 과쳔현감 임쳔군슈 현치로 유명이</sent>
+<sent type="main" lang="kor" page="102" n="10">죠졍의 별쳔 되여 남원부 엿나</sent>
+<sent type="main" lang="kor" page="102" n="11">도임신 일삭 내의 거리거리 목비로다 골목골목 숑덕이라</sent><!--뒤에 오는 ‘거리’, ‘골목’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="102" n="12"> 자졔 도령님이 년광이 십륙 셴듸</sent>
+<sent type="main" lang="kor" page="102" n="13">얼골은 반악이요 풍 두목지요 이의 문장이요</sent>
+<sent type="main" lang="kor" page="102" n="14">왕우군의 명필이며 외도 알고 숀슈 잇셔 풍류긔남자라</sent>
+<sent type="main" lang="kor" page="102" n="15">마참 츈인듸 방 불너 분부되</sent>
+<sent type="main" lang="kor" page="102" n="16">네 고을 아무 나 놀 만 경쳐 잇나</sent>
+<sent type="main" lang="kor" page="102" n="17">방가 엿오되 공부난 도령임이 경쳐 찻긔 부당오</sent>
+<sent type="main" lang="kor" page="102" n="18">이아야 고금의 문장덜이 승지 루 다 노랏다</sent>
+<sent type="main" lang="kor" page="102" n="19">악양루 오쵸건곤 두쵸당이 노라 잇고</sent>
+<sent type="main" lang="kor" page="102" n="20">등왕각 락고목 왕안이 올나시며</sent>
+<sent type="main" lang="kor" page="102" n="21">봉황 쳔외삼 이젹션의 음영이요</sent>
+<sent type="main" lang="kor" page="102" n="22">황학루 유유운 최호의 탄식이라</sent><!--뒤에 오는 ‘유’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="102" n="23">경쳐 귀경 안이 면 문장될 수 업셔스니 두말 말고 가르쳐라</sent><!--뒤에 오는 ‘말’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="102" n="24">방 엿오되</sent>
+<sent type="main" lang="kor" page="102" n="25">동문 밧 나가오면 장림이 잇사오나 로변이라 분요고</sent>
+<sent type="main" lang="kor" page="102-104" n="26">서문 밧 나가오면 관왕묘 게시오나 소즁신 곳이옵고</sent><!--곳이^옵고-->
+
+<sent type="main" lang="kor" page="104" n="1">북문 밧 나가오면 교룡산셩 잇싸오나 험쥰여 갈 수 업고</sent>
+<sent type="main" lang="kor" page="104" n="2">남문 밧 나가오면 광한루가 잇삽난듸</sent>
+<sent type="main" lang="kor" page="104" n="3">루각의 장려함과 경의 번화긔 삼남 유명옵다</sent>
+<sent type="main" lang="kor" page="104" n="4">그러면 장이 둇타 광한루 귀경 가게 나귀 안장 지여라</sent>
+<sent type="main" lang="kor" page="104" n="5">영리 져 방가 예 고 나가던이</sent>
+<sent type="main" lang="kor" page="104" n="6">나귀 숄질 살살 가진 안장 짓다</sent><!--뒤에 오는 ‘살’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="104" n="7">홍영자공산호편 옥안금쳔황금늑 청홍 고흔 굴네</sent>
+<sent type="main" lang="kor" page="104" n="8">상모 물여 덤벅 박아 압뒤 걸쳐 질 고</sent>
+<sent type="main" lang="kor" page="104" n="9">쳥쳥다 은엽등 호피도둠  잇다</sent><!--뒤에 오는 ‘쳥’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="104" n="10">이라 말 호호 말 령얏소</sent>
+<sent type="main" lang="kor" page="104" n="11">도렴임 거동 보쇼</sent>
+<sent type="main" lang="kor" page="104" n="12">티걸 업 고흔 얼골 분셰슈 정히 고</sent>
+<sent type="main" lang="kor" page="104" n="13">감 갓튼  진 머리 귀를 눌너 늣게 아 갑 당긔 잡아고</sent>
+<sent type="main" lang="kor" page="104" n="14">셩쳔분쥬 잔쥴 누비 샹 통을 갓치 입고</sent>
+<sent type="main" lang="kor" page="104" n="15">유문 항라 허리며 그 시로 두리낭 쥬황 당사 가진 답 시 잇게 여 고</sent>
+<sent type="main" lang="kor" page="104" n="16">고흔 츈포 소창의의 쳥 중츄막 갑를 고 여 엇게 고</sent>
+<sent type="main" lang="kor" page="104" n="17">져 젼 한포 단님 셰목 보션  당혜 션동일시 분명다</sent>
+<sent type="main" lang="kor" page="104" n="18">삼문 밧 거러 나와 나귀 등의 션 올나 씨 잇게 나간다</sent>
+<sent type="main" lang="kor" page="104" n="19">완월문 밧 쎡 나간이 만호슈양 도샹의 도화 졈졈 불근 곳 바람결의  러져</sent><!--뒤에 오는 ‘졈’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="104" n="20">벽옥 갓튼 두 발굽의 거름거름 향 난다</sent><!--뒤에 오는 ‘거름’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="104" n="21">일단션풍도화 위졀도의 젹표들이 에셔 더할숀야</sent>
+<sent type="main" lang="kor" page="104" n="22">광한루 당도야 하마셕의 나귀 려</sent>
+<sent type="main" lang="kor" page="104" n="23">란하의 비겨 안져 좌우을 살펴본이</sent>
+<sent type="main" lang="kor" page="104" n="24">젹셩 아츰날의 느진 안 여 잇고 녹슈 져문 봄의 가난 구름 겨울은다</sent>
+<sent type="main" lang="kor" page="104" n="25">요헌긔구하최외난 임고를 일너 잇고 자단루분죠요난 광한루 경 죠컨이와</sent>
+<sent type="main" lang="kor" page="104" n="26">오작교가 분명니 견우 직녀 업슬숀야</sent>
+<sent type="main" lang="kor" page="104" n="27">견우셩은 련이와 직녀 업셔 이로다</sent>
+<sent type="main" lang="kor" page="104" n="28">오날 이곳 귀경 왓다 삼 인연 만나 볼가</sent>
+<sent type="main" lang="kor" page="104-106" n="29">방야 슐 듸려라</sent><!--방^야-->
+
+<sent type="main" lang="kor" page="106" n="1">오날 갓튼 죠흔 날의 슐이 업셔 쓰것난야</sent>
+<sent type="main" lang="kor" page="106" n="2">관쳥의 급피 가셔 양지 슈육 젼복을  분부로 달나 여</sent>
+<sent type="main" lang="kor" page="106" n="3">가지고 오난 길의 남문 밧 화쵼의 소쥬 만 사 오너라</sent>
+<sent type="main" lang="kor" page="106" n="4">방 분부 듯고 나난 다시 단여와셔 쥬안을 올이거날</sent>
+<sent type="main" lang="kor" page="106" n="5"> 을 가득 부어</sent>
+<sent type="main" lang="kor" page="106" n="6">후 슈 나 만니 져 람 몬져 쥬라</sent>
+<sent type="main" lang="kor" page="106" n="7">황숑여 못 먹것쇼</sent>
+<sent type="main" lang="kor" page="106" n="8">황숑이나 누렁숑이나 파탈고</sent>
+<sent type="main" lang="kor" page="106" n="9">노난 노름 상하동락 관계랴</sent>
+<sent type="main" lang="kor" page="106" n="10">도령임도 죠금 먹고 안셕의 비겨 안져 사면을 바본이</sent>
+<sent type="main" lang="kor" page="106" n="11">쥬난화은 벽공의 다엇난듸</sent>
+<sent type="main" lang="kor" page="106" n="12">수호문창 실 쇼사 압푸로난 영주각 뒤의로난 무능도원</sent>
+<sent type="main" lang="kor" page="106" n="13">힌  자 불글 홍 자 숑이숑이 시 피고</sent><!--뒤에 오는 ‘숑이’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="14">불글 단 푸를 쳥은 고물고물 단쳥이라</sent><!--뒤에 오는 ‘고물’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="15">유막의 우난 황죠 벗 불으난 쇼리 며</sent>
+<sent type="main" lang="kor" page="106" n="16">화방의 나난 졉 향긔  츔을 츈다</sent>
+<sent type="main" lang="kor" page="106" n="17">봉 방쟝 안이 가도 몸이 신션 된듯</sent>
+<sent type="main" lang="kor" page="106" n="18"> 몸읜 션관이요 이곳슨 옥경인이 월궁 항아 어 잇나</sent>
+<sent type="main" lang="kor" page="106" n="19">회고면오란이 홍홍 난만 즁의 엇더 게집아 진 멋지게 논난다</sent><!--뒤에 오는 ‘홍’, ‘’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="20">씨 잇게 긴 아 도 잇게 긴 아</sent>
+<sent type="main" lang="kor" page="106" n="21">귀인 잇게 긴 아 훨신 벗게 긴 아</sent>
+<sent type="main" lang="kor" page="106" n="22">눈물 나게 긴 아 정신 노케 긴 아</sent>
+<sent type="main" lang="kor" page="106" n="23">츄쳔을 랴 할 졔</sent>
+<sent type="main" lang="kor" page="106" n="24">장장승 그느쥴을 휘여진 벽도 가지 휘휘칭칭 감아 고</sent><!--뒤에 오는 ‘장’, ‘휘’, ‘칭’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="25">션듯 올나 발 굴을 졔  번 굴너 압피 놉고</sent>
+<sent type="main" lang="kor" page="106" n="26">두 번 굴러 뒤가 놉파 압뒤 점점 졀노 놉파</sent><!--뒤에 오는 ‘점’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="27">회회약마고수졔 오락가락 노난 거동 람 창 다 녹인다</sent><!--뒤에 오는 ‘회’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="28">진루 농옥 봉을 타고 옥경으로 올의난듯</sent>
+<sent type="main" lang="kor" page="106" n="29">무산신녀 굴음 되여 양상의 리난듯</sent>
+<sent type="main" lang="kor" page="106" n="30">그 얼골 그 태도난 셰상 인물 안이로다</sent>
+<sent type="main" lang="kor" page="106" n="31">도령임  번 보고 정신이 캄캄 가삼이 답답</sent><!--뒤에 오는 ‘캄’, ‘답’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106" n="32">토육의 가 나고 눈의 동 봇짐 싸고</sent>
+<sent type="main" lang="kor" page="106" n="33">코궁기  억로만 헐덕헐덕 야치갓치 음 고 잡바진이</sent><!--뒤에 오는 ‘’, ‘헐덕’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="106-108" n="34">방 졋 셧다 도령임 이게 웬일이요</sent><!--졋^-->
+
+<sent type="main" lang="kor" page="108" n="1">호랑을 보시셧요 일 귀신 보신잇가</sent>
+<sent type="main" lang="kor" page="108" n="2">도령임이 숀 헤치여</sent>
+<sent type="main" lang="kor" page="108" n="3">이 야 큰일 낫다 지침도 크게 말아</sent>
+<sent type="main" lang="kor" page="108" n="4">숀 드러 갈의치며</sent>
+<sent type="main" lang="kor" page="108" n="5">져긔 져것 무엇신야</sent>
+<sent type="main" lang="kor" page="108" n="6">양 니방네 당나귀오</sent>
+<sent type="main" lang="kor" page="108" n="7">그 졋  보아라</sent>
+<sent type="main" lang="kor" page="108" n="8">버드긔요</sent>
+<sent type="main" lang="kor" page="108" n="9">인 여셕 네 엄이 씹이다 우리 압시 죳시요</sent>
+<sent type="main" lang="kor" page="108" n="10">그 죳 갓다  씹으 박아라</sent>
+<sent type="main" lang="kor" page="108" n="11">아슈 말삼 그리 마오</sent>
+<sent type="main" lang="kor" page="108" n="12">우리 오날 난 문 쵸란이 판  되엿쇼</sent>
+<sent type="main" lang="kor" page="108" n="13">양반 광 령낙업고 신쥬 다틈듯 오</sent>
+<sent type="main" lang="kor" page="108" n="14">눈 씻고 잘 보아라</sent>
+<sent type="main" lang="kor" page="108" n="15">져 건네 화림 쇽의 알는알는 보이난 게</sent><!--뒤에 오는 ‘알는’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="108" n="16">션녀가 안이면은 졍녕  귀신이다</sent>
+<sent type="main" lang="kor" page="108" n="17">하인의 도리로셔 오 긔망 미안여 바론 로 엿쥬와</sent>
+<sent type="main" lang="kor" page="108" n="18">본읍 퇴긔 월  츈향이란 긔이요</sent>
+<sent type="main" lang="kor" page="108" n="19">긔이란 말 듯던이 불너 보긔 것다고</sent>
+<sent type="main" lang="kor" page="108" n="20">마음이 장이 죠와 우슘을 권셩로 웃것다</sent>
+<sent type="main" lang="kor" page="108" n="21">허허 장이 죠흔 말이로다 어셔 밧비 불너오라</sent><!--뒤에 오는 ‘장’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="108" n="22">얼골만 좀 보와도  목슘이 살 다</sent>
+<sent type="main" lang="kor" page="108" n="23">방 엿오되</sent>
+<sent type="main" lang="kor" page="108" n="24">쇼인의 기구로난 불너올 슈 업외다</sent>
+<sent type="main" lang="kor" page="108" n="25">엇지야 그러야</sent>
+<sent type="main" lang="kor" page="108" n="26">츈향의 셜부화용 남방의 유명야</sent>
+<sent type="main" lang="kor" page="108" n="27">셜도의 문장이요 탁문군의 음률이며 침션 질 열 졍졀 죠션의 졔일이요</sent>
+<sent type="main" lang="kor" page="108" n="28">당셰의 무이라 나 어린 도령임이 호쳑거 못지요</sent>
+<sent type="main" lang="kor" page="108" n="29">이 야 네 모른다 물각유쥬 것시라</sent>
+<sent type="main" lang="kor" page="108" n="30">쵹나라 탁문군은 사마상여 라가고</sent>
+<sent type="main" lang="kor" page="108" n="31">당 시졀 홍불긔난 이위공을 슨이 잔말 말고 불너오라</sent>
+<sent type="main" lang="kor" page="108" n="32">방 하릴업셔 츈향 부르러 건네간다</sent>
+<sent type="main" lang="kor" page="108" n="33">기름 발나 은 머리 자쥬 당긔 드려시며</sent>
+<sent type="main" lang="kor" page="108" n="34">쳥챵옷 무명 졉것 쵸록 단님 잡아고</sent>
+<sent type="main" lang="kor" page="108" n="35">타리보션 육날신을 굽지비여 들이고</sent>
+<sent type="main" lang="kor" page="108" n="36">장숑 가지 질 거 쥭장 삼아 흣터 집고</sent>
+<sent type="main" lang="kor" page="108" n="37">쳥계변 빅긴 길노 우즁츙 급피 가셔</sent>
+<sent type="main" lang="kor" page="108-110" n="38">츈향 추쳔난 압페 밧작 되게 달여들어</sent><!--밧^작-->
+
+<sent type="main" lang="kor" page="110" n="1">안아 옛다 츈향아</sent>
+<sent type="main" lang="kor" page="110" n="2">불너 논이 츈향이 작 놀</sent>
+<sent type="main" lang="kor" page="110" n="3">밋친 연의 식이다</sent>
+<sent type="main" lang="kor" page="110" n="4">그게 웨인 방졍인야 혼머리가 날 번다</sent>
+<sent type="main" lang="kor" page="110" n="5">담으로  일인야 작난의로  일인야</sent>
+<sent type="main" lang="kor" page="110" n="6">호랑의게 놀 식 졔 어미 불으듯기 부지불각 불너 논이</sent>
+<sent type="main" lang="kor" page="110" n="7">마트면  놀나 그늬 아릐  러져 다리 가  번다</sent>
+<sent type="main" lang="kor" page="110" n="8">방 우셔</sent>
+<sent type="main" lang="kor" page="110" n="9">이야 너난  쇼릐의 리 가 건이와</sent>
+<sent type="main" lang="kor" page="110" n="10"> 양반은 네 얼골의 정신 노코 물 썻다</sent>
+<sent type="main" lang="kor" page="110" n="11">그 쇼 웬 쇼린야</sent>
+<sent type="main" lang="kor" page="110" n="12">네가 아죠 쳐녀 세 규즁의 들어 안져 글공부만 다던이</sent>
+<sent type="main" lang="kor" page="110" n="13">글공부난 웬 글공부 람 호릴 공부</sent>
+<sent type="main" lang="kor" page="110" n="14">로변 록님 쇽의 밉지 안인 게집아</sent>
+<sent type="main" lang="kor" page="110" n="15">머리의 밀기름칠 낫졔난 분 바르고</sent>
+<sent type="main" lang="kor" page="110" n="16">록의홍상 곱게 입고 으셔 겨셔난 먼  람 못 보것다</sent>
+<sent type="main" lang="kor" page="110" n="17">추쳔 쥴으 올나 안져 졔비갓치 몸을 고 나부갓치 날 버려</sent>
+<sent type="main" lang="kor" page="110" n="18">노푸락나지락 왓다갓다 불긋푸릇 득득 여 논이</sent><!--뒤에 오는 ‘득’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="110" n="19">나의 명고 고라도 밋치것다</sent>
+<sent type="main" lang="kor" page="110" n="20"> 졔 도령임이 광한루 와 겨시다</sent>
+<sent type="main" lang="kor" page="110" n="21">네 원광의 정신 노와 불너오라 셧신이 어셔 밧비 건너가</sent>
+<sent type="main" lang="kor" page="110" n="22">도령임이 누구라고 불너오라 시던야</sent>
+<sent type="main" lang="kor" page="110" n="23">월  동긔 츈향 불너오라 시더라</sent>
+<sent type="main" lang="kor" page="110" n="24">츈향이 홰를 여</sent>
+<sent type="main" lang="kor" page="110" n="25">몹실 놈아 흉 놈아 셔울 사난 도령임 나려온 지 오잔코</sent>
+<sent type="main" lang="kor" page="110" n="26">화림 츄쳔난 람 광한루셔 바보고</sent>
+<sent type="main" lang="kor" page="110" n="27">츈향인지 츄향인지 긔인지 교인지 네 어민지 네 할민지</sent>
+<sent type="main" lang="kor" page="110" n="28">엇지 그리 잔쇽 아라</sent>
+<sent type="main" lang="kor" page="110" n="29">방야 동야 불너오라 데려오라 분쥬이 셔두던야</sent>
+<sent type="main" lang="kor" page="110" n="30">남원이라 난 고을 아문 아당 장이라</sent>
+<sent type="main" lang="kor" page="110" n="31">네 몸이 잘 본이 코 밋틔 밧작 셔셔  외야 밧쳐야</sent><!--뒤에 오는 ‘셔’, ‘’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="110" n="32">그 죠 가져시면 강경 급졔 졍녕 졔</sent>
+<sent type="main" lang="kor" page="110" n="33">져 졔 어미 붓틀 놈이 쇽이 모도 심사엿다</sent>
+<sent type="main" lang="kor" page="110" n="34">이아 나 다 만만 놈 살것난야</sent><!--뒤에 오는 ‘만’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="110-112" n="35">나 츄호  말 업시 양반 눈은 더 보더라</sent><!--눈^은-->
+
+<sent type="main" lang="kor" page="112" n="1">발셔 알고 문난 말을 쇼기기로 들엇다가 쥬리의  싸게야</sent><!--뒤에 오는 ‘기’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="112" n="2">그러턴지 져러턴지 네가 셔방 안이 엇고 쳐녀로 늘글텐야</sent>
+<sent type="main" lang="kor" page="112" n="3">만일 셔방 엇 면 도령임 우 참 업지야</sent>
+<sent type="main" lang="kor" page="112" n="4">양반이 삼갑죡 얼골이 남즁일 이윤 여상 갓튼 죠 이 두보 갓튼 문장</sent>
+<sent type="main" lang="kor" page="112" n="5">풍류의 맛시 들고 외도의 슈가 터져</sent>
+<sent type="main" lang="kor" page="112" n="6"> 모로 다 보와도 오복이 가질텐이</sent>
+<sent type="main" lang="kor" page="112" n="7">그뉘 난 네 시로 도령임을 후려쓰면</sent>
+<sent type="main" lang="kor" page="112" n="8">네 호강은 말도 말고 즁장이 이  팔자 쇼년 수노  번 </sent><!--뒤에 오는 ‘이’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="112" n="9">미늑의 살지기난 셕슈의게 이엿다</sent>
+<sent type="main" lang="kor" page="112" n="10">만일 안이 가다가셔 네게 화는 고사고 너의 노모 죄 당면 자식도리 되얏난야</sent>
+<sent type="main" lang="kor" page="112" n="11">츈향이 드러 본이 안이 가소 할 슈 업다</sent>
+<sent type="main" lang="kor" page="112" n="12">츄쳔던 그 복의 방의 뒤를 라</sent>
+<sent type="main" lang="kor" page="112" n="13">월 셔시 토셩의 공부던 거름으로 아장아장 거러간이</sent><!--뒤에 오는 ‘아장’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="112" n="14">방 춍춍 급피 가셔 두 숀 잡고 엿쥽기을</sent><!--뒤에 오는 ‘춍’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="112" n="15">츈향이 불우왓쇼</sent>
+<sent type="main" lang="kor" page="112" n="16">도령임이 방를 불으난 듸 뒤지로 앙앙</sent><!--뒤에 오는 ‘앙’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="112" n="17">예</sent>
+<sent type="main" lang="kor" page="112" n="18">츈향 오르란 말을</sent>
+<sent type="main" lang="kor" page="112" n="19">오오</sent><!--뒤에 오는 ‘오’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="112" n="20">방 허허 웃고</sent><!--뒤에 오는 ‘허’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="112" n="21">츈향아 올나가</sent>
+<sent type="main" lang="kor" page="112" n="22">츈향 올나가셔 리치고 안진 거동 안진방이 쵸롱 졉듯 요만고</sent>
+<sent type="main" lang="kor" page="112" n="23">안져 논이 슈죠분 도령임이 쇽의난 잔득 죠나 북그러워 말 못고 낫빗시 거쿠나</sent>
+<sent type="main" lang="kor" page="112" n="24">방를 도라보며</sent>
+<sent type="main" lang="kor" page="112" n="25">팔시름이나 여 보</sent>
+<sent type="main" lang="kor" page="112" n="26">츈향이고 둑겁이시름이나 시요</sent>
+<sent type="main" lang="kor" page="112" n="27">말도 아직 안 고야</sent>
+<sent type="main" lang="kor" page="112" n="28">어셔 말삼 옵시요</sent>
+<sent type="main" lang="kor" page="112" n="29">졔가 몬져 무르라</sent>
+<sent type="main" lang="kor" page="112" n="30">게집아히 산아 보고 몬져 뭇난 법이 잇쇼</sent>
+<sent type="main" lang="kor" page="112" n="31">나난 참아 북구려워 몬져 말을 못것다</sent>
+<sent type="main" lang="kor" page="112" n="32">게집아희 더 북그려 말할 슈 업슬텐이 도로 건네 보시다</sent>
+<sent type="main" lang="kor" page="112" n="33">보지난 못지야</sent>
+<sent type="main" lang="kor" page="112" n="34">그러면 말시요</sent>
+<sent type="main" lang="kor" page="112" n="35"> 신 너 말라</sent>
+<sent type="main" lang="kor" page="112" n="36">츈향은 북구려워 빗 바들 람갓치 우둑건이 안진 모양 릴업난 부쳬로다</sent>
+<sent type="main" lang="kor" page="112-114" n="37">도령임이 정신 노코 알 바라난 라갓치 물굴음이 보다가셔</sent><!--노^코-->
+
+<sent type="main" lang="kor" page="114" n="1">츈향을 츄난듸 잘된 곡식 츄듯 츔을  키면셔</sent>
+<sent type="main" lang="kor" page="114" n="2">잘되야 먹엇다</sent>
+<sent type="main" lang="kor" page="114" n="3">그로 련에 츄어</sent>
+<sent type="main" lang="kor" page="114" n="4">네 얼골 네 도난 셰상 인물 안이로다</sent>
+<sent type="main" lang="kor" page="114" n="5">져 달이가 오교니 직녀셩이 건네왓나</sent>
+<sent type="main" lang="kor" page="114" n="6">이 집이 광한루니 월궁 항아 나려왓나</sent>
+<sent type="main" lang="kor" page="114" n="7">감 갓튼 머리털의 푸른 구름 문이진듯</sent>
+<sent type="main" lang="kor" page="114" n="8">벽파 갓튼 말근 모 벽별이 도다 온다</sent>
+<sent type="main" lang="kor" page="114" n="9">순약말지 고흔 입은 아침이실 당화가 볼고롬이 버리난듯</sent>
+<sent type="main" lang="kor" page="114" n="10">요여쇽쇼 가난 모양 봄바람 양류 가지 흐늘흐늘 굽이난듯</sent><!--뒤에 오는 ‘흐늘’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="114" n="11">곡 진쥬 안이고야 너를 감이 박구것나</sent>
+<sent type="main" lang="kor" page="114" n="12">육궁 분 보왓스면 무안을 것나</sent>
+<sent type="main" lang="kor" page="114" n="13">졀가인 네 나 풍류남 나 낫구나</sent>
+<sent type="main" lang="kor" page="114" n="14">광한루 노푼 집의 션동 션녀 맛나스니</sent>
+<sent type="main" lang="kor" page="114" n="15">잔 북그렴 훨셕 고 은근 담화여 보</sent>
+<sent type="main" lang="kor" page="114" n="16">몃 살 먹엇는이</sent>
+<sent type="main" lang="kor" page="114" n="17">열엿셧 살이요</sent>
+<sent type="main" lang="kor" page="114" n="18">나난 십육 셰다 일은</sent>
+<sent type="main" lang="kor" page="114" n="19">사월 쵸파일이요</sent>
+<sent type="main" lang="kor" page="114" n="20">나난 관등 날 낫다 너의 부모 구죤야</sent>
+<sent type="main" lang="kor" page="114" n="21">편모 시요</sent>
+<sent type="main" lang="kor" page="114" n="22">오라비 잇난야</sent>
+<sent type="main" lang="kor" page="114" n="23">무남독녀요</sent>
+<sent type="main" lang="kor" page="114" n="24">얼골 보고 수작이 날 각 업건만은</sent>
+<sent type="main" lang="kor" page="114" n="25">엄부형 시기로 오 지쳬 못할런이</sent>
+<sent type="main" lang="kor" page="114" n="26">오날 젼역 저갈게 네의 집을 가르쳐라</sent>
+<sent type="main" lang="kor" page="114" n="27">츈향이 일어셔셔 라상을 부여잡고</sent><!--뒤에 오는 ‘셔’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="114" n="28">옥슈를 놉피 들어 가르치며 난 말이</sent>
+<sent type="main" lang="kor" page="114" n="29">져 건네 쳥계상의 동편의난 숑졍이요 서편은 쥭님이요</sent>
+<sent type="main" lang="kor" page="114" n="30">사시장춘 동나무 병으로 두른 쇽의 슈간 초옥 뵈이난 게 소녀의 집이외다</sent>
+<sent type="main" lang="kor" page="114" n="31">이  네 집 장이 죳타 퇴령 후의 나갈텐이 지 말고 지달여라</sent>
+<sent type="main" lang="kor" page="114" n="32">츈향을 보 후의 실노 도라올 졔</sent>
+<sent type="main" lang="kor" page="114" n="33">마음이 흥글항글 사가 정이 업고 각난이 츈향이라</sent>
+<sent type="main" lang="kor" page="114" n="34">먼 을 바본이 공연이 슘 나고</sent>
+<sent type="main" lang="kor" page="114" n="35">졈슴을 먹 이 침국의 목이 멘다</sent>
+<sent type="main" lang="kor" page="114-116" n="36">도젹다 잡펴난지 가은 우둔우둔</sent><!--도젹^다--><!--뒤에 오는 ‘우둔’은 재점으로 표기되어 있음-->
+
+<sent type="main" lang="kor" page="116" n="1">약쥬 과이 먹엇난지 졍신은 어질어질</sent><!--뒤에 오는 ‘어질’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="116" n="2">두 팔의 이 업고 두 달이 심이 업셔</sent>
+<sent type="main" lang="kor" page="116" n="3">이마으난 식은과 입의로난 션 아히 염것 맛슬 못 보와셔 노점을 잡난구나</sent>
+<sent type="main" lang="kor" page="116" n="4">졍신을 제우 려 방를 불너</sent>
+<sent type="main" lang="kor" page="116" n="5">이아 방야 일어다난 나 쥭것다</sent>
+<sent type="main" lang="kor" page="116" n="6">우흥을 여 보게 셔이나 가져오라</sent>
+<sent type="main" lang="kor" page="116" n="7">방가 예 던이 왼갓 셔 다 듸일 졔</sent>
+<sent type="main" lang="kor" page="116" n="8">중용 학 논어  시젼 셔젼 쥬역 예긔 질질이 듸려 논이</sent><!--뒤에 오는 ‘질’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="116" n="9">례로 일거 갈 졔</sent>
+<sent type="main" lang="kor" page="116" n="10">글으난 졍신 업고 츈향만 각여 노리 글노 여 간다</sent>
+<sent type="main" lang="kor" page="116" n="11">시젼보틈 일거 보자</sent>
+<sent type="main" lang="kor" page="116" n="12">관관저구 하지쥬요 요죠슉녀 군호구 우리 츈향  이졔</sent><!--뒤에 오는 ‘관’, ‘요’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="116" n="13">셔젼을 일거 보</sent>
+<sent type="main" lang="kor" page="116" n="14">왈약계고졔요 우리 츈향 보신잇가</sent>
+<sent type="main" lang="kor" page="116" n="15">쥬역을 일거 보</sent>
+<sent type="main" lang="kor" page="116" n="16">건은 원코 형코 리코 졍코 츈향이 코 두 코을 마죠 이 죳코</sent>
+<sent type="main" lang="kor" page="116" n="17">삼경은 문력 셴이 어려워 못 일다 략이나 일거 보</sent>
+<sent type="main" lang="kor" page="116" n="18">고라 쳔황씨난 이쓕으로 왕야</sent>
+<sent type="main" lang="kor" page="116" n="19">방 허허 웃고</sent><!--뒤에 오는 ‘허’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="116" n="20">셔울 략 시골 략 판 쇽이 달으구려</sent>
+<sent type="main" lang="kor" page="116" n="21">남원 략으난 고 쳔황씨가 목덕으로 왕 난듸 쓕 말이 웬 말이요</sent>
+<sent type="main" lang="kor" page="116" n="22">쳔황씨 만팔쳔 셰 나이 오죡 만신야</sent>
+<sent type="main" lang="kor" page="116" n="23">말년의 낙치셔 목덕은 못 잡슙고 물은 것슬 잡슈노라 쓕만 차쓴이</sent>
+<sent type="main" lang="kor" page="116" n="24">관학의셔 공론 나셔 략 판을 고쳣기로 각 도 각 읍 통문 난다</sent>
+<sent type="main" lang="kor" page="116" n="25">아셔라 쥴글  글로 바로 익</sent>
+<sent type="main" lang="kor" page="116" n="26">날 쳔  지</sent>
+<sent type="main" lang="kor" page="116" n="27">방가  우셔</sent>
+<sent type="main" lang="kor" page="116" n="28">양반임은 치되난듸 도령임은 리되요</sent>
+<sent type="main" lang="kor" page="116" n="29">삼경 익다 략 익다 이번은 쳔 익쇼</sent>
+<sent type="main" lang="kor" page="116" n="30">이 야 네 모른다 쳔라 난 것시 칠셔의 죠상이라</sent>
+<sent type="main" lang="kor" page="116" n="31">별별 맛시 다 잇슨이 나 일글게 들어 보라</sent><!--뒤에 오는 ‘별’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="116" n="32">시의 쳔이 광무변 호호탕 날 쳔</sent><!--뒤에 오는 ‘호’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="116" n="33">츅시의 지이 만물 장  지</sent>
+<sent type="main" lang="kor" page="116-118" n="34">삼월 츈풍 호시졀의 현죠 남남 감물 현</sent><!--츈^풍-->
+
+<sent type="main" lang="kor" page="118" n="1">금목슈화 오 즁의 토지졍 누루 황</sent>
+<sent type="main" lang="kor" page="118" n="2">금풍삽이셕긔이 옥우영 집 우</sent>
+<sent type="main" lang="kor" page="118" n="3">안득광하십만의 살기 죠흔 집 주</sent>
+<sent type="main" lang="kor" page="118" n="4">구년치슈 어이리 하우쳔지 너불 홍</sent>
+<sent type="main" lang="kor" page="118" n="5">셰상 물 밋지 마소 황당다 거칠 황</sent>
+<sent type="main" lang="kor" page="118" n="6">요 부상 삼 쳑의 번듯 도다 날 일</sent>
+<sent type="main" lang="kor" page="118" n="7">일락함지 져문 날의 월샹동곡 달 월</sent><!--‘일’이 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="118" n="8">화당 빈 죠혼 잔치 유쥬영쥰 찰 영</sent>
+<sent type="main" lang="kor" page="118" n="9">부귀영화 랑 마쇼 일즁직측 지을 칙</sent>
+<sent type="main" lang="kor" page="118" n="10">하도낙셔 잠 본이 일월성신 별 진</sent>
+<sent type="main" lang="kor" page="118" n="11">원앙금침 펼쳐 노코 훨훨 볏고 잘 슉</sent><!--뒤에 오는 ‘훨’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="118" n="12">양각 변듯 츄여든이 양 말고 버릴 열</sent>
+<sent type="main" lang="kor" page="118" n="13">등덩 입 마츈이 왼갓 졍담 베풀 장</sent>
+<sent type="main" lang="kor" page="118" n="14">달 가운 잇난 집 남원의 와 닷시 본이 광한루란 찰 </sent>
+<sent type="main" lang="kor" page="118" n="15">츄쳔든 우리 츈향 방 러 올 </sent>
+<sent type="main" lang="kor" page="118" n="16">옥 얼골의 구실읜 좀 쎳나 더울 셔</sent>
+<sent type="main" lang="kor" page="118" n="17">황혼으로 긔약고 츈향 몬져 갈 왕</sent>
+<sent type="main" lang="kor" page="118" n="18">어셔 다시 보고 시퍼 일각츄 가을 츄</sent>
+<sent type="main" lang="kor" page="118" n="19">무엇스로 우흥고 만 권 셔 거들 슈</sent>
+<sent type="main" lang="kor" page="118" n="20">노루 글 로 공부 삼동 죡의 겨으 동</sent>
+<sent type="main" lang="kor" page="118" n="21">문문 다 보아도 모도 츈향 감츌 장</sent><!--뒤에 오는 ‘문’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="118" n="22">오날  그리 진이 윤시든가 불을 윤</sent>
+<sent type="main" lang="kor" page="118" n="23">뭇고 뭇고  무러도 가 그져 나무 려</sent><!--뒤에 오는 ‘뭇고’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="118" n="24">이셩지합 죠흘씨고 츈향 성 이뢸 셩</sent>
+<sent type="main" lang="kor" page="118" n="25">졍 우리 부부 셰 노  셰</sent><!--뒤에 오는 ‘부’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="118" n="26">금술 죵고 질길 젹의 오음 육률 법즁 율</sent>
+<sent type="main" lang="kor" page="118" n="27">츈향 입이  입고 두 입 틔 붓터씨면 법즁 여 이 안이야</sent>
+<sent type="main" lang="kor" page="118" n="28">고함을 질너 논이</sent>
+<sent type="main" lang="kor" page="118" n="29">잇 임이 쳥의셔 거리시다 엇덕케 놀신지 뒷군뒤 셧구나</sent>
+<sent type="main" lang="kor" page="118" n="30">이로너라 통인덜아</sent>
+<sent type="main" lang="kor" page="118" n="31">예</sent>
+<sent type="main" lang="kor" page="118" n="32">여바라 방의셔 엇 게집연이 산을 치난야</sent>
+<sent type="main" lang="kor" page="118" n="33">어 미친 놈이 슐쥬졍을 다난야</sent>
+<sent type="main" lang="kor" page="118" n="34">어 그 쇼리가 웬 쇼린지 밧비 아라 오라</sent>
+<sent type="main" lang="kor" page="118" n="35">통인이 예 고 방으로 급피 가셔</sent>
+<sent type="main" lang="kor" page="118" n="36">도령임은 엇지여 큰소를 지르신지 가 놀시고 알아 오라 옵씨요</sent>
+
+<sent type="main" lang="kor" page="120" n="1">도령임이 작 놀나</sent>
+<sent type="main" lang="kor" page="120" n="2">이아야 일 낫나 급 판을 당면은 거짓말이 당인라</sent>
+<sent type="main" lang="kor" page="120" n="3">네 거진말  거진말 두 거진말 틔 셔 고지 듯게 엿쥬아라</sent>
+<sent type="main" lang="kor" page="120" n="4">방의 가 아라 본직 도령임이 혼자 안져 론어을 일거 가다</sent>
+<sent type="main" lang="kor" page="120" n="5">욕호기 풍호무우 영이귀 그 문의 흥치가 왈칵 나셔</sent>
+<sent type="main" lang="kor" page="120" n="6">부지불각 지른 쇼 노팟다 더라고 가긔그방 엿쥬어라</sent>
+<sent type="main" lang="kor" page="120" n="7">통인이 올나와셔 그로 엿온이  듯고 죠와셔</sent>
+<sent type="main" lang="kor" page="120" n="8">허허 이 식이 어늬 의 이 쇽 들어</sent><!--뒤에 오는 ‘허’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="120" n="9">방의 박 원 엿쥬와라</sent>
+<sent type="main" lang="kor" page="120" n="10">이 양반이 션으로 회계 겸 와 잇난듸</sent>
+<sent type="main" lang="kor" page="120" n="11">모양이 고박여 셩와 갓것다</sent>
+<sent type="main" lang="kor" page="120" n="12">두 눈의 인 눈 목화씨 이 나고</sent>
+<sent type="main" lang="kor" page="120" n="13">왼 낫시 푸른 심쥴 박 넌츌 더난듯</sent>
+<sent type="main" lang="kor" page="120" n="14">코군역의 진 터럭이 암 셔 나오듯시 웃입슈알 건짐 덥고</sent>
+<sent type="main" lang="kor" page="120" n="15">숑곳 모 들 너룬 갓 근 낫을 무름씨고</sent>
+<sent type="main" lang="kor" page="120" n="16">그즁의 죠 노라 갓은 턱 풀어셔 두 숀의 갈나 잡고</sent>
+<sent type="main" lang="kor" page="120" n="17">먹젹골 흑다리목 노 원임 거름으로 올라오던이</sent>
+<sent type="main" lang="kor" page="120" n="18"> 코 닷치게 압페 밧작 안져셔</sent>
+<sent type="main" lang="kor" page="120" n="19"> 우스시며</sent>
+<sent type="main" lang="kor" page="120" n="20">악가 방으셔 큰쇼가 들이긔에 통인 식켜 알아본직</sent>
+<sent type="main" lang="kor" page="120" n="21">우리 아히 논어 익다 여여 이</sent><!--뒤에 오는 ‘여’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="120" n="22">그 시 젹지 안여 록록쟝부 안 되것졔</sent><!--뒤에 오는 ‘록’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="120" n="23">아질 단이난이 참 안 고 할 슈 잇나</sent>
+<sent type="main" lang="kor" page="120" n="24"> 비위 맛츄와셔 입가의 츔 흘이며 한업시 츄어</sent>
+<sent type="main" lang="kor" page="120" n="25">두 말슴 시것쇼 그 아희 가진 죠 그만 안이지요</sent>
+<sent type="main" lang="kor" page="120" n="26">필법을 보거드면 왕우군 안진경의 양두을 안 할 터요</sent>
+<sent type="main" lang="kor" page="120" n="27">풍류의 쇽 알기을 쥬공근 샤안셕의 젹슈가 될 터이요</sent>
+<sent type="main" lang="kor" page="120" n="28">쇠락 그 긔상은 광풍졔월 갓고</sent>
+<sent type="main" lang="kor" page="120" n="29">활달한 그 흉금은 북 남명 켜슨이</sent>
+<sent type="main" lang="kor" page="120" n="30">죠년의 등과여 모년지 향낙기 승상 곽분양의 죠곰도 지잔치요</sent>
+<sent type="main" lang="kor" page="120" n="31">두리 셔로 츄어  졔</sent>
+
+<sent type="main" lang="kor" page="122" n="1">잇의 도령임은 츈향 각 간졀여 밋치게 되엿구나</sent>
+<sent type="main" lang="kor" page="122" n="2">예바라 방야  쇽 네가 알것난야 마음 밥바 살 슈 업다</sent>
+<sent type="main" lang="kor" page="122" n="3">츈향을 각 정신이 혼미여</sent>
+<sent type="main" lang="kor" page="122" n="4">눈을 감고 안져시면 츄쳔던 그 씨가 알는알는 보이난듯</sent><!--뒤에 오는 ‘알는’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="122" n="5">광한루셔 든 말이 가만가만 들이다</sent><!--뒤에 오는 ‘가만’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="122" n="6">눈을 번쩍 고 보면 츈향이가 간 곳 업셔</sent>
+<sent type="main" lang="kor" page="122" n="7">가삼은 벌벌 정신은 어질어질 나 어듸 살것난야</sent><!--뒤에 오는 ‘벌’, ‘어질’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="122" n="8">가 엇지 되엿난야</sent>
+<sent type="main" lang="kor" page="122" n="9"> 아직 멀어쇼</sent>
+<sent type="main" lang="kor" page="122" n="10">고 이  날 쥭인다 질 급피  달나고 희화으게 부탁할가</sent>
+<sent type="main" lang="kor" page="122" n="11">해 엇지 되얏난야</sent>
+<sent type="main" lang="kor" page="122" n="12"> 아직 멀엇쇼</sent>
+<sent type="main" lang="kor" page="122" n="13">애고 이  날 쥭인다 활노 쏘아 달나 고 유궁후 예 져갈가</sent>
+<sent type="main" lang="kor" page="122" n="14">도령임 쇼견의도  말을 장 뭇기가 당신도 염치 업셔</sent>
+<sent type="main" lang="kor" page="122" n="15"> 말은 쇽의 두고 밥 쵹듯 여</sent>
+<sent type="main" lang="kor" page="122" n="16">엇지 되엿난야</sent>
+<sent type="main" lang="kor" page="122" n="17">아직 멀엇쇼</sent>
+<sent type="main" lang="kor" page="122" n="18">엇지 되엿난야</sent>
+<sent type="main" lang="kor" page="122" n="19">아직 멀엇쇼</sent>
+<sent type="main" lang="kor" page="122" n="20">허허 흉 일이로다</sent><!--뒤에 오는 ‘허’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="122" n="21">글억게 더듸 가면 과부난 고고 안진방이도 라가것다</sent>
+<sent type="main" lang="kor" page="122" n="22">그렁져렁 황혼 되여 동헌의 불 물이고 육방이 고요커날</sent>
+<sent type="main" lang="kor" page="122" n="23">도령임 죠와라고 통인 방 압셰우고 츈향 집을 져갈 졔</sent>
+<sent type="main" lang="kor" page="122" n="24">섬노지 가는 거름 운월 희농다</sent>
+<sent type="main" lang="kor" page="122" n="25">양유교의 우난 말은 야입쳥루 쇼년이요</sent>
+<sent type="main" lang="kor" page="122" n="26">이화쵼의 짓난 난 소입쥬사 이라</sent>
+<sent type="main" lang="kor" page="122" n="27">방국 죠 물 장안셩 지잔쿠나</sent>
+<sent type="main" lang="kor" page="122" n="28">이리져리 흣터 거러 츈향의 집 다다른이</sent><!--뒤에 오는 ‘다’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="122" n="29">쳥계수 변 판비라 문 압픠 버들 셔고</sent>
+<sent type="main" lang="kor" page="122" n="30">벽도화 든 가지 담 박기 더퍼난듸</sent>
+<sent type="main" lang="kor" page="122" n="31">좌편의 벽오동은 말근 이실  러져 학의 을 놀 고</sent>
+<sent type="main" lang="kor" page="122" n="32">우편의 셧난 반숑 쳥풍이 근듯 불면 노룡이 굽이난듯</sent>
+<sent type="main" lang="kor" page="122" n="33">챵젼의 심은 파초 일난초챵봉미장 쇽입이 여나고</sent>
+<sent type="main" lang="kor" page="122" n="34">루 부용당은 벽슈가 담담듸</sent><!--뒤에 오는 ‘담’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="122" n="35">하엽이 출슈소여젼 졉 갓튼 금부어난 물결 라</sent>
+<sent type="main" lang="kor" page="122-124" n="36">굼실굼실 병 밋틔 잠든 두름 람 보고</sent><!--굼^실--><!--뒤에 오는 ‘굼실’은 재점으로 표기되어 있음-->
+
+<sent type="main" lang="kor" page="124" n="1"> 놀  날을 츄여 들고 룩길룩 쇼고</sent>
+<sent type="main" lang="kor" page="124" n="2">오 단쳥 고흔 장의 수지오지 비들기난</sent>
+<sent type="main" lang="kor" page="124" n="3">암놈 슈놈 셜를 물고 우룽궁 쇼리고</sent>
+<sent type="main" lang="kor" page="124" n="4">황구 구 네 눈이가 퀑퀑 짓고 닷는다</sent><!--뒤에 오는 ‘퀑’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="124" n="5">도령임이  놀</sent>
+<sent type="main" lang="kor" page="124" n="6">방야 통긔라</sent>
+<sent type="main" lang="kor" page="124" n="7">방 츙츙 드러가며</sent><!--뒤에 오는 ‘츙’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="124" n="8">츈향이 난야</sent>
+<sent type="main" lang="kor" page="124" n="9">츈향이  놀 함양이 머잔키로 영남 방언으로 물어</sent>
+<sent type="main" lang="kor" page="124" n="10">게 뉜고</sent>
+<sent type="main" lang="kor" page="124" n="11">방다</sent>
+<sent type="main" lang="kor" page="124" n="12">이 밤의 엇지 왓노</sent>
+<sent type="main" lang="kor" page="124" n="13">도령임 와 겨시다</sent>
+<sent type="main" lang="kor" page="124" n="14">츈향이 경희 상단을 급피 불너</sent>
+<sent type="main" lang="kor" page="124" n="15">불 켜고 방 쓸러라</sent>
+<sent type="main" lang="kor" page="124" n="16">죠의든 그 시로 고이 거러 나오던이</sent>
+<sent type="main" lang="kor" page="124" n="17">북구려움 못 이긔여 공순이 엿오되</sent>
+<sent type="main" lang="kor" page="124" n="18">오시마 시기에 긔농으로 알어던이 누지 욕임셔슨이 도로여 황숑오</sent>
+<sent type="main" lang="kor" page="124" n="19">글헐 이가 잇건난야</sent>
+<sent type="main" lang="kor" page="124" n="20">남녀의 신 업시면 사람 갑시 갈 슈 잇나</sent>
+<sent type="main" lang="kor" page="124" n="21">퇴령이 더듸 나셔 지쳬가 도엿쓴이 그 의 기달엿졔</sent>
+<sent type="main" lang="kor" page="124" n="22">강 인 연후의 방의로 드러갈 졔</sent>
+<sent type="main" lang="kor" page="124" n="23">셔로 전후 양여</sent>
+<sent type="main" lang="kor" page="124" n="24">숀임 몬져 드롭쇼셔</sent>
+<sent type="main" lang="kor" page="124" n="25">쥬인 몬져 드러가졔</sent>
+<sent type="main" lang="kor" page="124" n="26">숀임 몬져 오르시요</sent>
+<sent type="main" lang="kor" page="124" n="27">왕심이 메나리 먼졍이로 나라도 숀슈 업셔 못 쓰난이</sent>
+<sent type="main" lang="kor" page="124" n="28">쥬인 몬져 올나가졔</sent>
+<sent type="main" lang="kor" page="124" n="29">사는 간쥬인 쥬인 말을 치시요</sent><!--뒤에 오는 ‘쥬인’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="124" n="30">사는 간쥬인 쥬인 몬져 올나가졔</sent><!--뒤에 오는 ‘쥬인’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="124" n="31">다토다 할 슈 업셔 두리 숀질 셔로 잡고 방으로 드러간이</sent>
+<sent type="main" lang="kor" page="124" n="32">벽의 부친 거시 모도 다 기림이라</sent>
+<sent type="main" lang="kor" page="124" n="33">부츈산 엄능이 간의부 마다고</sent>
+<sent type="main" lang="kor" page="124" n="34">동강 칠리탄의 고기 낙난 거동이며</sent>
+<sent type="main" lang="kor" page="124" n="35">진 쳐사 도연명이 팽령 바리고 쥬뇨뇨이경양야 심양으로 가난 거동</sent><!--뒤에 오는 ‘뇨’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="124" n="36">셕강 이이 포도쥬 케 먹고</sent>
+<sent type="main" lang="kor" page="124" n="37">물 밋 달을 잡을라다 고 등의 올라 안져 쳔상으로 가난 모양</sent>
+<sent type="main" lang="kor" page="124" n="38">고의 네 늘근이 바돌판을 압페 노코</sent>
+<sent type="main" lang="kor" page="124" n="39"> 노인은 긔 들고 요만고 안 잇고</sent>
+<sent type="main" lang="kor" page="124-126" n="40"> 노인은 흑긔 들고 요만고 안져난듸</sent><!--요^만고-->
+
+<sent type="main" lang="kor" page="126" n="1">그 엽폐 엇던 노인 쳥여쟝 집고 셔셔 요만고 훈슈고</sent><!--뒤에 오는 ‘셔’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="126" n="2">칭암 숑졍하 엇더 노인  분 쳔일쥬 케 먹고</sent>
+<sent type="main" lang="kor" page="126" n="3">우션 낫슬 덥고 요만고 누엇슨이</sent>
+<sent type="main" lang="kor" page="126" n="4">쌍산토 등거리 죠고만 션동 나</sent>
+<sent type="main" lang="kor" page="126" n="5">풍로의 관 연고 불 부치난 그 거동을 역역키 그려스며</sent><!--뒤에 오는 ‘역’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="126" n="6">방 안의 노인 기물 화류문갑 모상 당화연 당쥬지며</sent>
+<sent type="main" lang="kor" page="126" n="7">칠월 편 열녀젼이 그 우의 노여나</sent>
+<sent type="main" lang="kor" page="126" n="8">졀가인 풍류남 두리 마죠 안져슨이</sent>
+<sent type="main" lang="kor" page="126" n="9">쇽맛 담복 들엇스나 북그려워 말 못고 쇽의로만 알타가셔</sent>
+<sent type="main" lang="kor" page="126" n="10">이아 츈향아 유졍무어무졍이 날노 두고  말이다</sent>
+<sent type="main" lang="kor" page="126" n="11">날과 사라 엇야</sent>
+<sent type="main" lang="kor" page="126" n="12">츈향이 북그려워 고를 슈긔고셔 죵용이 엿오되</sent>
+<sent type="main" lang="kor" page="126" n="13">쇼즁신 도령임이 잠시의 풍졍으로 작난을 셧가</sent>
+<sent type="main" lang="kor" page="126" n="14">장부호신이심 그만 여 바리시면 그 안이 원통오</sent>
+<sent type="main" lang="kor" page="126" n="15">네  말을 드러보라</sent>
+<sent type="main" lang="kor" page="126" n="16">게집 사람 쇽이 엿터 각금각금 변엿졔</sent><!--뒤에 오는 ‘각금’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="126" n="17">장부의 사로셔 변할 이가 잇것난야</sent>
+<sent type="main" lang="kor" page="126" n="18">별후양류가두슈 파란츈풍지욕비 한문공의 탄식이라</sent>
+<sent type="main" lang="kor" page="126" n="19">네 마음만 구더시면  염녀난 부듸 마라</sent>
+<sent type="main" lang="kor" page="126" n="20">너난 쳐녀 나난 춍각 결발부부 될 터인이</sent>
+<sent type="main" lang="kor" page="126" n="21">오날 젼녁 연분  년노여 보</sent>
+<sent type="main" lang="kor" page="126" n="22">셰류요 잔득 안고 도화 셔로 고</sent>
+<sent type="main" lang="kor" page="126" n="23">창 장난노란이 발가리 방망이군</sent>
+<sent type="main" lang="kor" page="126" n="24">박긔 나셔난듸 이난 뉜고 이 츈향의 노모엿다</sent>
+<sent type="main" lang="kor" page="126" n="25">졀머셔난 밉지 안아 남원의 월 월 일음 잇게 지던이</sent><!--뒤에 오는 ‘월’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="126" n="26">늘거 가며 변형야 동거지 볼작씨면  푼 돈이 안 싸구나</sent>
+<sent type="main" lang="kor" page="126" n="27">쥴음 잡핀 낫 가쥭은 식은 쥭이 엉긔인듯</sent>
+<sent type="main" lang="kor" page="126" n="28">턱 진 눈어덕의 눈곱이 작작</sent><!--뒤에 오는 ‘작’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="126" n="29">덜넝 놉푼 코잔등이 말근 코 홀홀</sent><!--뒤에 오는 ‘홀’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="126" n="30">셴 머리의 밀기름칠 낭를 그져 고</sent>
+<sent type="main" lang="kor" page="126" n="31">쵸록 호장 져구리난  입던 퇴물이라</sent>
+<sent type="main" lang="kor" page="126" n="32">품 죱고 작 잘나셔 밧싹 마른 가심을 허물 업시 여 노코</sent>
+<sent type="main" lang="kor" page="126-128" n="33">발막  운혜 을 두 발의 갈나 고  가운 단이면셔</sent><!--갈나 ^ 고-->
+
+<sent type="main" lang="kor" page="128" n="1">달도 박 달도 박 야쇽키 달도 박</sent><!--뒤에 오는 ‘달도 박’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="128" n="2">나 졀문 과슈 덜 문고리 벽겨 노코</sent>
+<sent type="main" lang="kor" page="128" n="3">과혼 쳐녀덜은 일 업시 마을 돈다</sent>
+<sent type="main" lang="kor" page="128" n="4">젼 일 각면 직금 것들 우습더구</sent>
+<sent type="main" lang="kor" page="128" n="5">우리 쳐녀 시졀의난 이십 먹은 게집아도 셔방 각 안 허던이</sent>
+<sent type="main" lang="kor" page="128" n="6">요 연들 우습더구 열다셧 안팟 되면 졋통이가 도롬 장기 궁 되여 가고</sent>
+<sent type="main" lang="kor" page="128" n="7">궁둥이가 너부데데 쇽쿠리 업퍼 논듯</sent><!--뒤에 오는 ‘데’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="128" n="8">복슈화  버러지면 머리 글고  홰 고</sent>
+<sent type="main" lang="kor" page="128" n="9">잔도약이 쇽입 나면 먼 산 보고 션피염</sent>
+<sent type="main" lang="kor" page="128" n="10">동네 고삿  지시면 울 궁긔로 다보고</sent>
+<sent type="main" lang="kor" page="128" n="11">뒤동 두견 울면 슘 지고 잠 안 긔</sent>
+<sent type="main" lang="kor" page="128" n="12">우리 집  아기도 요 암 암 졔</sent>
+<sent type="main" lang="kor" page="128" n="13">그늬 난 핑게고 밧갓 츌입 팔닥팔닥</sent><!--뒤에 오는 ‘팔닥’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="128" n="14">못 듯는 람 쇼리 방 안의셔 쇼근쇼근</sent><!--뒤에 오는 ‘쇼근’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="128" n="15">졍녕 무슨 탈이 낫졔</sent>
+<sent type="main" lang="kor" page="128" n="16">방 쎡 셔며</sent>
+<sent type="main" lang="kor" page="128" n="17"></sent>
+<sent type="main" lang="kor" page="128" n="18">아겨 이 놈 웬 놈인야 살얌을 보왓난아</sent>
+<sent type="main" lang="kor" page="128" n="19">란 말이 웬 말인야</sent>
+<sent type="main" lang="kor" page="128" n="20">여보시요 이 마노 도령임 나오셧소</sent>
+<sent type="main" lang="kor" page="128" n="21">나 늘근 긔이라 치가 업것난야</sent>
+<sent type="main" lang="kor" page="128" n="22">방보틈 달여</sent>
+<sent type="main" lang="kor" page="128" n="23">이겨  아들놈 그의 죰 컨난야</sent>
+<sent type="main" lang="kor" page="128" n="24">머리을 쓰다듬아</sent>
+<sent type="main" lang="kor" page="128" n="25">아죠 말쓱여나</sent><!--‘아’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="128" n="26">우리  어엽 쥴 도령임이 엇지 알고 밤의 져와 겨신야</sent>
+<sent type="main" lang="kor" page="128" n="27"> 버러진 그 쇼문을 뉘가 안이 드럿것쇼</sent>
+<sent type="main" lang="kor" page="128" n="28">도 반가오니 드러가 보 고</sent>
+<sent type="main" lang="kor" page="128" n="29">방문 열고 드러오며</sent>
+<sent type="main" lang="kor" page="128" n="30">이러케 귀 숀임  집의 와 겨신듸</sent>
+<sent type="main" lang="kor" page="128" n="31">늘근 거시 눈치 업셔 오신 쥴을 몰나슨이 망치 마르시요</sent>
+<sent type="main" lang="kor" page="128" n="32">도령임 우스며</sent>
+<sent type="main" lang="kor" page="128" n="33">글할 이가 잇건난가</sent>
+<sent type="main" lang="kor" page="128" n="34">오날 가 심심여 광한루의 왓이</sent><!--뒤에 오는 ‘심’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="128" n="35">츄쳔난  이  원광이 엡긔예</sent>
+<sent type="main" lang="kor" page="128" n="36">광한루로 다려다가가 강 수작 연후의</sent>
+<sent type="main" lang="kor" page="128" n="37">집으로 져와셔 년가약  되</sent>
+<sent type="main" lang="kor" page="128" n="38">쎡 허약을 안이 이  마음 엇더가</sent>
+<sent type="main" lang="kor" page="128" n="39">츈향 어모 이 말 듯고 한슘 지여 난 말이</sent>
+<sent type="main" lang="kor" page="128-130" n="40">도령임 난 말삼 반갑고 셜소이다</sent><!--말^삼-->
+
+<sent type="main" lang="kor" page="130" n="1">무독녀 져 식을 아비 업시 지르난듸</sent>
+<sent type="main" lang="kor" page="130" n="2">어려셔 웬 잔병은 그닥지 만쌉던지</sent>
+<sent type="main" lang="kor" page="130" n="3">의원과 단골 무당  집의셔 살여지요</sent>
+<sent type="main" lang="kor" page="130" n="4">칠 세가 넘삽기의 입학을 식켜던이</sent>
+<sent type="main" lang="kor" page="130" n="5">이거시 쳔죠  번 듯고  번 보면 모를 거시 업지요</sent><!--‘이’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="130" n="6">녀공의 침션이며 심지의 풍류 속의 모를 거시 바이 업셔</sent>
+<sent type="main" lang="kor" page="130" n="7">동거지 언어 범졀 이 셰상은 고고 옛사람 지잔치요</sent>
+<sent type="main" lang="kor" page="130" n="8">십 세가 너머 가 압페다 안쳐 노코 양 탄옵긔를</sent>
+<sent type="main" lang="kor" page="130" n="9">악갑다   츈향 얼골은 쳔상 션녀 실른 부 녀</sent>
+<sent type="main" lang="kor" page="130" n="10">젼의 무삼 로 창의 외 겨난야</sent>
+<sent type="main" lang="kor" page="130" n="11">셔울이면 상 과 시골이면 아젼의 집 네가 만일 겨면</sent>
+<sent type="main" lang="kor" page="130" n="12">지덕졔 갓든 가문 문장 풍 가진 신낭</sent>
+<sent type="main" lang="kor" page="130" n="13">쳥츈의 셩혼식켜 슈 노게 할 듸</sent>
+<sent type="main" lang="kor" page="130" n="14">빈쳔 남원 긔 월 이 되여쓴이</sent>
+<sent type="main" lang="kor" page="130" n="15">돌 쇽의 잇난 옥을 아라보 리 뉘 잇시며</sent>
+<sent type="main" lang="kor" page="130" n="16">모의 셕긴 금을 이러  리 뉘 잇스리</sent>
+<sent type="main" lang="kor" page="130" n="17">근이 탄식즉 우리  난 말이</sent>
+<sent type="main" lang="kor" page="130" n="18">어먼이 그 말 마쇼</sent>
+<sent type="main" lang="kor" page="130" n="19">람이 셰상 날 졔 부귀가만 원을 면</sent>
+<sent type="main" lang="kor" page="130" n="20">빈쳔 람덜은 식을 볼 슈 잇나</sent>
+<sent type="main" lang="kor" page="130" n="21"> 신셰 각이 챵가의 긴 것이 도로여 다</sent>
+<sent type="main" lang="kor" page="130" n="22">규즁쳐녀 되여면 혼 간셥할 슈 잇나</sent>
+<sent type="main" lang="kor" page="130" n="23">어먼이가 션을 보와 사쥬밧고 을 면</sent>
+<sent type="main" lang="kor" page="130" n="24">셔방 될 그 람을 얼골이 엇더지 문필이 엇더지 아물언 쥴 모르고셔</sent>
+<sent type="main" lang="kor" page="130" n="25">일야 동포 라갓다 평 신셰 그릇치면 오죡 원통건난가</sent>
+<sent type="main" lang="kor" page="130" n="26">챵가의 겨나셔 외를 안이 이</sent>
+<sent type="main" lang="kor" page="130" n="27"> 눈의 드난 대로 가 보와 가릴 젹의</sent>
+<sent type="main" lang="kor" page="130" n="28">상람의 안 노릇 암만도 기 스러 부 의 쳡이 되되</sent><!--뒤에 오는 ‘되’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="130" n="29">반악의 얼골이며 량 평의 지략이요</sent>
+<sent type="main" lang="kor" page="130" n="30">가셰난 규장각의 문필른 졔학 조년의 급졔여</sent>
+<sent type="main" lang="kor" page="130" n="31">셩쳔부 의주부윤 도 류수 팔도 감</sent>
+<sent type="main" lang="kor" page="130" n="32">육판셔 삼졍승을 오십 젼의 다 지고</sent>
+<sent type="main" lang="kor" page="130-132" n="33">증공의 녹야향낙 곽분양의 도를 마음대로 할 양을 기여이 가릴텐이</sent><!--할 ^ 양을-->
+
+<sent type="main" lang="kor" page="132" n="1">어먼이난 걱졍 마쇼</sent>
+<sent type="main" lang="kor" page="132" n="2">나 어린 식이나 마리  긔의키에</sent>
+<sent type="main" lang="kor" page="132" n="3">숀을 잡고 셔를 차며  너를 낫건만은</sent>
+<sent type="main" lang="kor" page="132" n="4">난 그 말 할 슈 잇나</sent>
+<sent type="main" lang="kor" page="132" n="5">녜 쇼견이 그러이 네 아라 네 여라</sent>
+<sent type="main" lang="kor" page="132" n="6">식 필 졍키 졔게 허약엿슨이</sent>
+<sent type="main" lang="kor" page="132" n="7">져다려 무러보졔 게난 게관업쇼</sent>
+<sent type="main" lang="kor" page="132" n="8">도령임 허허 웃고</sent><!--뒤에 오는 ‘허’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="132" n="9">그 람 필 노릇 죰람 할 슈 잇나</sent>
+<sent type="main" lang="kor" page="132" n="10">츈향 어모 상단 불너</sent>
+<sent type="main" lang="kor" page="132" n="11">귀 숀임 오셔슨이 잡슈실 상 리 오라</sent>
+<sent type="main" lang="kor" page="132" n="12">상단이 나가던이 담갓치 찰인단 말 이면이 당찻컷다</sent>
+<sent type="main" lang="kor" page="132" n="13">금 노은 왜칠반의 갈분의의  죵며</sent><!--뒤에 오는 ‘의’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="132" n="14">쳥 졉시 다문 슈란 초쟝 죵 겻틔 놋코</sent>
+<sent type="main" lang="kor" page="132" n="15">어란 젼복 약포 각  졉시의 것듸리고</sent>
+<sent type="main" lang="kor" page="132" n="16">율 참 임실 쥰시 쳥 졉시 틔 담고</sent>
+<sent type="main" lang="kor" page="132" n="17">맛 죠흔 나박침 화보의 담아 놋코</sent>
+<sent type="main" lang="kor" page="132" n="18">숑슌쥬 무와 은수져 씨셔 노와 슐상을 듸려 노코</sent>
+<sent type="main" lang="kor" page="132" n="19"> 잔 몬져 가득 부어 도령임게 올이온이</sent>
+<sent type="main" lang="kor" page="132" n="20">도령임 잔 바다셔 반을 잡슈신 후</sent>
+<sent type="main" lang="kor" page="132" n="21">이거시 합환쥬니 츈향고 분</sent>
+<sent type="main" lang="kor" page="132" n="22">츈향이 먹은 후의  잔을 다시 부어</sent>
+<sent type="main" lang="kor" page="132" n="23">츈향 어모 멕이고셔 나문 상 물여 내여</sent>
+<sent type="main" lang="kor" page="132" n="24">통인 방 다 먹은 후</sent>
+<sent type="main" lang="kor" page="132" n="25">쇼인 등 물너가오</sent>
+<sent type="main" lang="kor" page="132" n="26">도령임이 부여</sent>
+<sent type="main" lang="kor" page="132" n="27">쵸란이 쥴목 보듯 안목을 잘 살펴라</sent>
+<sent type="main" lang="kor" page="132" n="28">답고 가난구나</sent>
+<sent type="main" lang="kor" page="132" n="29">츈향 어모 눈치 업시 밤 깁도록 안 나간니</sent>
+<sent type="main" lang="kor" page="132" n="30">도령임  아라  이면 낫것단직</sent>
+<sent type="main" lang="kor" page="132" n="31">츈향 어모  노코    단 말이</sent>
+<sent type="main" lang="kor" page="132" n="32">아모리 농담이나 망리라 할 슈 잇나</sent>
+<sent type="main" lang="kor" page="132" n="33">일어셔며 난 말이</sent>
+<sent type="main" lang="kor" page="132" n="34">우리 회 오날 젼역 나 잘 지고</sent>
+<sent type="main" lang="kor" page="132" n="35">일 아츰 장모의게 일즉 와셔 졀렷다</sent>
+<sent type="main" lang="kor" page="132" n="36">문 닷고 나가거날</sent>
+<sent type="main" lang="kor" page="132" n="37">도령임 좃와라고 츈향을 바달여 허리를 안으면셔</sent>
+<sent type="main" lang="kor" page="132" n="38">우리  번 벗고 노</sent>
+
+<sent type="main" lang="kor" page="134" n="1">만쳡즁 늘근 범이 살진 를 물어다 놋코 흐르릉 흐르릉 얼우난듯</sent><!--뒤에 오는 ‘흐르릉’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="134" n="2">오 장의 슛비들기 암놈의 셔를 물고 우룩 우룩 놀이난듯</sent><!--뒤에 오는 ‘우룩’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="134" n="3">원앙이 상친상진 녹슈의셔 놀이난듯</sent>
+<sent type="main" lang="kor" page="134" n="4">봉황이 웅창화 산의셔 희농 듯</sent>
+<sent type="main" lang="kor" page="134" n="5">쵹불을 켠  두고 신부를 벡기랸이 잘 들을 이가 잇나</sent>
+<sent type="main" lang="kor" page="134" n="6">아모리 긔이나 열녀되는 아히로서</sent>
+<sent type="main" lang="kor" page="134" n="7">쳣날 젼역 졔 벗고 외옹외옹 말농질과 랑랑 어붐질은</sent><!--뒤에 오는 ‘외옹’, ‘랑’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="134" n="8">광의 셜이 참아 엇지 건난가</sent>
+<sent type="main" lang="kor" page="134" n="9">도령임은 나히라 왼갓 작난 다 여도</sent>
+<sent type="main" lang="kor" page="134" n="10">츈향은 북그려워 입의로 말 안 고 쇽 맛스로 지것다</sent>
+<sent type="main" lang="kor" page="134" n="11">긔력 죠흔 도령임이 두 다리로  안고</sent>
+<sent type="main" lang="kor" page="134" n="12">고롬을 얼는 너 져고리 웃치마난 간신이 볙곗스나</sent>
+<sent type="main" lang="kor" page="134" n="13">바지 쇽것 할 슈 잇나</sent>
+<sent type="main" lang="kor" page="134" n="14">두 숀으로 붓들고셔  자락 안 노은이</sent>
+<sent type="main" lang="kor" page="134" n="15">도령임이 연에 비러</sent>
+<sent type="main" lang="kor" page="134" n="16">이아 이것 웬일이냐</sent>
+<sent type="main" lang="kor" page="134" n="17">규즁으 쳐녀덜도 셩혼난 쳔날밤의</sent>
+<sent type="main" lang="kor" page="134" n="18">평 못 본 남 숀의 옷들을 벽겨난듸</sent>
+<sent type="main" lang="kor" page="134" n="19">허물며 우리 두리 광한루셔 주작고</sent>
+<sent type="main" lang="kor" page="134" n="20">너의 집 와 분고 왼갓 졍  쓴이</sent>
+<sent type="main" lang="kor" page="134" n="21">무엇이 북그려워 이 짓시 웬 짓신야</sent>
+<sent type="main" lang="kor" page="134" n="22">맛 모로난 슛것덜이 쳣날 젼역 불을 고</sent>
+<sent type="main" lang="kor" page="134" n="23">요난 무비일 그 노릇만 얏것졔</sent>
+<sent type="main" lang="kor" page="134" n="24">미인을 보난 법이 달 아 쵹불 아 이가 졔일 죳타</sent>
+<sent type="main" lang="kor" page="134" n="25"> 갓튼 져 얼골과 눈 갓튼 져 살거리</sent>
+<sent type="main" lang="kor" page="134" n="26">츄파 갓튼 눈시로 흥 못 익여 보난 양</sent>
+<sent type="main" lang="kor" page="134" n="27">도 갓튼 입슈알노 랑 게워 웃난 것을 나도 못 보고셔</sent>
+<sent type="main" lang="kor" page="134" n="28">귀 먹은 즁 마 득기</sent>
+<sent type="main" lang="kor" page="134" n="29">쇼경의  듯 기만 여 면 무슨 재미잇건난야</sent>
+<sent type="main" lang="kor" page="134" n="30">셩가시다 쎡 버셔라</sent>
+<sent type="main" lang="kor" page="134" n="31">츈향은 한 말식만 여</sent>
+<sent type="main" lang="kor" page="134" n="32">오날 젼역이관듸</sent>
+<sent type="main" lang="kor" page="134" n="33">어허 이아 구나 영민 아히로셔 마리 그리 미련야</sent>
+<sent type="main" lang="kor" page="134" n="34">년노할 기약이 오날이 쳣 마슈라</sent>
+<sent type="main" lang="kor" page="134-136" n="35">쳣 마슈를 잘 부쳐야 망 잇게 지지야</sent><!--마슈를 ^ 잘-->
+
+<sent type="main" lang="kor" page="136" n="1">달여셔 안 드르면 억로 할 터이다</sent>
+<sent type="main" lang="kor" page="136" n="2">암만도 안 될 슬</sent>
+<sent type="main" lang="kor" page="136" n="3">도령임 이러셔셔 당신 입은 샹 의복 훨훨 버셔 리고</sent><!--뒤에 오는 ‘셔’, ‘훨’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="4">산이 모양으로 젹신으로 달여드러</sent>
+<sent type="main" lang="kor" page="136" n="5">츈향의 두 숀목을  숀으로  고셔</sent>
+<sent type="main" lang="kor" page="136" n="6">바지 쇽것 벽긴 후의 랑가로 안고논다</sent>
+<sent type="main" lang="kor" page="136" n="7">랑 랑 랑이야</sent><!--뒤에 오는 ‘랑’, ‘랑’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="8">만고 졀 길 젹의 강산 졍긔 타셔 난다</sent>
+<sent type="main" lang="kor" page="136" n="9">군학부형문의 왕쇼군이 장고</sent>
+<sent type="main" lang="kor" page="136" n="10">금강활이미슈의 셜도 문군 환츌니</sent>
+<sent type="main" lang="kor" page="136" n="11">랑 랑 랑이야</sent><!--뒤에 오는 ‘랑’, ‘랑’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="12">지이 노푼 봉과 요쳔슈 말근 물이</sent>
+<sent type="main" lang="kor" page="136" n="13">수 졍신 틔 모와 우리 츈향 겨나</sent>
+<sent type="main" lang="kor" page="136" n="14">랑 랑 랑이야</sent><!--뒤에 오는 ‘랑’, ‘랑’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="15">보고 보고  보와도 만고의 졀이라</sent><!--뒤에 오는 ‘보고’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="16">봄바람 당화가 슐 여 죠우난듯</sent>
+<sent type="main" lang="kor" page="136" n="17">아참 이실 모란화가 사람 보고 말을 할</sent>
+<sent type="main" lang="kor" page="136" n="18">랑 랑 랑이야</sent><!--뒤에 오는 ‘랑’, ‘랑’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="19">쳔 번 만 번 각도 셰상 람 안이로다</sent>
+<sent type="main" lang="kor" page="136" n="20">옥루 노든 션녀 벗 나를 이러나</sent>
+<sent type="main" lang="kor" page="136" n="21">황금옥의 안쳐스면 너와 쌍이 업시리라</sent>
+<sent type="main" lang="kor" page="136" n="22">랑 랑 랑이야</sent><!--뒤에 오는 ‘랑’, ‘랑’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="23">져런 일 실 젹의 졍 임 업건난가</sent>
+<sent type="main" lang="kor" page="136" n="24">이의 쳔금쥰 박구와 갈 슈 업고</sent>
+<sent type="main" lang="kor" page="136" n="25">셕계륜의 곡진쥬  가랸들 할 슈 잇나</sent>
+<sent type="main" lang="kor" page="136" n="26">랑 랑 랑이야</sent><!--뒤에 오는 ‘랑’, ‘랑’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="27">젼의 연분으로 이 의 만나슨이</sent>
+<sent type="main" lang="kor" page="136" n="28">츄쳔던  쥴이 월노의 홍승인가</sent>
+<sent type="main" lang="kor" page="136" n="29">귀경든 광한루가 쵸왕의 양로</sent>
+<sent type="main" lang="kor" page="136" n="30">랑 랑 랑이야</sent><!--뒤에 오는 ‘랑’, ‘랑’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="31">다졍 쵸면 인 셩명 년셰 무러본이</sent>
+<sent type="main" lang="kor" page="136" n="32">동년 동월 동일이 엇지 그리 신통고</sent>
+<sent type="main" lang="kor" page="136" n="33">의빈 의소 의실가가 더욱이 알음답다</sent>
+<sent type="main" lang="kor" page="136" n="34">랑 랑 랑이야</sent><!--뒤에 오는 ‘랑’, ‘랑’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="35">랑 모와 뫼이 되면 깁고 깁고 다시 깁퍼 쳔쳑담이 되것구나</sent><!--뒤에 오는 ‘깁고’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="36">랑 랑 랑이야</sent><!--뒤에 오는 ‘랑’, ‘랑’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="136" n="37">양반의 랑가라 사셜이 유식여 우슘집이 젹다 고</sent>
+<sent type="main" lang="kor" page="136-138" n="38">진 멋진 도령임이 육담 작난으로 널음  가면서 판귐을 는듸</sent><!--작난으^로-->
+
+<sent type="main" lang="kor" page="138" n="1">이런 야단이 업셔 옥 갓튼 져 미인을 벌게벽겨 안고 안져</sent>
+<sent type="main" lang="kor" page="138" n="2">  사랑 질질  랑</sent><!--뒤에 오는 ‘’, ‘질’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="3">입으로  맛츄면셔 겨   항아리</sent><!--뒤에 오는 ‘’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="4">하문을 득득 아겨  반찬 찬합 무슨 약염 그리여 왼갓 마시 다 들엇노</sent><!--뒤에 오는 ‘득’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="5">랑의 못 견듸여 아기갓치 어루것다</sent>
+<sent type="main" lang="kor" page="138" n="6">역리  너셔 득고 도라보면 게나</sent>
+<sent type="main" lang="kor" page="138" n="7">살을  집어 더 야 고 쇼리면 게 누긔랄게</sent>
+<sent type="main" lang="kor" page="138" n="8">허허 웃고 달여드러</sent><!--뒤에 오는 ‘허’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="9">두 낫 틔  가 드듯  안고 왼 몸 쎨쎨 흔드다가</sent><!--뒤에 오는 ‘쎨’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="10">암  슈갓치 잘근잘근 물어 보고</sent><!--뒤에 오는 ‘잘근’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="11">흘네난 암말갓치 살착살착 도 봄</sent><!--뒤에 오는 ‘살착’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="12">밥 쥬난 왈갓치 멀직이 물너 안져 굿쥬굿쥬 불너 보고</sent>
+<sent type="main" lang="kor" page="138" n="13">말 모난 구죵갓치 엽페셔 잡아 달여 이라이라 모라 보고</sent><!--뒤에 오는 ‘이라’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="138" n="14">참을 농창이다 울울 달여들며</sent><!--뒤에 오는 ‘울’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="15">고슈간이 옛 판으로 랑가  마듸을 쎡 집어 어</sent>
+<sent type="main" lang="kor" page="138" n="16">업 업  등의 업</sent><!--뒤에 오는 ‘업’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="17">베라 베라  팔을 베라</sent><!--뒤에 오는 ‘베라’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="18">츈광이 부도옥문관 네 옥문을 열어 볼가</sent>
+<sent type="main" lang="kor" page="138" n="19">언거슈싱거 네  타고 노라 볼가</sent>
+<sent type="main" lang="kor" page="138" n="20">쳔필 우리 연분 밥 먹어도 두리 먹고</sent>
+<sent type="main" lang="kor" page="138" n="21">잠을 자도 두리 고 오죰도 두리 누고 이라도 두리 누고</sent>
+<sent type="main" lang="kor" page="138" n="22">우둑컨이 마죠 안져 물구룸이 셔로 보다</sent>
+<sent type="main" lang="kor" page="138" n="23">가 만일 도라지면 네가 홰를  터이요</sent>
+<sent type="main" lang="kor" page="138" n="24">네가 만일  듸 보면 가 살판  터인이</sent>
+<sent type="main" lang="kor" page="138" n="25"> 갓트면 비익죠요 나무 즁의 연리지라</sent>
+<sent type="main" lang="kor" page="138" n="26">잠시도 빈틈 업시 두리 합긔 살아 보</sent>
+<sent type="main" lang="kor" page="138" n="27">무슈이 농창치되</sent>
+<sent type="main" lang="kor" page="138" n="28">열녀될 람이라 아무 답 안이 고 북그려워 못 견듼다</sent>
+<sent type="main" lang="kor" page="138" n="29">졍 동포 연후의  달 두 달 지간이 졍이 점점 집퍼 간다</sent><!--뒤에 오는 ‘점’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="138" n="30">신졍이 미흡여 도령임이 밤낫스로 틈을 타셔</sent>
+<sent type="main" lang="kor" page="138" n="31">츈향 집을 단이실 졔</sent>
+
+<sent type="main" lang="kor" page="140" n="1">남원부 션치 당상승소 긔별 려왓다</sent>
+<sent type="main" lang="kor" page="140" n="2">도령임을 불너 셰고  분부시기를</sent>
+<sent type="main" lang="kor" page="140" n="3">쳔은이 감츅 당상승소섯쓴이</sent>
+<sent type="main" lang="kor" page="140" n="4">나난 즁기 닥근 후의 곳 나갈 터인이</sent>
+<sent type="main" lang="kor" page="140" n="5">너난  후여 일 몬져 올나가라</sent>
+<sent type="main" lang="kor" page="140" n="6">도령임 부지불각이 분부를 드러논이</sent>
+<sent type="main" lang="kor" page="140" n="7">흉당이 멍멍 졍신이 캄캄</sent><!--뒤에 오는 ‘멍’, ‘캄’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="140" n="8">아물헐 쥴 모르고셔 졍을 여 볼가</sent>
+<sent type="main" lang="kor" page="140" n="9">잔지침 벗쎡 고 말 시작여 보와</sent>
+<sent type="main" lang="kor" page="140" n="10">  쇼의   민망 사졍</sent><!--뒤에 오는 ‘’, ‘’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="140" n="11">  엿울   말삼   잇쇼</sent><!--뒤에 오는 ‘’, ‘’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="140" n="12">지난 막여부라  발셔 알으시고 호령이 난다</sent>
+<sent type="main" lang="kor" page="140" n="13">양반의 식으로 비 고을 라와셔 글 공부나 할 시졔</sent>
+<sent type="main" lang="kor" page="140" n="14">밤낫스로 못쓸 작난</sent>
+<sent type="main" lang="kor" page="140" n="15">이 쇼문이 셔울 가면  우셰난 고고 네 젼정이 엇지 되리</sent>
+<sent type="main" lang="kor" page="140" n="16">가라 면 갈 시졔 엿쥴 말은 무신 말 에라 이것 보기 실타</sent>
+<sent type="main" lang="kor" page="140" n="17">도령임 할 슈 업셔 방으로 나려와셔</sent>
+<sent type="main" lang="kor" page="140" n="18">암만 안져 각도 아모 죠 업셔나</sent>
+<sent type="main" lang="kor" page="140" n="19">일어다난 못할 텐이 츈향을 져가셔 직이나 난 슈다</sent>
+<sent type="main" lang="kor" page="140" n="20">츈향 집을 나갈 젹의 마음이  셜워셔 눈물이 곳 나온이</sent>
+<sent type="main" lang="kor" page="140" n="21">남 보긔에 열업셔셔 우룸을 참노라고</sent><!--뒤에 오는 ‘셔’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="140" n="22">두 눈을 동트드시 이  가지고</sent>
+<sent type="main" lang="kor" page="140" n="23">춘향 문젼 당두여 우룸인지 말 쇼지</sent>
+<sent type="main" lang="kor" page="140" n="24">츈향아 게우  번 불우던이 우름보가 탁 터져셔  </sent><!--뒤에 오는 ‘’, ‘’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="140" n="25">츈향이  놀 보션발노 급피 나와 도령임을 붓들고셔</sent>
+<sent type="main" lang="kor" page="140" n="26">이것시 웬일이요</sent>
+<sent type="main" lang="kor" page="140" n="27"> 집의 단이난 쥴 가 알으시고</sent>
+<sent type="main" lang="kor" page="140" n="28">즁을 들으셧쇼 죵아리를 마지셧쇼</sent>
+<sent type="main" lang="kor" page="140" n="29">그런 일 갓거드면 네 집의 와 울것난야 </sent><!--뒤에 오는 ‘’, ‘’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="140" n="30">가졋  를 방의게 엿쇼</sent>
+<sent type="main" lang="kor" page="140" n="31">의셔  치다가 통인의게 욕 먹엇쇼</sent>
+<sent type="main" lang="kor" page="140" n="32">털도든 구역 험셔 그 작난것난야 </sent><!--뒤에 오는 ‘’, ‘’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="140-142" n="33">그 쇽이 드러시면 쳘 모로난 아히갓치 울긔난 웬일이요</sent><!--울기난 ^ 웬일이요-->
+
+<sent type="main" lang="kor" page="142" n="1">우난 쇽이 잇다만은 참아 말을 못것다 </sent><!--뒤에 오는 ‘’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="142" n="2">날다려 못할 말을  집의난 웨 와 우요</sent>
+<sent type="main" lang="kor" page="142" n="3">네가 이 말 드러셔난 날보단 더 울것다 </sent><!--뒤에 오는 ‘’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="142" n="4">그 말이 웬 말이요 울라도 듯십시다</sent>
+<sent type="main" lang="kor" page="142" n="5">도령임 눈물 씻고 흘젹이며 난 말이</sent>
+<sent type="main" lang="kor" page="142" n="6">임이 당샹셔 가 일 올나간다</sent>
+<sent type="main" lang="kor" page="142" n="7">그리면 죰 죳컷쇼 부인임 쌍교 타고 나난 가매 타고 도령임은 나귀 타고</sent>
+<sent type="main" lang="kor" page="142" n="8">가진 비 권마셩의 호긔 잇게 갈 터인듸 울긔난 웬일이요</sent>
+<sent type="main" lang="kor" page="142" n="9">임이 금실  너와 함 가것난야</sent>
+<sent type="main" lang="kor" page="142" n="10">사셰가 그러면 죠흔 슈가  잇지요</sent>
+<sent type="main" lang="kor" page="142" n="11"> 몬져 가옵시고  환죠신 후의 한 달 죰 지거든</sent>
+<sent type="main" lang="kor" page="142" n="12"> 가산 방여 치장여 가지고셔</sent>
+<sent type="main" lang="kor" page="142" n="13">노모와 상단 함 셔울노 올나가셔</sent>
+<sent type="main" lang="kor" page="142" n="14">남문 밧 종용쳐의 주인을 졍 후의 도령임게 통기할게</sent>
+<sent type="main" lang="kor" page="142" n="15">가만이 왕셔 슈간 쵸옥  가지고</sent>
+<sent type="main" lang="kor" page="142" n="16">상단은 슐을 팔고 나난 침품을 파라 계를 옵다가</sent>
+<sent type="main" lang="kor" page="142" n="17">도령임 급졔셔 외방을 시거든</sent>
+<sent type="main" lang="kor" page="142" n="18">안씨로 라가면 시부모임 뵈올 터요</sent>
+<sent type="main" lang="kor" page="142" n="19">도라오면 큰 집 셔 호기 잇계 라 보</sent>
+<sent type="main" lang="kor" page="142" n="20">도령임이 우러</sent>
+<sent type="main" lang="kor" page="142" n="21">그러면 죰 죠컨야</sent>
+<sent type="main" lang="kor" page="142" n="22">올나왓 말이 연 젼파될 슨이 부모 맛난 난 오혀려 이로다</sent>
+<sent type="main" lang="kor" page="142" n="23">죠정의 시비 나셔 급졔난 말도 말고 장를 못 갈텐이</sent>
+<sent type="main" lang="kor" page="142" n="24">죠금도 의심 말고 슈졀고 여긔 잇셔 질 날을 지다려라</sent>
+<sent type="main" lang="kor" page="142" n="25">츈향이 이 말 듯  들안지며</sent><!--뒤에 오는 ‘이’, ‘’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="142" n="26">질 날이 언졔라고 이 일의시졔</sent><!--뒤에 오는 ‘’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="142" n="27">빗 가풀 놈 졍한할 졔 잘 살거든 갑푸마듯</sent>
+<sent type="main" lang="kor" page="142" n="28">질 날이 잇다 이 어느 날 지시랴우</sent>
+<sent type="main" lang="kor" page="142" n="29">모년 모월 모일이다 셰이 일으시요</sent>
+<sent type="main" lang="kor" page="142" n="30">장들고 급졔여 부귀 후 시 보</sent>
+<sent type="main" lang="kor" page="142" n="31">츈향의 거동 보쇼</sent>
+<sent type="main" lang="kor" page="142" n="32">눈시욱이 씰녹씰녹 코궁기 벌늠벌늠</sent><!--뒤에 오는 ‘씰녹’, ‘벌늠’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="142-144" n="33"> 랴난 져루갓치 고기 엿난 갓치 톡 쇽구와 이러셔며</sent><!--고기 ^ 엿난-->
+
+<sent type="main" lang="kor" page="144" n="1">별각간죽 은연통 가운 질 고</sent>
+<sent type="main" lang="kor" page="144" n="2">경 우의 노인 쳬경 방바닥의 탁 부듯고</sent>
+<sent type="main" lang="kor" page="144" n="3">허허 이 말 드름직 그러 말 위를 멧 가지나 진이셧쇼</sent><!--뒤에 오는 ‘허’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="144" n="4">쳘 모르난 게집안이 쇽여 보랴 못할 말이 업쇼그려</sent>
+<sent type="main" lang="kor" page="144" n="5">부귀가 졍한 잇셔 임의대로 못난이</sent>
+<sent type="main" lang="kor" page="144" n="6">여상 갓튼 경륜으로 팔십의야 부귀고</sent>
+<sent type="main" lang="kor" page="144" n="7">양안 갓튼 지식으로 평을 곤궁이</sent>
+<sent type="main" lang="kor" page="144" n="8">도령임 부귀기 날 졍고 할 터이요</sent>
+<sent type="main" lang="kor" page="144" n="9">쳥운은 난력치 급졔을 쎡 못면</sent>
+<sent type="main" lang="kor" page="144" n="10">홍안이 다박명  신셰 엇컷쇼</sent>
+<sent type="main" lang="kor" page="144" n="11">쳥츈 공방 상사병의 무쥬고혼 되라시요</sent>
+<sent type="main" lang="kor" page="144" n="12">도령임이 안져 본이 광경이 위름커든 우름이 간듸업고</sent>
+<sent type="main" lang="kor" page="144" n="13">죠흔 말노 유여</sent>
+<sent type="main" lang="kor" page="144" n="14">쳘 모로난 네 쇼견의 급졔를 더듸 할가 염려를 다만은</sent>
+<sent type="main" lang="kor" page="144" n="15">토봉의마  죠로 급졔  장 어더 기 푸쇼낫 쥿듯 할 거신이</sent>
+<sent type="main" lang="kor" page="144" n="16">멀리 을 졍 도 삼 년을 다 가것나</sent>
+<sent type="main" lang="kor" page="144" n="17">잠시 이별 을 말고 지다리고 죠 잇스라</sent>
+<sent type="main" lang="kor" page="144" n="18">츈향이 노긔 풀고 원셩 진양죠로 도령임을 잡난듸</sent>
+<sent type="main" lang="kor" page="144" n="19">굿 보난 람더리 귀의셔도 눈물 난다</sent>
+<sent type="main" lang="kor" page="144" n="20">도령임 드르시요 악가 말은 분담인이 실치 마르시요</sent>
+<sent type="main" lang="kor" page="144" n="21"> 즁의 봉황이며 김 즁의 긔린이난</sent>
+<sent type="main" lang="kor" page="144" n="22">우부우부 눈으라도 샹셔될 쥴 다 아난이</sent>
+<sent type="main" lang="kor" page="144" n="23">져 풍 그 문필의 소년 공명실 츌른 가 몬져 짐작니</sent>
+<sent type="main" lang="kor" page="144" n="24">반졈 의심 업슬 터요</sent>
+<sent type="main" lang="kor" page="144" n="25">부모 시 미혼 젼의 쳡 못 려가실 쥴은 가 엇지 모로것쇼</sent>
+<sent type="main" lang="kor" page="144" n="26">신졍이 미흡여 이별을 쵹니</sent>
+<sent type="main" lang="kor" page="144" n="27">아모리 셥셥나 엇지할 슈 업싸온이</sent><!--뒤에 오는 ‘셥’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="144" n="28">평안이 올나가셔 셩혼고 급졔셔 부귀낙실 젹의</sent>
+<sent type="main" lang="kor" page="144" n="29">날 각리란 말 암만도 안이 난이 이를 엇지난가</sent>
+<sent type="main" lang="kor" page="144" n="30">쳥춘 셕 져 긔샹의 금마옥당 단이실 졔</sent>
+<sent type="main" lang="kor" page="144" n="31">듯난 거시 풍류 쇼 린 거시 미이라</sent>
+<sent type="main" lang="kor" page="144" n="32">잔록심홍 고흔 의복 아황분 엡 시</sent>
+<sent type="main" lang="kor" page="144-146" n="33">련보 츔을 츄면 향진의  업고</sent><!--향^진의-->
+
+<sent type="main" lang="kor" page="146" n="1">낙쥬셩 노면 구름이 머무른다</sent>
+<sent type="main" lang="kor" page="146" n="2">츈흥을 아여 츄파로 숑졍할 졔</sent>
+<sent type="main" lang="kor" page="146" n="3">경셩경국 미인 죠 왼갓 를 다 부리면</sent>
+<sent type="main" lang="kor" page="146" n="4">비셕비쳘 장부 마음 안이 반할 슈가 잇나</sent>
+<sent type="main" lang="kor" page="146" n="5">츈종츈유야전야 미혼진의 홈박 져</sent>
+<sent type="main" lang="kor" page="146" n="6">쳔금 쥬옥 귀 박긔요 팔진미수 맛 업슬 졔</sent>
+<sent type="main" lang="kor" page="146" n="7">쳔 리 남원 쳔쳡 츈향 요만큼이나 객할가</sent>
+<sent type="main" lang="kor" page="146" n="8">가련 이  신셰 유졍 낭군 보 후의</sent>
+<sent type="main" lang="kor" page="146" n="9">젹젹 중문 구지 닷고 막막 공방 혼 안져</sent><!--뒤에 오는 ‘젹’, ‘막’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="146" n="10">의복단쟝 젼폐고 담 셔 쇼일할 졔</sent>
+<sent type="main" lang="kor" page="146" n="11">날과 함긔 벗 될 거션 나지면 그림요 밤이면 등잔이라</sent>
+<sent type="main" lang="kor" page="146" n="12">만산명월동풍야 두견이 우난 쇼</sent>
+<sent type="main" lang="kor" page="146" n="13">젼젼반칙 잠 못 드러 봄 가기를 원던이</sent>
+<sent type="main" lang="kor" page="146" n="14">녹음방쵸승화시 리 환우셩의 한양 갈  놀 니 열음이나 견건나</sent>
+<sent type="main" lang="kor" page="146" n="15">졍차좌풍림만 기러긔 울고 갈 졔</sent>
+<sent type="main" lang="kor" page="146" n="16">금난 못 부치고 츄야장을 엇지며</sent>
+<sent type="main" lang="kor" page="146" n="17">셜쳥운산북풍한 시문의  지실 졔</sent>
+<sent type="main" lang="kor" page="146" n="18">밤의 가난 람더리 임의 쇼식 젼것나</sent>
+<sent type="main" lang="kor" page="146" n="19">일 년 졀 가난 로 모도 의 슈심이라</sent>
+<sent type="main" lang="kor" page="146" n="20">셰월은 마음 업셔 물갓치 흘너가고</sent>
+<sent type="main" lang="kor" page="146" n="21">간장은 슈심 잇셔 눈갓치 녹여 간이</sent>
+<sent type="main" lang="kor" page="146" n="22">녹발리 희여지고 옥빈의 살 잡피면</sent>
+<sent type="main" lang="kor" page="146" n="23">심양강 츄야월의 비파를 타난가</sent>
+<sent type="main" lang="kor" page="146" n="24">장신궁 져문 봄의 슬 보고 우난가</sent>
+<sent type="main" lang="kor" page="146" n="25">가련 츈풍이면 남원셔 쥭사오면 쳐량 월야 혼이 한양을 엇지 갈고</sent>
+<sent type="main" lang="kor" page="146" n="26">고 고 셜운지고</sent><!--뒤에 오는 ‘고’는 재점으로 표기되어 있음--> 
+<sent type="main" lang="kor" page="146" n="27">도령임이 한삼으로 츈향 눈물 씩긔면셔</sent>
+<sent type="main" lang="kor" page="146" n="28">우지 마라 우지 마라</sent><!--뒤에 오는 ‘우지 마라’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="146" n="29">네 우름 마듸 우름 마듸  간장이 다 녹난다</sent>
+<sent type="main" lang="kor" page="146" n="30">결발지졍 우리 부부 이질 이가 잇건난야</sent>
+<sent type="main" lang="kor" page="146" n="31">당당 장부 사 글헌 법이 업난이라</sent><!--뒤에 오는 ‘당’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="146" n="32">도령임 그 말 마오</sent>
+<sent type="main" lang="kor" page="146" n="33">진나라 리가 지음난 상이나 부귀의 욕심 여 죠강지쳐 안 진이</sent>
+<sent type="main" lang="kor" page="146" n="34">가긍 염이가를 뉘 안이 탄식며</sent>
+<sent type="main" lang="kor" page="146" n="35">한나라 사마상여 능운난 문장이나</sent>
+
+<sent type="main" lang="kor" page="148" n="1">신졍의 혹여 봉황 을 이져쓴이</sent>
+<sent type="main" lang="kor" page="148" n="2">쳐량 두음이 몃 람의 눈물인</sent>
+<sent type="main" lang="kor" page="148" n="3">산 노푼 기리 슈을 부슈어도</sent>
+<sent type="main" lang="kor" page="148" n="4">나희 마음보단 오히려 큰 질이요</sent>
+<sent type="main" lang="kor" page="148" n="5">무협의 험 물이 를 능이 업질너도</sent>
+<sent type="main" lang="kor" page="148" n="6">나이 마음보단 오히려 슌 물결</sent>
+<sent type="main" lang="kor" page="148" n="7">람 마음 번복기 산슈보단 험지라</sent>
+<sent type="main" lang="kor" page="148" n="8">오날 가고 일 가면 졍이 차차 열불텐의</sent><!--뒤에 오는 ‘차’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="148" n="9">일 년 너머 이 년 너머 마음 점점 엇컨나</sent><!--뒤에 오는 ‘점’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="148" n="10">젹막 쵸당 쇽의 글만 일고 안져셔도 영영 잇긔  터인듸</sent><!--뒤에 오는 ‘영’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="148" n="11">허물며 부귀낙 어 졀을 각컷쇼</sent>
+<sent type="main" lang="kor" page="148" n="12">고 고 셜운지고</sent><!--뒤에 오는 ‘고’는 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="148" n="13">도령임이 우름으로 츈향을 눌너 볼가</sent>
+<sent type="main" lang="kor" page="148" n="14">시연찬엄 풋우름을 열업시  노왓다</sent>
+<sent type="main" lang="kor" page="148" n="15">참 우름의 치이여셔 우지도 못고셔</sent>
+<sent type="main" lang="kor" page="148" n="16">우름을 말이노라 씨난 게 볼 만여</sent>
+<sent type="main" lang="kor" page="148" n="17">미거 이 람아 그만면  쇽 알졔 안 이질게 우지 마라</sent>
+<sent type="main" lang="kor" page="148" n="18">답답 이 람 안 이질게 우지 마라</sent><!--뒤에 오는 ‘답’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="148" n="19">츈향이 안이 밋고 갈슈락 셜게 운다</sent>
+<sent type="main" lang="kor" page="148" n="20">안 이지마 안 이지마</sent><!--뒤에 오는 ‘안 이지마’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="148" n="21">말노만 져리이 그 말삼을 밋엿쇼</sent>
+<sent type="main" lang="kor" page="148" n="22">팔 험 졀문 연이 몃  공방 고상다 무쥬고혼 되옵난이</sent>
+<sent type="main" lang="kor" page="148" n="23">라리 낭군 압푸 결항치엿씨면 임 인난 숑장인이</sent>
+<sent type="main" lang="kor" page="148" n="24">쥭난 나 보고 가오</sent>
+<sent type="main" lang="kor" page="148" n="25">벽의 걸인 삼쳑 라건 옥슈로 나려 들고 목의다 감아 이</sent>
+<sent type="main" lang="kor" page="148" n="26">도령임이  놀 달여드러 숀 잡으며</sent>
+<sent type="main" lang="kor" page="148" n="27">너을 만일 잇거드면 인불셩될 슨이</sent>
+<sent type="main" lang="kor" page="148" n="28">쥭지 마라 쥭지 마라</sent><!--뒤에 오는 ‘쥭지 마라’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="148" n="29">그짓 것 세라고 가 밋고 살 터이요</sent>
+<sent type="main" lang="kor" page="148" n="30">슈건 셜 죠루란이 도령임이 겁을 여</sent>
+<sent type="main" lang="kor" page="148" n="31">쥬홍이 갓튼 셰 슈 먹듯 난구나</sent>
+<sent type="main" lang="kor" page="148" n="32">쇼다 못 쎠 다 못 쎠 쇽 헤쳐 못 보이고 갑갑여  쥭것소</sent><!--뒤에 오는 ‘갑’은 재점으로 표기되어 있-->
+<sent type="main" lang="kor" page="148" n="33">바로 네 아덜이다</sent>
+<sent type="main" lang="kor" page="148" n="34">츈향이 슘 지고 나건 풀어 노으면셔</sent>
+<sent type="main" lang="kor" page="148" n="35">쳔쳡의 평  말삼의 엿기에 부득기  일인니</sent>
+<sent type="main" lang="kor" page="148" n="36">괫심이 아지 말고 부 젹원 마옵쇼셔</sent>
+<sent type="main" lang="kor" page="148-150" n="37">두리 창 작별할 졔 방 급피 달여들며</sent><!--졔 ^ 방-->
+
+<sent type="main" lang="kor" page="150" n="1">도령임은 무슨 이별 그리 오 옵씨요</sent>
+<sent type="main" lang="kor" page="150" n="2">요예 발셔 묘셔 고 쌍교 딀려 노왓쓴이 어셔 차옵시다</sent><!--‘요’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="150" n="3">도령인  놀나 나문 졍담 못다 고 아상으로 들어간이</sent><!--뒤에 오는 ‘나’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="150" n="4">츈향이 상단 불너</sent>
+<sent type="main" lang="kor" page="150" n="5">도령임 엿쥴 말삼 밋쳐 못 엿슨이</sent>
+<sent type="main" lang="kor" page="150" n="6">쥬효를 가지고셔 오리졍 젼숑 가</sent>
+<sent type="main" lang="kor" page="150" n="7">풋고쵸 져리짐 탁쥬 푸 상안쥬졔 도령임 귀 입의 듸리랼 이 잇나</sent>
+<sent type="main" lang="kor" page="150" n="8">전복쌈 약포 각 유밀과 강분환을 유지의 졍히 싸고</sent>
+<sent type="main" lang="kor" page="150" n="9">감홍로 화쳥여 쥬의 가득 너어 표박 틔 달아 상단 들여 압셰우고</sent>
+<sent type="main" lang="kor" page="150" n="10">셰삭갓 슉여 씨고 연엽미션 차면고</sent>
+<sent type="main" lang="kor" page="150" n="11">졔의 노모 후여 종용 길럼길노</sent>
+<sent type="main" lang="kor" page="150" n="12">오리졍 몬져 가셔 장림 쇽의 은신고</sent>
+<sent type="main" lang="kor" page="150" n="13">쳬모 아난 게집아라 남 듯게 울 이 잇나</sent>
+<sent type="main" lang="kor" page="150" n="14">쇽으로만 난 걱졍 욤 업시 눈물지고</sent>
+<sent type="main" lang="kor" page="150" n="15">상단의 길의 셔셔 차를 기릴 졔</sent><!--뒤에 오는 ‘셔’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="150" n="16">쌍교 몬져 지가고 도령임 뒤의 오다</sent>
+<sent type="main" lang="kor" page="150" n="17">상단을 얼는 보고 나귀의 급피 려</sent>
+<sent type="main" lang="kor" page="150" n="18">너의 앗씨 예 왓난야</sent>
+<sent type="main" lang="kor" page="150" n="19">발셔 와셔 지달이요</sent>
+<sent type="main" lang="kor" page="150" n="20">도령임 상단 라 장림 쇽 드러간이</sent>
+<sent type="main" lang="kor" page="150" n="21">츈향이 일어셔셔 도령임 숀을 잡고 다졍이 문난 마리</sent><!--뒤에 오는 ‘셔’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="150" n="22">악 급피 가시던이 죵 안이 드르셧쇼</sent>
+<sent type="main" lang="kor" page="150" n="23">탈 업시 지엿다</sent>
+<sent type="main" lang="kor" page="150" n="24"> 집의셔 작별할 졔 셜음의 기 키여</sent>
+<sent type="main" lang="kor" page="150" n="25">할 말삼도 못 고 이별쥬도 못 권여</sent>
+<sent type="main" lang="kor" page="150" n="26">이곳 와셔 지달인이 나문 졍 들으시오</sent>
+<sent type="main" lang="kor" page="150" n="27">부귀를 신 후의 쳔쳡 안이 잇쌉난 단언을 셧슨이</sent>
+<sent type="main" lang="kor" page="150" n="28">츄호 의심 업사오되</sent>
+<sent type="main" lang="kor" page="150" n="29">갈이여 사난 듸는 쳔 리가 머러쌉고</sent>
+<sent type="main" lang="kor" page="150" n="30">다시 만나 보옵기난 몃  후가 되올넌지</sent>
+<sent type="main" lang="kor" page="150" n="31">죠물이 시긔고 인형이 변오면 긔쳐부식옵난듸</sent>
+<sent type="main" lang="kor" page="150" n="32">긔부 엇지 아올넌지</sent>
+<sent type="main" lang="kor" page="150" n="33">신표 업싸오면 의혹이 날 거신이 무삼 신표 쥬옵쇼셔</sent>
+<sent type="main" lang="kor" page="150-152" n="34">도령임 반겨하여</sent><!--반^겨하여-->
+
+<sent type="main" lang="kor" page="152" n="1">겨 가 이졋구나</sent>
+<sent type="main" lang="kor" page="152" n="2">금낭을 션듯 풀어 모면경 여 쥬며</sent>
+<sent type="main" lang="kor" page="152" n="3">장부의 말근 마음 셕경 빗과 갓틔여셔 변할 이가 업슬 터요</sent>
+<sent type="main" lang="kor" page="152" n="4">서덕언의 파경복합 만날 날리 잇셔쓴이</sent><!--뒤에 오는 ‘날’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="152" n="5">이거슬 신물 삼아 날 본 득기 두고 보라</sent>
+<sent type="main" lang="kor" page="152" n="6">츈향이 셕경 바다 품 안의 깁피 품고</sent>
+<sent type="main" lang="kor" page="152" n="7">져 든 옥지환을   버셔 올이오며</sent>
+<sent type="main" lang="kor" page="152" n="8">여의 가진 실 옥무하 갓건이와</sent>
+<sent type="main" lang="kor" page="152" n="9">기일환샹견의 환  편 붓터슨이 슈이슈이 도라오오</sent><!--뒤에 오는 ‘슈이’, ‘오’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="152" n="10">셔로 신물 바든 후의 쥬의 감홍노를 츈향이 졔 부어 도령임 올이면셔</sent>
+<sent type="main" lang="kor" page="152" n="11">우리 쳐음 만나 올 졔 합환쥬를 먹엇슨이</sent>
+<sent type="main" lang="kor" page="152" n="12">오날 셔로 날 젹의 이별가 업슬 태요</sent>
+<sent type="main" lang="kor" page="152" n="13">권군경진일쥬 졍으로 련이와 여이동소만고슈 셜움이 업슬턴이</sent>
+<sent type="main" lang="kor" page="152" n="14">여관한등독불면의  각만 지 말고 쇼입호희쥬즁의 슐노 슈심 풀게 오</sent>
+<sent type="main" lang="kor" page="152" n="15">도령임 반 먹고 츈향 쥬며 난 말이</sent>
+<sent type="main" lang="kor" page="152" n="16">합환만 분고 이별 안컨난야</sent>
+<sent type="main" lang="kor" page="152" n="17">쥬루낙일권렴간의 를 너머 씨지 말고</sent>
+<sent type="main" lang="kor" page="152" n="18">불쳥음귀의 질 날만 지다려라</sent>
+<sent type="main" lang="kor" page="152" n="19">장모도 잘 지고 상단도 죠 잇쓰라</sent>
+<sent type="main" lang="kor" page="152" n="20">쌍교 멀이 갓슬턴이 부득기 나노라</sent>
+<sent type="main" lang="kor" page="152" n="21">낙누며 나귀 타고 도라 보고 가난 모양</sent>
+<sent type="main" lang="kor" page="152" n="22">츔 츄며 노든 호졉 퍼귀을 나난듯</sent>
+<sent type="main" lang="kor" page="152" n="23">짓드리고 노던 봉황 오동을 나난듯</sent>
+<sent type="main" lang="kor" page="152" n="24">상단도 졍드러셔 나귀 뒤의 가며</sent>
+<sent type="main" lang="kor" page="152" n="25">차 부 평안이 오</sent>
+<sent type="main" lang="kor" page="152" n="26">모시고 죠 잇라 죠 잇라</sent><!--뒤에 오는 ‘죠 잇라’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="152" n="27">방놈 사졍 업셔 나귀를 쳐 몬이 뒤가 졈졈 멀어진다</sent><!--뒤에 오는 ‘졈’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="152" n="28">장림간의 셧난 미인 원광이나 보랴난듸</sent>
+<sent type="main" lang="kor" page="152" n="29">로변의 잇난 나무 망안죠 가리운다</sent>
+<sent type="main" lang="kor" page="152" n="30">졍신 노코 한참 보다 슘 지고 도라온이</sent>
+<sent type="main" lang="kor" page="152" n="31">만의 졍이 업고 쵹목상심난구나</sent>
+<sent type="note" lang="kor" page="152" n="32">(끝)</sent>
+
+</doc>
+

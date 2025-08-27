@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title>女四書諺解 卷二</title>
+<author>이덕수</author>
+<date>1736년</date>
+</titleStmt>
+<notesStmt>
+<bibl><title>女四書諺解</title>
+<pubPlace>서울</pubPlace>
+<publisher>홍문각</publisher>
+<date>1982</date>
+</bibl>
+</notesStmt>
+<revisionDesc>
+<date>2016/01/13</date>
+<respStmt>
+<resp>입력자</resp><name>신용남</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>이전경</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="논어01a" n="1">宋若昭女論語</sent>
+<sent type="title" lang="chi" page="논어01a" n="2">唐書列傳</sent>
+<sent type="anno" lang="kor" page="논어01a" n="3">宋若昭 貝州 사이라</sent>
+<sent type="anno" lang="kor" page="논어01a" n="4">아비 棻이 學을 됴하더니 五女 나흐니</sent>
+<sent type="anno" lang="kor" page="논어01a" n="5">若華와 若昭와 若倫과 若憲과 若筍이니 다 慧美고 글을 능히 더라</sent>
+<sent type="anno" lang="kor" page="논어01a" n="6">若昭ᅵ 文詞ᅵ 高潔야 사의게 도라가기 원티 아니고</sent>
+<sent type="anno" lang="kor" page="논어01a" n="7">文學으로  셰샹의 일홈 나고져 더니 若華ᅵ 女論語을 지어 若昭ᅵ 申釋니라</sent>
+<sent type="anno" lang="kor" page="논어01a" n="8">德宗 貞元 中에 盧龍 節度使 李抱眞이 그 조을 表야 詔書야</sent>
+<sent type="anno" lang="kor" page="논어01a" n="9">禁中에 드러와 文章을 시험고 經史 의논니 다 稱旨더라</sent>
+<sent type="anno" lang="kor" page="논어01a-01b" n="10">帝 양 群臣으로 더브러 賡和실</sent><!--더^브-->
+
+<sent type="anno" lang="kor" page="논어01b" n="1">五女ᅵ 다 참예야 로 賞 주시믈 닙고 姉妹 다 恩幸을 닙으되</sent>
+<sent type="anno" lang="kor" page="논어01b" n="2">홀노 若昭ᅵ 禁院에 잇기 원고 上寵을 라디 아니야</sent>
+<sent type="anno" lang="kor" page="논어01b" n="3">샹 曹大家로 스로 評니 帝 그 을 알옴다이 너기샤</sent>
+<sent type="anno" lang="kor" page="논어01b" n="4">女學士ᅵ라 일라 內職을 拜여 六宮文學을 음알게 고</sent>
+<sent type="anno" lang="kor" page="논어01b" n="5">兼야 모 皇子와 公主 치게 시니다</sent>
+<sent type="anno" lang="kor" page="논어01b" n="6">師禮로 셤기고 일홈야  宮師ᅵ라 다</sent>
+<sent type="anno" lang="kor" page="논어01b" n="7">寶曆 中에 卒니 梁國夫人을 튜증다</sent>
+
+<sent type="title" lang="chi" page="서전01a" n="1">女論語序傳</sent>
+<sent type="anno" lang="kor" page="서전01a" n="2">大家ᅵ  妾은 이에 賢人의 妻ᅵ오 名家의 女ᅵ라</sent>
+<sent type="anno" lang="kor" page="서전01a" n="3">四德이 잠간 완젼고  書史 통디라</sent>
+<sent type="anno" lang="kor" page="서전01a" n="4">女工 긋치몰 인야 한가히 文字 보니</sent>
+<sent type="anno" lang="kor" page="서전01a" n="5">九烈이 가히 아답고 三貞이 가히 모염즉</sent>
+<sent type="anno" lang="kor" page="서전01a" n="6">기피 훗 사의 능히 와 것지 몯을 앗겨 야 이예  글을 지어 일홈야 論語ᅵ라 야</sent>
+<sent type="anno" lang="kor" page="서전01a" n="7">敬戒야 서 승슌야 女子 敎訓게 니</sent>
+<sent type="anno" lang="kor" page="서전01a" n="8">만일 이 말을 의지면 賢婦ᅵ 될디라</sent>
+<sent type="anno" lang="kor" page="서전01a" n="9">젼 사으로 여곰 홀노 千古에 아답게 아니니라</sent>
+<sent type="anno2" lang="kor" page="서전01a" n="10">大家 漢曹大家라</sent>
+<sent type="anno2" lang="kor" page="서전01a" n="11">이 글은 宋氏의 지은 배어 감히 니디 몯야 의탁야 曹大家라 니미니라</sent>
+<sent type="anno2" lang="kor" page="서전01a-01b" n="12">四德은 德과 容과 言과 工이라</sent><!--은 ^ 德-->
+
+<sent type="anno2" lang="kor" page="서전01b" n="1">九烈은 우호로 高祖게 영화롭고 아로 玄孫을 蔭야 光烈이 九族에 금이오</sent>
+<sent type="anno2" lang="kor" page="서전01b" n="2">三貞은 女子ᅵ 집의 이쇼매 父母의게 효도고</sent>
+<sent type="anno2" lang="kor" page="서전01b" n="3">出嫁아 舅姑의게 효도며 夫子 공경야</sent>
+<sent type="anno2" lang="kor" page="서전01b" n="4">세 가지 다 그 貞純 德을 극진히 홈이라</sent>
+
+<sent type="title" lang="chi" page="01a" n="1">女四書 卷二</sent>
+<sent type="title" lang="chi" page="01a" n="2">女論語</sent>
+<sent type="title" lang="chi" page="01a" n="3">立身章第一</sent>
+
+<sent type="anno" lang="kor" page="01b" n="1">立은 일오닷 말과 니 그 사 될 도리 일오다 홈이라</sent>
+<sent type="anno" lang="kor" page="01b" n="2">端潔安靜 거 淸이라 니고 純一守正 거 貞이라 니니라</sent>
+<sent type="main" lang="chi" page="01b" n="3">凡爲女子애 先學立身이오</sent>
+<sent type="main" lang="kor" page="01b" n="3">므릇 女子 되오매 몬져 몸 셰오믈 學 거시오</sent>
+<sent type="main" lang="chi" page="01b-02a" n="4">立身之法은 惟務淸貞이니</sent>
+<sent type="main" lang="kor" page="01b-02a" n="4">몸 셰올 법은 오직 淸貞을 힘니</sent><!--貞^을-->
+
+<sent type="main" lang="chi" page="02a" n="1">淸則身潔고 貞則身榮이니라</sent>
+<sent type="main" lang="kor" page="02a" n="1">淸면 몸이 조코 貞면 몸이 영화롬니라</sent>
+<sent type="main" lang="chi" page="02a" n="2">行莫回頭며 語莫掀唇며</sent>
+<sent type="main" lang="kor" page="02a" n="2">行애 머리 두로혀디 말며 말애 입시울을 들티디 말며</sent>
+<sent type="main" lang="chi" page="02a" n="3">坐莫動膝며 立莫搖裙며</sent>
+<sent type="main" lang="kor" page="02a" n="3">안매 무롭플 움기디 말며 셔매 치마 흔드디 말며</sent>
+<sent type="main" lang="chi" page="02a" n="4">喜莫大笑며 怒莫鼓聲며</sent>
+<sent type="main" lang="kor" page="02a" n="4">깃거도 크게 웃디 말며 노호와도 소 노피 말며</sent>
+<sent type="main" lang="chi" page="02a" n="5">內外各處고 男女異羣야 莫窺外壁며 莫出外庭이니</sent>
+<sent type="main" lang="kor" page="02a" n="5">內外 곳을 각각 고 男女 무리 달니 야 밧 람을 엿보디 말며 밧  나가디 말올니</sent>
+<sent type="main" lang="chi" page="02a" n="6">出必掩面며 窺必藏形이니라</sent>
+<sent type="main" lang="kor" page="02a" n="6">나가거든 반시  덥고 엿보거든 반시 몸을 촐디니라</sent>
+<sent type="main" lang="chi" page="02a-02b" n="7">男非眷屬이어든 莫與通名며</sent>
+<sent type="main" lang="kor" page="02a-02b" n="7">나희 眷屬이 아니어든 더브러 일홈을 통티 말며</sent><!--나^희-->
+
+<sent type="main" lang="chi" page="02b" n="1">女非善淑이어든 莫與相親이니</sent>
+<sent type="main" lang="kor" page="02b" n="1">계집이 善淑이 아니어든 더브러 친티 말올니</sent>
+<sent type="main" lang="chi" page="02b" n="2">立身端正이라사 方可爲人이니라</sent>
+<sent type="main" lang="kor" page="02b" n="2">몸 셰오기 端正이 여야 야흐로 가히 사이 되올니라</sent>
+<sent type="title" lang="chi" page="02b" n="3">學作章第二</sent>
+
+<sent type="anno" lang="kor" page="04a" n="1">引은 실 니기단 말이오 셰포도 絨이라 니라</sent>
+<sent type="anno" lang="kor" page="04a" n="2">車 실 켜 수오 機 뵈  틀이라</sent>
+<sent type="anno" lang="kor" page="04a" n="3">柘 뫼이라</sent>
+<sent type="main" lang="chi" page="04a" n="4">凡爲女子애 須學女工이니</sent>
+<sent type="main" lang="kor" page="04a" n="4">무릇 女子ᅵ 되오매 모롬즉이 女工을 홀니</sent>
+<sent type="main" lang="chi" page="04a" n="5">紉麻緝苧되 粗細 不同며</sent>
+<sent type="main" lang="kor" page="04a" n="5">삼을 븨고 모시 삼으되 굴그며  거 디 아니케 며</sent>
+<sent type="main" lang="chi" page="04a" n="6">車機紡織을 切勿匆匆이니라</sent>
+<sent type="main" lang="kor" page="04a" n="6">車機로 紡織기 일졀 匆匆이 말올디니라</sent>
+<sent type="main" lang="chi" page="04a" n="7">看蠶繭煑야 曉夜相從이니</sent>
+<sent type="main" lang="kor" page="04a" n="7">누에 보고 곧 티 마 사벽과 밤으로 서르 조디니</sent>
+<sent type="main" lang="chi" page="04a" n="8">採桑摘柘며 看雨占風야 滓濕으란 即替고</sent>
+<sent type="main" lang="kor" page="04a" n="8">桑을 고 柘 며 비 보고 람을 졈야 滓와 濕으란 곧 고</sent>
+<sent type="main" lang="chi" page="04a-04b" n="9">寒冷커 須烘며</sent>
+<sent type="main" lang="kor" page="04a-04b" n="9">寒冷거든 모롬즉이 블긔운을 며</sent><!--^거-->
+
+<sent type="main" lang="chi" page="04b" n="1">取葉飼食호되 必得其中고</sent>
+<sent type="main" lang="kor" page="04b" n="1">닙흘 取야 밥을 머기되 반시 그 뎍듕을 얻게 고</sent>
+<sent type="main" lang="chi" page="04b" n="2">取絲經緯야 丈疋成工이니라</sent>
+<sent type="main" lang="kor" page="04b" n="2">실을 取야 며 야 丈과 疋에 工을 일올디니라</sent>
+<sent type="main" lang="chi" page="04b" n="3">輕紗 下軸고 細布 入筒며</sent>
+<sent type="main" lang="kor" page="04b" n="3">가야온 紗 軸의 리고  뵈 茼의 들며</sent>
+<sent type="main" lang="chi" page="04b" n="4">綢絹苧葛을 織造重重면</sent>
+<sent type="main" lang="kor" page="04b" n="4">綢와 絹과 苧와 葛을 織造기 重重이 면</sent>
+<sent type="main" lang="chi" page="04b" n="5">亦可貨賣며 亦可自縫이니라</sent>
+<sent type="main" lang="kor" page="04b" n="5"> 가히 貨賣며  가히 스로 縫디니라</sent>
+<sent type="main" lang="chi" page="04b" n="6">刺鞋作襪고 引線繡絨며</sent>
+<sent type="main" lang="kor" page="04b" n="6">鞋 刺며 襪을 짇고 실을 引야 繡고 絨며</sent>
+<sent type="main" lang="chi" page="04b-05a" n="7">縫聯補綴애 百事ᅵ 皆通이니 能依此語면</sent>
+<sent type="main" lang="kor" page="04b-05a" n="7">縫聯과 補綴애 百事를 다 通디니 능히 이 말을 의지면</sent><!--縫^聯-->
+
+<sent type="main" lang="chi" page="05a" n="1">寒冷애 從容야 衣不愁破고 家不愁窮리라</sent>
+<sent type="main" lang="kor" page="05a" n="1">寒冷의 從容여 오시 破믈 시티 아니고 집이 窮믈 시티 아니리라</sent>
+<sent type="main" lang="chi" page="05a" n="2">莫學懶婦의 積小癡慵야 不貪女務고 不計春冬이니</sent>
+<sent type="main" lang="kor" page="05a" n="2">게어 계집이 어려셔부터 어리고 게어름믈 싸하 계집의 힘 거슬 탐티 아니고 봄과 겨을 혜디 아니믈 호지 말올띠니</sent>
+<sent type="main" lang="chi" page="05a" n="3">針線이 粗率야 爲人所攻며</sent>
+<sent type="main" lang="kor" page="05a" n="3">針線이 粗率야 사의 공티 배 되며</sent>
+<sent type="main" lang="chi" page="05a-05b" n="4">嫁爲人婦야 恥辱門風며</sent>
+<sent type="main" lang="kor" page="05a-05b" n="4">셔방 마자 사의 안해 되매 門風을 븟럽고 辱도이 며</sent><!--도^이-->
+
+<sent type="main" lang="chi" page="05b" n="1">衣裳破損야 牽西遮東</sent>
+<sent type="main" lang="kor" page="05b" n="1">衣裳이 破損야 西의 슬 어 東을 막을</sent>
+<sent type="main" lang="chi" page="05b" n="2">遭人指點야 恥笑鄕中니</sent>
+<sent type="main" lang="kor" page="05b" n="2">사의 指點믈 만나 鄕中의 恥笑니</sent>
+<sent type="main" lang="chi" page="05b" n="3">奉勸女子야 聽取言終노라</sent>
+<sent type="main" lang="kor" page="05b" n="3">받드러 女子 勸야 말 믈 들으라 노라</sent>
+<sent type="title" lang="chi" page="05b" n="4">學禮章第三</sent>
+
+<sent type="anno" lang="kor" page="07a" n="1">問候 起居安否 뭇단 말이오 通時 寒暄을 通단 말이라</sent>
+<sent type="main" lang="chi" page="07a" n="2">凡爲女子애 當知禮數ᅵ니</sent>
+<sent type="main" lang="kor" page="07a" n="2">무릇 女子ᅵ 되오매 맛당이 禮數 알올니</sent>
+<sent type="main" lang="chi" page="07a-07b" n="3">女客이 相過어든 安排坐具며 整頓衣裳야 輕行緩步며</sent>
+<sent type="main" lang="kor" page="07a-07b" n="3">女客이 서로 디나거 坐具 安排며 衣裳을 整頓야 가뵈야이 行며</sent><!--裳^을-->
+
+<sent type="main" lang="chi" page="07b" n="1">歛手低聲야 請過庭戶야 問候通時호되</sent>
+<sent type="main" lang="kor" page="07b" n="1">느즉이 것고 손을 슈념며 소 이 야 庭戶의 디나기 請야 問候며 通時호되</sent>
+<sent type="main" lang="chi" page="07b" n="2">從頭稱叙며 答問殷勤호되</sent>
+<sent type="main" lang="kor" page="07b" n="2">처엄으로 조차 일라 펴며 답며 묻기 殷勤이 되</sent>
+<sent type="main" lang="chi" page="07b" n="3">輕言細語고 備辦茶湯야 迎來遞去ᅵ니라</sent>
+<sent type="main" lang="kor" page="07b" n="3">가뵈야이 말며 게 말고 茶와 湯을 초며 혀 마자 오며 보내야 갈니라</sent>
+<sent type="main" lang="chi" page="07b-08a" n="4">莫學他人의 擡身不顧고 接見依俙야 有相欺侮ᅵ니라</sent>
+<sent type="main" lang="kor" page="07b-08a" n="4">달은 사의 몸을 들어 도라보디 아니고 인졉야 보기 依俙히 야 서 欺侮홈이 읻기 호디 말올디니라</sent><!--읻^기-->
+
+<sent type="main" lang="chi" page="08a" n="1">如到人家ᅵ어든 當知女務ᅵ니</sent>
+<sent type="main" lang="kor" page="08a" n="1">만일 사의 집의 니거 맏당이 女務 알올디니</sent>
+<sent type="main" lang="chi" page="08a" n="2">相見傳茶고 即通事故고</sent>
+<sent type="main" lang="kor" page="08a" n="2">서 보아 茶 뎐고 즉시 事故 通고</sent>
+<sent type="main" lang="chi" page="08a" n="3">說罷起身야 再三辭去ᅵ니</sent>
+<sent type="main" lang="kor" page="08a" n="3">말이 罷매 몸을 니르혀 再三 하딕고 갈니</sent>
+<sent type="main" lang="chi" page="08a" n="4">主若相留야 禮莚待遇ᅵ어든</sent>
+<sent type="main" lang="kor" page="08a" n="4">主人이 만일 서 머무러 禮筵으로 待遇거</sent>
+<sent type="main" lang="chi" page="08a" n="5">酒略沾唇며 食無叉筋ᅵ니</sent>
+<sent type="main" lang="kor" page="08a" n="5">술을 쟉게 입시욹의 적시며 먹으매 져 어즐어이디 말올니</sent>
+<sent type="main" lang="chi" page="08a" n="6">退盞辭壺야 過承推拒ᅵ니라</sent>
+<sent type="main" lang="kor" page="08a" n="6">盞을 물리며 병을 양야 과도히 推拒홈믈 니을니라</sent>
+<sent type="main" lang="chi" page="08a-08b" n="7">莫學他人의 呼湯呷醋고 醉後顚狂야 招人所惡야 身未回家야 已遭點汚ᅵ니라</sent>
+<sent type="main" lang="kor" page="08a-08b" n="7">달은 사의 湯을 블으며 초 마시고 醉 후의 顚狂야 사의 아쳐믈 블너 몸이 집의 도라오디 몯야셔 임의 點汙 만나믈 호디 말올니라</sent><!--을 ^ 블-->
+
+<sent type="main" lang="chi" page="08b" n="1">當在家庭야 少游道路ᅵ니</sent>
+<sent type="main" lang="kor" page="08b" n="1">家庭의 이심을 當야 道路의 놀기 젹게 니</sent>
+<sent type="main" lang="chi" page="08b" n="2">生面相逢이어든 低頭看顧ᅵ니라</sent>
+<sent type="main" lang="kor" page="08b" n="2">生面이 서 만나거 머리 이 야 도라 보필니라</sent>
+<sent type="main" lang="chi" page="08b-09a" n="3">莫學他人의 不知朝暮고 走遍鄕村야 說三道四야 引惹惡聲야 多招罵怒야 辱賤門風며 連累父母며 損破自身야 供他笑具ᅵ니</sent>
+<sent type="main" lang="kor" page="08b-09a" n="3">달은 사의 朝暮 아디 몯고 분주야 鄕村에 遍야 세흘 니며 네흘 닐러 사오나온 소문을 引惹야 만히 罵怒 블너 門風을 辱되고 賤케 며 累ᅵ 父母의게 년며 이녁 몸의 損破야 의 우솜  供믈 호디 말올니</sent><!--만^히-->
+
+<sent type="main" lang="chi" page="09a" n="1">如此之人은 有如犬鼠</sent>
+<sent type="main" lang="kor" page="09a" n="1">이 사은 개와 쥐 이 이실</sent>
+<sent type="main" lang="chi" page="09a" n="2">莫學他人의 惶恐羞辱라</sent>
+<sent type="main" lang="kor" page="09a" n="2">달은 사의 惶恐고 羞辱믈 호디 말올니라</sent>
+<sent type="title" lang="chi" page="09a" n="3">早起章第四</sent>
+
+<sent type="anno" lang="kor" page="10b" n="1">摩 씯단 말이오 鍋 음식 더이 그르시오</sent>
+<sent type="anno" lang="kor" page="10b" n="2">鑊은 가마라 分張은 고로게 녿탄 말이라</sent>
+<sent type="anno" lang="kor" page="10b" n="3">覺 자단 말이니 뒤혀 니르미오</sent><!--원문에는 '覺'의 발음이 '교'로 되어 있음-->
+<sent type="anno" lang="kor" page="10b" n="4">齷齪은 자티 안닌 거동이라</sent>
+<sent type="main" lang="chi" page="10b" n="5">凡爲女子애 習以爲常이니</sent>
+<sent type="main" lang="kor" page="10b" n="5">무릇 女子 되오매 니겨  믈 삼을띠니</sent>
+<sent type="main" lang="chi" page="10b" n="6">五更애 鷄唱이어든 起着衣裳고 盥漱已了애</sent>
+<sent type="main" lang="kor" page="10b" n="6">五更에 이 울거 니러나 衣裳을 닙고 셰슈 양치질을 임의 다 매</sent>
+<sent type="main" lang="chi" page="10b" n="7">隨意梳妝고 揀柴燒火야</sent>
+<sent type="main" lang="kor" page="10b" n="7">을 와 梳妝고 섭플 야 블을 와</sent>
+<sent type="main" lang="chi" page="10b-11a" n="8">早下厨房야 摩鍋洗鑊고 煑水煎湯이니라</sent>
+<sent type="main" lang="kor" page="10b-11a" n="8">일즉이 厨房의 려가 鍋 닷그며 鑊을 싯고 믈을 더이며 湯을 달힐니라</sent><!--려^가-->
+
+<sent type="main" lang="chi" page="11a" n="1">隨家豐儉야 蒸煑食嘗호</sent>
+<sent type="main" lang="kor" page="11a" n="1">집의 豊며 儉믈 와 食嘗을 蒸煮되</sent>
+<sent type="main" lang="chi" page="11a" n="2">安排蔬菜며 炮豉舂薑야 隨時下料호</sent>
+<sent type="main" lang="kor" page="11a" n="2">蔬菜 安排며 쟝 구으며 강을 허  와 료 리오</sent>
+<sent type="main" lang="chi" page="11a" n="3">甜淡馨香케 고 整齊碗碟야 鋪說分張야</sent>
+<sent type="main" lang="kor" page="11a" n="3">며 며 향긔롭게 고 사발과 뎝시 整齊히 여 펴 노며 화 베퍼</sent>
+<sent type="main" lang="chi" page="11a" n="4">三湌飯食을 朝暮相當케 홀디니</sent>
+<sent type="main" lang="kor" page="11a" n="4">세 번 먹 밥을 朝暮에 서 當케 니</sent>
+<sent type="main" lang="chi" page="11a-11b" n="5">侵晨早起면 百事애 無妨리라</sent>
+<sent type="main" lang="kor" page="11a-11b" n="5">사벽을 침노야 일즉이 닐어나면 가지 일에 방해로옴이 업스리라</sent><!--리^라-->
+
+<sent type="main" lang="chi" page="11b" n="1">莫學懶婦의 不觧思量고 黃昏一學애 直到天光야 日高三丈토록 猶未離床이라가 起來已晏일 却是慚惶야 未曾梳洗고 突入厨房호 容顔이 齷齪고 手脚이 慌忙야 煎茶煑飯을 不及時常이니라</sent>
+<sent type="main" lang="kor" page="11b" n="1">게어른 계집의 思量 줄을 아디 몯고 黃昏의  번 자매 바로 하 빗나기지 니르러 날이 三丈이 놉도록 오히려 床의 나디 몯다가 닐어 오매 이뮈 느저실 믄득 慚惶야 일즉이 梳洗 못고 厨房의 突入호 容顔이 齷齪고 手脚이 慌忙야 차 달히며 밥을 힘을 의 애 믿디 몯을 호디 말올니라</sent>
+<sent type="main" lang="chi" page="11b-12a" n="2">又有一等이 餔餟을 爭嘗며</sent>
+<sent type="main" lang="kor" page="11b-12a" n="2"> 一等이 이셔 餔餟을 토아 맏보며</sent><!--이 ^ 이-->
+
+<sent type="main" lang="chi" page="12a" n="1">未曾炮饌야셔 先已偸藏이라가 醜呈鄕里고</sent>
+<sent type="main" lang="kor" page="12a" n="1">일즉 음식을 닉이디 몯야셔 몬져 임의 도적야 초아 더러온 거시 鄕里의 들어나고</sent>
+<sent type="main" lang="chi" page="12a" n="2">辱及爺娘야 彼人傳說</sent>
+<sent type="main" lang="kor" page="12a" n="2">辱이 아비 어믜게 믿처 사의 傳說홈을 니블</sent>
+<sent type="main" lang="chi" page="12a" n="3">豈不羞惶이리오</sent>
+<sent type="main" lang="kor" page="12a" n="3">얻디 븓그럽고 황공티 아니리오</sent>
+<sent type="title" lang="chi" page="12a" n="4">事父母章第五</sent>
+
+<sent type="anno" lang="kor" page="13b" n="1">檢은 허믈을 뎜검단 말이라</sent>
+<sent type="anno" lang="kor" page="13b" n="2">强良은 에딜긘 거동이니 或 粱字로도 쓰니라</sent>
+<sent type="anno" lang="kor" page="13b" n="3">陪送은 혼인야 싀집갈 제 資裝이라</sent>
+
+<sent type="main" lang="chi" page="14a" n="1">女子ᅵ 在堂애 敬重爹娘이니</sent>
+<sent type="main" lang="kor" page="14a" n="1">女子ᅵ 堂의 이시매 爹娘을 敬重홀니</sent>
+<sent type="main" lang="chi" page="14a" n="2">每朝早起야 先問安康호</sent>
+<sent type="main" lang="kor" page="14a" n="2">양 아의 일 니러나 몬져 安康을 묻오</sent>
+<sent type="main" lang="chi" page="14a" n="3">寒則烘火고 熱則扇凉며</sent>
+<sent type="main" lang="kor" page="14a" n="3">칩거든 불을 고 열커든 서을 븓츠며</sent>
+<sent type="main" lang="chi" page="14a" n="4">饑則進食고 渴則進湯며</sent>
+<sent type="main" lang="kor" page="14a" n="4">긔핍 시거든 밥을 나오고 渴 시거든 믈을 나오며</sent>
+<sent type="main" lang="chi" page="14a" n="5">父母ᅵ 檢責이어시든 不得慌忙이니</sent>
+<sent type="main" lang="kor" page="14a" n="5">父母ᅵ 檢責 시거든 시러곰 慌忙디 말올니</sent>
+<sent type="main" lang="chi" page="14a" n="6">近前聽取야 早夜思量야</sent>
+<sent type="main" lang="kor" page="14a" n="6">알픠 갇가이 나아가 듣와 取야 早夜의 각야</sent>
+<sent type="main" lang="chi" page="14a" n="7">若有不是어든 改過從長이니라</sent>
+<sent type="main" lang="kor" page="14a" n="7">만일 올티 아닌 거시 읻거 허믈을 고텨 긴 거슬 조츨니라</sent>
+<sent type="main" lang="chi" page="14a-14b" n="8">父母言語 莫作尋常이니</sent>
+<sent type="main" lang="kor" page="14a-14b" n="8">父母의 言語 尋常믈 삼디 말올니</sent><!--의 ^ 言-->
+
+<sent type="main" lang="chi" page="14b" n="1">遵依敎訓야 不可强良이오</sent>
+<sent type="main" lang="kor" page="14b" n="1">敎訓 시믈 遵依야 可히 强良티 몯 거시오</sent>
+<sent type="main" lang="chi" page="14b" n="2">若有不諳이어든 借問無妨이니라</sent>
+<sent type="main" lang="kor" page="14b" n="2">만일 시 아디 몯호미 잇거 비러 므러도 방해롭디 아니리라</sent>
+<sent type="main" lang="chi" page="14b" n="3">父母ᅵ 年老ᅵ어시든 朝夕애 憂惶야 補聯鞋襪며 做造衣裳야</sent>
+<sent type="main" lang="kor" page="14b" n="3">父母ᅵ 나히 늙거시 朝夕의 憂惶야 신과 보션을 補聯며 옫과 치마 라</sent>
+<sent type="main" lang="chi" page="14b" n="4">四時八節에 孝養相當이니라</sent>
+<sent type="main" lang="kor" page="14b" n="4">四時와 八節에 孝養홈을 서로 當케 홀니라</sent>
+<sent type="main" lang="chi" page="14b" n="5">父母ᅵ 有疾이어시든 身莫離床야</sent>
+<sent type="main" lang="kor" page="14b" n="5">父母ᅵ 疾이 겨시거 몸이 床에 나디 말아</sent>
+<sent type="main" lang="chi" page="14b-15a" n="6">衣不觧帶고 湯藥親嘗며</sent>
+<sent type="main" lang="kor" page="14b-15a" n="6">옫에  그르디 말고 湯藥을 親히 맏보며</sent><!--^-->
+
+<sent type="main" lang="chi" page="15a" n="1">禱告神祗야 保祐安康이니라</sent>
+<sent type="main" lang="kor" page="15a" n="1">神祗의 비러 告야 安康홈을 保祐케 홀띠니라</sent>
+<sent type="main" lang="chi" page="15a" n="2">說有不幸야 大數身亡이어시든 慟入骨髓며 哭斷肝腸이니</sent>
+<sent type="main" lang="kor" page="15a" n="2">셜혹 不幸야 큰 數로 몸이 亡시거든 셜움이 骨髓에 들고 울어 肝腸을 츨띠니</sent>
+<sent type="main" lang="chi" page="15a" n="3">劬勞罔極야 恩德難忘일</sent>
+<sent type="main" lang="kor" page="15a" n="3">劬勞시미 罔極야 恩德을 닏기 어려올</sent>
+<sent type="main" lang="chi" page="15a" n="4">衣裳裝殮며 持服居喪야 安埋說祭고</sent>
+<sent type="main" lang="kor" page="15a" n="4">衣裳으로 裝殮며 服을 가져 喪에 居야 평안히 묻고 祭 베프고</sent>
+<sent type="main" lang="chi" page="15a-15b" n="5">禮拜家堂며 逢周遇忌어든 血淚ᅵ 汪汪이니라</sent>
+<sent type="main" lang="kor" page="15a-15b" n="5">禮로 家堂에 拜며 돌 만나며 긔일을 만나거든 피눈믈이 汪汪띠니라</sent><!--나^며-->
+
+<sent type="main" lang="chi" page="15b" n="1">莫學忤逆의 不敬爹娘이니</sent>
+<sent type="main" lang="kor" page="15b" n="1">忤逆 이의 爹娘 공경티 아니믈 호디 말올띠니</sent>
+<sent type="main" lang="chi" page="15b" n="2">纔出一語면 使氣昻昻며</sent>
+<sent type="main" lang="kor" page="15b" n="2">계요  말을 내면 긔운을 부려 昻昻며</sent>
+<sent type="main" lang="chi" page="15b" n="3">需索陪送고 爭競衣妝며</sent>
+<sent type="main" lang="kor" page="15b" n="3">싀집의 가져갈 물을 고 衣妝을 토며</sent>
+<sent type="main" lang="chi" page="15b" n="4">父母ᅵ 不幸면 說短論長고</sent>
+<sent type="main" lang="kor" page="15b" n="4">父母ᅵ 不幸면 뎔 거 니며 긴 거 의논고</sent>
+<sent type="main" lang="chi" page="15b" n="5">搜求財帛야 不顧哀喪니</sent>
+<sent type="main" lang="kor" page="15b" n="5">財帛을 搜求야 哀喪을 도라보디 아니니</sent>
+<sent type="main" lang="chi" page="15b" n="6">如此婦人은 狗彘豺狼이니라</sent>
+<sent type="main" lang="kor" page="15b" n="6">이 婦人은 狗彘와 豺狼이니라</sent>
+
+<sent type="title" lang="chi" page="16a" n="1">事舅姑章第六</sent>
+
+<sent type="anno" lang="kor" page="17b" n="1">肥皂 진 皂筴이니  잘 디우니라</sent>
+<sent type="anno" lang="kor" page="17b" n="2">齒藥은 니 다리 약이니 鹽과 椒  거시라</sent>
+<sent type="anno" lang="kor" page="17b" n="3">溫凉은 덥도 아니코 도 아니케 란 말이라</sent>
+<sent type="anno" lang="kor" page="17b" n="4">䟽蛀 니가 성긔고 버레 먹단 말이라</sent>
+<sent type="anno" lang="kor" page="17b" n="5">虛度 老人이 긴 날의 고파 야도 헏도이 디내디 말라  이라</sent>
+<sent type="anno" lang="kor" page="17b" n="6">梁은 고기 잡 돌이니 큰 고기 梁을 여 나매 放恣 婦人의게 비다</sent>
+<sent type="anno" lang="kor" page="17b" n="7">辛苦 싀어버이 공양기 신고을 니단 말리라</sent>
+<sent type="main" lang="chi" page="17b" n="8">阿翁과 阿姑 夫家之主ᅵ라</sent>
+<sent type="main" lang="kor" page="17b" n="8">阿翁과 阿姑 夫家의 主라</sent>
+<sent type="main" lang="chi" page="17b" n="9">旣入他門일 合稱新婦ᅵ니</sent>
+<sent type="main" lang="kor" page="17b" n="9">임의 他門의 들어가실 맏당이 新婦라 일을 거시니</sent>
+<sent type="main" lang="chi" page="17b-18a" n="10">供承看養을 如同父母ᅵ니라</sent>
+<sent type="main" lang="kor" page="17b-18a" n="10">供承며 看養홈을 父母과 티니라</sent><!--承^-->
+
+<sent type="main" lang="chi" page="18a" n="1">敬事阿翁호 形容을 不覩며</sent>
+<sent type="main" lang="kor" page="18a" n="1">공경야 阿翁을 셤기되 形容을 감히 보디 몯며</sent>
+<sent type="main" lang="chi" page="18a" n="2">不敢隨行며 不敢對語고</sent>
+<sent type="main" lang="kor" page="18a" n="2">감히 그 거름을 로디 몯며 감히 야 말디 몯고</sent>
+<sent type="main" lang="chi" page="18a" n="3">如有使令이어시든 聽其囑咐ᅵ니라</sent>
+<sent type="main" lang="kor" page="18a" n="3">만일 使令시미 읻거든 그 囑咐심믈 들을니라</sent>
+<sent type="main" lang="chi" page="18a" n="4">姑ᅵ 坐則立이라가 使令이어시든 便去며</sent>
+<sent type="main" lang="kor" page="18a" n="4">姑ᅵ 안자 계시거 셛다가 使令시거든 문득 가며</sent>
+<sent type="main" lang="chi" page="18a" n="5">早起開門되 莫令驚忤고</sent>
+<sent type="main" lang="kor" page="18a" n="5">일 닐어 門을 여되 야곰 놀라 시게 말고</sent>
+<sent type="main" lang="chi" page="18a-18b" n="6">灑掃庭堂며 洗濯巾布며 齒藥과 肥皂 溫凉이 得所케 고</sent>
+<sent type="main" lang="kor" page="18a-18b" n="6">庭堂을 물 려 레질 며 巾布 洗濯며 니약과 진 조협믈을 溫凉이 맛게 고</sent><!--과 ^ -->
+
+<sent type="main" lang="chi" page="18b" n="1">退步堦前야 待其浣洗야 萬福一聲고</sent>
+<sent type="main" lang="kor" page="18b" n="1">걸음을 물너 섬 알픠셔 그 浣洗 시기 기려 萬福 소릐 고</sent>
+<sent type="main" lang="chi" page="18b" n="2">卽時退步야 整辦茶盤며 安排匙筯며 香潔茶湯야 小心敬遞호</sent>
+<sent type="main" lang="kor" page="18b" n="2">卽時 므르 걸어 茶盤을 整辦며 匙筯 安排며 茶湯을 香潔케 야 小心고 공경야 아 드리되</sent>
+<sent type="main" lang="chi" page="18b" n="3">飯則軟蒸고 肉則熟煑ᅵ니</sent>
+<sent type="main" lang="kor" page="18b" n="3">밥은 軟케 고 고기 닉케 지질니</sent>
+<sent type="main" lang="chi" page="18b" n="4">自古老人이 齒牙ᅵ 䟽蛀며</sent>
+<sent type="main" lang="kor" page="18b" n="4">녜로붇터 老人이 齒牙ᅵ 성긔고 버레 먹글며</sent>
+<sent type="main" lang="chi" page="18b-19a" n="5">茶水羹湯으로 莫敎虛度ᅵ니라</sent>
+<sent type="main" lang="kor" page="18b-19a" n="5">茶水와 羹湯으로 야곰 헏도이 디내시게 말라</sent><!--디^내-->
+
+<sent type="main" lang="chi" page="19a" n="1">夜晩更深야 將歸睡處</sent>
+<sent type="main" lang="kor" page="19a" n="1">밤이 늗고 更이 깁허 쟝 잘 고 도라갈</sent>
+<sent type="main" lang="chi" page="19a" n="2">安置相辭고 方回房戶ᅵ니</sent>
+<sent type="main" lang="kor" page="19a" n="2">安置 후 서르 하딕고 야흐로 房戶의 도라올니</sent>
+<sent type="main" lang="chi" page="19a" n="3">日日一般며 朝朝相似면</sent>
+<sent type="main" lang="kor" page="19a" n="3">나날 티 며 아마다 서르 게 면</sent>
+<sent type="main" lang="chi" page="19a" n="4">傳敎庭幃고 人稱賢婦리라</sent>
+<sent type="main" lang="kor" page="19a" n="4">교홰 庭幃에 傳고 사마다 賢婦ᅵ라 일리라</sent>
+<sent type="main" lang="chi" page="19a-19b" n="5">莫學他人의 跳梁可惡야 咆哮尊長야 說辛道苦며 呼喚不來고 饑寒不顧ᅵ니</sent>
+<sent type="main" lang="kor" page="19a-19b" n="5">달은 사의 跳梁미 可히 믜워 尊長을 咆哮야 辛을 說고 苦 道며 블너도 오디 아니고 주리고 치워도 도라보디 아니을 호디 말올디니</sent><!--디 ^ 말-->
+
+<sent type="main" lang="chi" page="19b" n="1">如此之人은 號爲惡婦ᅵ라</sent>
+<sent type="main" lang="kor" page="19b" n="1">이  사은 일홈되 惡婦ᅵ라 디라</sent>
+<sent type="main" lang="chi" page="19b" n="2">天地不容며 雷霆이 震怒리니</sent>
+<sent type="main" lang="kor" page="19b" n="2">天地 용납디 아니며 雷霆이 震怒리니</sent>
+<sent type="main" lang="chi" page="19b" n="3">責罰이 加身면 悔之無路리라</sent>
+<sent type="main" lang="kor" page="19b" n="3">責罰이 몸의 더으면 뉘옫 길히 업스리라</sent>
+<sent type="title" lang="chi" page="19b" n="4">事夫章第七</sent>
+
+<sent type="anno" lang="kor" page="21a" n="1">夫 一身의 主ᅵ라</sent>
+<sent type="anno" lang="kor" page="21a" n="2">夫 恩고 婦 愛야 恩愛 서르 因단 말이라</sent>
+<sent type="anno" lang="kor" page="21a" n="3">尋은 사을 보내여 즈란 말이라</sent>
+<sent type="anno" lang="kor" page="21a" n="4">潑은 撒潑이니 광패 계집이라</sent>
+<sent type="anno" lang="kor" page="21a" n="5">棺槨은 棺을 노하 합장단 말이라</sent>
+<sent type="main" lang="chi" page="21a-21b" n="6">女子ᅵ 出嫁애 夫主ᅵ 爲親이니 前生緣分이며 今世婚姻이라</sent>
+<sent type="main" lang="kor" page="21a-21b" n="6">女子ᅵ 出嫁매 夫主ᅵ 親이 되니 前生의 緣分이며 今世의 婚姻이라</sent><!--ᅵ ^ 親-->
+
+<sent type="main" lang="chi" page="21b" n="1">將夫比天 其義匪輕니</sent>
+<sent type="main" lang="kor" page="21b" n="1">지아비 가져 하의 比 그 義 가압디 아니니</sent>
+<sent type="main" lang="chi" page="21b" n="2">夫剛妻柔야 恩愛相因이니라</sent>
+<sent type="main" lang="kor" page="21b" n="2">夫 剛고 妻 柔야 恩愛 서 因니라</sent>
+<sent type="main" lang="chi" page="21b" n="3">居家相待호 敬重如賓이니</sent>
+<sent type="main" lang="kor" page="21b" n="3">집의 이셔 서 졉되 敬重홈이 손틀니</sent>
+<sent type="main" lang="chi" page="21b" n="4">夫有言語ᅵ어든 側耳詳聽며</sent>
+<sent type="main" lang="kor" page="21b" n="4">지아비 말이 읻거든 귀 기우려 셰히 들으며</sent>
+<sent type="main" lang="chi" page="21b" n="5">夫有惡事ᅵ어든 勸諫諄諄야</sent>
+<sent type="main" lang="kor" page="21b" n="5">지아비 사오나온 일이 읻거든 勸며 諫기 諄諄이 야</sent>
+<sent type="main" lang="chi" page="21b-22a" n="6">莫學愚婦의 惹禍臨身이니라</sent>
+<sent type="main" lang="kor" page="21b-22a" n="6">어린 계집의 禍 惹야 몸의 臨믈 호디 말올니라</sent><!--몸^의-->
+
+<sent type="main" lang="chi" page="22a" n="1">夫若出外어든 須記途程야</sent>
+<sent type="main" lang="kor" page="22a" n="1">지아비 만일 받긔 나가거든 몰옴즉이 길흘 긔록야</sent>
+<sent type="main" lang="chi" page="22a" n="2">黃昏未返이어든 瞻望思尋며</sent>
+<sent type="main" lang="kor" page="22a" n="2">黃昏에 도라오디 아니커든 瞻望야 각며 며</sent>
+<sent type="main" lang="chi" page="22a" n="3">停燈溫飯야 等候敲門이니</sent>
+<sent type="main" lang="kor" page="22a" n="3">등잔을 머므로고 밥을 데여 門 두드리기 기릴니</sent>
+<sent type="main" lang="chi" page="22a" n="4">莫學懶婦의 先自安身이니라</sent>
+<sent type="main" lang="kor" page="22a" n="4">게어른 계집이 몬져 몸 평안케 홈을 호디 말울니라</sent>
+<sent type="main" lang="chi" page="22a" n="5">夫如有病이어든 終日勞心야</sent>
+<sent type="main" lang="kor" page="22a" n="5">지아비 만일 病이 읻거든 날이 도록 을 슈고야</sent>
+<sent type="main" lang="chi" page="22a" n="6">多方問藥며 遍處求神야</sent>
+<sent type="main" lang="kor" page="22a" n="6">여러 가지로 藥을 물오며 온갓 곧의 神을 求야</sent>
+<sent type="main" lang="chi" page="22a-22b" n="7">百般治療야 願得長生이니</sent>
+<sent type="main" lang="kor" page="22a-22b" n="7">百般으로 治療야 길게 살기 願니</sent><!--療^-->
+
+<sent type="main" lang="chi" page="22b" n="1">莫學蠢婦의 全不憂心이니라</sent>
+<sent type="main" lang="kor" page="22b" n="1">토미 계집의 젼혀  근심티 아니홈을 호디 말올니라</sent>
+<sent type="main" lang="chi" page="22b" n="2">夫若發怒ᅵ어든 不可生嗔이오</sent>
+<sent type="main" lang="kor" page="22b" n="2">지아비 만일 怒 發거든 可히 지람을 내디 몯 거시오</sent>
+<sent type="main" lang="chi" page="22b" n="3">退身相讓야 忍氣低聲이니</sent>
+<sent type="main" lang="kor" page="22b" n="3">몸을 므르 조차 서 양야 긔운을 므며 소 이 니</sent>
+<sent type="main" lang="chi" page="22b" n="4">莫學潑婦의 鬪鬧頻頻이니라</sent>
+<sent type="main" lang="kor" page="22b" n="4">패려 계집의 호고 들레기을 頻頻이 믈 호디 말올니라</sent>
+<sent type="main" lang="chi" page="22b" n="5">粗絲細葛을 熨帖縫紉야 莫敎寒冷으로 凍損夫身며</sent>
+<sent type="main" lang="kor" page="22b" n="5">굴근 실과  츩 뵈 달이고 호와 여금 寒冷으로 지아뷔 몸을 얼워 샹케 말며</sent>
+<sent type="main" lang="chi" page="22b-23a" n="6">家常茶飯으로 供待慇懃야 莫敎饑渴야 瘦瘠苦辛이니</sent>
+<sent type="main" lang="kor" page="22b-23a" n="6">집의  차와 밥으로 供待홈을 慇懃이 야 여곰 饑渴야 瘦瘠며 苦辛게 말올니</sent><!--차^와-->
+
+<sent type="main" lang="chi" page="23a" n="1">同甘同苦며 同富同貧며</sent>
+<sent type="main" lang="kor" page="23a" n="1">甘도 가지로 고 苦도 가지로 며 富도 가지로 고 貧도 가지로 며</sent>
+<sent type="main" lang="chi" page="23a" n="2">死同棺槨며 生共衣衾</sent>
+<sent type="main" lang="kor" page="23a" n="2">죽어셔 棺槨을 가지로 며 살아셔 衣衾을 가지로 </sent>
+<sent type="main" lang="chi" page="23a" n="3">能依此語면 和樂琴瑟이니</sent>
+<sent type="main" lang="kor" page="23a" n="3">能히 이 말을 의지면 琴瑟이 和樂리니</sent>
+<sent type="main" lang="chi" page="23a" n="4">如此之女 賢德이 聲聞리라</sent>
+<sent type="main" lang="kor" page="23a" n="4">이  계집은 어딘 덕이 소릐 들니리라</sent>
+
+<sent type="title" lang="chi" page="23b" n="1">訓男女章第八</sent>
+<sent type="anno" lang="kor" page="24b" n="1">男女ᅵ 어려실  안 居處 고로 母의 敎ᅵ 올옫니라</sent>
+<sent type="anno" lang="kor" page="24b" n="2">束脩  묵금 포육이니 스승의게 드리 폐이오</sent>
+<sent type="anno" lang="kor" page="24b-25a" n="3">酒脯 宴請 禮라</sent><!--請^-->
+
+<sent type="anno" lang="kor" page="25a" n="1">女子ᅵ 어디디 아니은 다 엄이 과히 랑야 노하 인 타시라</sent>
+<sent type="anno" lang="kor" page="25a" n="2">노하 嬌癡면 無故히 울며 셩내 버르시 일고</sent>
+<sent type="anno" lang="kor" page="25a" n="3">노하 跳梁면 싀어버이 輕侮 버르시 일고</sent>
+<sent type="anno" lang="kor" page="25a" n="4">노하 노래 들으며 곡됴 唱면 淫汙엣 이 나며</sent>
+<sent type="anno" lang="kor" page="25a" n="5">노하 한가이 行야 遊玩면 을 방히 야 邪僻 일을 行리니</sent>
+<sent type="anno" lang="kor" page="25a" n="6">미리 禁티 몯면 習性이 임의 일어 고티기 어려우리라</sent>
+<sent type="anno" lang="kor" page="25a" n="7">跳梁은 넘나게 방죵단 말이라 官府 官家 法度ᅵ라</sent>
+<sent type="main" lang="chi" page="25a" n="8">大抵人家의 皆有男女</sent>
+<sent type="main" lang="kor" page="25a" n="9">大抵 人家의 다 男女ᅵ 이실</sent>
+<sent type="main" lang="chi" page="25a-25b" n="10">年已長成애 敎之有序ᅵ나 訓誨之權이 實專於母ᅵ니라</sent>
+<sent type="main" lang="kor" page="25a-25b" n="10">나히 임의 長成매 치미 셰 이시나 訓誨 權이 실로 어믜게 오로디 읻이라</sent><!--로 ^ 어-->
+
+<sent type="main" lang="chi" page="25b" n="1">男入書堂야 請延師傅야 習學禮儀고</sent>
+<sent type="main" lang="kor" page="25b" n="1">男은 書堂의 드러가 師傅 請야 마자 禮儀 닉이 學고</sent>
+<sent type="main" lang="chi" page="25b" n="2">吟詩作賦며 尊敬師儒호 束脩酒脯고</sent>
+<sent type="main" lang="kor" page="25b" n="2">詩 읇프며 賦 지으며 師儒 尊敬호 束脩과 酒脯로 고</sent>
+<sent type="main" lang="chi" page="25b" n="3">女處閨門야 少 令出戶고</sent>
+<sent type="main" lang="kor" page="25b" n="3">女 閨門의 處야 여곰 지게에 나가미 젹게 고</sent>
+<sent type="main" lang="chi" page="25b" n="4">喚來便來며 喚去便去호</sent>
+<sent type="main" lang="kor" page="25b" n="4">블러 오면 문득 오며 블러 가면 문득 가되</sent>
+<sent type="main" lang="chi" page="25b" n="5">稍有不從이어든 當加叱怒ᅵ니라</sent>
+<sent type="main" lang="kor" page="25b" n="5">져기 졷디 아니미 읻거든 맏당이 叱怒홈을 더니라</sent>
+<sent type="main" lang="chi" page="25b-26a" n="6">朝暮訓誨야 各勤事務ᅵ니</sent>
+<sent type="main" lang="kor" page="25b-26a" n="6">朝暮에 訓誨야 各各 事務 부즈런케 니</sent><!--事^務-->
+
+<sent type="main" lang="chi" page="26a" n="1">掃地燒香며 紉麻緝苧고</sent>
+<sent type="main" lang="kor" page="26a" n="1">흘 고 香을 오며 삼을 븨고 모시 삼으며</sent>
+<sent type="main" lang="chi" page="26a" n="2">若在人前이어든 敎他禮數야</sent>
+<sent type="main" lang="kor" page="26a" n="2">만일 사의 알픠 읻거든 그 禮數 쳐</sent>
+<sent type="main" lang="chi" page="26a" n="3">遞獻茶湯고 從容退步ᅵ니라</sent>
+<sent type="main" lang="kor" page="26a" n="3">아 茶湯을 들이고 從容이 물러 걸을니라</sent>
+<sent type="main" lang="chi" page="26a" n="4">莫縱嬌癡니 恐他啼怒며 莫縱跳梁이니 恐他輕侮며</sent>
+<sent type="main" lang="kor" page="26a" n="4">노하 嬌癡케 말올니 그 啼怒가 두리며 노하 跳梁케 말올니 그 輕侮가 두리며</sent>
+<sent type="main" lang="chi" page="26a" n="5">莫縱歌詞ᅵ니 恐他淫汙며 莫縱遊行이니</sent>
+<sent type="main" lang="kor" page="26a" n="5">노하 歌詞게 말올니 그 淫汙가 두리며 노하 遊行게 말올니</sent>
+<sent type="main" lang="chi" page="26a-26b" n="6">恐他惡事ᅵ니라</sent>
+<sent type="main" lang="kor" page="26a-26b" n="6">그 惡事ᅵ 이실가 두릴니라</sent><!--니^라-->
+
+<sent type="main" lang="chi" page="26b" n="1">堪笑今人이 不能爲主야</sent>
+<sent type="main" lang="kor" page="26b" n="1">이긔여 우솝도소니 이제 사이 能히 主ᅵ 되디 몯야</sent>
+<sent type="main" lang="chi" page="26b" n="2">男不知書고 聽其弄齒야 鬪鬧貪杯며 謳歌習舞야</sent>
+<sent type="main" lang="kor" page="26b" n="2">男은 글을 아디 몯고 그 니 놀님을 들어 싸화 들네여 술잔을 貪며 노래 부로고 춤추기 니겨</sent>
+<sent type="main" lang="chi" page="26b" n="3">官府不憂고 家鄕不顧며</sent>
+<sent type="main" lang="kor" page="26b" n="3">官府 근심디 아니고 家鄕을 도라보디 아니며</sent>
+<sent type="main" lang="chi" page="26b" n="4">女不知禮고 强梁言語야</sent>
+<sent type="main" lang="kor" page="26b" n="4">女 禮 아디 몯고 言語 强梁히 야</sent>
+<sent type="main" lang="chi" page="26b" n="5">不識尊卑며 不能針指야</sent>
+<sent type="main" lang="kor" page="26b" n="5">尊卑 아디 몯며 針指 能히 몯야</sent>
+<sent type="main" lang="chi" page="26b" n="6">辱及尊親며 有玷父母ᅵ니</sent>
+<sent type="main" lang="kor" page="26b" n="6">辱이 尊親에 믿며 父母의게 玷미 이시리니</sent>
+
+<sent type="main" lang="chi" page="27a" n="1">如此之人은 養猪養鼠ᅵ니라</sent>
+<sent type="main" lang="kor" page="27a" n="1">이 사은 돋 치며 쥐 치 쟉시니라</sent>
+<sent type="title" lang="chi" page="27a" n="2">營家章第九</sent>
+
+<sent type="anno" lang="kor" page="28b" n="1">邋遢은 바로디 몯 거동이니</sent>
+<sent type="anno" lang="kor" page="28b" n="2">집 안희 잡거시 바로디 아니고 난잡히 노히단 말이라</sent>
+<sent type="anno" lang="kor" page="28b" n="3">棧은 큰 倉이오 囷은 젹근 倉이라</sent>
+<sent type="main" lang="chi" page="28b" n="4">營家之女 惟儉惟勤이니</sent>
+<sent type="main" lang="kor" page="28b" n="4">집을 경영 女 오직 儉며 오직 勤니</sent>
+<sent type="main" lang="chi" page="28b" n="5">勤則家起고 瀨則家傾며</sent>
+<sent type="main" lang="kor" page="28b" n="5">勤면 집이 니러나고 懶면 집이 기우러디며</sent>
+<sent type="main" lang="chi" page="28b" n="6">儉則家富고 奢則家貧니라</sent>
+<sent type="main" lang="kor" page="28b" n="6">儉면 집이 가음열고 奢면 집이 가난니라</sent>
+<sent type="main" lang="chi" page="28b-29a" n="7">凡爲女子애 不可因循이니</sent>
+<sent type="main" lang="kor" page="28b-29a" n="7">무릇 女子ᅵ 되오매 可히 因循티 말올니</sent><!--因^循-->
+
+<sent type="main" lang="chi" page="29a" n="1">一生之計 惟在於勤고 一年之計 惟在於春고</sent>
+<sent type="main" lang="kor" page="29a" n="1">一生의 계교 오직 부즈런의 읻고 一年의 계교 오직 봄의 읻고</sent>
+<sent type="main" lang="chi" page="29a" n="2">一日之計 惟在於寅니라</sent>
+<sent type="main" lang="kor" page="29a" n="2">一日의 계교 오직 寅시의 읻니라</sent>
+<sent type="main" lang="chi" page="29a" n="3">奉箕擁帚야 灑掃灰塵며</sent>
+<sent type="main" lang="kor" page="29a" n="3">키 받들며 뷔  와 틔글을 믈려 며</sent>
+<sent type="main" lang="chi" page="29a" n="4">撮祭邋遢야 潔靜幽淸면 眼前爽利고 家宅光明리니</sent>
+<sent type="main" lang="kor" page="29a" n="4">邋遢 거슬 모화 업시 야 潔靜고 幽淸케 면 눈 알피 爽利고 家宅이 光明리니</sent>
+<sent type="main" lang="chi" page="29a" n="5">莫敎穢汙야 有玷門庭이니라</sent>
+<sent type="main" lang="kor" page="29a" n="5">야곰 덜업게 야 門庭을 틔호미 읻게 말올디니라</sent>
+<sent type="main" lang="chi" page="29a-29b" n="6">耕田下種야 莫怨辛勤고</sent>
+<sent type="main" lang="kor" page="29a-29b" n="6">받 갈고  리와 辛勤믈 원망티 말고</sent><!--원^망-->
+
+<sent type="main" lang="chi" page="29b" n="1">炊羹造飯야 饋送頻頻이니</sent>
+<sent type="main" lang="kor" page="29b" n="1">국을 히며 밥을 지어 饋送기 頻頻이 디니</sent>
+<sent type="main" lang="chi" page="29b" n="2">莫敎遲慢야 有悞工程이니라</sent>
+<sent type="main" lang="kor" page="29b" n="2">여금 遲慢야 工程을 그륻되미 읻게 말올니라</sent>
+<sent type="main" lang="chi" page="29b" n="3">積糠聚屑야 喂養孶牲호</sent>
+<sent type="main" lang="kor" page="29b" n="3">겨 싸흐며 밥 모도와 삿기치고 라 즘을 喂養호</sent>
+<sent type="main" lang="chi" page="29b" n="4">呼歸防去며 儉點搜尋야</sent>
+<sent type="main" lang="kor" page="29b" n="4">불러 도라오고 노하 가며 간검야 뎜고고 뒤여 자</sent>
+<sent type="main" lang="chi" page="29b" n="5">莫敎失落야 擾亂四隣이니라</sent>
+<sent type="main" lang="kor" page="29b" n="5">여곰 일허려 네 을 擾亂게 말올니라</sent>
+<sent type="main" lang="chi" page="29b" n="6">夫有錢米어든 收拾經營며</sent>
+<sent type="main" lang="kor" page="29b" n="6">지아비 돈과 을 두얻거든 收拾야 經營며</sent>
+<sent type="main" lang="chi" page="29b-30a" n="7">夫有酒物이어든 存積留停야</sent>
+<sent type="main" lang="kor" page="29b-30a" n="7">지아비 술이나 아므 거시나 두얻거든 存積며 留停야</sent><!--두^얻-->
+
+<sent type="main" lang="chi" page="30a" n="1">迎賓待客이오 不可偸侵이니라</sent>
+<sent type="main" lang="kor" page="30a" n="1">賓을 마며 客을 졉 거시오 可히 도적며 침노디 아닐니라</sent>
+<sent type="main" lang="chi" page="30a" n="2">大富 由命이어니와 小富 由勤이니</sent>
+<sent type="main" lang="kor" page="30a" n="2">큰 가음은 命으로 말믜암거니와 져근 가음은 부즈런으로 말믜암니</sent>
+<sent type="main" lang="chi" page="30a" n="3">禾麻菽麥을 成棧成囷며</sent>
+<sent type="main" lang="kor" page="30a" n="3">벼와 삼과 콩과 보리 棧이 일고 囷이 일며</sent>
+<sent type="main" lang="chi" page="30a" n="4">油鹽椒豉 盎瓮粧盛며</sent>
+<sent type="main" lang="kor" page="30a" n="4">기름과 소곰과 호쵸와 몌조 항아리와 독에 려 담으며</sent>
+<sent type="main" lang="chi" page="30a" n="5">鷄豬鵝鴨을 成隊成羣며 四時八節애 免得營營야</sent>
+<sent type="main" lang="kor" page="30a" n="5">돋과 과 게유와 올히 隊 일고 무리 일면 四時八節의 시러곰 營營기 免야</sent>
+<sent type="main" lang="chi" page="30a-30b" n="6">酒漿食饌이 各有餘盈리니</sent>
+<sent type="main" lang="kor" page="30a-30b" n="6">酒漿과 食饌이 각각 남은  거시 이시리니</sent><!--漿^과-->
+
+<sent type="main" lang="chi" page="30b" n="1">夫婦ᅵ 享福야 懽笑欣欣리라</sent>
+<sent type="main" lang="kor" page="30b" n="1">夫婦ᅵ 福을 享야 懽笑ᅵ 欣欣리라</sent>
+<sent type="title" lang="chi" page="30b" n="2">待客章第十</sent>
+
+<sent type="anno" lang="kor" page="32a" n="1">點은 點注ᅵ니 을 그고 注단 말이라</sent>
+<sent type="anno" lang="kor" page="32a" n="2">紗厨 즉 금침댱이니 紗로 다 齊楚 졍졔닷 말이라</sent>
+<sent type="main" lang="chi" page="32a" n="3">大抵人家애 皆有賓主</sent>
+<sent type="main" lang="kor" page="32a" n="3">大抵 사의 집의 다 賓과 主ᅵ 이실</sent>
+<sent type="main" lang="chi" page="32a-32b" n="4">滾滌壺甁며 抹光槖子야 準備人來며</sent>
+<sent type="main" lang="kor" page="32a-32b" n="4">壺와 甁을 물에 나드려 씨스며 槖子 서 빋나게 야 사 오기 準備며</sent><!--오^기-->
+
+<sent type="main" lang="chi" page="32b" n="1">點湯遞水고 退立堂後야 聽夫言語니라</sent>
+<sent type="main" lang="kor" page="32b" n="1">湯을 點며 물을 고 물너와 堂後에 셔셔 지아븨 言語 들을니라</sent>
+<sent type="main" lang="chi" page="32b" n="2">細語商量야 殺鷄爲黍야 五味調和며</sent>
+<sent type="main" lang="kor" page="32b" n="2"> 말로 商量야 을 죽이며 밥을 지어 五味 調和며</sent>
+<sent type="main" lang="chi" page="32b" n="3">菜蔬ᅵ 齊楚고 茶酒ᅵ 淸香면 有光門戶리라</sent>
+<sent type="main" lang="kor" page="32b" n="3">菜蔬ᅵ 齊楚고 茶酒ᅵ 淸香케 면 門戶의 빋치 이시리라</sent>
+<sent type="main" lang="chi" page="32b" n="4">紅日이 含山야 晩留居住ᅵ어든</sent>
+<sent type="main" lang="kor" page="32b" n="4">블근 날이 뫼 먹금어 늗게야 머무러 이시려 거든</sent>
+<sent type="main" lang="chi" page="32b" n="5">點燭擎燈야 安排坐具호</sent>
+<sent type="main" lang="kor" page="32b" n="5">燭을 켜며 燈을 받들어 안즐 자리 安排호</sent>
+<sent type="main" lang="chi" page="32b-33a" n="6">枕席紗廚ᅵ며 鋪氈疊被야 欽敬相承호</sent>
+<sent type="main" lang="kor" page="32b-33a" n="6">枕席과 紗厨ᅵ며 담을 펴고 니블을 싸하 공경야 서르 받되</sent><!--며 ^ 담-->
+
+<sent type="main" lang="chi" page="33a" n="1">溫凉得趣케 고 次曉相看이니</sent>
+<sent type="main" lang="kor" page="33a" n="1">溫凉이 맏당홈을 얻게 고 읻튼날 새볘 서르 졉니</sent>
+<sent type="main" lang="chi" page="33a" n="2">客如辭去ᅵ어든 別酒殷勤야</sent>
+<sent type="main" lang="kor" page="33a" n="2">이 만일 하딕고 가거든 니별 술이 殷勤히 야</sent>
+<sent type="main" lang="chi" page="33a" n="3">十分留意면 夫喜能家고 客稱曉事리라</sent>
+<sent type="main" lang="kor" page="33a" n="3">十分 을 머무로면 지아비 能히 집 다리믈 긷거고 손이 일안다 일리라</sent>
+<sent type="main" lang="chi" page="33a" n="4">莫學他人의 不持家務ᅵ니 客來無湯야 荒忙失措며</sent>
+<sent type="main" lang="kor" page="33a" n="4">달은 사이 家務 다리디 아니을 호디 말올니 손이 오매 湯이 업서 荒忙히 거조 일흐며</sent>
+<sent type="main" lang="chi" page="33a-33b" n="5">夫若留人면 妻懷嗔怒야</sent>
+<sent type="main" lang="kor" page="33a-33b" n="5">지아비 만일 사을 머무로면 안해 짓고 怒믈 품어</sent><!--^짓-->
+
+<sent type="main" lang="chi" page="33b" n="1">有筋無匙며 有鹽無醋고 打男罵女며</sent>
+<sent type="main" lang="kor" page="33b" n="1">져 이시면 술이 업스며 소곰이 이시면 최 업고 아들을 티며 을 지즈며</sent>
+<sent type="main" lang="chi" page="33b" n="2">爭啜爭哺면 夫受慙惶고 客懷羞懼ᅵ니라</sent>
+<sent type="main" lang="kor" page="33b" n="2">마시기 토고 먹기 토면 지아비 慚惶을 받고 손은 羞懼을 품으리라</sent>
+<sent type="main" lang="chi" page="33b" n="3">有客到門호 無人在戶ᅵ어든 須遣家童야 問其來處ᅵ니</sent>
+<sent type="main" lang="kor" page="33b" n="3">손이 이셔 門에 니되 사이 집에 읻니 업거든 모롬즉이 家童을 보내여 그 온 곧을 물올니</sent>
+<sent type="main" lang="chi" page="33b" n="4">客若殷勤야 即通名字ᅵ어든 當見則見고 不見則避호</sent>
+<sent type="main" lang="kor" page="33b" n="4">손이 만일 殷勤야 곧 名字 通거든 맏당이 보암즉니 보고 아니 보리어든 피되</sent>
+<sent type="main" lang="chi" page="33b-34a" n="5">敬待茶湯야 莫缺禮數고</sent>
+<sent type="main" lang="kor" page="33b-34a" n="5">공경야 茶湯으로 졉야 禮數 이즈러디게 말고</sent><!--야 ^ 茶-->
+
+<sent type="main" lang="chi" page="34a" n="1">記其姓名며 詢其事務야 等得夫歸야 即當說訴ᅵ니</sent>
+<sent type="main" lang="kor" page="34a" n="1">그 姓名을 긔록며 그 事務 무러 지아비 도라오기 기려 곧 맛당이 說訴 홀니</sent>
+<sent type="main" lang="chi" page="34a" n="2">奉勸後人노니 切依規度ᅵ니라</sent>
+<sent type="main" lang="kor" page="34a" n="2">받들어 훋 사을 勸노니 切실이 規度 의지니라</sent>
+<sent type="title" lang="chi" page="34a" n="3">和柔章第十一</sent>
+
+<sent type="anno" lang="kor" page="35a" n="1"> 집의 잇 아희들을 친고 是非 의논며 長短을 토디 말올디니</sent>
+<sent type="anno" lang="kor" page="35a" n="2">비록 악 일이 이셔도 임의 至親에 읻디라</sent>
+<sent type="anno" lang="kor" page="35a" n="3">나의 不幸 니 얻지 가히 받긔 낫타내여 스로 그 家醜 낫타내리오</sent>
+<sent type="anno" lang="kor" page="35a" n="4">일즉이 嗔責을 닙어도 일즉이 아니 닙으니와 티란 말이라</sent>
+<sent type="main" lang="chi" page="35a" n="5">處家之法은 婦女ᅵ 須能以化爲貴며 孝順爲尊이니</sent>
+<sent type="main" lang="kor" page="35a" n="5">집에 處 法은 婦女ᅵ 모롬즉이 能히 和로 貴믈 삼으며 孝順으로 尊을 삼을니</sent>
+<sent type="main" lang="chi" page="35a-35b" n="6">翁姑ᅵ 嗔責이어시든 曾如不曾고</sent>
+<sent type="main" lang="kor" page="35a-35b" n="6">翁姑ᅵ 嗔責시거든 曾을 曾티 아니과 티고</sent><!--姑^ᅵ-->
+
+<sent type="main" lang="chi" page="35b" n="1">上房下戶의 子孫을 宜親이니 是非休習며 長短休爭라</sent>
+<sent type="main" lang="kor" page="35b" n="1">上房과 下戶의 子孫을 맏당이 親히 니 是非 닉이디 말며 長短을 토디 말올디라</sent>
+<sent type="main" lang="chi" page="35b" n="2">從來家醜 不可外聞이니라</sent>
+<sent type="main" lang="kor" page="35b" n="2">조차오매 家醜 可히 받긔 들리디 몯니라</sent>
+<sent type="main" lang="chi" page="35b" n="3">東鄰西舍에 禮數ᅵ 週全야 往來에 動問며</sent>
+<sent type="main" lang="kor" page="35b" n="3">東鄰과 西舍의 禮數 週全히 야 往來매 움즉여 물오며</sent>
+<sent type="main" lang="chi" page="35b" n="4">款曲盤旋야 一茶一水로 笑語ᅵ 欣然며</sent>
+<sent type="main" lang="kor" page="35b" n="4">款曲히 盤旋야  茶와  水로 笑語ᅵ 欣然야</sent>
+<sent type="main" lang="chi" page="35b-36a" n="5">當說則說고 當行則行며</sent>
+<sent type="main" lang="kor" page="35b-36a" n="5">맏당이 말염즉거든 말고 맏당이 行염즉 거든 行며</sent><!--말^-->
+
+<sent type="main" lang="chi" page="36a" n="1">閒是閒非 不入我門이니라</sent>
+<sent type="main" lang="kor" page="36a" n="1">부졀 업 是과 부졀 업 非 내 門에 들게 말올니라</sent>
+<sent type="main" lang="chi" page="36a" n="2">莫學愚婦의 不問根源고 穢言汚語로 觸突尊賢이니</sent>
+<sent type="main" lang="kor" page="36a" n="2">어린 계집의 根源도 묻디 아니고 穢言과 汚語로 尊賢을 觸突을 호디 말올니</sent>
+<sent type="main" lang="chi" page="36a" n="3">奉勸女子노니 量後思前이어다</sent>
+<sent type="main" lang="kor" page="36a" n="3">밧드러 女子들을 권노니 後 혜아리며 앏흘 각어다</sent>
+<sent type="title" lang="chi" page="36a" n="4">守節章第十二</sent>
+
+<sent type="anno" lang="kor" page="37b" n="1">九烈 三貞은 첫 편의 사겻니라</sent>
+<sent type="anno" lang="kor" page="37b" n="2">此篇 以下 全書 을 자 후 사을 경계이라</sent>
+<sent type="main" lang="chi" page="37b" n="3">古來賢婦ᅵ 九烈三貞으로 名標靑史야</sent>
+<sent type="main" lang="kor" page="37b" n="3">녜로 오매 어딘 계집이 九烈과 三貞으로 일홈이 풀은 긔예 標야</sent>
+<sent type="main" lang="chi" page="37b" n="4">傳到而今 後生이 宜學이니 亦匪難行이니라</sent>
+<sent type="main" lang="kor" page="37b" n="4">傳야 이제지 니 後生이 맛당이 홀니  키 어려운 거시 아니니라</sent>
+<sent type="main" lang="chi" page="37b" n="5">第一은 守節이오 第二 淸貞이니 有女在室애 莫出閨庭며</sent>
+<sent type="main" lang="kor" page="37b" n="5">第一은 節을 딕희기오 第二 淸貞이니 女ᅵ 이셔 室애 이시매 閨庭의 나디 말며</sent>
+<sent type="main" lang="chi" page="37b-38a" n="6">有客在戶ᅵ어든 莫露聲音이니</sent>
+<sent type="main" lang="kor" page="37b-38a" n="6">손이 이셔 戶에 잇거 聲音을 들어내디 말올니</sent><!--어^내-->
+
+<sent type="main" lang="chi" page="38a" n="1">不談私語며 不聽淫音고</sent>
+<sent type="main" lang="kor" page="38a" n="1"> 말을 니디 말며 음난 노 듯디 말고</sent>
+<sent type="main" lang="chi" page="38a" n="2">黃昏來往에 秉燭掌燈이니</sent>
+<sent type="main" lang="kor" page="38a" n="2">黃昏에 來往 제 燭을 잡으며 燈을 掌띠니</sent>
+<sent type="main" lang="chi" page="38a" n="3">暗中出入은 非女之經이라</sent>
+<sent type="main" lang="kor" page="38a" n="3">어두온 가온대 出入홈은 계집의 홈이 아니라</sent>
+<sent type="main" lang="chi" page="38a" n="4">一行有失면 百行無成이리라</sent>
+<sent type="main" lang="kor" page="38a" n="4"> 실이 일홈이 이시면  실이 일움이 업스리라</sent>
+<sent type="main" lang="chi" page="38a" n="5">夫妻ᅵ 結髮야 義重千金일 若有不幸야 中路先傾면</sent>
+<sent type="main" lang="kor" page="38a" n="5">夫妻ᅵ 머리 자 義千金의셔 重 만일 不幸홈이 이셔 中路의 몬져 기우러디면</sent>
+<sent type="main" lang="chi" page="38a-38b" n="6">三年重服고 守志堅心야 保家持業며</sent>
+<sent type="main" lang="kor" page="38a-38b" n="6">三年을 重服고 을 딕희며 을 굿게 야 집을 보젼고 業을 부디며</sent><!--야 ^ 집-->
+
+<sent type="main" lang="chi" page="38b" n="1">整頓墳塋며 殷勤訓後면 存沒光榮리라</sent>
+<sent type="main" lang="kor" page="38b" n="1">墳塋을 整頓며 殷勤이 後 訓면 存과 沒에 光榮리라</sent>
+<sent type="main" lang="chi" page="38b" n="2">此篇論語 內範儀刑이니 後人이 依此면 女德이 昭明리니</sent>
+<sent type="main" lang="kor" page="38b" n="2">이 篇 論語 內範의 儀刑이니 後人이 이 의지면 계집의 德이 昭明리니</sent>
+<sent type="main" lang="chi" page="38b" n="3">幼年切記야 不可朦朧이니라</sent>
+<sent type="main" lang="kor" page="38b" n="3">幼年의 졀졀히 긔록야 可히 朦朧히 말올니라</sent>
+<sent type="main" lang="chi" page="38b" n="4">若依此言면 享福無窮리라</sent>
+<sent type="main" lang="kor" page="38b" n="4">만일 이 말을 의지면 福享기 窮이 업리라</sent>
+<sent type="title" lang="chi" page="38b" n="5">宋若昭女論語終</sent><!--title: 제목, title: 편명, main: 본문, anno: 주, anno2: 해주-->
+</doc> 

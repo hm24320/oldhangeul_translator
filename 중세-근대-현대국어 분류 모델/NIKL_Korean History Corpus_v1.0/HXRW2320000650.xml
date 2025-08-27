@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title lang="kor">소학독본</title>
+<title lang="chi">小學讀本</title>
+<fullname> </fullname>
+<generalname> </generalname>
+<abbre> </abbre>
+<volume n=""/>
+<author>학부 편집국</author>
+<date>1895</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<author></author>
+<title lang="kor">한국개화기교과서총서 1, 국어편 1</title>
+<title lang="chi">韓國開化期敎科書叢書 1, 國語篇 1</title>
+<pubPlace>서울</pubPlace>
+<publisher>아세아문화사</publisher>
+<date>1977년</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>1997/8</date>
+<respStmt><resp>프로젝트 책임자</resp><name>홍윤표</name></respStmt>
+<item>21세기 세종계획 1차년도 말뭉치 구축</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1998/10</date>
+<respStmt><resp>프로젝트 책임자</resp><name>김흥규</name></respStmt>
+<item>파일 변환, 세종 21 프로젝트 헤더 붙임, 마킹</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/06/30</date>
+<respStmt>
+<resp>입력자</resp><name>이강혁</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정한데로</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="kor" page="1a" n="1">小學讀本</sent>
+<sent type="title2" lang="kor" page="1a" n="2">立志 第一</sent>
+<sent type="main" lang="kor" page="1a" n="3">古者에 男子ㅣ 生에 桑弧와 蓬矢로 天地와 四方을 射홈은</sent>
+<sent type="main" lang="kor" page="1a" n="4">男子의 立志가 上下와 四方의 有으로 이니라</sent>
+<sent type="main" lang="kor" page="1a" n="5">是故로 幼時에 學習은 愛親과 敬兄에 지남이 업고</sent>
+<sent type="main" lang="kor" page="1a" n="6">長後에 事業은 愛君과 爲國에 더이 업니라</sent>
+<sent type="main" lang="kor" page="1a" n="7">幼時에 孝心이 極면</sent>
+<sent type="main" lang="kor" page="1a" n="8">長後에 忠君치 아니 리 업쓰며</sent>
+<sent type="main" lang="kor" page="1a" n="9">在家에 慈情이 厚면</sent>
+<sent type="main" lang="kor" page="1a" n="10">立世에 愛民치 아니 리 업니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="1b" n="1">是故로 古聖이 曰</sent>
+<sent type="main" lang="kor" page="1b" n="2">孝란 者  親을 事 오</sent>
+<sent type="main" lang="kor" page="1b" n="3">悌란 者 써 長을 事 오</sent>
+<sent type="main" lang="kor" page="1b" n="4">慈란 者  衆을 使 라 시니라</sent>
+<sent type="main" lang="kor" page="1b" n="5">大凡 幼時에 學홈은 長後에 行기 爲이라</sent>
+<sent type="main" lang="kor" page="1b" n="6">歲月이 流듯 야</sent>
+<sent type="main" lang="kor" page="1b" n="7">長고 老 日이 遠치 안니니</sent>
+<sent type="main" lang="kor" page="1b" n="8">一生이 幼 줄 알지 말고</sent>
+<sent type="main" lang="kor" page="1b" n="9">勉强야 學을 勤히 어다</sent>
+<sent type="main" lang="kor" page="1b" n="10">孟文貞公이 [世宗朝 左相 名 思誠] 八歲에 入學야</sent>
+<sent type="main" lang="kor" page="1b" n="11">禹貢을 學다가 啓□□ 而泣予不子句에 至야</sent><!--입 '口'자에 외로울 '孤'자가 결합한 글자인데 자형을 찾을 수 없다-->
+<sent type="main" lang="kor" page="1b" n="12">問曰 禹 何如 人也 잇고</sent>
+<sent type="main" lang="kor" page="1b" n="13">答曰 古에 聖君이시니라</sent>
+<sent type="main" lang="kor" page="1b-2a" n="14">公이 曰 聖君 갓시면</sent><!--曰 ^ 聖君-->
+
+<sent type="main" lang="kor" page="2a" n="1">天下事ㅣ 卽 몸의 일이어를</sent>
+<sent type="main" lang="kor" page="2a" n="2">予不子 三字에 德色이 有 것 갓니</sent>
+<sent type="main" lang="kor" page="2a" n="3">禹 爲야 取치 안니노라 여쓰니</sent>
+<sent type="main" lang="kor" page="2a" n="4">公이 비록 禹의 本意와 書經 大義 詳解치 못여쓰나</sent>
+<sent type="main" lang="kor" page="2a" n="5">八歲 兒의 志趣가  奇偉치 안니냐</sent>
+<sent type="main" lang="kor" page="2a" n="6">男子ㅣ 天下에 生야</sent>
+<sent type="main" lang="kor" page="2a" n="7">天下로 自任치 못면</sent>
+<sent type="main" lang="kor" page="2a" n="8">엇지 男子라 稱하리오</sent>
+<sent type="main" lang="kor" page="2a" n="9">尤菴 宋 先生이 [孝宗朝 左相 時烈 諡文 名正] 門人을 戒여 曰</sent>
+<sent type="main" lang="kor" page="2a" n="10">丈夫ㅣ 能히 當世로 留念치 못면</sent>
+<sent type="main" lang="kor" page="2a" n="11">엇지 足히 더부러 學을 議리오 니</sent>
+<sent type="main" lang="kor" page="2a-2b" n="12">大凡人의 學홈이 君國을 爲인 쥴 此에 可히 볼로다</sent><!--爲^인-->
+
+<sent type="main" lang="kor" page="2b" n="1">月川 趙 先生이 [名 穆] 退溪 李 先生 [諡 文純 名 滉] 後學 敎 法을 問</sent>
+<sent type="main" lang="kor" page="2b" n="2">退溪 答曰 그 德을 先養니라</sent>
+<sent type="main" lang="kor" page="2b" n="3">月川이 曰 何謂也오</sent>
+<sent type="main" lang="kor" page="2b" n="4">退溪 曰 不養德이면 立地 不厚고</sent>
+<sent type="main" lang="kor" page="2b" n="5">立地 不厚면 萬物을 不可成이라 니</sent>
+<sent type="main" lang="kor" page="2b" n="6">大抵 蒙學時로부터 德義 養여야</sent>
+<sent type="main" lang="kor" page="2b" n="7">爲民成物 根基가 되니라</sent>
+<sent type="main" lang="kor" page="2b" n="8">是故로 方長 木을 折치 아니며</sent>
+<sent type="main" lang="kor" page="2b" n="9">啓蟄 蟲을 殺치 아니 거시</sent>
+<sent type="main" lang="kor" page="2b" n="10">다 幼孩時에 仁德을 養홈이니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="3a" n="1">德이란 者 盛福 器具ㅣ오</sent>
+<sent type="main" lang="kor" page="3a" n="2">聚民 基地니</sent>
+<sent type="main" lang="kor" page="3a" n="3">可히 培養치 아니랴</sent>
+<sent type="main" lang="kor" page="3a" n="4">愼獨齋 金 先生이 [諡 文敬 名集] 幼時에 殺生을 보지 못야</sent>
+<sent type="main" lang="kor" page="3a" n="5">衣服에 螬蝨을 잡아도</sent>
+<sent type="main" lang="kor" page="3a" n="6">外地에 버리고 주기지 아니니라</sent>
+<sent type="main" lang="kor" page="3a" n="7">人의 心志가 이러여사</sent>
+<sent type="main" lang="kor" page="3a" n="8">可히 君上을 佐며</sent>
+<sent type="main" lang="kor" page="3a" n="9">百姓을 濟지니라</sent>
+<sent type="main" lang="kor" page="3a" n="10">新堂 鄭 先生이 [名 鵬寒暄淵源] 十歲 前에 羣兒와 同學 셰 村內 書童들이 다 貧寒야</sent>
+<sent type="main" lang="kor" page="3a" n="11">齎糧을 못거</sent>
+<sent type="main" lang="kor" page="3a" n="12">先生이 父母 固請야</sent>
+<sent type="main" lang="kor" page="3a" n="13">數十 童을 다 饋餉야</sent>
+<sent type="main" lang="kor" page="3a-3b" n="14">飢飽 갓치여</sent><!--飢飽 ^ 갓치여-->
+
+<sent type="main" lang="kor" page="3b" n="1">曰 人의 學홈이 本是 爲國濟衆욤이라</sent>
+<sent type="main" lang="kor" page="3b" n="2"> 將찻 學을 向니</sent>
+<sent type="main" lang="kor" page="3b" n="3">엇지 同類의 飢寒을 救濟치 아니리요 니</sent>
+<sent type="main" lang="kor" page="3b" n="4">幼孩 時라도 處事와 心德이 老成의 畏 로다</sent>
+<sent type="main" lang="kor" page="3b" n="5">比컨 材木이 幼時에 곳게 길너야</sent>
+<sent type="main" lang="kor" page="3b" n="6">大 後 棟樑이 될 시오</sent>
+<sent type="main" lang="kor" page="3b" n="7">水泉이 根源을 말 어야</sent>
+<sent type="main" lang="kor" page="3b" n="8">達 後 江漢이 되나니</sent>
+<sent type="main" lang="kor" page="3b" n="9">샤람도 蒙養이 正야야</sent>
+<sent type="main" lang="kor" page="3b" n="10">長 後 大人이 되니라</sent>
+<sent type="main" lang="kor" page="3b" n="11">是以로 孔子ㅣ 曰</sent>
+<sent type="main" lang="kor" page="3b" n="12">蒙이 正으로 養홈이 聖功이라 시니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="4a" n="1">沙溪 金 先生이 [諡 文元 名 長生] 幼로부터 性行이 純篤야</sent>
+<sent type="main" lang="kor" page="4a" n="2">華麗을 思慕치 아니고</sent>
+<sent type="main" lang="kor" page="4a" n="3">實心으로 學을 求야</sent>
+<sent type="main" lang="kor" page="4a" n="4">맛참 國內에 儒宗이 되니라</sent>
+<sent type="main" lang="kor" page="4a" n="5">일즉 定山 縣監이 되야쓸 에</sent>
+<sent type="main" lang="kor" page="4a" n="6">倭人이 入寇거</sent>
+<sent type="main" lang="kor" page="4a" n="7">先生이 百姓을 撫綏야</sent>
+<sent type="main" lang="kor" page="4a" n="8">各各 便宜을 엇게 며</sent>
+<sent type="main" lang="kor" page="4a" n="9">近境 士大夫의 집이 마니 避亂야 오거</sent>
+<sent type="main" lang="kor" page="4a" n="10">先生이  盡心周恤니</sent>
+<sent type="main" lang="kor" page="4a" n="11">百姓이 다 亂離의 苦 恩고</sent>
+<sent type="main" lang="kor" page="4a" n="12">從歸 者ㅣ 市人 갓타스니</sent>
+<sent type="main" lang="kor" page="4a" n="13">幼學時에 立志가 篤實치 못여쓰면</sent>
+<sent type="main" lang="kor" page="4a" n="14">功效가 엇지 이러리오</sent>
+<sent type="main" lang="kor" page="4a-4b" n="15">後進 幼學들아 우리 大君主 陛下 계셔</sent><!--우리 ^ 大君主-->
+
+<sent type="main" lang="kor" page="4b" n="1">峻德을 克明샤 詔飭이 屢降시니</sent>
+<sent type="main" lang="kor" page="4b" n="2">詩에 이론바 周雖舊邦이나 其命 維新 라</sent>
+<sent type="main" lang="kor" page="4b" n="3">우리도 聖意 效慕야</sent>
+<sent type="main" lang="kor" page="4b" n="4">學習을 힘쓰며</sent>
+<sent type="main" lang="kor" page="4b" n="5">忠孝 일사마</sent>
+<sent type="main" lang="kor" page="4b" n="6">國家와 가지 萬歲太平기 拜祝노라</sent>
+<sent type="title2" lang="kor" page="4b" n="7">勤誠 第二</sent>
+<sent type="main" lang="kor" page="4b" n="8">勤誠 二字가 쉽고도 어려우니</sent>
+<sent type="main" lang="kor" page="4b" n="9">初學 샤람들은 勉之勉之지어다</sent>
+<sent type="main" lang="kor" page="4b" n="10">寒岡 鄭 先生이 [諡 文穆 名 逑] 七歲에 入學</sent>
+<sent type="main" lang="kor" page="4b" n="11">山房에 獨上야</sent>
+<sent type="main" lang="kor" page="4b" n="12">四十日을 不寢고</sent>
+<sent type="main" lang="kor" page="4b" n="13">勤勤이 求學야</sent>
+<sent type="main" lang="kor" page="4b-5a" n="14">一年에 文章이 成엿스니</sent><!--一年^에-->
+
+<sent type="main" lang="kor" page="5a" n="1">샤람이 誠勤면</sent>
+<sent type="main" lang="kor" page="5a" n="2">天下에 難事ㅣ 업니라</sent>
+<sent type="main" lang="kor" page="5a" n="3">是故로 子思子ㅣ 曰</sent>
+<sent type="main" lang="kor" page="5a" n="4">人이 번에 能거든</sent>
+<sent type="main" lang="kor" page="5a" n="5">我 百 番을 고</sent>
+<sent type="main" lang="kor" page="5a" n="6">人이 열 번에 能거든</sent>
+<sent type="main" lang="kor" page="5a" n="7">我 千 番을 니</sent>
+<sent type="main" lang="kor" page="5a" n="8">진실노 能히 이러면</sent>
+<sent type="main" lang="kor" page="5a" n="9">비록 愚나 반다시 明며</sent>
+<sent type="main" lang="kor" page="5a" n="10">비록 柔나 반다시 剛니라</sent>
+<sent type="main" lang="kor" page="5a" n="11">天命이 別노 잇스미 아니라</sent>
+<sent type="main" lang="kor" page="5a" n="12">人의 誠에 잇스며</sent>
+<sent type="main" lang="kor" page="5a" n="13">運數가 別노 잇스미 아니라</sent>
+<sent type="main" lang="kor" page="5a" n="14">人의 勤에 잇니라</sent>
+<sent type="main" lang="kor" page="5a" n="15">孔子ㅣ 曰 天이 物을 生</sent>
+<sent type="main" lang="kor" page="5a" n="16">반다시 그 材 因야 篤지라</sent>
+<sent type="main" lang="kor" page="5a" n="17">是故로 栽 者 培고</sent>
+<sent type="main" lang="kor" page="5a-5b" n="18">傾 者 覆니라</sent><!--者^-->
+
+<sent type="main" lang="kor" page="5b" n="1">福祿을 天이 降심이 아니라</sent>
+<sent type="main" lang="kor" page="5b" n="2">卽人이 造 거시니라</sent>
+<sent type="main" lang="kor" page="5b" n="3">是故로 孟子ㅣ 曰</sent>
+<sent type="main" lang="kor" page="5b" n="4">命을 知 者</sent>
+<sent type="main" lang="kor" page="5b" n="5">巖墻下의 立지 아니다 니</sent>
+<sent type="main" lang="kor" page="5b" n="6">死生이 비록 命이나 不立은 人事ㅣ니라</sent>
+<sent type="main" lang="kor" page="5b" n="7">栗谷 李 先生이 [諡 文成 名 珥] 曰 人이 心은 盡 處에</sent>
+<sent type="main" lang="kor" page="5b" n="8">自然이 前識 明見이 잇다 니</sent>
+<sent type="main" lang="kor" page="5b" n="9">무릇 誠이란 者 心鏡을 修 라</sent>
+<sent type="main" lang="kor" page="5b" n="10">心鏡이 一修면</sent>
+<sent type="main" lang="kor" page="5b" n="11">百事에 難이 업슬니</sent>
+<sent type="main" lang="kor" page="5b" n="12">만일 事 做코져 진</sent>
+<sent type="main" lang="kor" page="5b-6a" n="13">반다시 誠으로써 니라</sent><!--誠으^로써-->
+
+<sent type="main" lang="kor" page="6a" n="1">送菴 權 先生이 [諡 文純 名 尙夏] 曰 世人의 事 做 者ㅣ 多나</sent>
+<sent type="main" lang="kor" page="6a" n="2">一枝라도 能 者 少니</sent>
+<sent type="main" lang="kor" page="6a" n="3">그 병이 誠치 못 中에 出다 니</sent>
+<sent type="main" lang="kor" page="6a" n="4">하말며 今世에 萬國이 相交야</sent>
+<sent type="main" lang="kor" page="6a" n="5">男子의 事業이 百倍나 더니</sent>
+<sent type="main" lang="kor" page="6a" n="6">무릇 天下와 國家 爲 君子들은</sent>
+<sent type="main" lang="kor" page="6a" n="7">맛당이 萬分 着念지니라</sent>
+<sent type="main" lang="kor" page="6a" n="8">孔子ㅣ 曰 文武의 政이 方策에 布在니</sent>
+<sent type="main" lang="kor" page="6a" n="9">其 人이 存면</sent>
+<sent type="main" lang="kor" page="6a" n="10">其 政이 擧고</sent>
+<sent type="main" lang="kor" page="6a" n="11">其 人이 亡면</sent>
+<sent type="main" lang="kor" page="6a" n="12">其 政이 息이라 시니</sent>
+<sent type="main" lang="kor" page="6a" n="13">其 人이란 者 可用 人을 이르미시니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="6b" n="1">是故로 人이 天下事 做</sent>
+<sent type="main" lang="kor" page="6b" n="2">반다시 可用人을 지을니라</sent>
+<sent type="main" lang="kor" page="6b" n="3">工夫 做 時에</sent>
+<sent type="main" lang="kor" page="6b" n="4">誠을 지 아니면</sent>
+<sent type="main" lang="kor" page="6b" n="5">한갓 工夫가 不成  아니라</sent>
+<sent type="main" lang="kor" page="6b" n="6">自家人品이 半塗의 落下니</sent>
+<sent type="main" lang="kor" page="6b" n="7">是故로 君子 誠을 貴히 너기니라</sent>
+<sent type="main" lang="kor" page="6b" n="8">誠이란 者 事爲 當 後에 用 바ㅣ나</sent>
+<sent type="main" lang="kor" page="6b" n="9">그러나 本源인 則 工心에 잇스니</sent>
+<sent type="main" lang="kor" page="6b" n="10">是故로 君子 그 心을 篤實이 니라</sent>
+<sent type="title2" lang="kor" page="6b" n="11">務實 第三</sent>
+<sent type="main" lang="kor" page="6b" n="12">天下에 事와 物이 虛實이 잇스니</sent>
+<sent type="main" lang="kor" page="6b" n="13">虛 거슨 廢고</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="7a" n="1">實 것만 務미 이론바 務實이니라</sent>
+<sent type="main" lang="kor" page="7a" n="2">是故로 古昔 聖賢의 行홈은 實치 아니미 업더니</sent>
+<sent type="main" lang="kor" page="7a" n="3">中古에 科擧 法이 行으로부터 士習이 漸漸 垂亂야</sent>
+<sent type="main" lang="kor" page="7a" n="4">請囑이 浪籍고</sent>
+<sent type="main" lang="kor" page="7a" n="5">賄賂가 盛行지라</sent>
+<sent type="main" lang="kor" page="7a" n="6">後生 少年들이 實地 務치 아니고</sent>
+<sent type="main" lang="kor" page="7a" n="7">或 優遊로 日을 度고</sent>
+<sent type="main" lang="kor" page="7a" n="8">雜技로 月을 送다가</sent>
+<sent type="main" lang="kor" page="7a" n="9">不幾에 老且衰면 窮途의 悲歎니</sent>
+<sent type="main" lang="kor" page="7a" n="10"> 可憐치 아니냐</sent>
+<sent type="main" lang="kor" page="7a" n="11">寒暄堂 金 先生이 [諡 文敬 名 宏弼] 幼時로부터 戲言이 업더니</sent>
+<sent type="main" lang="kor" page="7a" n="12">일즉 言牌 지여</sent>
+<sent type="main" lang="kor" page="7a" n="13">後人을 戒여 曰</sent>
+<sent type="main" lang="kor" page="7a" n="14">言이 實하면</sent>
+<sent type="main" lang="kor" page="7a" n="15">朋友ㅣ 스스로 이르고</sent>
+<sent type="main" lang="kor" page="7a" n="16">行이 實면</sent>
+<sent type="main" lang="kor" page="7a-7b" n="17">福祿이 스스로 이른다 니라</sent><!--스스로 ^ 이른다-->
+
+<sent type="main" lang="kor" page="7b" n="1">禽獸와 蜫蟲도 다 實事로 做야 爲身謨生니</sent>
+<sent type="main" lang="kor" page="7b" n="2">蜂이 그 房을 護고</sent>
+<sent type="main" lang="kor" page="7b" n="3">蜣이 그 糟 轉은</sent>
+<sent type="main" lang="kor" page="7b" n="4">다 그 自養을 爲미오</sent>
+<sent type="main" lang="kor" page="7b" n="5">鷄가 그 距로써 鬪고</sent>
+<sent type="main" lang="kor" page="7b" n="6">鷙가 그 翮으로 搏은</sent>
+<sent type="main" lang="kor" page="7b" n="7">다 그 自防을 爲미라</sent>
+<sent type="main" lang="kor" page="7b" n="8">말며 사람으로 物만 갓지 못랴</sent>
+<sent type="main" lang="kor" page="7b" n="9">是故으로 人의 當務ㅣ 다 利用을 爲미라</sent>
+<sent type="main" lang="kor" page="7b" n="10">書 務기 往迹 알기 위이오</sent>
+<sent type="main" lang="kor" page="7b" n="11">農을 務기 飢餒 免키 爲이오</sent>
+<sent type="main" lang="kor" page="7b" n="12">織을 務 衣裳을 裁며</sent>
+<sent type="main" lang="kor" page="7b" n="13">匠을 務 宮室을 成며</sent>
+<sent type="main" lang="kor" page="7b" n="14">商으로 財貨 通며</sent>
+<sent type="main" lang="kor" page="7b-8a" n="15">工으로써 器用을 備야</sent><!--工으^로써-->
+
+<sent type="main" lang="kor" page="8a" n="1">千萬 件 事爲가 다 쓰기 爲미니</sent>
+<sent type="main" lang="kor" page="8a" n="2">만일 無故이 優游야</sent>
+<sent type="main" lang="kor" page="8a" n="3">博変을 일사무며</sent>
+<sent type="main" lang="kor" page="8a" n="4">諧謔을 조히 너겨</sent>
+<sent type="main" lang="kor" page="8a" n="5">幼少時 好光陰을 하욤업시 다 보면</sent>
+<sent type="main" lang="kor" page="8a" n="6">爲先은 편커니와</sent>
+<sent type="main" lang="kor" page="8a" n="7">末梢 百事가 不成 後에</sent>
+<sent type="main" lang="kor" page="8a" n="8">父母 兄弟 妻子들이 飢寒 中에 困苦면</sent>
+<sent type="main" lang="kor" page="8a" n="9">엇지 後悔치 아니랴</sent>
+<sent type="main" lang="kor" page="8a" n="10">宋肅靖公이 [中宗朝 首相 名 일] 幼少로부터 芬華 尙치 아니고</sent>
+<sent type="main" lang="kor" page="8a" n="11">少時에 擧業을 務다가</sent>
+<sent type="main" lang="kor" page="8a" n="12">一朝에 翻然이 棄擲 曰</sent>
+<sent type="main" lang="kor" page="8a" n="13">비록 잘여도 國家에 有助이 업쓸 工夫ㅣ라</sent>
+<sent type="main" lang="kor" page="8a" n="14">엇지 조흔 光陰을 虛地에 送리오 고</sent>
+<sent type="main" lang="kor" page="8a-8b" n="15">綱目과 史記 閱覽야</sent><!--綱目과 ^ 史記-->
+
+<sent type="main" lang="kor" page="8b" n="1">古今에 治亂과 得失을 살피며</sent>
+<sent type="main" lang="kor" page="8b" n="2">當世에 經濟 道理 思諒야</sent>
+<sent type="main" lang="kor" page="8b" n="3">中宗 靖社신 後에 匡濟 事業이 多지라</sent>
+<sent type="main" lang="kor" page="8b" n="4">因여 靖國 功臣을 封고</sent>
+<sent type="main" lang="kor" page="8b" n="5">官이 首相에 至니라</sent>
+<sent type="main" lang="kor" page="8b" n="6">七十 後에 東城 外에 別業을 築고</sent>
+<sent type="main" lang="kor" page="8b" n="7">世事 相關치 아니나</sent>
+<sent type="main" lang="kor" page="8b" n="8">君을 愛고</sent>
+<sent type="main" lang="kor" page="8b" n="9">國을 憂 에</sent>
+<sent type="main" lang="kor" page="8b" n="10">오히려 衰치 아니야</sent>
+<sent type="main" lang="kor" page="8b" n="11">屢次 疎剳 上니라</sent>
+<sent type="main" lang="kor" page="8b" n="12">是故으로 孔子ㅣ 曰</sent>
+<sent type="main" lang="kor" page="8b" n="13">大德 者 그 位 必得며</sent>
+<sent type="main" lang="kor" page="8b" n="14">그 祿을 必得며</sent>
+<sent type="main" lang="kor" page="8b" n="15">그 名을 必得며</sent>
+<sent type="main" lang="kor" page="8b" n="16">그 壽 必得다 시니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="9a" n="1">百不庵 崔 先生이 [正宗朝 參奉 不仕 名] 大邱 扶仁洞에 室을 築하고</sent>
+<sent type="main" lang="kor" page="9a" n="2">弟子 모와 學을 講며</sent>
+<sent type="main" lang="kor" page="9a" n="3">洞裏 百姓을 勸야</sent>
+<sent type="main" lang="kor" page="9a" n="4">각각 業을 修케 호</sent>
+<sent type="main" lang="kor" page="9a" n="5">士農工商에 所長로 習야</sent>
+<sent type="main" lang="kor" page="9a" n="6">一民도 游食 사람이 업게 니</sent>
+<sent type="main" lang="kor" page="9a" n="7">居 지 十餘年에 百姓이 다 化야</sent>
+<sent type="main" lang="kor" page="9a" n="8">百里 境內에 道에 拾遺치 아니고</sent>
+<sent type="main" lang="kor" page="9a" n="9">山行 夜宿에 盜賊을 不識지라</sent>
+<sent type="main" lang="kor" page="9a" n="10">自 上으로 畵師 送사</sent>
+<sent type="main" lang="kor" page="9a" n="11">扶仁洞을 繪面에 보시고</sent>
+<sent type="main" lang="kor" page="9a" n="12">벼슬을 除신</sent>
+<sent type="main" lang="kor" page="9a" n="13">時에 公이 年過 七旬이라 上疏 辭遞니 惜乎ㅣ라</sent>
+<sent type="main" lang="kor" page="9a" n="14">際遇가 느즈미여</sent>
+<sent type="main" lang="kor" page="9a" n="15">由是로 觀건</sent>
+<sent type="main" lang="kor" page="9a-9b" n="16">갓 一洞  니라 天下와 國家라도</sent><!--國家^라도-->
+
+<sent type="main" lang="kor" page="9b" n="1">百姓으로 여금 각각 그 才 因하여</sent>
+<sent type="main" lang="kor" page="9b" n="2">業을 修케 면</sent>
+<sent type="main" lang="kor" page="9b" n="3">어느 이 扶仁洞이 아니리오</sent>
+<sent type="main" lang="kor" page="9b" n="4">是故으로 君子ㅣ 心을 君國에 두 者</sent>
+<sent type="main" lang="kor" page="9b" n="5">반다시 實을 務行하고 虛僞 消去니라</sent>
+<sent type="main" lang="kor" page="9b" n="6">孔子ㅣ 曰 精義가 入神기</sent>
+<sent type="main" lang="kor" page="9b" n="7">致用으로 以이라 시니</sent>
+<sent type="main" lang="kor" page="9b" n="8">大抵 精義가 極盡여</sent>
+<sent type="main" lang="kor" page="9b" n="9">可히 事 造야</sent>
+<sent type="main" lang="kor" page="9b" n="10">世에 用이 잇스리라</sent>
+<sent type="main" lang="kor" page="9b" n="11">精이란 자 自己 上에 잇 거시오</sent>
+<sent type="main" lang="kor" page="9b" n="12">義란 者 事物 上에 잇 거시니</sent>
+<sent type="main" lang="kor" page="9b" n="13">自己의 精을 極盡이 면</sent>
+<sent type="main" lang="kor" page="9b" n="14">行치 못 事爲가 업슬 시오</sent>
+<sent type="main" lang="kor" page="9b" n="15">事物의 義 正齊히 면</sent>
+<sent type="main" lang="kor" page="9b-10a" n="16">信치 아니 사람이 업슬 거시니</sent><!--信^치-->
+
+<sent type="main" lang="kor" page="10a" n="1">自然이 天下 事爲가 擔着될 거시오</sent>
+<sent type="main" lang="kor" page="10a" n="2">自然이 天下 人物이 均平리라</sent>
+<sent type="main" lang="kor" page="10a" n="3">牛溪成先生이 [諡 文簡 名 渾] 精義 上에 用工을 깁히 사</sent>
+<sent type="main" lang="kor" page="10a" n="4">平生에 責人이 업더니</sent>
+<sent type="main" lang="kor" page="10a" n="5">一日에 門生이 怨人 者ㅣ 잇거</sent>
+<sent type="main" lang="kor" page="10a" n="6">先生이 曰 我ㅣ 果然 洪爐와 大冶가 될진</sent>
+<sent type="main" lang="kor" page="10a" n="7">엇지 頑金鈍鐵의 鋾鎔치 아니을 患며</sent>
+<sent type="main" lang="kor" page="10a" n="8">我ㅣ 果然 巨海와 長江이 될진</sent>
+<sent type="main" lang="kor" page="10a" n="9">엇지 細流 汚瀆의 容納지 못을 患리오</sent>
+<sent type="main" lang="kor" page="10a" n="10">君子의 道 다만  몸의 反求니라</sent>
+<sent type="main" lang="kor" page="10a" n="11">是故으로 孔子ㅣ 曰</sent>
+<sent type="main" lang="kor" page="10a" n="12">射ㅣ 君子와 似홈이 잇쓰니</sent>
+<sent type="main" lang="kor" page="10a-10b" n="13">正鵠에 失고</sent><!--正鵠^에-->
+
+<sent type="main" lang="kor" page="10b" n="1">곳 그 身에 反求다 시니라</sent>
+<sent type="main" lang="kor" page="10b" n="2">同春 宋 先生이 [諡 文正 名 浚吉] 曰 人休憂樂 因라 得失이 摠由吾ㅣ라 니</sent>
+<sent type="main" lang="kor" page="10b" n="3">大抵 得도 自取오</sent>
+<sent type="main" lang="kor" page="10b" n="4">失도 自取니라</sent>
+<sent type="main" lang="kor" page="10b" n="5">他國人은 다 自家의 事務 自家의 料量으로 行야</sent>
+<sent type="main" lang="kor" page="10b" n="6">成業이 되거</sent>
+<sent type="main" lang="kor" page="10b" n="7">我國人은 主心이 업셔</sent>
+<sent type="main" lang="kor" page="10b" n="8">他國 物色을 보던지</sent>
+<sent type="main" lang="kor" page="10b" n="9">他國 言辭 드르면</sent>
+<sent type="main" lang="kor" page="10b" n="10">我心을 自守치 못야</sent>
+<sent type="main" lang="kor" page="10b" n="11">後日 料量은 업시 新聞 新見만 崇尙다가</sent>
+<sent type="main" lang="kor" page="10b" n="12">畢竟은 成就 者ㅣ 드무니</sent>
+<sent type="main" lang="kor" page="10b" n="13">엇지 憤恨치 아니리오</sent>
+<sent type="main" lang="kor" page="10b" n="14">是故로 孟子ㅣ 曰</sent>
+<sent type="main" lang="kor" page="10b-11a" n="15">一家 一國 天下ㅣ 皆曰 可用 可殺이라도</sent><!--可殺^이라도-->
+
+<sent type="main" lang="kor" page="11a" n="1">가 察야 可用함과 可殺함을 본 然後에 行라 시니</sent>
+<sent type="main" lang="kor" page="11a" n="2">무릇 自主 見得을 貴히 너기시미니라</sent>
+<sent type="main" lang="kor" page="11a" n="3">梧里 李 先生이 [諡 文忠 名 元翼] 曰 記聞 學은 事理가 通曉치 못니</sent>
+<sent type="main" lang="kor" page="11a" n="4">今世에 精明 見得이</sent>
+<sent type="main" lang="kor" page="11a" n="5">趙穆 [月川] 갓 者ㅣ 드물다 니</sent>
+<sent type="main" lang="kor" page="11a" n="6">大凡士의 學은 透理야</sent>
+<sent type="main" lang="kor" page="11a" n="7">自得홈이 貴니라</sent>
+<sent type="main" lang="kor" page="11a" n="8">鶴蜂 金 先生이 [名 誠一 壬辰 勳臣] 子 戒여 曰</sent>
+<sent type="main" lang="kor" page="11a" n="9">남의 父ㅣ 되여</sent>
+<sent type="main" lang="kor" page="11a" n="10">望子 情이 엇지 大치 아니리오</sent>
+<sent type="main" lang="kor" page="11a" n="11">마 不幸이 汝輩 才禀이 卑下야</sent>
+<sent type="main" lang="kor" page="11a-11b" n="12">大事業은 希望치 못지라</sent><!--못^지라-->
+
+<sent type="main" lang="kor" page="11b" n="1">다만 所望이 事物을 當거든</sent>
+<sent type="main" lang="kor" page="11b" n="2">客氣 除去고</sent>
+<sent type="main" lang="kor" page="11b" n="3">本心으로 商確야</sent>
+<sent type="main" lang="kor" page="11b" n="4">吉凶과 利害 揀擇야</sent>
+<sent type="main" lang="kor" page="11b" n="5">吉을 取고</sent>
+<sent type="main" lang="kor" page="11b" n="6">凶을 避며</sent>
+<sent type="main" lang="kor" page="11b" n="7">利 取고</sent>
+<sent type="main" lang="kor" page="11b" n="8">害 避면</sent>
+<sent type="main" lang="kor" page="11b" n="9">父된 者ㅣ  거의 寬心리라</sent>
+<sent type="main" lang="kor" page="11b" n="10">世人이 뉘가 禍 樂고 凶을 取리오</sent>
+<sent type="main" lang="kor" page="11b" n="11">마는 後生이 愚蒙야</sent>
+<sent type="main" lang="kor" page="11b" n="12">目下 慾心과 當頭 愛情으로 種種 凶禍에 階溺니</sent>
+<sent type="main" lang="kor" page="11b" n="13">엇지 可惜지 아니랴</sent>
+<sent type="title2" lang="kor" page="11b" n="14">修德 第四</sent>
+<sent type="main" lang="kor" page="11b" n="15">道義로 性을 涵養야</sent>
+<sent type="main" lang="kor" page="11b" n="16">仁愛가 心에 洽足면</sent>
+<sent type="main" lang="kor" page="11b" n="17">德氣가 自然이 現外니</sent>
+<sent type="main" lang="kor" page="11b" n="18">德이 能히 現면</sent>
+<sent type="main" lang="kor" page="11b-12a" n="19">上으로 君을 事며</sent><!--君^을-->
+
+<sent type="main" lang="kor" page="12a" n="1">下로 民을 治홈</sent>
+<sent type="main" lang="kor" page="12a" n="2">自然이 敎化ㅣ 成니라</sent>
+<sent type="main" lang="kor" page="12a" n="3">萬一 德을 修치 못고</sent>
+<sent type="main" lang="kor" page="12a" n="4">巧僞로 事 濟면</sent>
+<sent type="main" lang="kor" page="12a" n="5">化치 못  아니라</sent>
+<sent type="main" lang="kor" page="12a" n="6">獘가 百端으로 生야</sent>
+<sent type="main" lang="kor" page="12a" n="7">반다시 顚覆에 至니라</sent>
+<sent type="main" lang="kor" page="12a" n="8">靜庵 趙先生이 [諡 文正 名 光祖] 旦點 不忍한 心端이</sent>
+<sent type="main" lang="kor" page="12a" n="9">是ㅣ 生民生物 根本이오</sent>
+<sent type="main" lang="kor" page="12a" n="10">一種 無吝한 氣槩가 是ㅣ 撑天撑地 柱石이라 니</sent>
+<sent type="main" lang="kor" page="12a" n="11">故로 君子ㅣ 一蟲과 一蟻라도 忍야</sent>
+<sent type="main" lang="kor" page="12a" n="12">傷殘치 아니며</sent>
+<sent type="main" lang="kor" page="12a" n="13">千金과 萬財라도 吝야 愛惜지 아니니</sent>
+<sent type="main" lang="kor" page="12a-12b" n="14">然後에야 可히 民物을 爲야 命을 立며</sent><!--民物을 ^ 爲야-->
+
+<sent type="main" lang="kor" page="12b" n="1">天地 爲야 功을 立니라</sent>
+<sent type="main" lang="kor" page="12b" n="2">業을 成하고 功을 建진</sent>
+<sent type="main" lang="kor" page="12b" n="3">事事이 實地 從야 脚을 着지니</sent>
+<sent type="main" lang="kor" page="12b" n="4">萬一 半點이라도 名譽 慕면</sent>
+<sent type="main" lang="kor" page="12b" n="5">문듯 僞科에 歸 거시오</sent>
+<sent type="main" lang="kor" page="12b" n="6">道 講고 德을 修진</sent>
+<sent type="main" lang="kor" page="12b" n="7">念念이 虛處 從야 心을 치지니</sent>
+<sent type="main" lang="kor" page="12b" n="8">萬一 一分이라도 功效 計면</sent>
+<sent type="main" lang="kor" page="12b" n="9">문듯 塵情에 落리라</sent>
+<sent type="main" lang="kor" page="12b" n="10">象村 申 先生이 [諡 文貞 名 欽] 曰 人이 그 德을 厚히 진</sent>
+<sent type="main" lang="kor" page="12b" n="11">차라리 黙지언졍 躁지 말며</sent>
+<sent type="main" lang="kor" page="12b" n="12">차라리 拙지언졍 巧지 말 니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="13a" n="1">十語에 九中이 반다시 奇라 稱 거시 아니라</sent>
+<sent type="main" lang="kor" page="13a" n="2">一語가 中치 못 則 愆尤가 集고</sent>
+<sent type="main" lang="kor" page="13a" n="3">十謀에 九成이 반다시 功에 歸 거시 아니라</sent>
+<sent type="main" lang="kor" page="13a" n="4">一謀가 成치 못면 訾議가 興니라</sent>
+<sent type="main" lang="kor" page="13a" n="5">大凡 天地도 氣候가 暖 則 物이 生고</sent>
+<sent type="main" lang="kor" page="13a" n="6">寒 則 物이 殺니</sent>
+<sent type="main" lang="kor" page="13a" n="7">그런故로 氣味가 淸冷 者</sent>
+<sent type="main" lang="kor" page="13a" n="8">受亨   凉薄고</sent>
+<sent type="main" lang="kor" page="13a" n="9">氣가 和며</sent>
+<sent type="main" lang="kor" page="13a" n="10">心이 暖 者ㅣ야 오직 그 福이 厚고</sent>
+<sent type="main" lang="kor" page="13a" n="11">그 澤이 長니라</sent>
+<sent type="main" lang="kor" page="13a" n="12">人이 萬一 一念이 貧고 私면</sent>
+<sent type="main" lang="kor" page="13a" n="13">문듯 剛을 鎖야 柔가 되며</sent>
+<sent type="main" lang="kor" page="13a" n="14">智 塞야 昏이 되며</sent>
+<sent type="main" lang="kor" page="13a-13b" n="15">恩을 變야 讐가 되며</sent><!--讐가 ^ 되며-->
+
+<sent type="main" lang="kor" page="13b" n="1">潔을 染야 汚가 되야</sent>
+<sent type="main" lang="kor" page="13b" n="2">一生 人品이 壞了니</sent>
+<sent type="main" lang="kor" page="13b" n="3">古人이 云호 不貪 二字로 可히 一世 度越다 니라</sent>
+<sent type="main" lang="kor" page="13b" n="4">眞箇廉 者 廉 名이 업니</sent>
+<sent type="main" lang="kor" page="13b" n="5">名을 立 者 正히 이론바 貪夫ㅣ오</sent>
+<sent type="main" lang="kor" page="13b" n="6">크게 巧 者 巧 術이 업니</sent>
+<sent type="main" lang="kor" page="13b" n="7">術을 用 者 正히 이론바 拙工이니라</sent>
+<sent type="main" lang="kor" page="13b" n="8">栗谷 先生이 曰 學 者ㅣ 다만 競業 心思가 잇스며</sent>
+<sent type="main" lang="kor" page="13b" n="9">瀟灑 趣味가 잇스면</sent>
+<sent type="main" lang="kor" page="13b" n="10">美 則 美나</sent>
+<sent type="main" lang="kor" page="13b" n="11">一樣으로 斂束야 淸高만 求면</sent>
+<sent type="main" lang="kor" page="13b" n="12">是 秋殺만 잇고 春生이 업스미니</sent>
+<sent type="main" lang="kor" page="13b" n="13">엇지 理氣에 合다 리오</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="14a" n="1">惡을 爲호</sent>
+<sent type="main" lang="kor" page="14a" n="2">人이 知가 畏 者</sent>
+<sent type="main" lang="kor" page="14a" n="3">惡 中에 오히려 一條 善路가 잇고</sent>
+<sent type="main" lang="kor" page="14a" n="4">善을 爲호</sent>
+<sent type="main" lang="kor" page="14a" n="5">人이 知홈을 希 者</sent>
+<sent type="main" lang="kor" page="14a" n="6">善 處에 一種 惡根이 伏이니라</sent>
+<sent type="main" lang="kor" page="14a" n="7">心地가 淸淨 後에야</sent>
+<sent type="main" lang="kor" page="14a" n="8">可히 書 讀며</sent>
+<sent type="main" lang="kor" page="14a" n="9">古 學지니</sent>
+<sent type="main" lang="kor" page="14a" n="10">그럿치 못고</sent>
+<sent type="main" lang="kor" page="14a" n="11">一善을 行야</sent>
+<sent type="main" lang="kor" page="14a" n="12">私 濟려 며</sent>
+<sent type="main" lang="kor" page="14a" n="13">一善을 言야</sent>
+<sent type="main" lang="kor" page="14a" n="14">短을 覆랴 면</sent>
+<sent type="main" lang="kor" page="14a" n="15">是 寇兵을 藉며</sent>
+<sent type="main" lang="kor" page="14a" n="16">盜糧을 齏이니라</sent>
+<sent type="main" lang="kor" page="14a" n="17">道德을 苦守 者 一時에 寂寞고</sent>
+<sent type="main" lang="kor" page="14a" n="18">權勢 依阿 者 萬古에 凄凉니</sent>
+<sent type="main" lang="kor" page="14a" n="19">達人은 物外에 物을 觀며</sent>
+<sent type="main" lang="kor" page="14a" n="20">身後에 身을 思야</sent>
+<sent type="main" lang="kor" page="14a-14b" n="21">차라리 一時에 寂寞을 受지언졍</sent><!--寂寞^을-->
+
+<sent type="main" lang="kor" page="14b" n="1">萬古에 寂寞은 受치 안니라</sent>
+<sent type="main" lang="kor" page="14b" n="2">是故으로 君子의 心事 天이 淸고</sent>
+<sent type="main" lang="kor" page="14b" n="3">日이 白 갓치 야</sent>
+<sent type="main" lang="kor" page="14b" n="4">人으로 여금 아니 알지 못 거시오</sent>
+<sent type="main" lang="kor" page="14b" n="5">君子의 才華 玉을 鞰고</sent>
+<sent type="main" lang="kor" page="14b" n="6">珠 藏 갓치야</sent>
+<sent type="main" lang="kor" page="14b" n="7">人으로 여금 수이 알지 못지니라</sent>
+<sent type="main" lang="kor" page="14b" n="8">鬪 解호 威로 助 則</sent>
+<sent type="main" lang="kor" page="14b" n="9">怒 氣가 自然이 平 거시오</sent>
+<sent type="main" lang="kor" page="14b" n="10">貪을 懲호 財로 濟 則</sent>
+<sent type="main" lang="kor" page="14b" n="11">利 心이 自然이 澹니</sent>
+<sent type="main" lang="kor" page="14b" n="12">이론바 그 勢 因야 利케 導 거시오</sent>
+<sent type="main" lang="kor" page="14b" n="13"> 이 變을 應 權宜니라</sent>
+<sent type="main" lang="kor" page="14b-15a" n="14">貧士로셔 肯히 濟人이 바야흐로 性天 中에 惠澤이오</sent><!--惠澤^이오-->
+
+<sent type="main" lang="kor" page="15a" n="1">貴家의셔 能히 學道이 바야흐로 心地上에 工夫ㅣ니라</sent>
+<sent type="main" lang="kor" page="15a" n="2">作人을 다만 一味로 眞率면</sent>
+<sent type="main" lang="kor" page="15a" n="3">踪迹이 비록 隱나 도로 顯 거시오</sent>
+<sent type="main" lang="kor" page="15a" n="4">存心을 만일 半毫나 未淨면</sent>
+<sent type="main" lang="kor" page="15a" n="5">事爲가 비록 公이나  私ㅣ니라</sent>
+<sent type="main" lang="kor" page="15a" n="6">無事 時에 문듯 閑雜 念想이 有가 思며</sent>
+<sent type="main" lang="kor" page="15a" n="7">有事 時에 문듯 麤浮 意想이 有한가 思며</sent>
+<sent type="main" lang="kor" page="15a" n="8">得意 時에 문듯 驕矜 辭色이 有가 思며</sent>
+<sent type="main" lang="kor" page="15a" n="9">失意 時에 문듯 怨尤 情懷가 有가 思야</sent>
+<sent type="main" lang="kor" page="15a" n="10">時時로 檢閱야</sent>
+<sent type="main" lang="kor" page="15a" n="11">漸漸 多로 從야</sent>
+<sent type="main" lang="kor" page="15a" n="12">少에 入며</sent>
+<sent type="main" lang="kor" page="15a" n="13">有로 從야</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="15b" n="1">無에 入하기에 到得여</sent>
+<sent type="main" lang="kor" page="15b" n="2">진실노 이 學問의 眞消息이니라</sent>
+<sent type="main" lang="kor" page="15b" n="3">惡은 陰을 忌고</sent>
+<sent type="main" lang="kor" page="15b" n="4">善은 揚을 忌니</sent>
+<sent type="main" lang="kor" page="15b" n="5">故로 惡의 顯 者 禍ㅣ 淺고</sent>
+<sent type="main" lang="kor" page="15b" n="6">隱 者 禍ㅣ 深며</sent>
+<sent type="main" lang="kor" page="15b" n="7">善의 顯 者 功이 小고</sent>
+<sent type="main" lang="kor" page="15b" n="8">善의 隱 者 功이 大니라</sent>
+<sent type="main" lang="kor" page="15b" n="9">花潭 徐 先生이 [諡 文康 名 敬德] 曰 德은 才의 主ㅣ오</sent>
+<sent type="main" lang="kor" page="15b" n="10">才 德의 奴ㅣ라</sent>
+<sent type="main" lang="kor" page="15b" n="11">萬一 有才고 無德면</sent>
+<sent type="main" lang="kor" page="15b" n="12">無主 空家에 奴輩가 用事 갓니</sent>
+<sent type="main" lang="kor" page="15b" n="13">엇지 倫常과 綱紀 正釐리오 니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="16a" n="1">我心을 常 圓滿이 持면</sent>
+<sent type="main" lang="kor" page="16a" n="2">天下에 반다시 缺□ 地方이 업슬 거시오</sent>
+<sent type="main" lang="kor" page="16a" n="3">我心을 常 寬平이 持면</sent>
+<sent type="main" lang="kor" page="16a" n="4">天下에 반다시 險側 人情이 업스리라</sent>
+<sent type="main" lang="kor" page="16a" n="5">老年의 疾病이 다 壯時에 招得 오</sent>
+<sent type="main" lang="kor" page="16a" n="6">晩境의 罪業이 다 盛年에 作孽 라</sent>
+<sent type="main" lang="kor" page="16a" n="7">故로 盈을 持고</sent>
+<sent type="main" lang="kor" page="16a" n="8">滿을 履 君子 合當이 더욱 競競지니라</sent>
+<sent type="main" lang="kor" page="16a" n="9">人의 小過 責치 말며</sent>
+<sent type="main" lang="kor" page="16a" n="10">人의 陰私 發치 말며</sent>
+<sent type="main" lang="kor" page="16a" n="11">人의 舊惡을 念치 말면</sent>
+<sent type="main" lang="kor" page="16a" n="12">可히  德을 養 거시오</sent>
+<sent type="main" lang="kor" page="16a" n="13"> 可히 害 遠히 리라</sent>
+<sent type="main" lang="kor" page="16a" n="14">口에 爽 味가 다 腸을 爛고</sent>
+<sent type="main" lang="kor" page="16a-16b" n="15">骨을 腐 毒藥이니</sent><!--毒藥이^니-->
+
+<sent type="main" lang="kor" page="16b" n="1">斟酌야 五分만 면</sent>
+<sent type="main" lang="kor" page="16b" n="2">문듯 快이 無 거시오</sent>
+<sent type="main" lang="kor" page="16b" n="3">心에 快 事가 다 身을 敗고</sent>
+<sent type="main" lang="kor" page="16b" n="4">德을 散 惡媒니</sent>
+<sent type="main" lang="kor" page="16b" n="5">甚酌야 五分만 면</sent>
+<sent type="main" lang="kor" page="16b" n="6">문듯 悔ㅣ 無리라</sent>
+<sent type="main" lang="kor" page="16b" n="7">私恩을 市이 公議 扶만 갓지 못며</sent>
+<sent type="main" lang="kor" page="16b" n="8">新知 結이 舊好 敦만 갓지 못며</sent>
+<sent type="main" lang="kor" page="16b" n="9">榮名을 立이 陰德을 種만 갓지 못며</sent>
+<sent type="main" lang="kor" page="16b" n="10">奇節을 尙이 庸行을 謹만 갓지 못니라</sent>
+<sent type="main" lang="kor" page="16b" n="11">家人 骨肉間에 有變면</sent>
+<sent type="main" lang="kor" page="16b" n="12">맛당이 從容히 지니 激厲치 못 거시오</sent>
+<sent type="main" lang="kor" page="16b" n="13">朋友 交遊際에 有失면</sent>
+<sent type="main" lang="kor" page="16b" n="14">맛당이 剴切히 지니 媚順치 못지니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="17a" n="1">公平 正論은 可히 犯手치 못지니</sent>
+<sent type="main" lang="kor" page="17a" n="2">一番 犯手 則</sent>
+<sent type="main" lang="kor" page="17a" n="3">萬世에 羞 怠 거시오</sent>
+<sent type="main" lang="kor" page="17a" n="4">權門에 私竇 可히 着脚지 못지니</sent>
+<sent type="main" lang="kor" page="17a" n="5">一番 着脚 則</sent>
+<sent type="main" lang="kor" page="17a" n="6">終身에 玷汚가 되니라</sent>
+<sent type="main" lang="kor" page="17a" n="7">偏信야 奸의 欺  되지 말며</sent>
+<sent type="main" lang="kor" page="17a" n="8">自任야 氣의 使  되지 말며</sent>
+<sent type="main" lang="kor" page="17a" n="9">己의 長으로 人의 短을 形치 말며</sent>
+<sent type="main" lang="kor" page="17a" n="10">己의 拙로 人의 能을 忌치 말지니라</sent>
+<sent type="main" lang="kor" page="17a" n="11">人의 短處 隱야 彌縫기 要지니</sent>
+<sent type="main" lang="kor" page="17a" n="12">萬一 暴揚면</sent>
+<sent type="main" lang="kor" page="17a" n="13">是 短으로써 短을 攻이오</sent>
+<sent type="main" lang="kor" page="17a" n="14">人의 頑行은 誘야 悔化기 要지니</sent>
+<sent type="main" lang="kor" page="17a" n="15">萬一 忿激면</sent>
+<sent type="main" lang="kor" page="17a-17b" n="16">是 頑으로 頑을 濟이니라</sent><!--是 ^ 頑으로-->
+
+<sent type="main" lang="kor" page="17b" n="1">節을 直히 야 人의 忌 밧을지언졍</sent>
+<sent type="main" lang="kor" page="17b" n="2">意 曲히 야 人의 喜 밧지 아니 거시오</sent>
+<sent type="main" lang="kor" page="17b" n="3">罪가 업시 人의 毁 밧을지언졍</sent>
+<sent type="main" lang="kor" page="17b" n="4">實이 업시 人의 譽 밧지 아니지니라</sent>
+<sent type="main" lang="kor" page="17b" n="5">小處에도 滲漏치 아니며</sent>
+<sent type="main" lang="kor" page="17b" n="6">暗室에도 欺隱치 아니며</sent>
+<sent type="main" lang="kor" page="17b" n="7">末路에도 怠荒치 아니하여</sent>
+<sent type="main" lang="kor" page="17b" n="8">이론바 眞正 英雄이니라</sent>
+<sent type="main" lang="kor" page="17b" n="9">閑 中에 放過치 아니면</sent>
+<sent type="main" lang="kor" page="17b" n="10">忙 中의 受用이 잇슬 거시오</sent>
+<sent type="main" lang="kor" page="17b" n="11">靜 中에 落空치 아니면</sent>
+<sent type="main" lang="kor" page="17b-18a" n="12">動 中에 受用이 잇슬 거시오</sent><!--잇^슬 거시오-->
+
+<sent type="main" lang="kor" page="18a" n="1">暗 中에 欺隱치 아니면</sent>
+<sent type="main" lang="kor" page="18a" n="2">明 中에 受用이 잇스리라</sent>
+<sent type="main" lang="kor" page="18a" n="3">淸호 能히 容홈이 잇고</sent>
+<sent type="main" lang="kor" page="18a" n="4">仁혼 能히 斷을 善고</sent>
+<sent type="main" lang="kor" page="18a" n="5">明혼 察에 傷치 아니고</sent>
+<sent type="main" lang="kor" page="18a" n="6">直혼 橋에 過치 아니이</sent>
+<sent type="main" lang="kor" page="18a" n="7">이론바 蜜餞이 甛치 아니고</sent>
+<sent type="main" lang="kor" page="18a" n="8">海錯이 醎치 아니이니라</sent>
+<sent type="main" lang="kor" page="18a" n="9">眞士 邀福기에</sent>
+<sent type="main" lang="kor" page="18a" n="10">無心여도 天이 곳 其 心上에 就야</sent>
+<sent type="main" lang="kor" page="18a" n="11">其 哀을 開고</sent>
+<sent type="main" lang="kor" page="18a" n="12">險人은 避禍기</sent>
+<sent type="main" lang="kor" page="18a" n="13">着意여도 天이 곳 其 意 中에 就야</sent>
+<sent type="main" lang="kor" page="18a" n="14">其 魄을 奪니</sent>
+<sent type="main" lang="kor" page="18a" n="15">天의 機權이 最神을 可히 볼지라</sent>
+<sent type="main" lang="kor" page="18a-18b" n="16">人의 智巧가 무엇 有益리오</sent><!--무엇 ^ 有益리오-->
+
+<sent type="main" lang="kor" page="18b" n="1">平民이라도 種德과 施惠 肯면</sent>
+<sent type="main" lang="kor" page="18b" n="2">문듯 位 업 鄕相이오</sent>
+<sent type="main" lang="kor" page="18b" n="3">士大夫라도 貧權과 市寵이 甚면</sent>
+<sent type="main" lang="kor" page="18b" n="4">맛 位 잇 乞人이니라</sent>
+<sent type="main" lang="kor" page="18b" n="5">一翳라도 眼에 在면</sent>
+<sent type="main" lang="kor" page="18b" n="6">空花가 亂히 起고</sent>
+<sent type="main" lang="kor" page="18b" n="7">纖塵이라도 體에 着면</sent>
+<sent type="main" lang="kor" page="18b" n="8">雜念이 紛히 飛니</sent>
+<sent type="main" lang="kor" page="18b" n="9">翳 了여 花가 落 거시오</sent>
+<sent type="main" lang="kor" page="18b" n="10">鹿을 銷여 念이 絶리라</sent>
+<sent type="main" lang="kor" page="18b" n="11">榮寵 頭邊에 辱이 等待니</sent>
+<sent type="main" lang="kor" page="18b" n="12">반다시 揚揚치 말 거시오</sent>
+<sent type="main" lang="kor" page="18b" n="13">因窮 背後에 福이 跟隨니</sent>
+<sent type="main" lang="kor" page="18b-19a" n="14"> 무엇 戚戚리</sent><!-- ^ 무엇-->
+
+<sent type="main" lang="kor" page="19a" n="1">古人 閑適 處에</sent>
+<sent type="main" lang="kor" page="19a" n="2">今人은 문듯 一生을 忙過고</sent>
+<sent type="main" lang="kor" page="19a" n="3">古人 實受 處에</sent>
+<sent type="main" lang="kor" page="19a" n="4">今人은 문듯 一世 虛度니</sent>
+<sent type="main" lang="kor" page="19a" n="5">病因이 空을 耽고</sent>
+<sent type="main" lang="kor" page="19a" n="6">妄을 逐야</sent>
+<sent type="main" lang="kor" page="19a" n="7">實眼을 開치 못 緣故ㅣ니</sent>
+<sent type="main" lang="kor" page="19a" n="8">種種 人은 察지어다</sent>
+<sent type="main" lang="kor" page="19a" n="9">少壯 者 事事이 意 着지어</sent>
+<sent type="main" lang="kor" page="19a" n="10">意가 도로 輕야</sent>
+<sent type="main" lang="kor" page="19a" n="11">泛泛히 水中鳧 作니</sent>
+<sent type="main" lang="kor" page="19a" n="12">엇지 써 雲霄의 翮을 振며</sent>
+<sent type="main" lang="kor" page="19a" n="13">衰老 者 事事이 情을 念지어</sent>
+<sent type="main" lang="kor" page="19a" n="14">情이 도로 重야</sent>
+<sent type="main" lang="kor" page="19a" n="15">碌碌히 轅下駒 做니</sent>
+<sent type="main" lang="kor" page="19a" n="16">엇지 써 韁鎖 身을 脫리오</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="19b" n="1">貨財 積 心으로 學問을 積며</sent>
+<sent type="main" lang="kor" page="19b" n="2">功名 求 念으로 道德을 求며</sent>
+<sent type="main" lang="kor" page="19b" n="3">妻子 愛 心으로 父母 愛며</sent>
+<sent type="main" lang="kor" page="19b" n="4">爵位 保 策으로 國家 保지니</sent>
+<sent type="main" lang="kor" page="19b" n="5">此에 出야 聖에 入홈이 다만 毫末이 差나</sent>
+<sent type="main" lang="kor" page="19b" n="6">凡에 超야 聖에 入 人品이 星淵에 判니</sent>
+<sent type="main" lang="kor" page="19b" n="7">人이 엇지 猛然이 轉念치 아니리오</sent>
+<sent type="main" lang="kor" page="19b" n="8">性情上 偏私 融得이 便是 一大 學問이오</sent>
+<sent type="main" lang="kor" page="19b" n="9">家庭內 嫌隙을 消得이 便是 一大 經綸이니라</sent>
+<sent type="main" lang="kor" page="19b" n="10">工夫 難處로부터 做去은 風을 逆야</sent>
+<sent type="main" lang="kor" page="19b" n="11">棹 鼓 갓치이 便是 一段 眞消息이오</sent>
+<sent type="main" lang="kor" page="19b-20a" n="12">學問을 苦 中으로부터 得來은 沙 披야</sent><!--中으^로부터-->
+
+<sent type="main" lang="kor" page="20a" n="1">金을 獲 갓치이 卽是 一箇 眞精神이니라</sent>
+<sent type="main" lang="kor" page="20a" n="2">才智가 英敏 者</sent>
+<sent type="main" lang="kor" page="20a" n="3">당이 學問으로 그 躁을 攝 거시오</sent>
+<sent type="main" lang="kor" page="20a" n="4">氣節이 激昻 者</sent>
+<sent type="main" lang="kor" page="20a" n="5">당이 德性으로 그 偏을 融지니라</sent>
+<sent type="main" lang="kor" page="20a" n="6">人慾이 初起處 從야 剪除면</sent>
+<sent type="main" lang="kor" page="20a" n="7">문듯 新芽 遽斬과 갓타니</sent>
+<sent type="main" lang="kor" page="20a" n="8">그 工夫가 極히 쉽고</sent>
+<sent type="main" lang="kor" page="20a" n="9">天理가 乍明時로부터 保養면</sent>
+<sent type="main" lang="kor" page="20a" n="10">문듯 塵鏡을 復磨과 갓여</sent>
+<sent type="main" lang="kor" page="20a" n="11">그 光彩가 다시 新니라</sent>
+<sent type="main" lang="kor" page="20a" n="12">人言을 因여 事理 悟 者</sent>
+<sent type="main" lang="kor" page="20a-20b" n="13">悟이 잇셔도 다시 迷지니</sent><!--다^시-->
+
+<sent type="main" lang="kor" page="20b" n="1">大凡自悟야 了了만 갓지 못며</sent>
+<sent type="main" lang="kor" page="20b" n="2">外境으로 從야 意味 得 者</sent>
+<sent type="main" lang="kor" page="20b" n="3">得이 잇셔도 다시 失지니</sent>
+<sent type="main" lang="kor" page="20b" n="4">自得야 休休만 갓지 못지니라</sent>
+<sent type="title2" lang="kor" page="20b" n="5">應世 第五</sent>
+<sent type="main" lang="kor" page="20b" n="6">士君子ㅣ 世 涉호</sent>
+<sent type="main" lang="kor" page="20b" n="7">人의게 喜怒 輕히 지 못지니</sent>
+<sent type="main" lang="kor" page="20b" n="8">喜怒가 輕 則</sent>
+<sent type="main" lang="kor" page="20b" n="9">心腹과 肝膽이 다 人의 窺  될 거시오</sent>
+<sent type="main" lang="kor" page="20b" n="10">物의게 愛憎을 重히 하지 못지니</sent>
+<sent type="main" lang="kor" page="20b" n="11">愛憎이 重 則</sent>
+<sent type="main" lang="kor" page="20b" n="12">意氣와 精神이 다 物의 制  될지니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="21a" n="1">秋江 南 先生이 [諡 文肅 名 孝溫] 曰 蒼蠅이 驥에 附면 捷 則</sent>
+<sent type="main" lang="kor" page="21a" n="2">捷호 處後 羞 免키 어렵고</sent>
+<sent type="main" lang="kor" page="21a" n="3">蔦蘿가 松에 依면 高 則</sent>
+<sent type="main" lang="kor" page="21a" n="4">高호 仰攀 恥 辭치 못지니</sent>
+<sent type="main" lang="kor" page="21a" n="5">君子ㅣ 차라리 身에 風霜을 積할지언졍</sent>
+<sent type="main" lang="kor" page="21a" n="6">엇지 남의 鷹犬이 되리오 니</sent>
+<sent type="main" lang="kor" page="21a" n="7">大丈夫ㅣ 處世 鄙陋이 면</sent>
+<sent type="main" lang="kor" page="21a" n="8">엇지 名節을 成리오</sent>
+<sent type="main" lang="kor" page="21a" n="9">栗谷 先生이 曰 士君子ㅣ 人을 濟하고</sent>
+<sent type="main" lang="kor" page="21a" n="10">物을 利케 진</sent>
+<sent type="main" lang="kor" page="21a" n="11">맛당이 그 實에 居 거시오</sent>
+<sent type="main" lang="kor" page="21a" n="12">그 名에 居치 못지니</sent>
+<sent type="main" lang="kor" page="21a" n="13">名에 居 則 德이 損고</sent>
+<sent type="main" lang="kor" page="21a" n="14">卿大夫ㅣ 國을 憂고</sent>
+<sent type="main" lang="kor" page="21a" n="15">民을 爲진</sent>
+<sent type="main" lang="kor" page="21a" n="16">맛당이 그 心을 둘 거시오</sent>
+<sent type="main" lang="kor" page="21a-21b" n="17">그 言을 두지 못지니</sent><!--言을 ^ 두지-->
+
+<sent type="main" lang="kor" page="21b" n="1">言을 둔 則 毁가 來니라</sent>
+<sent type="main" lang="kor" page="21b" n="2">是故로 古昔에 賢人과 君子 立世야</sent>
+<sent type="main" lang="kor" page="21b" n="3">處事이 名實이 異치 아니고</sent>
+<sent type="main" lang="kor" page="21b" n="4">言行이 違치 아니니라</sent>
+<sent type="main" lang="kor" page="21b" n="5">圃隱 鄭 先生이 [麗朝 忠臣 名 夢周 諡 文忠] 曰 平居 에 欲을 息고</sent>
+<sent type="main" lang="kor" page="21b" n="6">身을 惜다가도</sent>
+<sent type="main" lang="kor" page="21b" n="7">大節을 臨하면</sent>
+<sent type="main" lang="kor" page="21b" n="8">可히 性命을 委 거시오</sent>
+<sent type="main" lang="kor" page="21b" n="9">治家 에 入을 量야 出다가도</sent>
+<sent type="main" lang="kor" page="21b" n="10">大義 當면 可히 千金을 棄지니라</sent>
+<sent type="main" lang="kor" page="21b" n="11">是故로 大事 遇야 矜持 者</sent>
+<sent type="main" lang="kor" page="21b" n="12">小事에 반다시 縱弛고</sent>
+<sent type="main" lang="kor" page="21b" n="13">明庭에 處야 檢飭 者</sent>
+<sent type="main" lang="kor" page="21b" n="14">暗室에 반다시 放逸니</sent>
+<sent type="main" lang="kor" page="21b-22a" n="15">故로 君子의 心行은 小事 臨여도</sent><!--臨^여도-->
+
+<sent type="main" lang="kor" page="22a" n="1">大敵을 對 갓고</sent>
+<sent type="main" lang="kor" page="22a" n="2">密室에 坐여도 通衢에 行홈 타니라</sent>
+<sent type="main" lang="kor" page="22a" n="3">於于 柳先生이 [光海朝 節義 名 夢寅] 曰 己의 情欲은 可히 縱치 못지라</sent>
+<sent type="main" lang="kor" page="22a" n="4">맛당이 逆 法으로 制 거시니</sent>
+<sent type="main" lang="kor" page="22a" n="5">그 道가 一 忍字애 잇고</sent>
+<sent type="main" lang="kor" page="22a" n="6">人의 情欲은 可히 拂치 못지라</sent>
+<sent type="main" lang="kor" page="22a" n="7">맛당이 順 法으로 調 거시니</sent>
+<sent type="main" lang="kor" page="22a" n="8">그 道가 一 怒字에 잇니라</sent>
+<sent type="main" lang="kor" page="22a" n="9">今人은 다 怒로 己 適하고</sent>
+<sent type="main" lang="kor" page="22a" n="10">忍으로 人을 制니</sent>
+<sent type="main" lang="kor" page="22a" n="11"> 不可이 업냐</sent>
+<sent type="main" lang="kor" page="22a" n="12">細察이 明이 아니라</sent>
+<sent type="main" lang="kor" page="22a" n="13">能히 察 거슬</sent>
+<sent type="main" lang="kor" page="22a-22b" n="14">能히 察치 아니이</sent><!--아니^이-->
+
+<sent type="main" lang="kor" page="22b" n="1">可히 明이라 謂 거시오</sent>
+<sent type="main" lang="kor" page="22b" n="2">必勝이 勇이 아니라</sent>
+<sent type="main" lang="kor" page="22b" n="3">能히 勝 거슬</sent>
+<sent type="main" lang="kor" page="22b" n="4">能히 勝치 아니이</sent>
+<sent type="main" lang="kor" page="22b" n="5">可히 勇이라 謂니라</sent>
+<sent type="main" lang="kor" page="22b" n="6">白沙 李 先生이 [諡 文忠 名 恒 福鳖 城府院君] 每稱 曰 明甫 [卽 漢陰字] 갓 者 可謂 命世 器로다</sent>
+<sent type="main" lang="kor" page="22b" n="7">時 隨 內에</sent>
+<sent type="main" lang="kor" page="22b" n="8">能히 時 救이 和風이 酷熱을 消덧며</sent>
+<sent type="main" lang="kor" page="22b" n="9">俗에 混하 內에</sent>
+<sent type="main" lang="kor" page="22b" n="10">能히 俗을 脫이 淡月이 輕雲에 映덧도다</sent>
+<sent type="main" lang="kor" page="22b" n="11">澹庵 白 先生이 [諡 文簡 名 文甫] 處世 道로 그 子弟 訓여 曰</sent>
+<sent type="main" lang="kor" page="22b" n="12">朋友로 더부러 交 者ㅣ</sent>
+<sent type="main" lang="kor" page="22b-23a" n="13">그 終에 易疎기론</sent><!--易疎^기론-->
+
+<sent type="main" lang="kor" page="23a" n="1">차라리 그 始에 難親 거시오</sent>
+<sent type="main" lang="kor" page="23a" n="2">事物을 當야 御 者ㅣ</sent>
+<sent type="main" lang="kor" page="23a" n="3">그 後에 巧持기론</sent>
+<sent type="main" lang="kor" page="23a" n="4">차라리 그 前에 拙守지니라</sent>
+<sent type="main" lang="kor" page="23a" n="5">是故로 酷烈 禍가 만니</sent>
+<sent type="main" lang="kor" page="23a" n="6">玩弄 人에 起하고</sent>
+<sent type="main" lang="kor" page="23a" n="7">盛滿 功이 常 細徵 事에 敗니라</sent>
+<sent type="main" lang="kor" page="23a" n="8">是故로 人人이 다 好타 여도</sent>
+<sent type="main" lang="kor" page="23a" n="9">一人의 怨을 愼防며</sent>
+<sent type="main" lang="kor" page="23a" n="10">事事이 다 功이 잇셔도</sent>
+<sent type="main" lang="kor" page="23a" n="11">一事의 終을 愼縫지니라</sent>
+<sent type="main" lang="kor" page="23a" n="12">讎怨의 弩 避기 易나</sent>
+<sent type="main" lang="kor" page="23a" n="13">恩人의 戈 防기 難하고</sent>
+<sent type="main" lang="kor" page="23a" n="14">苦時에 坎은 免기 易나</sent>
+<sent type="main" lang="kor" page="23a-23b" n="15">樂處의 阱은 脫기 難니라</sent><!--脫^기-->
+
+<sent type="main" lang="kor" page="23b" n="1">是故로 泥에 汚하고</sent>
+<sent type="main" lang="kor" page="23b" n="2">溷에 沾 累</sent>
+<sent type="main" lang="kor" page="23b" n="3">病根이 戀 一字에 잇고</sent>
+<sent type="main" lang="kor" page="23b" n="4">方을 隨고 圓을 逐 法은</sent>
+<sent type="main" lang="kor" page="23b" n="5">便宜가 耐 一字에 잇니라</sent>
+<sent type="main" lang="kor" page="23b" n="6">落落 者 合기가 難나</sent>
+<sent type="main" lang="kor" page="23b" n="7"> 分키도 難고</sent>
+<sent type="main" lang="kor" page="23b" n="8">欣欣 者 親키가 易나</sent>
+<sent type="main" lang="kor" page="23b" n="9"> 疎키도 易니라</sent>
+<sent type="main" lang="kor" page="23b" n="10">梧陰 尹 先生이 [諡 文靖 名 斗壽] 曰 丈夫의 意氣가 天下로 더부러 相期 거시</sent>
+<sent type="main" lang="kor" page="23b" n="11">春風이 庶物을 鼓暢과 갓흘지니</sent>
+<sent type="main" lang="kor" page="23b" n="12">맛당이 半點 隔閱 形을 存치 못 거시오</sent>
+<sent type="main" lang="kor" page="23b" n="13">丈夫의 肝膽이 天下로 더부러 相照 거시</sent>
+<sent type="main" lang="kor" page="23b-24a" n="14">秋月이 羣物을 洞徹과 갓흘지니</sent><!--秋月이 ^ 羣物을-->
+
+<sent type="main" lang="kor" page="24a" n="1">당이 一毫 曖昧 狀을 作지 못지니라</sent>
+<sent type="main" lang="kor" page="24a" n="2">士君子ㅣ 持心處世에 天下 一室노 視지니</sent>
+<sent type="main" lang="kor" page="24a" n="3">君王을 事홈은 父兄 갓치며</sent>
+<sent type="main" lang="kor" page="24a" n="4">百姓을 使홈은 子弟와 갓치며</sent>
+<sent type="main" lang="kor" page="24a" n="5">政事 務홈은 治産 치여야</sent>
+<sent type="main" lang="kor" page="24a" n="6">天下의 大事業을 期待리라</sent>
+<sent type="main" lang="kor" page="24a" n="7">無事 時라도 恒常 有事 치 堤防여</sent>
+<sent type="main" lang="kor" page="24a" n="8">可히 意外에 變을 彌 거시오</sent>
+<sent type="main" lang="kor" page="24a" n="9">有事 時라도 恒常 無事 치 鎭定여</sent>
+<sent type="main" lang="kor" page="24a" n="10">可히 局 中에 危 消지니라</sent>
+<sent type="main" lang="kor" page="24a" n="11">齒 亡나</sent>
+<sent type="main" lang="kor" page="24a" n="12">舌은 久存니</sent>
+<sent type="main" lang="kor" page="24a-24b" n="13">强剛이 柔順만 못 거시오</sent><!--못^-->
+
+<sent type="main" lang="kor" page="24b" n="1">戶 朽나</sent>
+<sent type="main" lang="kor" page="24b" n="2">樞 不蠹니</sent>
+<sent type="main" lang="kor" page="24b" n="3">偏執이 圓融만 못니라</sent>
+<sent type="main" lang="kor" page="24b" n="4">持身기 泰山과 九鼎 치야</sent>
+<sent type="main" lang="kor" page="24b" n="5">凝然히 不動면</sent>
+<sent type="main" lang="kor" page="24b" n="6">愆尤가 自然이 少 거시오</sent>
+<sent type="main" lang="kor" page="24b" n="7">應事기 流水에 落花 치 悠然이 任去면</sent>
+<sent type="main" lang="kor" page="24b" n="8">趣味가 自然이 多니라</sent>
+<sent type="main" lang="kor" page="24b" n="9">鄭 文翼公이 [名 光弼] 平生에 國事 自任야</sent>
+<sent type="main" lang="kor" page="24b" n="10">造次도 妄率이 업더니</sent>
+<sent type="main" lang="kor" page="24b" n="11">嘗 曰 事 遇</sent>
+<sent type="main" lang="kor" page="24b" n="12">終始에 安靜從容면</sent>
+<sent type="main" lang="kor" page="24b" n="13">비록 紊이 難絲와 如야도</sent>
+<sent type="main" lang="kor" page="24b" n="14">畢竟은 就緖 거시오</sent>
+<sent type="main" lang="kor" page="24b" n="15">人을 接</sent>
+<sent type="main" lang="kor" page="24b" n="16">終始에 忠信 謹厚면</sent>
+<sent type="main" lang="kor" page="24b" n="17">비록 狡이 山鬼와 如야도</sent>
+<sent type="main" lang="kor" page="24b" n="18">末梢 歸順니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="25a" n="1">芝草가 種이 업고</sent>
+<sent type="main" lang="kor" page="25a" n="2">醴泉이 源이 업스니</sent>
+<sent type="main" lang="kor" page="25a" n="3">志士 맛당이 勇奮야</sent>
+<sent type="main" lang="kor" page="25a" n="4">自期 高히  거시오</sent>
+<sent type="main" lang="kor" page="25a" n="5">彩雲은 散이 易고</sent>
+<sent type="main" lang="kor" page="25a" n="6">琉璃 脆가 易니</sent>
+<sent type="main" lang="kor" page="25a" n="7">達人은 맛당이 回頭야</sent>
+<sent type="main" lang="kor" page="25a" n="8">韜晦 早히 지니라</sent>
+<sent type="main" lang="kor" page="25a" n="9">橫逆과 因窮이 비록 暫時에 苦緣이나</sent>
+<sent type="main" lang="kor" page="25a" n="10">진실노 豪傑을 鍛鍊 一部 爐鎚ㅣ니</sent>
+<sent type="main" lang="kor" page="25a" n="11">能히 그 鍛鍊을 受 者</sent>
+<sent type="main" lang="kor" page="25a" n="12">身心이 化야 精金이 되고</sent>
+<sent type="main" lang="kor" page="25a" n="13">受치 못 者</sent>
+<sent type="main" lang="kor" page="25a" n="14">鈍鐵이 變치 못야</sent>
+<sent type="main" lang="kor" page="25a" n="15">終來에 價 售치 못나니라</sent>
+<sent type="main" lang="kor" page="25a" n="16">芝峰 李 先生이 [名 睟光] 二訓으로 世人을 戒야 曰</sent>
+<sent type="main" lang="kor" page="25a" n="17">害人 心은 可히 잇지 못 거시오</sent>
+<sent type="main" lang="kor" page="25a-25b" n="18">防人 心은 可히 업지 못 거시라 니</sent><!--업^지-->
+
+<sent type="main" lang="kor" page="25b" n="1">此 疎에 傷 者 戒이오</sent>
+<sent type="main" lang="kor" page="25b" n="2">차라리 人의 欺 □지언졍</sent>
+<sent type="main" lang="kor" page="25b" n="3">人의 詐 逆치 말나 니</sent>
+<sent type="main" lang="kor" page="25b" n="4">此 察에 傷 者 戒이라</sent>
+<sent type="main" lang="kor" page="25b" n="5">二訓을 幷存여사 精明고  渾厚리라</sent>
+<sent type="main" lang="kor" page="25b" n="6">羣疑 因야 獨見을 廢치 못 거시오</sent>
+<sent type="main" lang="kor" page="25b" n="7">己意 主야 人言을 阻치 못 거시오</sent>
+<sent type="main" lang="kor" page="25b" n="8">小惠 私야 大體 害케 못 거시오</sent>
+<sent type="main" lang="kor" page="25b" n="9">公論을 藉야 私情을 快케 못지니라</sent>
+<sent type="main" lang="kor" page="25b" n="10">節義가 靑雲에 過며</sent>
+<sent type="main" lang="kor" page="25b" n="11">文章이 白雲에 高여도</sent>
+<sent type="main" lang="kor" page="25b" n="12">德性으로 鋾鎔치 못면</sent>
+<sent type="main" lang="kor" page="25b-26a" n="13"> 血氣의 私와 枝能의 末이 되니라</sent><!--枝能의 ^ 末이-->
+
+<sent type="main" lang="kor" page="26a" n="1">栗谷 李 先生이 曰 事 謝호</sent>
+<sent type="main" lang="kor" page="26a" n="2">盛滿한 時에  거시오</sent>
+<sent type="main" lang="kor" page="26a" n="3">身을 居호</sent>
+<sent type="main" lang="kor" page="26a" n="4">獨後 地에  거시오</sent>
+<sent type="main" lang="kor" page="26a" n="5">德을 謹호</sent>
+<sent type="main" lang="kor" page="26a" n="6">至微 事에  거시오</sent>
+<sent type="main" lang="kor" page="26a" n="7">恩을 施호</sent>
+<sent type="main" lang="kor" page="26a" n="8">不報 人의게 지니라</sent>
+<sent type="main" lang="kor" page="26a" n="9">德이란 者 事業의 基地니</sent>
+<sent type="main" lang="kor" page="26a" n="10">基地가 固치 못고</sent>
+<sent type="main" lang="kor" page="26a" n="11">棟字가 堅久 者ㅣ 업스며</sent>
+<sent type="main" lang="kor" page="26a" n="12">心이란 者 治平의 根委니</sent>
+<sent type="main" lang="kor" page="26a" n="13">根委가 植지 못고</sent>
+<sent type="main" lang="kor" page="26a" n="14">枝葉이 茂 者 업니라</sent>
+<sent type="main" lang="kor" page="26a" n="15">道 擧 人이</sent>
+<sent type="main" lang="kor" page="26a" n="16">비록 心을 有여도</sent>
+<sent type="main" lang="kor" page="26a" n="17">恒常 定에 有야</sent>
+<sent type="main" lang="kor" page="26a" n="18">猿馬의 未寧과 同치 말며</sent>
+<sent type="main" lang="kor" page="26a" n="19">心을 無여도</sent>
+<sent type="main" lang="kor" page="26a-26b" n="20">恒常 慧에 寓야</sent><!--恒常 ^ 慧에-->
+
+<sent type="main" lang="kor" page="26b" n="1">木石의 不動과 同케 말지니라</sent>
+<sent type="main" lang="kor" page="26b" n="2">河西 金 先生이 [諡 文正 名 麟厚] 曰 勤이란 者</sent>
+<sent type="main" lang="kor" page="26b" n="3">德義 敏코져 이여</sent>
+<sent type="main" lang="kor" page="26b" n="4">世人이 勤을 借야 </sent>
+<sent type="main" lang="kor" page="26b" n="5">그 貧을 濟며</sent>
+<sent type="main" lang="kor" page="26b" n="6">儉이란 者 貨利에 澹코져 이어</sent>
+<sent type="main" lang="kor" page="26b" n="7">小人이 儉을 假야 </sent>
+<sent type="main" lang="kor" page="26b" n="8">그 吝을 飾다</sent>
+<sent type="main" lang="kor" page="26b" n="9">勤儉 二字가 君子의 持身 符契어</sent>
+<sent type="main" lang="kor" page="26b" n="10">도로여 小人의 營私 具ㅣ 되니</sent>
+<sent type="main" lang="kor" page="26b" n="11">엇지 愛惜지 아니리오</sent>
+<sent type="main" lang="kor" page="26b" n="12">恩을 施호</sent>
+<sent type="main" lang="kor" page="26b" n="13">당이 澹으로부터 漸漸 濃히 지니</sent>
+<sent type="main" lang="kor" page="26b" n="14">濃을 先고</sent>
+<sent type="main" lang="kor" page="26b" n="15">澹을 後면</sent>
+<sent type="main" lang="kor" page="26b" n="16">人이 그 惠 念 거시오</sent>
+<sent type="main" lang="kor" page="26b" n="17">威 施호</sent>
+<sent type="main" lang="kor" page="26b" n="18">당이 嚴으로부터 次次 寬히 지니</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="27a" n="1">寬을 先고</sent>
+<sent type="main" lang="kor" page="27a" n="2">嚴을 後면</sent>
+<sent type="main" lang="kor" page="27a" n="3">人이 酷을 怨니라</sent>
+<sent type="main" lang="kor" page="27a" n="4">士君子ㅣ 或 權門과 勢路에 處</sent>
+<sent type="main" lang="kor" page="27a" n="5">操履 嚴明이 고</sent>
+<sent type="main" lang="kor" page="27a" n="6">心氣 和易히 야</sent>
+<sent type="main" lang="kor" page="27a" n="7">暫時라도 腥穢의 黨을 隨야</sent>
+<sent type="main" lang="kor" page="27a" n="8">近히 말 거시오</sent>
+<sent type="main" lang="kor" page="27a" n="9">暫時라도 蜂蠆의 毒을 激야</sent>
+<sent type="main" lang="kor" page="27a" n="10">犯치 말지니라</sent>
+<sent type="main" lang="kor" page="27a" n="11">陰謀와 怪術과 異行과 奇能이 다 涉世 禍胎니</sent>
+<sent type="main" lang="kor" page="27a" n="12">다만 一箇 庸德과 庸行이야</sent>
+<sent type="main" lang="kor" page="27a" n="13">可히  始終에 一며</sent>
+<sent type="main" lang="kor" page="27a" n="14">和平을 招니라</sent>
+<sent type="main" lang="kor" page="27a" n="15">我의 心을 昧치 말며</sent>
+<sent type="main" lang="kor" page="27a" n="16">人의 情을 拂치 말며</sent>
+<sent type="main" lang="kor" page="27a" n="17">物과 財 竭치 말지니</sent>
+<sent type="main" lang="kor" page="27a" n="18">三件을 體行면</sent>
+<sent type="main" lang="kor" page="27a-27b" n="19">足히  天地 爲야</sent><!--爲^야-->
+
+<sent type="main" lang="kor" page="27b" n="1">心을 立 거시오</sent>
+<sent type="main" lang="kor" page="27b" n="2">生民을 爲야</sent>
+<sent type="main" lang="kor" page="27b" n="3">命을 立 거시오</sent>
+<sent type="main" lang="kor" page="27b" n="4">後世 爲야</sent>
+<sent type="main" lang="kor" page="27b" n="5">福을 立 거니라</sent>
+<sent type="main" lang="kor" page="27b" n="6">官에 居 二戒가 잇스니</sent>
+<sent type="main" lang="kor" page="27b" n="7">曰 公 則 明이 生고</sent>
+<sent type="main" lang="kor" page="27b" n="8">廉 則 威가 生니라</sent>
+<sent type="main" lang="kor" page="27b" n="9">家에 居 二戒가 잇스니</sent>
+<sent type="main" lang="kor" page="27b" n="10">曰 恕 則 情이 和고</sent>
+<sent type="main" lang="kor" page="27b" n="11">儉 則 用이 足니라</sent>
+<sent type="main" lang="kor" page="27b" n="12">小人을 遠호</sent>
+<sent type="main" lang="kor" page="27b" n="13">仇怨을 作지 말나</sent>
+<sent type="main" lang="kor" page="27b" n="14">小人도 스스로 黨類가 잇나니라</sent>
+<sent type="main" lang="kor" page="27b" n="15">君子로 交호</sent>
+<sent type="main" lang="kor" page="27b" n="16">諂諛 納치 말나</sent>
+<sent type="main" lang="kor" page="27b" n="17">君子 본 私情이 업니라</sent>
+<sent type="main" lang="kor" page="27b" n="18">圭菴 宋 先生이 [諡 文忠 名 麟壽] 子 戒여 曰</sent>
+<sent type="main" lang="kor" page="27b" n="19">拂意 憂치 말며</sent>
+<sent type="main" lang="kor" page="27b" n="20">快心을 喜치 말며</sent>
+<sent type="main" lang="kor" page="27b" n="21">久安을 特치 말며</sent>
+<sent type="main" lang="kor" page="27b-28a" n="22">初難을 憚치 말 니라</sent><!--憚^치-->
+
+<sent type="main" lang="kor" page="28a" n="1">是故로 易傳에 曰 龍蛇의 蟄은 存에 利이오</sent>
+<sent type="main" lang="kor" page="28a" n="2">尺蠖의 屈은 倍에 利이라 니라</sent>
+<sent type="main" lang="kor" page="28a" n="3">孔子ㅣ 曰 天의 道 盈을 虧고</sent>
+<sent type="main" lang="kor" page="28a" n="4">謙을 益며</sent>
+<sent type="main" lang="kor" page="28a" n="5">地의 道 盈을 變야</sent>
+<sent type="main" lang="kor" page="28a" n="6">謙에 益며</sent>
+<sent type="main" lang="kor" page="28a" n="7">人의 道 盈을 惡고</sent>
+<sent type="main" lang="kor" page="28a" n="8">謙을 好며</sent>
+<sent type="main" lang="kor" page="28a" n="9">鬼神은 盈을 害고</sent>
+<sent type="main" lang="kor" page="28a" n="10">謙을 福다 니라</sent>
+<sent type="main" lang="kor" page="28a" n="11">是故로 人의 道 溫良恭儉 中에 萬事 做며</sent>
+<sent type="main" lang="kor" page="28a" n="12">百福을 招니라</sent>
+<sent type="main" lang="kor" page="28a" n="13">大人은 可히 畏치 아니치 못지니</sent>
+<sent type="main" lang="kor" page="28a" n="14">大人을 畏 則</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="28b" n="1">放逸 心이 無니라</sent>
+<sent type="main" lang="kor" page="28b" n="2">小民을  畏치 아니치 못 거시니</sent>
+<sent type="main" lang="kor" page="28b" n="3">小民을 畏 則</sent>
+<sent type="main" lang="kor" page="28b" n="4">豪橫 名이 無니라</sent>
+<sent type="main" lang="kor" page="28b" n="5">士君子ㅣ 貧야</sent>
+<sent type="main" lang="kor" page="28b" n="6">能히 物을 濟치 못 者</sent>
+<sent type="main" lang="kor" page="28b" n="7">人의 癡迷 事 遇거든</sent>
+<sent type="main" lang="kor" page="28b" n="8">一言을 出야 提醒며</sent>
+<sent type="main" lang="kor" page="28b" n="9">人의 急難 事 當거든</sent>
+<sent type="main" lang="kor" page="28b" n="10">一言을 出야 救解면</sent>
+<sent type="main" lang="kor" page="28b" n="11">이도  無量 功德이니라</sent>
+<sent type="main" lang="kor" page="28b" n="12">人生이 幻景과 眞景이 잇스니</sent>
+<sent type="main" lang="kor" page="28b" n="13">幻으로 볼진</sent>
+<sent type="main" lang="kor" page="28b" n="14">功名 富貴로부터 吾의 肢體지 無非 外物이오</sent>
+<sent type="main" lang="kor" page="28b" n="15">眞으로 볼진</sent>
+<sent type="main" lang="kor" page="28b" n="16">父母 兄弟로붓터 天下 萬物지 無非 一體니</sent>
+<sent type="main" lang="kor" page="28b" n="17">人이 能히 幻眞 二景을 大眼으로 看破여사</sent>
+<sent type="main" lang="kor" page="28b-29a" n="18">可히  天下 擔負 任 거시오</sent><!--可^히-->
+
+<sent type="main" lang="kor" page="29a" n="1">可히  世間 韁鎖 脫지니라</sent>
+<sent type="main" lang="kor" page="29a" n="2">富貴와 名譽가 道德으로 從來 者</sent>
+<sent type="main" lang="kor" page="29a" n="3">山林中花 갓타 스스로 舒徐 繫衍고</sent>
+<sent type="main" lang="kor" page="29a" n="4">功業으로 從來 者</sent>
+<sent type="main" lang="kor" page="29a" n="5">益檻中花와 갓타 문듯 遷徒廢興 態가 잇고</sent>
+<sent type="main" lang="kor" page="29a" n="6">만일 權勢로 得 者</sent>
+<sent type="main" lang="kor" page="29a" n="7">그 根이 植지 못야</sent>
+<sent type="main" lang="kor" page="29a" n="8">그 凋萎을 可히 立待리라</sent>
+<sent type="main" lang="kor" page="29a" n="9">旣敗 事 救 者</sent>
+<sent type="main" lang="kor" page="29a" n="10">臨崖 馬 御홈과 如니</sent>
+<sent type="main" lang="kor" page="29a" n="11">一鞭이라도 輕히 말 거시오</sent>
+<sent type="main" lang="kor" page="29a" n="12">垂成 功을 圖 者</sent>
+<sent type="main" lang="kor" page="29a" n="13">上灘 舟 挽과 如니</sent>
+<sent type="main" lang="kor" page="29a-29b" n="14">一棹라도 停치 못지니라</sent><!--停치 ^ 못지니라-->
+
+<sent type="main" lang="kor" page="29b" n="1">恩은 市이 報德 厚意만 갓지 못고</sent>
+<sent type="main" lang="kor" page="29b" n="2">忿을 雪이 忍恥하 高趣 맛 갓지 못니라</sent>
+<sent type="main" lang="kor" page="29b" n="3">士亭 李 先生이 [名 之菡 韓山人] 妙年에 花潭 徐 先生긔 周易을 受 셰</sent>
+<sent type="main" lang="kor" page="29b" n="4">非隣 商賈의 집에 寓居더니</sent>
+<sent type="main" lang="kor" page="29b" n="5">主婦가 姿色이 絶倫호</sent>
+<sent type="main" lang="kor" page="29b" n="6">先生이 往來에 留眼치 아니더니</sent>
+<sent type="main" lang="kor" page="29b" n="7">一日은 厥婦ㅣ 其 夫의 商行을 促거</sent>
+<sent type="main" lang="kor" page="29b" n="8">其 夫ㅣ 疑야 佯出야 瞰窺더니</sent>
+<sent type="main" lang="kor" page="29b" n="9">日이 昏</sent>
+<sent type="main" lang="kor" page="29b" n="10">土亭이 明燈고 讀書거</sent>
+<sent type="main" lang="kor" page="29b" n="11">厥婦ㅣ 燈邊의 坐야 桃戱가 甚호</sent>
+<sent type="main" lang="kor" page="29b" n="12">土亭이 不應고 擧理야 大責</sent>
+<sent type="main" lang="kor" page="29b-30a" n="13">厥婦ㅣ 愧泣더니</sent><!--厥婦^ㅣ-->
+
+<sent type="main" lang="kor" page="30a" n="1">其 夫ㅣ 在外 窺視야</sent>
+<sent type="main" lang="kor" page="30a" n="2">當場 景色을 다 알고</sent>
+<sent type="main" lang="kor" page="30a" n="3">夜間에 花潭 宅으로 直赴야</sent>
+<sent type="main" lang="kor" page="30a" n="4">門을 叩고 入 曰</sent>
+<sent type="main" lang="kor" page="30a" n="5">先生의 門下에 學文 士ㅣ 眞箇聖人이라 고</sent>
+<sent type="main" lang="kor" page="30a" n="6">그 緣由 다 陳說</sent>
+<sent type="main" lang="kor" page="30a" n="7">花潭이 警聽고</sent>
+<sent type="main" lang="kor" page="30a" n="8">土亭 寓에 卽 往야 謝 曰</sent>
+<sent type="main" lang="kor" page="30a" n="9">公이 敬德[花潭 名]의 師ㅣ오 </sent>
+<sent type="main" lang="kor" page="30a" n="10">敬德의 友이 아니라</sent>
+<sent type="main" lang="kor" page="30a" n="11">말며 業을 受가보냐 니</sent>
+<sent type="main" lang="kor" page="30a" n="12">學者의 實心 踐履가 合當이 이러지니라</sent>
+<sent type="main" lang="kor" page="30a" n="13">學者의 習  瀜會고</sent>
+<sent type="main" lang="kor" page="30a" n="14">心柱가 堅히 立여사</sent>
+<sent type="main" lang="kor" page="30a" n="15">後日의 君을 事며</sent>
+<sent type="main" lang="kor" page="30a" n="16">民을 臨</sent>
+<sent type="main" lang="kor" page="30a" n="17">奸人의 誤  되지 아니니라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="30b" n="1">孔子ㅣ 曰  曰타 아니랴</sent>
+<sent type="main" lang="kor" page="30b" n="2">涅여도 淄치 아니며</sent>
+<sent type="main" lang="kor" page="30b" n="3">한 堅타 아니랴</sent>
+<sent type="main" lang="kor" page="30b" n="4">磨여도 磷치 아니다 시니라 </sent>
+<sent type="main" lang="kor" page="30b" n="5">如是 後에야 君을 奉며</sent>
+<sent type="main" lang="kor" page="30b" n="6">社 扶 砥柱가 되니라</sent>
+<sent type="note" lang="kor" page="30b" n="7">小學讀本 終</sent><!-- ^ -->
+
+</doc>
+

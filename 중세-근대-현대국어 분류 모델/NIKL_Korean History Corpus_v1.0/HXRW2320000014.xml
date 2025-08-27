@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">간이벽온방</title>
+<title lang="chi">簡易辟瘟方</title>
+<full_name></full_name><!--전체 서명은 책의 겉장 위에 표시된 표제(=외제) 내지 책의 본문 머리에 표시된 권수제(=내제)를 입력하되, 권차 정보는 제외한다(권차 정보는 volume 태그의 n 속성에 기재함). 외제와 내제가 다를 경우 내제를 입력하고, 외제는 주석처리한다.-->
+<general_name>간이벽온방</general_name><!--국어학계에서 일반적으로 통용되는 명칭 하나를 입력한다.-->
+<another_name>벽온방</another_name><!--'디지털한글박물관 한글문헌통합정보'에 실린 '문헌이칭'의 항목에서 약어를 제외한 이칭을 중심으로 기입하되, 옛말 사전류에 다른 이칭이 제시될 경우 추가함-->
+<abbre>[고] ;[디] ;[우] ;[이] ;[표];</abbre><!--[고]: 고어사전 출전 약어, [디]디지털한글박물관 한글문헌통합정보, [우]: 우리말큰사전 옛글 준이름 죽보기, [이]: 이조어사전 출전약호-->
+<version>번각본(을해자본)</version><!--1525년 초간본은 불전. 번각본으로 보이는 1578년 을해자본과 1613년 훈련도감자본 두 종류가 전함. 을해자본은 내사기가 없는 고려대 도서관본과 내사기가 있는 고려대 만송문고본이 전하고, 이 둘은 모두 동일함. 훈련도감자본은 규장각본이 전함. 을해자본의 중간으로 보이며 표기법에서 을해자본에 비해 약간의 혼란이 있음(ㅿ의 혼란, ㆁ의 혼란)-->
+<volume n=""/>
+<author></author>
+<date>1525(1578)</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>중간본(1578 을해자본)/민족문화연구7</title><!--아무개 복사본, 국가기록유산, 디지털한글박물관 등-->
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date></date>
+<respStmt>
+<resp>입력자</resp><name>정한데로</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name></name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="서01b" n="1">簡易辟瘟方序</sent>
+<sent type="main" lang="kor" page="서01b-02a" n="1">歲甲申ᄉ  關西ᄉ 다해 모딘 이 크게 니러나 傳染야 灾해 외야 사니 해 즐어 주구믈 乙酉年 봄지히 긋디 아니거늘</sent><!--ᄉ ^ 다-->
+
+<sent type="main" lang="kor" page="서02a" n="1">上이 나쟈 밤이야 시름샤 놀라샤 믈읫 비롤 법을 아니실 일 업시 시고</sent>
+<sent type="main" lang="kor" page="서02a-02b" n="2"> 醫官을 藥 가지여 分야 보내샤 救라 샤 周 죡디 몯가 려샤</sent><!--가 ^ -->
+
+<sent type="main" lang="kor" page="서02b" n="1">특별히 行副護軍 臣 金順蒙 禮賓寺主簿 臣 劉永貞 前內醫院正 臣 朴世擧을 命샤</sent>
+<sent type="main" lang="kor" page="서02b" n="2">여러 가짓 문에 덥단  고툘 법을  纂집야 一篇을 라 시니</sent>
+<sent type="main" lang="kor" page="서02b" n="3">일후믈 簡易辟瘟方이라 야 언문으로 번역야 바가 中外예 頒포샤</sent>
+<sent type="main" lang="kor" page="서02b-03a" n="4">사마다 쉬 알에 시니 비록 窮村僻巷이라도 다 문을 의거야 救야 사게 시니</sent><!--다 ^ 쉬-->
+
+<sent type="main" lang="kor" page="서03a" n="1">진실로 聖上ᄉ 好生시 德과 傷가  신 仁곳 아니시면 엇디 이에 미츠시리오 탄홉다 그 지극신뎌</sent>
+<sent type="main" lang="chi" page="서03a-03b" n="2">嘉靖 四年 乙酉 正月 二十五日 通政大夫 承政院 都承旨 兼 經筵參贊官 春秋館 脩撰官 藝文館 直提學 尙瑞院正 臣 金希壽 奉 敎謹書</sent>
+
+<sent type="title" lang="chi" page="01a" n="1">簡易辟瘟方</sent>
+<sent type="title" lang="kor" page="01a" n="1">간이벽온</sent>
+<sent type="main" lang="kor" page="01a-01b" n="2">그 이 時氣와 덥듯 과로 가지니 一歲 內예 시졀 긔운이 됴화티 아니며</sent><!--화^티-->
+
+<sent type="main" lang="kor" page="01b" n="1">치우며 더우미 그르츠며 或과  과  비와 안개와 이스리 헤여디디 아니면</sent>
+<sent type="main" lang="kor" page="01b" n="2">사이 해 모딘 을 호 얼운 아 업시 다 야 모딘 귓거싀 긔운  疫癘ᄉ 이라 니</sent>
+<sent type="main" lang="kor" page="01b" n="3">病氣 서르 뎐염야 가문이 업게 다 사게 너추 도로 모로매 미리 약도 머그며 법야 마라</sent>
+
+<sent type="main" lang="kor" page="02b" n="1">모딘  니러 나 쉬을 처 흘리디 아니야 그 더러운 모딘 거시 여 외며</sent>
+<sent type="main" lang="kor" page="02b" n="2">해 사이 해 주근 긔운이 鬱發야 외며 官吏 枉抑야 원슈로 외니</sent>
+<sent type="main" lang="kor" page="02b-03a" n="3">이리 닐온 獄溫 傷溫 墓溫 廟溫 社溫 山溫 海溫 家溫 竈溫 歲溫 天溫 地溫 히니 업게  법은 屠蘇酒와 螢火元과 殺鬼煎과 神明散괘 다 업게  법이어니와</sent><!--殺^鬼-->
+
+<sent type="main" lang="kor" page="03a" n="1">오직 劉根의 別傳에 올셔 다리  大歲 四方 가온  </sent>
+<sent type="main" lang="kor" page="03a" n="2">기 석 자히오 너븨도 티 고 조 몰애 석 셤을 몌오고 됴 수울 서 되 그 우희 븟고 그 올 원으로 빌라</sent>
+<sent type="main" lang="kor" page="03a" n="3">이도  모딘 긔운을 더 됴 術이라</sent>
+<sent type="main" lang="kor" page="03a" n="4">大歲 六合 歲ᄉ 긔운 泄호미 인   니라</sent>
+
+<sent type="anno" lang="kor" page="03b" n="1">六合은 天地와 四方이라</sent>
+<sent type="main" lang="kor" page="03b-04a" n="1">蘇合香元은 귓것 긔운과 시 병긔와 귀신 샤 고티니 머고 네 환  므레 프러 머그라</sent><!-- ^ 병-->
+
+<sent type="main" lang="kor" page="04a" n="1"> 수울도 므던니라</sent>
+<sent type="main" lang="kor" page="04a" n="2">늘그니와 져므니왜  환곰 다 空心에 머그라</sent>
+<sent type="main" lang="kor" page="04a" n="3">밀든 죠예  환 탄만 케 야  블근 깁 주머니예 녀허  마초매 메면 一切 邪神이 갓가이 오디 몯니라</sent>
+<sent type="main" lang="kor" page="04a-04b" n="4">瘟疫 지븨 드러가 몬져 문 열오 큰 소 믈 두 말을 다마 집 가온셔 스므 환 달히면 그 香이 能히 모딘 긔운을 업게 니라</sent><!--히^면-->
+
+<sent type="main" lang="kor" page="04b" n="1"> 사이 各各  잔곰 머근 후에 의원이 드러가  자바 보면 서르 텬염티 아니니라</sent>
+
+<sent type="main" lang="kor" page="05a" n="1">모딘  지븨 드러가 서르 뎐염티 아니케 호 石雄黃을 라 므레 프러 부도로 만히 무텨 곳굼긔 면 病人과  안자도 뎐염티 아니니 시슨 후와 누워 잘 저긔 디그라</sent>
+<sent type="main" lang="kor" page="05a" n="2">믈읫 덥단  지븨 절로 모딘 긔운이 나니 마면 즉재 숫굼그로 올아 百脈애 헤여디여 올마 서르 뎐염니</sent>
+<sent type="main" lang="kor" page="05a-05b" n="3">만일에 과이 약 업거든 기름을 고해 고 죠 심으로 고침야 욤 요미 됴니라</sent><!-- ^ 심-->
+
+<sent type="main" lang="kor" page="05b" n="1"> 石雄黃을 사이 면 鬼神이 갓가이 오디 몯니라</sent>
+<sent type="main" lang="kor" page="06a" n="1">香蘇散은 四時예 瘟疫이며 傷寒 고티니라</sent>
+<sent type="main" lang="kor" page="06a" n="2">香附子</sent>
+
+<sent type="anno" lang="kor" page="06a" n="1">봇가 터럭 업게 넉 </sent>
+<sent type="main" lang="kor" page="06a" n="3">甘草</sent>
+<sent type="anno" lang="kor" page="06a" n="2">구어  </sent>
+<sent type="main" lang="kor" page="06a" n="4">紫蘇葉</sent>
+<sent type="anno" lang="kor" page="06a" n="3">넉 </sent>
+<sent type="main" lang="kor" page="06a" n="5">陳皮</sent>
+<sent type="anno" lang="kor" page="06a" n="4"> 것 앗디 말오 두 </sent>
+<sent type="main" lang="kor" page="06a" n="6">蒼朮</sent>
+<sent type="anno" lang="kor" page="06a" n="5">두 </sent>
+<sent type="main" lang="kor" page="06a-06b" n="7">이 약  굵게 사라  복애 서 돈식 야 믈  사발 브 달히니</sent><!--^야-->
+
+<sent type="main" lang="kor" page="06b" n="1">닐굽 분이어든 즈 업게 고 더우니 머고  혜디 말오  세 번식 머그라</sent>
+<sent type="anno" lang="kor" page="06b" n="1">아 셴 늘근 사이 이 문을  가면 사을 주어 그 사이 크게  사 다 주니</sent>
+<sent type="anno" lang="kor" page="06b" n="2"> 사히 다 됴니 그 후에 알히 귓거시 가면 사려 무러 가면 사이 올 으로 닐어</sent>
+<sent type="anno" lang="kor" page="06b" n="3">귓거시 닐오 이 늘근 사이 세 사 치니라 고 니마 좃고 믈러 가니라</sent>
+
+<sent type="main" lang="kor" page="07a" n="1">十神湯은 時令이 不正야 덥단 병이 간대로 行며 感冒로 發熱니 고티니라</sent>
+<sent type="main" lang="kor" page="07a" n="2">川芎 甘草</sent>
+<sent type="anno" lang="kor" page="07a" n="3">굽고</sent>
+<sent type="main" lang="kor" page="07a" n="4">麻黃</sent>
+<sent type="anno" lang="kor" page="07a" n="5">불휘 업게 고</sent>
+<sent type="main" lang="kor" page="07a" n="6">乾葛 升麻</sent>
+<sent type="anno" lang="kor" page="07a" n="7">머리 업게 고</sent>
+<sent type="main" lang="kor" page="07a-07b" n="8">白芷陳 皮香附子</sent><!--陳 ^ 皮-->
+
+<sent type="anno" lang="kor" page="07b" n="1">봇가 터럭 업게 고</sent>
+<sent type="main" lang="kor" page="07b" n="2">赤芍藥 紫蘇葉</sent>
+<sent type="anno" lang="kor" page="07b" n="3">各 넉 </sent>
+<sent type="main" lang="kor" page="07b" n="4">이 약 횩게 사라  복애 서 돈식 야 믈  사발 가옫과  다 편 녀허 달히니</sent>
+<sent type="main" lang="kor" page="07b" n="5">닐굽 분이어든 즈 업게 고 더우니  혜디 말오 머그라</sent>
+
+<sent type="main" lang="kor" page="08a" n="1">升麻 葛根湯은 傷寒커나 시긔ᄉ 야 머리 알며 치운 긔운이 더으며  덥달어든 고티며</sent>
+<sent type="main" lang="kor" page="08a" n="2"> 치움 더우미 시졀에 맛갓디 아니야 사이 만히 모딘 니 조차 고티니라</sent>
+<sent type="main" lang="kor" page="08a" n="3">升麻 白芍藥 甘草</sent>
+<sent type="anno" lang="kor" page="08a" n="4">各  </sent>
+<sent type="main" lang="kor" page="08b" n="5">葛根</sent>
+
+<sent type="anno" lang="kor" page="08b" n="1">  반</sent>
+<sent type="main" lang="kor" page="08b" n="2">이 약 횩게 사라  복애 너 돈식 야 믈  사발 가옫 브 달히니</sent>
+<sent type="main" lang="kor" page="08b" n="3"> 사발로 나히어든 즈 업게 야 잠 더여  혜디 말오  두세 번식 머고  업고 몸 도록 라</sent>
+
+<sent type="main" lang="kor" page="09a" n="1">屠蘇酒 모딘 病氣 업게 야 사게 드디 몯게 니라</sent>
+<sent type="main" lang="kor" page="09a" n="2">大黃 桔梗 屬椒 桂心</sent>
+<sent type="anno" lang="kor" page="09a" n="3">各   반</sent>
+<sent type="main" lang="kor" page="09a" n="4">虎杖根</sent>
+<sent type="anno" lang="kor" page="09a" n="5">   돈</sent>
+<sent type="main" lang="kor" page="09a" n="6">白朮</sent>
+<sent type="anno" lang="kor" page="09a-09b" n="7">  여듧 돈</sent><!-- ^ 여-->
+
+<sent type="main" lang="kor" page="09b" n="1">烏頭</sent>
+<sent type="anno" lang="kor" page="09b" n="1">여슷 돈</sent>
+<sent type="main" lang="kor" page="09b" n="2">이 닐굽 가짓 약을 사라 블근 깁 쟐 녀허</sent>
+<sent type="main" lang="kor" page="09b" n="3">十二月 그믐날 낫만 우믈 가온 믿 다케 갓다가</sent>
+<sent type="main" lang="kor" page="09b" n="4">正月ᄉ 초날 새배 내여 수우레 녀허 두세 소솜 글혀 東녁 문 向야 머고</sent>
+<sent type="main" lang="kor" page="09b" n="5">몬져 아 브터 얼운 至히 머그라 나히 머그면  지비 이 업고  지비 머그면  히 이 업니</sent>
+<sent type="main" lang="kor" page="09b-10a" n="6">그 즈 사 후에 도로 우므레 드리티면 덥단 긔 크게 업시 니라</sent><!--에 ^ 도-->
+
+<sent type="main" lang="kor" page="10b" n="1">螢火丸은 疾病이며 모딘 긔운이며 온 가짓 긧거슬 업게 니라</sent>
+<sent type="main" lang="kor" page="10b" n="2">鎣火 鬼箭 蒺黎</sent>
+<sent type="anno" lang="kor" page="10b" n="3">各  </sent>
+<sent type="main" lang="kor" page="10b" n="4">雄黃 雌黃 礬石</sent>
+<sent type="anno" lang="kor" page="10b" n="5">汁 업게 니 各 두 </sent>
+<sent type="main" lang="kor" page="10b" n="6">羖羊 角鍛 竈灰 鐵錘 柄入 鐵處</sent>
+<sent type="anno" lang="kor" page="10b" n="7">各   반</sent>
+<sent type="main" lang="kor" page="10b-11a" n="8">이 아홉 가짓 약을 디허 처  알 누른 과 블근 수의 벼츼 피오로 내여 조쳐 섯거 고 만 크게 야</sent><!--쳐 ^ 섯-->
+
+<sent type="main" lang="kor" page="11a" n="1">세  가진 블근  다 환을 녀허 왼녁 엇게예 메라</sent>
+<sent type="main" lang="kor" page="11a" n="2">만이레 軍中에 갈딘대 허리예 여 모매 내디 말라</sent>
+<sent type="main" lang="kor" page="11a" n="3"> 지비어든 문 우희 거러 두면 盜賊을 업게 니라</sent>
+
+<sent type="main" lang="kor" page="11b" n="1">虎頭 殺鬼元은 덥듯 을 업게 니라</sent>
+<sent type="main" lang="kor" page="11b" n="2">虎頭</sent>
+<sent type="anno" lang="kor" page="11b" n="3">닷 </sent>
+<sent type="main" lang="kor" page="11b" n="4">朱砂 雄黃 雌黃</sent>
+<sent type="anno" lang="kor" page="11b" n="5">各   반</sent>
+<sent type="main" lang="kor" page="11b" n="6">鬼臼 皂莢 蕪荑</sent>
+<sent type="anno" lang="kor" page="11b" n="7">各  </sent>
+<sent type="main" lang="kor" page="11b" n="8">이 닐굽 가짓 약을 라 와 밀와예 라 탄만케 야</sent>
+<sent type="main" lang="kor" page="11b-12a" n="9">블근 깁  녀허 남지 왼해 오 겨지븐 올 해 라</sent><!--지^-->
+
+<sent type="main" lang="kor" page="12a" n="1"> 집 네모해 도며  그믐날와 보롬날 밤 만  가온  환곰 라</sent>
+<sent type="main" lang="kor" page="12b" n="1">神明散은 모딘 을 업게 니라</sent>
+<sent type="main" lang="kor" page="12b" n="2">白朮 附子</sent>
+
+<sent type="anno" lang="kor" page="12b" n="1">구어 겁질 벗겨 各 두 </sent>
+<sent type="main" lang="kor" page="12b" n="3">桔梗 細辛</sent>
+<sent type="anno" lang="kor" page="12b" n="2">各  </sent>
+<sent type="main" lang="kor" page="12b" n="4">烏頭</sent>
+<sent type="anno" lang="kor" page="12b" n="3">구어 겁질 벗겨 넉 </sent>
+<sent type="main" lang="kor" page="12b" n="5">이 다 가짓 약을 굵게 디허 처 블근  녀허 면 사 히 다 病이 업스리라</sent>
+<sent type="main" lang="kor" page="12b" n="6"> 어더 잇거든  수우레  술만 프러 먹고 더퍼 도 내며 吐면 즉재 됴리라</sent>
+
+<sent type="main" lang="kor" page="13a" n="1"> 지븨 모딘 이 들어든 즉재 처  사 오 라 조케 야 밥  시예 면 곧 이 傳染티 아니니라</sent>
+<sent type="main" lang="kor" page="13a" n="2"> 모딘  지븨 무를 제 올손 가온 가락으로 次字 써 구디 쥐라</sent>
+
+<sent type="main" lang="kor" page="13b" n="1"> 해  울 예 매 四海神의 일후믈 세닐굽 번을 念면 온 가짓 邪氣며 모딘 긧거슬 업게 며 사도 덥듯 모딘 病을 아니케 니라</sent>
+<sent type="main" lang="kor" page="13b-14a" n="2"> 病 지븨 들제 매 세 번 念호미 더옥 됴니라</sent><!--호^미-->
+
+<sent type="main" lang="kor" page="14a" n="1">四海 神明을 呪야 닐오 東海神 阿明과 南海神 祝融과 西海神 巨乘과 北海神 禺强이라 라</sent>
+<sent type="main" lang="kor" page="14a" n="2"> 元梵恢漠 네  블근 거스로 써 며 라</sent>
+
+<sent type="main" lang="kor" page="14b" n="1"> [竹$(角+會)] [竹$(角+付)] [竹$(角+甫)] [竹$(角+忠)] 네  블근 거스로 써 門 左右邊에 브티라</sent>
+<sent type="main" lang="kor" page="14b" n="2"> 側栢 東녁 向 니플 외여 라 쉬예 나 수우레 나 프러 머그라</sent>
+<sent type="main" lang="kor" page="14b-15a" n="3"> 새뵈 주머니예 블근  녀허 우므레 이틀만 가 둣다가 그 집 사히 各各 스므 낫식 라</sent><!--레 ^ 이-->
+
+<sent type="main" lang="kor" page="15a" n="1"> 솔닙플 에 라  술식 수우레 프러  세 번식 머그라</sent>
+<sent type="main" lang="kor" page="15a" n="2"> 東녁으로 向 복화 가지 에 사라 달힌 믈로 목욕 라</sent>
+
+<sent type="main" lang="kor" page="15b" n="1"> 으로 病人의 누은 床네 를 各  붓식 마니 되 病人이 아디 몯게 라</sent>
+<sent type="main" lang="kor" page="15b" n="2"> 쉰 무나 박팀  구글 집안해 얼운이며 아히 다 하나 져그나 머그라</sent>
+<sent type="main" lang="kor" page="15b-16a" n="3"> 한 섯날 아 파와 염규와 마와 와 과 머그라</sent><!--^-->
+
+<sent type="main" lang="kor" page="16a" n="1">일후미 五辛이라</sent>
+<sent type="main" lang="kor" page="16a" n="2"> 시졀에  모딘 을 고툐  너삼 불휘 두 을 디허 처  복애 세 돈식 야 수울  사발 브 달히니</sent>
+<sent type="main" lang="kor" page="16a" n="3">반 사발이어든 즈 업게 고 다 머그면 즉재 됴리라</sent>
+
+<sent type="main" lang="kor" page="16b" n="1">  너삼 불휘 하며 져그믈 혜디 말오 므레 달혀 머그면 됸니라</sent>
+<sent type="main" lang="kor" page="16b" n="2"> 효 마  되 디혼 즙 서홉을 다 머그면 다시 아니 머거셔 됴리라</sent>
+<sent type="main" lang="kor" page="16b-17a" n="3"> 수릿날만 아 잇던 잡약을 면 모딘 긔운을 업게 니라</sent><!--모^딘-->
+
+<sent type="main" lang="kor" page="17a" n="1"> 蒼朮만 라도 됴니라</sent>
+<sent type="main" lang="kor" page="17a" n="2"> 대 오면 妖氣로 왼 거슬 업게 니라</sent>
+<sent type="main" lang="kor" page="17a" n="3"> 수릿날 으로 사 라 門 우희 두면 덥단 을 업게 니라</sent>
+
+<sent type="main" lang="kor" page="17b" n="1"> 사의 은 시긔ᄉ 으로  덥다라 미쳐 라 나닐 고티며 여러 가짓 毒을 업게 니</sent>
+<sent type="main" lang="kor" page="17b" n="2">소 니 디허 글흔 므를 브 머그라</sent>
+<sent type="anno" lang="kor" page="17b" n="3">野人乾은 소리예 치 됴니라</sent>
+<sent type="main" lang="kor" page="17b" n="4"> 겨집의 月水도 됴니라</sent>
+
+<sent type="main" lang="kor" page="18a" n="1"> 수릿날 낫맛감 菖蒲 수우레 石雄黃ᄉ  녀허 머그라</sent>
+<sent type="main" lang="kor" page="18a" n="2">여러 가짓 을 업게 며 온 가짓 벌에도 업게 니라</sent>
+
+<sent type="main" lang="kor" page="18b" n="1"> 덥단 모딘 을 고툐  레 됴 朱砂ᄉ   을 라 열  마곰 비여</sent>
+<sent type="main" lang="kor" page="18b" n="2">한 설날  기예 얼우니며 아히 아모 것도 먹디 말오 東녁 向야셔 셔 세닐굽곰  니예 다히디 말라</sent>
+<sent type="main" lang="kor" page="18b" n="3"> 블근  닐굽 나 조쳐 고 더러 우므레 드리티라</sent>
+<sent type="main" lang="kor" page="18b" n="4">이 법을 죽도록 닛디 말라</sent>
+
+<sent type="main" lang="kor" page="19a" n="1"> 正月 첫 저우룸날 뒷간 앏 검주를  가온 면 덥단 긔를 업게 니라</sent>
+<sent type="main" lang="kor" page="19a" n="2"> 冬至ᄉ 나래 블근 로 粥 수어 머그면 모딘 을 업게 니라</sent>
+<sent type="main" lang="kor" page="19a-19b" n="3"> 際夜ᄉ 바 헤 섭나모 사모 퓌우면 災厄을 업게 며 陽氣를 돕니라</sent><!--氣^를-->
+
+<sent type="main" lang="kor" page="19b" n="1">逼瘟丹을 퓌우면 덥듯 모딘 을 업게 니라</sent>
+<sent type="main" lang="kor" page="19b-20a" n="2">白檀 香降 眞香 馬蹄 香千 金草 蒿本 白芷 蒼朮</sent><!--蹄 ^ 香-->
+
+<sent type="anno" lang="kor" page="20a" n="1">各 석 </sent>
+<sent type="main" lang="kor" page="20a" n="1">大黃</sent>
+<sent type="anno" lang="kor" page="20a" n="2">넉  두 돈</sent>
+<sent type="main" lang="kor" page="20a" n="2">黃丹</sent>
+<sent type="anno" lang="kor" page="20a" n="3">넉 으로 衣 니피라</sent>
+<sent type="main" lang="kor" page="20a" n="3">이 약을 라 프레 彈子 티 호  의 여슷 환을 라</sent>
+<sent type="main" lang="kor" page="20a" n="4"> 降眞香을 퓌우며 이며 皂莢도 됴니라</sent>
+
+<sent type="main" lang="kor" page="20b" n="1"> 치우락 더우락  邪氣를 고툐 구은 甘草ᄉ   돈을 小便 서 홉애 녀허 저 프러 디거든 머고 됴토록 머그라</sent>
+<sent type="main" lang="kor" page="20b-21a" n="2"> 덥듯 과 뫼해 雲霧와 모딘 긔를 고티며 답답호 업게 호 蒼朮을 횩게 사라</sent><!--朮^을-->
+
+<sent type="main" lang="kor" page="21a" n="1">하며 져구믈 혜디 말오 므레 가 밤 자여 브레 외야 라  므레 프러 머그라</sent>
+<sent type="main" lang="kor" page="21a" n="2"> 덥듯 모딘 을 업게 호 굽 슬흐니 두 을 블근  녀허 남진 왼녁 겨집은 올 녀긔 라</sent>
+
+<sent type="main" lang="kor" page="21b" n="1"> 도 은 모다  덥단 病과 黃疸을 고티니 암도  되를 므레 가 밤 자여 즈 업게 고 다 머그라</sent>
+<sent type="main" lang="kor" page="21b" n="2"> 수여 을 퓌우면 덥단 모딘 을 업게 니라</sent>
+<sent type="anno" lang="kor" page="21b" n="3">은 나모돌 우희 잇 머리 롣고 구드니 긔라</sent>
+<sent type="main" lang="kor" page="21b-22a" n="4"> 너구릐 고기 모딘 긔와 덥듯 을 업게 니 로 녜 먹시 야 머그라</sent><!--^을-->
+
+<sent type="main" lang="kor" page="22a" n="1"> 臘享 눈므른 모다  덥단 모딘 時氣를 고티니 곤케 야 머그라</sent>
+<sent type="main" lang="kor" page="22a" n="2">어름믈도 됴며 거즙도 됴니라</sent>
+
+<sent type="main" lang="kor" page="22b" n="1"> 升麻 온 가짓 精魅와 오란 것과 얼엣 귓것과 덥단 과 모딘 긔운과 邪氣를 업게 니</sent>
+<sent type="main" lang="kor" page="22b" n="2">에 사라  을 믈 되 브 달힌 건즙을 머그면 즉재 吐야 毒氣 나리라</sent>
+</doc>

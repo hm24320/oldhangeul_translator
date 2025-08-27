@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title>武藝圖譜通志諺解 全</title>
+<author></author>
+<date>1790년</date>
+</titleStmt>
+<notesStmt>
+<bibl><title>武藝圖譜通志諺解</title>
+<pubPlace>서울</pubPlace>
+<publisher>경문사</publisher>
+<date>1981</date>
+</bibl>
+</notesStmt>
+<revisionDesc>
+<date>2015/07/12</date>
+<respStmt>
+<resp>입력자</resp><name>신용남</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>이전경</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">武藝圖譜通志諺解目錄</sent>
+<sent type="main" lang="chi" page="01a" n="2">長槍</sent>
+<sent type="main" lang="chi" page="01a" n="3">竹長槍</sent>
+<sent type="main" lang="chi" page="01a" n="4">旗槍</sent>
+<sent type="main" lang="chi" page="01a" n="5">鎲鈀</sent>
+<sent type="main" lang="chi" page="01a" n="6">騎槍 [交戰譜附]</sent>
+<sent type="main" lang="chi" page="01a" n="7">狼筅</sent>
+<sent type="main" lang="chi" page="01a" n="8">雙手刀</sent>
+<sent type="main" lang="chi" page="01a" n="9">銳刀 [總譜附]</sent>
+<sent type="main" lang="chi" page="01a" n="10">倭劒 [交戰附]</sent>
+
+<sent type="main" lang="chi" page="01b" n="1">提督劒</sent>
+<sent type="main" lang="chi" page="01b" n="2">本國劒</sent>
+<sent type="main" lang="chi" page="01b" n="3">雙劒</sent>
+<sent type="main" lang="chi" page="01b" n="4">馬上雙劒</sent>
+<sent type="main" lang="chi" page="01b" n="5">月刀</sent>
+<sent type="main" lang="chi" page="01b" n="6">馬上月刀</sent>
+<sent type="main" lang="chi" page="01b" n="7">挾刀</sent>
+<sent type="main" lang="chi" page="01b" n="8">藤牌 [腰刀鏢槍附]</sent>
+<sent type="main" lang="chi" page="01b" n="9">拳法</sent>
+<sent type="main" lang="chi" page="01b" n="10">棍棒</sent>
+
+<sent type="main" lang="chi" page="02a" n="1">鞭棍</sent>
+<sent type="main" lang="chi" page="02a" n="2">馬上鞭棍</sent>
+<sent type="main" lang="chi" page="02a" n="3">擊毬</sent>
+<sent type="main" lang="chi" page="02a" n="4">馬上才</sent>
+
+<sent type="title" lang="chi" page="01a" n="1">武藝圖譜通志諺解</sent>
+<sent type="title2" lang="chi" page="01a" n="2">長槍前譜</sent>
+<sent type="main" lang="kor" page="01a" n="3">[原] 처음의 太山壓卵勢 고 즉시 美人認針勢 고</sent>
+<sent type="main" lang="kor" page="01a" n="4">인야 鐵翻竿勢 며 槍을 혀 四夷賓服勢 고 믄득 滴水勢 指南針勢 고</sent>
+<sent type="main" lang="kor" page="01a" n="5">즉시 발을 년야  거 나아가  滴水 指南針勢로 년야 두 거 나아가</sent>
+<sent type="main" lang="kor" page="01a-01b" n="6">믄득 鐵牛耕地勢 며 즉시 十面 埋伏勢 야  번 디라</sent><!--디^-->
+
+<sent type="main" lang="kor" page="01b" n="1">滴水 指南針勢로  거 믈너가고  滴水 指南針勢로  거 믈너가 原地에 셔라</sent>
+<sent type="main" lang="kor" page="01b" n="2">滴水 指南針勢로  거 나아가  滴水 指南針勢로 連야 두 거 나아가</sent>
+<sent type="main" lang="kor" page="01b" n="3">믄득 鐵牛耕地勢 며 十面 埋伏勢로  번 디라</sent>
+<sent type="main" lang="kor" page="01b" n="4"> 滴水 指南針勢 며 인야 邊攔勢 고</sent>
+<sent type="main" lang="kor" page="01b" n="5">급히 몸을 두루혀며 槍을 도로혀  거 믈너가 白猿拖刀勢 고</sent>
+<sent type="main" lang="kor" page="01b-02a" n="6">  거 믈너가 原地의셔 騎龍勢 라</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="02a" n="1"> 滴水 指南針勢로  거 나아가 믄득 鐵牛耕地勢 되여 十面 埋伏勢로  번 디고</sent>
+<sent type="main" lang="kor" page="02a" n="2">인야 滴水 指南針勢 되여 鐵翻竿勢로 槍을 點고 太公釣魚勢 고 츠라</sent>
+<sent type="title2" lang="chi" page="02a" n="3">長槍後譜</sent>
+<sent type="main" lang="kor" page="02a-02b" n="4">[原] 처음의 朝天勢 고 즉시 蒼龍擺尾勢 고  거 나아가 伏虎勢 고</sent><!--勢^-->
+
+<sent type="main" lang="kor" page="02b" n="1">  거 나아가 伏虎勢 고   거 나아가 堆山塞海勢 야  번 디라</sent>
+<sent type="main" lang="kor" page="02b" n="2"> 거 믈너가 鋪地錦勢 고   거 믈너가 琵琶勢 라</sent>
+<sent type="main" lang="kor" page="02b" n="3"> 거 나아가 鷂子撲鷯鶉勢 고   거 나아가 靈貓捉鼠勢 고   거 나아가 靑龍 獻爪勢 라</sent>
+<sent type="main" lang="kor" page="02b" n="4"> 거 믈너가 [馬+奄]劒勢 고   거 믈너가 闖鴻門勢 라</sent><!--원문의 글자는 '馬'와 '奄'자가 합쳐진 글자이나 글자를 찾을 수 없어 '[馬+奄]'로 처리함-->
+<sent type="main" lang="kor" page="02b-03a" n="5"> 거 나아가 夜叉探海勢 야 츠라</sent><!--^야-->
+
+<sent type="title2" lang="chi" page="04a" n="1">竹長槍譜</sent>
+<sent type="main" lang="kor" page="04a" n="2">[原] 처음의 太山壓卵勢 호 두 손으로 槍을 시므고 흔드러 磨며 놉히 소 고</sent>
+<sent type="main" lang="kor" page="04a" n="3">즉시 秦王點旗勢 호  번 들어  번 點기  세 번 고</sent>
+<sent type="main" lang="kor" page="04a" n="4">인야 金龍擺尾勢 호 右手로 앏흘 잡고 左手로 뒤흘 잡아 왼 편으로 弄기 세 번 고</sent>
+<sent type="main" lang="kor" page="04a" n="5">丹鳳舞風勢 호 올흔 편으로 弄기 세 번 고</sent>
+<sent type="main" lang="kor" page="04a-04b" n="6"> 韓信磨旗勢 호 두 손으로 槍 밀 잡아 앏흐로  번 디고</sent><!--잡^아-->
+
+<sent type="main" lang="kor" page="04b" n="1">左右 편으로 弄기  번 고 두 손을 놉히 들어</sent>
+<sent type="main" lang="kor" page="04b" n="2">인야 白猿拖刀勢 호 左手 초고 右手 놉혀 槍을 으러 믈너와 鐵翻竿勢 호</sent>
+<sent type="main" lang="kor" page="04b" n="3">두 손으로 槍 밀 잡아 平히 드되 앏흘 초며 뒤흘 놉히고</sent>
+<sent type="main" lang="kor" page="04b" n="4">인야 金龍擺尾勢 고  丹鳳舞風勢 고 즉시 韓信磨旗勢 고</sent>
+<sent type="main" lang="kor" page="04b" n="5">인야 白猿拖刀勢 야 믈너와 츠라</sent>
+
+<sent type="title2" lang="chi" page="05a" n="1">旗槍譜</sent>
+<sent type="main" lang="kor" page="05a" n="2">[原] 처음의 龍躍在淵勢 호 左手로 槍을 잡고 右手로 올흔 편을 고 바로 셧다가</sent>
+<sent type="main" lang="kor" page="05a" n="3">올흔 주먹으로 앏흘 티고 즉시 擧戟勢 호 右手와 左脚을 놉히 들어</sent>
+<sent type="main" lang="kor" page="05a" n="4">인야 夜叉探海勢 호 槍을 왼 편 녑 고 올흔 주먹으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="05a" n="5">인야 中平勢 호 左手 左脚으로  번 디고  中平勢 야  번 디고</sent>
+<sent type="main" lang="kor" page="05a-05b" n="6">인야 秦王磨旗勢 호 左手 左脚으로 밧그로부터 안흐로  번 磨고</sent><!-- ^ 호-->
+
+<sent type="main" lang="kor" page="05b" n="1">  번 磨고 즉시 韓信點旗勢 호 左手 左脚으로 안흐로부터 밧그로  번 點고</sent>
+<sent type="main" lang="kor" page="05b" n="2">즉시 中平勢로  번 디고 左右手 밧고아 잡아 伏虎勢 호</sent>
+<sent type="main" lang="kor" page="05b" n="3">左手 놉히고 右手 초아 左手와 右脚으로  번 디고  伏虎勢 야  번 디고</sent>
+<sent type="main" lang="kor" page="05b-06a" n="4">左右手 밧고아 잡아 堆山塞海勢 호 左手 左脚으로 놉히  번 디라</sent><!--로 ^ 놉-->
+
+<sent type="main" lang="kor" page="06a" n="1">인야 槍을 들고 왼 편으로 돌며 밧고아 잡아 銀蛟出海勢 호</sent>
+<sent type="main" lang="kor" page="06a" n="2">右手 右脚으로 槍을 弄고 뒤흘 向야 바로 드러와</sent>
+<sent type="main" lang="kor" page="06a" n="3">인야 中平勢 야  번 디고  伏虎勢 호</sent>
+<sent type="main" lang="kor" page="06a" n="4">左右手 밧고아 잡아 右手 놉히고 左手 초아 右手와 左脚으로  번 디고  伏虎勢 야  번 디라</sent>
+<sent type="main" lang="kor" page="06a-06b" n="5">즉시 왼 편으로  번 도라 밧고아 잡아 右手 右脚으로 올흔 편을 向야  번 디고</sent><!--^고-->
+
+<sent type="main" lang="kor" page="06b" n="1">즉시 올흔 편으로  번 도라 밧고아 잡아 左手 左脚으로 왼 편을 向야  번 디고</sent>
+<sent type="main" lang="kor" page="06b" n="2">즉시 왼 편으로  번 도라 밧고아 잡아 左手 右脚으로 뒤흘 向야  번 디고</sent>
+<sent type="main" lang="kor" page="06b" n="3">즉시 올흔 편으로  번 도라 밧고아 잡아 앏흘 向야  발 나아가며  거 여</sent>
+<sent type="main" lang="kor" page="06b" n="4">左手 左脚으로  번 디고 즉시 夜叉探海勢 야 츠라</sent>
+
+<sent type="title2" lang="chi" page="07a" n="1">鎲鈀譜</sent>
+<sent type="main" lang="kor" page="07a" n="2">[原] 처음의 朝天勢 고 즉시 中平勢 야  번 디고</sent>
+<sent type="main" lang="kor" page="07a" n="3"> 거 나아가 進步勢 야 中平勢로  번 디고</sent>
+<sent type="main" lang="kor" page="07a" n="4">  거 나아가 進步勢 되여 中平勢로  번 디고</sent>
+<sent type="main" lang="kor" page="07a" n="5">  거 나아가 中平勢로  번 디고 인야 伏虎勢 고</sent>
+<sent type="main" lang="kor" page="07a" n="6"> 발 나아가 騎龍勢 고  발 나아가 中平勢 야  번 디라</sent>
+<sent type="main" lang="kor" page="07a-07b" n="7"> 거 믈너가 伏虎勢 되여 中平勢로  번 디고</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="07b" n="1">  거 믈너가 伏虎勢 되여 中平勢로  번 디고</sent>
+<sent type="main" lang="kor" page="07b" n="2">  거 믈너가 伏虎勢 되여 中平勢로  번 디고</sent>
+<sent type="main" lang="kor" page="07b" n="3">인야 伏虎勢 되여  발 나아가 騎龍勢 되고 발을 連야  거 나아가 拿槍勢 고</sent>
+<sent type="main" lang="kor" page="07b" n="4"> 발 나아가 架槍勢 고  발 나아가 騎龍勢 되고 발을 連야  거 나아가 拿槍勢 되고</sent>
+<sent type="main" lang="kor" page="07b-08a" n="5"> 발 나아가 架槍勢 되고 인야 伏虎勢 되고  거 나아가 中平勢로  번 디라</sent><!--로^-->
+
+<sent type="main" lang="kor" page="08a" n="1"> 거 믈너가 伏虎勢 되여  번 디고   거 믈너가 伏虎勢 되여  번 디고</sent>
+<sent type="main" lang="kor" page="08a" n="2">  거 믈너가 伏虎勢 되여  번 디고 인야 伏虎勢 라</sent>
+<sent type="main" lang="kor" page="08a" n="3">올흔 편으로 向야  거 옴겨 나아가 騎龍勢로 츠라</sent>
+
+<sent type="title2" lang="chi" page="09a" n="1">騎槍譜</sent>
+<sent type="main" lang="kor" page="09a" n="2">[原] 처음의 이 나갈 제 右手로 곳비 잡고 왼 편 녑 槍을 고 新月上天勢 고</sent>
+<sent type="main" lang="kor" page="09a" n="3">右手로 앏흘 잡고 左手로 뒤흘 잡아 니마의 디나게 놉히 들어</sent>
+<sent type="main" lang="kor" page="09a" n="4">左右手 밧고아 잡아 左前一刺勢 고 左右手 밧고아 잡아 右前一刺勢 고</sent>
+<sent type="main" lang="kor" page="09a" n="5">左右手 밧고아 잡아 左後一刺勢 고 左右手 밧고아 잡아 右前一刺勢 고</sent>
+<sent type="main" lang="kor" page="09a-09b" n="6">左右手 밧고아 잡아 左前一刺勢 고</sent><!--右^手-->
+
+<sent type="main" lang="kor" page="09b" n="1">左右手 밧고아 잡아 右後一刺勢 고 左右手 밧고아 잡아 左前一刺勢 고</sent>
+<sent type="main" lang="kor" page="09b" n="2">左右手 밧고아 잡아 右前一刺勢 고 인야 弄槍勢 야</sent>
+<sent type="main" lang="kor" page="09b" n="3">올흔 편 안흐로  번 두루고 왼 편 안흐로  번 둘너 이치 기 졍수 업시 라</sent>
+<sent type="title2" lang="chi" page="09b" n="4">騎槍交戰譜</sent>
+<sent type="main" lang="kor" page="09b-10a" n="5">[增] 두 사이 을 셰오고 甲이 몬져 을 노하 百五十步 즈음에 니러 을 도로혀면</sent><!--하 ^ 百-->
+
+<sent type="main" lang="kor" page="10a" n="1">乙이 을 노하 서 만나 槍을 들어  번 다 잇고</sent>
+<sent type="main" lang="kor" page="10a" n="2">각각 올흔 편으로 조차 스쳐 디나 올흔 편을 도라보며 밧고아 原地의 니러 다시 을 노하 서 만나</sent>
+<sent type="main" lang="kor" page="10a" n="3">이치 기 세 번 고 甲이 乙을 차 서 싸호다가</sent>
+<sent type="main" lang="kor" page="10a" n="4">이긔디 못이 잡히임을 닙어 或 며 或  을 녀 原地로 도라가라</sent>
+
+<sent type="title2" lang="chi" page="11a" n="1">狼筅譜</sent>
+<sent type="main" lang="kor" page="11a" n="2">[原] 처음의 中平勢 고 즉시  발을 들어 閘下勢 고</sent>
+<sent type="main" lang="kor" page="11a" n="3">인야 架上勢 야  번 디고   번 디고</sent>
+<sent type="main" lang="kor" page="11a" n="4">즉시  거 나아가 閘下勢 되여 架上勢로  번 디고</sent>
+<sent type="main" lang="kor" page="11a" n="5">  거 나아가 閘下勢 되여 架上勢로  번 디고</sent>
+<sent type="main" lang="kor" page="11a" n="6">  거 나아가 閘下勢 되여 架上勢로  번 디고   번 디라</sent>
+<sent type="main" lang="kor" page="11a-11b" n="7"> 거 믈너가 拗步退勢 고 閘下勢 되여 架上勢로  번 디고</sent><!--上^勢-->
+
+<sent type="main" lang="kor" page="11b" n="1"> 拗步退勢로  거 믈너가 閘下勢 되여 架上勢로  번 디라</sent>
+<sent type="main" lang="kor" page="11b" n="2">인야 올흔 편으로 向야  거 옴겨 鉤開勢 고</sent>
+<sent type="main" lang="kor" page="11b" n="3">왼 편으로 向야  거 옴겨 閘下勢 되여 架上勢로  번 디고</sent>
+<sent type="main" lang="kor" page="11b" n="4">도로 올흔 편으로 向야  거 옴겨 鉤開勢 되고</sent>
+<sent type="main" lang="kor" page="11b" n="5">왼 편으로 向야  거 옴겨 閘下勢 되여 架上勢로  번 디고   번 디라</sent>
+<sent type="main" lang="kor" page="11b-12a" n="6"> 拗步退勢로  거 믈너가 閘下勢 되여 架上勢로  번 디고</sent><!--閘^下-->
+
+<sent type="main" lang="kor" page="12a" n="1"> 拗步退勢로  거 믈너가 閘下勢 되여 架上勢로  번 디라</sent>
+<sent type="main" lang="kor" page="12a" n="2"> 발 구고  거 나아가 騎龍勢 고 츠라</sent>
+
+<sent type="title2" lang="kor" page="13a" n="1">雙手刀譜</sent>
+<sent type="main" lang="kor" page="13a" n="2">[原] 칼을 디고 바로 셔 左手로 칼 잡아 즉시 見賊出劒勢 고</sent>
+<sent type="main" lang="kor" page="13a" n="3"> 거 나아가 칼로 마리 우흐로 조차  번 둘러 持劒對賊勢 고</sent>
+<sent type="main" lang="kor" page="13a" n="4"> 발 나아가 向左防賊勢 고   발 나아가 向右防賊勢 고</sent>
+<sent type="main" lang="kor" page="13a" n="5">몸을 두루혀  거 여 나아가 向上防賊勢 고</sent>
+<sent type="main" lang="kor" page="13a" n="6">몸을 도로혀  발 나아가 向前擊賊勢 야  번 티고</sent>
+<sent type="main" lang="kor" page="13a-13b" n="7">  거 나아가 向前擊賊勢로 왼 편을 向야  번 티고</sent><!--賊^勢-->
+
+<sent type="main" lang="kor" page="13b" n="1">  거 나아가 向前擊賊勢로 올흔 편을 향야  번 티라</sent>
+<sent type="main" lang="kor" page="13b" n="2">몸을 두루혀 初退防賊勢 야 믈너가 原地의 니라</sent>
+<sent type="main" lang="kor" page="13b" n="3">몸을 도로혀  거 나아가 進前殺賊勢 야  번 티고</sent>
+<sent type="main" lang="kor" page="13b" n="4">인야 몸을 두루혀 持劒進坐勢 고 즉시 拭劒伺賊勢 고</sent>
+<sent type="main" lang="kor" page="13b" n="5">도로  거 믈너가 閃劒退坐勢 고 니러 셔 다시  발 나아가 進前殺賊勢로  번 티고</sent>
+<sent type="main" lang="kor" page="13b-14a" n="6">  발 나아가 向上防賊勢 고</sent><!--발 ^ 나-->
+
+<sent type="main" lang="kor" page="14a" n="1">즉시  발 나아가 進前殺賊勢 야  번 티고</sent>
+<sent type="main" lang="kor" page="14a" n="2">인야 揮劒向賊勢 야 連야 세 거 나아가고 다시  발 나아가 進前殺賊勢로  번 티고</sent>
+<sent type="main" lang="kor" page="14a" n="3">  발 나아가 向上防賊勢 고  발 나아가 進前殺賊勢로  번 티고</sent>
+<sent type="main" lang="kor" page="14a" n="">  거 나아가  번 디라</sent>
+<sent type="main" lang="kor" page="14a" n="4">몸을 두루혀 칼노 세 번 저어 믈너가 再退防賊勢 야 믈너가 原地의 니라</sent>
+<sent type="main" lang="kor" page="14a-14b" n="5">몸을 도로혀  발 나아가 向上防賊勢 고</sent><!--아^가-->
+
+<sent type="main" lang="kor" page="14b" n="1">  발 나아가 向前擊賊勢 야  번 티고</sent>
+<sent type="main" lang="kor" page="14b" n="2">몸을 두루혀 持劒進坐勢 야 拭劒伺賊勢 고</sent>
+<sent type="main" lang="kor" page="14b" n="3">몸을 도로혀  발 나아가며 左手로 칼을 둘러 앏흘 向야</sent>
+<sent type="main" lang="kor" page="14b" n="4">右手로 다시 잡아 向左防賊勢 되고  발 나아가 向右防賊勢 고</sent>
+<sent type="main" lang="kor" page="14b" n="5">몸을 두루혀  거 나아가 向上防賊勢 되고</sent>
+<sent type="main" lang="kor" page="14b" n="6">몸을 도로혀  거 나아가 向前擊賊勢 야  번 티고</sent>
+<sent type="main" lang="kor" page="14b-15a" n="7">  거 나아가 向前擊賊勢로 왼 편을 向야  번 티고</sent><!-- ^ 나-->
+
+<sent type="main" lang="kor" page="15a" n="1">  거 나아가 向前擊勢로 올흔 편을 向야  번 티라</sent>
+<sent type="main" lang="kor" page="15a" n="2">몸을 두루혀 三退防賊勢 야 믈너가 原地의 니라</sent>
+<sent type="main" lang="kor" page="15a" n="3">몸을 도로혀  발 나아가 向前擊賊勢로  번 티고   거 나아가  번 티고</sent>
+<sent type="main" lang="kor" page="15a" n="4">몸을 두루혀 持劒進坐勢 야 拭劒伺賊勢 고</sent>
+<sent type="main" lang="kor" page="15a" n="5">몸을 도로혀 藏劒賈勇勢 고 츠라</sent>
+
+<sent type="title2" lang="kor" page="16a" n="1">銳刀譜</sent>
+<sent type="main" lang="kor" page="16a" n="2">[增] 擧鼎勢 곳 솟드 格이라</sent>
+<sent type="main" lang="kor" page="16a" n="3">法이 能히 솟드 格으로 우흐로 殺고</sent>
+<sent type="main" lang="kor" page="16a" n="4">左脚과 右手로 平擡勢로 앏흘 向야 버혀 티고</sent>
+<sent type="main" lang="kor" page="16a" n="5">가온로 殺야 退步裙襴셰 니라</sent><!--원문에는 한자 '勢'가 빠져 있는 것으로 보임-->
+<sent type="main" lang="kor" page="16a" n="6">法을 보라</sent>
+<sent type="main" lang="kor" page="16a" n="7">點劒勢 곳 칼을 點야 디이라</sent>
+<sent type="main" lang="kor" page="16a" n="8">法이 能히 편으로 번득이고 게 나아가 훌터 殺고</sent>
+<sent type="main" lang="kor" page="16a-16b" n="9">右脚 右手로 撥艸尋蛇勢로 앏흘 向야 버혀 걸어 御車格을 니라</sent><!--을 ^ -->
+
+<sent type="main" lang="kor" page="16b" n="1">法을 보라</sent>
+<sent type="main" lang="kor" page="16b" n="2">左翼勢 곳 왼 편 애로 티 거시라</sent>
+<sent type="main" lang="kor" page="16b" n="3">法이 能히 우흐로 도도고 아로 눌너 바로 손아귀 殺고</sent>
+<sent type="main" lang="kor" page="16b" n="4">右脚 右手로 直符送書勢로 앏흘 向야 버혀 걸어 逆鱗刺 니라</sent>
+<sent type="main" lang="kor" page="16b" n="5">法을 보라</sent>
+<sent type="main" lang="kor" page="16b" n="6">豹頭勢 곳 표범의 마리로 티 거시라</sent>
+<sent type="main" lang="kor" page="16b" n="7">法이 能히 벽녁치 텨 우흐로 殺고</sent>
+<sent type="main" lang="kor" page="16b" n="8">左脚 左手로 太山壓頂勢로 앏흘 向야 버혀 걸어 도도아 디니라</sent>
+<sent type="main" lang="kor" page="16b" n="9">法을 보라</sent>
+<sent type="main" lang="kor" page="16b-17a" n="10">坦腹勢 곳  헤치고 디이라</sent><!-- ^ 곳-->
+
+<sent type="main" lang="kor" page="17a" n="1">法이 能히 다 딜너 디고 가온로 殺고</sent>
+<sent type="main" lang="kor" page="17a" n="2">나아가기 문허디 뫼치 야</sent>
+<sent type="main" lang="kor" page="17a" n="3">右脚 右手로 蒼龍出水勢로 앏흘 向야 거을 나아가 허리 티니라</sent>
+<sent type="main" lang="kor" page="17a" n="4">法을 보라</sent>
+<sent type="main" lang="kor" page="17a" n="5">跨右勢 곳 올흔 편을 걸 티 거시라</sent>
+<sent type="main" lang="kor" page="17a" n="6">法이 能히 도도아 겨 아로 殺고</sent>
+<sent type="main" lang="kor" page="17a" n="7">左脚과 右手로 綽衣勢로 앏흘 向야 거을 나아가 티니라</sent>
+<sent type="main" lang="kor" page="17a" n="8">法을 보라</sent>
+<sent type="main" lang="kor" page="17a" n="9">撩掠勢 곳 도도아 훌 格이라</sent>
+<sent type="main" lang="kor" page="17a-17b" n="10">法이 能히 막고 밧아 아로 殺야</sent><!--히 ^ 막-->
+
+<sent type="main" lang="kor" page="17b" n="1">왼 편을 리우며 올흔 편을 호위고</sent>
+<sent type="main" lang="kor" page="17b" n="2">左脚 左手로 長蛟分水勢로 앏흘 向야 버혀 걸어 비븨여 티니라</sent>
+<sent type="main" lang="kor" page="17b" n="3">法을 보라</sent>
+<sent type="main" lang="kor" page="17b" n="4">御車勢 곳 술의 어거 格이라</sent>
+<sent type="main" lang="kor" page="17b" n="5">法이 能히 메워 어거야 가온로 殺고 두손을 가 殺고</sent>
+<sent type="main" lang="kor" page="17b" n="6">左脚과 右手로 衝鋒勢로 앏흘 向고 믈너 걸어 鳳頭洗 니라</sent><!--원문의 '洗'는 '勢'의 오각으로 보임-->
+<sent type="main" lang="kor" page="17b" n="7">法을 보라</sent>
+<sent type="main" lang="kor" page="17b" n="8">展旗勢 곳 旗 펴 야 티 거시라</sent>
+<sent type="main" lang="kor" page="17b-18a" n="9">法이 能히 겨 磨야 우흐로 殺고</sent><!--磨^-->
+
+<sent type="main" lang="kor" page="18a" n="1">左脚 左手로 托塔勢로 앏흘 向야 버혀 걸어 칼을 點니라</sent>
+<sent type="main" lang="kor" page="18a" n="2">法을 보라</sent>
+<sent type="main" lang="kor" page="18a" n="3">看守勢 곳 보고 직희여 티 거시라</sent>
+<sent type="main" lang="kor" page="18a" n="4">法이 能히 보며 직희여 모든 병긔 티고 디거든 직희여 定고</sent>
+<sent type="main" lang="kor" page="18a" n="5">모든 병긔 나아가기 어렵거든 긔틀을 보아 형셰 아 구을려 殺고</sent>
+<sent type="main" lang="kor" page="18a" n="6">左脚과 右手로 虎蹲勢로 앏흘 向야 거을 나아가 허리 티니라</sent>
+<sent type="main" lang="kor" page="18a" n="7">法을 보라</sent>
+<sent type="main" lang="kor" page="18a" n="8">銀蟒勢 곳 은구렁이 格이라</sent>
+<sent type="main" lang="kor" page="18a-18b" n="9">法이 能히 네 녁흐로 도라보아 몸을 두루고</sent><!--녁^흐-->
+
+<sent type="main" lang="kor" page="18b" n="1"> 能히 四面으로 노략야 殺야</sent>
+<sent type="main" lang="kor" page="18b" n="2">앏흘 向 즉 左手左脚이요 뒤흘 向 즉 右手 右脚이요</sent>
+<sent type="main" lang="kor" page="18b" n="3">움즉인 즉 左右旋風 야 번개티 殺니라</sent>
+<sent type="main" lang="kor" page="18b" n="4">法을 보라</sent>
+<sent type="main" lang="kor" page="18b" n="5">鑽擊勢 곳 비븨여 티 거시라</sent>
+<sent type="main" lang="kor" page="18b" n="6">法이 能히 비븨 格으로 훌터 殺고</sent>
+<sent type="main" lang="kor" page="18b" n="7">거유 형용과 올히 거으로 으며 딜너</sent>
+<sent type="main" lang="kor" page="18b" n="8">左脚 左手로 白猿出洞勢로 앏흘 向야 버혀 걸어 허리 티니라</sent>
+<sent type="main" lang="kor" page="18b" n="9">法을 보라</sent>
+<sent type="main" lang="kor" page="18b-19a" n="10">腰擊勢 곳 허리 티 거시라</sent><!--勢^-->
+
+<sent type="main" lang="kor" page="19a" n="1">法이 能히 빗기 딜너 가온대로 殺야</sent>
+<sent type="main" lang="kor" page="19a" n="2">몸과 거과 손과 칼이 으기 급 우 니</sent>
+<sent type="main" lang="kor" page="19a" n="3">이  티 거슨 칼 가온대 읏듬 티 거시라</sent>
+<sent type="main" lang="kor" page="19a" n="4">右脚 右手로 斬蛇勢로 앏흘 向야 거을 나아가 逆鱗 니라</sent>
+<sent type="main" lang="kor" page="19a" n="5">法을 보라</sent>
+<sent type="main" lang="kor" page="19a" n="6">展翅勢 곳 나 펴 티 거시라</sent>
+<sent type="main" lang="kor" page="19a" n="7">法이 能히  格으로 우흐로 殺고 도도며 훌터 아로 殺고</sent>
+<sent type="main" lang="kor" page="19a-19b" n="8">右脚 右手로 偏閃勢로 앏흘 向야 버혀 걸어 擧鼎格을 니라</sent><!--^니-->
+
+<sent type="main" lang="kor" page="19b" n="1">法을 보라</sent>
+<sent type="main" lang="kor" page="19b" n="2">右翼勢 곳 올흔 편 애로 티 거시라</sent>
+<sent type="main" lang="kor" page="19b" n="3">法이 能히 겨 兩翼을 殺고</sent>
+<sent type="main" lang="kor" page="19b" n="4">左脚과 右手로 雁字勢로 앏흘 向야 버혀 걸어 허리 티니라</sent>
+<sent type="main" lang="kor" page="19b" n="5">法을 보라</sent>
+<sent type="main" lang="kor" page="19b" n="6">揭擊勢 곳 들어 티 거시라</sent>
+<sent type="main" lang="kor" page="19b" n="7">法이 能히 기 格으로 우흐로 殺고 거거 套로 나아가</sent>
+<sent type="main" lang="kor" page="19b" n="8">左脚 左手로 虎坐勢로 앏흘 向야 믈너 걸어 딜너 씻니라</sent>
+<sent type="main" lang="kor" page="19b" n="9">法을 보라</sent>
+<sent type="main" lang="kor" page="19b" n="10">左挾勢 곳 왼 편으로  디 거시라</sent>
+<sent type="main" lang="kor" page="19b-20a" n="11">法이 能히 다 딜너 디고 가온대로 殺고</sent><!--能^히-->
+
+<sent type="main" lang="kor" page="20a" n="1">右脚 右手로 獸頭勢로 앏흘 向야 거을 나아가 허리 티니라</sent>
+<sent type="main" lang="kor" page="20a" n="2">法을 보라</sent>
+<sent type="main" lang="kor" page="20a" n="3">跨左勢 곳 왼 편으로 걸 티 거시라</sent>
+<sent type="main" lang="kor" page="20a" n="4">法이 能히 쓸어 노략야 아로 殺고</sent>
+<sent type="main" lang="kor" page="20a" n="5">右脚 右手로 提水勢로 앏흘 向야 거을 나아가 雙으로 기니라</sent>
+<sent type="main" lang="kor" page="20a" n="6">法을 보라</sent>
+<sent type="main" lang="kor" page="20a" n="7">掀擊勢 곳 흔드러 티 거시라</sent>
+<sent type="main" lang="kor" page="20a" n="8">法이 能히 흔드러 도도아 우흐로 殺고 훌터 걸어 비븨여 殺야</sent>
+<sent type="main" lang="kor" page="20a-20b" n="9">左脚과 右手로 朝天勢로 앏흘 向고 물너 걸어 坦腹刺 니라</sent><!--右^手-->
+
+<sent type="main" lang="kor" page="20b" n="1">法을 보라</sent>
+<sent type="main" lang="kor" page="20b" n="2">逆鱗勢 곳 비을 거슬여 디 거시라</sent>
+<sent type="main" lang="kor" page="20b" n="3">法이 能히 바로 목구멍과 목을 딜너</sent>
+<sent type="main" lang="kor" page="20b" n="4">右脚 右手로 探海勢로 앏흘 向야 버혀 걸어 左翼勢 니라</sent>
+<sent type="main" lang="kor" page="20b" n="5">法을 보라</sent>
+<sent type="main" lang="kor" page="20b" n="6">斂翅勢 곳 애 거두고 티 거시라</sent>
+<sent type="main" lang="kor" page="20b" n="7">法이 能히 거즛 치이고 와 속여</sent>
+<sent type="main" lang="kor" page="20b" n="8">左右手脚으로 拔蛇勢로 것고로 믈너가고 거을 나아가 허리 티니라</sent>
+<sent type="main" lang="kor" page="20b-21a" n="9">法을 보라</sent><!--法^을-->
+
+<sent type="main" lang="kor" page="21a" n="1">右挾勢 곳 올흔 편으로  디 거시라</sent>
+<sent type="main" lang="kor" page="21a" n="2">法이 能히 아 딜너 가온로 殺야</sent>
+<sent type="main" lang="kor" page="21a" n="3">左脚과 右手로 奔衝勢로 앏흘 向고셔 거러 擧鼎格을 니라</sent>
+<sent type="main" lang="kor" page="21a" n="4">法을 보라</sent>
+<sent type="main" lang="kor" page="21a" n="5">鳳頭勢 곳 鳳의 마리로 씻 거시라</sent>
+<sent type="main" lang="kor" page="21a" n="6">法이 能히 씨서 딜너 겨 殺고</sent>
+<sent type="main" lang="kor" page="21a" n="7">右脚 右手로 白蛇弄風勢로 앏흘 向고 버혀 걸어 드러 티니라</sent>
+<sent type="main" lang="kor" page="21a" n="8">法을 보라</sent>
+<sent type="main" lang="kor" page="21a" n="9">橫衝勢 곳 딜너 티 거시라</sent>
+<sent type="main" lang="kor" page="21a-21b" n="10">法이 能히 리 아 숨어 번득이고 구을너 殺야</sent><!--아 ^ 숨-->
+
+<sent type="main" lang="kor" page="21b" n="1">進退고 兩手 兩脚으로 형셰 아 딜너 나아가 버혀 걸어 도도아 노략 니라</sent>
+<sent type="main" lang="kor" page="21b" n="2">法을 보라</sent>
+<sent type="main" lang="kor" page="21b" n="3">太阿倒拖勢 처음의 套 가온 들매 몬져 左手로 칼 허리 굿이 잡고</sent>
+<sent type="main" lang="kor" page="21b" n="4">버거 右手 드러 하을 向야 놉히 들고  번 부고</sent>
+<sent type="main" lang="kor" page="21b" n="5"> 右手로 가아이 올흔 편 무흘 티고</sent>
+<sent type="main" lang="kor" page="21b" n="6">右足으로 左足을 빗기 티고 인야 擧鼎勢로 드니라</sent>
+<sent type="main" lang="kor" page="21b-22a" n="7">呂仙斬蛇勢 左手로 허리 괴오고</sent><!-- ^ 괴-->
+
+<sent type="main" lang="kor" page="22a" n="1">右手로  칼 허리 잡아 공듕을 向야 놉히  길 남즉이 더져</sent>
+<sent type="main" lang="kor" page="22a" n="2"> 등이 도라 구을너 러디거든 됴곰  거 나아가 손으로 밧아</sent>
+<sent type="main" lang="kor" page="22a" n="3">이치 기 세 번 니라</sent>
+<sent type="main" lang="kor" page="22a" n="4">羊角弔天勢 套 가온대로 붓터 됴곰 믈너 어 안</sent>
+<sent type="main" lang="kor" page="22a" n="5">右手로 칼  잡아  칼 등을 左手 第一指의 메우고</sent>
+<sent type="main" lang="kor" page="22a" n="6">右手로 緊緊히 칼 마리 토기면 손가락을 둘너 도라</sent>
+<sent type="main" lang="kor" page="22a" n="7">구을너 다 함 손가락의 니러 無名小指 이의 와 그치니</sent>
+<sent type="main" lang="kor" page="22a-22b" n="8">라 銀 독 니라</sent><!--^니-->
+
+<sent type="main" lang="kor" page="22b" n="1">金剛步雲勢 세 번 몸을 도로혀 左右로 顧眠고</sent>
+<sent type="main" lang="kor" page="22b" n="2">놉히 칼을 드러 마리 우흐로 둘러 揮斥니라</sent>
+<sent type="title2" lang="kor" page="22b" n="3">銳刀總譜</sent>
+<sent type="main" lang="kor" page="22b" n="4">[增] 처음의 太阿倒拖勢 호 左手로 칼 허리 잡고 右手 놉히 들고 나아가</sent>
+<sent type="main" lang="kor" page="22b" n="5">右手의 칼을 밧고아 잡고 右足을 들어 見賊出劒勢 고</sent>
+<sent type="main" lang="kor" page="22b" n="6">右脚으로 앏흘  번 텨 鳳頭勢 고 올흔 편으로  번 도라 向右防賊 고</sent>
+<sent type="main" lang="kor" page="22b-23a" n="7">인야 左右防身 고 右手 右脚으로  번 딜너 白蛇弄風勢 고</sent><!--左^右-->
+
+<sent type="main" lang="kor" page="23a" n="1">왼 편으로  번 도라 向左防賊 고 인야 左右防身 고</sent>
+<sent type="main" lang="kor" page="23a" n="2">右手와 左脚으로  번 딜너 白蛇弄風勢 고</sent>
+<sent type="main" lang="kor" page="23a" n="3">올흔 편으로  번 도라 左足을 들고 안흐로 쓰쳐 右手 右脚으로  번 텨 左挾勢 고</sent>
+<sent type="main" lang="kor" page="23a" n="4"> 번 여 나아가 左右防身 고 右手와 左脚으로  번 딜너 獸頭勢 고</sent>
+<sent type="main" lang="kor" page="23a-23b" n="5">칼을 두루며 올흔 편으로  번 도라 銀蟒勢 야</sent><!-- ^ 번-->
+
+<sent type="main" lang="kor" page="23b" n="1">세 번 도라 믈너 드러와 左手로 칼 허리 잡아 太阿倒拖勢 고</sent>
+<sent type="main" lang="kor" page="23b" n="2">右手로 칼 허리 밧고아 잡아 공즁을 向야 놉히 길 남아 더지고</sent>
+<sent type="main" lang="kor" page="23b" n="3">그 려옴을 라 손으로 밧아 呂仙斬蛇勢 호 이치 세 번 고</sent>
+<sent type="main" lang="kor" page="23b" n="4">左手로 허리 고 右手 右脚으로 앏흘 向야  번 티고</sent>
+<sent type="main" lang="kor" page="23b" n="5">즉시 왼 편으로 도라 右手 右脚으로  번 텨 逆鱗勢 고</sent>
+<sent type="main" lang="kor" page="23b-24a" n="6">인야 左右防身 고 뒤흐로  번 딜너 獸頭勢 고</sent><!--頭^勢-->
+
+<sent type="main" lang="kor" page="24a" n="1">즉시 몸을 도로혀 앏흘 向야 올흔 편 아 칼을 초아 撩掠勢 고</sent>
+<sent type="main" lang="kor" page="24a" n="2"> 거 여 앏흘 向야 나아가 안며 노  우흘 向야 긴히  아부텨 掀擊勢 고</sent>
+<sent type="main" lang="kor" page="24a" n="3">즉시 니러나 左足을 나아가며 左防身 고 右足을 나아가며 右防身 고</sent>
+<sent type="main" lang="kor" page="24a" n="4">左足을 나아가며 金剛步雲勢 고 즉시 왼 편으로  번 도라 믈너 드러가</sent>
+<sent type="main" lang="kor" page="24a-24b" n="5">앏흘 向야 왼 편 우희 칼을 초아 右翼勢 고 왼 편으로 도라 屛風勢 고</sent><!--風^勢-->
+
+<sent type="main" lang="kor" page="24b" n="1">마리 우흐로 칼을 둘너 豹頭勢 야 세 번 도라 連야 나아가</sent>
+<sent type="main" lang="kor" page="24b" n="2">즉시 왼 편으로 도라 右足을 들고 안흐로 쓰쳐 을 드리워 씨서 둘너 展翅勢 고</sent>
+<sent type="main" lang="kor" page="24b" n="3">인야 左右防身 고 右手 右脚으로 앏흘 向야  번 딜너 獸頭勢 고</sent>
+<sent type="main" lang="kor" page="24b" n="4">왼 편으로  번 도라 銀蟒勢 야 세 번 도라 믈너 드러와 인야 어 안 羊角弔天勢 호</sent>
+<sent type="main" lang="kor" page="24b" n="5">칼 등으로 左手 第一指 이의 메오고</sent>
+<sent type="main" lang="kor" page="24b-25a" n="6">右手로 급히 칼  티면 구을너 젹은 손가락 이의 니거든</sent><!--칼 ^ -->
+
+<sent type="main" lang="kor" page="25a" n="1">즉시 右手로 칼  잡고 니러나 左手로 왼 편을 고 右手 右脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="25a" n="2">즉시 올흔 편으로 도라 右手 右脚으로 뒤흘 向야  번 텨 逆鱗勢 고</sent>
+<sent type="main" lang="kor" page="25a" n="3">인야 左右防身 고 右手와 左脚으로 뒤흘  번 딜너 坦腹勢 고</sent>
+<sent type="main" lang="kor" page="25a" n="4">왼 편으로 몸을 두루혀 올흔 편 아 칼을 초아 撩掠勢 고</sent>
+<sent type="main" lang="kor" page="25a-25b" n="5">마리 우희 칼을 두루며 올흔 편으로 몸을 두루혀 豹頭勢 고</sent><!--頭^勢-->
+
+<sent type="main" lang="kor" page="25b" n="1">즉시 왼 편으로 조차 올흔 편 발 뒤측을 向야  번 딜너 左翼勢 고</sent>
+<sent type="main" lang="kor" page="25b" n="2">인야 마리 우흐로 칼을 두며 왼 편으로 몸을 둘너 목을 씨서 鑽擊勢 고</sent>
+<sent type="main" lang="kor" page="25b" n="3">왼 편으로 도라 右足을 들고 안흐로 쓰쳐 을 드리워 씨서 둘너 展翅勢 고</sent>
+<sent type="main" lang="kor" page="25b" n="4"> 거 여 右手 右脚으로 앏흘  번 텨 逆鱗勢 고</sent>
+<sent type="main" lang="kor" page="25b" n="5">인야 左右防身 고 右手 右脚으로 앏흘  번 티고 앏흘  번 딜너 獸頭勢 야 츠라</sent>
+
+<sent type="title2" lang="kor" page="26a" n="1">倭劒譜</sent>
+<sent type="title3" lang="kor" page="26a" n="2">土由流</sent>
+<sent type="main" lang="kor" page="26a" n="3">[原] 칼을 초아 올흔 편의 고 바로 셧다가 右手 右脚으로 왼 편을  번 티고</sent>
+<sent type="main" lang="kor" page="26a" n="4">인야 左足을 들며 칼을 초아 올흔 편의 고 右手와 左脚으로 왼 편을  번 티고</sent>
+<sent type="main" lang="kor" page="26a" n="5">나아가 안며 칼을 右脚에 초앗다가 右手 右脚으로 칼을 니고 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="26a" n="6">右脚을 들며 왼 편의 초고 右手 右脚으로 올흔 편을 밀치고</sent>
+<sent type="main" lang="kor" page="26a-26b" n="7">右手와 左脚으로 앏흘  번 티라</sent><!--앏^흘-->
+
+<sent type="main" lang="kor" page="26b" n="1">칼을 초고 바로 셧다가 右手 右脚으로 왼 편으로  번 티고</sent>
+<sent type="main" lang="kor" page="26b" n="2">나아가 안며 칼을 右脚에 초고 右手 右脚으로 올흔 편을  번 밀티고</sent>
+<sent type="main" lang="kor" page="26b" n="3">右手와 左脚으로 왼 편의 초고  右手 右脚으로 올흔 편을  번 밀티고</sent>
+<sent type="main" lang="kor" page="26b" n="4"> 右手와 左脚으로 올흔 편의 초고 右手 右脚으로 왼 편을  번 티고</sent>
+<sent type="main" lang="kor" page="26b" n="5">右手와 左脚으로 앏흘  번 티라</sent>
+<sent type="main" lang="kor" page="26b" n="6">칼을 초고 바로 셧다가 右手 右脚으로 펼쳐 여  번 티고</sent>
+<sent type="main" lang="kor" page="26b-27a" n="7">주리쳐 여  번 티고 다시 펼쳐 여  번 티고</sent><!--^여-->
+
+<sent type="main" lang="kor" page="27a" n="1">右手 右脚으로 칼을 니고 右手와 左脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="27a" n="2">右手 右脚으로 두 번 좃고 右手 右脚으로 칼을 니고 右手와 左脚으로 앏흘  번 티라</sent>
+<sent type="title3" lang="kor" page="27a" n="3">運光流</sent>
+<sent type="main" lang="kor" page="27a" n="4">처음의 千利勢 호 칼을 초고 바로 셧다가 右手 右脚으로 跨虎勢 호</sent>
+<sent type="main" lang="kor" page="27a" n="5">두 손으로 앏흘  번 티고 右手와 左脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="27a-27b" n="6">右手 右脚으로 앏흘  번 티고</sent><!--脚^으-->
+
+<sent type="main" lang="kor" page="27b" n="1">右手 右脚으로 앏흐로  번 여 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="27b" n="2">즉시 速行勢 고  跨虎勢 호 두 손으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="27b" n="3">右手와 左脚으로 앏흘  번 티고 右手 右脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="27b" n="4">右手 右脚으로 앏흐로  번 여 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="27b" n="5">右手 右脚으로 즉시 山時雨勢 호  跨虎勢 야 두 손으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="27b-28a" n="6">右手와 左脚으로 앏흘  번 티고 右手 右脚으로 앏흘  번 티고</sent><!--흘 ^ -->
+
+<sent type="main" lang="kor" page="28a" n="1">右手 右脚으로 앏흐로  번 여 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="28a" n="2">右手 右脚으로 즉시 水鳩心勢 호  跨虎勢 야 두 손으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="28a" n="3">右手와 左脚으로 앏흘  번 티고 右手 右脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="28a" n="4">右手 右脚으로 앏흐로  번 여 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="28a" n="5">즉시 桺絲勢 고  跨虎勢 호 두 손으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="28a" n="6">右手와 左脚으로 앏흘  번 티고 右手 右脚으로 앏흘  번 티고</sent>
+
+<sent type="main" lang="kor" page="28b" n="1">右手 右脚으로 앏흐로  번 여 앏흘  번 티라</sent>
+<sent type="title3" lang="kor" page="28b" n="2">天桺流</sent>
+<sent type="main" lang="kor" page="28b" n="3">칼을 초고 바로 셧다가 右手 右脚으로 왼 편을  번 티고</sent>
+<sent type="main" lang="kor" page="28b" n="4">初度手勢 고 나아가 안며 칼을 右脚의 초고</sent>
+<sent type="main" lang="kor" page="28b" n="5">右手 右脚으로 올흔 편을  번 밀티고 右手와 左脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="28b" n="6">右手 右脚으로 칼을 니고  번 며 두 번 弄야 右手 右脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="28b-29a" n="7">左手 左脚으로 을 잡아 왼 편 밧그로 쓰쳐</sent><!--手 ^ 左-->
+
+<sent type="main" lang="kor" page="29a" n="1">左手 左脚으로  거 여 칼을 누고 一字로 나아가 안</sent>
+<sent type="main" lang="kor" page="29a" n="2">右手 右脚으로 칼을 니며 나아가 안 右手와 左脚으로 앏흘 한번 티고</sent>
+<sent type="main" lang="kor" page="29a" n="3">右手 右脚으로 나아가 안 右手와 左脚으로 앏흘  번 티라</sent>
+<sent type="main" lang="kor" page="29a" n="4">칼을 감초고 바로 셧다가 左手 左脚으로 칼을 니고 나아가 안며</sent>
+<sent type="main" lang="kor" page="29a" n="5">뒤흘 도라보고 右手 右脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="29a" n="6"> 左手 左脚으로 칼을 니고 나아가 안며</sent>
+<sent type="main" lang="kor" page="29a-29b" n="7">뒤흘 도라보고 右手 右脚으로 앏흘  번 티고</sent><!--뒤^흘-->
+
+<sent type="main" lang="kor" page="29b" n="1">右手와 左脚으로 올흔 편 아 초고</sent>
+<sent type="main" lang="kor" page="29b" n="2">右手 右脚으로 칼을 니고 右手와 左脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="29b" n="3">右手 右脚으로 칼을 니며 左手로 올흔 편 손목을 잡고 右手와 左脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="29b" n="4">칼을 초고 바로 셔 左手로 뒤흘 向고 右手 右脚으로 두 번 좃고</sent>
+<sent type="main" lang="kor" page="29b" n="5">右手 右脚으로 올흔 편 아래 초고</sent>
+<sent type="main" lang="kor" page="29b-30a" n="6">右手 右脚으로 칼을 니고 右手와 左脚으로 앏흘  번 티라</sent><!--으^로-->
+
+<sent type="main" lang="kor" page="30a" n="1">칼을 초고 바로 셧다가 右手 右脚으로 왼 편으로  거 여 나가 안며 티고</sent>
+<sent type="main" lang="kor" page="30a" n="2">右手 右脚으로 칼을 니고 右手와 右脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="30a" n="3">右手 右脚으로 올흔 편에 초고 右手 右脚으로 流星으로 나가 왼 편을  번 티고</sent>
+<sent type="main" lang="kor" page="30a" n="4">右手와 左脚으로 앏흘  번 티라</sent>
+<sent type="title3" lang="kor" page="30a" n="5">桺彼流</sent>
+<sent type="main" lang="kor" page="30a" n="6">칼을 드리우고 바로 셧다가 右手 右脚으로 앏흘  번 디고</sent>
+<sent type="main" lang="kor" page="30a-30b" n="7">左足을 냅드며 왼 편으로 칼을 드리우고</sent><!--편^으-->
+
+<sent type="main" lang="kor" page="30b" n="1">左足을 므며 올흔 편으로 칼을 드리우고</sent>
+<sent type="main" lang="kor" page="30b" n="2">右足을 므며 왼 편으로 칼을 드리우고 올흔 편 아 초고</sent>
+<sent type="main" lang="kor" page="30b" n="3">右手 右脚으로 칼을 니고 右手와 左脚으로 앏흘 한번 티고</sent>
+<sent type="main" lang="kor" page="30b" n="4">右手 右脚으로 올흔 편의 초고 右手 右脚으로 앏흘  번 디고</sent>
+<sent type="main" lang="kor" page="30b" n="5">左足을 냅드며 올흔 편으로 초고 右手 右脚으로 앏흘  번 디고</sent>
+<sent type="main" lang="kor" page="30b" n="6">左足을 냅드며 왼 편으로 칼을 드리우고</sent>
+<sent type="main" lang="kor" page="30b-31a" n="7">左足을 므며 올흔 편으로 칼을 드리우고</sent><!--우^고-->
+
+<sent type="main" lang="kor" page="31a" n="1">右足을 므며 왼 편으로 칼을 드리우고 올흔 편 아 초고</sent>
+<sent type="main" lang="kor" page="31a" n="2">右手 右脚으로 칼을 니고 右手와 左脚으로 앏흘  번 텨 츠라</sent>
+<sent type="title2" lang="kor" page="31a" n="3">交戰譜</sent>
+<sent type="main" lang="kor" page="31a" n="4">[原] 두 사이 右手로 칼을 디고 左手로 왼 편을 다가</sent>
+<sent type="main" lang="kor" page="31a" n="5">甲이 처음으로 見賊出劒勢 호 右手 右脚으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="31a" n="6">칼을 들고 여 나가   번 티고 몸을 도로혀 뒤흘 向거든</sent>
+<sent type="main" lang="kor" page="31a-31b" n="7">乙이  見賊出劒勢 호 칼을 들고 여 나가 칼을 서  번 마초고</sent><!--出^劒-->
+
+<sent type="main" lang="kor" page="31b" n="1">몸을 도로혀 밧고아셔 올흔 편의 칼을 초고</sent>
+<sent type="main" lang="kor" page="31b" n="2">甲이 나아드러  번 겨 티고  번 들어 티고   번 겨 티거든</sent>
+<sent type="main" lang="kor" page="31b" n="3">乙이 믈너가며  번 누고  번 마초고   번 누고</sent>
+<sent type="main" lang="kor" page="31b" n="4">甲이  나아드러  번 겨 티고  번 들어 티고   번 겨 티거든</sent>
+<sent type="main" lang="kor" page="31b" n="5">乙이 믈너가며  번 누고  번 마초고   번 누고</sent>
+<sent type="main" lang="kor" page="31b" n="6">甲 乙이 각각 왼 편의 칼을 초앗다가 노 안흐로  번 티고 밧그로  번 티고</sent>
+<sent type="main" lang="kor" page="31b-32a" n="7">몸을 도로혀 밧고아 셔며 칼을 드리워  번 티고 올흔 편 아로 초고</sent><!--을 ^ 드-->
+
+<sent type="main" lang="kor" page="32a" n="1">甲이 나아드러 칼을 니며 놉히 들어  번 티거든</sent>
+<sent type="main" lang="kor" page="32a" n="2">乙이  번 누고  번 마초고  왼 편의 초앗다가 안흐로  번 티고 밧그로  번 티고</sent>
+<sent type="main" lang="kor" page="32a" n="3">몸을 도로혀 밧고아 셔며 칼을 드리워  번 티고 왼 편의 초라</sent>
+<sent type="main" lang="kor" page="32a" n="4">乙이 나아드러 한번 겨 티고  번 들어 티고   번 겨 티거든</sent>
+<sent type="main" lang="kor" page="32a" n="5">甲이 믈너가며  번 누고  번 마초고   번 누고</sent>
+<sent type="main" lang="kor" page="32a" n="6">乙이  나아들며  번 겨 티고  번 들어 티고   번 겨 티거든</sent>
+<sent type="main" lang="kor" page="32a-32b" n="7">甲이 믈너가며  번 누고  번 마초고   번 누고</sent><!--마^초-->
+
+<sent type="main" lang="kor" page="32b" n="1">甲 乙이 각각 왼 편의 초앗다가 노 안흐로  번 티고 밧그로  번 티고</sent>
+<sent type="main" lang="kor" page="32b" n="2">몸을 도로혀 밧고아 셔며 칼을 드리워  번 티고 올흔 편 아 초고</sent>
+<sent type="main" lang="kor" page="32b" n="3">乙이 나아드러 칼을 니며 놉히 들어  번 티거든</sent>
+<sent type="main" lang="kor" page="32b" n="4">甲이  번 누고  번 마초고</sent>
+<sent type="main" lang="kor" page="32b" n="5">인야 왼 편의 초앗다가 노 안흐로  번 티고 밧그로  번 티고</sent>
+<sent type="main" lang="kor" page="32b" n="6">몸을 도로혀 밧고아 셔며 칼을 드리워  번 티고 올흔 편 아 초라</sent>
+<sent type="main" lang="kor" page="32b" n="7">乙이 칼을 들어  번 티고   번 티거든</sent>
+<sent type="main" lang="kor" page="32b-33a" n="8">甲이 나아드러 칼을 니며 왼 편으로 칼을 드리워 티고 올흔 편으로 칼을 드리워 티고</sent><!--드^리-->
+
+<sent type="main" lang="kor" page="33a" n="1"> 왼 편으로 칼을 드리워 티거든</sent>
+<sent type="main" lang="kor" page="33a" n="2">乙이 믈너가며 왼 편으로 칼을 드리워 막고 올흔 편으로 칼을 드리워 막고</sent>
+<sent type="main" lang="kor" page="33a" n="3"> 왼 편으로 칼을 드리워 막고</sent>
+<sent type="main" lang="kor" page="33a" n="4">甲 乙이 을 들어 놉히 티고 왼 편으로 칼을 드리워  번 티고 올흔 편 아 초고</sent>
+<sent type="main" lang="kor" page="33a" n="5">甲이 칼을 들어 한번 티고   번 티거든</sent>
+<sent type="main" lang="kor" page="33a" n="6">乙이 나아드러 칼을 니며 왼 편으로 칼을 드리워 티고 올흔 편으로 칼을 드리워 티고</sent>
+<sent type="main" lang="kor" page="33a" n="7"> 왼 편으로 칼을 드리워 티거든</sent>
+<sent type="main" lang="kor" page="33a-33b" n="8">甲이 믈너가며 왼 편으로 칼을 드리워 막고 올흔 편으로 칼을 드리워 막고</sent><!--편^으-->
+
+<sent type="main" lang="kor" page="33b" n="1"> 왼 편으로 칼을 드리워 막고</sent>
+<sent type="main" lang="kor" page="33b" n="2">甲 乙이 을 들어 놉히 티고 왼 편으로 칼을 드리워  번 티고 올흔 편 아 초라</sent>
+<sent type="main" lang="kor" page="33b" n="3">乙이  번 며  번 디고  번 티거든</sent>
+<sent type="main" lang="kor" page="33b" n="4">甲이 아로 겨 티고 앏흐로 나아가 칼을 니며 왼 편으로 칼을 드리워 티고</sent>
+<sent type="main" lang="kor" page="33b" n="5">올흔 편으로 칼을 드리워 티고  왼 편으로 칼을 드리워 티거든</sent>
+<sent type="main" lang="kor" page="33b" n="6">乙이 믈너가며 왼 편으로 칼을 드리워 막고</sent>
+<sent type="main" lang="kor" page="33b" n="7">올흔 편으로 칼을 드리워 막고  왼 편으로 칼을 드리워 막고</sent>
+<sent type="main" lang="kor" page="33b-34a" n="8">甲 乙이 을 들어 놉히 티고 왼 편으로 칼을 드리워  번 티고 올흔 편 아 초고</sent><!--드^리-->
+
+<sent type="main" lang="kor" page="34a" n="1">甲이  번 며  번 디고  번 티거든</sent>
+<sent type="main" lang="kor" page="34a" n="2">乙이 아로 겨 티고 앏흐로 나아가 칼을 니며 왼 편으로 칼을 드리워 티고</sent>
+<sent type="main" lang="kor" page="34a" n="3">올흔 편으로 칼을 드리워 티고  왼 편으로 칼을 드리워 티거든</sent>
+<sent type="main" lang="kor" page="34a" n="4">甲이 믈너가며 왼 편으로 칼을 드리워 막고</sent>
+<sent type="main" lang="kor" page="34a" n="5">올흔 편으로 칼을 드리워 막고  왼 편으로 칼을 드리워 막고</sent>
+<sent type="main" lang="kor" page="34a" n="6">甲 乙이 을 들어 놉히 티고 왼 편으로 칼을 드리워  번 티고</sent>
+<sent type="main" lang="kor" page="34a" n="7">올흔 편의 칼을 초고 칼을 더디고 씨야 츠라</sent>
+
+<sent type="title2" lang="kor" page="35a" n="1">提督劒譜</sent>
+<sent type="main" lang="kor" page="35a" n="2">[原] 처음의 對賊出劒勢 호 右手로 칼을 디고 左手로 왼 편을 고 바로 셧다가</sent>
+<sent type="main" lang="kor" page="35a" n="3">右手 右脚으로 앏흘  번 티고 즉시 進前殺賊勢 호</sent>
+<sent type="main" lang="kor" page="35a" n="4">右手 右脚으로  번 티고 인야 向右擊賊勢 호</sent>
+<sent type="main" lang="kor" page="35a" n="5">右手 右脚으로 올흔 편으로 도라  번 티고  向左擊賊勢 호</sent>
+<sent type="main" lang="kor" page="35a-35b" n="6">左手 左脚으로 왼 편으로 도라  번 티고  거 나아가  발 여 向右擊賊勢 고</sent><!--擊^賊-->
+
+<sent type="main" lang="kor" page="35b" n="1"> 向左擊賊勢 고 인야 揮劒向賊勢 호</sent>
+<sent type="main" lang="kor" page="35b" n="2">올흔 편으로 도라 右足을 들고 안흐로 쓰쳐 進前殺賊勢 호</sent>
+<sent type="main" lang="kor" page="35b" n="3">右手 右脚으로  번 티고 인야 初退防賊勢 호</sent>
+<sent type="main" lang="kor" page="35b" n="4">왼 편으로 세 번 도라와 믈너 原地의 니러</sent>
+<sent type="main" lang="kor" page="35b" n="5">右手 右脚으로 왼 편으로 도라  번 티고 向後擊賊勢 호</sent>
+<sent type="main" lang="kor" page="35b-36a" n="6">올흔 편으로 몸을 도로혀 앏흘 向야 右手와 左脚으로 向後防賊勢 고</sent><!-- ^ -->
+
+<sent type="main" lang="kor" page="36a" n="1">左手와 右脚으로 向左防賊勢 고  向右防賊勢 고</sent>
+<sent type="main" lang="kor" page="36a" n="2"> 向左防賊勢 고 인야 進前殺賊勢 호</sent>
+<sent type="main" lang="kor" page="36a" n="3">右手 右脚으로  거 나아가 앏흘  번 티고 즉시 勇躍一刺勢 호</sent>
+<sent type="main" lang="kor" page="36a" n="4">右手 右脚으로 앏흘 向야 바로 디고 인야 向左擊賊勢 호</sent>
+<sent type="main" lang="kor" page="36a" n="5">右手와 左脚으로  거 여  번 티고 인야 揮劒向賊勢 호</sent>
+<sent type="main" lang="kor" page="36a-36b" n="6">올흔 편으로 도라 右足을 들고 안호로 쓰쳐 인야 進前殺賊勢 호</sent><!--足^을-->
+
+<sent type="main" lang="kor" page="36b" n="1">右手 右脚으로  번 티고  再退防賊勢 호</sent>
+<sent type="main" lang="kor" page="36b" n="2">뒤흘 향야 올흔 편으로 세 번 도라와 믈너 原地의 니러 즉시 進前殺賊勢 호</sent>
+<sent type="main" lang="kor" page="36b" n="3">右手 右脚으로  번 티고  거 나아가   번 티고 즉시 拭劒伺賊勢 호</sent>
+<sent type="main" lang="kor" page="36b" n="4">올흔 편 칼로 왼 편 의 씻고 인야 허리 왼 편의 씻고 즉시 藏劒賈勇勢 호</sent>
+<sent type="main" lang="kor" page="36b-37a" n="5">左手로 칼을 디고 올흔 주먹과 右脚으로 앏흘  번 텨 츠라</sent><!--로^-->
+
+<sent type="title2" lang="kor" page="38a" n="1">本國劒譜</sent>
+<sent type="main" lang="kor" page="38a" n="2">[原] 처음의 持劒對賊勢 호 두 손으로 칼  잡아 왼 편 엇예 의지고 바로 셧다가</sent>
+<sent type="main" lang="kor" page="38a" n="3">올흔 편으로  번 도라 右足을 들고 안흐로 쓰쳐 인야 進前擊賊勢 호</sent>
+<sent type="main" lang="kor" page="38a" n="4">右手 右脚으로 앏흘  번 티고  金雞獨立勢 호</sent>
+<sent type="main" lang="kor" page="38a" n="5">왼 편으로 도라 칼을 들고 左脚을 들어 뒤흘 도라보고 왼 편으로  번 도라 後一擊勢 호</sent>
+<sent type="main" lang="kor" page="38a" n="6">右手 右脚으로  번 티라</sent>
+<sent type="main" lang="kor" page="38a-38b" n="7"> 金雞獨立勢 호 왼 편으로 도라 칼을 들며 左脚을 들어 앏흘 도라보고</sent><!--立^勢-->
+
+<sent type="main" lang="kor" page="38b" n="1">왼 편으로  번 도라 進擊賊勢 호 右手 右脚으로  번 티고</sent>
+<sent type="main" lang="kor" page="38b" n="2">즉시 左右로 감아 左手 左脚으로  번 디고 인야 猛虎隱林勢 호</sent>
+<sent type="main" lang="kor" page="38b" n="3">올흔 편으로 두 번 돌고 왼 편으로 도라 雁字勢 호</sent>
+<sent type="main" lang="kor" page="38b" n="4">올흔 편을 向야 左右로 감아 右手와 左脚으로  번 디고 인야 直符送書勢 호</sent>
+<sent type="main" lang="kor" page="38b-39a" n="5">올흔 편으로  번 도라 右手와 左脚으로 왼 편으로  번 디고</sent><!--左^脚-->
+
+<sent type="main" lang="kor" page="39a" n="1">왼 편으로 도라 앏흘 向야 撥艸尋蛇勢 호 右手 右脚으로  번 티고</sent>
+<sent type="main" lang="kor" page="39a" n="2"> 발 나아가며  거 여 豹頭壓頂勢 호 左右로 감아 右手 右脚으로 앏흘  번 디고</sent>
+<sent type="main" lang="kor" page="39a" n="3">인야 올흔 편으로 도라 뒤흐로 드러와 朝天勢 호 두 손으로 칼을 니마의 놉히 들고</sent>
+<sent type="main" lang="kor" page="39a" n="4">올흔 편으로 도라 앏흐로 나아가 뒤흘 向야 左挾獸頭勢 고</sent>
+<sent type="main" lang="kor" page="39a-39b" n="5">인야 向右防賊勢 호 左足을 들고 밧그로 쓰쳐 즉시 後一擊勢 호</sent><!--足^을-->
+
+<sent type="main" lang="kor" page="39b" n="1">右手 右脚으로  번 티고 올흔 편으로 도라 앏흘 向야 展旗勢 호</sent>
+<sent type="main" lang="kor" page="39b" n="2">右足을 들고 안흐로 쓰쳐 인야 進前殺賊勢 고</sent>
+<sent type="main" lang="kor" page="39b" n="3">右手 右脚으로  번 티고 인야 金雞獨立勢 호</sent>
+<sent type="main" lang="kor" page="39b" n="4">칼을 놉히 들고 左脚을 들어 뒤흘 도라보고 인야 드러와 왼 편으로 도라 左腰擊勢 호</sent>
+<sent type="main" lang="kor" page="39b-40a" n="5">左脚을 들고 左劒으로 왼 편 목을 씻고 즉시 올흔 편으로 도라 右腰擊勢 호</sent><!--腰^擊-->
+
+<sent type="main" lang="kor" page="40a" n="1">右脚을 들고 右劒으로 올흔 편 목을 씻고 즉시 올흔 편으로 도라 後一刺勢 호</sent>
+<sent type="main" lang="kor" page="40a" n="2">右手와 左脚으로  번 디라</sent>
+<sent type="main" lang="kor" page="40a" n="3">왼 편으로 도라 앏흘 向야 長蛟噴水勢 호</sent>
+<sent type="main" lang="kor" page="40a" n="4">右手 右脚으로  번 티고 인야 白猿出洞勢 호</sent>
+<sent type="main" lang="kor" page="40a" n="5">右手 右脚을 들고 右鑽擊勢 호 右手 右脚으로 올흔 편을 비븨여 디고</sent>
+<sent type="main" lang="kor" page="40a-40b" n="6">올흔 편으로 도라 勇躍一刺勢 호 右手와 左脚으로  번 디라</sent><!--으^로-->
+
+<sent type="main" lang="kor" page="40b" n="1">왼 편으로 도라 뒤흘 向야 後一擊勢 호 右手 右脚으로  번 티고</sent>
+<sent type="main" lang="kor" page="40b" n="2">인야 後一刺勢 호 左右로 감아 右手와 左脚으로  번 디고</sent>
+<sent type="main" lang="kor" page="40b" n="3">인야 올흔 편으로 도라 앏흘 向야 向右防賊勢 호 左足을 들고 밧그로 쓰쳐</sent>
+<sent type="main" lang="kor" page="40b" n="4">즉시 向前殺賊勢 호 右手 右脚으로 앏흐로 두 번 티고</sent>
+<sent type="main" lang="kor" page="40b" n="5">인야 兕牛相戰勢 호 右手 右脚으로  번 딜너 츠라</sent>
+
+<sent type="title2" lang="kor" page="41a" n="1">雙劒譜</sent>
+<sent type="main" lang="kor" page="41a" n="2">[原] 처음의 持劒對賊勢 호 올흔 편 칼을 올흔 엇예 디고 왼 편 칼을 니마 우희 들고 바로 셧다가</sent>
+<sent type="main" lang="kor" page="41a" n="3">즉시 見賊出劒勢 호 右手와 左脚으로  거 여 飛進擊賊勢 호</sent>
+<sent type="main" lang="kor" page="41a" n="4">右手 右脚으로  번 티고 인야 初退防賊勢 호</sent>
+<sent type="main" lang="kor" page="41a" n="5">右劒을 左腋의 고 올흔 편으로 세 번 도라 믈너와 즉시 向右防賊勢 고</sent>
+<sent type="main" lang="kor" page="41a-41b" n="6">인야 向左防賊勢 고 올흔 편으로 도라 揮劒向賊勢 호</sent><!--^고-->
+
+<sent type="main" lang="kor" page="41b" n="1">左右로 씨서 앏흐로 나아가 인야 向右防賊勢 고</sent>
+<sent type="main" lang="kor" page="41b" n="2"> 向左防賊勢 고 올흔 편으로 도라 進前殺賊勢 호</sent>
+<sent type="main" lang="kor" page="41b" n="3">左劒을 右腋의 고 右手 右脚으로 앏흘  번 티라</sent>
+<sent type="main" lang="kor" page="41b" n="4">왼 편으로  번 도라 뒤흘 도라보고 즉시 五花纏身勢 며</sent>
+<sent type="main" lang="kor" page="41b" n="5">原地의 드러와 向後擊賊勢 고 몸을 도로혀 앏흘 向야 鷙鳥斂翼勢 호</sent>
+<sent type="main" lang="kor" page="41b-42a" n="6">右劒을 左腋의 고 左劒을 右腋의 고  번 소 며 올흔 편으로 도라</sent><!--劒^을-->
+
+<sent type="main" lang="kor" page="42a" n="1">인야 藏劒收光勢 호 左劒을 右腋의 고 右劒으로 右足을 들고 안흐로 쓰쳐</sent>
+<sent type="main" lang="kor" page="42a" n="2"> 거 여 左右로 씨서 右足을 들어 左手 左脚으로 앏흘  번 디고</sent>
+<sent type="main" lang="kor" page="42a" n="3">인야 項莊起舞勢 호 左劒으로 왼 편을  번 씨서 大門을 고 츠라</sent>
+
+<sent type="title2" lang="kor" page="43a" n="1">馬上雙劒譜</sent>
+<sent type="main" lang="kor" page="43a" n="2">[增] 처음의 項羽渡江勢 호 右手로 곳비 잡고 左手의 두 칼을 아오로 잡으되</sent>
+<sent type="main" lang="kor" page="43a" n="3">나흔 셰오고 나흔 고 을 내여 孫策定江東勢 호</sent>
+<sent type="main" lang="kor" page="43a" n="4">右手로 즉시  칼을 가져 왼 편을 向야 펼쳐 열고</sent>
+<sent type="main" lang="kor" page="43a" n="5">右手 앏흐로 定고 左手 뒤흐로 定고 인야 漢高還覇上勢 호</sent>
+<sent type="main" lang="kor" page="43a-43b" n="6">左劒은 올흔 편의 디고 右劒은 向後擊賊을 고 雲長渡灞水勢 호</sent><!--灞^水-->
+
+<sent type="main" lang="kor" page="43b" n="1">右劒은 왼 편의 디고 左劒은 向後擊賊을 고 飛電繞斗勢 호</sent>
+<sent type="main" lang="kor" page="43b" n="2">左劒은 올흔 편으로 둘너 防身고 右劒은 왼 편으로 둘너 防身고 인야 向前一擊을 라</sent>
+<sent type="main" lang="kor" page="43b" n="3">霹靂揮斧勢 호</sent>
+<sent type="main" lang="kor" page="43b" n="4">右劒은 왼 편으로 둘너 防身고 左劒은 올흔 편으로 둘너 防身고 인야 向前一擊을 라</sent>
+<sent type="main" lang="kor" page="43b-44a" n="5">左顧防身 야 右劒을 외오 두고 右顧防身 야 左劒을 올히 두기 세 번 고</sent><!--左^劒-->
+
+<sent type="main" lang="kor" page="44a" n="1">項羽渡江勢로 츠되 만일 回馬 면 漢高還覇上勢 고</sent>
+<sent type="main" lang="kor" page="44a" n="2"> 雲長渡灞水勢 호 졍수 업시 야 項羽渡江勢로 츠라</sent>
+
+<sent type="title2" lang="kor" page="45a" n="1">月刀譜</sent>
+<sent type="main" lang="kor" page="45a" n="2">[原] 左手의  가지고 右手로 올흔 녑흘 집고 칼을 셰오고 바로 셔</sent>
+<sent type="main" lang="kor" page="45a" n="3">처음의 龍躍在淵勢 호 올흔 주먹으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="45a" n="4">즉시 新月上天勢 야 앏흐로 나아가 올흔 주먹으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="45a" n="5"> 거 며 뒤흘 도라보고 인야 猛虎張爪勢 야</sent>
+<sent type="main" lang="kor" page="45a" n="6">올흔 편으로 세 번 도라와 믈너 原地의 니러</sent>
+<sent type="main" lang="kor" page="45a" n="7">인야 鷙鳥斂翼勢 야 앏흘 向라</sent>
+<sent type="main" lang="kor" page="45a-45b" n="8">金龍纏身勢 호 칼을 들어 외오 두루며 나가</sent><!--勢^-->
+
+<sent type="main" lang="kor" page="45b" n="1">五關斬將勢 호 올흔 편을 向야 도라 티고 쓰러 왼 편으로  번 티고</sent>
+<sent type="main" lang="kor" page="45b" n="2">올흔 편을 向야 도라 티고 쓰러 왼 편으로  번 티고</sent>
+<sent type="main" lang="kor" page="45b" n="3">앏흘 向야 올흔 편으로 번 도라 右足을 들고 안흐로 쓰쳐 向前擊賊勢로 앏흘 티고</sent>
+<sent type="main" lang="kor" page="45b" n="4">인야 龍光射牛斗勢 야 왼 편으로 세 번 어 도라 믈너</sent>
+<sent type="main" lang="kor" page="45b" n="5">原地의 니러 蒼龍歸洞勢 고 뒤흘 向야  번 티라</sent>
+<sent type="main" lang="kor" page="45b-46a" n="6">몸을 두루혀 앏흘 향야 月夜斬蟬勢 호 右手와 左脚으로 두 번 좃고</sent><!--夜^斬-->
+
+<sent type="main" lang="kor" page="46a" n="1">인야 뒤흘 向야 칼을 들어 霜鶻奮翼勢 되여 앏흐로 向야 奔霆走空翻身勢 고</sent>
+<sent type="main" lang="kor" page="46a" n="2">앏흐로 나아가 介馬斬良勢 야 右手 右脚으로  번 디고</sent>
+<sent type="main" lang="kor" page="46a" n="3">즉시 進前殺賊勢 호 右足을 들고 밧그로 쓰쳐 左右 편으로 감아  번 티고</sent>
+<sent type="main" lang="kor" page="46a" n="4">右脚을 들어  거 믈너와 인야 龍光射牛斗勢 호</sent>
+<sent type="main" lang="kor" page="46a-46b" n="5">왼 편으로 두 번 도라 믈너 原地의 니라</sent><!--너 ^ 原-->
+
+<sent type="main" lang="kor" page="46b" n="1">앏흘 向야 劒按膝上勢 고</sent>
+<sent type="main" lang="kor" page="46b" n="2">右手와 밋 左膝을 들어  번 소 며  거 여 앏흐로 나아가</sent>
+<sent type="main" lang="kor" page="46b" n="3">長蛟出海勢 야 왼 편으로  번 티고 左手 左脚으로  번 티고</sent>
+<sent type="main" lang="kor" page="46b" n="4"> 거 여 뒤흘 도라보고 인야 猛虎張爪勢 호</sent>
+<sent type="main" lang="kor" page="46b" n="5">올흔 편으로  번 도라 藏劒收光勢 고 올흔 편의 칼을 고 왼 주먹으로 앏흘  번 티고</sent>
+<sent type="main" lang="kor" page="46b-47a" n="6">인야 向前殺賊勢 호 앏흘  번 티고 豎劒賈勇勢 고 츠라</sent><!--勇^勢-->
+
+<sent type="title2" lang="kor" page="48a" n="1">馬上月刀譜</sent>
+<sent type="main" lang="kor" page="48a" n="2">[增] 처음의 新月上天勢 호 左手로 왼 편을 고 을 내되</sent>
+<sent type="main" lang="kor" page="48a" n="3">右手로 앏흘 잡고 左手로 뒤흘 잡아 니마의 디나게 놉히 들고</sent>
+<sent type="main" lang="kor" page="48a" n="4">인야 白虎炰烋勢 야 올흔 편 겨드랑의 칼을 초고 즉시 秋山御風勢 호</sent>
+<sent type="main" lang="kor" page="48a" n="5">올흔 편을 도라보며  번 두고 도로 靑龍騰躍勢 야 右手 아 초고</sent>
+<sent type="main" lang="kor" page="48a-48b" n="6">인야 칼을 셰워 놉히 들고  春江掃雲勢 호 왼 편을 도라 보며  번 두고</sent><!-- ^ 번-->
+
+<sent type="main" lang="kor" page="48b" n="1"> 秋山御風勢 호 올흔 편을 도라보며  번 두고</sent>
+<sent type="main" lang="kor" page="48b" n="2"> 靑龍騰躍勢 야 앏흘 向야  번 티고</sent>
+<sent type="main" lang="kor" page="48b" n="3">왼 편을 도라보며  번 두고 올흔 편을 도라보고  번 두기 세 번 고</sent>
+<sent type="main" lang="kor" page="48b" n="4">紫電收光勢 호 右手로 올흔 편 겨드랑의 칼을 초고 츠되</sent>
+<sent type="main" lang="kor" page="48b" n="5">만일 回馬 면 白虎炰烋勢로 인야 秋山御風勢와 春江掃雲勢 졍슈 업시 고</sent>
+<sent type="main" lang="kor" page="48b" n="6">紫電收光勢로 츠라</sent>
+
+<sent type="title2" lang="kor" page="49a" n="1">挾刀譜</sent>
+<sent type="main" lang="kor" page="49a" n="2">[原] 칼을 셰오고 바로 셔 右手의  잡고 左手로 왼 편을 다가</sent>
+<sent type="main" lang="kor" page="49a" n="3">처음으로 龍躍在淵勢 야  번 여 왼 주먹으로 앏흘 티고</sent>
+<sent type="main" lang="kor" page="49a" n="4">즉시 中平勢 호 右手 右脚으로  번 디고</sent>
+<sent type="main" lang="kor" page="49a" n="5">  발 나아가 中平勢로  번 디고  烏龍擺尾勢 호</sent>
+<sent type="main" lang="kor" page="49a" n="6">왼 편으로 밀 둘너 右手 右脚으로 五花纏勢 고</sent>
+<sent type="main" lang="kor" page="49a" n="7">즉시 中平勢 야  번 디라</sent>
+<sent type="main" lang="kor" page="49a-49b" n="8">즉시 龍光射牛斗勢 호 왼 편으로 어 믈너와  번 도라 中平勢로  번 디고</sent><!--龍^光-->
+
+<sent type="main" lang="kor" page="49b" n="1">즉시 右手 右脚으로 右半月勢 고  龍光射牛斗勢 호</sent>
+<sent type="main" lang="kor" page="49b" n="2">왼 편으로 어 세 번 도라 原地의 믈너와 蒼龍歸洞勢 호</sent>
+<sent type="main" lang="kor" page="49b" n="3">右手 右脚으로 왼 편으로 도라 뒤흐로  번 티라</sent>
+<sent type="main" lang="kor" page="49b" n="4">인야 왼 편으로 도라 앏흘  번 티고 中平勢로  번 디고 즉시 丹鳳展翅勢 호</sent>
+<sent type="main" lang="kor" page="49b-50a" n="5">왼 편으로 밀 두고 올흔 편으로 을 둘너 左右 밧고아 잡아</sent><!--^을-->
+
+<sent type="main" lang="kor" page="50a" n="1">左手 左脚으로 五花纏身勢 고 인야 中平勢로  번 디고  丹鳳展翅勢 호</sent>
+<sent type="main" lang="kor" page="50a" n="2">올흔 편으로 밀 둘너 五花纏身勢 고  中平勢로  번 디라</sent>
+<sent type="main" lang="kor" page="50a" n="3">인야 龍光射牛斗勢 호 올흔 편으로 어 믈너와  번 도라</sent>
+<sent type="main" lang="kor" page="50a" n="4">左手 左脚으로 左半月勢 호  龍光射牛斗勢 야</sent>
+<sent type="main" lang="kor" page="50a-50b" n="5">올흔 편으로 어 두 번 도라와 즉시 銀龍出海勢 호</sent><!--出^海-->
+
+<sent type="main" lang="kor" page="50b" n="1">左脚 左手로 흔들며  번 디고  龍光射牛斗勢 호</sent>
+<sent type="main" lang="kor" page="50b" n="2">왼 편으로  번 도라 原地의 니라</sent>
+<sent type="main" lang="kor" page="50b" n="3">인야 烏雲罩頂勢 호 左手 左脚으로 칼을 들어 앏흘 向야 左右 밧고아 잡아</sent>
+<sent type="main" lang="kor" page="50b" n="4">右手 右脚으로 왼 편으로 도라 왼 편으로  번 티고</sent>
+<sent type="main" lang="kor" page="50b" n="5">左右 밧고아 잡아 左手 左脚으로 올흔 편으로 도라 올흔 편으로  번 티고</sent>
+<sent type="main" lang="kor" page="50b-51a" n="6">左右 밧고아 잡아 右手 右脚으로 왼 편으로 도라 앏흐로  번 티고</sent><!--흐^로-->
+
+<sent type="main" lang="kor" page="51a" n="1">인야 右手 右脚으로 豎劒賈勇勢 야 츠라</sent>
+<sent type="title2" lang="kor" page="52a" n="1">藤牌譜</sent>
+<sent type="main" lang="kor" page="52a" n="2">[原] 처음의 起手勢 고 칼노 마리 우흘 조차  번 두고 즉시 躍步勢 고</sent>
+<sent type="main" lang="kor" page="52a" n="3">인야 칼노 牌 조차 한번 둘러 低平勢 고</sent>
+<sent type="main" lang="kor" page="52a" n="4">니러셔 金雞畔頭勢 고 인야 칼노 牌 조차  번 두고</sent>
+<sent type="main" lang="kor" page="52a" n="5"> 거 나아가 低平勢 되고 니러셔 躍步勢 되고</sent>
+<sent type="main" lang="kor" page="52a" n="6"> 칼노 牌 조차  번 두고  거 나아가 低平勢 되고</sent>
+<sent type="main" lang="kor" page="52a-52b" n="7">니러셔 몸을 뒤집어 滾牌勢 고 칼노 牌 조차  번 둘너</sent><!--차 ^ -->
+
+<sent type="main" lang="kor" page="52b" n="1"> 거 나아가 低平勢 되고 니러셔 仙人指路勢 라</sent>
+<sent type="main" lang="kor" page="52b" n="2">여  거 믈너가 埋伏勢 고   거 믈너가 埋伏勢 되고</sent>
+<sent type="main" lang="kor" page="52b" n="3">니러셔 몸을 뒤집어 滾牌勢 되고  칼노 牌 조차  번 두고</sent>
+<sent type="main" lang="kor" page="52b" n="4"> 거 믈너가 埋伏勢 되고 니러셔 仙人指路勢 되고  거 믈너가 埋伏勢 되고</sent>
+<sent type="main" lang="kor" page="52b" n="5">니러셔 몸을 뒤집어 滾牌勢 되고  칼노 牌 조차  번 두고</sent>
+<sent type="main" lang="kor" page="52b-53a" n="6"> 거 믈너가 埋伏勢 되고 니러셔 躍步勢 되니라</sent><!--步^勢-->
+
+<sent type="main" lang="kor" page="53a" n="1"> 발 들고 발을 둘러 칼을 두고 올흔 편으로 向야  거 옴겨 斜行勢 고 츠라</sent>
+<sent type="title2" lang="kor" page="54a" n="1">拳法譜</sent>
+<sent type="main" lang="kor" page="54a" n="2">[原] 두 사이 각각 左右手로 녑흘 고 雙으로 셧다가 처음으로 探馬勢 호</sent>
+<sent type="main" lang="kor" page="54a" n="3">右手로 왼 편 엇 텨 벗기고 즉시 拗鸞肘勢 호</sent>
+<sent type="main" lang="kor" page="54a" n="4">左手로 올흔 편 엇 텨 벗기고 앏흐로 나아가 懸脚虛餌勢 호</sent>
+<sent type="main" lang="kor" page="54a" n="5">右足으로 右手 고 左足으로 左手 고 右足으로 右手 고</sent>
+<sent type="main" lang="kor" page="54a-54b" n="6">즉시 順鸞肘勢 호 왼 편으로  번 도라 左手로 右足  번 티고</sent><!--원문의 '右足'은 '右足'의 잘못으로 보임--><!--번 ^ 티-->
+
+<sent type="main" lang="kor" page="54b" n="1">인야 七星拳勢 호 左右 편으로 감아 高四平勢 호</sent>
+<sent type="main" lang="kor" page="54b" n="2">右手와 左脚으로 앏흘  번 디라</sent>
+<sent type="main" lang="kor" page="54b" n="3">즉시 倒揷勢 호 左右手 놉히 들어 뒤흘 도라보며</sent>
+<sent type="main" lang="kor" page="54b" n="4">몸을 도로혀 뒤흘 向야 一霎步勢 호</sent>
+<sent type="main" lang="kor" page="54b" n="5">右手 右腋의 고 인야 拗單鞭勢 호  거 여 右手로 右臀을 티고</sent>
+<sent type="main" lang="kor" page="54b" n="6">인야 伏虎勢 호 나아가 안며 올흔 편으로 도라 니러셔며  懸脚虛餌勢 고</sent>
+
+<sent type="main" lang="kor" page="55a" n="1">인야 下揷勢 호 왼 편으로  번 돌며 右手로 左足을  번 티고</sent>
+<sent type="main" lang="kor" page="55a" n="2">즉시 當頭砲勢 호 左手로 앏흘 막고 右手로 니마 리오며</sent>
+<sent type="main" lang="kor" page="55a" n="3">인야 旗鼓勢 호 左右 편을 감고  中四平勢 호</sent>
+<sent type="main" lang="kor" page="55a" n="4">右手와 左脚으로 뒤흘  번 디고 인야 倒揷勢 고</sent>
+<sent type="main" lang="kor" page="55a" n="5">앏흘 도라보며 몸을 도로혀 倒騎龍勢 호</sent>
+<sent type="main" lang="kor" page="55a" n="6">左右手 여러 버리고 拗單鞭勢 야 앏흐로 나아가</sent>
+<sent type="main" lang="kor" page="55a-55b" n="7">인야 埋伏勢 호 一字로 나아가 안 니러셔며 懸脚虛餌勢 고</sent><!--勢^-->
+
+<sent type="main" lang="kor" page="55b" n="1">인야 下揷勢와 當頭砲勢 고  旗鼓勢와 高四平勢와 倒揷勢 고</sent>
+<sent type="main" lang="kor" page="55b" n="2">즉시 一霎步勢와 拗單鞭勢 고 즉시 五花纏身勢 호</sent>
+<sent type="main" lang="kor" page="55b" n="3">右手 右脚으로 올흔 편으로 도라 두 사이 마조 셔 雁翅側身勢와 跨虎勢 호</sent>
+<sent type="main" lang="kor" page="55b" n="4">두 손을 開闔며 左右로 서 고</sent>
+<sent type="main" lang="kor" page="55b-56a" n="5">甲이 懸脚虛餌勢 호 왼 편으로 차고 올흔 편으로 고 몰아 차 앏흐로 나아가거든</sent><!-- ^ 호-->
+
+<sent type="main" lang="kor" page="56a" n="1">乙이 丘劉勢 호 左右手로 막아 믈너 오고</sent>
+<sent type="main" lang="kor" page="56a" n="2">雁翅側身勢와 跨虎勢 야 서 도라셔라</sent>
+<sent type="main" lang="kor" page="56a" n="3">乙이 즉시 懸脚虛餌勢 야 나아가거든 甲이  丘劉勢 야 믈너 오고</sent>
+<sent type="main" lang="kor" page="56a" n="4">두 사이 즉시 雁翅側身勢와 跨虎勢 야 서 도라셔고</sent>
+<sent type="main" lang="kor" page="56a-56b" n="5">甲이 나아가 伏虎勢 거든 乙이 擒拿勢 야 여너머 즉시 伏虎勢 고</sent><!--勢^-->
+
+<sent type="main" lang="kor" page="56b" n="1">甲이  擒拿勢 야 여넘고 두 사이 즉시 抛架勢 호</sent>
+<sent type="main" lang="kor" page="56b" n="2">左右手로 올흔 편 발등을 티고  拈肘勢 고</sent>
+<sent type="main" lang="kor" page="56b" n="3">甲이 右手로 乙의 왼 편 엇 잡거든 乙이 右手로 甲의 올흔 편 겨드랑 아로 조차</sent>
+<sent type="main" lang="kor" page="56b" n="4">甲의 목을 아 지나 甲의 왼 편 엇 잡고 각각 등 뒤흐로 左手 걸어 고</sent>
+<sent type="main" lang="kor" page="56b" n="5">甲이 乙을 업고 빗기 들어 것구로 더지거든 乙이 믈레 도야 얼픗  려셔고</sent>
+<sent type="main" lang="kor" page="56b-57a" n="6">乙이  甲을 업어 젼법과 티 야 츠라</sent><!--^야-->
+
+<sent type="title2" lang="kor" page="58a" n="1">棍棒譜</sent>
+<sent type="main" lang="kor" page="58a" n="2">[原] 두 사이 棍을 잡아 마조 셔 扁身中攔勢 고 각각  발을 나아가</sent>
+<sent type="main" lang="kor" page="58a" n="3">甲이 棍을 들어 乙의 棍을 다이저 大當勢 고</sent>
+<sent type="main" lang="kor" page="58a" n="4">乙이  棍으로 甲의 棍을 다이저 大當勢 되고</sent>
+<sent type="main" lang="kor" page="58a" n="5">甲이  棍으로 乙의 棍을 다이저 大當勢 되고</sent>
+<sent type="main" lang="kor" page="58a" n="6">乙이  棍으로 甲의 棍을 다이저 大當勢 되고</sent>
+<sent type="main" lang="kor" page="58a" n="7">인야 棍으로 甲의 棍을 겨 大剪勢 고</sent>
+<sent type="main" lang="kor" page="58a-58b" n="8">즉시 棍으로 甲의 棍을 텨 [손 잡은 라] 大弔勢 고</sent><!--甲^의-->
+
+<sent type="main" lang="kor" page="58b" n="1"> 거 나아가 가을 당야  번 디라</sent>
+<sent type="main" lang="kor" page="58b" n="2">乙이 몸을 두루혀 뒤흐로 向며 棍으로 甲의 棍을 긔 텨 滴水勢 고</sent>
+<sent type="main" lang="kor" page="58b" n="3"> 발을 믈너가 몸을 도로혀  발을 나아가 大當勢로 甲의 棍을 다잇고</sent>
+<sent type="main" lang="kor" page="58b" n="4">甲이  大當勢로 乙의 棍을 다잇고 乙이  大當勢로 甲의 棍을 다잇고</sent>
+<sent type="main" lang="kor" page="58b" n="5">甲이  大當勢로 乙의 棍을 다잇고 믄득 大剪勢로 乙의 棍을 기고</sent>
+<sent type="main" lang="kor" page="58b-59a" n="6">大弔勢로 乙의 棍을 티고  거 나아가 가을 당야  번 디라</sent><!--大^弔-->
+
+<sent type="main" lang="kor" page="59a" n="1">甲이 몸을 두루혀 뒤흐로 向며 滴水勢로 乙의 棍을 긔 티고  발 믈너가</sent>
+<sent type="main" lang="kor" page="59a" n="2">인야 몸을 도로혀  발 나아가 大當勢로 乙의 棍을 다잇고</sent>
+<sent type="main" lang="kor" page="59a" n="3">乙이  大當勢로 甲의 棍을 다잇고 甲이  大當勢로 乙의 棍을 다잇고</sent>
+<sent type="main" lang="kor" page="59a" n="4">乙이  大當勢로 甲의 棍을 다잇고 믄득 大剪勢로 甲의 棍을 기고</sent>
+<sent type="main" lang="kor" page="59a-59b" n="5">즉시 大弔勢로 甲의 棍을 티고  거 나아가 가을 당야  번 디라</sent><!--로^-->
+
+<sent type="main" lang="kor" page="59b" n="1">乙이 몸을 두루혀 뒤흐로 向야 滴水勢로 甲의 棍을 긔 티고  거 믈너가</sent>
+<sent type="main" lang="kor" page="59b" n="2">인야 몸을 도로혀  거 나아가 大當勢로 甲의 棍을 다잇고</sent>
+<sent type="main" lang="kor" page="59b" n="3">甲이  大當勢로 乙의 棍을 다잇고 乙이  大當勢로 甲의 棍을 다 잇고</sent>
+<sent type="main" lang="kor" page="59b" n="4">甲이  大當勢로 乙의 棍을 다잇고 믄득 大剪勢로 乙의 棍을 기고</sent>
+<sent type="main" lang="kor" page="59b-60a" n="5">즉시 大弔勢로 乙의 棍을 티고  거 나아가 가을 당야  번 디라</sent><!--乙^의-->
+
+<sent type="main" lang="kor" page="60a" n="1">甲이 몸을 두루혀 뒤흐로 向야 滴水勢로 乙의 棍을 긔 티고  거 믈너가</sent>
+<sent type="main" lang="kor" page="60a" n="2">인야 몸을 두루혀  발 나아가 棍을 니혀 乙의 마리 우흘 向야 텨 가거든</sent>
+<sent type="main" lang="kor" page="60a" n="3">乙이  발 나아가 仙人捧盤勢 야  당고  티거든</sent>
+<sent type="main" lang="kor" page="60a" n="4">乙이  仙人捧盤勢로 당고 믄득 大剪勢로 왼 편으로 向야 甲의 棍을 기고</sent>
+<sent type="main" lang="kor" page="60a-60b" n="5">즉시 大弔勢로 甲의 棍을 티고  거 나아가 가을 당야  번 디라</sent><!-- ^ 거-->
+
+<sent type="main" lang="kor" page="60b" n="1">乙이 몸을 두루혀 뒤흐로 向야 滴水勢로 甲의 棍을 긔 티고  거 믈너가</sent>
+<sent type="main" lang="kor" page="60b" n="2">인야 몸을 도로혀  발 나아가 棍을 니혀 甲의 마리 우흘 向야 텨 가거든</sent>
+<sent type="main" lang="kor" page="60b" n="3">甲이  발 나아가 仙人捧盤勢로 당고 乙이  티거든</sent>
+<sent type="main" lang="kor" page="60b" n="4">甲이  仙人捧盤勢로 당고 大剪勢로 올흔 편으로 向야 乙의 棍을 기고</sent>
+<sent type="main" lang="kor" page="60b-61a" n="5">즉시 大弔勢로 乙의 棍을 티고  발 나아가 가을 당야  번 디라</sent><!--을 ^ 당-->
+
+<sent type="main" lang="kor" page="61a" n="1">甲이 몸을 두루혀 뒤흐로 向야 滴水勢로 乙의 棍을 긔 티고  거 믈너가</sent>
+<sent type="main" lang="kor" page="61a" n="2">인야 몸을 도로혀  발 나아가 棍을 니혀 앏흐로 向야  齊眉殺勢 고</sent>
+<sent type="main" lang="kor" page="61a" n="3">인야 棍으로 아로 向야 텨 가거든</sent>
+<sent type="main" lang="kor" page="61a" n="4">乙이 믄득 倒頭勢 야  당고 인야  발 나아가 下穿勢 야 甲의 棍을 들티고</sent>
+<sent type="main" lang="kor" page="61a" n="5">즉시 大弔勢로 甲의 棍을 티고  발 나아가 가을 당야  번 디라</sent>
+<sent type="main" lang="kor" page="61a-61b" n="6">乙이 몸을 두루혀 뒤흐로 向며 滴水勢로 甲의 棍을 긔 티고  거 믈너가</sent><!--혀 ^ 뒤-->
+
+<sent type="main" lang="kor" page="61b" n="1">인야 몸을 도로혀  발 나아가 棍을 니혀 앏흘 向야 齊眉殺勢 되고</sent>
+<sent type="main" lang="kor" page="61b" n="2">인야 棍으로 아로 向야 텨 가거든</sent>
+<sent type="main" lang="kor" page="61b" n="3">甲이 믄득 倒頭勢 야  당고 인야  발 나아가 下穿勢로 乙의 棍을 들티고</sent>
+<sent type="main" lang="kor" page="61b" n="4">즉시 大弔勢로 乙의 棍을 티고  발 나아가 가을 당야  번 디라</sent>
+<sent type="main" lang="kor" page="61b" n="5">두 사이 긔 몸을 뒤집으며 棍을 둘러 閃腰剪勢 고</sent>
+
+<sent type="main" lang="kor" page="62a" n="1">인야 下接勢 고 甲이 下穿勢로 乙의 棍을 들티고</sent>
+<sent type="main" lang="kor" page="62a" n="2">즉시 大弔勢로 乙의 棍을 티고  발 나아가 가을 당야  번 디라</sent>
+<sent type="main" lang="kor" page="62a" n="3">두 사이 긔 몸을 뒤집으며 棍을 둘러 下接勢 되고</sent>
+<sent type="main" lang="kor" page="62a" n="4">乙이 下穿勢로 甲의 棍을 들티고</sent>
+<sent type="main" lang="kor" page="62a" n="5">즉시 大弔勢로 甲의 棍을 티고  발 나아가 가을 당야  번 디라</sent>
+<sent type="main" lang="kor" page="62a" n="6">두 사이 긔 몸을 뒤집고 棍을 둘러 下接勢 되고</sent>
+<sent type="main" lang="kor" page="62a" n="7">甲이 下穿勢로 乙의 棍을 들티고</sent>
+<sent type="main" lang="kor" page="62a-62b" n="8">즉시 大弔勢로 乙의 棍을 티고  발 나아가 가을 당야  번 디라</sent><!--즉^시-->
+
+<sent type="main" lang="kor" page="62b" n="1">두 사이 긔 몸을 뒤집고 棍을 둘러 下接勢 되고</sent>
+<sent type="main" lang="kor" page="62b" n="2">乙이 下穿勢로 甲의 棍을 들티고</sent>
+<sent type="main" lang="kor" page="62b" n="3">즉시 大弔勢로 甲의 棍을 티고  발 나아가 가을 당야  번 디라</sent>
+<sent type="main" lang="kor" page="62b" n="4">乙이  발 믈너가 直符送書勢 며</sent>
+<sent type="main" lang="kor" page="62b" n="5">甲이 棍을 잡고 몸을 두루며 앏흐로 向야 서 막으며 믈너나면</sent>
+<sent type="main" lang="kor" page="62b" n="6">乙이 로며 텨 가거든 [ 로며  티라]</sent>
+<sent type="main" lang="kor" page="62b-63a" n="7">믈너 세 거의 니러 甲이 믄득 몸을 도로혀며  거 나아가 走馬回頭勢 고</sent><!--득 ^ 몸-->
+
+<sent type="main" lang="kor" page="63a" n="1">  거 나아가 大剪勢로 乙의 棍을 기고 즉시 大弔勢로 乙의 棍을 티고</sent>
+<sent type="main" lang="kor" page="63a" n="2"> 거 나아가 가을 당야 한번 디라</sent>
+<sent type="main" lang="kor" page="63a" n="3">甲이  발 믈너가 扁身中攔勢 되고</sent>
+<sent type="main" lang="kor" page="63a" n="4">두 사이 긔  발 나아가 上剃勢 고 츠라</sent>
+
+<sent type="title2" lang="kor" page="64a" n="1">鞭棍譜</sent>
+<sent type="main" lang="kor" page="64a" n="2">[原] 두 사이 가지로 셔 각각 左手로 나흔 鞭이오 나흔 棍으로 처음의 龍躍在淵勢 호</sent>
+<sent type="main" lang="kor" page="64a" n="3">올흔 주먹으로 앏흘  번 티고 인야 霜鶻奮翼勢 호</sent>
+<sent type="main" lang="kor" page="64a" n="4">甲이 右手로 鞭을 들고 여나가 몸을 도로혀 뒤흘 向거든</sent>
+<sent type="main" lang="kor" page="64a" n="5">乙이 右手로 棍을 들고 여나가 扁身中攔勢 호</sent>
+<sent type="main" lang="kor" page="64a" n="6">각각 鞭과 棍으로  번 기고 즉시  번 여 밧고아 셔며</sent>
+<sent type="main" lang="kor" page="64a-64b" n="7">甲이 몬져 月夜斬蟬勢 호 右手의 鞭을 들어 두 번 좃거든</sent><!--斬^蟬-->
+
+<sent type="main" lang="kor" page="64b" n="1">乙이 蒼煙罩頂勢 호 棍으로 놉히 들어 막아 리오고</sent>
+<sent type="main" lang="kor" page="64b" n="2">인야 大當勢 호 왼 편 밧그로 두 번 조으라</sent>
+<sent type="main" lang="kor" page="64b" n="3"> 올흔 편 안으로 大當勢 호 올흔 편 안흐로  번 티고</sent>
+<sent type="main" lang="kor" page="64b" n="4"> 大當勢 호 鞭은 올흔 편 밧그로  번 티거든</sent>
+<sent type="main" lang="kor" page="64b" n="5">棍은 왼 편 안흐로  번 티고  왼 편 안흐로 大當勢 호</sent>
+<sent type="main" lang="kor" page="64b" n="6">왼 편 안흐로  번 티고  왼 편 밧그로 大當勢 호</sent>
+<sent type="main" lang="kor" page="64b-65a" n="7">왼 편 밧그로  번 티고 甲이 올흔 편으로  번 도라 鞭으로 下接勢 야  번 티거든</sent><!--원문에는 '鞭은로'로 되어 있으나 이는 오각으로 '鞭으로'로 교정하였음--><!--흔 ^ 편-->
+
+<sent type="main" lang="kor" page="65a" n="1">乙이 棍으로 서 接고 인야 왼 편 안흐로 大當勢 고</sent>
+<sent type="main" lang="kor" page="65a" n="2"> 올흔 편 안흐로 大當勢 고  大當勢 호 鞭은 올흔 편 밧그로  번 티거든</sent>
+<sent type="main" lang="kor" page="65a" n="3">棍은 왼 편 안흐로  번 티고  왼 편 안흐로 大當勢 고  왼 편 밧그로 大當勢 고</sent>
+<sent type="main" lang="kor" page="65a" n="4">甲이 올흔 편으로  번 도라 鞭으로 下接勢 야  번 티거든</sent>
+<sent type="main" lang="kor" page="65a-65b" n="5">乙이 棍으로 서 接고  왼 편 안흐로 大當勢 고  올흔 편 안흐로 大當勢 고</sent><!--로 ^ 大-->
+
+<sent type="main" lang="kor" page="65b" n="1"> 大當勢 호 鞭은 올흔 편 밧그로  번 티거든</sent>
+<sent type="main" lang="kor" page="65b" n="2">棍은 왼 편 안흐로  번 티고  왼 편 안흐로 大當歲 고  왼 편 밧그로 大當勢 고</sent>
+<sent type="main" lang="kor" page="65b" n="3">甲이 올흔 편으로  번 도라 鞭으로 下接勢 야  번 티거든</sent>
+<sent type="main" lang="kor" page="65b" n="4">乙이 棍으로 서 接고 츠라</sent>
+
+<sent type="title2" lang="kor" page="66a" n="1">馬上鞭棍譜</sent>
+<sent type="main" lang="kor" page="66a" n="2">[增] 처음의 霜鶻奮翼勢 호 左手로 곳비 잡고 右手로 棍을 잡아 놉히 들며 을 내라</sent>
+<sent type="main" lang="kor" page="66a" n="3">靑龍騰躍勢 호 두 손으로 니마의 지나게 놉히 들고</sent>
+<sent type="main" lang="kor" page="66a" n="4">春江掃雲勢 호 왼 편으로 도라보고  번 둘너 防身고</sent>
+<sent type="main" lang="kor" page="66a" n="5">白虎炰烋勢 호 두 손으로 니마의 지나게 놉히 들고</sent>
+<sent type="main" lang="kor" page="66a" n="6">秋山御風勢 호 올흔 편으로 도라보고  번 둘너 防身고</sent>
+<sent type="main" lang="kor" page="66a-66b" n="7">霹靂揮斧勢 야 왼 편으로 向야  번 티고 인야 왼 편으로 도라보고 防身고</sent><!--勢 ^ -->
+
+<sent type="main" lang="kor" page="66b" n="1">飛電繞斗勢 야 올흔 편으로 向야  번 티고 인야 올흔 편으로 도라보고 防身고 츠라</sent>
+
+<sent type="title2" lang="kor" page="67a" n="1">擊毬譜</sent>
+<sent type="main" lang="kor" page="67a" n="2">[增] 처음의 을 旗 아 낼 제</sent>
+<sent type="main" lang="kor" page="67a" n="3">杖으로 빗기  목의 두어  귀로 더부러 작이 을 니 比耳라 고</sent>
+<sent type="main" lang="kor" page="67a" n="4">杖으로  가의다 힘을 니 割胸이라 고</sent>
+<sent type="main" lang="kor" page="67a" n="5">몸을 기우려 울어러 누어 杖으로  리의 비김을 니 防尾라 고</sent>
+<sent type="main" lang="kor" page="67a" n="6">녀 毬 흣튼 곳의 니러 杖 안 편으로 빗기 毬 여 여곰 놉히 니혐을 니 排至라 고</sent>
+<sent type="main" lang="kor" page="67a-67b" n="7">杖 밧 편으로 毬 미러 여 더짐을 니 持彼라 고  니 도돌 방올이라 니</sent><!--^고-->
+
+<sent type="main" lang="kor" page="67b" n="1">인야 比耳로 왼 편으로 도라  割胸고 두 번재 防尾고</sent>
+<sent type="main" lang="kor" page="67b" n="2">도로 毬 더진 곳의 니러 다시 毬 을 니 구을 방올이라</sent>
+<sent type="main" lang="kor" page="67b" n="3">이치 기 세 번 고 이에 녀 텨 毬 行라</sent>
+<sent type="main" lang="kor" page="67b" n="4">세 번 돌기 비록 츠나 地勢凹陷야 가히 毬 行치 못  이시면</sent>
+<sent type="main" lang="kor" page="67b" n="5">或 네 번 或 다 번 도라도  해롭지 아니니라</sent>
+<sent type="main" lang="kor" page="67b" n="6">毬 行 처음의 노하 티지 아니고 比耳로 或 두 번 며 或 세 번 라</sent>
+<sent type="main" lang="kor" page="67b-68a" n="7">比耳 후의 손을 들어 노하 텨 손이 놉히 들고 아로 드리워 揚揚홈을 니 垂揚手ᅵ니</sent><!--耳^-->
+
+<sent type="main" lang="kor" page="68a" n="1">垂揚手 뎡 쉬 업니 毬門의 나가기로 을 삼으라</sent>
+<sent type="main" lang="kor" page="68a" n="2">毬 더진 후의 헛 垂揚手 고  防尾 고  빗기 毬 여</sent>
+<sent type="main" lang="kor" page="68a" n="3">垂揚手로 紅門을 向야 더뎌 바로 들거든 인야 毬 차 門으로 나가</sent>
+<sent type="main" lang="kor" page="68a" n="4">헛 垂揚手로 毬 둘너 세 번 도라  번 毬 여 도로 紅門으로 드러와</sent>
+<sent type="main" lang="kor" page="68a-68b" n="5">都廳 쟝幕을 지나면 북을 울리니라</sent><!--원문에는 '쟝幕'로 되어 있는데 여기서는 '帳'자가 탈자 된 것임--><!--^니-->
+
+<sent type="main" lang="kor" page="68b" n="1">인야 比耳로 녀 出馬던 原地의 도라와 츠라</sent>
+<sent type="main" lang="kor" page="68b" n="2">或 比耳 예 垂揚垂 밋처 못야 毬ᅵ 임의 門의 나갓거든</sent>
+<sent type="main" lang="kor" page="68b" n="3">곳 毬 門 안셔 헛 垂揚手 고  毬 門의 밧긔셔 헛 垂揚手 고</sent>
+<sent type="main" lang="kor" page="68b" n="4">或 毬ᅵ 毬 門 앏 니러 그치고져 거든</sent>
+<sent type="main" lang="kor" page="68b" n="5">다시 티고 녀 毬 門으로 나감이  해롭지 아니니라</sent>
+
+<sent type="title2" lang="kor" page="69a" n="1">馬上才譜</sent>
+<sent type="main" lang="kor" page="69a" n="2">[增] 처음의 을 낼 제 손의 三穴銃을 가지고 을 니며</sent>
+<sent type="main" lang="kor" page="69a" n="3"> 우희셔 인야 마양이 가지 안고 올흔 편으로 을 여넘으되</sent>
+<sent type="main" lang="kor" page="69a" n="4"> 마양이의 다치 아니코 발이  잠간 니니라</sent>
+<sent type="main" lang="kor" page="69a" n="5"> 왼 편으로 을 여넘으되 或 세 번 或 네 번 야 뎡 쉬 업니라</sent>
+<sent type="main" lang="kor" page="69a" n="6">즉시 倒立을 호 졍박이  목 왼 편의 심그라</sent>
+<sent type="main" lang="kor" page="69a" n="7">급히 을 도로혀 몸을 뒤집어  누어 거즛 죽은 쳬 니라</sent>
+<sent type="main" lang="kor" page="69a-69b" n="8">右鐙裏藏身을 호 손으로 모래와 흙을 우희여 어즈러이 더지며 발등을 걸고 것구로 을려 가니라</sent><!--여 ^ 어-->
+
+<sent type="main" lang="kor" page="69b" n="1"> 左鐙裏藏身을 고 다시 안장을 고 등을 뒤집어  리 볘고 츠라</sent>
+<sent type="main" lang="kor" page="69b" n="2">或 雙馬 쓰되 連야 얽매여 니니 모든 勢 아오로 가지니라</sent>
+<sent type="title" lang="chi" page="69b" n="3">武藝圖譜通志諺解終</sent><!--title: 제목, title2: 편명, titie3: 항목, main: 본문-->
+</doc>

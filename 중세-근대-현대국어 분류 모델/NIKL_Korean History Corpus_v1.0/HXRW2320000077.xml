@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title>勸念要錄 全</title>
+<author>普雨</author>
+<date>1637년</date>
+</titleStmt>
+<notesStmt>
+<bibl><title>勸念要錄</title>
+<pubPlace>서울</pubPlace>
+<publisher>홍문각</publisher>
+<date>1984</date>
+</bibl>
+</notesStmt>
+<revisionDesc>
+<date>2015/08/20</date>
+<respStmt>
+<resp>입력자</resp><name>신용남</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>이전경</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">勸念要錄</sent>
+<sent type="title2" lang="chi" page="01a" n="2">王郞返魂傳</sent>
+<sent type="main" lang="chi" page="01a" n="3">此 王郞者은 姓은 王오 名은 思机니 吉周人也라</sent>
+<sent type="main" lang="kor" page="01a-01b" n="3">이 왕랑은 셩은 왕이오 일훔은 궤니 길쥬 사이라</sent><!--니 ^ 길-->
+
+<sent type="main" lang="chi" page="01b" n="1">年이 五十七애 其妻宋氏先亡 後十一年中夜三更애 扣窓云호</sent>
+<sent type="main" lang="kor" page="01b" n="1">나히 쉰닐굽애 겨집 송씨 몬져 주근 열 만애 밤듕 삼경 애 창을 텨 닐오</sent><!--원문에는 '나히'가 '니히'로 탈획되어 있음-->
+<sent type="main" lang="chi" page="01b" n="2">郞아 宿耶아 不宿耶아</sent>
+<sent type="main" lang="kor" page="01b" n="2">랑아 자야 아니 자야 야</sent>
+<sent type="main" lang="chi" page="01b" n="3">郞이 云호 阿誰也오</sent>
+<sent type="main" lang="kor" page="01b" n="3">랑이 닐오 누고오 대</sent>
+<sent type="main" lang="chi" page="01b" n="4">郞君의 故妻 宋氏也러니 乍傳要意야 以告之來也로라</sent><!--원문에는 '乍傳要意아'로 되어 있는데 으로 '야'의 탈획이어 '야'로 교정하였음-->
+<sent type="main" lang="kor" page="01b" n="4">랑군의 례 계집 송씨러니 조로왼 들 잠 젼야 니라 왯노라</sent>
+<sent type="main" lang="chi" page="01b" n="5">郞이 驚恠云호 何要事也오</sent>
+<sent type="main" lang="kor" page="01b" n="5">랑이 로라 괴이히 녀겨 닐오 므슨 조뢴 일오</sent>
+<sent type="main" lang="chi" page="01b-02a" n="6">宋氏 曰호 我이 亡後 十一年로</sent>
+<sent type="main" lang="kor" page="01b-02a" n="6">송씨 오 내 주근 후 열 로</sent><!--송^씨-->
+
+<sent type="main" lang="chi" page="02a" n="1">問其罪而未畢고 待君已决리라</sent>
+<sent type="main" lang="kor" page="02a" n="1">그 죄 무러 디 아니고 그 기드려사 결단리라</sent>
+<sent type="main" lang="chi" page="02a" n="2">前日 閻王이 相論久矣라</sent>
+<sent type="main" lang="kor" page="02a" n="2">아 염왕이 서르 의논호미 오란디라</sent><!--원문에는 '서르'가 '시르'로 탈획되어 있음-->
+<sent type="main" lang="chi" page="02a" n="3">來朝애 捉君差使五鬼來니</sent>
+<sent type="main" lang="kor" page="02a" n="3">오 아애 그 자  다 귀신이 오니</sent>
+<sent type="main" lang="chi" page="02a" n="4">君 冝家 中애 彌陁幀을 高掛西壁고</sent>
+<sent type="main" lang="kor" page="02a" n="4">그 집 가온 미타을 션녁 벽의 노피 걸고</sent>
+<sent type="main" lang="chi" page="02a" n="5">君이 東坐向西야 念彌陁佛라</sent>
+<sent type="main" lang="kor" page="02a" n="5">그 동으로 안 셔를 향야 미타불을 념라</sent>
+
+<sent type="main" lang="chi" page="02b" n="1">郞이 云호 㝠官이 捉吾何事오</sent>
+<sent type="main" lang="kor" page="02b" n="1">랑이 닐오 명관이 날 잠기 므스 일오</sent>
+<sent type="main" lang="chi" page="02b" n="2">宋氏이 云호 宅北 隣居 安老宿이</sent>
+<sent type="main" lang="kor" page="02b" n="2">송씨 닐오 우리 집 븍녁 이웃의 사 안노슉이</sent>
+<sent type="main" lang="chi" page="02b" n="3">每日 早晨애 向西 五十拜고</sent>
+<sent type="main" lang="kor" page="02b" n="3">일 이 새배 셔를 향야 쉰 번 절고</sent>
+<sent type="main" lang="chi" page="02b" n="4">每月 望日애 念彌佛을 萬篇爲業거</sent>
+<sent type="main" lang="kor" page="02b" n="4">월 보로매 미타불 념기 일만 편으로 업을 거</sent>
+
+<sent type="main" lang="chi" page="03a" n="1">君와 與我로 每常 誹謗더니</sent><!--원문에는 '더니'가 '디니'로 탈획되어 있음-->
+<sent type="main" lang="kor" page="03a" n="1">그와 나와로 샹애 비방더니</sent>
+<sent type="main" lang="chi" page="03a" n="2">以此로 捉囚先問고 待君問了리니</sent>
+<sent type="main" lang="kor" page="03a" n="2">일로 자바 가도와 몬져 묻고 그 기드려사 묻기 리니</sent>
+<sent type="main" lang="chi" page="03a" n="3">我等이 必然堕扵地獄이면 永無出期로다</sent>
+<sent type="main" lang="kor" page="03a" n="3">우리히 필연히 디옥애 러디면 기리 날 긔약이 업스리로다 고</sent>
+<sent type="main" lang="chi" page="03a" n="4">言訖애 宋氏 即還야</sent>
+<sent type="main" lang="kor" page="03a" n="4">말 매 송씨 즉제 도라 니거</sent>
+
+<sent type="main" lang="chi" page="03b" n="1">於是애 郞이 明朝애 如其所告야 至誠로 念佛더니</sent>
+<sent type="main" lang="kor" page="03b" n="1">이에 랑이  아애 그 말다이 야 지극 졍셩으로 렴불더니</sent>
+<sent type="main" lang="chi" page="03b" n="2">時애 忽然 惡鬼이 來立庭中야</sent>
+<sent type="main" lang="kor" page="03b" n="2">긋긔 믄득 다 귓거시  가온 와 셰셔</sent>
+<sent type="main" lang="chi" page="03b" n="3">良久囬看야 審諦觀察다가 先禮彌陀幀고 次拜王郞야</sent>
+<sent type="main" lang="kor" page="03b" n="3">오래 도라보아 펴 셔히 관찰다가 몬져 미타을 절고 버거 왕량을 절야</sent>
+<sent type="main" lang="chi" page="03b" n="4">郞이 大驚 下坐야 答拜대</sent>
+<sent type="main" lang="kor" page="03b" n="4">랑이 키 롤라 자의 녀 답야 절대</sent>
+
+<sent type="main" lang="chi" page="04a" n="1">鬼使이 云호 吾等은 㝠曺承命이라</sent>
+<sent type="main" lang="kor" page="04a" n="1">귀 닐오 우리 명조 명을 바닷디라</sent>
+<sent type="main" lang="chi" page="04a" n="2">捉君而來러니 今君淸淨道塲고 端坐勸念彌陁니</sent>
+<sent type="main" lang="kor" page="04a" n="2">그을 자라 왓다니 이제 그 도량을 조히 고 단졍히 안자 브즈런니 미타을 념니</sent>
+<sent type="main" lang="chi" page="04a" n="3">吾等이 雖敬無已나 難避閻王之命어니와</sent>
+<sent type="main" lang="kor" page="04a" n="3">우리히 비록 공경을 마디 아니냐 염왕의 명을 피홈 어렵거니와</sent>
+<sent type="main" lang="chi" page="04a" n="4">雖不如勅이나 非不捉去니 伏請行李쇼셔</sent><!--원문에는 '쇼셔'가 'ᄒ쇼셔'로 탈획되어 있음-->
+<sent type="main" lang="kor" page="04a" n="4">비록 틱령다이 아니나 아니 자바 가디 몯디니 굿브러 쳥노니 니쇼셔</sent>
+
+<sent type="main" lang="chi" page="04b" n="1">第三鬼이 曰호 閻王이 下令샤 彼王郞을 嚴縛將來라 시니</sent>
+<sent type="main" lang="kor" page="04b" n="1">뎨삼 귀 오 염왕이 령을 리오샤 뎌 왕랑을 엄히 여 져오라 시니</sent><!--원문에는 '령을'이 '렁을'로 탈획되어 있음-->
+<sent type="main" lang="chi" page="04b" n="2">不如勅則 王之所嗔을 吾等이 可被也로다</sent>
+<sent type="main" lang="kor" page="04b" n="2">칙령다이 아니면 왕의 진심을 우리히 어루 니브리로다</sent>
+<sent type="main" lang="chi" page="04b-05a" n="3">餘鬼이 曰호 若我等이 被多勅언뎡</sent>
+<sent type="main" lang="kor" page="04b-05a" n="3">나 귓거시 오 우리히 한 틱령을 니브미언뎡</sent><!--원문에는 '틱령을'이 '틱렁을'로 탈획되어 있음--><!--미^언-->
+
+<sent type="main" lang="chi" page="05a" n="1">不修善道故로 今受鬼報을 未脫니</sent>
+<sent type="main" lang="kor" page="05a" n="1">어진 도리 닷디 몯 그런 로 이제 귀보 몯 버니</sent>
+<sent type="main" lang="chi" page="05a" n="2">寕受死罪언뎡 不敢以念佛者을 捉令縛之니라</sent><!--원문에는 '언뎡'이 '언덩'으로 탈획되어 있음-->
+<sent type="main" lang="kor" page="05a" n="2">히 주글 죄 슈홀디언뎡 감히 브텨 념 사을 령을 조차 디 몯디니라</sent>
+<sent type="main" lang="chi" page="05a" n="3">第一鬼이 告王郞曰호</sent><!--원문에는 '호'가 '호디'로 탈획되어 있음-->
+<sent type="main" lang="kor" page="05a" n="3">뎨일 귓거시 왕량려 닐러 오</sent><!--원문에는 '왕량려'가 '왕량ᄃ려'로 'ᆞ'가 탈획되어 있음-->
+<sent type="main" lang="chi" page="05a-05b" n="4">雖有犯罪如山야 必入地獄이나</sent>
+<sent type="main" lang="kor" page="05a-05b" n="4">비록 죄 범호미 산 야 반기 디옥애 들로미 이시나</sent><!--원문에는 '산 야'가 '신 ᄒ야'로 탈획되어 있음--><!--범^호-->
+
+<sent type="main" lang="chi" page="05b" n="1">吾等 所見로 善奏閻王면 必還人道리니</sent>
+<sent type="main" lang="kor" page="05b" n="1">우리히 보론 바로 염왕 이대 오면 반기 인도애 도로 오리니</sent><!--원문에는 '바로'가 '바르'로 탈획되어 있음-->
+<sent type="main" lang="chi" page="05b" n="2">君이 不敢悲憫쇼셔</sent><!--원문에는 '쇼셔'가 '쇼시'으로 탈획되어 있음-->
+<sent type="main" lang="kor" page="05b" n="2">그 감히 슬허 마쇼셔</sent>
+<sent type="main" lang="chi" page="05b" n="3">君若生極樂어든 不忘吾等鬼使슈셔 고</sent><!--원문에는 '君若生極樂어든'이 '君若生極樂이든'으로 탈획되어 있음-->
+<sent type="main" lang="kor" page="05b" n="3">그 다가 극락의 나든 우리 귀 닛디 마쇼셔 고</sent><!--원문에는 '그'가 '그디'으로 탈획되어 있음-->
+<sent type="main" lang="chi" page="05b" n="4">囙跪示偈曰</sent><!--원문에는 '언뎡'이 '언덩'으로 탈획되어 있음-->
+<sent type="main" lang="kor" page="05b" n="4">인야 러셔 게을 뵈여 오</sent>
+<sent type="main" lang="chi" page="05b" n="5">我作㝠間使이 今已百千劫로</sent><!--원문에는 '今已百千劫로'가 '今已百千劫로디'으로 탈획되어 있음-->
+<sent type="main" lang="kor" page="05b" n="5">내 명간애 쟈 되연 디 이제 이믜 쳔 겁이로</sent><!--원문에는 '겁이로'의 '로'가 거의 탈자로 되어 있으나 언해문을 바탕으로 재구-->
+
+<sent type="main" lang="chi" page="06a" n="1">不見念佛人이 墮於惡道中게라</sent><!--원문에는 '墮於惡道中게라'의 '라'가 탈자이나 언해문을 바탕으로 재구-->
+<sent type="main" lang="kor" page="06a" n="1">부텨 념 사이 악도 듕애 러디 보디 몯게라</sent>
+<sent type="main" lang="chi" page="06a" n="2">君이 若生蓮花國어든 念吾軰을 脫鬼報케 슈셔</sent>
+<sent type="main" lang="kor" page="06a" n="2">그 다가 련화국의 나든 우리 물을 념야 귀보을 벗게 쇼셔</sent><!--원문에는 '쇼셔'가 '쇼서'로 탈획됨-->
+
+<sent type="main" lang="chi" page="06b" n="1">已然後애 到㝠曺니 閻王이 怒勅使曰호</sent>
+<sent type="main" lang="kor" page="06b" n="1">그리  후에 명조애 가니 염왕이 틱려 로야 오</sent>
+<sent type="main" lang="chi" page="06b" n="2">急捉縛來라 니 如何遅晩也오</sent><!--원문에는 '라'가 'ᄒ라'로 탈획됨-->
+<sent type="main" lang="kor" page="06b" n="2">리 자바 여 오라 니 엇뎨 느지 오뇨</sent>
+<sent type="main" lang="chi" page="06b" n="3">鬼使이 具陳所見니 王이 起坐立云호</sent><!--원문에는 '니'가 'ᄒ니'로 탈획됨-->
+<sent type="main" lang="kor" page="06b" n="3">귀 보던 바 초 펴니 왕이 자의 니러 셰서 닐오</sent>
+<sent type="main" lang="chi" page="06b" n="4">善哉라 王郞耶速階上슈셔</sent><!--원문에는 '슈셔'가 '슈서'로 탈획됨-->
+<sent type="main" lang="kor" page="06b" n="4">됴셔 왕량이여 리 계졀의 오쇼셔</sent>
+
+<sent type="main" lang="chi" page="07a" n="1">十王이 齊拜曰호 夫妻이 常曾誹謗安老宿의 念佛事더니</sent>
+<sent type="main" lang="kor" page="07a" n="1">열 왕이 모다 절야 오 부체 샹애 일즉 안노슉의 렴불 일 비방더니</sent>
+<sent type="main" lang="chi" page="07a" n="2">先囚宋氏고 當問王郎야사 堕於惡道리라 야</sent>
+<sent type="main" lang="kor" page="07a" n="2">송씨을 몬져 가도고 왕량려 맛당히 물워 악도애 러디리라 야</sent>
+<sent type="main" lang="chi" page="07a" n="3">今差極惡鬼使러니</sent>
+<sent type="main" lang="kor" page="07a" n="3">이제 지극히 모진 귀 브렷더니</sent><!--'긔'는 '鬼使'의 언해로 '귀'의 탈획임-->
+<sent type="main" lang="chi" page="07a" n="4">鬼使所見을 聞之 君이 改心懺悔고 勤修念佛니 有何罪乎리오</sent><!--원문에는 '고가 '고'로 ''가 탈자됨-->
+<sent type="main" lang="kor" page="07a" n="4">귀의 본 바 드로니 그  고쳐 참회고 브즈러니 렴불니 엇던 죄 이시리오</sent>
+<sent type="main" lang="chi" page="07a" n="5">王이 因偈曰</sent>
+<sent type="main" lang="kor" page="07a" n="5">왕이 인야 게로 닐오</sent>
+
+<sent type="main" lang="chi" page="07b" n="1">西方主 彌陀佛은 此娑婆別有緣니</sent>
+<sent type="main" lang="kor" page="07b" n="1">셔방 쥬 미타블은 이 사바의 각별 인연이 이시니</sent>
+<sent type="main" lang="chi" page="07b" n="2">若不一念彼佛면 㝠曺猛使難降러니라</sent>
+<sent type="main" lang="kor" page="07b" n="2">다가  라치 져 부쳐을 아니 렴면 명조의 용 쟈을 항복기 어려우니라</sent>
+<sent type="main" lang="chi" page="07b" n="3">夫妻을 還返人間야 遺命三十年어을</sent><!--원문에는 '遺命三十年어을'이 '遺命三十年이을'로 탈획됨-->
+<sent type="main" lang="kor" page="07b" n="3">부쳐을 인간 도로 야 기친 명이 셜흔 어을</sent>
+<sent type="main" lang="chi" page="07b-08a" n="4">年加六十嵗야 勤修精進야</sent>
+<sent type="main" lang="kor" page="07b-08a" n="4">년을 여슌  더야 브즈런이 닷가 졍진야</sent><!--진^-->
+
+<sent type="main" lang="chi" page="08a" n="1">念彌陁佛면 速徃彼刹시리니</sent>
+<sent type="main" lang="kor" page="08a" n="1">미타불을 렴야 리 뎌 셰계예 가시리니</sent>
+<sent type="main" lang="chi" page="08a" n="2">吾等 十王도 並到西方케 쇼셔</sent>
+<sent type="main" lang="kor" page="08a" n="2">우리 시왕도 다 셔방의 니르게 쇼셔</sent>
+<sent type="main" lang="chi" page="08a" n="3">爲送뇌다</sent>
+<sent type="main" lang="kor" page="08a" n="3">위야 보내뇌다</sent>
+<sent type="main" lang="chi" page="08a" n="4">王이 命曺府崔判官야 曰호</sent>
+<sent type="main" lang="kor" page="08a" n="4">왕이 조부 최판관을 명야 오</sent>
+<sent type="main" lang="chi" page="08a-08b" n="5">王郎이 造排道場고 懇切念佛니</sent>
+<sent type="main" lang="kor" page="08a-08b" n="5">왕량이 도량을 버리고 졀히 부쳐을 념니</sent><!--량^이-->
+
+<sent type="main" lang="chi" page="08b" n="1">先犯無間罪報이 今已散盡고</sent>
+<sent type="main" lang="kor" page="08b" n="1">몬져 범 무간 죄뵈 이제 이믜 흐터 업고</sent>
+<sent type="main" lang="chi" page="08b" n="2">唯念佛功德로 夫妻을 同返人間야</sent>
+<sent type="main" lang="kor" page="08b" n="2">오직 렴블공덕으로 브와 쳐와 가지로 인가 도라 보내여</sent>
+<sent type="main" lang="chi" page="08b" n="3">偕老同住야 念佛케 리니</sent>
+<sent type="main" lang="kor" page="08b" n="3"> 늘거  머므러 부쳐을 렴케 호리니</sent>
+<sent type="main" lang="chi" page="08b" n="4">宋氏이 命終年久야 皮骨散失니 屬魂何䖏오</sent>
+<sent type="main" lang="kor" page="08b" n="4">송씨 명   오라니 가족  흐터 업스니 혼졍을 어늬 고대 브칠고</sent>
+
+<sent type="main" lang="chi" page="09a" n="1">判官이 聴王命야 以閻王㫖로 囬拜王郎고 夫妻을 奏王호니</sent>
+<sent type="main" lang="kor" page="09a" n="1">판관이 왕의 명을 드러 염왕 드로 왕량 절고 부와 쳐와을 왕 오</sent>
+<sent type="main" lang="chi" page="09a" n="2">月氏國 翁主이 時命이 二十一嵗라</sent><!--원문에는 '二十一嵗라'가 '二十一嵗리'로 탈획됨-->
+<sent type="main" lang="kor" page="09a" n="2">월지국 옹 이제 명이 스믈 리라</sent>
+<sent type="main" lang="chi" page="09a" n="3">命限已盡故로 魂今來此야 夜魔天報이 已盡야 還生於天上리니</sent><!--원문에는 '魂今來此야'가 '魂今來此ᄒ야'로 탈획됨-->
+<sent type="main" lang="kor" page="09a" n="3">명 그슴미 이믜 다 젼로 혼이 이제 이에 와 야마텬샹의 나리니</sent>
+<sent type="main" lang="chi" page="09a" n="4">基體專在 宋氏之魂을 托扵公主形야</sent>
+<sent type="main" lang="kor" page="09a" n="4">그 모미 올와 이시니 송씨의 혼을 옹쥬의 얼굴의 의탁야</sent><!--원문에는 '송씨의'가 '소씨의'로 탈획됨-->
+<sent type="main" lang="chi" page="09a-09b" n="5">還生可冝니이다</sent>
+<sent type="main" lang="kor" page="09a-09b" n="5">도로 나게 호미 어루 맛당니이다 야</sent><!--당^-->
+
+<sent type="main" lang="chi" page="09b" n="1">閻王이 歡喜曰호 郎君夫妻이 不忘此願면</sent>
+<sent type="main" lang="kor" page="09b" n="1">염왕이 깃거 오 랑군 부체 이 원을 아니 니즈면</sent>
+<sent type="main" lang="chi" page="09b" n="2">速生西方시리니 君則諦聴라</sent>
+<sent type="main" lang="kor" page="09b" n="2">셔방의 리 나시리니 그 셔히 드르라</sent>
+<sent type="main" lang="chi" page="09b-10a" n="3">君宅北㞐安老宿을 不敢誹謗어다</sent>
+<sent type="main" lang="kor" page="09b-10a" n="3">그듸 집 브긔 사 안로슉을 감히 비방 말디어다</sent><!--방 ^ 말-->
+
+<sent type="main" lang="chi" page="10a" n="1">受此身以來애 常尊西方니</sent>
+<sent type="main" lang="kor" page="10a" n="1">이 몸 슈야 오매 샹애 셔방을 존히 니</sent>
+<sent type="main" lang="chi" page="10a" n="2">由此㓛故로 諸佛諸天이 常護持也니라</sent>
+<sent type="main" lang="kor" page="10a" n="2">이 공덕을 브틀 그러모로 졔불 졔텬이 샹애 호디디니라</sent>
+<sent type="main" lang="chi" page="10a" n="3">君則常供養如父母샤 請君노니</sent>
+<sent type="main" lang="kor" page="10a" n="3">그 샹례 공양호 부모 티 샤 그 쳥노니</sent>
+<sent type="main" lang="chi" page="10a" n="4">吾等 音信을 傳達安老宿쇼셔 야</sent>
+<sent type="main" lang="kor" page="10a" n="4">우리 음신을 안노슉 젼야 아뢰쇼셔 야</sent><!--원문에는 '안노슉'가 '안노슈'로 탈획됨-->
+<sent type="main" lang="chi" page="10a" n="5">王郞이 應諾대</sent>
+<sent type="main" lang="kor" page="10a" n="5">왕랑이 답야 허락</sent>
+
+<sent type="main" lang="chi" page="10b" n="1">閻王이 向老宿야 拜曰호 道體如何오</sent>
+<sent type="main" lang="kor" page="10b" n="1">염왕이 노슉을 향야 절고 오 도톄 엇더고</sent>
+<sent type="main" lang="chi" page="10b" n="2">日新堅固시니 隔三年이라가 三月初一日면</sent>
+<sent type="main" lang="kor" page="10b" n="2">날로 새로 견고히 시니 세  이 잇다가 삼월 초 날이면</sent>
+<sent type="main" lang="chi" page="10b-11a" n="3">西方敎主이 持紫金蓮華座고 迎君야 西方上品애 徃生케 리라 고 言訖애</sent>
+<sent type="main" lang="kor" page="10b-11a" n="3">셔방 교 금련좌을 가지고 그을 마자 셔방 샹품애 가 나게 리라 고 말 매</sent><!--품^애-->
+
+<sent type="main" lang="chi" page="11a" n="1">還生本家니 家人이 欲葬時애</sent>
+<sent type="main" lang="kor" page="11a" n="1">도로 본가애 오니 집 사미 영장고져  애</sent>
+<sent type="main" lang="chi" page="11a" n="2">還生偈曰</sent>
+<sent type="main" lang="kor" page="11a" n="2">도로 나 게로 닐오</sent>
+<sent type="main" lang="chi" page="11a" n="3">滿堂妻子與財珎이</sent>
+<sent type="main" lang="kor" page="11a" n="3">지븨 얏 쳐와 뇟 보왜</sent>
+<sent type="main" lang="chi" page="11a" n="4">受苦當時不代身로다</sent><!--원문에는 '로다'가 '르다'로 탈획됨-->
+<sent type="main" lang="kor" page="11a" n="4">슈고 당 시졀애 이 모 디 몯로다</sent>
+<sent type="main" lang="chi" page="11a" n="5">一念弥陁消罪報니 還生征命更修真호리라</sent>
+<sent type="main" lang="kor" page="11a" n="5">일렴 미타 사죄보 니 도로 나 와 명을 므너 다시 진을 닷글로다</sent>
+
+<sent type="main" lang="chi" page="11b" n="1">宋氏이 托公主身야 還生니 王與夫人이 歡喜時에</sent>
+<sent type="main" lang="kor" page="11b" n="1">송씨 옹쥬의 모 의탁야 도로 나니 왕와 부인이 깃거 제</sent><!--원문에는 '의탁야'가 '의탁아'로 탈획됨-->
+<sent type="main" lang="chi" page="11b" n="2">公主生身이 具陳上事니 王이 嘆之고 詔王郞曰호</sent>
+<sent type="main" lang="kor" page="11b" n="2">옹쥬 신이 우희 이 초 펴니 왕이 슬허고 왕량을 됴셔야 오</sent>
+<sent type="main" lang="chi" page="11b" n="3">朕曾不見此事所謂夢中之瑞로다</sent>
+<sent type="main" lang="kor" page="11b" n="3">나 잠도 이런 이 보디 몯야시니 닐온  듕의 샹셰로다</sent>
+
+<sent type="main" lang="chi" page="12a" n="1">王郞이 即奏言호</sent>
+<sent type="main" lang="kor" page="12a" n="1">왕랑이 즉제 와 닐오</sent>
+<sent type="main" lang="chi" page="12a" n="2">宋氏 十一年間애 不思餘親호고</sent>
+<sent type="main" lang="kor" page="12a" n="2">송씨 열  이예 다 친을 랑 아니고</sent>
+<sent type="main" lang="chi" page="12a" n="3">唯守前信로 乃遇重親라 고</sent>
+<sent type="main" lang="kor" page="12a" n="3">오직 아 신을 가져셔 이애 다시 친호 맏날와 고</sent>
+<sent type="main" lang="chi" page="12a" n="4">歡喜而退야 征壽 一百四十七嵗後애 同生極樂也다</sent><!--원문에는 '歡喜而退야'가 '歡喜而退ᄒ야'로 탈획됨-->
+<sent type="main" lang="kor" page="12a" n="4">깃거 믈러가 목숨 일백망은닐굽 을 므는 후애  극락국의 나다</sent>
+
+<sent type="title2" lang="chi" page="13a" n="1">逺公結社傳</sent>
+<sent type="main" lang="chi" page="13a" n="2">東晋僧慧逺法師은 雁門人也라</sent>
+<sent type="main" lang="kor" page="13a" n="2">동진 적 즁 혜원법 안문 사미라</sent><!--원문에는 '혜원법'이 '헤원법'으로 되어 탈획으로 보임-->
+<sent type="main" lang="chi" page="13a" n="3">㞐廬山야 與劉遺民等僧俗百二十三人로</sent>
+<sent type="main" lang="kor" page="13a" n="3">려산의 사라 뉴유민 등 즁과 쇽과 스믈세 사으로</sent>
+<sent type="main" lang="chi" page="13a-13b" n="4">結為蓮社고 以修淨圡야 謂他日生蓮花中也러니</sent><!--원문에는 '結為蓮社고'가 '結為蓮社ᄒ고'로 탈획됨-->
+<sent type="main" lang="kor" page="13a-13b" n="4">련샤 결야 글고 졍토을 닷가 닐오 다 날의 련화 듕의 나쟈 더니</sent><!--원문에는 '닐오'가 '닐오디'로 탈획됨--><!-- ^ 날-->
+
+<sent type="main" lang="chi" page="13a" n="1">遺民이 著文讚頌대</sent>
+
+<sent type="main" lang="kor" page="13b" n="1">유민이 문 지어 기려 숑대</sent>
+<sent type="main" lang="chi" page="13b" n="2">感一仙人이 乗雲聴法며 空中咸奏淸唄聲고</sent>
+<sent type="main" lang="kor" page="13b" n="2"> 션인이 구루을 타 와 법 드르며 허공 듕애셔 조 소리 오 감득고</sent>
+<sent type="main" lang="chi" page="13b" n="3">䣃長風러라</sent><!--원문에는 '䣃長風러라'가 '䣃長風리라'로 탈획됨-->
+<sent type="main" lang="kor" page="13b" n="3">기리 을 더라</sent>
+
+<sent type="main" lang="chi" page="14a" n="1">法師이 澄心觀想니 初十年애 三覩聖相호</sent>
+<sent type="main" lang="kor" page="14a" n="1">법 을 켜 관샹니 처섬 열 애 셩인 얼구 세 변 보</sent>
+<sent type="main" lang="chi" page="14a" n="2">而逺公이 沉厚不言러시니</sent>
+<sent type="main" lang="kor" page="14a" n="2">원공이 팀후히 리디 아니호미러시니 [팀후 미라]</sent>
+<sent type="main" lang="chi" page="14a" n="3">後七月애 逺이 又見阿弥陁佛身이 滿虗空며</sent>
+<sent type="main" lang="kor" page="14a" n="3">훗 닐굽 래 원이  아미타불 모미 허공애 호 보며</sent>
+<sent type="main" lang="chi" page="14a" n="4">圓光之中애 有諸化佛시며 觀音勢至이 侍立左右며</sent>
+<sent type="main" lang="kor" page="14a" n="4">두려운 광명 가온 여러 화 부톄 겨시며 관음과 셔지 자우애 모셔 셔 이시며</sent>
+<sent type="main" lang="chi" page="14a" n="5">又見水流光明이 分四十支야 一一支水이 流注上下야</sent>
+<sent type="main" lang="kor" page="14a" n="5"> 믈 흐르 광명이 열례 가 화 낟낟 가 므리 아래 우희 흘러 브서</sent>
+<sent type="main" lang="chi" page="14a-14b" n="6">自然演說苦空無常無我妙法니</sent>
+<sent type="main" lang="kor" page="14a-14b" n="6">연히 굉공 덛덛홈 업스며 아 업슨 미묘 법 니샤 보니</sent><!--굉^공-->
+
+<sent type="main" lang="chi" page="14b" n="1">如十六觀經說러라</sent>
+<sent type="main" lang="kor" page="14b" n="1">십륙 관경의 닐옴 더라</sent>
+<sent type="main" lang="chi" page="14b" n="2">佛告逺曰샤 我以本願力故로</sent>
+<sent type="main" lang="kor" page="14b" n="2">부톄 원이려 니샤 나의 보분 힘민 젼로</sent>
+<sent type="main" lang="chi" page="14b-15a" n="3">來安慰汝노니 後七日애 當生我國리라</sent>
+<sent type="main" lang="kor" page="14b-15a" n="3">와 너를 안위논니 훗 칠 일이면 반기 내 국의 나리라</sent><!--원문에는 '너를'이 '니를'로 탈획됨--><!--국^의-->
+
+<sent type="main" lang="chi" page="15a" n="1">見僧佛馱耶舍와 及慧持와 曇順이 住佛之側야</sent>
+<sent type="main" lang="kor" page="15a" n="1">보니 즁 불다야샤와 혜디와 담슌이 부쳐 겨틔 머므러</sent>
+<sent type="main" lang="chi" page="15a" n="2">向前揖逺曰호</sent>
+<sent type="main" lang="kor" page="15a" n="2">알 향야 원을 절야 오</sent>
+<sent type="main" lang="chi" page="15a" n="3">法師之志은 在吾先로 何來之遲也오</sent>
+<sent type="main" lang="kor" page="15a" n="3">법의 든 날로셔 몬져 이쇼 엇디 오기 느즌요</sent>
+
+<sent type="main" lang="chi" page="15b" n="1">逺이 自見分明야 乃與其徒로 言之고</sent>
+<sent type="main" lang="kor" page="15b" n="1">원이 분명히 보아 이애 그 무리로려 말고</sent>
+<sent type="main" lang="chi" page="15b" n="2">且曰始吾居此야 幸於淨圡애 三覩聖相고</sent>
+<sent type="main" lang="kor" page="15b" n="2"> 오 처엄애 내 이에 이셔 유복야 졍토애 셩샹을 세 번 보고</sent>
+<sent type="main" lang="chi" page="15b" n="3">今復見之호니 吾生淨圡이 决矣로다</sent>
+<sent type="main" lang="kor" page="15b" n="3">이제  보니 내 졍토애 나미 일뎡도다 고</sent>
+<sent type="main" lang="chi" page="15b" n="4">次日애 寢疾야 至七日야 聖衆遙迎샤</sent>
+<sent type="main" lang="kor" page="15b" n="4">버근 날애 자리애 병드러 닐굽 날애 니르러 셩즁이 머리셔 마샤</sent><!--원문에는 '셩즁'이 '셩증'으로 탈획됨-->
+<sent type="main" lang="chi" page="15b" n="5">寂然而化니 時義熙十二年八月六日也러라</sent>
+<sent type="main" lang="kor" page="15b" n="5">괴외히 화니 시 의희 십이 년 팔월 엿샏 날이러라 </sent><!--원문에는 '엿샏'이 '엇샏'으로 탈획됨-->
+<sent type="main" lang="chi" page="15b" n="6">同會一百二十三人이 前後皆生淨圡니라</sent>
+<sent type="main" lang="kor" page="15b" n="6">모 일스믈세 사이 몬져며 후제 다 졍토애 나니라</sent>
+
+<sent type="title2" lang="chi" page="16a" n="1">闕公則現報傳</sent>
+<sent type="main" lang="chi" page="16a" n="2">東晋闕公則은 逺公白蓮社中人이라</sent>
+<sent type="main" lang="kor" page="16a" n="2">동진 적 궐공측은 원공 련샤 듕 사이라</sent>
+<sent type="main" lang="chi" page="16a" n="3">已亡커을 友人이 於東京白馬寺애 作忌日러니</sent>
+<sent type="main" lang="kor" page="16a" n="3">이믜 죽거을 벋 사미 동경 마뎔의 가 긔일을 짓더니</sent>
+<sent type="main" lang="chi" page="16a-16b" n="4">林木殿宇이 皆作金色고 空中有聲云호</sent>
+<sent type="main" lang="kor" page="16a-16b" n="4">숨풀 나모와 뎐집들왜 다 금빗치 외여 허공 가온 소리 이셔 닐오</sent><!--왜 ^ 다-->
+
+<sent type="main" lang="chi" page="16b" n="1">我是闕公則로니 所祈徃生極樂寶國을 今已遂矣일이</sent>
+<sent type="main" lang="kor" page="16b" n="1">내 이 궐공측이로니 비러 극락 보나라희 가 나 이제 이믜 일울</sent>
+<sent type="main" lang="chi" page="16b" n="2">故來相報로라 고 言訖不現니라</sent>
+<sent type="main" lang="kor" page="16b" n="2">그러모로 와 서르 알외노라 고 말 매 낟디 아니니라</sent>
+
+<sent type="title2" lang="chi" page="17a" n="1">烏長王見佛傳</sent>
+<sent type="main" lang="chi" page="17b" n="2">烏長國王이 萬機之暇애 謂群臣曰</sent>
+<sent type="main" lang="kor" page="17b" n="2">오쟝국 왕이 만긔 여가애 [만긔 왕의 뎡법비라] 모 신하려 오</sent><!--원문에는 '만긔'와 '뎡법'이 '만그'와 '덩법'으로 탈획됨-->
+<sent type="main" lang="chi" page="17b" n="3">朕은 為人主로 不免生老病死無常之苦니</sent>
+<sent type="main" lang="kor" page="17b" n="3">짐은 사이 읏듬 외여 이쇼 와 로와 병과 와의 덛덛홈 업슨 곧을 몯 면니</sent><!--원문 '곧을'의 '곧'은 '苦'의 언해인데 '고'의 오각으로 보임-->
+<sent type="main" lang="chi" page="17b" n="4">六趣輪囬애 誰分貴賤이리오</sent><!--원문에는 '誰分貴賤이리오'의 '이'가 탈자됨-->
+<sent type="main" lang="kor" page="17b" n="4">륙예 구우러 횟도로매 뤼 귀와 쳔와 호리오</sent>
+<sent type="main" lang="chi" page="17b" n="5">聞호니 西方佛國은 誓願棲神라 고</sent>
+<sent type="main" lang="kor" page="17b" n="5">들오니 셔방 불국은 셔원으로  깃기 수니라 고</sent>
+<sent type="main" lang="chi" page="17b-18a" n="6">於是애 日夜精勤야 念佛行道며 廣行布施야</sent>
+<sent type="main" lang="kor" page="17b-18a" n="6">이애 낫밤애 졍히 브즈런이 야 부쳐 렴호모로 도 며 보시 러비 야</sent><!--^야-->
+
+<sent type="main" lang="chi" page="18a" n="1">利樂衆生며 每日애 設一百僧齋호</sent><!--원문에는 '利樂衆生며'가 '利樂衆生ᄒ며'로 탈획됨-->
+<sent type="main" lang="kor" page="18a" n="1">중 리히 즐기게 며 일애 일 즁의 식을 펴되.</sent>
+<sent type="main" lang="chi" page="18a" n="2">王與后妃이 親手行食며</sent><!--원문에는 '親手行食며'가 '親手行食ᄒ며'로 탈획됨-->
+<sent type="main" lang="kor" page="18a" n="2">왕이 후비와로 친히 손소 바 며 [후비 왕의 겨집이라]</sent>
+<sent type="main" lang="chi" page="18a" n="3">時請名僧야 咨扣妙法야 三十餘年을 精專無替러니</sent>
+<sent type="main" lang="kor" page="18a" n="3">시졀로 일훔난 즁을 쳥야 미묘 법을 무러 삼십나  졍히 올외여 옴 업더니</sent><!--원문에는 '쳥야'와 '올외여'가 '졍야'와 '을외여'로 탈획됨-->
+<sent type="main" lang="chi" page="18a" n="4">一日官中애 見弥陀佛니 西方聖衆이 來迎祥瑞이 不一러라</sent>
+<sent type="main" lang="kor" page="18a" n="4"> 날애 궁즁애 미타불을 보니 셔방 셩즁이 와 맏 샹셰 나 아니러라</sent>
+<sent type="main" lang="chi" page="18a" n="5">端坐示滅니 神色怡悅러라</sent>
+<sent type="main" lang="kor" page="18a" n="5">단졍히 안자 멸도 뵈니 신긔 빋치 이열더라 [이열은 고올시라]</sent><!--원문에는 '이열은'이 '이열으'로 탈획됨-->
+<sent type="title2" lang="chi" page="18a" n="6">鄭牧卿執幡傳</sent>
+
+<sent type="main" lang="chi" page="18b" n="1">唐信士鄭牧卿은 榮陽人也이라</sent>
+<sent type="main" lang="kor" page="18b" n="1">당 적 신 졍목경은 영양 사이라</sent>
+<sent type="main" lang="chi" page="18b" n="2">擧家奉佛야</sent>
+<sent type="main" lang="kor" page="18b" n="2">오온 집이 부쳐을 봉준야</sent>
+<sent type="main" lang="chi" page="18b" n="3">母及姊妹이 同祈淨圡러니</sent>
+<sent type="main" lang="kor" page="18b" n="3">어미와  누위와 아누위왜 가지로 졍토을 비더니</sent>
+<sent type="main" lang="chi" page="18b" n="4">至開元二十一年야 囙疾困䔍거을</sent>
+<sent type="main" lang="kor" page="18b" n="4">원 이십 일 련의 니르러 병을 인야 곤호미 돗갑거을</sent>
+
+<sent type="main" lang="chi" page="19a" n="1">有醫人及同道者이 咸勸喩言호</sent>
+<sent type="main" lang="kor" page="19a" n="1">의원 사과  가지로 도리 사이 이셔 다 권야 알외여 닐오</sent>
+<sent type="main" lang="chi" page="19a" n="2">且進魚肉야 以救羸軀고</sent>
+<sent type="main" lang="kor" page="19a" n="2">아직 고기을 나소아 여윈 모 구완고</sent><!--원문에는 '구완'이 '구왼'으로 탈획됨-->
+<sent type="main" lang="chi" page="19a" n="3">痊復之後애 修持淨戒호미 不亦可乎아</sent>
+<sent type="main" lang="kor" page="19a" n="3">됴 후에 졍계을 닷가 디뇨미  올치 아니야</sent>
+
+<sent type="main" lang="chi" page="19b" n="1">牧卿이 曰噫라</sent>
+<sent type="main" lang="kor" page="19b" n="1">목경이 오 슬프다</sent>
+<sent type="main" lang="chi" page="19b" n="2">如此浮生이 縱囙葷穢야</sent>
+<sent type="main" lang="kor" page="19b" n="2">이  데 이 비륵 내 나 더러운 거슬 인야</sent>
+<sent type="main" lang="chi" page="19b" n="3">而得痊平이나 終歸磨滅리라</sent>
+<sent type="main" lang="kor" page="19b" n="3">병 됴호 어드나 매 라 멸호매 도라가리라</sent>
+<sent type="main" lang="chi" page="19b" n="4">不奉佛禁고 而惜微命야 何為오</sent>
+<sent type="main" lang="kor" page="19b" n="4">부쳐 금계을 밧디 아니고져 근명을 앗겨 엇뎌리오 야</sent>
+<sent type="main" lang="chi" page="19b" n="5">確然不許고 遂嚴佛事야</sent><!--원문에는 '야'가 'ᄒ야'로 탈획됨-->
+<sent type="main" lang="kor" page="19b" n="5">구디 허치 아니고 드듸여 불 싁싁기 야</sent>
+<sent type="main" lang="chi" page="19b-20a" n="6">手執幡脚과 香爐야 一心로 稱念阿弥陁佛야</sent><!--원문에는 '一心로'가 '一心르'로 탈획됨-->
+<sent type="main" lang="kor" page="19b-20a" n="6">손애 번발와 향노 자바 일심으로 아미타불을 일라 렴야</sent><!--로 ^ 아-->
+
+<sent type="main" lang="chi" page="20a" n="1">復作是言호 丈夫이 一心不退야</sent>
+<sent type="main" lang="kor" page="20a" n="1"> 이 말을 지으되 댱뷔 일심으로 믈러나디 아니야</sent>
+<sent type="main" lang="chi" page="20a" n="2">願生西方라 고 奄然長徃니</sent>
+<sent type="main" lang="kor" page="20a" n="2">원야 셔방의 가 랄 나코 믄득 기리 가니</sent>
+<sent type="main" lang="chi" page="20a" n="3">異香充庭야 隣里共知며</sent><!--원문 '야'와 '며'의 ''에서 'ᆞ'획이 탈획됨-->
+<sent type="main" lang="kor" page="20a" n="3">긔이 향긔 희 츙만야 이웃 히 다 알며</sent><!--원문에는 '다 알며'가 지면상 '다 알'까지만 언해되어 있는데 원문의 구결을 바탕으로 '다 알며'로 재구함-->
+<sent type="main" lang="chi" page="20a" n="4">舅氏夢애 寳池花敷커을</sent>
+<sent type="main" lang="kor" page="20a" n="4">고씨의 의 [고씨 외삼촌이라] 보 모싀 곳 픠거을</sent><!--원문에는 '고씨의'가 '구씨의'로 되어 있는데 이는 오각으로 보임-->
+<sent type="main" lang="chi" page="20a" n="5">見牧卿이 合掌趨上니 時當五十九러라</sent>
+<sent type="main" lang="kor" page="20a" n="5">목경이 손바닥 마초고 나사 오로 보니. 시예 나히 쉰아홉의 당얏더라</sent>
+<sent type="main" lang="chi" page="20a" n="6">房翥勸他徃生傳</sent>
+<sent type="main" lang="chi" page="20b" n="7">唐房翥은 京北人也라</sent>
+<sent type="main" lang="kor" page="20b" n="7">당 적 방쟈 경됴 사이라</sent>
+<sent type="main" lang="chi" page="20b-21a" n="8">暴死야 至陰府야 見閻羅王대</sent>
+<sent type="main" lang="kor" page="20b-21a" n="8">과리 주거 음부애 니르러 [음부 명부이라] 염나왕을 본대</sent><!--원문에는 '명부이라'가 '밍부이라'로 탈획됨--><!--음^부-->
+
+<sent type="main" lang="chi" page="21a" n="1">王이 曰據案簿호니</sent>
+<sent type="main" lang="kor" page="21a" n="1">왕이 오 안부 의거호니 [안부 명간 글월 셔인이라]</sent><!--원문에는 '오'가 '오디'로 탈획됨-->
+<sent type="main" lang="chi" page="21a" n="2">君이 曾勸一老人念佛야 已生淨圡케 니</sent>
+<sent type="main" lang="kor" page="21a" n="2">그 일즉  늘근 사을 렴불 권야 이믜 졍토애 나게 니</sent>
+<sent type="main" lang="chi" page="21a" n="3">君承此福야 亦合生淨圡 故로 來相見로라</sent>
+<sent type="main" lang="kor" page="21a" n="3">그 이 복을 바다  졍토애 나미 맛당 그러모로 와 서르 보로라</sent>
+<sent type="main" lang="chi" page="21a" n="4">翥曰先許金剛經萬卷야</sent>
+<sent type="main" lang="kor" page="21a" n="4">쟈이 오 몬져 금강경 일만 권을 허야</sent>
+<sent type="main" lang="chi" page="21a" n="5">巡禮五䑓언뎡 未欲徃生로라</sent>
+<sent type="main" lang="kor" page="21a" n="5">오 두로 절호미언졍 왕코져 아니로라</sent>
+<sent type="main" lang="chi" page="21a" n="6">王이 曰誦經巡禮이 固為好事나</sent>
+<sent type="main" lang="kor" page="21a" n="6">왕이 오 경을 외와 두로 례호미 진실로 됴 일이나</sent>
+<sent type="main" lang="chi" page="21a" n="7">不如早生淨圡어니녀</sent>
+<sent type="main" lang="kor" page="21a" n="7">어셔 졍토애 남만 디 몯호미녀</sent>
+<sent type="main" lang="chi" page="21a-21b" n="8">王이 知意不可奪고 乃放還니라</sent>
+<sent type="main" lang="kor" page="21a-21b" n="8">왕이 듸 아시디 아니  알고 이애 노하 보내니</sent><!--^듸-->
+
+<sent type="main" lang="chi" page="21b" n="1">以此知勸人修者이</sent>
+<sent type="main" lang="kor" page="21b" n="1">일로  권야 닷게  사이</sent>
+<sent type="main" lang="chi" page="21b" n="2">非徒徃生라 又感動幽㝠也로다</sent>
+<sent type="main" lang="kor" page="21b" n="2">갓 왕  아니라 유명애 감동  알리로다</sent>
+<sent type="title2" lang="chi" page="21b" n="3">隋文皇后傳</sent>
+
+<sent type="main" lang="chi" page="22a" n="1">隋文帝后이 雖㞐王宮나</sent>
+<sent type="main" lang="kor" page="22a" n="1">슈 문뎨 후이 [후 왕의 비라] 비록 왕궁애 사나</sent><!--원문에는 '왕의'가 '왕이'로 탈획됨-->
+<sent type="main" lang="chi" page="22a" n="2">深厭女質야 常誦阿弥陀佛더니</sent>
+<sent type="main" lang="kor" page="22a" n="2">녀의 모 기피 슬희여 샹애 아미타불을 외오더니</sent>
+<sent type="main" lang="chi" page="22a" n="3">至臨終時야 異香滿室야 從空而至어을</sent>
+<sent type="main" lang="kor" page="22a" n="3"> 시 님호매 니르러 긔이 향긔 집에 야 허공을 븓터 니르거</sent>
+<sent type="main" lang="chi" page="22a" n="4">文帝이 問闍提三藏호 是何祥瑞오</sent>
+<sent type="main" lang="kor" page="22a" n="4">문뎨 샤뎨 삼장려 무로되 이 엇던 샹셔오</sent><!--원문에는 '삼장려'가 '삼장러'로 탈획됨-->
+<sent type="main" lang="chi" page="22a" n="5">答曰 西方有佛샤 號이 阿弥陁시니</sent>
+<sent type="main" lang="kor" page="22a" n="5">답야 오 셔방의 부톄 겨샤 일후미 아미태시니</sent>
+<sent type="main" lang="chi" page="22a" n="6">皇后이 業髙샤 神生彼國로다</sent>
+<sent type="main" lang="kor" page="22a" n="6">황휘 업이 노샤 신령이 뎌 나라희 나미로쇠다</sent>
+<sent type="main" lang="chi" page="22a-22b" n="7">况聖敎分明니 無致疑矣니다</sent>
+<sent type="main" lang="kor" page="22a-22b" n="7">며 셩인 치샤미 분명니 의심을 닐위미 업스니다</sent><!--미 ^ 업-->
+
+<sent type="title2" lang="chi" page="22b" n="1">荊王夫人立化傳</sent>
+
+<sent type="main" lang="chi" page="23a" n="1">荊王夫人이 元祐間애 與婢妾로 精修西方호</sent>
+<sent type="main" lang="kor" page="23a" n="1">형왕 부인이 원우간의 죵 겨집으로 졍히 셔방을 닷고</sent>
+<sent type="main" lang="chi" page="23a" n="2">唯一妾이 懈怠어을 夫人이 斥去대</sent>
+<sent type="main" lang="kor" page="23a" n="2">오직  겨지비 게어르건을 부인이 텩야 린대</sent>
+<sent type="main" lang="chi" page="23a" n="3">其妾이 悔悟야 精進久之러니 謂他妾云</sent>
+<sent type="main" lang="kor" page="23a" n="3">그 겨지비 누이처 쳐 졍진호미 오라더니 다 겨집려 닐어 닐오</sent>
+<sent type="main" lang="chi" page="23a" n="4">吾이 今夜애 當生西方라 니</sent>
+<sent type="main" lang="kor" page="23a" n="4">내 오 바 반기 셔방의 냇노라 니</sent>
+<sent type="main" lang="chi" page="23a" n="5">是夜애 異香滿室야 無疾而終거을</sent>
+<sent type="main" lang="kor" page="23a" n="5">이 바매 긔이 향긔 집애 야 병 업시 죵커을</sent>
+<sent type="main" lang="chi" page="23a" n="6">明日애 同事之妾이 告夫人云호</sent>
+<sent type="main" lang="kor" page="23a" n="6"> 날애 가지로 일던 겨집이 부인 와 닐오</sent>
+<sent type="main" lang="chi" page="23a-23b" n="7">昨夜夢애 化去之妾이 託致起㞐云호</sent>
+<sent type="main" lang="kor" page="23a-23b" n="7">어젯밤 애 화야 간 겨지비 의탁을 닐위여 거 니러 닐오</sent><!--을 ^ 닐-->
+
+<sent type="main" lang="chi" page="23b" n="1">夫人이 訓責야시을</sent>
+<sent type="main" lang="kor" page="23b" n="1">부인이 쳐 지저시</sent>
+<sent type="main" lang="chi" page="23b" n="2">我修西方야 今애 以擭徃生호니 感德無量로다 하데다</sent>
+<sent type="main" lang="kor" page="23b" n="2">내 셔방을 닷가 이제 왕을 어드니 덕을 감득호미 혜아림 업다 데다</sent>
+
+<sent type="main" lang="chi" page="24a" n="1">夫人이 云使我亦夢야사 乃可信耳니라</sent>
+<sent type="main" lang="kor" page="24a" n="1">부인이 오 날로 와   워사 이에 어로 신 이니라</sent>
+<sent type="main" lang="chi" page="24a" n="2">其夜애 夫人夢애 見亡妾애 敘謝如前대</sent>
+<sent type="main" lang="kor" page="24a" n="2">그 바매 부인 매 주근 겨집이 샤례 펴믈 앏 치 대</sent>
+<sent type="main" lang="chi" page="24a" n="3">夫人이 云西方을 可到不아</sent>
+<sent type="main" lang="kor" page="24a" n="3">부인이 닐오 셔방을 어루 니르럳야 아니야</sent>
+<sent type="main" lang="chi" page="24a-24b" n="4">妾이 云호 可到뢰다</sent>
+<sent type="main" lang="kor" page="24a-24b" n="4">텹이 닐오 어루 니르럳뢰다</sent><!--루 ^ 니-->
+
+<sent type="main" lang="chi" page="24a" n="1">伹從妾行호리라 고 夫人이 隨之야 見池溏廣大야</sent>
+
+<sent type="main" lang="kor" page="24b" n="1">오직 쳡의 을 조초리라 고 부인이 조차 가 보니 지당이 넙고 커</sent>
+<sent type="main" lang="chi" page="24b" n="2">紅白蓮花이 大小相間호 或榮或悴야 種種不同커을</sent>
+<sent type="main" lang="kor" page="24b" n="2">블그며 흰 련곳치 크며 져그미 서르 섯기되 시혹 비싀며 이우러 디 아니커을</sent>
+<sent type="main" lang="chi" page="24b" n="3">夫人이 問云何以如此오</sent>
+<sent type="main" lang="kor" page="24b" n="3">부인이 물워 닐오 엇디  이 뇨</sent>
+<sent type="main" lang="chi" page="24b" n="4">妾이 云此皆世間애 發念야 修西方人也니다</sent>
+<sent type="main" lang="kor" page="24b" n="4">쳡이 닐오 이 다 셰간애 념을 내여 셔방 닷근 사이니다</sent>
+<sent type="main" lang="chi" page="24b" n="5">纔發一念면 池內애 便生蓮花一朶호</sent>
+<sent type="main" lang="kor" page="24b" n="5"> 일렴을 내면 못 안해 믄득 련  불희 나</sent>
+<sent type="main" lang="chi" page="24b" n="6">若願心精進則</sent>
+<sent type="main" lang="kor" page="24b" n="6">다가 원 미 졍미히 나사가면</sent>
+<sent type="main" lang="chi" page="24b" n="7">花이 日日敷榮야 以至大如車輪고</sent>
+<sent type="main" lang="kor" page="24b" n="7">곳지 날마다 퓌여 비싀여 크미 수릣박 호매 니르고</sent>
+<sent type="main" lang="chi" page="24b-25a" n="8">若願心이 退轉則</sent>
+<sent type="main" lang="kor" page="24b-25a" n="8">다가 원 이 믈러 구울면</sent><!--^이-->
+
+<sent type="main" lang="chi" page="25a" n="1">花이 日日萎悴야 以至殞滅니다</sent>
+<sent type="main" lang="kor" page="25a" n="1">고치 날마다 이우어 주거 멸호매 니르니다</sent>
+
+<sent type="main" lang="chi" page="25b" n="1">次 見一人이 坐蓮花上야 其衣이 飄揚散去며 寳冠瓔珞로 莊嚴其身고</sent>
+<sent type="main" lang="kor" page="25b" n="1">버거  사이 련곳 우희 안자 그 옷시 부쳐 펴 흗터가며 보 관 영락으로 그 모 장엄호 보고</sent>
+<sent type="main" lang="chi" page="25b" n="2">夫人이 問云 何人也오</sent>
+<sent type="main" lang="kor" page="25b" n="2">부인이 물어 닐오 엇던 사오</sent><!--원문에는 '물어'가 '물이'로 탈획됨-->
+<sent type="main" lang="chi" page="25b" n="3">妾이 云 楊傑也니다</sent>
+<sent type="main" lang="kor" page="25b" n="3">쳡이 닐오 양걸이니다</sent>
+<sent type="main" lang="chi" page="25b" n="4">又 見一人니 坐扵蓮花上어을</sent>
+<sent type="main" lang="kor" page="25b" n="4">  사을 보니 련곳 우희 안잣거을</sent>
+<sent type="main" lang="chi" page="25b" n="5">妾이 云 馬玕也니다</sent>
+<sent type="main" lang="kor" page="25b" n="5">쳡이 닐오 마간이니다</sent>
+<sent type="main" lang="chi" page="25b" n="6">夫人이 云 我 當生何處오</sent>
+<sent type="main" lang="kor" page="25b" n="6">부인이 닐오 나 반기 어늬 고대 날고</sent>
+<sent type="main" lang="chi" page="25b" n="7">妾이 引行數里許야 遙望見一金壇니 金碧照曜어을</sent>
+<sent type="main" lang="kor" page="25b" n="7">쳐비 두서 니나마 혀 야 머리셔  금단을 보니 금벽이 비여 빋나건을</sent>
+<sent type="main" lang="chi" page="25b-26a" n="8">妾이 云 此 夫人化生處니 乃上品上生이니다</sent>
+<sent type="main" lang="kor" page="25b-26a" n="8">쳐비 닐오 이 부인이 화야 날 고디니 이에 샹품 샹이니다</sent><!--디^니-->
+
+<sent type="main" lang="chi" page="26a" n="1">夫人이 旣覺야 訪問 楊馬의 所在니</sent>
+<sent type="main" lang="kor" page="26a" n="1">부인이 이믜 야 양과 마와의 인  방문니</sent>
+<sent type="main" lang="chi" page="26a" n="2">傑이 已亡고 而玕이 無恙러라</sent>
+<sent type="main" lang="kor" page="26a" n="2">야걸이 이믜 죽고 마간이 병 업더라</sent>
+<sent type="main" lang="chi" page="26a-26b" n="3">是知精進不退者은</sent>
+<sent type="main" lang="kor" page="26a-26b" n="3">졍히 나사가고 믈러나디 아니 사은</sent><!--나^사-->
+
+<sent type="main" lang="chi" page="26b" n="1">雖身在娑婆之內나 其神이 已在淨圡矣로다</sent>
+<sent type="main" lang="kor" page="26b" n="1">비록 모 사바 안해 이시나 그 신은 이믜 졍토애 잇  이애 알리로다</sent>
+<sent type="main" lang="chi" page="26b" n="2">後 夫人이 於生日애 秉爐焚香고 望觀音閣而立어을</sent>
+<sent type="main" lang="kor" page="26b" n="2">후에 부인이 난 나래 화로 자바 향을 고. 관음각을 라 셔거을</sent>
+<sent type="main" lang="chi" page="26b" n="3">子孫이 方具献壽之儀대 已立化矣러라</sent>
+<sent type="main" lang="kor" page="26b" n="3">손이 비르서 헌슈 위의을 촌대 이믜 셰셔 화더라</sent>
+<sent type="title2" lang="chi" page="26b" n="4">梁氏自明傳</sent>
+
+<sent type="main" lang="chi" page="27a" n="1">唐 淸信女 梁氏은 括州人也라</sent>
+<sent type="main" lang="kor" page="27a" n="1">당 적  신엣 녀 량씨 괄쥬 사이라</sent>
+<sent type="main" lang="chi" page="27a" n="2">宿殃所鍾로 雙目無見러니</sent>
+<sent type="main" lang="kor" page="27a" n="2">녜 앙화의 브신 바로 두 누니 보미 업더니</sent>
+<sent type="main" lang="chi" page="27a" n="3">遇僧勸令念佛야 一聞敎誨고</sent>
+<sent type="main" lang="kor" page="27a" n="3">즁의 렴불 권호 맛나  번 치 듣고</sent>
+<sent type="main" lang="chi" page="27a" n="4">係心相續니 三年之後애 兩目洞開야</sent>
+<sent type="main" lang="kor" page="27a" n="4"> 여 서르 니스니 삼 련 후애 두 눈이 훤히  외여</sent>
+<sent type="main" lang="chi" page="27a-27b" n="5">無復纎翳야 所患既痊커을 勤苦弥切더니</sent>
+<sent type="main" lang="kor" page="27a-27b" n="5">죠고만 룜도 업스며 근심 배 이믜 업거을 근고히 더욱 졀더니</sent><!--을 ^ 근-->
+
+<sent type="main" lang="chi" page="27b" n="1">至貞觀 三年 二月中야 不豫自知야 報盡니</sent>
+<sent type="main" lang="kor" page="27b" n="1">졍관 삼 련 이 월애 니르러 미리 겨 아디 몯야셔 뵈 다니</sent>
+<sent type="main" lang="chi" page="27b" n="2">臨終之時애 合村이</sent>
+<sent type="main" lang="kor" page="27b" n="2"> 님 시에 오온 히</sent>
+<sent type="main" lang="chi" page="27b" n="3">共見阿彌陁佛이 與諸大士로 幡花降迎야 遂終于世니라</sent><!--원문에는 '幡花降迎야'가 '幡花降迎ᄒ야'로 탈획됨-->
+<sent type="main" lang="kor" page="27b" n="3">모다 아미타불이 여러 대와로 번와곳로 려 마자 드듸여 셰  보니라</sent>
+<sent type="title2" lang="chi" page="27b" n="4">童女勸母傳</sent>
+
+<sent type="main" lang="chi" page="28a" n="1">童女은 梁郡人也라</sent>
+<sent type="main" lang="kor" page="28a" n="1">동녀 냥군 사미라</sent>
+<sent type="main" lang="chi" page="28a" n="2">父子三人이 俱修西方호 唯母이 不修러니</sent>
+<sent type="main" lang="kor" page="28a" n="2">아비와 식과 세 사이 다 셔방을 닷고되 오직 어미 아니 닷더니</sent>
+<sent type="main" lang="chi" page="28a" n="3">女年이 十四라</sent>
+<sent type="main" lang="kor" page="28a" n="3">의 련이 열녜히라</sent>
+<sent type="main" lang="chi" page="28a" n="4">死後七日애 却囬啓母曰</sent>
+<sent type="main" lang="kor" page="28a" n="4">주근 후 칠 일애 도로 도라와 어믜게 와 닐오</sent>
+<sent type="main" lang="chi" page="28a" n="5">児은 徃西方호니 父兄及己이 已有蓮花야</sent><!--원문에는 '已有蓮花야'가 '已有蓮花ᄒ야'로 탈획됨-->
+<sent type="main" lang="kor" page="28a" n="5"> 셔방의 가시니. 아비와 형과 나왜 마 련화의 이셔</sent>
+<sent type="main" lang="chi" page="28a-28b" n="6">後當化生어니와 唯母이 獨無</sent>
+<sent type="main" lang="kor" page="28a-28b" n="6">후에 반기 화야 날여니와 오직 어미 호오사 업</sent><!--여^니-->
+
+<sent type="main" lang="chi" page="28b" n="1">児이 今애 暫歸야 相報로라 </sent>
+<sent type="main" lang="kor" page="28b" n="1"> 이제 잠 와 서르 알외뇌다 야</sent>
+<sent type="main" lang="chi" page="28b" n="2">至後야 母이 依児敎야 日念弥陀니</sent><!--원문에는 '至後야'가 '至後ᄒ야'로 탈획됨-->
+<sent type="main" lang="kor" page="28b" n="2">후에 니르러 에미 의 치 브터 날로 미타 렴니</sent>
+<sent type="main" lang="chi" page="28b" n="3">四人이 盡得徃生安養矣니라</sent><!--원문에는 '니라'의 '니'는 탈자되고 '라'는 '리'로 탈획됨-->
+<sent type="main" lang="kor" page="28b" n="3">녜 사이 다 안양의 가 나 어드니라</sent>
+<sent type="title2" lang="chi" page="28b" n="4">屠牛善和十念傳</sent>
+
+<sent type="main" lang="chi" page="29a" n="1">唐 善和은 殺牛로 為業러니</sent>
+<sent type="main" lang="kor" page="29a" n="1">당 적 션화은 쇼 주기기로 업더니</sent>
+<sent type="main" lang="chi" page="29a" n="2">臨終 見牛數頭이 作人言云호</sent>
+<sent type="main" lang="kor" page="29a" n="2">님죵애 보니 쇼 두서 머리 사의 마 지어 닐오</sent>
+<sent type="main" lang="chi" page="29a" n="3">汝殺我라 야</sent><!--원문에는 '야'이 'ᄒ야'로 탈획됨-->
+<sent type="main" lang="kor" page="29a" n="3">네 날 주기니라 야</sent>
+<sent type="main" lang="chi" page="29a" n="4">善和이 大恐야 告妻云호</sent>
+<sent type="main" lang="kor" page="29a" n="4">션홰 키 저허 겨집려 고야 닐오</sent>
+<sent type="main" lang="chi" page="29a-29b" n="5">急請僧來야 救我라</sent>
+<sent type="main" lang="kor" page="29a-29b" n="5">리 즁을 쳥야 와 날을 구완라</sent><!--날^을-->
+
+<sent type="main" lang="chi" page="29b" n="1">僧至야 云十六觀經說호</sent>
+<sent type="main" lang="kor" page="29b" n="1">즁이 니르러 닐오 십륙 관경의 닐오</sent>
+<sent type="main" lang="chi" page="29b" n="2">若人이 臨終애 地獄相이 現거든</sent><!--원문에는 '現거든'의 '거든'이 뭉개져 안 보이나 언해문에 근거하여 '거든'으로 재구함-->
+<sent type="main" lang="kor" page="29b" n="2">다가 사이  어 디옥샹이 낟거든</sent>
+<sent type="main" lang="chi" page="29b" n="3">志心로 十稱南無阿弥陀佛면</sent>
+<sent type="main" lang="kor" page="29b" n="3"> 으로 열 번 아미타불을 일면</sent>
+<sent type="main" lang="chi" page="29b" n="4">即得徃生淨圡라 </sent>
+<sent type="main" lang="kor" page="29b" n="4">즉재 졍토의 가 나 어드리라 야</sent>
+<sent type="main" lang="chi" page="29b" n="5">善和이 不暇取香爐야</sent><!--원문에는 '香爐야'가 '香爐ᄒ야'로 탈획됨-->
+<sent type="main" lang="kor" page="29b" n="5">션홰 향화로 가질 여가 몯야</sent>
+<sent type="main" lang="chi" page="29b" n="6">即以左手로 擎火고 右手로 捻香야</sent>
+<sent type="main" lang="kor" page="29b" n="6">즉제 왼소노로 블 잡고 올소노로 향을 고자</sent><!--원문에는 '왼소노로'의 '소'가 '조'로 오각되어 있음-->
+<sent type="main" lang="chi" page="29b" n="7">面西고 專切念佛니</sent><!--원문에는 '面西고'가 '面西고'로 탈획됨-->
+<sent type="main" lang="kor" page="29b" n="7"> 셔로 고 오오로 장 부쳐을 렴니</sent>
+<sent type="main" lang="chi" page="29b" n="8">未滿十聲애 乃云</sent>
+<sent type="main" lang="kor" page="29b" n="8">열 소 몯 매 이애 닐오</sent>
+<sent type="main" lang="chi" page="29b" n="9">我見阿弥陀佛이 從西而來샤 與我寳座로다 코 言訖而終</sent>
+<sent type="main" lang="kor" page="29b" n="9">내 아미타불이 셔로브터 오샤 날로 보좌 주믈 보로라 코 말 고 죵니라</sent>
+
+<sent type="title2" lang="chi" page="30a" n="1">觀法</sent>
+
+<sent type="main" lang="chi" page="30b" n="1">十六觀經修持法門略云샤</sent>
+<sent type="main" lang="kor" page="30b" n="1">십륙 관경 슈디법 문략애 니샤</sent>
+<sent type="main" lang="chi" page="30b" n="2">齋戒潔己며 淸心淨慮야</sent>
+<sent type="main" lang="kor" page="30b" n="2">계야 모 조히 며  조히 며 분별 조히 야</sent>
+<sent type="main" lang="chi" page="30b" n="3">面西安坐야 閇目黙然코</sent>
+<sent type="main" lang="kor" page="30b" n="3"> 셔로 편안히 아자 누 다다 코</sent>
+<sent type="main" lang="chi" page="30b" n="4">觀想阿弥陀佛真金色身이 在西方七寳池中大蓮花上애 坐샤</sent>
+<sent type="main" lang="kor" page="30b" n="4">아미타불 진금신이 셔방 칠볻 몯 가온 큰 련곳 우희 안자 겨샤</sent>
+<sent type="main" lang="chi" page="30b" n="5">其身長은 丈六시고</sent>
+<sent type="main" lang="kor" page="30b" n="5">그 신댱은 쟝륙이시고 [쟝륙은 열예 자히라]</sent>
+<sent type="main" lang="chi" page="30b" n="6">兩眉中間向上애 有白毫호</sent>
+<sent type="main" lang="kor" page="30b" n="6">두 눈섭 우해 흰 털이 이슈</sent>
+<sent type="main" lang="chi" page="30b" n="7">右旋轉야 光明이 照曜紫金色身인 하야</sent>
+<sent type="main" lang="kor" page="30b" n="7">우로 도라 펴 광명이  금빗 몸매 비취 관샹야</sent>
+<sent type="main" lang="chi" page="30b" n="8">以停心注想於白毫야</sent>
+<sent type="main" lang="kor" page="30b" n="8"> 머러 호애 브서 혜아러</sent>
+<sent type="main" lang="chi" page="30b" n="9">更不得妄有分毫他念야</sent>
+<sent type="main" lang="kor" page="30b" n="9">다시 갠 대로 분터럭만도 다 렴 잇디 아니야</sent>
+<sent type="main" lang="chi" page="30b-31a" n="10">當令閇目開目애</sent>
+<sent type="main" lang="kor" page="30b-31a" n="10">반기 누 다며 누 매</sent><!--원문에는 '다며'가 '다머'로 탈획됨--><!--반^-->
+
+<sent type="main" lang="chi" page="31a" n="1">悉皆見之야 盖欲念念不忘也호리라</sent>
+<sent type="main" lang="kor" page="31a" n="1">다 보아 렴렴매 닏게 아니호리라</sent>
+<sent type="main" lang="chi" page="31a" n="2">如此久久야 念心成熟면</sent>
+<sent type="main" lang="kor" page="31a" n="2">이 티 오라고 오라 렴심이 이러 니그면</sent>
+<sent type="main" lang="chi" page="31a" n="3">自然感應야 見佛全身리니</sent>
+<sent type="main" lang="kor" page="31a" n="3">연히 감며 응야 부텻 오온 모 보리니</sent>
+<sent type="main" lang="chi" page="31a-31b" n="4">此法最上니 謂心想佛時 即 是佛일 又過於口念也니라</sent>
+<sent type="main" lang="kor" page="31a-31b" n="4">이 법이  위두니 닐온 애 부텨을 관샹  이 미 곳 이 불일  구념애셔 너므니라</sent><!--원문에는 '법이'가 '볍이'로 오각됨--><!--므^니-->
+
+<sent type="main" lang="chi" page="31b-32a" n="1">次觀想觀音菩薩身은 紫金色이며 手掌은 白蓮花오</sent>
+<sent type="main" lang="kor" page="31b-32a" n="1">버거 관셰음보살 신은 근 금치며 손바닥은 흰 련고지오</sent><!--바^닥-->
+
+<sent type="main" lang="chi" page="32a" n="1">其天冠中애 有一立化佛 하며</sent>
+<sent type="main" lang="kor" page="32a" n="1">그 텬관 즁애  화 부체 셔 인 관야 싀치며</sent>
+<sent type="main" lang="chi" page="32a" n="2">次觀想大勢至菩薩身은 紫金色이며</sent>
+<sent type="main" lang="kor" page="32a" n="2">버거 대셔지보살의 모미 금이며</sent>
+<sent type="main" lang="chi" page="32a" n="3">其天冠肉髻上애 有一甁 하며</sent>
+<sent type="main" lang="kor" page="32a" n="3">그 텬관육계샹애  보병이 잇 관야 각며</sent>
+<sent type="main" lang="chi" page="32a" n="4">次想自身이 生於西方極樂世界야</sent>
+<sent type="main" lang="kor" page="32a" n="4">버거 내 모미 셔방 극락셰계예 나</sent>
+<sent type="main" lang="chi" page="32a" n="5">扵蓮花中애 結跏趺坐야 作蓮花合想開相애</sent>
+<sent type="main" lang="kor" page="32a" n="5">련곳 가온 가부자 결야 련고치 외여 어우러 혜아리며 프여 혜아리매</sent>
+<sent type="main" lang="chi" page="32a" n="6">見佛菩薩이 滿虛空中호리라</sent>
+<sent type="main" lang="kor" page="32a" n="6">부텨와 보살왜 허공 가온  보리라</sent><!--원문에는 '가온'가 '가온디'로 탈획됨-->
+
+<sent type="main" lang="chi" page="33a" n="1">稱讚䟽云</sent>
+<sent type="main" lang="kor" page="33a" n="1">칭찬소애 닐오</sent>
+<sent type="main" lang="chi" page="33a" n="2">如何口念心思야 即得徃生西方淨圡오</sent><!--원문에는 '心思야'가 '心思ᄒ야'로 탈획됨-->
+<sent type="main" lang="kor" page="33a" n="2">엇뎨 이븨 념고 매 각야 즉제 셔방졍토애 가 나 어들요</sent>
+<sent type="main" lang="chi" page="33a" n="3">答曰 心則縁佛境界야 憶持不忘고</sent>
+<sent type="main" lang="kor" page="33a" n="3">답야 닐오 매 부쳐  연야 억야 디녀 닛디 아니고</sent>
+<sent type="main" lang="chi" page="33a" n="4">口則稱佛名号야 分明不亂이니</sent>
+<sent type="main" lang="kor" page="33a" n="4">이배 부텨 명호 일라 분명히 어즈지 아니호미니</sent>
+<sent type="main" lang="chi" page="33a" n="5">如是 心口內外相應야 若念一句阿弥陀佛면</sent>
+<sent type="main" lang="kor" page="33a" n="5">이 티 과 입괘 안글 서르 응야 다가  구나 아미타불을 렴면</sent>
+<sent type="main" lang="chi" page="33a" n="6">能滅八十億劫生死之罪고 成就八十億殊勝功德리니</sent>
+<sent type="main" lang="kor" page="33a" n="6">릉히 팔십억 겁의  죄 멸고 팔십억 겁의 슈승 공덕을 일우리니</sent>
+
+<sent type="main" lang="chi" page="33b" n="1">一句尙爾오는 何况十句百句千句萬句녀</sent>
+<sent type="main" lang="kor" page="33b" n="1"> 구도 오히려 그러곤 엇디 며 십 귀며 백 귀며 쳔 구며 만 귓녀</sent>
+<sent type="main" lang="chi" page="33b" n="2">如是 一日一月一年一生을</sent>
+<sent type="main" lang="kor" page="33b" n="2">이 티 야  날이어나  이어나  어나  을</sent>
+<sent type="main" lang="chi" page="33b" n="3">行住坐臥晝夜애 精勤면</sent>
+<sent type="main" lang="kor" page="33b" n="3">며 듀며 안며 누우매 낫밤애 졍히 브즈런이 면</sent>
+<sent type="main" lang="chi" page="33b" n="4">何罪㧨而不消忘며 何功德而不增長며</sent>
+<sent type="main" lang="kor" page="33b" n="4">엇던 죄  슬이 닏디 몯며 엇던 공덕이 더 기디 아니며</sent>
+<sent type="main" lang="chi" page="33b" n="5">何囙오로 不生極樂國이며 何縁으로 不見弥陁佛이리오</sent><!--원문에는 '何縁으로'에서 '로'의 가로획이 탈획되어 있음-->
+<sent type="main" lang="kor" page="33b" n="5">엇던 인으로 극락국애 아니 나며 엇던 연으로 미타불을 몯 보리오</sent>
+<sent type="title2" lang="chi" page="33b" n="6">引證</sent>
+
+<sent type="main" lang="chi" page="34a" n="1">藥師經云</sent>
+<sent type="main" lang="kor" page="34a" n="1">약경의 닐오</sent>
+<sent type="main" lang="chi" page="34a" n="2">若淨信男女이 有能受持八分齋戒야</sent>
+<sent type="main" lang="kor" page="34a" n="2">다가 조 신읫 남이어나 례어나 릉히 팔분 계 바다 디녀</sent>
+<sent type="main" lang="chi" page="34a-34b" n="3">或經一年커나 或三月야</sent>
+<sent type="main" lang="kor" page="34a-34b" n="3">시혹   지나거나 시혹 석  디나</sent><!--혹 ^ -->
+
+<sent type="main" lang="chi" page="34b" n="1">以此善根로 願生西方極樂世界호</sent>
+<sent type="main" lang="kor" page="34b" n="1">이 션근으로 셔방 극락셰계예 나 원호</sent>
+<sent type="main" lang="chi" page="34b" n="2">有未定者이 若能聞我藥師瑠璃光如來名号며</sent><!--원문에는 '名号며'가 '名号ᄒ며'로 탈획됨-->
+<sent type="main" lang="kor" page="34b" n="2">호 일뎡 몯 사이 다가 릉히 나 약류리광여 명호 드르면</sent>
+<sent type="main" lang="chi" page="34b" n="3">臨命終時애 有菩薩이 乗神通來야 示其道路야</sent><!--원문에는 '道路야'가 '道路ᅣ'로 탈획됨-->
+<sent type="main" lang="kor" page="34b" n="3">명  시졀이 님호매 여 보살이 이셔 신통을 타 와 그 길흘 뵈야</sent>
+<sent type="main" lang="chi" page="34b" n="4">即扵西方極樂世界宝蓮花中에 自然化生리라 시다</sent>
+<sent type="main" lang="kor" page="34b" n="4">즉제 셔방 극락셰계 보 련곳 듕애 연히 화야 나리라 시며</sent>
+
+<sent type="main" lang="chi" page="35a" n="1">陁羅尼經애 云諸佛子等이</sent>
+<sent type="main" lang="kor" page="35a" n="1">다라니경애 닐오 졔불히</sent>
+<sent type="main" lang="chi" page="35a" n="2">若聞阿彌陁佛名号면 能令汝等로 徃生西方極樂淨圡야</sent>
+<sent type="main" lang="kor" page="35a" n="2">다가 아미타불 명호 드면 릉히 러희흘 셔방 졍토애 나</sent>
+<sent type="main" lang="chi" page="35a" n="3">蓮花애 化生야 得不退地리라 시리라</sent><!--원문에는 '리라'가 '리리'로 탈획됨-->
+<sent type="main" lang="kor" page="35a" n="3">련곳채 화야 나 믈러나디 아니 흘 어드리라 시니라</sent>
+<sent type="title2" lang="chi" page="35a" n="4">以此</sent>
+<sent type="main" lang="chi" page="35a" n="5">同念彌陁齊登樂岸 同種善囙共成佛道 願與萬萬千千</sent>
+<sent type="main" lang="chi" page="35a" n="6">同結成佛 正因 何以故 萬萬千千人中 豈無一人最成佛道一人</sent>
+
+<sent type="main" lang="chi" page="35b" n="1">若先成道 萬萬千千 盡扵言下 得證萬萬千千</sent>
+<sent type="main" lang="chi" page="35b" n="2">既各得證 亦各敎化 萬萬千千</sent>
+<sent type="main" lang="chi" page="35b" n="3">悉令成道 如是展轉普與盡法界</sent>
+<sent type="main" lang="chi" page="35b" n="4">同成無上佛果菩提</sent>
+<sent type="title" lang="chi" page="35b" n="5">勸念要錄終</sent>
+<sent type="date" lang="chi" page="35b" n="6">崇德二年秋七月初吉日</sent>
+<sent type="place" lang="chi" page="35b" n="7">求禮地 華嚴寺 開刊</sent>
+<sent type="name" lang="chi" page="35b" n="8">自施刊 海淳比丘</sent><!--title: 서명, 제목 title2: 편명, main: 본문, date: 간기, place: 간행지, name: 편찬자-->
+</doc> 
+ 

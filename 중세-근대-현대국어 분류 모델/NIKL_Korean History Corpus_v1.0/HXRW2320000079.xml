@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">권왕가</title>
+<title lang="chi">勸往歌</title>
+<full_name></full_name>
+<general_name></general_name>
+<another_name></another_name>
+<abbre></abbre>
+<version>석문의범</version>
+<volume n=""/><!--권차 정보가 필요 없으면 <volume n=""> 태그와 이 주석문을 삭제하세요-->
+<author>東華/宋震湖 編</author>
+<date>1935</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>勸往歌 釋門儀範</title>
+<pubPlace>?</pubPlace>
+<publisher>法輪社</publisher>
+<date>1935</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>1994/09/26</date>
+<respStmt>
+<resp>입력자</resp><name>권두환</name>
+</respStmt>
+<item>256~277면</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1994/09/28</date>
+<respStmt>
+<resp>교정자</resp><name>권두환</name>
+</respStmt>
+<item>교정</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1998/10</date>
+<respStmt>
+<resp>프로젝트 책임자</resp><name>김흥규</name>
+<resp>연구원</resp><name>차준경</name>
+<resp>프로그래머</resp><name>이애란</name>
+</respStmt>
+<item>파일 변환, 세종 21 프로젝트 헤더 붙임, 마킹</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/9</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>xml 형식으로 변환</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/</date>
+<respStmt>
+<resp>입력자</resp><name>입력자 성명</name><!--관련 추가 사항의 주석을 기입하는 자리.-->
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>교정자 성명</name>
+</respStmt>
+<item></item><!--교정사항 입력-->
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="kor" page="000" n="01">권왕가勸往歌</sent>
+<sent type="main" lang="kor" page="000" n="02">오호嗚呼라 슬푸도다 삼계三界가 화택火宅이요</sent>
+<sent type="main" lang="kor" page="000" n="03">사생死生이 고해苦海로다 어이 하여 그러한고</sent>
+<sent type="main" lang="kor" page="000" n="04">천상天上에 나는 사람 칠보궁전七寶宮殿 수신隨身하고</sent>
+<sent type="main" lang="kor" page="000" n="05">의식衣食이 자연自然하야 쾌락快樂이 무량無量하나</sent>
+<sent type="main" lang="kor" page="000" n="06">천복天福이 다하오면 오쇠고五衰苦가 나타나서</sent>
+<sent type="main" lang="kor" page="000" n="07">삼도윤회三途輪回 못 면하니 그도 아니 화택火宅인가</sent>
+<sent type="main" lang="kor" page="000" n="08">인간人間에 전륜왕轉輪王은 이만二萬 부인夫人 일만一萬 대신大臣</sent>
+<sent type="main" lang="kor" page="000" n="09">일천一千 태자太子 시위侍衛하고 칠보七寶가 구족具足하야</sent>
+<sent type="main" lang="kor" page="000" n="10">사천하四天下를 거나리고 위덕威德이 자재自在하나</sent>
+<sent type="main" lang="kor" page="000" n="11">그 복福이 다 하오면 업보業報를 못 면免하야</sent>
+<sent type="main" lang="kor" page="000" n="12">고취苦趣에 떠러지니 그도 안이 화택火宅인가</sent>
+<sent type="main" lang="kor" page="000" n="13">천상天上 인간人間 제일복第一福도 오히려 저럿커든</sent>
+<sent type="main" lang="kor" page="000" n="14">황어요마況於么麽 사서인士庶人의 빈궁貧窮 고독孤獨</sent>
+<sent type="main" lang="kor" page="000" n="15">무량고無量苦를 다시 무엇 의논議論할까</sent>
+<sent type="main" lang="kor" page="000" n="16">하물며 삼악도三惡道에 만사만생萬死萬生 하는 고통苦痛</sent>
+<sent type="main" lang="kor" page="000" n="17">무량겁無量劫을 지내가다 놀납고도 두렵도다</sent>
+<sent type="main" lang="kor" page="000" n="18">이러한 화택중火宅中에 어이 하야 버서 날꼬</sent>
+<sent type="main" lang="kor" page="000" n="19">우리 세존世尊 대법왕大法王이 백천방편百千方便 베푸르사</sent>
+<sent type="main" lang="kor" page="000" n="20">화택火宅 제자諸子 구원할 쩨 성교중聖敎中에 이른 말삼</sent>
+<sent type="main" lang="kor" page="" n="00">십만억토十萬億土 서편西便짝에 극락極樂이라 하는 세계世界</sent>
+<sent type="main" lang="kor" page="" n="00">황금黃金으로 따이 되고 백천百千 진보珍寶 간착間錯하야</sent>
+<sent type="main" lang="kor" page="" n="00">산천山川 강해江海 아조 업고 평탄平坦 광박廣博 엄려嚴麗하야</sent>
+<sent type="main" lang="kor" page="" n="00">밝은 광명光明 영철暎徹함이 천억千億 일월日月 화합和合한 듯</sent>
+<sent type="main" lang="kor" page="" n="00">곳곳이 보배 남기 칠중七重으로 둘넛스되</sent>
+<sent type="main" lang="kor" page="" n="00">엇든 남근 순금純金이오 엇든 남근 순은純銀이오</sent>
+<sent type="main" lang="kor" page="" n="00">또 다시 엇든 남근 황금黃金으로 뿌리 되고 백은白銀으로 줄기 되며</sent>
+<sent type="main" lang="kor" page="" n="00">유리琉璃로 가지 벗고 진주엽眞珠葉이 번성繁盛커든</sent>
+<sent type="main" lang="kor" page="" n="00">자거硨磲 꼿치 만발滿發하야 마니과실摩尼果實 열엿스며</sent>
+<sent type="main" lang="kor" page="" n="00">또 다시 엇든 남근 근경지根莖枝는 황금黃金이오</sent>
+<sent type="main" lang="kor" page="" n="00">화과엽花果葉은 백은白銀이며 가지 가지 보배 남기</sent>
+<sent type="main" lang="kor" page="" n="00">금은유리金銀琉璃 칠보七寶로서 서로 서로 셕겻는대</sent>
+<sent type="main" lang="kor" page="" n="00">칠중난순七重欄楯 둘러 잇고 칠중나망七重羅網 덥헛스되</sent>
+<sent type="main" lang="kor" page="" n="00">무비상묘無非上妙 보배로다 오백억천五百億千 묘화궁전妙華宮殿</sent>
+<sent type="main" lang="kor" page="" n="00">나무가지 사이마다 상하上下에 버려 잇고</sent>
+<sent type="main" lang="kor" page="" n="00">오백억천五百億千 동자童子들이 그 궁전宮殿에 유희遊戱하되</sent>
+<sent type="main" lang="kor" page="" n="00">광명光明 잇는 마니주摩尼珠로 화만영낙華鬘瓔珞 장엄莊嚴일세</sent>
+<sent type="main" lang="kor" page="" n="00">팔종八種 청풍淸風 건듯 부러 보수寶樹 보망寶網 나는 소래</sent>
+<sent type="main" lang="kor" page="" n="00">미묘微妙하고 청철淸徹하야 백천풍악百千風樂 진동振動하니</sent>
+<sent type="main" lang="kor" page="" n="00">그 소래 듯는 자者는 탐진貪瞋 번뇌煩惱 소멸消滅하고 염불심念佛心이 절노 나며</sent>
+<sent type="main" lang="kor" page="" n="00">또 다시 그 나라에 백보색조百寶色鳥 잇사오되</sent>
+<sent type="main" lang="kor" page="" n="00">백학白鶴이며 공작孔雀이며 가릉빈가迦陵頻迦 공명조共命鳥라</sent>
+<sent type="main" lang="kor" page="" n="00">주야육시晝夜六時 우는 소래 화아和雅하고 미묘微妙하야 무상법無上法을 연설演說커든</sent>
+<sent type="main" lang="kor" page="" n="00">듯는 자者가 감동感動하야 염불심念佛心이 격발激發하며</sent>
+<sent type="main" lang="kor" page="" n="00">또 다시 그 국토國土에 가지 가지 하날 꼿흘주야육시晝夜六時 비주거든</sent>
+<sent type="main" lang="kor" page="" n="00">중생衆生들이 그 꼿흐로 시방세계十方世界 제불전諸佛前에</sent>
+<sent type="main" lang="kor" page="" n="00">두루 가서 공양供養하고 순식간瞬息間에 도라오며 죄보여인罪報女人 실實로 업고</sent>
+<sent type="main" lang="kor" page="" n="00">칠보七寶로 생긴 못에 팔공덕수八功德水 충만充滿하고 사색연화四色蓮花 피엿거던</sent>
+<sent type="main" lang="kor" page="" n="00">시방세계十方世界 염불중생念佛衆生 임명종시臨命終時 당當하오면</sent>
+<sent type="main" lang="kor" page="" n="00">아미타불阿彌陀佛 대성존大聖尊이 그 중생衆生을 다려다가</sent>
+<sent type="main" lang="kor" page="" n="00">연화중蓮花中에 화생化生하니 신색身色이 진금眞金이오</sent>
+<sent type="main" lang="kor" page="" n="00">대인상호大人相好 구족具足하여 칠보궁전七寶宮殿 상묘의식上妙衣食</sent>
+<sent type="main" lang="kor" page="" n="00">생각生覺조차 절로 생겨 임의자재任意自在 수용受用하며</sent>
+<sent type="main" lang="kor" page="" n="00">수량壽量이 무궁無窮하야 생로병사生老病死 우비고뇌憂悲苦惱 삼고팔고三苦八苦 도시 업고</sent>
+<sent type="main" lang="kor" page="" n="00">불생불멸不生不滅 불긔불포不飢不飽 무량쾌락無量快樂 수受하오며</sent>
+<sent type="main" lang="kor" page="" n="00">다시 생사生死 아니 밧고 미타성존彌陀聖尊 수긔授記 입어</sent>
+<sent type="main" lang="kor" page="" n="00">무생법無生法을 증득證得하며 지혜신통智慧神通 자재自在하고</sent>
+<sent type="main" lang="kor" page="" n="00">공덕선근功德善根 만족滿足하야 보살도菩薩道를 성취成就하며</sent>
+<sent type="main" lang="kor" page="" n="00">상선인上善人이 취회聚會하야 과거본행過去本行 의론議論할 제</sent>
+<sent type="main" lang="kor" page="" n="00">나는 과거過去 본행시本行時에 염불삼매念佛三昧 성취成就하며</sent>
+<sent type="main" lang="kor" page="" n="00">대승경전大乘經典 독송讀誦하고 이 극락極樂에 나왓노라</sent>
+<sent type="main" lang="kor" page="" n="00">나는 과거過去 본행시本行時에 삼보전三寶前에 공양供養하고</sent>
+<sent type="main" lang="kor" page="" n="00">국왕부모國王父母 충효忠孝하며 빈병걸인貧病乞人 보시布施하고 이 극락極樂에 나왓노라</sent>
+<sent type="main" lang="kor" page="" n="00">나는 과거過去 본행시本行時에 욕辱되는 일 능能히 참고</sent>
+<sent type="main" lang="kor" page="" n="00">지혜智慧를 수습受習하야 공경恭敬하고 하심下心하며</sent>
+<sent type="main" lang="kor" page="" n="00">일체一切 사람 권화勸化하여 염불念佛 식힌 공덕功德으로 이 극락極樂에 나왓노라</sent>
+<sent type="main" lang="kor" page="" n="00">나는 과거過去 본행시本行時에 탑사塔寺를 이룩하고</sent>
+<sent type="main" lang="kor" page="" n="00">불도량佛道場을 소쇄掃灑하며 죽는 목숨 살렸 주고</sent>
+<sent type="main" lang="kor" page="" n="00">청정계행淸淨戒行 수지受持하야 삼귀오계三歸五戒 팔관재八關齋와</sent>
+<sent type="main" lang="kor" page="" n="00">십선업十善業을 수행修行하고 이 극락極樂에 나왓노라</sent>
+<sent type="main" lang="kor" page="" n="00">나는 과거過去 본행시本行時에 십재일十齋日에 목욕沐浴하고</sent>
+<sent type="main" lang="kor" page="" n="00">재일齋日 성호聖號 염송念誦하며 비밀진언秘密眞言 지송持誦하고 이 극락極樂에 나왓노라</sent>
+<sent type="main" lang="kor" page="" n="00">나는 과거過去 본행시本行時에 우물 파서 보시布施하며</sent>
+<sent type="main" lang="kor" page="" n="00">험險한 도로道路 수축修築하고 무거운 짐 대신代身지며</sent>
+<sent type="main" lang="kor" page="" n="00">새벽마다 서향西向하야 사성존四聖尊께 예배禮拜하고 이 극락極樂에 나왓노라</sent>
+<sent type="main" lang="kor" page="" n="00">나는 과거科擧 본행시本行時에 평원平原 광야廣野 정자亭子 심어 왕래인往來人을 쉬게 하며</sent>
+<sent type="main" lang="kor" page="" n="00">유월六月 염천炎天 더운 때에 참외 심어 보시布施하며</sent>
+<sent type="main" lang="kor" page="" n="00">큰 강수江水에 배 띄우고 적은 냇물 다리 놋코 왕래인往來人을 통섭通涉하며</sent>
+<sent type="main" lang="kor" page="" n="00">산고곡심山高谷深 험險한 길에 실로자失路者를 지도指導하며</sent>
+<sent type="main" lang="kor" page="" n="00">금음 칠야漆夜 밤길 가는 저 행인行人을 홰뿔 주며</sent>
+<sent type="main" lang="kor" page="" n="00">압 어두운 저 맹인盲人이 개천 구렁 건너거든 붓드러서 인도引導하며</sent>
+<sent type="main" lang="kor" page="" n="00">객사타향客死他鄕 거리 송장 선심善心으로 무더 주며</sent>
+<sent type="main" lang="kor" page="" n="00">사고무친四顧無親 병든 사람 지성至誠으로 구원救援하며</sent>
+<sent type="main" lang="kor" page="" n="00">이런 공덕功德 가초다가 이 극락極樂에 나왓노라</sent>
+<sent type="main" lang="kor" page="" n="00">나는 과거過去 본행시本行時에 십악오역十惡五逆 두로 짓고</sent>
+<sent type="main" lang="kor" page="" n="00">무간지옥無間地獄 가올러니 임종시臨終時에 선우善友 맛나</sent>
+<sent type="main" lang="kor" page="" n="00">겨우 십렴十念 염불念佛하고 이 극락極樂에 나왓노라</sent>
+<sent type="main" lang="kor" page="" n="00">나는 과거過去 본행시本行時에 삼악도중三惡途中 수고受苦러니</sent>
+<sent type="main" lang="kor" page="" n="00">우리 효순孝順 권속眷屬들이 나를 위해 공덕功德 닥가 이 극락極樂에 나왓노라</sent>
+<sent type="main" lang="kor" page="" n="00">천차만별千差萬別 본행사本行事를 이와 갓치 의론議論할 제</sent>
+<sent type="main" lang="kor" page="" n="00">극락세계極樂世界 공덕功德 장엄莊嚴 무량겁無量劫을 혜아려도</sent>
+<sent type="main" lang="kor" page="" n="00">불가사의不可思議 경계境界로다 어이 하야 그러한고</sent>
+<sent type="main" lang="kor" page="" n="00">과거過去 구원久遠 무량겁無量劫에 유불有佛 출세出世 하오시니 세자재왕世者在王 여래如來시라</sent>
+<sent type="main" lang="kor" page="" n="00">그 때에 전륜왕轉輪王은 일홈이 교시가憍尸迦라</sent>
+<sent type="main" lang="kor" page="" n="00">국왕위國王位를 바리시고 발심출가發心出家 비구比丘되니 승명僧名은 법장法藏이라</sent>
+<sent type="main" lang="kor" page="" n="00">세자재왕世自在王 여래전에 사십팔원四十八願 세우시니</sent>
+<sent type="main" lang="kor" page="" n="00">하날에서 꼿비 오고 대지세계大地世界 진동振動이라</sent>
+<sent type="main" lang="kor" page="" n="00">그 후後로 무량겁無量劫을 난행難行 고행苦行 다겁多劫하야</sent>
+<sent type="main" lang="kor" page="" n="00">사십팔원四十八願 성취成就하자 극락세계極樂世界 장엄莊嚴하고</sent>
+<sent type="main" lang="kor" page="" n="00">그 가온데 성도成道하니 우리 도사道師 아미타阿彌陀라</sent>
+<sent type="main" lang="kor" page="" n="00">삼계三界 화택火宅 동모들아 오욕낙五欲樂만 탐착貪着 말고</sent>
+<sent type="main" lang="kor" page="" n="00">생사장야生死長夜 꿈을 깨여 이 말삼을 결신決信하고</sent>
+<sent type="main" lang="kor" page="" n="00">아미타불阿彌陀佛 대성호大聖號를 일심一心으로 외우시되</sent>
+<sent type="main" lang="kor" page="" n="00">과거사過去事도 분별分別 말고 미래사未來事도 사량思量 말고</sent>
+<sent type="main" lang="kor" page="" n="00">삼계三界 만법萬法 왼갓 것이 몽환夢幻인 줄 관찰觀察하고</sent>
+<sent type="main" lang="kor" page="" n="00">십이시중十二時中 주야晝夜 업시 어린 아해兒孩 젓 생각듯</sent>
+<sent type="main" lang="kor" page="" n="00">역경계逆境界도 아미타불阿彌陀佛 순경계順境界도 아미타불阿彌陀佛</sent>
+<sent type="main" lang="kor" page="" n="00">행주좌와行住坐臥 어묵동정語黙動靜 일체시一切時와 일체처一切處에</sent>
+<sent type="main" lang="kor" page="" n="00">일렴미타一念彌陀 놋치 마오 일구월심日久月深 오래 하면</sent>
+<sent type="main" lang="kor" page="" n="00">허다정량許多情量 업서지고 염불삼매念佛三昧 성취成就하야</sent>
+<sent type="main" lang="kor" page="" n="00">전후삼제前後三際 끈처지고 인아사상人我四相 문어지면</sent>
+<sent type="main" lang="kor" page="" n="00">십만억토十萬億土 극락세계極樂世界 자심중自心中에 낫하나고</sent>
+<sent type="main" lang="kor" page="" n="00">만덕존상萬德尊相 아미타불阿彌陀佛 방촌중方寸中에 뵈오리니</sent>
+<sent type="main" lang="kor" page="" n="00">자성외自性外에 극락極樂 업고 극락외極樂外에 자성自性 업네</sent>
+<sent type="main" lang="kor" page="" n="00">내 마음이 아미타阿彌陀요 아미타阿彌陀가 자성自性일세</sent>
+<sent type="main" lang="kor" page="" n="00">시방세계十方世界 무변無邊하나 나의 자성自性 편만遍滿하니</sent>
+<sent type="main" lang="kor" page="" n="00">제불심諸佛心도 편만遍滿하고 내지육도乃至六道 중생심도</sent>
+<sent type="main" lang="kor" page="" n="00">낫낫 각각各各 편만遍滿하니 일一이로되 일一 아니오</sent>
+<sent type="main" lang="kor" page="" n="00">다른 대도 불별不別일세 한 방房 안에 일천一千 등燈불</sent>
+<sent type="main" lang="kor" page="" n="00">광명 각각各各 편만遍滿하되 서로 서로 걸림 업네</sent>
+<sent type="main" lang="kor" page="" n="00">이마전지伊麽田地 이르오면 사바극락娑婆極樂 둘 안이요</sent>
+<sent type="main" lang="kor" page="" n="00">범부凡夫 성인聖人 따로 업서 처처극락處處極樂 현전現前하고</sent>
+<sent type="main" lang="kor" page="" n="00">렴렴미타念念彌陀 출세出世로다 이 갓치 수행인修行人은</sent>
+<sent type="main" lang="kor" page="" n="00">임명종시臨命終時 당當하오면 팔만상호八萬相好 장엄莊嚴하신</sent>
+<sent type="main" lang="kor" page="" n="00">보신미타報身彌陀 영접迎接하사 실보토實報土와 상적常寂 광토光土</sent>
+<sent type="main" lang="kor" page="" n="00">상품연화上品蓮花 왕생往生하니 방가위지方可謂之 대장부大丈夫라</sent>
+<sent type="main" lang="kor" page="" n="00">정토왕생淨土往生 하는 법法이 한 가지로 정定함 업네</sent>
+<sent type="main" lang="kor" page="" n="00">근긔根氣조차 무량無量하니 우리 극락極樂 상선인上善人의</sent>
+<sent type="main" lang="kor" page="" n="00">본행本行 말삼 하신 중中에 내 근긔根氣에 맛는 대로</sent>
+<sent type="main" lang="kor" page="" n="00">수분隨分하여 수행修行하소 천파만류千波萬流 흐르는 물</sent>
+<sent type="main" lang="kor" page="" n="00">한 바다로 드러가고 만행중선萬行衆善 모든 공덕</sent>
+<sent type="main" lang="kor" page="" n="00">동귀극락同歸極樂 정토淨土일세 진실심眞實心만 판단判斷하야</sent>
+<sent type="main" lang="kor" page="" n="00">왕생往生하기 발원發願하면 임명종시臨命終時 죽을 때에</sent>
+<sent type="main" lang="kor" page="" n="00">근긔根氣대로 왕생往生하되 상근긔上根氣는 상품上品 가고</sent>
+<sent type="main" lang="kor" page="" n="00">중근하근中根下根 되는 이는 장륙丈六 팔척八尺 화신미타化身彌陀</sent>
+<sent type="main" lang="kor" page="" n="00">각각各各 영접迎接 하오사되 방편토方便土와 동거토同居土에</sent>
+<sent type="main" lang="kor" page="" n="00">중근인中根人은 중품中品 연화蓮花 하근인下根人은 하품下品 연화蓮花</sent>
+<sent type="main" lang="kor" page="" n="00">나의 생전生前 닥근 대로 어김 업시 왕생往生하네</sent>
+<sent type="main" lang="kor" page="" n="00">아미타불阿彌陀佛 영접迎接하되 미타彌陀 실實로 온 배 업고</sent>
+<sent type="main" lang="kor" page="" n="00">나의 심식心識 왕생往生하되 나도 실實로 간 배 업네</sent>
+<sent type="main" lang="kor" page="" n="00">아니 가고 아니 와도 성범聖凡이 제회齊會하고</sent>
+<sent type="main" lang="kor" page="" n="00">감응感應이 도교道交하야 영접迎接하여 왕생往生하니 이 무삼 도리道理런고</sent>
+<sent type="main" lang="kor" page="" n="00">청천靑天에 밝은 달이 청강수淸江水에 빗처오나</sent>
+<sent type="main" lang="kor" page="" n="00">달이 실實로 온 배 업고 물도 실實로 아니 가되</sent>
+<sent type="main" lang="kor" page="" n="00">강수江水가 징청澄淸 고故로 밝은 달이 나타나네</sent>
+<sent type="main" lang="kor" page="" n="00">만일萬一 물이 흐리오면 달 그림자 업서지니</sent>
+<sent type="main" lang="kor" page="" n="00">물의 청탁淸濁 탓이언정 달은 본래本來 거래去來 업네</sent>
+<sent type="main" lang="kor" page="" n="00">이도 또한 이 갓하야 내 마음이 흐린 고故로 불신佛身을 못 보다가</sent>
+<sent type="main" lang="kor" page="" n="00">임종臨終 일렴一念 밝은 고故로 불월佛月이 나타나니</sent>
+<sent type="main" lang="kor" page="" n="00">내 마음이 청탁淸濁 잇지 불佛은 본래本來 거래去來 업네</sent>
+<sent type="main" lang="kor" page="" n="00">두 사람이 달을 보되 한 사람은 크게 보고 한 사람은 적게 보니</sent>
+<sent type="main" lang="kor" page="" n="00">보는 안정眼睛 다름 잇지 달은 본래本來 대소大小 업네</sent>
+<sent type="main" lang="kor" page="" n="00">이도 또한 이 갓하야 팔만八萬 상호相好 보신불報身佛과</sent>
+<sent type="main" lang="kor" page="" n="00">장륙팔척丈六八尺 화신불化身佛이 근긔根氣조차 나타나니</sent>
+<sent type="main" lang="kor" page="" n="00">중생지견衆生之見 차별差別 잇지 불佛은 본래 대소大小 업네</sent>
+<sent type="main" lang="kor" page="" n="00">하날 사람 밥 먹을 제 보내 그릇 한 가지되</sent>
+<sent type="main" lang="kor" page="" n="00">과거過去 복덕福德 지은 대로 음식飮食 비치 부동不同하니</sent>
+<sent type="main" lang="kor" page="" n="00">이도 또한 이 갓하야 극락세계極樂世界 하나이나</sent>
+<sent type="main" lang="kor" page="" n="00">사종정토四種淨土 구품연화九品蓮花 근긔根氣조차 각각各各 보네</sent>
+<sent type="main" lang="kor" page="" n="00">정토업淨土業을 수행修行할 제 의심疑心을 품고 하면</sent>
+<sent type="main" lang="kor" page="" n="00">이 목숨 마친 후後에 명부冥府에서 상관相關업고</sent>
+<sent type="main" lang="kor" page="" n="00">미타彌陀 영접迎接 아니 하니 별로 갈 곳 업사오나</sent>
+<sent type="main" lang="kor" page="" n="00">의성疑城이라 하는 곳에 연태중蓮胎中에 몸을 바다 오백세五百歲를 복락福樂 밧고</sent>
+<sent type="main" lang="kor" page="" n="00">다시 정업淨業 닥근 후에 극락極樂으로 왕생往生하니</sent>
+<sent type="main" lang="kor" page="" n="00">필경畢竟에는 가드래도 오백세五百歲나 지체遲滯하여</sent>
+<sent type="main" lang="kor" page="" n="00">아미타불阿彌陀佛 못 보오니 정토淨土 발원發願 하는 사람</sent>
+<sent type="main" lang="kor" page="" n="00">결정신심決定信心 이륵혀서 의심疑心을랑 부대 마오</sent>
+<sent type="main" lang="kor" page="" n="00">만일萬一 다시 분별分別하되 수행修行한 지 불구不久하여</sent>
+<sent type="main" lang="kor" page="" n="00">원결보채怨結報債 만이 저서 비서 나기 어려우며</sent>
+<sent type="main" lang="kor" page="" n="00">임종시臨終時에 아미타불阿彌陀佛 영접迎接 아니 하실테지</sent>
+<sent type="main" lang="kor" page="" n="00">이 분별分別을 부대 마오 정진수행精進修行 하드래도</sent>
+<sent type="main" lang="kor" page="" n="00">이 분별分別이 장애障碍되야 왕생往生 길을 막삽나니</sent>
+<sent type="main" lang="kor" page="" n="00">여하약하如何若何 뭇지 말고 필경畢竟 왕생往生 하올 줄로</sent>
+<sent type="main" lang="kor" page="" n="00">결정신決定信을 이륵힌 후後 아미타불阿彌陀佛 한 생각을</sent>
+<sent type="main" lang="kor" page="" n="00">단단적적團團的的 잡드러서 산란심散亂心이 동動하거던 더욱 정신精神 가다듬소</sent>
+<sent type="main" lang="kor" page="" n="00">명주투어明珠投於 탁수濁水하면 흐린 물이 말가지고</sent>
+<sent type="main" lang="kor" page="" n="00">불호투어佛號投於 난심亂心하면 난심亂心 즉시卽時 불심佛心일세</sent>
+<sent type="main" lang="kor" page="" n="00">나의 화살 바로 가면 저 관역을 못 맛출가</sent>
+<sent type="main" lang="kor" page="" n="00">보름달이 원만圓滿키는 초생初生달로 시작始作이요</sent>
+<sent type="main" lang="kor" page="" n="00">천리원정千里遠程 득달得達함은 첫 거름이 시작始作일세</sent>
+<sent type="main" lang="kor" page="" n="00">극락極樂이 머다 하나 나의 일렴一念 진실眞實하면</sent>
+<sent type="main" lang="kor" page="" n="00">수인결과修因結果 하는 날에 미타성존彌陀聖尊 안이 볼까</sent>
+<sent type="main" lang="kor" page="" n="00">인생일세人生一世 밋음 업서 백년百年 광음光陰 몽중夢中이라</sent>
+<sent type="main" lang="kor" page="" n="00">달팽이 뿔 가관可觀이나 무엇에 쓰단 말가</sent>
+<sent type="main" lang="kor" page="" n="00">부귀영화富貴榮華 조타 하나 달팽이 뿔 다름 업네</sent>
+<sent type="main" lang="kor" page="" n="00">새벽 이슬 구슬 된들 얼마 오래 보존保存할꼬</sent>
+<sent type="main" lang="kor" page="" n="00">인간칠십人間七十 고래희古來稀라 새벽 이슬 다름 업네</sent>
+<sent type="main" lang="kor" page="" n="00">칼 끗테 무든 꿀을 어린 아희 할터 먹다</sent>
+<sent type="main" lang="kor" page="" n="00">혀를 필경畢竟 상傷커니와 지혜자智慧者야 도라볼까</sent>
+<sent type="main" lang="kor" page="" n="00">맛은 좃코 죽는 음식飮食 미련한 놈 먹고 죽지 지혜자智慧者야 그러할까</sent>
+<sent type="main" lang="kor" page="" n="00">여보 오욕五欲 수락인受樂人들 죽는 음식飮食 그만 먹소</sent>
+<sent type="main" lang="kor" page="" n="00">생로병사生老病死 무서운 불 사면四面으로 부터 오니</sent>
+<sent type="main" lang="kor" page="" n="00">그 가온대 잇지 말고 이 문門으로 어서 나소</sent>
+<sent type="main" lang="kor" page="" n="00">삼계三界 화택火宅 내닷기는 정토문淨土門이 제일第一일세</sent>
+<sent type="main" lang="kor" page="" n="00">고해중苦海中에 빠진 사람 이 배를 어서 타소</sent>
+<sent type="main" lang="kor" page="" n="00">생사生死 바다 건너기는 미타선彌陀船이 제일第一일세</sent>
+<sent type="main" lang="kor" page="" n="00">바다 보배 천千 가지나 여의주如意珠가 웃듬이요</sent>
+<sent type="main" lang="kor" page="" n="00">의약방문醫藥方文 만품萬品이나 무우산無憂山이 읏듬이요</sent>
+<sent type="main" lang="kor" page="" n="00">팔만사천八萬四千 방편문方便門이 수왈문문雖曰門門 가입可入이나</sent>
+<sent type="main" lang="kor" page="" n="00">생사윤회生死輪廻 빨리 벗고 불법성佛法城에 바로 감은 정토문淨土門이 읏듬일세</sent>
+<sent type="main" lang="kor" page="" n="00">제불보살諸佛菩薩 출세出世하사 천경만론千經萬論 이른 말삼</sent>
+<sent type="main" lang="kor" page="" n="00">미타정토彌陀淨土 칭찬稱讚하사 고구정령苦口叮嚀 권勸하시니</sent>
+<sent type="main" lang="kor" page="" n="00">우리 범부凡夫 사람들이 성인聖人 말삼 아니 듯고 뉘의 말을 신청信聽하며</sent>
+<sent type="main" lang="kor" page="" n="00">극락정토極樂淨土 안이 가고 다시 어대 갈 곳 잇나</sent>
+<sent type="main" lang="kor" page="" n="00">오탁악세五濁惡世 나온 사람 과거過去 죄업罪業 깁푼 고故로</sent>
+<sent type="main" lang="kor" page="" n="00">이른 말삼 불신不信하야 비방誹謗하고 물너가니</sent>
+<sent type="main" lang="kor" page="" n="00">불에 든 저 나븨와 고치 젓는 저 누에를 그 누가 구제救濟할까</sent>
+<sent type="main" lang="kor" page="" n="00">정토수행淨土修行 하는 사람 신구의身口意를 조섭操攝하야 십악업十惡業을 짓지 마소</sent>
+<sent type="main" lang="kor" page="" n="00">과거過去 생사生死 무량겁無量劫에 육도사생六道死生 순환循環하니</sent>
+<sent type="main" lang="kor" page="" n="00">예서 죽어 제가 날 제 부모父母 업시 낫실는가</sent>
+<sent type="main" lang="kor" page="" n="00">일노 조차 생각건대 혈긔血氣 있는 준동蠢動 함령含靈 무비다생無非多生 부모父母로다</sent>
+<sent type="main" lang="kor" page="" n="00">산 목숨을 죽인 이는 살부살모殺父殺母 다름 업네</sent>
+<sent type="main" lang="kor" page="" n="00">화엄경華嚴經에 하온 말삼 혈긔血氣 잇는 중생류衆生類가 필경성불畢竟成佛 한다 하니</sent>
+<sent type="main" lang="kor" page="" n="00">살생殺生하는 저 사람은 미래불未來佛을 죽임이라</sent>
+<sent type="main" lang="kor" page="" n="00">호생오사好生惡死 하는 마음 나와 저와 일반一般인대</sent>
+<sent type="main" lang="kor" page="" n="00">내 욕심慾心을 채우랴고 남에 목숨 죽이나니</sent>
+<sent type="main" lang="kor" page="" n="00">형세形勢 강약强弱 부동不同하야 죽인 바를 입사오나</sent>
+<sent type="main" lang="kor" page="" n="00">맷고 맷는 원한심怨恨心이 구천九天에 사못치네</sent>
+<sent type="main" lang="kor" page="" n="00">생사고락生死苦樂 순환循環하니 타일他日 삼도三度 저 고통苦痛을 뉘가 대신代身 바더 줄까</sent>
+<sent type="main" lang="kor" page="" n="00">검수도산劒樹刀山 저 지옥地獄에 근단골절筋斷骨折 멧 번이며</sent>
+<sent type="main" lang="kor" page="" n="00">확탕노탄鑊湯爐炭 저 지옥地獄에 혈육초란血肉焦爛 수數 잇든가</sent>
+<sent type="main" lang="kor" page="" n="00">지옥고地獄苦를 마친 후後에 피모재각被毛載角 육축六畜되야 목숨 빗을 갑흘 적에</sent>
+<sent type="main" lang="kor" page="" n="00">나는 한 번 죽엿건만 갑는 수數는 무수無數하니 수원수구誰怨誰咎 한恨을 할꼬</sent>
+<sent type="main" lang="kor" page="" n="00">옛적에 한 엽사獵師가 다섯 사슴 눈을 뺀 후 지옥고地獄苦를 갓초 밧고</sent>
+<sent type="main" lang="kor" page="" n="00">인간人間에 사람되야 오백겁五百劫을 눈 빼이니</sent>
+<sent type="main" lang="kor" page="" n="00">인과보응因果報應 역역歷歷커늘 어이 그리 불신不信하오</sent>
+<sent type="main" lang="kor" page="" n="00">아모리 빈궁貧窮해도 도적盜賊질을 부대 마오</sent>
+<sent type="main" lang="kor" page="" n="00">승야월장乘夜越墻 하는 것만 도적업盜賊業이 아니오라</sent>
+<sent type="main" lang="kor" page="" n="00">남의 재물財物 방편方便으로 비리횡취非理橫取 하는 것이</sent>
+<sent type="main" lang="kor" page="" n="00">백주대적白晝大賊 이 안인가 저울 내고 되 말 냄은</sent>
+<sent type="main" lang="kor" page="" n="00">공평되게 하잿드니 주고 밧는 여수간與受間에</sent>
+<sent type="main" lang="kor" page="" n="00">그 농간弄奸이 무수無數하니 야속할 사 인심人心이여</sent>
+<sent type="main" lang="kor" page="" n="00">어이 하야 그러한고 부모자식父母子息 쳔륜天倫이라</sent>
+<sent type="main" lang="kor" page="" n="00">네 것 내 것 업것마는 옛적에 한 로모老母가</sent>
+<sent type="main" lang="kor" page="" n="00">딸 자식子息이 간난艱難커늘 백미白米 닷 되둘러 내여</sent>
+<sent type="main" lang="kor" page="" n="00">아들 몰래 주엇드니 모자母子 갓치 죽어서는</sent>
+<sent type="main" lang="kor" page="" n="00">큰 말 되고 색기 되여 그 아달을 태웟스니</sent>
+<sent type="main" lang="kor" page="" n="00">모자간母子間도 저러커던 남에 것을 의논議論할까</sent>
+<sent type="main" lang="kor" page="" n="00">아모리 욕심慾心나도 사음邪淫을낭 부대 마오</sent>
+<sent type="main" lang="kor" page="" n="00">나의 처妻도 족하거던 남의 처첩妻妾 무엇하나</sent>
+<sent type="main" lang="kor" page="" n="00">옛적에 한 사람이 남의 첩妾을 간통姦通할 제</sent>
+<sent type="main" lang="kor" page="" n="00">본부本夫 볼까 두려 하야 사면四面으로 살피드니</sent>
+<sent type="main" lang="kor" page="" n="00">죽은 후後에 아귀餓鬼 되야 긔화飢火의 치성熾盛으로</sent>
+<sent type="main" lang="kor" page="" n="00">오장육부五臟六腑 모다 타며 사면철봉四面鐵鋒 타살打殺하니 괴롭고도 무섭도다</sent>
+<sent type="main" lang="kor" page="" n="00">고인古人이 일아사되 구시화문口是禍門이라 하니</sent>
+<sent type="main" lang="kor" page="" n="00">입으로 짓는 허물 물난 결에 가장 만타</sent>
+<sent type="main" lang="kor" page="" n="00">발설拔舌 지옥고地獄苦를 보소 혀를 빼여 밧을 가니 거진말로 남 속일가</sent>
+<sent type="main" lang="kor" page="" n="00">두 말 하야 이간離間 마오 백설조百舌鳥가 이 아닌가</sent>
+<sent type="main" lang="kor" page="" n="00">하물며 악담죄惡談罪는 그 중中에 더 중重하니</sent>
+<sent type="main" lang="kor" page="" n="00">옛적에 한 사람이 한 번 악담惡談하온 죄罪로 백두어百頭魚가 되엿서라</sent>
+<sent type="main" lang="kor" page="" n="00">또 옛적에 한 여인女人은 지은 허물 발명發明코저 가지 가지 악담惡談하고</sent>
+<sent type="main" lang="kor" page="" n="00">죽은 후後에 아귀餓鬼되야 제 고기를 살마내여</sent>
+<sent type="main" lang="kor" page="" n="00">제가 도로 먹엇스니 악담惡談 부대 하지 마오</sent>
+<sent type="main" lang="kor" page="" n="00">남을 향向해 하는 악담惡談 내가 도로 밧난이라</sent>
+<sent type="main" lang="kor" page="" n="00">하날로 뱃튼 침이 내 얼골에 안이 질까</sent>
+<sent type="main" lang="kor" page="" n="00">술을 부대 먹지 마소 술에 허물 무량無量하야</sent>
+<sent type="main" lang="kor" page="" n="00">왼갓 죄罪를 다 짓나니 술집 한 번 가라치고</sent>
+<sent type="main" lang="kor" page="" n="00">오백겁五百劫을 손 업거든 황어況於 친親히 먹을손가</sent>
+<sent type="main" lang="kor" page="" n="00">의적儀狄이 작주作酒어늘 우禹 님금이 멀리 하고</sent>
+<sent type="main" lang="kor" page="" n="00">나한羅漢이 대취大醉어늘 세존世尊이 꾸지시니</sent>
+<sent type="main" lang="kor" page="" n="00">술에 허물 업슬진대 성인聖人이 금禁할손가</sent>
+<sent type="main" lang="kor" page="" n="00">똥과 오줌 끌는 지옥地獄 저 고통苦痛이 무서워라</sent>
+<sent type="main" lang="kor" page="" n="00">부대 탐심貪心 내지 마오 살도음망殺盜淫妄 만흔 죄罪를 탐심貪心으로 모도 짓네</sent>
+<sent type="main" lang="kor" page="" n="00">옛적에 한 랑자娘子는 재산탐착財産貪着 못 잇더니</sent>
+<sent type="main" lang="kor" page="" n="00">죽은 후後에 개가 되야 그 재물財物을 직혓시며</sent>
+<sent type="main" lang="kor" page="" n="00">또 옛적에 한 사람은 황금칠병黃金七甁 두고 죽어</sent>
+<sent type="main" lang="kor" page="" n="00">배암의 몸 바닷스니 그 안이 무서운가 부대 진심瞋心 내지 마소</sent>
+<sent type="main" lang="kor" page="" n="00">진심瞋心 죄보罪報 무량無量하야 팔만八萬 장문障門 이러나네</sent>
+<sent type="main" lang="kor" page="" n="00">예전에 홍도비구弘道比丘 다겁多劫을 공부工夫하야</sent>
+<sent type="main" lang="kor" page="" n="00">거의 성불成佛 갓갑더니 한 번 진심瞋心 이르키고</sent>
+<sent type="main" lang="kor" page="" n="00">대망大蟒이 몸 바닷스니 놀납고도 두렵도다</sent>
+<sent type="main" lang="kor" page="" n="00">만일萬一 사견邪見 이릇켜서 선악인과善惡人果 불신不信하면</sent>
+<sent type="main" lang="kor" page="" n="00">무간지옥無間地獄 드러가서 천불출세千佛出世 하드라도 나올 긔약期約 바이 업네</sent>
+<sent type="main" lang="kor" page="" n="00">고故로 옛적 선성비구善性比丘 이십년二十年을 시불侍佛하야</sent>
+<sent type="main" lang="kor" page="" n="00">십이부경十二部經 통달通達하고 사선정四禪定을 어덧드니</sent>
+<sent type="main" lang="kor" page="" n="00">악지식惡智識을 인연因緣하야 인과因果를 불신不信타가 생함지옥生含地獄 하엿스니</sent>
+<sent type="main" lang="kor" page="" n="00">중생衆生 죄업罪業 무량無量한 중中 사견죄邪見罪가 제일第一일세</sent>
+<sent type="main" lang="kor" page="" n="00">파 마늘을 먹지 마오 생生으로는 진심瞋心 돕고 익힌 것은 음심淫心 돕네</sent>
+<sent type="main" lang="kor" page="" n="00">담배 일홈 다섯 가지 담악초痰惡草며 분사초焚蛇草라</sent>
+<sent type="main" lang="kor" page="" n="00">선신善神은 멀리 하고 악귀惡鬼가 뒤조치니 알고 참아 먹을손가</sent>
+<sent type="main" lang="kor" page="" n="00">여시如是 죄목罪目 무수無數하야 이로 칙량測量할 길 업네</sent>
+<sent type="main" lang="kor" page="" n="00">화택중火宅中에 잇는 중생衆生 죄 안 지 리 뉘 잇슬가</sent>
+<sent type="main" lang="kor" page="" n="00">과거過去부터 이 몸까지 지은 죄罪를 생각生覺하면 한량 업고 가이 업네</sent>
+<sent type="main" lang="kor" page="" n="00">죄罪가 형상形狀 이실진댄 허공계虛空界를 다 채워도</sent>
+<sent type="main" lang="kor" page="" n="00">남은 죄罪가 만흐리니 이 죄업罪業을 그저 두고</sent>
+<sent type="main" lang="kor" page="" n="00">화택火宅 엇지 버서나며 극락極樂 엇지 왕생往生할까</sent>
+<sent type="main" lang="kor" page="" n="00">우리 세존世尊 대법왕大法王이 죄악중생罪惡衆生 슬피 녀겨 참회문懺悔門을 세우시니</sent>
+<sent type="main" lang="kor" page="" n="00">승속僧俗 남녀노소男女老少 업시 지은 죄罪를 생각生覺하야</sent>
+<sent type="main" lang="kor" page="" n="00">참회심懺悔心을 이륵켜서 이참사참理懺事懺 두 가지로 삼보전三寶前에 참회懺悔하소</sent>
+<sent type="main" lang="kor" page="" n="00">이참理懺이라 하는 것은 죄의 자성自性 추구推究하되</sent>
+<sent type="main" lang="kor" page="" n="00">두목頭目 수족手足 사대四大 색신色身 혈육血肉 피골皮骨 모든 중中에 죄罪의 자성自性 어데 잇나</sent>
+<sent type="main" lang="kor" page="" n="00">육신중肉身中에 업실진댄 색성향미色聲香味 외경계外境界에 죄罪의 자성自性 어데 잇노</sent>
+<sent type="main" lang="kor" page="" n="00">자세仔細이 추구推究하되 내외內外에 업슬진대 중간中間인들 잇슬손가</sent>
+<sent type="main" lang="kor" page="" n="00">내외중간內外中間 모도 업서 죄성罪性이 공적空寂하다</sent>
+<sent type="main" lang="kor" page="" n="00">죄성罪性이 공적空寂커니 죄상罪相인들 잇실손가</sent>
+<sent type="main" lang="kor" page="" n="00">내외자성內外自性 청정淸淨하야 본래本來 일물一物 걸림 업네</sent>
+<sent type="main" lang="kor" page="" n="00">태허공太虛空에 새가 나니 새난 자최 어데 잇나</sent>
+<sent type="main" lang="kor" page="" n="00">자성허공自性虛空 청정淸淨하니 죄상罪相 자최 잇슬손가</sent>
+<sent type="main" lang="kor" page="" n="00">담담허공淡淡虛空 바람 이러 천파만랑千波萬浪 도도淘淘트니</sent>
+<sent type="main" lang="kor" page="" n="00">바람 하나 그친 후後에 천파만랑千波萬浪 간 데 업네</sent>
+<sent type="main" lang="kor" page="" n="00">나의 자성自性 바다 중中에 현전現前 일렴一念 허망虛妄하야 죄구파랑罪垢波浪 분분紛紛터니</sent>
+<sent type="main" lang="kor" page="" n="00">현전現前 일렴一念 진실眞實하니 무한죄구無限罪垢 간 데 업네</sent>
+<sent type="main" lang="kor" page="" n="00">이理는 실實로 이러하나 사상事相으론 불연不然하다</sent>
+<sent type="main" lang="kor" page="" n="00">꿈이 비록 허망虛妄하나 흉몽凶夢에는 흉사凶事잇고</sent>
+<sent type="main" lang="kor" page="" n="00">길몽吉夢에는 길사吉事 보니 꿈이 일향一向 허망虛妄한가</sent>
+<sent type="main" lang="kor" page="" n="00">죄罪가 비록 허망虛妄하나 후세업보後世業報 분명分明하니</sent>
+<sent type="main" lang="kor" page="" n="00">삼보三寶 신력信力 아니시면 죄罪를 엇지 소멸消滅할꼬</sent>
+<sent type="main" lang="kor" page="" n="00">아등도사我等導師 아미타불阿彌陀佛 사십팔원四十八願 하온 말삼</sent>
+<sent type="main" lang="kor" page="" n="00">내지乃至 십악오역인十惡五逆人이 임종시臨終時에 이르러서 지옥악상地獄惡相 나타나되</sent>
+<sent type="main" lang="kor" page="" n="00">내 명호名號를 지성至誠으로 열 뻔만 일커러도</sent>
+<sent type="main" lang="kor" page="" n="00">염불念佛소리 한 마듸에 팔십억겁八十億劫 생사죄生死罪가</sent>
+<sent type="main" lang="kor" page="" n="00">춘설春雪갓치 녹아지고 하품왕생下品往生 한다 하니</sent>
+<sent type="main" lang="kor" page="" n="00">대의재大矣哉라 아미타阿彌陀여 고해보벌苦海寶筏 아니신가</sent>
+<sent type="main" lang="kor" page="" n="00">누천년累千年을 길운 수풀 일성화一星火로 살으오며</sent>
+<sent type="main" lang="kor" page="" n="00">천년千年 암실暗室 어두옴을 한 등燈불로 파破햇서라</sent>
+<sent type="main" lang="kor" page="" n="00">아미타불阿彌陀佛 한 소래에 천마외도天魔外道 공포恐怖하고</sent>
+<sent type="main" lang="kor" page="" n="00">도산검수刀山劍樹 부서지니 과연果然 삼계도사三界導師로다</sent>
+<sent type="main" lang="kor" page="" n="00">정토법문淨土法門 심신深信하야 극락極樂 가기 발원發願하면</sent>
+<sent type="main" lang="kor" page="" n="00">염라대왕閻羅大王 문서 중에 나의 성명姓名 에와내고</sent>
+<sent type="main" lang="kor" page="" n="00">극락세계極樂世界 칠보七寶못에 연蓮 뽕하나 소사나셔</sent>
+<sent type="main" lang="kor" page="" n="00">내 성명姓名을 표제標題하고 나의 수행修行 하는 대로</sent>
+<sent type="main" lang="kor" page="" n="00">연화점점蓮花漸漸 무성茂盛타가 안광락지眼光落地 하온 후後에</sent>
+<sent type="main" lang="kor" page="" n="00">그 연대蓮臺에 나타나니 직금 염불念佛 하는 사람</sent>
+<sent type="main" lang="kor" page="" n="00">비록 인간人間 잇사오나 발서 극락極樂 백성百姓이라</sent>
+<sent type="main" lang="kor" page="" n="00">동방세계東方世界 약사여래藥師如來 팔보살八菩薩을 보내시고</sent>
+<sent type="main" lang="kor" page="" n="00">서방세계西方世界 아미타불阿彌陀佛 시물 다섯 대보살大菩薩로 이 사람을 호위護衛하며</sent>
+<sent type="main" lang="kor" page="" n="00">시방제불十方諸佛 호렴護念하고 천룡귀신天龍鬼神 공경恭敬하니</sent>
+<sent type="main" lang="kor" page="" n="00">천상天上 인간人間 세계世界 중中에 최존최귀最尊最貴 제일第一일세</sent>
+<sent type="main" lang="kor" page="" n="00">만일萬一 도로 퇴전退轉하면 그 연화蓮花가 마른다니</sent>
+<sent type="main" lang="kor" page="" n="00">생사윤회生死輪廻 차치且置하고 연蓮꽃 아니 앗가운가</sent>
+<sent type="main" lang="kor" page="" n="00">여보 염불念佛 동무님네 부대 부대 퇴전退轉마오</sent>
+<sent type="main" lang="kor" page="" n="00">도도滔滔한 동류수東流水는 창해滄海 바다 가기 전前에 쉬는 일이 잠간 업네</sent>
+<sent type="main" lang="kor" page="" n="00">최존最尊 최귀最貴 사람 되여 무정수無情水만 못 할손가</sent>
+<sent type="main" lang="kor" page="" n="00">투석낙정投石落井 거동擧動 보소 중간中間에서 안 그치네</sent>
+<sent type="main" lang="kor" page="" n="00">한번 시작始作 하는 일을 성취전成就前에 끗칠손가</sent>
+<sent type="main" lang="kor" page="" n="00">남염부제南閻浮提 나온 사람 심성心性이 무정無定하야</sent>
+<sent type="main" lang="kor" page="" n="00">아츰 나절 신信하다가 저녁 나절 퇴전退轉하며</sent>
+<sent type="main" lang="kor" page="" n="00">설사設使 오래 신信하여도 결정신근決定信根 전혀 업서</sent>
+<sent type="main" lang="kor" page="" n="00">목전目前 경계境界 보는 대로 다른 소원所願 무수無數하니</sent>
+<sent type="main" lang="kor" page="" n="00">불상하고 가련可憐하다 만당처자滿堂妻子 애착하고</sent>
+<sent type="main" lang="kor" page="" n="00">금은옥백金銀玉帛 탐심貪心두니 목숨 맛처 도라갈 제</sent>
+<sent type="main" lang="kor" page="" n="00">어늬 처자妻子 따라오며 금은金銀 가저 노자路資할까</sent>
+<sent type="main" lang="kor" page="" n="00">생사生死 광야曠野 험險한 길에 나의 고혼孤魂 홀로 가니</sent>
+<sent type="main" lang="kor" page="" n="00">선심공덕善心功德 업사오면 삼악도三惡道 깊푼 구렁 살 갓치 드러가네</sent>
+<sent type="main" lang="kor" page="" n="00">또 다시 엇던 사람 평시平時에는 염불念佛타가</sent>
+<sent type="main" lang="kor" page="" n="00">병病이 들면 아조 잇고 압흔 것만 실허 하며 살기로만 바라다가</sent>
+<sent type="main" lang="kor" page="" n="00">생사노두生死路頭 걸처 잇서 삼백륙십三百六十 뼛 마듸를 바람 칼로 에워 내니</sent>
+<sent type="main" lang="kor" page="" n="00">수망각난手忙脚亂 손발 젓고 출입식出入識이 요요寥寥하야</sent>
+<sent type="main" lang="kor" page="" n="00">맑은 정신精神 발서 날라 명도冥道 귀계鬼界 던진 후後에</sent>
+<sent type="main" lang="kor" page="" n="00">임종臨終 염불念佛 하여 주니 무삼 효험效驗 잇실손가</sent>
+<sent type="main" lang="kor" page="" n="00">도적盜賊 간 후 문門 다드니 무엇을 잡으랴나</sent>
+<sent type="main" lang="kor" page="" n="00">생전生前 약간若干 염불念佛 공덕功德 악업담자樂業擔子 못 이겨서 수업승침隨業昇沈 윤회輪廻하네</sent>
+<sent type="main" lang="kor" page="" n="00">평시平時에 병법兵法 익켜 난시亂時에 쓰잣드니</sent>
+<sent type="main" lang="kor" page="" n="00">적진敵陣 보고 퇴쟁退錚치니 평시적공平時積功 쓸 때 업네</sent>
+<sent type="main" lang="kor" page="" n="00">생전生前에 념불念佛하야 임종臨終에 쓰잿드니</sent>
+<sent type="main" lang="kor" page="" n="00">정렴正念을 미실迷失하고 사마邪魔에 순종順從하니 일생一生 렴불念佛 와해瓦解로다</sent>
+<sent type="main" lang="kor" page="" n="00">여보 염불念佛 동모님네 이 말삼을 신청信聽하오</sent>
+<sent type="main" lang="kor" page="" n="00">병고病苦 만일萬一 침侵노커든 생사무상生死無常 각금 깨처</sent>
+<sent type="main" lang="kor" page="" n="00">살기도 탐착貪着 말고 죽엄도 두려 말고</sent>
+<sent type="main" lang="kor" page="" n="00">이 세계世界를 시려 하야 극락極樂가기 생각生覺하며</sent>
+<sent type="main" lang="kor" page="" n="00">이 몸이 허환虛幻하야 괴로움이 무량無量하니</sent>
+<sent type="main" lang="kor" page="" n="00">연화대중蓮花臺中 어서 가기 일심一心으로 기다리되</sent>
+<sent type="main" lang="kor" page="" n="00">천리타향千里他鄕 십년十年만에 고향故鄕으로 가는 듯이</sent>
+<sent type="main" lang="kor" page="" n="00">부모父母 일코 개걸丐乞타가 부모父母 차저 가는 듯이</sent>
+<sent type="main" lang="kor" page="" n="00">만덕홍명萬德洪名 아미타불阿彌陀佛 지성至誠으로 생각하며</sent>
+<sent type="main" lang="kor" page="" n="00">술과 고기 드는 약藥은 부대 부대 먹지 말며</sent>
+<sent type="main" lang="kor" page="" n="00">문병인問病人과 시병인侍病人과 집안 권속眷屬 당부하되</sent>
+<sent type="main" lang="kor" page="" n="00">내 압헤서 객담客談 말고 부드러운 애정愛情으로 낙루落淚하야 위로慰勞 말며</sent>
+<sent type="main" lang="kor" page="" n="00">가사家事 범백凡百 뭇지 말고 일심一心으로 염불念佛하야</sent>
+<sent type="main" lang="kor" page="" n="00">나의 정렴正念 도와 주며 내가 만일萬一 혼미昏迷커던</sent>
+<sent type="main" lang="kor" page="" n="00">각금 깨처 권렴權念하며 임종시臨終時가 당當하거던</sent>
+<sent type="main" lang="kor" page="" n="00">서향西向하야 뉘여 두고 일시조렴一時助念 념불念佛하며</sent>
+<sent type="main" lang="kor" page="" n="00">임종臨終한 지 오랜 후後에 곡성哭聲을 내게 하소</sent>
+<sent type="main" lang="kor" page="" n="00">이 갓치 임종臨終하면 평시平時 념불念佛 안트래도 즉지서방卽至西方 하오려든</sent>
+<sent type="main" lang="kor" page="" n="00">황어념불況於念佛 하는 사람 다시 무삼 의심疑心할까</sent>
+<sent type="main" lang="kor" page="" n="00">병病이 비록 중重하여도 귀신鬼神에게 빌지 마오</sent>
+<sent type="main" lang="kor" page="" n="00">수요壽夭 장단長短 정定한 것을 적은 귀신鬼神 어이 할꼬</sent>
+<sent type="main" lang="kor" page="" n="00">부처님이 방광放光하니 방광放光 일홈 견불見佛이라</sent>
+<sent type="main" lang="kor" page="" n="00">임종인臨終人을 권념勸念하고 이 광명光明을 어덧스니</sent>
+<sent type="main" lang="kor" page="" n="00">사람 즘생 물론勿論하고 죽는 자者를 맛나거든 부대 염불念佛 하여 주오</sent>
+<sent type="main" lang="kor" page="" n="00">여보 효순孝順 권속眷屬들아 혼정신성昏定晨省 하온 후와</sent>
+<sent type="main" lang="kor" page="" n="00">감지지공甘旨之供 밧든 후後에 념불念佛 법문法門 봉권奉勸하소</sent>
+<sent type="main" lang="kor" page="" n="00">생전生前에만 효순孝順하고 사후고락死後苦樂 모르오면</sent>
+<sent type="main" lang="kor" page="" n="00">지극효심至極孝心 어데 잇소 부모님의 죄罪 되는 일</sent>
+<sent type="main" lang="kor" page="" n="00">호읍수지呼揖隨之 간諫하옵고 모든 선근善根 되는 일은</sent>
+<sent type="main" lang="kor" page="" n="00">지성至誠으로 권勸한 후後에 부모父母 평생平生 지은 공덕功德</sent>
+<sent type="main" lang="kor" page="" n="00">낫낫치 기록記錄하야 병환病患이 계시거든</sent>
+<sent type="main" lang="kor" page="" n="00">시탕侍湯하는 여가餘暇 타서 념불念佛로 권념勸念하며</sent>
+<sent type="main" lang="kor" page="" n="00">닥그신 선근공덕善根功德 자세仔細히 알려 드려 정념正念을 격발激發하야</sent>
+<sent type="main" lang="kor" page="" n="00">임종臨終까지 이러하면 바로 극락極樂 가시나니</sent>
+<sent type="main" lang="kor" page="" n="00">남의 자식子息 되는 사람 이 말삼을 잇지 마소</sent>
+<sent type="main" lang="kor" page="" n="00">우리 세존世尊 석가釋迦님도 정반부왕淨飯父王 권勸한 말삼</sent>
+<sent type="main" lang="kor" page="" n="00">아미타불阿彌陀佛 념불念佛하야 극락極樂으로 인도하며</sent>
+<sent type="main" lang="kor" page="" n="00">중화국中華國에 장로선사長蘆禪師 어머니를 출가出家 식켜</sent>
+<sent type="main" lang="kor" page="" n="00">념불법문念佛法門 권勸하올 제 권화문勸化門을 지엇시되</sent>
+<sent type="main" lang="kor" page="" n="00">세출세간世出世間 두 효도孝道를 갓초 말삼 하엿시니</sent>
+<sent type="main" lang="kor" page="" n="00">우리 불조佛祖 효행孝行대로 일체인一切人이 밧드시오</sent>
+<sent type="main" lang="kor" page="" n="00">무병인無病人이 념불念佛함에 다병多病타고 비방誹謗마오</sent>
+<sent type="main" lang="kor" page="" n="00">전세前世 죄업罪業 중重한 고故로 사후지옥死後地獄 가올 것을</sent>
+<sent type="main" lang="kor" page="" n="00">즉금卽今 념불공덕念佛功德으로 지옥죄地獄罪를 소멸消滅하고 가부얍게 바듬일세</sent>
+<sent type="main" lang="kor" page="" n="00">장병長病 잇든 풍부인馮夫人은 념불念佛하고 병病 나흐며</sent>
+<sent type="main" lang="kor" page="" n="00">눈 어두운 양씨녀楊氏女는 념불念佛하고 눈 떳시니</sent>
+<sent type="main" lang="kor" page="" n="00">내의 정성精誠 지극至極하면 이런 효험效驗 안이 볼까</sent>
+<sent type="main" lang="kor" page="" n="00">념불念佛 비방誹謗 하는 사람 부귀창성富貴昌盛 한다 마소</sent>
+<sent type="main" lang="kor" page="" n="00">전세前世에 종복種福하고 즉금卽今 부귀富貴 밧거니와</sent>
+<sent type="main" lang="kor" page="" n="00">금세今世 비방誹謗 하온 죄罪는 후세後世 필경畢竟 밧나니라</sent>
+<sent type="main" lang="kor" page="" n="00">농사법農事法을 살펴 보소 팟 심으면 팟치 나고 콩 심으면 콩이 나네</sent>
+<sent type="main" lang="kor" page="" n="00">즉금卽今 엇던 미련한 놈 가시나무 심어 두고 베포기를 기다리네</sent>
+<sent type="main" lang="kor" page="" n="00">사람의 몸 바다 나기 맹귀우목盲龜遇木 어려우며</sent>
+<sent type="main" lang="kor" page="" n="00">불법佛法 난봉難逢 희유稀有함이 우담화優曇華에 지내거늘</sent>
+<sent type="main" lang="kor" page="" n="00">다행多幸하다 우리 사람 숙세宿世 무삼 선근善根으로</sent>
+<sent type="main" lang="kor" page="" n="00">사람 몸을 바다씨며 불법佛法까지 만낫는고</sent>
+<sent type="main" lang="kor" page="" n="00">이런 불법佛法 맛낫실 제 듯고 아니 하는 이는</sent>
+<sent type="main" lang="kor" page="" n="00">불보살佛菩薩의 자비慈悲신들 그를 엇지 제도濟度할꼬</sent>
+<sent type="main" lang="kor" page="" n="00">백년百年을 지낸 후後에 정명일세定命一歲 감減하리니</sent>
+<sent type="main" lang="kor" page="" n="00">백년만큼 감減하여서 삼십정명三十定命 되올 때에</sent>
+<sent type="main" lang="kor" page="" n="00">긔근겁饑饉劫이 일어나니 일체一切 곡식 모도 업고 인상식人相食을 서로 하야</sent>
+<sent type="main" lang="kor" page="" n="00">칠년七年 칠월七月 이러하니 사람 인류人類 거의 업네</sent>
+<sent type="main" lang="kor" page="" n="00">이십정명二十定命 되올 때에 질병겁疾病劫이 일어나니</sent>
+<sent type="main" lang="kor" page="" n="00">맹화猛火갓튼 독毒한 병病이 편천하遍天下에 두로 하야</sent>
+<sent type="main" lang="kor" page="" n="00">칠월七月 칠일七日 지내도록 맛나는 자者 즉사卽死하니 남은 사람 얼마른고</sent>
+<sent type="main" lang="kor" page="" n="00">십세정명十歲定命 되올 때에 도병겁刀兵劫이 이러나니</sent>
+<sent type="main" lang="kor" page="" n="00">사람마다 악심惡心 내여 초목草木 와석瓦石 잡는 대로</sent>
+<sent type="main" lang="kor" page="" n="00">창검槍劍이 서로 되야 부모父母 자식子息 상살相殺하니 왼 세계世界에 죽음이라</sent>
+<sent type="main" lang="kor" page="" n="00">칠일七日을 지낸 후後에 멧 사람이 남앗든고</sent>
+<sent type="main" lang="kor" page="" n="00">이것이 소삼재小三災라 인수人壽 팔만사천세八萬四千歲가</sent>
+<sent type="main" lang="kor" page="" n="00">십세정명十歲定命 이르오면 이것은 감겁減劫이오</sent>
+<sent type="main" lang="kor" page="" n="00">다시 백년百年 지낸 후後에 정명일세定命一歲 더하옵고</sent>
+<sent type="main" lang="kor" page="" n="00">이 갓치 점증漸增하야 도로 팔만 사천八萬四千 되면 이것은 증겁增劫이라</sent>
+<sent type="main" lang="kor" page="" n="00">이십증감二十增減 지낸 후後에 칠일七日이 병출竝出하야</sent>
+<sent type="main" lang="kor" page="" n="00">사바娑婆 세계世界 백억계百億界가 일시一時에 불이 되여</sent>
+<sent type="main" lang="kor" page="" n="00">놉흔 산山과 깁흔 바다 욕계천慾界天과 색계色界 초선初禪 낫낫치 재가 되니</sent>
+<sent type="main" lang="kor" page="" n="00">그 다음에 비가 나려 초선初禪까지 물이 차서 이선천二禪天이 문허지네</sent>
+<sent type="main" lang="kor" page="" n="00">또 다시 대풍大風 부러 삼선천三禪天이 문허지니 이것은 대삼재大三災라</sent>
+<sent type="main" lang="kor" page="" n="00">이 세계世界 생긴 후後에 팔증감八增減은 이과已過호대</sent>
+<sent type="main" lang="kor" page="" n="00">부처님은 안이나고 즉금 제구第九 감겁減劫이라</sent>
+<sent type="main" lang="kor" page="" n="00">인수정명人壽定命 육만六萬 시時에 구류손불拘留孫佛 출세出世하고</sent>
+<sent type="main" lang="kor" page="" n="00">인수정명人壽定命 사만四萬 시時에 구나함불拘那含佛 출현出現하고</sent>
+<sent type="main" lang="kor" page="" n="00">인수정명人壽定命 이만二萬 시時에 가섭불迦葉佛이 출세出世하고</sent>
+<sent type="main" lang="kor" page="" n="00">우리 세존世尊 석가여래釋迦如來 대자대비大慈大悲 증승하사</sent>
+<sent type="main" lang="kor" page="" n="00">인수백세人壽百歲 정명定命 시時에 가비라국伽毘羅國 출현出現하니</sent>
+<sent type="main" lang="kor" page="" n="00">금음 칠야漆夜 어두운 밤 추공만월秋空滿月 도드신 듯</sent>
+<sent type="main" lang="kor" page="" n="00">칠년대한七年大旱 가문 때에 감로세우甘露細雨 나리신 듯</sent>
+<sent type="main" lang="kor" page="" n="00">삼백여회三百餘會 설법說法하야 도탈중생度脫衆生 하옵시고</sent>
+<sent type="main" lang="kor" page="" n="00">칠십구년七十九年 주세住世하사 이락군품利樂群品 하온 후後에</sent>
+<sent type="main" lang="kor" page="" n="00">사라쌍수沙羅雙樹 열반涅槃하니 혼구장야昏衢長夜 다시 되네</sent>
+<sent type="main" lang="kor" page="" n="00">불신佛身은 상주常住하사 본래생멸本來生滅 업건만은</sent>
+<sent type="main" lang="kor" page="" n="00">중생衆生 근기根器 차별差別 잇서 생生도 보고 멸滅도 보네</sent>
+<sent type="main" lang="kor" page="" n="00">정법상법正法像法 이천년二千年은 발서 임이 다 지내고</sent>
+<sent type="main" lang="kor" page="" n="00">계법만년季法萬年 더우잡아 팔백여세八百餘歲 이과已過하고 즉금卽今 칠십七十 정명定命이라</sent>
+<sent type="main" lang="kor" page="" n="00">사천년四千年을 또 지내여 삼십정명三十定命 도라오면</sent>
+<sent type="main" lang="kor" page="" n="00">남염부제南閻浮提 잇는 나라 십만오백十萬五百 십육국十六國에</sent>
+<sent type="main" lang="kor" page="" n="00">소삼재小三災가 일 것이니 념불念佛안코 노는 사람 설영說令 악도惡途 안이 가고</sent>
+<sent type="main" lang="kor" page="" n="00">세세생생世世生生 사람 된들 저 삼재三災를 어이 할꼬</sent>
+<sent type="main" lang="kor" page="" n="00">저 때 중생衆生 박복薄福하야 불법佛法이 업건만은</sent>
+<sent type="main" lang="kor" page="" n="00">오즉 정토淨土 미타경彌陀經이 백년百年을 더 머무사 접인중생接引衆生 하신다니</sent>
+<sent type="main" lang="kor" page="" n="00">광대廣大하다 미타彌陀 원력願力 무엇으로 비유比喩할꼬</sent>
+<sent type="main" lang="kor" page="" n="00">고인古人이 이르사되 오탁五濁이 등극登極하야 삼재겁三災劫이 갓가오니</sent>
+<sent type="main" lang="kor" page="" n="00">미타彌陀 원력願力 아니시면 사앙사고斯殃斯苦 난탈難脫이라</sent>
+<sent type="main" lang="kor" page="" n="00">이갓치 일넛스니 공포심恐怖心을 어서 내여 부지런히 념불念佛하소</sent>
+<sent type="main" lang="kor" page="" n="00">근래近來 엇든 공부인工夫人이 극락極樂 미타彌陀 따로 업서</sent>
+<sent type="main" lang="kor" page="" n="00">내 마음이 극락極樂이요 내 자성自性이 미타彌陀라고</sent>
+<sent type="main" lang="kor" page="" n="00">아만심我慢心이 공고鞏固하야 정토법淨土法을 멸시蔑視하니</sent>
+<sent type="main" lang="kor" page="" n="00">박복薄福 다장多障한 탓이라 무엇 의론議論 할 것 업네</sent>
+<sent type="main" lang="kor" page="" n="00">내 마음이 부처란들 탐진貪瞋 번뇌煩惱 구족具足하니 제불諸佛 만덕萬德 어데 잇나</sent>
+<sent type="main" lang="kor" page="" n="00">청산옥靑山玉이 보배란들 그저 두어 쓸대 잇나</sent>
+<sent type="main" lang="kor" page="" n="00">양장良匠이 어더다가 탁마琢磨하야 맹근 후後에</sent>
+<sent type="main" lang="kor" page="" n="00">온윤지덕溫潤之德 나타나서 천하天下 보긔寶器 성취成就하니</sent>
+<sent type="main" lang="kor" page="" n="00">자성불도自性佛道 이 갓하야 번뇌煩惱 무명無明 어듸 쓸꼬</sent>
+<sent type="main" lang="kor" page="" n="00">미타양장彌陀良匠 친견親見하고 만행萬行으로 탁마琢磨하야</sent>
+<sent type="main" lang="kor" page="" n="00">번뇌煩惱 띄글 제거除去하고 항사성덕恒沙性德 나타나면 자성불自性佛이 이 아닌가</sent>
+<sent type="main" lang="kor" page="" n="00">자성불自性佛에 착한 사람 인적위자認賊爲子 부대 마오</sent>
+<sent type="main" lang="kor" page="" n="00">사바세계娑婆世界 청정淸淨함이 자재천궁自在天宮 갓흔 것을 나계범왕螺髻梵王 홀로 보고</sent>
+<sent type="main" lang="kor" page="" n="00">대지大智 상덕上德 사리舍利불도 토석土石으로 보왓스니</sent>
+<sent type="main" lang="kor" page="" n="00">황어況於 우리 구박具縛 범부凡夫 임종일념臨終一念 실수失手하면</sent>
+<sent type="main" lang="kor" page="" n="00">삼악도三惡途에 포복匍匐하니 자성극락自性極樂 밋을손가</sent>
+<sent type="main" lang="kor" page="" n="00">아만심我慢心이 공고鞏固하고 하열심下劣心이 비루고卑陋故로</sent>
+<sent type="main" lang="kor" page="" n="00">놉흔 산山과 나른 구릉丘陵 험險한 세계世界 낫거니와</sent>
+<sent type="main" lang="kor" page="" n="00">내 마음이 평등平等하야 불지혜佛智慧를 의지依持하면 정토왕생淨土往生 하옵나니</sent>
+<sent type="main" lang="kor" page="" n="00">자성극락自性極樂 착한 사람 집석위보執石爲寶 부대 마오</sent>
+<sent type="main" lang="kor" page="" n="00">거룩하다 정토법문淨土法門 시방제불十方諸佛 칭찬稱讚하고 항사보살恒沙菩薩 왕생往生하네</sent>
+<sent type="main" lang="kor" page="" n="00">화엄경華嚴經과 법화경法華經은 일대一代 시교時敎 시종始終이라</sent>
+<sent type="main" lang="kor" page="" n="00">무상대도無上大道 법法이언만 극락왕생極樂往生 칭찬稱讚하며</sent>
+<sent type="main" lang="kor" page="" n="00">마명馬鳴 보살菩薩 용수龍樹 보살菩薩 제불화신諸佛化身 강적降跡하사</sent>
+<sent type="main" lang="kor" page="" n="00">정법안장正法眼藏 친전親傳하되 권생극락勸生極樂 깁히 하며</sent>
+<sent type="main" lang="kor" page="" n="00">진晋나라 혜원법사慧遠法師 반야경般若經을 들으시다 활연대오豁然大悟 하시고도</sent>
+<sent type="main" lang="kor" page="" n="00">광려산匡廬山에 결사結社하사 삼칠일三七日을 정에 들어</sent>
+<sent type="main" lang="kor" page="" n="00">미타성상彌陀聖像 친견親見하고 극락極樂으로 바로 가며</sent>
+<sent type="main" lang="kor" page="" n="00">천태산天台山 지자대사智者大師 법화삼매法華三昧 증득證得하사</sent>
+<sent type="main" lang="kor" page="" n="00">영산회상靈山會上 친견親見하고 삼관三觀을 원수圓修하야</sent>
+<sent type="main" lang="kor" page="" n="00">상품上品 왕생往生 하엿시며 해동海東 신라新羅 의상법사義湘法師</sent>
+<sent type="main" lang="kor" page="" n="00">계행戒行이 청정淸淨하사 천공天供을 밧사오되</sent>
+<sent type="main" lang="kor" page="" n="00">정토발원淨土發願 견고堅固하야 좌필서향坐必西向 하엿시며</sent>
+<sent type="main" lang="kor" page="" n="00">서역西域 동토東土 현철賢哲들이 고금古今 왕생往生 무수無數하니</sent>
+<sent type="main" lang="kor" page="" n="00">뉘가 감敢히 입을 벌려 정토법문淨土法門 폄담貶談하리</sent>
+<sent type="main" lang="kor" page="" n="00">오장왕烏藏王과 흥종興宗 황제皇帝 만긔萬機 여가餘暇 념불念佛하고 왕생발원往生發願 깁히 하며</sent>
+<sent type="main" lang="kor" page="" n="00">장한張翰과 왕시랑王侍郞은 공명功名이 현달顯達하야</sent>
+<sent type="main" lang="kor" page="" n="00">환해宦海에 처處하여도 왕생법往生法을 닥가스며</sent>
+<sent type="main" lang="kor" page="" n="00">유유민劉遺民과 주속지周續之는 처자오욕妻子五欲 다 바리고</sent>
+<sent type="main" lang="kor" page="" n="00">백련결사白蓮結社 참參례하야 두적산문杜跡山門 념불念佛하며</sent>
+<sent type="main" lang="kor" page="" n="00">도연명陶淵明 이태백李太白과 백락천白樂天 소동파蘇東坡는 만고문장萬古文章 명현名賢이라</sent>
+<sent type="main" lang="kor" page="" n="00">필봉筆鋒이 늠름凜凜하야 귀신鬼神을 울렷스되</sent>
+<sent type="main" lang="kor" page="" n="00">미타공덕彌陀功德 찬탄讚歎하고 왕생往生하긔 발원發願하며</sent>
+<sent type="main" lang="kor" page="" n="00">당唐나라에 정진正眞이와 송宋나라에 도완道完이는</sent>
+<sent type="main" lang="kor" page="" n="00">비구니比丘尼의 몸으로서 념불念佛하고 왕생往生하며</sent>
+<sent type="main" lang="kor" page="" n="00">수문후隋文侯와 진왕晋王 부인夫人 비록 재가녀인在家女人이나</sent>
+<sent type="main" lang="kor" page="" n="00">녀신보女身報를 실허 하야 지성至誠으로 념불念佛하고</sent>
+<sent type="main" lang="kor" page="" n="00">연태중蓮胎中에 남자男子 되며 파계 비구比丘 웅준雄俊이와</sent>
+<sent type="main" lang="kor" page="" n="00">도우屠牛 탄이 장선화張善和는 생전生前 죄악罪惡 만흔 고故로 지옥고地獄苦가 현저顯著러니</sent>
+<sent type="main" lang="kor" page="" n="00">임종臨終 일념一念 회심回心하고 연대중蓮臺中에 바로 가며</sent>
+<sent type="main" lang="kor" page="" n="00">풍긔豊基 땅에 아간阿干 비자婢子 삼생전三生前에 중이 되야</sent>
+<sent type="main" lang="kor" page="" n="00">건봉사乾鳳寺 만일회萬一會에 별좌別座하다 득죄得罪하고</sent>
+<sent type="main" lang="kor" page="" n="00">순흥順興 따에 암소 되야 그 죄罪를 속贖한 후後에</sent>
+<sent type="main" lang="kor" page="" n="00">삼생三生만에 비자婢子되여 미타도량彌陀道場 공급供給하고</sent>
+<sent type="main" lang="kor" page="" n="00">육신肉身 등공登空 왕생往生하니 고왕금래古往今來 살피건댄</sent>
+<sent type="main" lang="kor" page="" n="00">승속僧俗 남녀男女 현우賢愚 귀천貴賤 내지乃至 죄악罪惡 범부凡夫까지</sent>
+<sent type="main" lang="kor" page="" n="00">다만 발심發心 념불念佛하면 아니 가리 뉘 잇는가</sent>
+<sent type="main" lang="kor" page="" n="00">만경창파萬頃蒼波 널은 바다 칠백七百 유순由旬 마갈어摩竭魚와</sent>
+<sent type="main" lang="kor" page="" n="00">적은 고기 곤장이가 한 가지로 린린鱗鱗하네</sent>
+<sent type="main" lang="kor" page="" n="00">월장경月藏經에 하온 말삼 말세 중생衆生 억억인億億人이</sent>
+<sent type="main" lang="kor" page="" n="00">계행수도戒行修道 하드라도 득도得道하리 하나 업고</sent>
+<sent type="main" lang="kor" page="" n="00">념불念佛하야 구생求生하면 만불누일萬不漏一 한댓시니</sent>
+<sent type="main" lang="kor" page="" n="00">사자왕獅子王의 결정설決定說이 거짓말로 남 속일가</sent>
+<sent type="main" lang="kor" page="" n="00">연비연동蝡飛蜎動 미물微物들도 교화敎化 은혜恩惠 입는단데</sent>
+<sent type="main" lang="kor" page="" n="00">만물지중萬物之中 사람 되야 성인교화聖人敎化 못 입을까</sent>
+<sent type="main" lang="kor" page="" n="00">자맥성변紫陌城邊 양류안楊柳岸에 화류花柳하는 소년少年들아</sent>
+<sent type="main" lang="kor" page="" n="00">춘흥春興이 날지라도 꼬츨 부대 꺾지 마오</sent>
+<sent type="main" lang="kor" page="" n="00">그 꼿 밋테 독사毒蛇 잇서 손 상할까 무서워라</sent>
+<sent type="main" lang="kor" page="" n="00">무정지물無情之物 국화菊花 꼿도 봄 나뷔를 시려 하야 상강시霜降時에 숨어 피니</sent>
+<sent type="main" lang="kor" page="" n="00">행화촌杏花村 녀자女子들아 봄 꼿 되기 조와 마소</sent>
+<sent type="main" lang="kor" page="" n="00">적막공산寂寞空山 새벽 달에 슬피 우는 두견杜鵑새난</sent>
+<sent type="main" lang="kor" page="" n="00">소래마다 불려귀不如歸라 망망茫茫한 성색도중聲色道中</sent>
+<sent type="main" lang="kor" page="" n="00">사부도서捨父逃逝 공자公子들아 도라갈 길 웨 모르나</sent>
+<sent type="main" lang="kor" page="" n="00">석양夕陽 산로山路 저문 날에 천지天地 일월日月 무색無色하다</sent>
+<sent type="main" lang="kor" page="" n="00">오호嗚呼라 슬푸도다 만고萬古 호걸豪傑 남아男兒들아</sent>
+<sent type="main" lang="kor" page="" n="00">장생불사長生不死 하잿드니 어젯날 거마객車馬客이 오날 황천黃泉 고혼孤魂일세</sent>
+<sent type="main" lang="kor" page="" n="00">잠을 깨소 잠을 깨소 생사장야生死長夜 잠을 깨소</sent>
+<sent type="main" lang="kor" page="" n="00">조개도 잠든 제가 천년千年되면 깬다는데</sent>
+<sent type="main" lang="kor" page="" n="00">몃 부처님 출세出世토록 어이 엿태 아니 깨노</sent>
+<sent type="main" lang="kor" page="" n="00">대법고大法鼓를 크게 치고 생사옥문生死獄門 열엇시니 갓친 사람 어서 나소</sent>
+<sent type="main" lang="kor" page="" n="00">문을 열어 안 나오면 그 사람은 할 길 업네</sent>
+<sent type="main" lang="kor" page="" n="00">대비선大悲船을 크게 모아 차안중생此岸衆生 제도濟度하니</sent>
+<sent type="main" lang="kor" page="" n="00">선가船價 업는 행인行人들아 어서 타고 건너가세</sent>
+<sent type="main" lang="kor" page="" n="00">배을 주워 아니 타면 그 사람은 할 길 업네</sent>
+<sent type="main" lang="kor" page="" n="00">보원침익普願沈溺 제중생諸衆生은 유심정토唯心淨土 어서 가서 자성미타自性彌陀 친견親見하고</sent>
+<sent type="main" lang="kor" page="" n="00">환망지구幻妄塵垢 모든 때를 공덕수功德水에 목욕沐浴하고</sent>
+<sent type="main" lang="kor" page="" n="00">탐진貪瞋 열뇌熱惱 더운 것을 보수음寶樹陰에 휴흘休歇하고</sent>
+<sent type="main" lang="kor" page="" n="00">아귀도중餓鬼途中 주린 배를 선열식禪悅食에 포만飽滿하고</sent>
+<sent type="main" lang="kor" page="" n="00">지옥도중地獄途中 마른 목을 법희수法喜水에 해갈解渴하고</sent>
+<sent type="main" lang="kor" page="" n="00">곡향谷響 가튼 설법성說法聲에 여환삼매如幻三昧 증득證得하고</sent>
+<sent type="main" lang="kor" page="" n="00">공화空花 만행萬行 수습修習하며 수월도량水月道場 안좌安坐하야</sent>
+<sent type="main" lang="kor" page="" n="00">경상鏡像 천마天魔 항복降伏 밧고 몽중夢中 불과佛果 성취成就 후後에</sent>
+<sent type="main" lang="kor" page="" n="00">구화방편漚和方便 시설施設하야 환화중생幻化衆生 제도濟度하고</sent>
+<sent type="main" lang="kor" page="" n="00">법성토法性土 너른 따에 임운등등任運騰騰 등등임운騰騰任運 무위진락無爲眞樂 수용受用하세</sent>
+<sent type="main" lang="kor" page="" n="00">나무아미타불南無阿彌陀佛 나무관세음보살南無觀世音菩薩</sent>
+
+</doc>
+

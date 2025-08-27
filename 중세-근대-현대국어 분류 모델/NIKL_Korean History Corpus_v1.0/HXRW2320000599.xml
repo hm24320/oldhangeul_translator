@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">생육신전</title>
+<title lang="chi">生六臣傳</title>
+<fullname> </fullname>
+<generalname> </generalname>
+<abbre> </abbre>
+<volume n=""/>
+<author>미상</author>
+<date>1929</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>생륙신전 활자본 고소설전집 5권</title><!-- -->
+<pubPlace>?</pubPlace>
+<publisher>인천대학 민족문화연구소</publisher>
+<date>1983</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>1994/10/20</date>
+<respStmt>
+<resp>입력자</resp><name>박희병</name>
+</respStmt>
+<item>1~60면</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1994/11/15</date>
+<respStmt>
+<resp>교정자</resp><name>박희병</name>
+</respStmt>
+<item>교정</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1998/10</date>
+<respStmt>
+<resp>프로젝트 책임자</resp><name>김흥규</name>
+<resp>연구원</resp><name>차준경</name>
+<resp>프로그래머</resp><name>이애란</name>
+</respStmt>
+<item>파일 변환, 세종 21 프로젝트 헤더 붙임, 마킹</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>223/05/30</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>223/05/31</date>
+<respStmt>
+<resp>입력자</resp><name>이영매</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="kor" page="1" n="01">생륙신전(生六臣傳)</sent>
+<sent type="main" lang="kor" page="1" n="02">玄秀峯 著</sent>
+<sent type="main" lang="kor" page="1" n="03">리조 말엽의 긔걸(奇傑)한 일물 대원군(大院君)의 솜씨로 함부루 허러바린 각 처의 서원 가온대</sent> 
+<sent type="main" lang="kor" page="1" n="04">경상도 함안(咸安) 의 서산서원(西山書院)은 생륙신을 졔사하든 집이엿다</sent>
+<sent type="main" lang="kor" page="1" n="05">생륙신은 리조 단종(端宗)조의 여섯 신하로서 그네 성명은 조려(趙旅), 원호(元昊), 김시습(金時習), 리맹전(李孟專), 성담수(成聃壽), 남효온(南孝溫) 이러하다</sent><!--원문에서는 '성담수' 뒤의 쉼표(,)가 보이지 않음.-->
+<sent type="main" lang="kor" page="1" n="06">이 생륙신의 리력을 소개하랴면 몬서 생륙신을 낫케한 그 시대환경(環境)을 대강이나마 긔록하는 것이 순서일 것이다</sent>
+<sent type="main" lang="kor" page="1" n="07">국가라는 것이 부락(部落) 생활의 연장이니 만큼</sent>
+<sent type="main" lang="kor" page="1" n="08">추장제도(酋長制度)와 갓흔 절대권력자의 통치를 요구한 것이다</sent>
+<sent type="main" lang="kor" page="1" n="09">이에 적합한 도덕으로 동양에 잇서서는 유교(儒敎)가 발달되야 왓스니</sent>
+<sent type="main" lang="kor" page="1-2" n="10">유교의 도덕은 존비(尊卑)계급을 엄연이 규정한 것이다</sent><!--규정^한-->
+
+<sent type="main" lang="kor" page="2" n="01">신하는 군주의 예속이 되야 절대복종의 의무를 가진 것이오</sent>
+<sent type="main" lang="kor" page="2" n="02">군주는 신민의 위에 군림하야 국가통치의 절대권력을 가진 것이다</sent>
+<sent type="main" lang="kor" page="2" n="03">이와 갓흔 도덕률이 향당(鄕黨)과 가족에 잇서서도 차례로 규정되얏다 함으로</sent>
+<sent type="main" lang="kor" page="2" n="04">국가의 존재는 한사람이 좌우한다는 것을 인정하게 된다</sent>
+<sent type="main" lang="kor" page="2" n="05">이것이 군주전제 정치시대로서 혹시로는 무력(武力)을 행사한다거나</sent>
+<sent type="main" lang="kor" page="2" n="06">문화를 건설한다거나가 모다 군주의 주동력으로 발휘하는 것을 밋엇다</sent>
+<sent type="main" lang="kor" page="2" n="07">이 닭에 인간의 만은 력사는 전혀 군주 한 사람이 지배하야 왓다는 것을 아니라 하기 곤난하다</sent>
+<sent type="main" lang="kor" page="2" n="08">말하자면 리조 세종(世宗)의 삼십 여년 간은 무단(武斷)이 아니라 </sent>
+<sent type="main" lang="kor" page="2" n="09">문화를 건설하기에 힘을 기우린 것이 무론 세종의 주동력이라 하겟지마는</sent>
+<sent type="main" lang="kor" page="2" n="10">우리는 한거름을 내처 그 시대의 환경을 둘너보는 것이 더욱 필요한 것이다</sent>
+<sent type="main" lang="kor" page="2" n="11">세종조 이전의 선왕들은 무력행동을 계속하야 왓다</sent>
+<sent type="main" lang="kor" page="2" n="12">그러지 안어서는 리조를 창업할 수 업스니</sent>
+<sent type="main" lang="kor" page="2" n="13">그네는 가장 창업하기에 적당한 방법을 취한 것이다</sent>
+<sent type="main" lang="kor" page="2" n="14">리조의 창업이 완성된 뒤에 세종이 왕통을 니으니</sent>
+<sent type="main" lang="kor" page="2-3" n="15">세종의 시대는 무력이 쓸 곳 업다 하자면 문화건설이 시대의 요구임으로</sent><!--하^자면-->
+
+<sent type="main" lang="kor" page="3" n="01">그는 시대가 허락하는 문화건설에 착수하야 세계문화사(文化史)에 별갓치 반작인다</sent>
+<sent type="main" lang="kor" page="3" n="02">세종은 임금되든 이듬 해에 학술연구긔관으로 집현전(集賢殿)을 창설하고</sent>
+<sent type="main" lang="kor" page="3" n="03">학술상조예(造詣)를 가진 문신을 모아 일반학술을 연구하기에 자긔의 일생을 밧치엿다</sent>
+<sent type="main" lang="kor" page="3" n="04">세종일대의 발명한 건은 력사, 정치, 륜리, 실업, 천문, 력서(曆書)의 여러 종류 학설을 천명(闡明)한 외에</sent>
+<sent type="main" lang="kor" page="3" n="05">박연(朴堧)의 천재를 발휘하야 악긔(樂器)를 제정하고</sent>
+<sent type="main" lang="kor" page="3" n="06">장영실(蔣英實)의 의안으로 일곱 해를 연구한 결과에 옥루긔륜(玉漏機輪)을 비롯하야 혼의(渾儀), 혼상(渾象)과 앙부(仰釜), 일구(日晷)며 정시의(定時儀), 자격루(自擊漏)며</sent>
+<sent type="main" lang="kor" page="3" n="07">는 대소간의(大小簡儀)와 측우긔(測雨器)를 창조하고</sent>
+<sent type="main" lang="kor" page="3" n="08">다시 정인지(鄭麟趾), 신숙주(申叔舟), 성삼문(成三問)으로 더부러 자모(子母) 이십팔자로써 초성(初聲), 중성(中聲), 종성(終聲)을 합하야 언문을 발견하니</sent>
+<sent type="main" lang="kor" page="3" n="09">그것이 그의 사업 가온대 가장 큰 공적이엿다</sent>
+<sent type="main" lang="kor" page="3" n="10">세종은 문화사업에 힘을 기우리느니만큼</sent>
+<sent type="main" lang="kor" page="3-4" n="11">그의 성질지도 무력을 가진 사람은 실코 문화의식의 사람을 조워한다</sent><!--사람^은-->
+
+<sent type="main" lang="kor" page="4" n="01">그럼으로 그는 모든 왕자(王子)들 가온대 학술에 총명을 가진 문종(文宗)을 가장 사랑하얏스며</sent>
+<sent type="main" lang="kor" page="4" n="02">무력을 가진 수양대군(首陽大君)은 탐탁지 안엇다</sent>
+<sent type="main" lang="kor" page="4" n="03">마참내 조선을 향긔로은 동산으로 만들냐는 세종은 리조의 왕통조차 문학계통의 중심으로 하랴 하야</sent>
+<sent type="main" lang="kor" page="4" n="04">가장 문화의식이 농후한 문종의 대대로 전수하야 주랴는 것이 그의 리상(理想)이엿다</sent>
+<sent type="main" lang="kor" page="4" n="05">그리하야 일즉이 문종은 여덜살 에 왕세자를 봉하고</sent>
+<sent type="main" lang="kor" page="4" n="06">집현전에 모인 학사들과 더부러 사우(師友)의 교분을 매저 문학연구를 장려하야 온 것이다</sent>
+<sent type="main" lang="kor" page="4" n="07">그 밧게 다른 여러 왕자는 종친을 교양하는 종학(宗學)에서 교양을 밧게 하얏다</sent>
+<sent type="main" lang="kor" page="4" n="08">종학이란 것도 세종의 창설이엿다 </sent>
+<sent type="main" lang="kor" page="4" n="09">그러나 원악 성질이 활발하고 의지가 견확한 수양대군은 학술방면에 잇서서도 무경(武經)을 조어한다</sent>
+<sent type="main" lang="kor" page="4" n="10">세종은 수양대군의 긔능을 발휘하기 위하야 오위도총부(五衛都總府)에서 실습으로 무경연구를 허락하얏스나</sent>
+<sent type="main" lang="kor" page="4-5" n="11">실상인즉 태평한 시대에 임금의 집에서 무경과 갓흔 것을 연구하는 것은 부정(否定)하는 동시에 수양대군의 장래를 경계하기에 마지 안엇다.</sent><!--기에 ^ 마지-->
+
+<sent type="main" lang="kor" page="5" n="01">집현전  압헤 늙은 버드남기 봄소식을 전할 에</sent>
+<sent type="main" lang="kor" page="5" n="02">하얀가치(白鵲)가 날나와 가지 위에 집을 짓고</sent>
+<sent type="main" lang="kor" page="5" n="03">모색이 어미를 달문 색기를 첫다</sent>
+<sent type="main" lang="kor" page="5" n="04">말만은 문신들은 이것이 왕실에 큰 상서라고 드는 사람도 잇다</sent>
+<sent type="main" lang="kor" page="5" n="05">하로는 세종대왕이 어린 왕손(王孫)을 품에 품고</sent>
+<sent type="main" lang="kor" page="5" n="06">집현전  압헤 나타나 금빗치 반작이는 버들실 사이로 흰 가치가 드나드는 것을 처다보더니</sent>
+<sent type="main" lang="kor" page="5" n="07">돌연이 집현전에 모인 문신들을 도라보며</sent>
+<sent type="main" lang="kor" page="5" n="08">『왕세자는 몸이 넘어 약하야 아모래도 수(壽)는 못할테야</sent>
+<sent type="main" lang="kor" page="5" n="09">나 죽은 뒤에 만약 왕세자가 불행하거든 </sent> 
+<sent type="main" lang="kor" page="5" n="10">경(卿)네는 이 애를 잘 도아주오』하는 말을 하며</sent>
+<sent type="main" lang="kor" page="5" n="11">왕손의 에 입을 마춘다</sent>
+<sent type="main" lang="kor" page="5" n="12">문신들은 왕의 부탁을 례사로 들엇더니 </sent>
+<sent type="main" lang="kor" page="5" n="13">왕은 이해 봄에 어린 왕손으로 왕세손을 봉한다</sent>
+<sent type="main" lang="kor" page="5" n="14">왕세손이 곳 문종의 아들이엿다</sent>
+<sent type="main" lang="kor" page="5" n="15">이 뒤로 문종이 왕통을 밧으니</sent>
+<sent type="main" lang="kor" page="5" n="16">문종은 과연 몸이 약하다</sent>
+<sent type="main" lang="kor" page="5" n="17">그는 나면서부터 원긔가 왕성한 날이 별로 적엇다</sent>
+<sent type="main" lang="kor" page="5-6" n="18">문종이 임금되든 해 겨울에 병이 침중하니</sent><!--침중하^니-->
+
+<sent type="main" lang="kor" page="6" n="01">자긔도 소생이 될 희망이 업슴을 알엇든지</sent>
+<sent type="main" lang="kor" page="6" n="02">눈이 나리는 깁흔 밤에 집현전 학사들을 불너드려 술을 듸여 친히 권하며</sent>
+<sent type="main" lang="kor" page="6" n="03">룡탑(龍榻)에서 잠자는 어린 왕세자의 장래를 여러 학사에게 부탁하고</sent>
+<sent type="main" lang="kor" page="6" n="04">술이 취하야 쓰러지는 학사 몃 사람을 교예(轎輿)에 태여 숙직실(宿直室)로 내 보낼 에</sent>
+<sent type="main" lang="kor" page="6" n="05">친이 뒤를 라나가 초피(貂皮)이불로 학사들을 덥허주웟다</sent>
+<sent type="main" lang="kor" page="6" n="06">학사들은 잠이  뒤에 임금의 이불이 자긔네 몸에 덥힌 것을 닷고 감격에 넘처</sent>
+<sent type="main" lang="kor" page="6" n="07">서로 울며 임금의 부탁을 저바리지 안키로 맹세하얏다</sent>
+<sent type="main" lang="kor" page="6" n="08">마침내 문종이 죽을 에  다시 의정대신(議政大臣)의 황보인(皇甫仁), 김종서(金宗瑞)에게 어린 왕세자를 지 보호하야 주라는 유언을 하고 세상을 낫다</sent><!--원문에서는 '황보인' 뒤의 쉼표(,)가 보이지 않음.-->
+<sent type="main" lang="kor" page="6" n="00">문종의 뒤를 니여 어린 왕세자가 왕통을 밧으니</sent>
+<sent type="main" lang="kor" page="6" n="09">새 임금은 나히 겨우 열두 살이다</sent>
+<sent type="main" lang="kor" page="6" n="10">어린 임금의 주위에는 전왕의 유연을 밧은 중신들이 보호하는 한편으로</sent>
+<sent type="main" lang="kor" page="6" n="11">전왕과 교분이 두텁고 겸하야 친절한 부탁을 밧은 집현전 학사의 일단이 좌우로 협찬하게 되얏다</sent>
+<sent type="main" lang="kor" page="6-7" n="12">그러나 어린 임금의 지위는 흔들니고 마럿다</sent><!--마럿^다-->
+
+<sent type="main" lang="kor" page="7" n="01">선왕의 대대로 세밀한 주의가 잇서 나려온 것은</sent>
+<sent type="main" lang="kor" page="7" n="02">전혀 왕족의 수양대군을 위험 인물로 혐의한 닭이다</sent>
+<sent type="main" lang="kor" page="7" n="03">그러나 원악 비상한 수완을 가진 수양대군은 도리혀 선왕들이 자긔를 주의하는데 반동이 되야 어린임금이 왕통을 니은 뒤로</sent>
+<sent type="main" lang="kor" page="7" n="04">왕의 주위에 경계를 무시하고 자긔의 권력을 확장하기에 주저치 안엇다</sent>
+<sent type="main" lang="kor" page="7" n="05">수양대군은 한명회(韓明澮), 권람(權擥), 홍윤성(洪允成)의 무리 무사를 부동하야 몬저 내각을 점령하기로 하얏다</sent>
+<sent type="main" lang="kor" page="7" n="06">그러나 내각대신의 우의정 김종서는 범갓흔 장수이라</sent>
+<sent type="main" lang="kor" page="7" n="07">김종서를 살녀두고는 모든 운동이 진행될 수 업슴을 알고</sent>
+<sent type="main" lang="kor" page="7" n="08">미리 김종서를 죽여 업시 하랴 하나</sent>
+<sent type="main" lang="kor" page="7" n="09">무사들 가온대 감히 김종서에게 범수(犯手)할 자이 업다</sent>
+<sent type="main" lang="kor" page="7" n="10">한번은 수양대군이 연경(燕京)을 단녀오니</sent>
+<sent type="main" lang="kor" page="7" n="11">한명회와 권람의 말이</sent>
+<sent type="main" lang="kor" page="7" n="12">『황보인, 김종서가 안평대군(安平大君)을 부동하야 우리 일파를 해치랴 하니</sent>
+<sent type="main" lang="kor" page="7" n="13">이 일을 엇지하면 조흐랴』한다</sent>
+<sent type="main" lang="kor" page="7" n="14">수양대군은 이 말을 듯고 한참 동안은 잠자코 잇더니</sent>
+
+<sent type="main" lang="kor" page="8" n="01">『걱정업다. 저희가 무슨 일을 약속하랴면 적어도 팔구일 동안은 러야 될 터이니</sent>
+<sent type="main" lang="kor" page="8" n="02">그 안에 우리가 몬저 착수하게 된다』고 말하고는</sent>
+<sent type="main" lang="kor" page="8" n="03">밤에 수양대군이 친히 홍윤성 이하 림운(林芸), 양정(楊汀) 무사를 인솔하고</sent>
+<sent type="main" lang="kor" page="8" n="04">김종서의 집을 침입하야 김종서를 방망이로 처 죽이고</sent>
+<sent type="main" lang="kor" page="8" n="05">종서의 아들 승규(承珪)지 한 매에 려 죽이고</sent>
+<sent type="main" lang="kor" page="8" n="06">황보인도 이튼날 길가에 매목한 무사들이 려 죽엿다</sent>
+<sent type="main" lang="kor" page="8" n="07">이여서 왕 고변하야 안평대군은 강화(江華)로 차냇다</sent>
+<sent type="main" lang="kor" page="8" n="08">그리고 전내각은 반역죄로 모라 그 일파를 박멸하기로 하고</sent>
+<sent type="main" lang="kor" page="8" n="09">왕의 명령을 비러 대귈 안에 무사를 매복하고 불시에 백관을 소집하얏다</sent>
+<sent type="main" lang="kor" page="8" n="10">관원이 대궐문 드러서면 한명회가 생살부(生殺簿를) 들고서 관원의 성명을 무러 수양대군의 당파가 아닌 사람은 죄다 려 죽엿다</sent>
+<sent type="main" lang="kor" page="8" n="11">그리하야 의정대신 이하 모든 관원이 전몰이 되고</sent>
+<sent type="main" lang="kor" page="8" n="12">이여서 지방관리에게지 불이 게 되얏다</sent>
+<sent type="main" lang="kor" page="8" n="13">함길도절제사(咸吉道節制使) 리징옥(李澄玉)도 이 사건에 련루자의 혐의를 밧어 조정으로 불녀 가게 되니</sent>
+<sent type="main" lang="kor" page="8-9" n="14">리징옥은 김종서가 천거한 사람임으로 조정에 드러서면 죽음을 면치 못할 줄 알고</sent><!--드러^서면-->
+
+<sent type="main" lang="kor" page="9" n="01">곳 반긔(反旗)를 드러 쳬임(遞任)된 박호문(朴好問)을 려 죽이고</sent>
+<sent type="main" lang="kor" page="9" n="02">군마를 지휘하야 오국성(五國城)을 점령한 뒤에 장차 서울로 처드러 가랴 하니</sent>
+<sent type="main" lang="kor" page="9" n="03">리징옥은 심을네살 된 젊은 장수엿다</sent>
+<sent type="main" lang="kor" page="9" n="04">그는 본래 량산(梁山) 사람으로서 그가 집에서 클 에</sent>
+<sent type="main" lang="kor" page="9" n="05">한번은 그 모친이 산도야지(生山豕)를 보여 달나고 그와 그의 형 징석(澄石)에게 부탁한다</sent>
+<sent type="main" lang="kor" page="9" n="06">모친의 명령을 밧은 두 아들은 활을 메고 집을 나서니</sent>
+<sent type="main" lang="kor" page="9" n="07">형은 열여덜 살이오</sent>
+<sent type="main" lang="kor" page="9" n="08">아우는 열네 살이다</sent>
+<sent type="main" lang="kor" page="9" n="09">형은 그날 바로 산도야지 한마리를 활로 쏘아 잡아 가지고 집으로 도라오니</sent>
+<sent type="main" lang="kor" page="9" n="10">모친은 반겨하얏다</sent>
+<sent type="main" lang="kor" page="9" n="11">그러나 아우 징옥은 날이 젊으러도 도라오지 안터니</sent>
+<sent type="main" lang="kor" page="9" n="12">이틀이 지난 뒤에 모친의 압헤 나타난다</sent>
+<sent type="main" lang="kor" page="9" n="13">모친은 징옥이 빈손으로 드러옴을 보고</sent>
+<sent type="main" lang="kor" page="9" n="14">『남들이 말하기를 네 용력(勇力)이 네 형만 못하다 하더니</sent>
+<sent type="main" lang="kor" page="9" n="15">참 그러코나</sent>
+<sent type="main" lang="kor" page="9" n="16">네형은 그날 도야지를 잡어왓는데</sent>
+<sent type="main" lang="kor" page="9" n="17">너는 이틀이나 잇다가 빈손으로 왓느냐』</sent>
+<sent type="main" lang="kor" page="9" n="18">징옥은 모친의 하는 말을 듯고</sent>
+
+<sent type="main" lang="kor" page="10" n="01">『그만두시고 문 밧게 나가 보시오』하며</sent>
+<sent type="main" lang="kor" page="10" n="02">그 모친을 인도하야 문 밧게 나가니</sent>
+<sent type="main" lang="kor" page="10" n="03">문 밧 마당가에 큰 산도야지 한 마리가 누어서 눈을 적이며 배가 들석들석 숨을 쉰다</sent>
+<sent type="main" lang="kor" page="10" n="04">징옥은 산도야지를 살게 잡어서 그 어머니의 원한대로 보여주기 위하야</sent>
+<sent type="main" lang="kor" page="10" n="05">활도 쏘지 안코 이틀동안을 차 단여서 도야지가 긔운이 진 뒤에 집으로 몰고 온 것이다</sent>
+<sent type="main" lang="kor" page="10" n="06">그가 한번은 길가에 젊은 마누라님이 안저서 슯히 통곡하는 것을 보고 우는 리유를 무르니</sent>
+<sent type="main" lang="kor" page="10" n="07">마누라님이 대답이</sent>
+<sent type="main" lang="kor" page="10" n="08">『아 내 남편을 무러간 범이 지금 이 대밧(竹林) 속에 잇슴니다』한다</sent>
+<sent type="main" lang="kor" page="10" n="09">이 말을 들은 징옥은</sent>
+<sent type="main" lang="kor" page="10" n="10">『그게 무슨 소리요』하며</sent>
+<sent type="main" lang="kor" page="10" n="11">팔을 리대며 대밧 속으로 차 드러가드니</sent>
+<sent type="main" lang="kor" page="10" n="12">손으로 범의 목을 움켜잡고 칼을 내여 범의 배를 타니</sent>
+<sent type="main" lang="kor" page="10-11" n="13">배속에 드러간 사람의 고기가 아즉 삭지 안엇다</sent><!--삭^지-->
+
+<sent type="main" lang="kor" page="11" n="01">마누라님을 불너 그 남편의 고기를 치마자락에 묵거 싸라 하고</sent>
+<sent type="main" lang="kor" page="11" n="02">범의 가족을 벗겨 마누라님을 주니</sent>
+<sent type="main" lang="kor" page="11" n="03">마누라님은 고맙다는 치하를 하나</sent>
+<sent type="main" lang="kor" page="11" n="04">징옥은 그 말에 대답도 안고 지나갓다</sent>
+<sent type="main" lang="kor" page="11" n="05">그는 일즉이 리혼(離婚)한 일이 잇다</sent>
+<sent type="main" lang="kor" page="11" n="06">그 리혼은 안해가 즐겨한 노릇이엿다</sent>
+<sent type="main" lang="kor" page="11" n="07">그 후로 징옥은 무과(武科)장원을 하고</sent>
+<sent type="main" lang="kor" page="11" n="08">열여덜 살에 령남절도사(嶺南節度使)로 나려가니</sent>
+<sent type="main" lang="kor" page="11" n="09">리혼된 안해가 그 동안에 다른 남편을 엇어서 그 지방 내에서 산다</sent>
+<sent type="main" lang="kor" page="11" n="10">징옥은 령남도 내에 련합산양을 붓처 가지고</sent>
+<sent type="main" lang="kor" page="11" n="11">안해의 후부(後夫)의 집 압헤서 산양을 하야 잡은 즘생 수백 마리를 죄다 그 후부를 불너 주엇다</sent>
+<sent type="main" lang="kor" page="11" n="12">그 후로 그는 강계부사(江界府使)로 잇더니</sent>
+<sent type="main" lang="kor" page="11" n="13">김종서가 북도에서 륙진(六鎭)을 개쳑할 에</sent>
+<sent type="main" lang="kor" page="11" n="14">그를 북도로 이직을 식여 개쳑사업에 갓치 힘쓰다가</sent>
+<sent type="main" lang="kor" page="11" n="15">김종서가 조정으로 도라갈 에</sent>
+<sent type="main" lang="kor" page="11" n="16">그를 자긔의 후임으로 맛기고 간 것이다</sent>
+<sent type="main" lang="kor" page="11" n="17">지금은 조정이 세조의 무대(舞臺)가 되야 김종서 이하 뭇 대관이 전멸이 되는 에</sent>
+<sent type="main" lang="kor" page="11" n="18">리징옥이 반긔를 든 것은 그의 인격상 피치 못할 경우엿다</sent>
+<sent type="main" lang="kor" page="11" n="19">리징옥은 다시 계획을 변경하야</sent>
+
+<sent type="main" lang="kor" page="12" n="01">조선을 바리고 녀진(女眞)지방으로 건너가 황제가 되랴는 을 다</sent>
+<sent type="main" lang="kor" page="12" n="02">그리하야 대금황제(大金皇帝)라는 칭호로써 격문(檄文)을 미여서 녀진지방에 날니고</sent>
+<sent type="main" lang="kor" page="12" n="03">군마를 동하야 두만강(豆滿江)을 건느랴고 종성(鍾城)에 이르니</sent>
+<sent type="main" lang="kor" page="12" n="04">종성부사 정종(鄭種)이 리징옥을 만류한다</sent>
+<sent type="main" lang="kor" page="12" n="05">『대군이 밤에 강을 건느는 것은 군사상에 이롭지 못하니 밝는 날 나라』 하는 것이다</sent>
+<sent type="main" lang="kor" page="12" n="06">리징옥은 의심업시 군마를 머물고 종성서 밤을 지내더니</sent>
+<sent type="main" lang="kor" page="12" n="07">밤이 깁흔 뒤에 돌연이 천졍(天井)으로부터 무사 세 사람이 장검(長釼)을 들고 나타나 리징옥을 친다</sent>
+<sent type="main" lang="kor" page="12" n="08">리징옥은 잠에 놀나 이러나며 장검을 밧으니</sent>
+<sent type="main" lang="kor" page="12" n="09">이믜 무사의 칼이 왼손을 엇다</sent>
+<sent type="main" lang="kor" page="12" n="10">징옥은 한손을 일코</sent>
+<sent type="main" lang="kor" page="12" n="11">오른편 손을 사용하야 무사 세 사람을 죽이고</sent>
+<sent type="main" lang="kor" page="12" n="12">문 밧게 내다러 무사의 무리 수백을 죽엿스나</sent>
+<sent type="main" lang="kor" page="12" n="13">마참내 정종의 군사에게 죽고 마럿다</sent>
+<sent type="main" lang="kor" page="12" n="14">당초에 정종이 리징옥을 만류한 것은 리징옥을 잡어 자긔의 공을 세우랴는 간계엿다</sent>
+<sent type="main" lang="kor" page="12" n="15">수양대군는 전내각을 전복한 뒤에</sent>
+<sent type="main" lang="kor" page="12-13" n="16">자긔가 령의정(領義正)이 되야 내외병마 도통사(內外兵馬都統使)를 겸임하고</sent><!--도^통사-->
+
+<sent type="main" lang="kor" page="13" n="01">정난(靖難)공신을 모아 잔치를 하든 날</sent>
+<sent type="main" lang="kor" page="13" n="02">전대신 허주(許稠)의 아들 허허(許詡)가 잔치에 참예하야 눈물을 흘니며</sent>
+<sent type="main" lang="kor" page="13" n="03">『조정의 원로가 다 죽엇스니 엇지 참아 고기를 먹으랴』 하는 말을</sent>
+<sent type="main" lang="kor" page="13" n="04">한 혐의로 적소(謫所)로 구양을 가서 죽엇다</sent>
+<sent type="main" lang="kor" page="13" n="05">조정은 리징옥의 란이 잇슨 뒤로</sent>
+<sent type="main" lang="kor" page="13" n="06">국경 방비를 더욱 엄밀이 하야 자성(慈城)으로 국계를 정하고</sent>
+<sent type="main" lang="kor" page="13" n="07">국경을 넘어 료동(遼東)으로 이주하는 인민을 금지하얏다</sent>
+<sent type="main" lang="kor" page="13" n="08">그 동안에 안평대군은 좌의정 정린지의 소청(疏請)으로</sent>
+<sent type="main" lang="kor" page="13" n="09">그 아들 우직(友直과) 함 사형을 밧엇다</sent>
+<sent type="main" lang="kor" page="13" n="10">그러나 수양대군의 욕망은 한 거름을 더나가 왕위를 앗기로 하야</sent>
+<sent type="main" lang="kor" page="13" n="11">이듬해 윤류월(閏六月)에 어린 임금 단종은 태상왕(太上王)으로 봉하야 창덕궁(昌德宮)으로 보내고</sent>
+<sent type="main" lang="kor" page="13" n="12">자긔가 왕통을 아스니</sent>
+<sent type="main" lang="kor" page="13" n="13">이가 세조(世祖)대왕이다</sent>
+<sent type="main" lang="kor" page="13" n="14">세조는 임금이 되면서 곳 원자로 왕세자를 책봉하고</sent>
+<sent type="main" lang="kor" page="13" n="15">의장병(儀仗兵)을 푸러 정궁과 동궁(東宮)을 수직한다</sent>
+<sent type="main" lang="kor" page="13-14" n="16">그리고 상왕과 긔맥을 통하는 금성대군(錦城大君) 이하 화의군(和義君), 한남군(漢南君), 영풍군(永豐君)을 모다 적소(謫所)로 보내여 안치(安置)한디</sent><!--한^남군-->
+
+<sent type="main" lang="kor" page="14" n="01">그러니 오히려 상왕의 등 뒤에는 선왕의 부탁을 밧어온 집현전 학사들이 잇서 상왕복위(上王復位)의 긔회를 엿보고 잇다</sent>
+<sent type="main" lang="kor" page="14" n="02">이 해에 명나라 사신이 나와 궐내에서 사신 접대하는 잔치를 열고</sent>
+<sent type="main" lang="kor" page="14" n="03">문무관원이 모일 에 식장이 협착한 관계로</sent>
+<sent type="main" lang="kor" page="14" n="04">무관들의 운검(雲釼)을 금지하얏더니</sent>
+<sent type="main" lang="kor" page="14" n="05">무관 가온대 셩승(成勝)과 유응부(兪應孚)의 무리가 운검을 차고 드러서다가</sent>
+<sent type="main" lang="kor" page="14" n="06">대신 한명회와 말닷툼이 되얏다</sent>
+<sent type="main" lang="kor" page="14" n="07">이 일이 잇슨 뒤로 세조는 성승의 일파를 주목하더니</sent>
+<sent type="main" lang="kor" page="14" n="08">집현전 학사이고 성균관사예(成均館司藝)인 김질(金礩)의 입으로 고변을 하니</sent>
+<sent type="main" lang="kor" page="14" n="09">그 고변은 집현전 학사들이 무관 몃 사람을 부동하야 상왕복위의 운동을 한다는 것이다</sent>
+<sent type="main" lang="kor" page="14" n="10">세조는 김질의 고변을 밧고 집현전 학사의 성삼문, 박팽년(朴彭年)을 비롯하야 친이 국문을 개시하고 상왕복위의 음모를 발각하니</sent>
+<sent type="main" lang="kor" page="14" n="11">이 사건이 확대되야 여러 사람이 죽엇다</sent>
+<sent type="main" lang="kor" page="14" n="12">여러 사람이 죽은 가온대 특별이 여섯 사람을 지목하야 사륙신(死六臣)이라 전하니</sent>
+<sent type="main" lang="kor" page="14-15" n="13">사륙신은 성삼문, 박팽년, 리개(李塏), 하위지(河緯地), 류성원(柳誠源), 유응부(兪應孚)엿다</sent><!--하위지 ^ 류성원--><!--원문에서는 '하위지' 뒤의 쉼표(,)가 보이지 않음.-->
+
+<sent type="main" lang="kor" page="15" n="01">이 여섯 사람의 가족을 비롯하야 련루자 일단이 함 묵겨 사형장으로 나갈 에</sent>
+<sent type="main" lang="kor" page="15" n="02">신숙주(申叔舟)는 갓흔 집현전 학사로서 선왕들이 어린 임금을 보호하야 주라 하는 부탁을 가치 밧은 터이라</sent>
+<sent type="main" lang="kor" page="15" n="03">그 가족들은 신숙주도 이번 사건에 사형을 밧을 줄로 알엇다</sent>
+<sent type="main" lang="kor" page="15" n="04">그 부인은 자긔 남편도 사형장으로 나가는 것을 보랴고 길거리에 나서서 사형장으로 나가는 죄수를 보고 섯더니</sent>
+<sent type="main" lang="kor" page="15" n="05">밧게 자긔 남편은 사형을 면하게 되얏다</sent>
+<sent type="main" lang="kor" page="15" n="06">사형만 면할  아니라</sent>
+<sent type="main" lang="kor" page="15" n="07">사형장으로 나가는 죄수의 뒤를 라 초헌(軺軒)을 타고 나간다</sent>
+<sent type="main" lang="kor" page="15" n="08">부인은 자긔 남편이 세조에게 굴복한 줄을 알고 욕지기가 나게 분하야 자긔 남편의 얼골을 향하야 침을 배앗고 도라섯다</sent>
+<sent type="main" lang="kor" page="15" n="09">신숙주는 자긔 부인이 자긔를 타매함을 보고 얼골이 확근하얏지만 사형장으로 단여와 자긔의 부인 압헤</sent>
+<sent type="main" lang="kor" page="15" n="10">『여덜 룡이 잇스니 엇지할 수 업다』는 사과를 하니</sent>
+<sent type="main" lang="kor" page="15" n="11">여덜 룡이란 것은 자긔의 아들이 여덜이라는 말이엿다</sent>
+<sent type="main" lang="kor" page="15" n="12">세조는 상왕복위의 일파를 박멸한 뒤에 </sent>
+<sent type="main" lang="kor" page="15-16" n="13">집현전에 훼철하고 집현전에 잇는 서책은 홍문관으로 음기엿다</sent><!--서^책-->
+
+<sent type="main" lang="kor" page="16" n="01">상왕복위운동이 실패된 뒤에 상왕은 로산군(魯山君)으로 강봉(降封)이 되야 녕월(寧越)로 오니</sent>
+<sent type="main" lang="kor" page="16" n="02">녕월은 깁흔 산 속에 뭇처잇는 조그만 고을이다</sent>
+<sent type="main" lang="kor" page="16" n="03">사방으로 교통이 극히 곤난한 지방이라</sent>
+<sent type="main" lang="kor" page="16" n="04">이곳에 드러와 하로 밤을 자고 가는 사람이면 하로밤 옥사리(獄生活)를 하는 것과 다름이 업는 고을이다</sent>
+<sent type="main" lang="kor" page="16" n="05">인저 겨우 열일곱 살이 된 어린임금이 이와 갓치 궁벽한 산 속에서 장래의 만은 날을 엇지 보내랴는지 가엽슨 일이다</sent>
+<sent type="main" lang="kor" page="16" n="06">억울하게도 하로 아침에 제왕의 영광을 앗기고</sent>
+<sent type="main" lang="kor" page="16" n="07">우중충한 산 속에서 외로은 그림자를 대상으로 하야 그날그날을 보내기는 넘어나 애차로은 일이다</sent>
+<sent type="main" lang="kor" page="16" n="08">누가 다시 로산군을 도라보랴</sent>
+<sent type="main" lang="kor" page="16" n="09">설혹 잇다 하야도 그네게는 긔회가 허락지 아니하리라</sent>
+<sent type="main" lang="kor" page="16" n="10">그 동안에 그가 그 지방에 잇서서 정든 무엇이 잇다하면 거츤 숩풀 속에 뭇처 잇는 자규루(子規樓)일 것이다</sent>
+<sent type="main" lang="kor" page="16" n="11">화려한 대궐 속에서 생장한 그는 이곳에 잇슨 뒤로</sent>
+<sent type="main" lang="kor" page="16" n="12">황량(荒涼)한 자규루를 밤으로 낫으로 차저간다</sent>
+<sent type="main" lang="kor" page="16-17" n="13">오즉 그의 심회를 위로하는 것은 다 퇴락하야가는 자규루이다</sent><!--위^로하는-->
+
+<sent type="main" lang="kor" page="17" n="01">그러나 자규루의 밤은 도리혀 그를 괴롭게 한다</sent>
+<sent type="main" lang="kor" page="17" n="02">밤이면 자규루가 두견새 소리에 잠겨잇는 닭이다</sent>
+<sent type="main" lang="kor" page="17" n="03">달 밝은 밤에 두견새 우니(月白夜蜀魄 啾)</sent>
+<sent type="main" lang="kor" page="17" n="04">근심을 고 다락머리 섯도다(含愁情依樓頭)</sent>
+<sent type="main" lang="kor" page="17" n="05">네 소리가 괴로음으로 나 듯기에 슯흐니(爾聲苦我聞悲)</sent>
+<sent type="main" lang="kor" page="17" n="06">네 소리가 업스면 내 슯흠도 업스리라(無爾聲無我愁)</sent>
+<sent type="main" lang="kor" page="17" n="07">인간에 괴로음이 잇는 사람이여든(寄語人間苦勞人)</sent>
+<sent type="main" lang="kor" page="17" n="08">부대 느진 봄 자규루에는 오르지 말나하오(愼莫登春三月子規樓)</sent>
+
+<sent type="main" lang="kor" page="18" n="01">이 노래가 어린 임금이 자규루에서 부른 시가(詩歌)이다</sent>
+<sent type="main" lang="kor" page="18" n="02">자규루의 두견새 소리가 그에게는 한업시 슯히 들녓든 것이다</sent>
+<sent type="main" lang="kor" page="18" n="03">세조는 로산군과 긔 맥을 통한 사람들에게지 서로 교통을 착란케하기 위하야</sent>
+<sent type="main" lang="kor" page="18" n="04">삭녕(朔寧)에 적거(謫居)하는 금성대군은 순흥(順興)으로 옴기고</sent>
+<sent type="main" lang="kor" page="18" n="05">연안(延安)에 적거하는 화의군(和義君)은 금산(錦山)으로 옴기고</sent>
+<sent type="main" lang="kor" page="18" n="06">아산(牙山)에 적거하는 한남군(漢南君)은 함양(咸陽)으로 옴기고</sent>
+<sent type="main" lang="kor" page="18" n="07">수원(水原)에 적거하는 영풍군(永豐君)은 임실(任實)로 옴겻다</sent>
+<sent type="main" lang="kor" page="18" n="08">그러나 이 속으로부터 상왕의 복위운동은 다시 시작되얏다</sent>
+<sent type="main" lang="kor" page="18" n="09">금성대군이 순흥으로 온 뒤에 순흥부사 리보흠(李甫欽)과 공모하고</sent>
+<sent type="main" lang="kor" page="18" n="10">남중(南中)의 유력한 인물을 망라하야 상왕복위의 계획을 진행한다</sent>
+<sent type="main" lang="kor" page="18" n="11">최종으로 이번에 열닌 운동이 어린 임금에게 대하야 화복을 결정할 것은 무론이다</sent>
+<sent type="main" lang="kor" page="18" n="12">하나 시대가 세조의 시대인 만큼 이네 계획은 실패하고 마럿다</sent>
+<sent type="main" lang="kor" page="18" n="13">순흔사건이 발각되야 금성대군은 안동옥(安東獄에)서 죽이든날</sent>
+<sent type="main" lang="kor" page="18-19" n="14">순흥에서는 남중의 련루자를 일시에 사형을 집행하야 죽계(竹溪) 세내물이 붉엇다한다</sent><!--붉^엇다-->
+
+<sent type="main" lang="kor" page="19" n="01">세조는 집현전 학사를 비롯하야 상왕복위파를 죽일 마다 악몽(惡夢)을 더니</sent>
+<sent type="main" lang="kor" page="19" n="02">이번에는 악몽을  이튼날 왕세자가 죽는다</sent>
+<sent type="main" lang="kor" page="19" n="03">세조는 다시 둘재 원자로 세자를 책봉하얏다</sent>
+<sent type="main" lang="kor" page="19" n="04">그러나 녕월의 로산군이 살어잇는 동안은 왕위를 안전이 누리기에 불안을 느지 안을 수 업다</sent>
+<sent type="main" lang="kor" page="19" n="05">최종으로 세조는 로산군에게 교형을 처분하니</sent>
+<sent type="main" lang="kor" page="19" n="06">세조 이년 정축(丁丑) 동시월 이십사일(冬十月二十四日)에 로산군의 사형이 집향되얏다</sent>
+<sent type="main" lang="kor" page="19" n="07">신세가 외롭든 어린 임금의 말로는 생명이 교수대(絞首臺)에서 사러지니</sent>
+<sent type="main" lang="kor" page="19" n="08">시체는 강물에 여 바린다</sent>
+<sent type="main" lang="kor" page="19" n="09">어린 임금의 시체가 강물에 단이나</sent>
+<sent type="main" lang="kor" page="19" n="10">세조의 천하에서 누가 감히 거더가는 사람이 업드니</sent>
+<sent type="main" lang="kor" page="19" n="11">시체는 마참내 그 지방사람 엄흥도(嚴興道)의 손을 거처  속에 무치게 되얏다</sent>
+<sent type="main" lang="kor" page="19" n="12">엄흥도는 녕월 고을의 호장(戶長)이다</sent>
+<sent type="main" lang="kor" page="19" n="13">원통이 죽은 어린 임금의 시체를 강물에 움을 보고 분개하야</sent>
+<sent type="main" lang="kor" page="19-20" n="14">집으로 도라와 시체를 감장할 렴습(斂襲)제구와 관곽을 작만하니</sent><!--관^곽을-->
+
+<sent type="main" lang="kor" page="20" n="01">가족들은 겁을 내여</sent>
+<sent type="main" lang="kor" page="20" n="02">『뒤ㅅ일이 엇지 될지 모른다』고 한사하고 만류하는 말에 엄홍도는</sent>
+<sent type="main" lang="kor" page="20" n="03">『오른 일을 행하다가 화를 당하는 것는 겁날 것이 업다』고 대답하며</sent>
+<sent type="main" lang="kor" page="20" n="04">강으로 나가 어린 임금의 시체를 거두어 가지고</sent>
+<sent type="main" lang="kor" page="20" n="05">홀로 매장할 곳을 차저 단이나</sent>
+<sent type="main" lang="kor" page="20" n="06">사면에 눈이 길로 싸여  팔 곳이 업다</sent>
+<sent type="main" lang="kor" page="20" n="07">엄흥도는 시체를 등에 업은 채로 눈구덩이에서 헤매드니</sent>
+<sent type="main" lang="kor" page="20" n="08">산모통이 양지(陽地) 에서 노루 한마리가 튀여 다러난다</sent>
+<sent type="main" lang="kor" page="20" n="09">노루가 누엇든 자리는 눈이 녹은 잔디밧이다</sent>
+<sent type="main" lang="kor" page="20" n="10">흥도는 이곳에 시체를 매장한 뒤에</sent>
+<sent type="main" lang="kor" page="20" n="11">집에 드러가 그 아들 호현(好賢)을 이고 몸을 피하야 사방으로 류리하다가 길에서 죽엇다</sent>
+<sent type="main" lang="kor" page="20" n="12">흥도가 죽으니 그 아들 호현이 붓친의 시체를 운반하야 고향으로 드러와서 남 모르게 장사하얏다</sent>
+<sent type="main" lang="kor" page="20-21" n="13">그후 이백 여년이 지나 영종(英宗)시대에 이르러 조정으로부터 엄흥도의 집에 정문(旌門)을 세우고</sent><!--집^에-->
+
+<sent type="main" lang="kor" page="21" n="01">엄흥도를 제사할 에 그 축문(祝文)에는 아래와 갓흔 말이 긔록되엿다</sent>
+<sent type="main" lang="kor" page="21" n="02">세상에는 엇지 충신과 렬사가 업스랴 마는</sent>
+<sent type="main" lang="kor" page="21" n="03">정축(丁丑)년의 충렬과 갓튼 이가  어듸잇스랴. 슯흐다</sent>
+<sent type="main" lang="kor" page="21" n="04">그 에 엇지 도신(道臣)이 업섯스며 수령(守令)이 업섯스랴마는</sent>
+<sent type="main" lang="kor" page="21" n="05">한 고을의 호장으로서 능히 큰 절(大節)을 세우니 슯흐다</sent>
+<sent type="main" lang="kor" page="21" n="06">저ㅣ륙신들은 마음을 기우릴 만한 리유가 잇섯지마는</sent>
+<sent type="main" lang="kor" page="21" n="07">녕월의 호장으로서 무슨 요구가 잇스며</sent>
+<sent type="main" lang="kor" page="21" n="08">무슨 희망이 잇기에 가족들의 만류하는 것도 도라보지 안코 대담하게 이 일을 실행하얏스니</sent>
+<sent type="main" lang="kor" page="21" n="09">이는 순연한 적심(赤心)에서 나온 일일 것이다</sent>
+<sent type="main" lang="kor" page="21" n="10">전고에 듬은 일이니 그의 의렬은 백세에 류전(流傳)하리라</sent>
+<sent type="main" lang="kor" page="21" n="11">이는 우암(尤庵) 송시렬(宋時烈)의 지은 축문이라 전한다</sent>
+<sent type="main" lang="kor" page="21" n="12">세조가 왕위를 보전하게 된 것은 권람의 계획으로 발단이 되야 정린지(鄭璘趾)가 결과를 지엿다는 것이다</sent>
+<sent type="main" lang="kor" page="21-22" n="13">세조의 정사공신(定社功臣)으로 의정대신이 된 신숙주는 단종이 피살된 에</sent><!--의정부대신이 ^ 된-->
+
+<sent type="main" lang="kor" page="22" n="01">단종 왕비 송시(宋氏)를 비자(婢子)로 복역을 식이자는 의견지 세조 말하얏스나</sent>
+<sent type="main" lang="kor" page="22" n="02">세조는 이 말을 즐겨 듯지 안엇다</sent>
+<sent type="main" lang="kor" page="22" n="03">단종 일대를 통히야 제 임금을 위하야 죽고 구양가고</sent>
+<sent type="main" lang="kor" page="22" n="04">일생을 그릇친 사람이 그 수효를 헤일 수 업시 만타는 것이다</sent>
+<sent type="main" lang="kor" page="22" n="05">그 후 광해조(光海朝) 에 그  죽은 사람의 성명만 적어보는데</sent>
+<sent type="main" lang="kor" page="22" n="06">비단 여덜 폭에다 사륙신(死六臣), 륙종영(六宗英), 오의척(五懿戚 ), 삼재(三宰), 삼운검(三雲劒)을 비롯하야 가는 글시로 적어 나가다가</sent><!--원문에서는 '륙종영'과 '오의척' 뒤의 쉼표(,)가 모두 보이지 않음.-->
+<sent type="main" lang="kor" page="22" n="07">궁인 궁비(宮人宮婢)와 갓튼 련루자(連累者의) 성명은 못다 적엇다 한다</sent>
+<sent type="main" lang="kor" page="22" n="08">예서는 다만 세상에서 전하야 오는 생륙신의 래력을 소개하랴는 것이 이 책의 본의 임으로</sent>
+<sent type="main" lang="kor" page="22" n="09">다음부터는 생륙신의 일을 대강 긔록하고 류종영의 일을 부록으로 하는 것이다</sent>
+<sent type="title3" lang="kor" page="22" n="00">조려(趙旅)</sent>
+
+<sent type="main" lang="kor" page="23" n="01">조려는 본관(本貫)이 함안(咸安)이니 자는 주옹(主翁)이오</sent>
+<sent type="main" lang="kor" page="23" n="02">탁호는 어계(漁溪)다</sent>
+<sent type="main" lang="kor" page="23" n="03">단종 계유(癸酉)에 진사로 혀 물망이 놉흠으로 일반은 그의 장래를 긔대하얏스나</sent>
+<sent type="main" lang="kor" page="23" n="04">그는 돌연이 서울을 나 본집으로 나려갓다</sent>
+<sent type="main" lang="kor" page="23" n="05">그리자 단종의 조정은 흔들니기 시작하야 의정대신의 김종서(金宗瑞), 황보인(皇甫仁)의 일파가 피살되고</sent><!--원문에서는 '김종서' 뒤의 쉼표(,)가 보이지 않음.-->
+<sent type="main" lang="kor" page="23" n="06">수양대군이 령의정이 된 뒤로</sent>
+<sent type="main" lang="kor" page="23" n="07">그는 과거를 폐하고 다시 세상에 나서지 안엇다</sent>
+<sent type="main" lang="kor" page="23" n="08">다만 집에 잇서 문을 닷고 지내엿다</sent>
+<sent type="main" lang="kor" page="23" n="09">집안이 극히 간구하나 양친(養親)은 자미롭게 하얏스며</sent>
+<sent type="main" lang="kor" page="23" n="10">조상의 제사는 주문공(朱文公)의 가례(家禮)를 조차 그대로 시행하얏다</sent>
+<sent type="main" lang="kor" page="23" n="11">왼종일 단정이 안저서 글 닑는 것이 그의 버릇이오</sent>
+<sent type="main" lang="kor" page="23" n="12">누가 차저오면 그의 담화는 한갓 나무 심 삼(麻)가는 농사 경험담에 지나지 못한다</sent>
+<sent type="main" lang="kor" page="23" n="13">그리고 그의 행동에 잇서서는 당연이 행할 일을 행하얏고</sent>
+<sent type="main" lang="kor" page="23" n="14">과격한 정렬의 충동과 갓흔 것은 절대로 제지하는 성질이다</sent>
+<sent type="main" lang="kor" page="23" n="15">말히자면 그의 성질은 극히 간솔하고 절개를 굿게 갓는 사람이다</sent>
+<sent type="main" lang="kor" page="23" n="16">그럼으로 그의 친지들 사이에도 그는 다만 부모에게 효도하고</sent>
+<sent type="main" lang="kor" page="23-24" n="17">모든일에 온자하다는 평판을 밧을 이다</sent><!--평판^을-->
+
+<sent type="main" lang="kor" page="24" n="01">그러나 그의 시(詩) 가온대 제 임금에게 충성을 다하야 깁흔 산 속으로 드러가</sent>
+<sent type="main" lang="kor" page="24" n="02">고비(薇)캐 먹다 굴머 죽은 백이(伯夷)의 정조를 가 농후하게 나타내는 것만이</sent>
+<sent type="main" lang="kor" page="24" n="03">그의 일관한 충심의 표현이엿다</sent>
+<sent type="main" lang="kor" page="24" n="04">그의 사든 곳은 정암강(鼎岩姜)가이니</sent>
+<sent type="main" lang="kor" page="24" n="05">백이산(白頭山)과 거리가 천리를 격하야 항상 백이산을 바라보며 엇더한 명상에 잠겨잇섯다</sent>
+<sent type="main" lang="kor" page="24" n="06">그의 시는 김시습(金時習)과 동일한 정조를 엿다는 것이 지금에도 인정한다</sent>
+<sent type="title3" lang="kor" page="24" n="07">원호(元昊)</sent>
+<sent type="main" lang="kor" page="24" n="08">원호의 본관은 원주(原州)오</sent>
+<sent type="main" lang="kor" page="24" n="09">호는 무항(霧巷)이다</sent>
+<sent type="main" lang="kor" page="24" n="10">세종 계묘(癸卯)에 문과(文科) 장원을 하고 집현전에 혀 드러가 직제학(直提學)으로 잇더니</sent>
+<sent type="main" lang="kor" page="24" n="11">수양대군이 어린 임금을 폐위식이고</sent>
+<sent type="main" lang="kor" page="24-25" n="12">왕위를 아슬 에 그는 벼살을 바리고 원주 고향으로 나려갓다</sent><!--원주 ^ 고향-->
+
+<sent type="main" lang="kor" page="25" n="01">원호가 조정을 난 뒤에</sent>
+<sent type="main" lang="kor" page="25" n="02">집현전 학사들이 어린 임금의 복위(復位)를 계획하다가 일이 발각되야</sent>
+<sent type="main" lang="kor" page="25" n="03">성삼문, 박팽년의 일파가 화를 당하고</sent>
+<sent type="main" lang="kor" page="25" n="04">어린 임금 단종은 녕월로 낫다</sent>
+<sent type="main" lang="kor" page="25" n="05">원호는 단종이 녕월로 온 뒤로</sent>
+<sent type="main" lang="kor" page="25" n="06">녕월지방으로 드러가 물가에 돌집(石室)을 짓고 거처하며</sent>
+<sent type="main" lang="kor" page="25" n="07">로는 흘너가는 물을 림하야 쉬파람을 불며 노래도 부르다가</sent>
+<sent type="main" lang="kor" page="25" n="08">엇던 는 창문을 닷어 걸고 글을 쓴다</sent>
+<sent type="main" lang="kor" page="25" n="09">그리면서 새벽과 저녁으로는 단종의 잇는 곳을 바라보며 더운 눈물을 린다</sent>
+<sent type="main" lang="kor" page="25" n="10">그것도 단종이 살어잇슬 의 일이엿고</sent>
+<sent type="main" lang="kor" page="25" n="11">인저는 단종의 잇는 곳으로 러갈 수도 업시</sent>
+<sent type="main" lang="kor" page="25" n="12">단종은 피살이 되야 아지 못하는 길로 난 뒤에는</sent>
+<sent type="main" lang="kor" page="25" n="13">그는 홀로 그 곳에서 단종의 삼년 상복(三年喪服)을 님엇다</sent>
+<sent type="main" lang="kor" page="25" n="14">돌집 속에서 삼년을 지난 뒤에</sent>
+<sent type="main" lang="kor" page="25" n="15">그는 다시 원주본집으로 도라오니</sent>
+<sent type="main" lang="kor" page="25" n="16">세조가 례조참의(禮曺叅議)를 주겟다고 여러 번 부른다</sent>
+<sent type="main" lang="kor" page="25" n="17">그러나 그는 내 조정에 나서지 안코</sent>
+<sent type="main" lang="kor" page="25" n="18">집에 잇서서도 호정(戶庭)출입지 폐지하야 가족사이에도 그를 만나 볼 수가 업섯다</sent>
+<sent type="main" lang="kor" page="25" n="19">그의 족하 효연(孝然)이 그를 만나랴고 여러 번재 그의 집을 차저왓스나</sent>
+<sent type="main" lang="kor" page="25-26" n="20">그는 번번이 사절하고 만나지 안엇다</sent><!--그^는-->
+
+<sent type="main" lang="kor" page="26" n="01">효연은 세조의 좌익공신(佐翼功臣)이 된 사람이다</sent>
+<sent type="main" lang="kor" page="26" n="02">그의 아들 효렴(孝廉)도 세조의 조정에는 벼살을 바리고 집에 도라와 그 부친을 봉양하얏다</sent>
+<sent type="main" lang="kor" page="26" n="03">효렴의 아들 맹강(孟康), 맹숙(孟叔) 형제는 비로서 조정에 나가 벼살하더니</sent>
+<sent type="main" lang="kor" page="26" n="04">맹숙은 예종(睿宗)조 시대에 사초(史草)를 내다가 죄에 얽혀 사형을 당하얏다</sent>
+<sent type="title3" lang="kor" page="26" n="05">김시습(金時習)</sent>
+<sent type="main" lang="kor" page="26" n="06">김시습은 본관이 강릉(江陵)이오</sent>
+<sent type="main" lang="kor" page="26" n="07">자는 역경(悅卿)이다</sent>
+<sent type="main" lang="kor" page="26" n="08">그는 나은 지 여덜 달부터 글자를 알어보며</sent>
+<sent type="main" lang="kor" page="26" n="09">세 살 에는 작문을 지엇고</sent>
+<sent type="main" lang="kor" page="26" n="10">다섯 살에는 대학교의 교과서가 되는 중용, 대학(中庸, 大學)을 해석하엿다</sent>
+<sent type="main" lang="kor" page="26" n="11">그와 갓치 그는 조달(早達)함으로 어렷슬 에 신동(神童)이라는 대우를 밧엇다</sent>
+<sent type="main" lang="kor" page="26-27" n="12">그가 신동이라는 일홈을 날니니</sent><!--일홈^을-->
+
+<sent type="main" lang="kor" page="27" n="01">집현전 학사 최치운(崔致雲)이 차저와 보고 그의 일홈을 시습이라고 지여 주엇다 한다</sent>
+<sent type="main" lang="kor" page="27" n="02">세종대왕이 시습의 문재(文才)가 비상하다는 말을 듯고</sent>
+<sent type="main" lang="kor" page="27" n="03">승정원(承政院)으로 불너드려 지신사(知申事) 박이창(朴以昌)으로 시험을 보라 하엿다</sent>
+<sent type="main" lang="kor" page="27" n="04">박이창이 시습을 대하야</sent>
+<sent type="main" lang="kor" page="27" n="05">동자의 배우는 것이 백학이 청공 헤서 춤추는 것 갓다(童子之學白鶴舞青空之末) 하니</sent>
+<sent type="main" lang="kor" page="27" n="06">시습은 박이창의 말을 응하야</sent>
+<sent type="main" lang="kor" page="27" n="07">성주의 덕은 황룡이 벽해 속에서 굼틀거리듯 한다(聖主之德黃龍翻碧海之中) 고 대답한다</sent>
+<sent type="main" lang="kor" page="27" n="08">이창은 시습을 안어 무릅 위에 안치고 시(詩)로 여러 번을 시험하니</sent>
+<sent type="main" lang="kor" page="27" n="09">어린이의 말로 지여진 것이 모다 가작(佳作)이다</sent>
+<sent type="main" lang="kor" page="27" n="10">세종은 시습의 시험 치룬 것을 보고 도리혀 의심하엿다</sent>
+<sent type="main" lang="kor" page="27-28" n="11">『어린 아히가 이러한 말을 하다니?』 하며</sent><!--하다니?』 ^ 하며-->
+
+<sent type="main" lang="kor" page="28" n="01">시습의 지은 시를 다 본 뒤에</sent>
+<sent type="main" lang="kor" page="28" n="02">『내가 저를 친히 보고십다마는 어린 아히를 대절로 불너드리기는 풍긔상에 관계가 되니</sent>
+<sent type="main" lang="kor" page="28" n="03">제 집에 나가서 교양을 잘 밧으라고 하야라</sent>
+<sent type="main" lang="kor" page="28" n="04">성년(成年)이 되야 학업이 진취된 뒤에 저를 크게 써 보자』하며</sent>
+<sent type="main" lang="kor" page="28" n="05">상품으로 비단 오십 필을 내주엇다</sent>
+<sent type="main" lang="kor" page="28" n="06">승정원에 모인 관원들은 다시 시습의 의견을 시험하랴고</sent>
+<sent type="main" lang="kor" page="28" n="07">『왕서 나린 상품은 제가 친히 가지고 가는 것이다』하며</sent>
+<sent type="main" lang="kor" page="28" n="08">삼품을 내여주니</sent>
+<sent type="main" lang="kor" page="28" n="09">시습은 비단 오십 필을 죄다 풀더니 흘 서로 잡아 매여 노코 한 만 고 나간다</sent>
+<sent type="main" lang="kor" page="28" n="10">이 뒤로 그는 오세(五歲)신동이라는 일홈이 천하를 놀내엿다</sent>
+<sent type="main" lang="kor" page="28" n="11">그는 열세 살지 모든 학문을 맞추엇다</sent>
+<sent type="main" lang="kor" page="28" n="12">세종이 죽고 문종이 임금된 뒤에도</sent>
+<sent type="main" lang="kor" page="28" n="13">그를 사랑하더니</sent>
+<sent type="main" lang="kor" page="28" n="14">문종의 뒤를 니여 어린 임금 단종이 서자 왕실에는 큰 변동이 이러난다</sent>
+<sent type="main" lang="kor" page="28" n="15">단종의 숙부 수양대군이 어린 임금의 왕위를 흔들더니</sent>
+<sent type="main" lang="kor" page="28" n="16">시습의 나히 시물한 살되는 해에 어린 임금은 태상왕으로 폐위가 되고</sent>
+
+<sent type="main" lang="kor" page="29" n="01">수양대군이 왕통을 아스니 이가 세조대왕이다</sent>
+<sent type="main" lang="kor" page="29" n="02">어린임금이 폐위될 에 시습은 삼각산(三角山) 속에서 글을 닑다가</sent>
+<sent type="main" lang="kor" page="29" n="03">이 소식을 듯고 목이 터지도록 통곡하며 서재에 싸인 서책을 죄다 불을 노아 태여 바리고</sent>
+<sent type="main" lang="kor" page="29" n="04">그길로 도망하야 중의 집으로 드러갓다</sent>
+<sent type="main" lang="kor" page="29" n="05">그가 중의 집으로 드러간 뒤로는 일홈을 여러 번 변개하엿다</sent>
+<sent type="main" lang="kor" page="29" n="06">설잠(雪岑), 청한자(淸寒子), 매월당(梅月堂), 벽산(碧山), 청은(淸隱), 동봉(東峯), 취세옹(贅世翁), 이것이 모다 그의 부르든 일홈이다</sent>
+<sent type="main" lang="kor" page="29" n="07">그는 얼골이 맨숭맨숭하고 키는 분데다가 행동이 경망하고 간솔하야 위의(威儀)가 업고 입이 너 남의 허물을 용서치 안는다</sent><!--뒤에 오는 ‘맨숭’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="29" n="08">그러한 성질로서 불합리한 이 세상에 불평을 품고 자긔의 자신을 함부루 굴녓다</sent>
+<sent type="main" lang="kor" page="29" n="09">조선 천지에 경개 조타는 곳은 그의 자최가 아니간 곳이 업섯스며</sent>
+<sent type="main" lang="kor" page="29" n="10">그의 문장(文章)은 조직적이 아니라 반랑적이엿다</sent>
+<sent type="main" lang="kor" page="29" n="11">산속에 드러가 시를 지여 나무 위에 써 노코</sent>
+<sent type="main" lang="kor" page="29" n="12">큰소리로 읇다가 갑작이 통곡을 하며 나무 위에 쓴시를 자여 바린다</sent>
+<sent type="main" lang="kor" page="29-30" n="13">그가 중흥사(中興寺)에 잇슬 에 비(雨)온 뒤이면</sent><!--중흥사^에-->
+
+<sent type="main" lang="kor" page="30" n="01">매양 수백장의 조희를 말너 가지고 필연(筆硯)을 이고 흐르는 물가으로 나가 안저서 골독히 시를 지여</sent>
+<sent type="main" lang="kor" page="30" n="02">조희에 쓴 다음에는 물에다 여 보낸다</sent>
+<sent type="main" lang="kor" page="30" n="03">그리하야 가지고 나간 조희가 죄다 업서지기 전에는 안진 자리를 나지 안는다</sent>
+<sent type="main" lang="kor" page="30" n="04">그럼으로 그의 시는 남이 엇어 보기가 극히 어렵다</sent>
+<sent type="main" lang="kor" page="30" n="05">다만 그의 시에는 반다시 고비(薇), 고사리(蕨)글자가 쓰인다는 것만은 일반이 인정한다</sent><!--원문에서는 '고비' 뒤의 쉼표(,)가 없음.-->
+<sent type="main" lang="kor" page="30" n="06">고비, 고사리는 제 임금에게 충성하든 백이, 숙제(伯夷叔齊)가 제 임금이 망한 뒤에</sent>
+<sent type="main" lang="kor" page="30" n="07">수양산으로 드러가 고사리를 캐 먹다가 굴머 죽엇다는 전설이 잇는 닭이다</sent>
+<sent type="main" lang="kor" page="30" n="08">그는 시를 남에게 뵈이지 아니할 만 아니라 남이 학문상으로 뭇는 말에 대하야 가라처 주지를 안는다</sent>
+<sent type="main" lang="kor" page="30" n="09">누가 문학상의 말을 무르면 손에 잡히는대로 남기나 돌이나로 리고 혹시로는 활로 쏘기도 한다</sent>
+<sent type="main" lang="kor" page="30" n="10">그는 목소리가 조타 달 밝은 밤이면 청초(淸楚)한 음성으로 리소경(離騷經)을 외이다가 슯업게 우러나려 눈물로 옷깃을 적신다</sent>
+<sent type="main" lang="kor" page="30-31" n="11">리소경은 임금에게 충성하든 굴원(屈原)이 원통하게 구양을 가서 적소에 잇슬 에 지은 글이다</sent><!--임금에^게-->
+
+<sent type="main" lang="kor" page="31" n="01">그는  술을 조와하야 술이 취하면</sent>
+<sent type="main" lang="kor" page="31" n="02">『내가 내 임금을 못 보겠다』는 주사를 부려가며 거운 눈물을 러드린다</sent>
+<sent type="main" lang="kor" page="31" n="03">엇던 는 침착하게 안저서 나무로 농부(農夫)의 형상을 조각(雕刻)하야 책상머리에 버려노코 자세자세 드려다보며</sent><!--뒤에 오는 ‘자세’는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="31" n="04">하로 종일 우름을 울고나서는 조각한 것을 불노 태여 업새인다</sent>
+<sent type="main" lang="kor" page="31" n="05">봄이 되면 논에 나가 벼(禾)를 심은다</sent>
+<sent type="main" lang="kor" page="31" n="06">심은 벼가 무성하게 되면 술에 낫을 들고 나가 패도 아니한 벼를 죄다 베혀 바린다</sent>
+<sent type="main" lang="kor" page="31" n="07">길거리에 호긔를 부리며 지나가는 관원을 만나면 관월을 바라보고 통곡을 하며</sent>
+<sent type="main" lang="kor" page="31" n="08">『이 백성이 무슨 죄냐』고 외친다</sent>
+
+<sent type="main" lang="kor" page="32" n="01">홍문관 대제학(弘文館大提學) 서거정(徐居正)이 조정에 드러가는 길에 락루한 의복을 닙고</sent>
+<sent type="main" lang="kor" page="32" n="02">색기로  사람 하나이 시가에서 나타나며</sent>
+<sent type="main" lang="kor" page="32" n="03">『강중(剛中)은 평안한가』하는 인사를 하니</sent>
+<sent type="main" lang="kor" page="32" n="04">강중은 서거정의 자엿다</sent>
+<sent type="main" lang="kor" page="32" n="05">서거정은 어린이 에 륙세신동(六歲神童)이라는 별명을 듯더니</sent>
+<sent type="main" lang="kor" page="32" n="06">지금은 홍문관 대제학이 된 것이다</sent>
+<sent type="main" lang="kor" page="32" n="07">서거정은 지금 자긔에게 인사하는 사람이 자긔와 친한 친구 김시습임을 알고</sent>
+<sent type="main" lang="kor" page="32" n="08">우스며 대답한 뒤에 여상조어도(呂尙釣魚圖)의 시를 한장 써 달나는 청을 하니</sent>
+<sent type="main" lang="kor" page="32" n="09">시습은 서거정의 청하는 말에 얼는 시를 써주니</sent>
+<sent type="main" lang="kor" page="32" n="10">바람, 비가 으스스하게 낙시터에 훌릴 제(風雨蕭蕭拂釣磯)</sent>
+<sent type="main" lang="kor" page="32" n="11">위천의 고기, 새들도 긔틀이 저바린 줄로 아드니(渭川魚鳥識忘機)</sent>
+<sent type="main" lang="kor" page="32" n="12">엇지다가 늣게는 차는 매가 되야서(如何老作鷹揚將)</sent>
+<sent type="main" lang="kor" page="32" n="13">이와 제가 고비 캐다 굴머 죽게 하느냐(空使夷齊餓来薇)</sent>
+
+<sent type="main" lang="kor" page="33" n="01">서거정은 이시를 밧어보고 아모 대답이 업섯다</sent>
+<sent type="main" lang="kor" page="33" n="02">세조가 새로 법령(法令)을 세우랴고 김시습을 강제로 불너다가 내전(內殿)에 두엇더니 새벽녁헤 도망을 갓다</sent>
+<sent type="main" lang="kor" page="33" n="03">세조는 사람을 노아 시습의 뒤를 츠니</sent>
+<sent type="main" lang="kor" page="33" n="04">시습은 개천 속으로 드러가서 몸을 개천 흙 속에 파뭇고 눈 코만 내노코 안저잇다</sent>
+<sent type="main" lang="kor" page="33" n="05">그는 시가(市街)에 나서면 아히들과 석겨 놀기를 조와한다</sent>
+<sent type="main" lang="kor" page="33" n="06">하로는 아히들과 시가에서 놀더니</sent>
+<sent type="main" lang="kor" page="33" n="07">령의정 정창손(鄭昌孫)이 초헌(軺軒)을 타고 지나가는 것을 보고</sent>
+<sent type="main" lang="kor" page="33" n="08">『저놈 붓잡자!』하는 소리를 지르며 아히들을 선동한다</sent>
+<sent type="main" lang="kor" page="33" n="09">정창손은 집현전 학사들이 상왕 복위하든 일을 그 사위 김질(金礩)과 갓치 세조 고변하고</sent>
+<sent type="main" lang="kor" page="33" n="10">세조의 정난공신이 된 대신이엿다</sent>
+<sent type="main" lang="kor" page="33" n="11">그는 정창손에게 대한 숙강(宿感)이 폭로되는 것을 보고 그의 친지들은 만히 절교를 한다</sent>
+
+<sent type="main" lang="kor" page="34" n="01">그가 마흔일곱 살 에 근 머리를 도로 기르고 안해를 엇는 것을 보고</sent>
+<sent type="main" lang="kor" page="34" n="02">그의 친지들은 그에게 벼살을 하라고 권고하얏스나</sent>
+<sent type="main" lang="kor" page="34" n="03">그는 그러한 권고에는 드른 척도 아니하고 여상이 미치광이 행동만 한다</sent>
+<sent type="main" lang="kor" page="34" n="04">거즛 소장(訴狀)을 지여 가지고 송정(訟庭)에 나타나 궤변(詭辯)으로 송사를 하야 관원이 속고</sent>
+<sent type="main" lang="kor" page="34" n="05">판결을 나리면 크게 웃고 판결문을 저 바린다</sent>
+<sent type="main" lang="kor" page="34" n="06">안해를 엇은 지 얼마 못되야 안해가 죽으니</sent>
+<sent type="main" lang="kor" page="34" n="07">그는 다시 중의 집으로 드러가 머리를 두타형(頭陀形으)로 고 강원도 일대를 출몰한다</sent>
+<sent type="main" lang="kor" page="34" n="08">그가 강릉(江陵)서 양양(襄陽)으로 온 뒤에</sent>
+<sent type="main" lang="kor" page="34" n="09">양양군수 류자한(柳自漢)이 그를 마저드려 후대하며 다시 가정을 조직하라 권고하니</sent>
+<sent type="main" lang="kor" page="34" n="10">그는 류자한의 권고를 듯고 그 길로 다라나서 편지로 류자한에게 사절한다</sent>
+<sent type="main" lang="kor" page="34" n="11">락백으로 세상을 사는것보담(與其落魄而居世)</sent>
+<sent type="main" lang="kor" page="34" n="12">소요로 일생을 보내는 것이 낫지 아느냐(執若逍遙而送生)</sent>
+<sent type="main" lang="kor" page="34" n="13">자긔 손으로 자긔 화상 두장을 그리니</sent>
+<sent type="main" lang="kor" page="34" n="14">하나는 젊은 의 초상(肖像)이오</sent>
+<sent type="main" lang="kor" page="34-35" n="15">하나는 늙은 의 초상이다</sent><!--하^나는-->
+
+<sent type="main" lang="kor" page="35" n="01">그 초상에 대하야 자긔 글로 평을 썻다</sent>
+<sent type="main" lang="kor" page="35" n="02">네 모양이 못나게도 볼품이 업고(爾形至藐)</sent>
+<sent type="main" lang="kor" page="35" n="03">네 말이 지각업시 멍텅하니(爾言大侗)</sent>
+<sent type="main" lang="kor" page="35" n="04">너는 구렁 속에 집어늣는 것이 조타(宜爾置之溝壑之中)</sent>
+<sent type="main" lang="kor" page="35" n="05">이것이 자긔일생의 평이엿다</sent>
+<sent type="main" lang="kor" page="35" n="06">그의 일생은 쉬인아홉 살로 맞추엇다</sent>
+<sent type="main" lang="kor" page="35" n="07">죽을 에 그는 홍산무량사(鴻山無量寺)에서 세상을 낫다</sent>
+<sent type="main" lang="kor" page="35" n="08">그가 죽을 에 시체는 화장(火葬)을 말나는 유언이 잇슴으로</sent>
+<sent type="main" lang="kor" page="35" n="09">무량사 절 겻헤 초빈을 하얏다가</sent>
+<sent type="main" lang="kor" page="35" n="10">삼년이 지난 뒤에 매장하랴고 파내보니</sent>
+<sent type="main" lang="kor" page="35" n="11">얼골이 산사람과 갓고 신체가 상한 곳이 업다</sent>
+<sent type="main" lang="kor" page="35" n="12">중의 집에서는 이것이 성불(成佛)된 이적(異蹟)이라하야 부처의 한자리를 빌녀 주엇다</sent>
+<sent type="main" lang="kor" page="35" n="13">그러나 그 뒤에 음애리자(陰厓李耔)가 그의 글을 닑고나서 그는 부처의 자최이오</sent>
+<sent type="main" lang="kor" page="35" n="14">유가의 행동(跡佛而儒行者)이란 것이 그에게 가장 적당한 평이라 한다.</sent>
+
+<sent type="title3" lang="kor" page="36" n="01">리맹전(李孟專)</sent>
+<sent type="main" lang="kor" page="36" n="02">리맹전의 본관은 벽진(碧珍)이니 자는 백순(伯純)이오</sent>
+<sent type="main" lang="kor" page="36" n="03">호는 경은(耕隱)이다</sent>
+<sent type="main" lang="kor" page="36" n="04">세종정미(丁未)에 문과장원을 하고</sent>
+<sent type="main" lang="kor" page="36" n="05">문종조에는 정언(正言)벼살로 잇더니</sent>
+<sent type="main" lang="kor" page="36" n="06">어린 임금 단종이 왕위를 니은 뒤로</sent>
+<sent type="main" lang="kor" page="36" n="07">그는 외임(外任)을 자원하고 거창현감(居昌縣監)으도 나가 잇섯다</sent>
+<sent type="main" lang="kor" page="36" n="08">그가 지방관으로 나가 잇는 동안에</sent>
+<sent type="main" lang="kor" page="36" n="09">그는 청백하기로 소문이 놉헛다</sent>
+<sent type="main" lang="kor" page="36" n="10">그러자 조정은 큰 변동이 이러나 왕숙되는 수양대군이 의정대신 이하 요로대관을 죽이고 차내고</sent>
+<sent type="main" lang="kor" page="36" n="11">자긔가 령의정이 되야 내외병마 도총사를 겸임하고</sent>
+<sent type="main" lang="kor" page="36" n="12">어린 임금을 위협한다</sent>
+<sent type="main" lang="kor" page="36" n="13">리맹전은 수양대군의 내각이 성립된 뒤로</sent>
+<sent type="main" lang="kor" page="36" n="14">거창현감의 인수(印綬)를 푸러 노코 선산(善山)으로 물너왓다</sent>
+<sent type="main" lang="kor" page="36" n="15">그는 선산으로 온 뒤로</sent>
+<sent type="main" lang="kor" page="36" n="16">눈에 어둡다 핑계하고 일절 문 밧게도 나가지 안엇다</sent>
+<sent type="main" lang="kor" page="36-37" n="17">그 동안에 수양대군의 세력은 더욱더 확대하야 한명회, 권람, 정인지의 무리 삽십륙인이 수양대군을 추대(推戴)하야 임금을 삼으니</sent><!--무^리--><!--원문에서는 '한명회', '권람' 뒤의 쉼표(,)가 모두 보이지 않음.-->
+
+<sent type="main" lang="kor" page="37" n="01">어린 임금 단종은 태상왕이 되야 물너낫다</sent>
+<sent type="main" lang="kor" page="37" n="02">새 임금 세조가 임금된 뒤로</sent>
+<sent type="main" lang="kor" page="37" n="03">리맹전을 여러 번 불은다</sent>
+<sent type="main" lang="kor" page="37" n="04">그러나 리맹전은 한사하고 사절하얏다</sent>
+<sent type="main" lang="kor" page="37" n="05">단종이 폐위되든 이듬해에 집현전 학사 일단이 무관 몃 사람과 결탁하야 상왕의 복위운동을 하다가 </sent>
+<sent type="main" lang="kor" page="37" n="06">일이 발각되야 여러 사람이 화를 당한 뒤로</sent>
+<sent type="main" lang="kor" page="37" n="07">단종은 로산군으로 강봉(降封)하야 녕월로 보내더니</sent>
+<sent type="main" lang="kor" page="37" n="08">그 해 겨울에 참혹한 교형으로 단종을 죽인다</sent>
+<sent type="main" lang="kor" page="37" n="09">리맹전은 단종이 피살된 뒤에는 친지의 심방지도 거절하얏다</sent>
+<sent type="main" lang="kor" page="37" n="10">가족들이 그 리유를 무르면</sent>
+<sent type="main" lang="kor" page="37" n="11">수양에 방해가 된다는 단순한 말로 대답하고</sent>
+<sent type="main" lang="kor" page="37" n="12">한달에 한번식 초하로 날이면 대궐을 향하야 절을 한다</sent>
+<sent type="main" lang="kor" page="37" n="13">그 리유는 자긔의 병을 기도하는 것이라고 말하나</sent>
+<sent type="main" lang="kor" page="37" n="14">가족들도 그의 행동을 의심하얏다</sent>
+<sent type="main" lang="kor" page="37-38" n="15">한번은 그의 친지 점필재, 김종직이 차저오니</sent><!--점필재 ^ 김종직--><!--원문에서는 '점필재' 뒤의 쉼표(,)가 없음.-->
+
+<sent type="main" lang="kor" page="38" n="01">그는 비로소 손을 마저 드러 담화를 시작하고</sent>
+<sent type="main" lang="kor" page="38" n="02">자기의 심회를 은휘업시 말한다</sent>
+<sent type="main" lang="kor" page="38" n="03">김종직은 그에게 아모러한 병이 업슴을 보고</sent>
+<sent type="main" lang="kor" page="38" n="04">『인저 병이 나엇소 그려』뭇는다</sent>
+<sent type="main" lang="kor" page="38" n="05">리맹전은 종직의 뭇는 말에</sent>
+<sent type="main" lang="kor" page="38" n="06">『병이 나은 것이 아니라</sent>
+<sent type="main" lang="kor" page="38" n="07">로형을 만나니 흉금(胸衿)이 열녀서 그러하오』하는 대답을 한다</sent>
+<sent type="main" lang="kor" page="38" n="08">종직은 그의 심정을 알고 더욱 경의(敬意)를 표하얏다</sent>
+<sent type="main" lang="kor" page="38" n="09">이날 그의 부인은 자긔 남편이 평일에 거절하든 손님을 마저 드려 유쾌하게 담화를 하는 것이 신긔하야 창 밧게서 엿듯다가</sent>
+<sent type="main" lang="kor" page="38" n="10">그의 하는 말을 듯고</sent>
+<sent type="main" lang="kor" page="38" n="11">그에게 참으로 병이 업는 것을 알게 되얏다</sent>
+<sent type="main" lang="kor" page="38" n="12">그는 구십세(九十歲) 장수를 하얏건마는</sent>
+<sent type="main" lang="kor" page="38" n="13">단종이 불행한 뒤로</sent>
+<sent type="main" lang="kor" page="38" n="14">삼십년 동안을 대궐을 향하야 안저서 한번도 안진 자리를 변개한 일이 업섯다</sent>
+<sent type="main" lang="kor" page="38" n="15">그의 집 살님은 말할 것도 업시 구차하야 침실에는 삿자리 한닙이 업고</sent>
+<sent type="main" lang="kor" page="38" n="16">식탁에는 시저(匙箸)가 노이즈 못하얏다</sent>
+
+<sent type="title3" lang="kor" page="39" n="01">성담수(成聃壽)</sent>
+<sent type="main" lang="kor" page="39" n="02">성담수의 본관은 창녕(昌寧)이니 자는 이수(耳壽)오</sent>
+<sent type="main" lang="kor" page="39" n="03">호는 문두(文斗)라 하얏다</sent>
+<sent type="main" lang="kor" page="39" n="04">세종경오(庚午)에 문과교리(文科敎理)가 되엿더니</sent>
+<sent type="main" lang="kor" page="39" n="05">세종이 죽고 문종의 시대가 되니</sent>
+<sent type="main" lang="kor" page="39" n="06">문종은 몸이 약한 임군이다</sent>
+<sent type="main" lang="kor" page="39" n="07">문종은 미리 자긔 죽은 뒤의 일을 집현전 학사들에게 부탁하니</sent>
+<sent type="main" lang="kor" page="39" n="08">자긔가 불행하야 어린 왕세자가 임금이 되는 경우면 왕실이 위태한즉</sent>
+<sent type="main" lang="kor" page="39" n="09">여러 신하의 힘으로 도아주라는 것이엿다</sent>
+<sent type="main" lang="kor" page="39" n="10">이 부탁은 그의 종제(從弟) 성삼문(成三問)이 집현전 학사의 한사람으로서 갓치 밧엇다 한다</sent>
+<sent type="main" lang="kor" page="39" n="11">아즉 젊은 임금이 이와 갓튼 유언을 한다는 것을 일반이 의심하얏더니</sent>
+<sent type="main" lang="kor" page="39" n="12">과연 문종은 열두 살된 왕세자에게 왕통을 전하고 세상을 난다</sent>
+<sent type="main" lang="kor" page="39" n="13">어린 임금 단종이 임금이 된 뒤로</sent>
+<sent type="main" lang="kor" page="39" n="14">의정대신의 황보인, 김종서가 보좌하고</sent><!--원문에서는 '황보인' 뒤의 쉼표(,)가 보이지 않음.-->
+<sent type="main" lang="kor" page="39" n="15">집현전 학사의 성삼문, 박팽년의 무리가 좌우로 협찬하더니</sent><!--원문에서는 '성삼문' 뒤의 쉼표(,)가 보이지 않음.-->
+<sent type="main" lang="kor" page="39" n="16">왕숙 가온대로부터 수양대군이 머리를 들고 이러나 어린 임금의 지위를 흔들기 시작한다</sent>
+<sent type="main" lang="kor" page="39-40" n="17">수양대군은 내각변경을 몬저 착수하야 한명회, 권람의 일파를 부동하고 역사 일단을 결합하야</sent><!--몬^저--><!--원문에서는 '한명회' 뒤의 쉼표(,)가 보이지 않음.-->
+
+<sent type="main" lang="kor" page="40" n="01">범갓튼 김종서의 부자를 비롯하야 황보인 이하 여러 대관을 려 죽이고 왕숙의 안평대군지 죽엿다</sent>
+<sent type="main" lang="kor" page="40" n="02">그런 뒤에 수양대군이 령의정이 되야 군국대사(軍國大事)를 겸임하고 어린 임금을 위협하더니</sent>
+<sent type="main" lang="kor" page="40" n="03">마참내 어린 임금을 상왕으로 봉하야 창덕궁으로 보내고 수양대군이 임금이 되니</sent>
+<sent type="main" lang="kor" page="40" n="04">이가 세조이다</sent>
+<sent type="main" lang="kor" page="40" n="05">어린 임금이 폐위된 뒤로</sent>
+<sent type="main" lang="kor" page="40" n="06">성담수는 그의 종부(從父) 성승(成勝)과 종제 성삼문과 함 죽든 사든 서로 마음을 변치안코 상왕을 복위하기로 맹세하얏다</sent>
+<sent type="main" lang="kor" page="40" n="07">그리하야 성승은 무관의 일파를 결탁하고</sent>
+<sent type="main" lang="kor" page="40" n="08">성삼문, 성담수는 집현전 학사를 망라하야 상왕복위의 긔회를 엿보더니</sent><!--원문에서는 '성삼문' 뒤의 쉼표(,)가 보이지 않음.-->
+<sent type="main" lang="kor" page="40" n="09">집현전학사의 한사람이 되는 김질(金礩)이 그 장인 정창손(鄭昌孫)과 함 세조 고변을 하얏다</sent>
+<sent type="main" lang="kor" page="40" n="10">일이 발각되니 세조로 성삼문, 박팽년, 성승, 유응부(兪應孚)의 무리를 편전(便殿)으로 잡아드려 친이 국문할 에 성담수도 잡혀드럿다</sent>
+<sent type="main" lang="kor" page="40" n="11">성담수는 세조 국문에 대하야 처음부터 입을 닷치고 내 말을 아니하얏다</sent>
+
+<sent type="main" lang="kor" page="41" n="01">그리하야 성담수의 죄상이 드러나지 아니하니</sent>
+<sent type="main" lang="kor" page="41" n="02">세조는 성담수를 죽이지 못하고 김해(金海)로 구양을 보내더니</sent>
+<sent type="main" lang="kor" page="41" n="03">삼년이 지난 뒤에 공주(公州)로 옴긴다</sent>
+<sent type="main" lang="kor" page="41" n="04">성담수는 성질이 지성스럽고 지식이 탁월하얏다</sent>
+<sent type="main" lang="kor" page="41" n="05">그의 일생을 구양사리로 마출 에 자긔 부친의 분묘(墳墓) 겻헤 잇섯스며</sent>
+<sent type="main" lang="kor" page="41" n="06">먹고 사는 것이 말 못되게 구차하얏스나</sent>
+<sent type="main" lang="kor" page="41" n="07">그의 마음은 태연하얏다</sent>
+<sent type="main" lang="kor" page="41" n="08">지방에 잇서서 농부와 어옹(漁翁)의 벗이 되야 향촌사람으로 회하니</sent>
+<sent type="main" lang="kor" page="41" n="09">아모도 그가 이왕에 벼살하든 사람이라는 것은 이젓다</sent>
+<sent type="main" lang="kor" page="41" n="10">그의 종자(從子) 몽정(夢井)이 경긔관찰사(京畿觀察使)로 나려와서</sent>
+<sent type="main" lang="kor" page="41" n="11">그 종부가 도내(道內)에 잇는 줄을 알고 아모리 차저도 아는 사람이 업다</sent>
+<sent type="main" lang="kor" page="41" n="12">급기 그의 형용을 그림으로 그려서 차진 뒤에</sent>
+<sent type="main" lang="kor" page="41" n="13">몽정이 그의 잇는 집을 차저가니</sent>
+<sent type="main" lang="kor" page="41" n="14">다 퇴락한 초가집이 바람, 비를 가리우지 못하고 흙바닥(土床)에서 거처하며</sent>
+<sent type="main" lang="kor" page="41" n="15">손이 오면 안즐 자리가 업다</sent>
+<sent type="main" lang="kor" page="41" n="16">몽정은 그의 거처가 넘어나 참혹한 것을 보고 가엽사 생각하야 본영으로 도라온 뒤에</sent>
+<sent type="main" lang="kor" page="41" n="17">흙마루에 를 자리를 보내주엇다</sent>
+<sent type="main" lang="kor" page="41" n="18">성담수는 자긔 종자가 자리 보내주는 것을 보고</sent>
+<sent type="main" lang="kor" page="41-42" n="18">「이러한 물건이 가난한 사람의 집에는 당치 안타」 하며 도로 차 보내엿다</sent><!--당^치-->
+
+<sent type="main" lang="kor" page="42" n="01">세조는 상왕복위파를 박멸한 뒤로</sent>
+<sent type="main" lang="kor" page="42" n="02">상왕지 업새여 다시는 후환이 업시된 뒤에</sent>
+<sent type="main" lang="kor" page="42" n="03">상왕시대에 폐족(廢族)이 된 자제(子弟)들을 다시 불너 벼살을 주니</sent>
+<sent type="main" lang="kor" page="42" n="04">대개는 머리를 숙이고 벼살자리로 나가나</sent>
+<sent type="main" lang="kor" page="42" n="05">성담수와 그의 다음 아우 담중(聃仲)은 내 폐족으로 자처하고 세상에 나서지 안엇다</sent>
+<sent type="main" lang="kor" page="42" n="06">담수는 평생을 물에 나가 고기 낙는 것으로 락을 붓치엿다</sent>
+<sent type="main" lang="kor" page="42" n="07">그는 평생에 말이 적음으로</sent>
+<sent type="main" lang="kor" page="42" n="08">남이 그의 속이 깁고 엿튼 것을 측정치 못한다</sent>
+<sent type="main" lang="kor" page="42" n="09">낙시를 잡고 강가에 나가 종일 잇다가(把竿終日趍江邊)</sent>
+<sent type="main" lang="kor" page="42" n="10">발을 창랑에 담그고 곤하면 한잠 자네(垂足滄浪困一眠)</sent>
+<sent type="main" lang="kor" page="42" n="11">에 백구와 함 만리밧그로 나러갓더니(夢與白鷗飛萬里)</sent>
+<sent type="main" lang="kor" page="42" n="12">을 니 몸이 저녁볏이 나리는 하늘에 잇구나(覺來身在陽天)</sent>
+<sent type="main" lang="kor" page="42" n="13">이 시가 그가 파산남곡(坡山南谷)에 잇슬 에 지은 것이다</sent>
+<sent type="main" lang="kor" page="42-43" n="14">그의 아우 담중은 세조가 남양교관(南陽敎官)으로 여러 번 불으나 마참내 조정에 나가지 안코</sent><!--조^정에-->
+
+<sent type="main" lang="kor" page="43" n="01">그 아들 몽긔(夢箕)와 가족을 이고 림천(林川)으로 옴겨가서</sent>
+<sent type="main" lang="kor" page="43" n="02">구산(龜山) 밋헤 집을 의지하고 살엇다</sent>
+<sent type="main" lang="kor" page="43" n="03">그도 자긔의 평생을 토상(土床)과 와옥(蝸屋) 속에서 보내며</sent>
+<sent type="main" lang="kor" page="43" n="04">촌사람과 농사하는 늙은니를 모아 농사에 대한 담화로 세월을 보내엿다</sent>
+<sent type="title3" lang="kor" page="43" n="05">남효온(南孝溫)</sent>
+<sent type="main" lang="kor" page="43" n="06">남효온은 본관이 의녕(宜寧)이니 자는 백공(伯恭)이오</sent>
+<sent type="main" lang="kor" page="43" n="07">호는 추강(秋江)이며  행우(杏雨)라 한다</sent>
+<sent type="main" lang="kor" page="43" n="08">그는 어릴 에 그 부친을 일코 과거하는 모친의 슬하에서 자라나며</sent>
+<sent type="main" lang="kor" page="43" n="09">그 모친에게 대한 효성이 지극하얏다</sent>
+<sent type="main" lang="kor" page="43" n="10">그의 성질은 너그럽고 쇄락하야 일생이 자유롭고 남의 구속을 밧지 안엇다</sent>
+<sent type="main" lang="kor" page="43" n="11">문학을 독실이 힘써 당시의 큰 선배가 되얏다</sent>
+<sent type="main" lang="kor" page="43" n="12">그가 공부할 에 그의 동창생(同窓生)은 김굉필(金宏弼), 정여창(鄭汝昌), 김시습, 안응세(安應世)의 당당한 문사들이엿다</sent>
+<sent type="main" lang="kor" page="43-44" n="13">동창생들과 갓치 김종직(金宗直)선생에게 수업할 에</sent><!--동창^생들과-->
+
+<sent type="main" lang="kor" page="44" n="01">선생은 가장 남효온을 어렵게 생각하야 그의 일홈을 부르지 안코</sent>
+<sent type="main" lang="kor" page="44" n="02">다만 추강추강하며 그의 호를 불너왓다</sent><!--뒤에 오는 ‘추강’은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="44" n="03">그가 성종(成宗)조 시대에 나히 겨우 열여덜 살로서</sent>
+<sent type="main" lang="kor" page="44" n="04">단종조의 원통함을 풀녀고 소릉복위ㅣ 소은 단종대왕의 어머님이오</sent>
+<sent type="main" lang="kor" page="44" n="05">문종대왕의 왕후권시(權氏)ㅣ 의소장을 지여 왕 올니니</sent>
+<sent type="main" lang="kor" page="44" n="06">그 대의는 세조서 큰 난을 확청하고 집으로 나라를 삼엇스나</sent>
+<sent type="main" lang="kor" page="44" n="07">밧게 소릉을 폐위한지 이십년이 지나도록 그의 원통한 혼령이 의지할 곳이 업스니</sent>
+<sent type="main" lang="kor" page="44" n="08">만약 선왕 문종서 령혼이 잇슬것 갓트면 제사를 밧지 아니할 것임니다 한 것이다</sent>
+<sent type="main" lang="kor" page="44" n="09">성종대왕은 그 소장을 밧고 아무러한 처분이업다</sent>
+<sent type="main" lang="kor" page="44" n="10">그 뒤로 그는 세상을 저주하고 방랑하기 시작하얏다</sent>
+<sent type="main" lang="kor" page="44" n="11">혹시로는 감정에 충동되면 놉흔 산 위로 올너가 자긔 마음 통곡하고 나려와서 위험한 언사와 격렬한 리론을 긔탄업시 토한다</sent>
+<sent type="main" lang="kor" page="44" n="12">그리할 이면 그의 동창생들이 그리 말나는 주의를 식이면</sent>
+<sent type="main" lang="kor" page="44" n="13">그는 들은 척도 안코 자긔의 감정대로 말하고야 만다</sent>
+<sent type="main" lang="kor" page="44-45" n="14">방랑하기로 유명한 김시습도 그에게 이러한 말로 권고한 일이 잇다</sent><!--김시^습-->
+
+<sent type="main" lang="kor" page="45" n="01">『나는 이믜 세종의 은혜를 밧은 일이 잇스니</sent>
+<sent type="main" lang="kor" page="45" n="02">왕실을 위하야 이갓치 쓰라린 생활을 하는 것이 당연한 일이지마는</sent>
+<sent type="main" lang="kor" page="45" n="03">그대의 경우는 나와 다른 터에 엇지하야 세상에 나서지 안느냐』하니</sent>
+<sent type="main" lang="kor" page="45" n="04">그는 격렬한 어조로</sent>
+<sent type="main" lang="kor" page="45" n="05">소릉사건은 인간의 큰 변이니</sent>
+<sent type="main" lang="kor" page="45" n="06">내가 소릉을 복위한 뒤에 나선다 하야도 늣질 것이 업다』고 대답한다</sent>
+<sent type="main" lang="kor" page="45" n="07">김시습은 그의 주장이 철저함을 알고 다시는 권고치 안엇다</sent>
+<sent type="main" lang="kor" page="45" n="08">그가 한번은 륙신전(六臣傳)을 지여 세상에 발표하랴하니</sent>
+<sent type="main" lang="kor" page="45" n="09">그의 문인(門人)들이 한사하고 만류한다</sent>
+<sent type="main" lang="kor" page="45" n="10">『화가 이러나면 엇지하랴』고</sent>
+<sent type="main" lang="kor" page="45" n="11">문인들이 만류하는 말에</sent>
+<sent type="main" lang="kor" page="45-46" n="12">『내가 엇지 죽는 것을 앗겨 의인들의 아름다운 사적을 무더 두랴』고 대답하며</sent><!--두랴』^고-->
+
+<sent type="main" lang="kor" page="46" n="01">륙신의 일을 야사(野史)로 여 세상에 전하얏다</sent>
+<sent type="main" lang="kor" page="46" n="02">그는 술을 조와하얏다</sent>
+<sent type="main" lang="kor" page="46" n="03">그가 술이 취하면 하늘의 해(日)를 바라보며</sent>
+<sent type="main" lang="kor" page="46" n="04">『인생이란 곳(直)은 것이다</sent>
+<sent type="main" lang="kor" page="46" n="05">그럼으로 사람을 속이지 못한다</sent>
+<sent type="main" lang="kor" page="46" n="06">사람도 속이지 못하거든 하늘을 속이겟느냐』하는 말을 중얼거린다</sent>
+<sent type="main" lang="kor" page="46" n="07">그리더니 한번은 그 모친에게 술을 마시지 말나는 경계를 듯고 지주부(止酒賦)를 지은 뒤로</sent>
+<sent type="main" lang="kor" page="46" n="08">십년동안을 술을 엇다</sent>
+<sent type="main" lang="kor" page="46" n="09">그의 모친의 권고에 그는 생전에 과거를 보아 진사(進士)를 하고</sent>
+<sent type="main" lang="kor" page="46" n="10">나히 겨우 설흔아홉에 죽엇다</sent>
+<sent type="main" lang="kor" page="46" n="11">그가 죽은 뒤에</sent>
+<sent type="main" lang="kor" page="46" n="12">연산군(燕山君)시대에 이르러 그의 소릉복위소장이 들춰나서</sent>
+<sent type="main" lang="kor" page="46" n="13">그의 아들 충세(忠世)와 그의 숙부 남회(南恢)가 사형을 밧엇다</sent>
+
+<sent type="title2" lang="kor" page="47" n="01">부록</sent>
+<sent type="title3" lang="kor" page="47" n="02">부오대군전(附五大君傳)</sent>
+<sent type="main" lang="kor" page="47" n="03">오대군에 의안대군(義安大君) 화(和)의 손자 리양(李穰)을 더하야 륙종영(六宗英)이라는 것이다</sent>
+<sent type="main" lang="kor" page="47" n="04">오대군은 안평대군(安平大君) 용(瑢)과 금성대군(錦城大君) 유(瑜)와 화의군(和義君) 영(瓔)과 한남군(漢南君) 어(𤥽)와 영풍군(永豐君) 천(瑔)과이다</sent>
+<sent type="main" lang="kor" page="47" n="05">그네는 다갓치 세종대왕 아들로서 어린 임금 단종을 위하야 그네의 형이 되는 세조에게 희생으로 밧친 군들이다</sent>
+<sent type="main" lang="kor" page="47" n="06">세종은 본래 왕자가 만엇다</sent>
+<sent type="main" lang="kor" page="47" n="07">소헌왕후(昭憲王后) 심시(沈氏)에게서 여덜 아들을 나코</sent>
+<sent type="main" lang="kor" page="47" n="08">다른 비빈(妃嬪)의 몸에서 열 아들을 나엇다</sent>
+<sent type="main" lang="kor" page="47-48" n="09">그런데 안평대군과 금성대군은 문종과 세조와 함 한 어머니 심왕후의 아들이오</sent><!--어머^니-->
+
+<sent type="main" lang="kor" page="48" n="01">화의군은 령원강시(令媛姜氏)의 소생이오</sent>
+<sent type="main" lang="kor" page="48" n="02">한남군과 영풍군은 혜빈양시(惠嬪楊氏)의 소생이엿다</sent>
+<sent type="main" lang="kor" page="48" n="03">왕자를 만히 둔 세종대왕은 맛아들 문종에게 왕통을 니여주니</sent>
+<sent type="main" lang="kor" page="48" n="04">문종은 형제들 가온대 몸이 약하다</sent>
+<sent type="main" lang="kor" page="48" n="05">문종이 임금되든 이듬해에 왕통을 자긔 어린 아들 단종에게로 전하고 세상을 나니</sent>
+<sent type="main" lang="kor" page="48" n="06">단종은 나히 겨우 열두 살이다</sent>
+<sent type="main" lang="kor" page="48" n="07">문종의 유언을 밧은 의정대신들과 집현전 학사들이 일시는 어린 임금을 보좌하얏스나</sent>
+<sent type="main" lang="kor" page="48" n="08">영걸한 수양대군의 솜씨로 모든 것이 물거품갓치 사러지고</sent>
+<sent type="main" lang="kor" page="48" n="09">마참내 수양대군이 왕통을 니여서 세조의 천하가 되얏다</sent>
+<sent type="main" lang="kor" page="48" n="10">왕실에 이와 갓흔 변동이 잇슬 에 오대군 그네의 사적이 아울너 력사에 전하게 된 것이다</sent>
+
+<sent type="title3" lang="kor" page="49" n="00">안평대군(安平大君)</sent>
+<sent type="main" lang="kor" page="49" n="02">안평대군은 세종대왕의 셋재 원자(元子)로서 자는 쳥지(淸之)오</sent>
+<sent type="main" lang="kor" page="49" n="03">호는 비해당(匪懈堂)이며 혹은 랑간거(琅玕居士사) 는 매죽헌(梅竹軒)이라 하얏다</sent>
+<sent type="main" lang="kor" page="49" n="04">그는 의표가 괴오(魁梧)하고 학술에 천재를 가저 시문서화(詩文書畵)에 정통하고 검은고를 잘 탄다</sent>
+<sent type="main" lang="kor" page="49" n="05">그의 글시는 명나라 사람들에게지 호평을 밧엇다</sent>
+<sent type="main" lang="kor" page="49" n="06">그는 왕자로서 범람한 을 가젓다는 혐의를 밧을 만큼 호화로은 생활을 누렷다</sent>
+<sent type="main" lang="kor" page="49" n="07">창의문(彰義門) 밧게 무이정사라(武夷精舍)는 집을 짓고 마포(麻浦) 강가에는 담담정(淡淡亭)이란 정자를 지엿스며</sent>
+<sent type="main" lang="kor" page="49" n="08">서재(書齋)에는 만권(萬卷)의 책을 싸어 노코 날마다 문사를 모아 소적하는 것이 그의 향락이엿다</sent>
+<sent type="main" lang="kor" page="49" n="09">그럼으로 그 당시에 문명(文名)이 잇는 선배로서는 안평대군 궁에 아니가는 사람이 업고</sent>
+<sent type="main" lang="kor" page="49-50" n="10">무관에는 김종서(金宗瑞)가 그와 가장 친밀하얏다</sent><!--무^관에는-->
+
+<sent type="main" lang="kor" page="50" n="01">한번은 왕족 가온대로부터 명나라 연경(燕京)을 가게 되니</sent>
+<sent type="main" lang="kor" page="50" n="02">그의 문객들은 『대군서 명나라를 이번에 단여오시면 일홈이 천하에 날닐 것임니다』하며</sent>
+<sent type="main" lang="kor" page="50" n="03">안평대군을 권고한다</sent>
+<sent type="main" lang="kor" page="50" n="04">안평대군은 그럴드키 생각하고 잇더니</sent>
+<sent type="main" lang="kor" page="50" n="05">그 형님 수양대군이 연경을 가게 되얏다</sent>
+<sent type="main" lang="kor" page="50" n="06">이듬해에 수양대군이 연경에서 나올 에 안평대군이 순흥(順興)지방으로 마중을 나가니</sent>
+<sent type="main" lang="kor" page="50" n="07">수양대군은 그를 전보담 판으로 위로하며</sent>
+<sent type="main" lang="kor" page="50" n="08">『세상을 조심하야 지내라』는 경계를 한다</sent>
+<sent type="main" lang="kor" page="50" n="09">이는 영웅의 롱락하는 수단이엿다</sent>
+<sent type="main" lang="kor" page="50" n="10">그의 생일에 마포 강정에 잔치를 버리고 궐내의 내시들과 조정의 대신을 초대하더니</sent>
+<sent type="main" lang="kor" page="50" n="11">수양대군이 하인을 보내여 치하한다</sent>
+<sent type="main" lang="kor" page="50" n="12">안평대군은 수양대군의 치하가 진정이 아님을 닷고 놀나서</sent>
+<sent type="main" lang="kor" page="50" n="13">도라가는 하인편으로 차외(苽)를 보내여 회사하얏다</sent>
+<sent type="main" lang="kor" page="50-51" n="14">이 뒤로는 수양대군이 안평대군을 경계하느니 만큼 안평대군도 수양대군을 의심한다</sent><!--안평대군도 ^ 수양대군을-->
+
+<sent type="main" lang="kor" page="51" n="01">본대 수양대군은 문종이 죽고</sent>
+<sent type="main" lang="kor" page="51" n="02">어린 임금 단종이 선 뒤로 왕위 욕심내여</sent>
+<sent type="main" lang="kor" page="51" n="03">권람, 한명회의 랑인(浪人)들을 부동하야 내란을 이릇킬 긔회를 엿보고 잇섯다</sent><!--원문에서는 '권람' 뒤의 쉼표(,)가 보이지 않음.-->
+<sent type="main" lang="kor" page="51" n="04">수양대군의 활동이 차차로 의정대신들과 대립이 되니</sent>
+<sent type="main" lang="kor" page="51" n="05">수양대군은 몬저 의정부를 점령하기로 계획하고</sent>
+<sent type="main" lang="kor" page="51" n="06">무사 일단을 인솔하고 우의정 김종서의 집을 침입하야 김종서 부자를 려 죽이고</sent>
+<sent type="main" lang="kor" page="51" n="07">왕 밀고하야 의정대신의 김종서와 황보(皇甫仁)인의 일파가 안평대군을 부동하야 왕실을 뎐복하랴 한다 하고</sent>
+<sent type="main" lang="kor" page="51" n="08">일변으로 삼군(三軍)을 푸러 김종서의 당파를 잡으며</sent>
+<sent type="main" lang="kor" page="51" n="09">안평대군은 그 아들 우직(友直)과 함 강화(江華)로 안치(安置)를 식인다</sent>
+<sent type="main" lang="kor" page="51" n="10">안평대군이 강화로 가는 길에 중로에서 수양대군의 편지를 밧어보니</sent>
+<sent type="main" lang="kor" page="51" n="11">네 죄는 당연이 죽일 것이나</sent>
+<sent type="main" lang="kor" page="51" n="12">다만 세종과 문종의 너를 사랑하든 일을 생각하야 네 형벌을 감한 것이다 하얏다</sent>
+<sent type="main" lang="kor" page="51" n="13">안평대군은 편지를 보고나서 울며</sent>
+
+<sent type="main" lang="kor" page="52" n="01">『나도 내 죄를 모르는 것이 아니니 어서 가자』말하고 길을 재촉한다</sent>
+<sent type="main" lang="kor" page="52" n="02">그의 아들 우직이 넘어나 가엽서서</sent>
+<sent type="main" lang="kor" page="52" n="03">『제기 이왕부터 이러한 말로(末路)가 잇스리라고 말슴하얏드니</sent>
+<sent type="main" lang="kor" page="52" n="04">과연 제 말과 갓치 되얏스니 인저 엇지함닛가』</sent>
+<sent type="main" lang="kor" page="52" n="05">안평대군은 아들의 말을 듯고 나서</sent>
+<sent type="main" lang="kor" page="52" n="06">『저ㅣ 저ㅣ 할말이 업다』고 대답하며</sent>
+<sent type="main" lang="kor" page="52" n="07">양화도(揚花渡)에 이르러 궁하인 영긔(永奇)에게</sent>
+<sent type="main" lang="kor" page="52" n="08">『너는 서울로 도라가서 김우상(金右相)을 차저보고 엇지다가 남의 뒤에 러젓느냐고 무러보아라』하니</sent>
+<sent type="main" lang="kor" page="52" n="09">안평대군은 아즉 우의정 김종서가 죽지 아니한 줄로 알고</sent>
+<sent type="main" lang="kor" page="52" n="10">혹시나 자긔를 구원하야 줄가 하는 긔대를 가진 것이다</sent>
+<sent type="main" lang="kor" page="52" n="11">그러나 이는 벌사 김종서 아니라</sent>
+<sent type="main" lang="kor" page="52" n="12">생살부에 일홈이 실닌 관원은 죄다 죽은 뒤이다</sent>
+<sent type="main" lang="kor" page="52" n="13">수양대군은 전 내각을 박멸한 뒤로</sent>
+<sent type="main" lang="kor" page="52-53" n="14">자긔의 내각을 조직하고 다시 안평대군의 부자를 교동(喬桐)으로 옴기더니</sent><!--안평대군의 ^ 부자를-->
+
+<sent type="main" lang="kor" page="53" n="01">마참내 안평대군 궁을 적몰하고 안평대군 부자에게 사형을 나린다</sent>
+<sent type="main" lang="kor" page="53" n="02">이 륙종영의 한사람이 되는 리양(李穰)도 안평대군의 련루로 사형을 밧엇다</sent>
+<sent type="title3" lang="kor" page="53" n="03">금성대군(錦城大君)</sent>
+<sent type="main" lang="kor" page="53" n="04">금성대군은 세종의 여섯재 원자엿다</sent>
+<sent type="main" lang="kor" page="53" n="05">그는 키가 헌출하고 얼골이 옥갓치 틔인데다가</sent>
+<sent type="main" lang="kor" page="53" n="06">덕색(德色)이 낫하나며 고상한 아량(雅量)을 가져 무슨 말에든지 한점의 진루(塵累)가 붓지 안엇다</sent>
+<sent type="main" lang="kor" page="53" n="07">그는 수양대군에게 글을 배웟스며</sent>
+<sent type="main" lang="kor" page="53" n="08">라서 수양대군의 사랑을 밧엇다</sent>
+<sent type="main" lang="kor" page="53" n="09">그리더니 수양대군의 활동이 개시되면서부터 수양대군의 행동에 대하야 그는 불만을 가지지 안을 수 업섯다</sent>
+<sent type="main" lang="kor" page="53" n="10">문종이 죽고 어린 임금 단종이 선 뒤로</sent>
+<sent type="main" lang="kor" page="53" n="11">수양대군은 난봉패를 부동하야 어린 임금을 보좌하는 의정대신의 일파를 박살하고</sent>
+<sent type="main" lang="kor" page="53" n="12">안평대군의 부자지 죽이더니</sent>
+<sent type="main" lang="kor" page="53-54" n="13">그여코 어린 임금을 폐위식여 창덕궁으로 내고 자긔가 왕위를 점령한다</sent><!--폐위^식여-->
+
+<sent type="main" lang="kor" page="54" n="01">세상의 진루를 러바린 금성대군의 조촐한 마음으로</sent>
+<sent type="main" lang="kor" page="54" n="02">그 얼마나 수양대군의 행동을 타매하얏스랴</sent>
+<sent type="main" lang="kor" page="54" n="03">어린 임금은 왕위 앗긴 뒤로</sent>
+<sent type="main" lang="kor" page="54" n="04">창덕궁에 홀로 잇기가 외로워서 창덕궁의 북문을 개통하고</sent>
+<sent type="main" lang="kor" page="54" n="05">로 금성대군궁을 차저온다</sent>
+<sent type="main" lang="kor" page="54" n="06">금성대군은 불상한 어린 임금을 대할 마다 가슴이 근하얏다</sent>
+<sent type="main" lang="kor" page="54" n="07">그러나 금성대군은 어린 임금을 자조 대한다는 것이 세조의 공신들에게 혐의를 밧게 되얏다</sent>
+<sent type="main" lang="kor" page="54" n="08">우의정 한확(韓確)이 세조 밀고하야</sent>
+<sent type="main" lang="kor" page="54" n="09">금성대군이 한남군 영풍군과 녕양위(寧陽尉 )정종(鄭悰)의 일파를 결탁하야 상왕복위의 운동을 한다 말하얏다</sent>
+<sent type="main" lang="kor" page="54" n="10">세조는 한확의 밀고를 밧고 놀나</sent>
+<sent type="main" lang="kor" page="54" n="11">금성대군 이하 화의군, 한남군, 영풍군을 모다 적소(謫所)로 차내니</sent>
+<sent type="main" lang="kor" page="54" n="12">금성대군은 삭녕(朔寧)으로 가게 되얏다</sent>
+<sent type="main" lang="kor" page="54-55" n="13">금성대군이 삭녕에잇는 동안에 집현전 학사의 성삼문, 박팽년 일파와 무관의성승, 박쟁(박쟁(朴崝)의 무리가 서로 결합하야 상왕복위의 긔회를 엿보다가</sent><!--무관의성^승-->
+
+<sent type="main" lang="kor" page="55" n="01">김질(金礩)의 고변으로 일이 발각되니</sent>
+<sent type="main" lang="kor" page="55" n="02">이 사건에 관계자로 수다한 사람이 사형을 밧고</sent>
+<sent type="main" lang="kor" page="55" n="03">상왕은 로산군을 봉하야 녕월로 는다</sent>
+<sent type="main" lang="kor" page="55" n="04">상왕이 녕월로 나려간 뒤에</sent>
+<sent type="main" lang="kor" page="55" n="05">금성대군은 순흥(順興)으로 적소를 옴긴다</sent>
+<sent type="main" lang="kor" page="55" n="06">금성대군이 순흥으로 옴긴 뒤로</sent>
+<sent type="main" lang="kor" page="55" n="07">멀니 녕월지방을 바라보며 다만 하염업는 눈물을 려 보내더니</sent>
+<sent type="main" lang="kor" page="55" n="08">마참 리보흠(李甫欽)이 순흥부사로 나려온다</sent>
+<sent type="main" lang="kor" page="55" n="09">리보흠은 문장(文章)이 탁월하야 집현전의 박사(博士)로 잇든 사람이다</sent>
+<sent type="main" lang="kor" page="55" n="10">그는 단종이 폐위된 뒤로</sent>
+<sent type="main" lang="kor" page="55" n="11">벼살을 바리고 하야(下野)하랴 하얏스나</sent>
+<sent type="main" lang="kor" page="55" n="12">세조의 위력에 눌녀 마지못해 하더니</sent>
+<sent type="main" lang="kor" page="55" n="13">이번에 순흥부사로 온 것이다</sent>
+<sent type="main" lang="kor" page="55" n="14">금성대군은 리보흠을 만난 뒤로</sent>
+<sent type="main" lang="kor" page="55" n="15">서로 대하면 눈물을 흘녀가며 남중(南中)의 유력한 인물을 망라하야</sent>
+<sent type="main" lang="kor" page="55" n="16">녕월에 잇는 상왕을 복위하기로 비밀한 속에서 계획하야 왓다</sent>
+<sent type="main" lang="kor" page="55" n="17">그러나 이번의 운동은 최후의 실패로 도라간다</sent>
+<sent type="main" lang="kor" page="55" n="18">금성대군 이하 리보흠의 일파가 일시에 잡히고</sent>
+<sent type="main" lang="kor" page="55" n="19">어린 임금 단종의 그림자지도 이 세상에서 업서지고 말엇다</sent>
+
+<sent type="main" lang="kor" page="56" n="01">금성대군의 음모가 발각되야 리보흠 이하 남중의 여러 사람이 잡힐 에 금성대군은 안동옥(安東獄)에 가두엇다</sent>
+<sent type="main" lang="kor" page="56" n="02">금성대군은 옥리(獄吏)의 감금이 엄밀한 것도 불구하고</sent>
+<sent type="main" lang="kor" page="56" n="03">사형집행을 당하든 날 벌거버슨 몸으로 옥을 버서낫다</sent>
+<sent type="main" lang="kor" page="56" n="04">빈 겁풀만 직히든 옥리(獄吏)가 비로소 금성대군의 몸이 업서진 것을 발견하고 놀나 금성대군을 찻기에 안동부내가 물틋 뒤집혓다</sent>
+<sent type="main" lang="kor" page="56" n="05">그러나 아모 형적이 업서 관원들의 얼골이 흙빗흐로 죽엇다</sent>
+<sent type="main" lang="kor" page="56" n="06">그리자 어듸서인지 금성대군이 웃는 낫흐로 나타나며</sent>
+<sent type="main" lang="kor" page="56" n="07">『너희가 아모리 수효가 만어도 내가 숨기만 하면 엇지할 수 업스리라</sent>
+<sent type="main" lang="kor" page="56" n="08">그러나 내가  숨어서는 너의들이 화를 닙을 터이니</sent>
+<sent type="main" lang="kor" page="56" n="09">내가 엇지 참으로 도망하겟느냐</sent>
+<sent type="main" lang="kor" page="56" n="10">그러나 잠간 참어라</sent>
+<sent type="main" lang="kor" page="56" n="11">내 임금이 녕월 계시니</sent>
+<sent type="main" lang="kor" page="56" n="12">내 임금에게 마자막 하직이나 하게』하며</sent>
+<sent type="main" lang="kor" page="56-57" n="13">옥으로 들어가 의복을 거더입고 통곡하며 녕월 지방을 향하야 네번 절하고 나더니</sent><!--절하^고-->
+
+<sent type="main" lang="kor" page="57" n="01">『야! 인저는 죽여라』하며</sent>
+<sent type="main" lang="kor" page="57" n="02">태연이 교형(絞刑)을 밧는다</sent>
+<sent type="main" lang="kor" page="57" n="03">이날 순흥에서는 금성대군사건의 련루자가 일시에 사형을 밧엇다</sent>
+<sent type="main" lang="kor" page="57" n="04">순흥서 죽은 사람의 수효가 얼마나 만튼지</sent>
+<sent type="main" lang="kor" page="57" n="05">이날 죽은 사람의 피가 흘너가서 죽계(竹溪) 내물이 붉엇다 한다</sent>
+<sent type="title3" lang="kor" page="57" n="06">화의군(和義君)</sent>
+<sent type="main" lang="kor" page="57" n="07">화의군은 세종의 별자(別子)로서 맛(一男)이엿다</sent>
+<sent type="main" lang="kor" page="57" n="08">그는 어린이 에 특수한 재분을 가젓스며</sent>
+<sent type="main" lang="kor" page="57" n="09">남보담 여난 용긔를 가저 몸이 날새고 힘이 세엿다</sent>
+<sent type="main" lang="kor" page="57" n="10">그가 종학(宗學)에 드러가 교양을 밧을 에 모든 종친들 가온대 학문이 가장 우등이엿스며</sent>
+<sent type="main" lang="kor" page="57" n="11">글쓰시를 잘한다</sent>
+<sent type="main" lang="kor" page="57-58" n="12">『생에게는 충의가 제일 크다는 것』이 그의 유일한 인생관이엿다</sent>><!--것』^이-->
+
+<sent type="main" lang="kor" page="58" n="01">그는 이와 갓치 정확한 주관이 잇슴으로</sent>
+<sent type="main" lang="kor" page="58" n="02">세조가 왕관(王冠)을 앗슨 뒤로</sent>
+<sent type="main" lang="kor" page="58" n="03">세조의 정난공신들은 그를 가장 주목하게 된 것이다</sent>
+<sent type="main" lang="kor" page="58" n="04">한번은 그가 금성대군과 갓치 들 밧게 나가 활쏘기를 약속한 것이 일층 세조의 의혹을 게 되야 산청(山淸)으로 구양을 가게 되얏다</sent>
+<sent type="main" lang="kor" page="58" n="05">그가 산청으로 간 지 얼마 아니되야 다시 연안(延安)으로 옴기더니</sent>
+<sent type="main" lang="kor" page="58" n="06">집현전 학사들의 상왕복위의 계획이 발각된 뒤로</sent>
+<sent type="main" lang="kor" page="58" n="07">세조는 화의군을 더욱 의심하야 금산(錦山)으로 옴기고</sent>
+<sent type="main" lang="kor" page="58" n="08">밧갓 사람의 교통을 엄금하며</sent>
+<sent type="main" lang="kor" page="58" n="09">물품의 주고밧는 것도 허락지 안음으로</sent>
+<sent type="main" lang="kor" page="58" n="10">그는 마참내 금산 적소에서 분하야 죽엇다</sent>
+<sent type="title3" lang="kor" page="58" n="11">한남군(漢南君)</sent>
+<sent type="main" lang="kor" page="58" n="12">남군은 세종의 넷재 별자로서 그의 자는 군옥(羣玉)이다</sent>
+<sent type="main" lang="kor" page="58" n="13">그의 모친 혜빈양시(혜빈양씨(惠嬪楊氏)가 단종대왕을 젓먹여 기른 일이 잇슴으로</sent>
+<sent type="main" lang="kor" page="58" n="14">단종이 임금이 된 뒤에도</sent>
+
+<sent type="main" lang="kor" page="59" n="01">양시가 내전에 잇서서 어린 임금을 보호하고 잇섯다</sent>
+<sent type="main" lang="kor" page="59" n="02">그의 모자는 단종과 특별이 밀접한 관계가 잇슴으로</sent>
+<sent type="main" lang="kor" page="59" n="03">단종이 폐위된데 대하야 더한층 불평을 가지게 된 것이다</sent>
+<sent type="main" lang="kor" page="59" n="04">세조는 단종을 폐위한 뒤로</sent>
+<sent type="main" lang="kor" page="59" n="05">그의 모친 양시는 청풍(淸風)으로 구양을 보내고</sent>
+<sent type="main" lang="kor" page="59" n="06">그는 금산(錦山)으로 보내더니 다시 아산(牙山)으로 옴긴다</sent>
+<sent type="main" lang="kor" page="59" n="07">그가 아산에 잇슬 에 조정은 상왕복위의 음모가 발각되야</sent>
+<sent type="main" lang="kor" page="59" n="08">상왕 복위 일파가 전멸을 당한 뒤에</sent>
+<sent type="main" lang="kor" page="59" n="09">그를 다시 함양(咸陽)으로 옴기고</sent>
+<sent type="main" lang="kor" page="59" n="10">그의 집을 적몰(籍沒)하며 정난공신들은 그에게 사형을 주자고 세조 말하얏스나</sent>
+<sent type="main" lang="kor" page="59" n="11">세조는 그에게 사형을 허락지 안는 대신으로</sent>
+<sent type="main" lang="kor" page="59" n="12">그의 잇는 곳을 엄밀이 감금하야 족속(族屬)의 통행지 금지함으로</sent>
+<sent type="main" lang="kor" page="59" n="13">그는 마참내 화병(火病)으로 적소에서 자진(自盡)하얏다</sent>
+<sent type="title3" lang="kor" page="59" n="04">영풍군(永豐君)</sent>
+<sent type="main" lang="kor" page="59" n="15">영풍군은 세종의 여덜재 별자로서 호는 취금헌(醉琴軒)이다</sent>
+<sent type="main" lang="kor" page="59-60" n="16">그도 단종을 젓먹여기른 혜빈양시의 아들이 되야 단종이 폐위된 뒤로</sent><!--단종을 ^ 젓먹여기른-->
+
+<sent type="main" lang="kor" page="60" n="01">례안(禮安)으로 구양을 갓다가</sent>
+<sent type="main" lang="kor" page="60" n="02">얼마 안되야 안성(安城)으로 옴기고</sent>
+<sent type="main" lang="kor" page="60" n="03">안성서 다시 수원(水原)으로 옴긴 뒤에</sent>
+<sent type="main" lang="kor" page="60" n="04">집현전 학사의 일파가 상왕복위를 운동하든 일이 발각되니</sent>
+<sent type="main" lang="kor" page="60" n="05">이 운동에 주모자가 되는 박팽년(朴彭年)은 그의 장인이다</sent>
+<sent type="main" lang="kor" page="60" n="06">세조는 박팽년, 성삼문을 비롯하야 사륙신의 일족(一族)을 멸하고</sent><!--원문에서는 '박팽년' 뒤의 쉼표(,)가 보이지 않음.-->
+<sent type="main" lang="kor" page="60" n="07">련루자를 죄다 박멸한 뒤에</sent>
+<sent type="main" lang="kor" page="60" n="08">수원에 잇는 영풍군은 임실(任實)로 보내고 그의 집을 적몰한다</sent>
+<sent type="main" lang="kor" page="60" n="09">그는 임실 적소에서 일생을 마초엇다</sent>
+<sent type="title" lang="kor" page="60" n="10">生六臣傳[생륙신전] 終[종]</sent>
+
+</doc>
+

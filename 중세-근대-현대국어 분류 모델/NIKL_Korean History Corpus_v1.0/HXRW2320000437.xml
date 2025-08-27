@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">망월가</title><!--한국불교가사전집--> 
+<title lang="chi">望月歌</title><!-- 韓國佛敎歌辭全集-->
+<fullname>  </fullname>
+<generalname> </generalname>
+<abbre>  </abbre>
+<volume n=""/>
+<author>학명선사, 이상보 편</author><!--鶴鳴禪師/이상보 편저-->
+<date>20세기초</date><!--20C 초(作), 1930(刊行)-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>望月歌 한국불교가사전집</title>
+<pubPlace>서울</pubPlace><!---이 텍스트는 국립국어연구원 작업 내용 유지-->
+<publisher>집문당</publisher>
+<date>1980</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>1994/09/05</date>
+<respStmt>
+<resp>입력자</resp><name>권두환</name>
+</respStmt>
+<item>272~272면</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1994/09/07</date>
+<respStmt>
+<resp>교정자</resp><name>권두환</name>
+</respStmt>
+<item>교정</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1998/10</date>
+<respStmt>
+<resp>프로젝트 책임자</resp><name>김흥규</name>
+<resp>연구원</resp><name>차준경</name>
+<resp>프로그래머</resp><name>이애란</name>
+</respStmt>
+<item>파일 변환, 세종 21 프로젝트 헤더 붙임, 마킹</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>23/07/04</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>23/07/15</date>
+<respStmt>
+<resp>입력자</resp><name>김형진</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+<respStmt>
+<resp>교정자</resp><name>정은영</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<pages n="01">
+<img n="01">https://kohico.kr/_media/image/서명/01.jpg</img>
+<sent type="title" lang="kor" page="01" n="1">망월가(望月歌)</sent>
+<sent type="main" lang="kor" page="01" n="2">반월(半月)이네 반월(半月)이다</sent>
+<sent type="main" lang="kor" page="01" n="3">인간(人間)에는 반월(半月)이다</sent>
+<sent type="main" lang="kor" page="01" n="4">원월(圓月)이네 원월(圓月)이다</sent>
+<sent type="main" lang="kor" page="01" n="5">천상(天上)에는 원월(圓月)이다</sent>
+<sent type="main" lang="kor" page="01" n="6">반월(半月)되면 원월(圓月)되고</sent>
+<sent type="main" lang="kor" page="01" n="7">원월(圓月)되면 반월(半月)되니</sent>
+<sent type="main" lang="kor" page="01" n="8">반월(半月)부터 원월(圓月)이며</sent>
+<sent type="main" lang="kor" page="01" n="9">원월(圓月)부터 반월(半月)이냐</sent>
+<sent type="main" lang="kor" page="01" n="10">반월항시(半月恒時) 반월(半月)이며</sent>
+<sent type="main" lang="kor" page="01" n="11">원월항시(圓月恒時) 원월(圓月)이냐</sent>
+<sent type="main" lang="kor" page="01" n="12">인간반월(人間半月) 원월(圓月)되면</sent>
+<sent type="main" lang="kor" page="01" n="13">천상원월(天上圓月) 잔월(殘月)되니</sent>
+<sent type="main" lang="kor" page="01" n="14">원월(圓月)도로 반월(半月)되고</sent>
+<sent type="main" lang="kor" page="01" n="15">반월(半月)도로 원월(圓月)된다</sent>
+<sent type="main" lang="kor" page="01" n="16">원월(圓月)이냐 반월(半月)이냐</sent>
+<sent type="main" lang="kor" page="01" n="17">원월 반월 실상(實相) 업네</sent>
+</pages>
+</doc>

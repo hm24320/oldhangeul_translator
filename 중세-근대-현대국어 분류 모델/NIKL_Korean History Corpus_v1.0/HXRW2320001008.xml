@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">주역언해</title>
+<title lang="chi">周易諺解</title>
+<volume n="5"/>
+<author></author>
+<date>1606</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>다운샘</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date></date>
+<respStmt>
+<resp>입력자</resp><name>윤예진</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name></name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">周易諺解 券之五</sent>
+<sent type="title" lang="chi" page="01a" n="2">繫辭上傳</sent>
+<sent type="main" lang="chi" page="01a" n="3">天尊地卑니 乾坤이 定矣오</sent>
+<sent type="main" lang="kor" page="01a" n="3">天이 尊고 地ᅵ 卑니 乾과 坤이 定고</sent>
+<sent type="main" lang="chi" page="01a-01b" n="4">卑高以陳니 貴賤이 位矣오</sent>
+<sent type="main" lang="kor" page="01a-01b" n="4">卑과 高ᅵ  陳니 貴와 賤이 位고</sent><!--貴^와-->
+
+<sent type="main" lang="chi" page="01b" n="1">動靜有常니 剛柔ᅵ 斷矣오</sent>
+<sent type="main" lang="kor" page="01b" n="1">動홈과 靜홈이 常이 이시니 剛과 柔ᅵ 斷고</sent>
+<sent type="main" lang="chi" page="01b" n="2">方以類聚코 物以群分니 吉凶이 生矣오</sent>
+<sent type="main" lang="kor" page="01b" n="2">方이 類로  聚고 物이 群으로  分니 吉과 凶이 生고</sent>
+<sent type="main" lang="chi" page="01b" n="3">在天成象코 在地成形니 變化ᅵ 見矣라</sent>
+<sent type="main" lang="kor" page="01b" n="3">天애 이셔 象이 成고 地예 이셔 形이 成니 變과 化ᅵ 見니라</sent>
+<sent type="main" lang="chi" page="01b" n="4">是故로 剛柔ᅵ 相摩며 八卦ᅵ 相盪야</sent>
+<sent type="main" lang="kor" page="01b" n="4">이런 故로 剛과 柔ᅵ 서르 摩며 八卦ᅵ 서르 盪야</sent>
+
+<sent type="main" lang="chi" page="02a" n="1">鼓之以雷霆며 潤之以風雨며</sent>
+<sent type="main" lang="kor" page="02a" n="1">鼓호 雷霆으로  며 潤호 風雨로  며</sent>
+<sent type="main" lang="chi" page="02a" n="2">日月이 運行며 一寒一暑야</sent>
+<sent type="main" lang="kor" page="02a" n="2">日과 月이 運行며  번 寒고  번 暑야</sent>
+<sent type="main" lang="chi" page="02a" n="3">乾道ᅵ 成男고 坤道ᅵ 成女니</sent>
+<sent type="main" lang="kor" page="02a" n="3">乾의 道ᅵ 男이 成고 坤의 道ᅵ 女ᅵ 成니</sent>
+
+<sent type="main" lang="chi" page="02b" n="1">乾知大始오 坤作成物이라</sent>
+<sent type="main" lang="kor" page="02b" n="1">乾이 큰 始를 知고 坤이 物을 作成 디라</sent>
+<sent type="main" lang="chi" page="02b" n="2">乾以易知오 坤以簡能이니</sent>
+<sent type="main" lang="kor" page="02b" n="2">乾이 易로  知고 坤이 簡으로  能니</sent>
+
+<sent type="main" lang="chi" page="03a" n="1">易則易知오 簡則易從이오</sent>
+<sent type="main" lang="kor" page="03a" n="1">易면 수이 知고 簡면 수이 從고</sent>
+<sent type="main" lang="chi" page="03a" n="2">易知則有親이오 易從則有功이오</sent>
+<sent type="main" lang="kor" page="03a" n="2">易知면 親이 잇고 易從면 功이 잇고</sent>
+<sent type="main" lang="chi" page="03a" n="3">有親則可久ᅵ오 有功則可大오</sent>
+<sent type="main" lang="kor" page="03a" n="3">有親면 可히 久고 有功면 可히 大고</sent>
+<sent type="main" lang="chi" page="03a" n="4">可久則賢人之德이오 可大則賢人之業이니</sent>
+<sent type="main" lang="kor" page="03a" n="4">可久ᅵ면 賢人의 德이오 可大면 賢人의 業이니</sent>
+
+<sent type="main" lang="chi" page="03b" n="1">易簡而天下之理ᅵ 得矣니 天下之理ᅵ 得而成位乎其中矣니라</sent>
+<sent type="main" lang="kor" page="03b" n="1">易簡요매 天下읫 理ᅵ 得니 天下읫 理ᅵ 得욤애 그 中에 位ᅵ 成니라</sent>
+<sent type="theme" lang="chi" page="03b" n="2">右第一章</sent>
+<sent type="main" lang="chi" page="03b" n="3">聖人이 設卦야 觀象繫辭焉야 而明吉凶며</sent>
+<sent type="main" lang="kor" page="03b" n="3">聖人이 卦을 設야 象을 觀야 辭를 繫야 吉凶을 明며</sent>
+<sent type="main" lang="chi" page="03b-04a" n="4">剛柔ᅵ 相推야 而生變化니</sent>
+<sent type="main" lang="kor" page="03b-04a" n="4">剛柔ᅵ 서르 推야 變化를 生니</sent><!--生^-->
+
+<sent type="main" lang="chi" page="04a" n="1">是故로 吉凶者 失得之象也ᅵ오 悔吝者 憂虞之象也ᅵ오</sent>
+<sent type="main" lang="kor" page="04a" n="1">이런 故로 吉凶이란 거슨 失과 得의 象이오 悔와 吝이란 거슨 憂와 虞의 象이오</sent>
+
+<sent type="main" lang="chi" page="04b" n="1">變化者 進退之象也ᅵ오 剛柔者 晝夜之象也ᅵ오 六爻之動은 三極之道也ᅵ니</sent>
+<sent type="main" lang="kor" page="04b" n="1">變化ᅵ란 거슨 進과 退의 象이오 剛柔ᅵ란 거슨 晝와 夜의 象이오 六爻의 動은 三極이 道ᅵ니</sent>
+<sent type="main" lang="chi" page="04b" n="2">是故로 君子ᅵ 所居而安者 易之序也ᅵ오 所樂而玩者 爻之辭也ᅵ니</sent>
+<sent type="main" lang="kor" page="04b" n="2">이런 故로 君子ᅵ 居야 安 바 易의 序ᅵ오 樂야 玩 바 爻의 辭ᅵ니</sent>
+
+<sent type="main" lang="chi" page="05a" n="1">是故로 君子ᅵ 居則觀其象而玩其辭고 動則觀其變而玩其占니 是以自天祐之야 吉无不利니라</sent>
+<sent type="main" lang="kor" page="05a" n="1">이런 故로 君子ᅵ 居홈앤 그 象을 觀야 그 辭를 玩고 動홈앤 그 變을 觀야 그 占을 玩니 일로  天으로브터 祐야 吉야 利티 아니미 업니라</sent>
+<sent type="theme" lang="chi" page="05a" n="2">右第二章</sent>
+
+<sent type="main" lang="chi" page="05b" n="1">彖者 言乎象者也ᅵ오 爻者 言乎變者也ᅵ오</sent>
+<sent type="main" lang="kor" page="05b" n="1">彖이란 거 象을 니 거시오 爻란 거슨 變을 니 거시오</sent>
+<sent type="main" lang="chi" page="05b" n="2">吉凶者 言乎其失得也ᅵ오 悔吝者 言乎其小疵也ᅵ오 无咎者 善補過也ᅵ니</sent>
+<sent type="main" lang="kor" page="05b" n="2">吉凶이란 거슨 그 失得을 닐옴이오 悔吝이란 거슨 그 져근 疵를 닐옴이오 无咎란 거슨 善히 過를 補홈이니</sent>
+
+<sent type="main" lang="chi" page="06a" n="1">是故로 列貴賤者 存乎位고 齊小大者 存乎卦고 辨吉凶者 存乎辭고</sent>
+<sent type="main" lang="kor" page="06a" n="1">이런 故로 貴賤을 列 거슨 位예 存고 小大를 齊 거슨 卦예 存고 吉凶을 辯 거슨 辭애 存고</sent>
+<sent type="main" lang="chi" page="06a-06b" n="2">憂悔吝者 存乎介고 震无咎者 存乎悔니</sent>
+<sent type="main" lang="kor" page="06a-06b" n="2">悔吝을 憂 者 介예 存고 震야 无咎 者 悔예 存니</sent><!--存^-->
+
+<sent type="main" lang="chi" page="06b" n="1">是故로 卦有小大야 辭有險易니 辭也者 各指其所之니라</sent>
+<sent type="main" lang="kor" page="06b" n="1">이런 故로 卦ᅵ 小며 大홈이 이셔 辭ᅵ 險며 易홈이 이시니 辭ᅵ란 거슨 각각 그 之 바를 指홈이라</sent>
+<sent type="theme" lang="chi" page="06b" n="2">右第三章</sent>
+
+<sent type="main" lang="chi" page="07a" n="1">易이 與天地準이라 故로 能彌綸天地之道니</sent>
+<sent type="main" lang="kor" page="07a" n="1">易이 天地로 더브러 準 디라 故로 能히 天地의 道를 彌綸니</sent>
+<sent type="main" lang="chi" page="07a-07b" n="2">仰以觀於天文고 俯以察於地理라</sent>
+<sent type="main" lang="kor" page="07a-07b" n="2">仰야  天文을 觀고 俯야  地理를 察논 디라</sent><!--야 ^ -->
+
+<sent type="main" lang="chi" page="07b" n="1">是故로 知幽明之故며 原始反終이라</sent>
+<sent type="main" lang="kor" page="07b" n="1">이런 故로 幽와 明의 故를 알며 始를 原고 終을 反논 디라</sent>
+<sent type="main" lang="chi" page="07b" n="2">故로 知死生之說며 精氣爲物이오 游魂爲變이라</sent>
+<sent type="main" lang="kor" page="07b" n="2">故로 死와 生의 說을 알며 精과 氣ᅵ 物이 되고 魂이 游 거시 變이 되 디라</sent>
+<sent type="main" lang="chi" page="07b" n="3">是故로 知鬼神之情狀니라</sent>
+<sent type="main" lang="kor" page="07b" n="3">이런 故로 鬼와 神의 情狀을 아니라</sent>
+
+<sent type="main" lang="chi" page="08a" n="1">與天地相似ᅵ라 故로 不違니</sent>
+<sent type="main" lang="kor" page="08a" n="1">天地로 더브러 서  디라 故로 違티 아니니</sent>
+<sent type="main" lang="chi" page="08a" n="2">知周乎萬物而道濟天下ᅵ라</sent>
+<sent type="main" lang="kor" page="08a" n="2">知ᅵ 萬物애 周고 道ᅵ 天下를 濟논 디라</sent>
+<sent type="main" lang="chi" page="08a" n="3">故로 不過며 旁行而不流야 樂天知命이라</sent>
+<sent type="main" lang="kor" page="08a" n="3">故로 過티 아니며 旁으로 行고 流티 아니야 天을 樂고 命을 아 디라</sent>
+<sent type="main" lang="chi" page="08a" n="4">故로 不憂며 安土야 敦乎仁이라 故로 能愛니라</sent>
+<sent type="main" lang="kor" page="08a" n="4">故로 憂티 아니며 土애 安야 仁을 敦논 디라 故로 能히 愛니라</sent>
+
+<sent type="main" lang="chi" page="08b" n="1">範圍天地之化而不過며 曲成萬物而不遺며 通乎晝夜之道而知라</sent>
+<sent type="main" lang="kor" page="08b" n="1">天地의 化를 範圍야 過티 아니며 萬物을 曲키 成야 遺티 아니며 晝夜의 道를 通야 知 디라</sent>
+<sent type="main" lang="chi" page="08b" n="2">故로 神无方而易无體니라</sent>
+<sent type="main" lang="kor" page="08b" n="2">故로 神이 方이 업고 易이 體ᅵ 업스니라</sent>
+<sent type="theme" lang="chi" page="08b" n="3">右第四章</sent>
+
+<sent type="main" lang="chi" page="09a" n="1">一陰一陽之謂ᅵ 道니</sent>
+<sent type="main" lang="kor" page="09a" n="1"> 디위 陰며  디위 陽 거 닐온 道ᅵ니</sent>
+<sent type="main" lang="chi" page="09a" n="2">繼之者ᅵ 善也ᅵ오 成之者ᅵ 性也ᅵ라</sent>
+<sent type="main" lang="kor" page="09a" n="2">繼 거시 善이오 成 거시 性이라</sent>
+
+<sent type="main" lang="chi" page="09b" n="1">仁者ᅵ 見之애 謂之仁며 知者ᅵ 見之애 謂之知오 百姓은 日用而不知라</sent>
+<sent type="main" lang="kor" page="09b" n="1">仁者ᅵ 보매 仁이라 니며 知者ᅵ 보매 知라 니고 百姓은 日로 用호 아디 몯논 디라</sent>
+<sent type="main" lang="chi" page="09b" n="2">故로 君子之道ᅵ 鮮矣니라</sent>
+<sent type="main" lang="kor" page="09b" n="2">故로 君子의 道ᅵ 鮮니라</sent>
+<sent type="main" lang="chi" page="09b-10a" n="3">顯諸仁며 藏諸用야 鼓萬物而不與聖人同憂니 盛德大業이 至矣哉라</sent>
+<sent type="main" lang="kor" page="09b-10a" n="3">仁에 顯며 用애 藏야 萬物을 鼓호 聖人으로 더브러 가지로 憂티 아니니 盛 德과 큰 業이 지극다</sent><!--로 ^ 憂-->
+
+<sent type="main" lang="chi" page="10a" n="1">富有之謂ᅵ 大業이오 日新之謂盛德이오</sent>
+<sent type="main" lang="kor" page="10a" n="1">富히 有홈을 닐온 大業이오 日로 新홈을 닐온 盛德이오</sent>
+<sent type="main" lang="chi" page="10a" n="2">生生之謂ᅵ 易이오</sent>
+<sent type="main" lang="kor" page="10a" n="2">生며 生홈을 닐온 易이오</sent>
+
+<sent type="main" lang="chi" page="10b" n="1">成象之謂ᅵ 乾이오 效法之謂ᅵ 坤이오</sent>
+<sent type="main" lang="kor" page="10b" n="1">象이 成홈을 닐온 乾이오 法을 效홈을 닐온 坤이오</sent>
+<sent type="main" lang="chi" page="10b" n="2">極數知來之謂ᅵ 占이오 通變之謂ᅵ 事ᅵ오</sent>
+<sent type="main" lang="kor" page="10b" n="2">數를 極야 來를 알오믈 닐온 占이오 變을 通홈을 닐온 事ᅵ오</sent>
+<sent type="main" lang="chi" page="10b" n="3">陰陽不測之謂ᅵ 神이라</sent>
+<sent type="main" lang="kor" page="10b" n="3">陰에며 陽에 測디 몯홈을 닐온 神이라</sent>
+<sent type="theme" lang="chi" page="10b" n="4">右第五章</sent>
+
+<sent type="main" lang="chi" page="11a" n="1">夫易이 廣矣大矣라 以言乎遠則不禦고 以言乎邇則靜而正고 以言乎天地之間則備矣라</sent>
+<sent type="main" lang="kor" page="11a" n="1">易이 廣고 大 디라  遠을 言면 禦티 몯고  邇를 言면 靜야 正고  天地의 間을 言면 備니라</sent>
+
+<sent type="main" lang="chi" page="11b" n="1">夫乾은 其靜也ᅵ 專고 其動也ᅵ 直이라</sent>
+<sent type="main" lang="kor" page="11b" n="1">乾은 그 靜이 專고 그 動이 直 디라</sent>
+<sent type="main" lang="chi" page="11b" n="2">是以大ᅵ 生焉며 夫坤은 其靜也ᅵ 翕고 其動也ᅵ 闢이라 是以廣이 生焉니</sent>
+<sent type="main" lang="kor" page="11b" n="2">일로  大ᅵ 生며 坤은 그 靜이 翕고 그 動이 闢 디라 일로  廣이 生니</sent>
+<sent type="main" lang="chi" page="11b-12a" n="3">廣大 配天地고 變通은 配四時고 陰陽之義 配日月고 易簡之善은 配至德니라</sent>
+<sent type="main" lang="kor" page="11b-12a" n="3">廣大 天地예 配고 變通은 四時예 配고 陰陽의 義 日月에 配고 易簡의 善은 至德에 配니라</sent><!--通^은-->
+
+<sent type="theme" lang="chi" page="12a" n="1">右第六章</sent>
+<sent type="main" lang="chi" page="12a-12b" n="2">子曰 易이 其至矣乎뎌 夫易은 聖人이 所以崇德而廣業也ᅵ니 知 崇코 禮 卑니</sent>
+<sent type="main" lang="kor" page="12a-12b" n="2">子ᅵ 샤 易이 그 지극뎌 易은 聖人이  德을 崇며 業을 廣 배니 知 崇고 禮 卑니</sent><!--廣^-->
+
+<sent type="main" lang="chi" page="12b" n="1">崇은 效天고 卑 法地니라</sent>
+<sent type="main" lang="kor" page="12b" n="1">崇은 天을 效고 卑 地를 法니라</sent>
+<sent type="main" lang="chi" page="12b" n="2">天地ᅵ 設位어든 而易이 行乎其中矣니 成性存存이 道義之門이라</sent>
+<sent type="main" lang="kor" page="12b" n="2">天地ᅵ 位를 設얏거든 易이 그 中에 行니 成 性에 存고 存홈이 道義의 門이라</sent>
+<sent type="theme" lang="chi" page="12b" n="3">右第七章</sent>
+
+<sent type="main" lang="chi" page="13a" n="1">聖人이 有以見天下之賾야 而擬諸其形容며 象其物宜라 是故謂之象이오</sent>
+<sent type="main" lang="kor" page="13a" n="1">聖人이  天下읫 賾을 見야 그 形容애 擬며 그 物의 宜를 象 디라 이런 故로 象이라 니고</sent>
+
+<sent type="main" lang="chi" page="13b" n="1">聖人이 有以見天下之動야 而觀其會通야 以行其典禮며 繫辭焉야 以斷其吉凶이라 是故謂之爻ᅵ니</sent>
+<sent type="main" lang="kor" page="13b" n="1">聖人이  天下읫 動을 見야 그 會와 通을 觀야  그 典禮를 行며 辭를 繫야  그 吉凶을 斷 디라 이런 故로 爻ᅵ라 니니</sent>
+<sent type="main" lang="chi" page="13b" n="2">言天下之至賾호 而不可惡也ᅵ며 言天下之至動호 而不可亂也ᅵ니</sent>
+<sent type="main" lang="kor" page="13b" n="2">天下읫 지극 賾을 닐오 可히 惡티 몯 거시며 天下읫 지극 動을 닐오 可히 亂티 몯 거시니</sent>
+
+<sent type="main" lang="chi" page="14a" n="1">擬之而後에 言고 議之而後에 動이니 擬議야 以成其變化니라</sent>
+<sent type="main" lang="kor" page="14a" n="1">擬 後에 言고 議 後에 動니 擬며 議야  그 變化를 成니라</sent>
+
+<sent type="main" lang="chi" page="14b-15a" n="1">鳴鶴이 在陰이어 其子ᅵ 和之로다</sent>
+<sent type="main" lang="kor" page="14b-15a" n="1">鳴 鶴이 陰에 잇거 그 子ᅵ 和놋다</sent><!--和^-->
+
+<sent type="main" lang="chi" page="15a" n="1">我有好爵야 吾與爾靡之라니</sent>
+<sent type="main" lang="kor" page="15a" n="1">我ᅵ 好 爵을 두어 吾ᅵ 爾로 더브러 靡다 니</sent>
+<sent type="main" lang="chi" page="15a" n="2">子曰 君子ᅵ 居其室야 出其言에 善이면 則千里之外ᅵ 應之니</sent>
+<sent type="main" lang="kor" page="15a" n="2">子ᅵ 샤 君子ᅵ 그 室에 居야 그 言出홈애 善면 千里 밧기 應니</sent>
+<sent type="main" lang="chi" page="15a" n="3">況其邇者乎여 居其室야 出其言에 不善이면 則千里之外ᅵ 違之니</sent>
+<sent type="main" lang="kor" page="15a" n="3">며 그 邇 者ᅵ녀 그 室에 居야 그 言出홈애 善티 아니면 千里 밧기 違니</sent>
+<sent type="main" lang="chi" page="15a" n="4">況其邇者乎여 言出乎身야 加乎民며 行發乎邇야 見乎遠니</sent>
+<sent type="main" lang="kor" page="15a" n="4">며 그 邇 者ᅵ녀 言이 身에 出야 民에 加며 行이 邇예 發야 遠애 見니</sent>
+<sent type="main" lang="chi" page="15a-15b" n="5">言行은 君子之樞機니 樞機之發이 榮辱之主也ᅵ라</sent>
+<sent type="main" lang="kor" page="15a-15b" n="5">言과 行은 君子의 樞機니 樞機의 發홈이 榮과 辱의 主ᅵ라</sent><!--樞^機-->
+
+<sent type="main" lang="chi" page="15b" n="1">言行은 君子之所以動天地也ᅵ니 可不愼乎아</sent>
+<sent type="main" lang="kor" page="15b" n="1">言行은 君子의  天地를 動 배니 可히 愼티 아니랴</sent>
+<sent type="main" lang="chi" page="15b" n="2">同人이 先號咷而後笑ᅵ라니</sent>
+<sent type="main" lang="kor" page="15b" n="2">同人이 몬져 號咷고 後에 笑다 니</sent>
+<sent type="main" lang="chi" page="15b-16a" n="3">子曰 君子之道ᅵ 或出或處或黙或語ᅵ나 二人이 同心니 其利ᅵ 斷金이로다</sent>
+<sent type="main" lang="kor" page="15b-16a" n="3">子ᅵ 샤 君子의 道ᅵ 或 出며 或 處며 或 黙며 或 語나 二人이 心이 同니 그 利ᅵ 金을 斷리로다</sent><!--道^ᅵ-->
+
+<sent type="main" lang="chi" page="16a" n="1">同心之言이 其臭ᅵ 如蘭이로다</sent>
+<sent type="main" lang="kor" page="16a" n="1">心이 同 言이 그 臭ᅵ 蘭도다</sent>
+
+<sent type="main" lang="chi" page="16b" n="1">初六 藉用白茅ᅵ니 无咎ᅵ라니</sent>
+<sent type="main" lang="kor" page="16b" n="1">初六이 藉호 白茅를 用홈이니 咎ᅵ 업다 니</sent>
+<sent type="main" lang="chi" page="16b" n="2">子曰 苟錯諸地라도 而可矣어늘 藉之用茅니 何咎之有ᅵ리오 愼之至也ᅵ라</sent>
+<sent type="main" lang="kor" page="16b" n="2">子ᅵ 가샤 진실로 地예 錯야도 可커 藉호 茅를 니 므슴 咎ᅵ 이시리오 愼홈이 지극홈이라</sent>
+<sent type="main" lang="chi" page="16b" n="3">夫茅之爲物이 薄而用은 可重也ᅵ니 愼斯術也야 以往이면 其无所失矣리라</sent>
+<sent type="main" lang="kor" page="16b" n="3">茅의 物이 되옴이 薄호 用은 可히 重 거시니 이 術를 愼야  往면 그 失 빠 업스리라</sent>
+
+<sent type="main" lang="chi" page="17a" n="1">勞謙이니 君子ᅵ 有終이니 吉이라니</sent>
+<sent type="main" lang="kor" page="17a" n="1">勞 謙이니 君子ᅵ 終이 이심이니 吉다 니</sent>
+<sent type="main" lang="chi" page="17a" n="2">子曰 勞而不伐며 有功而不德이 厚之至也ᅵ니 語以其功下人者也ᅵ라 德言盛이오</sent>
+<sent type="main" lang="kor" page="17a" n="2">子ᅵ 샤 勞야도 伐티 아니며 功을 두어도 德디 아니홈이 厚의 지극홈이니 그 功으로  人에 下홈을 닐옴이라</sent>
+<sent type="main" lang="chi" page="17a-17b" n="3">禮言恭이니 謙也者 致恭야 以存其位者也ᅵ라</sent>
+<sent type="main" lang="kor" page="17a-17b" n="3">德은 盛을 言고 禮 恭을 言니 謙이란 거 恭을 닐외여  그 位 存 거시라</sent><!-- ^ 恭-->
+
+<sent type="main" lang="chi" page="17b" n="1">亢龍이니 有悔라니 子曰 貴而无位며 高而无民며 賢人이 在下位而无輔ᅵ라 是以動而有悔也ᅵ니라</sent>
+
+<sent type="main" lang="chi" page="18a" n="1">不出戶庭이면 无咎ᅵ라니</sent>
+<sent type="main" lang="kor" page="18a" n="1">戶庭애 出티 아니면 咎ᅵ 업다 니</sent>
+<sent type="main" lang="chi" page="18a" n="2">子曰 亂之所生也ᅵ 則言語ᅵ 以爲階니</sent>
+<sent type="main" lang="kor" page="18a" n="2">子ᅵ 샤 亂의 生 배 言語ᅵ  階ᅵ 되니</sent>
+<sent type="main" lang="chi" page="18a" n="3">君不密則失臣며 臣不密則失身며 幾事ᅵ 不密則害成니 是以君子ᅵ 愼密而不出也니라</sent>
+<sent type="main" lang="kor" page="18a" n="3">君이 密티 아니면 臣을 일흐며 臣이 密티 아니면 身을 일흐며 幾 事ᅵ 密티 아니면 害ᅵ 이니 일로  君子ᅵ 愼密야 出티 아니니라</sent>
+
+<sent type="main" lang="chi" page="18b-19a" n="1">子曰 作易者ᅵ 其知盜乎뎌 易曰 負且乘이라 致寇至라니</sent>
+<sent type="main" lang="kor" page="18b-19a" n="1">子ᅵ 샤 易을 作 者ᅵ 그 盜를 안뎌 易에 로 負 거시  乘혼 디라 寇의 至홈을 닐외다 니</sent><!--乘^혼-->
+
+<sent type="main" lang="chi" page="19a" n="1">負也者 小人之事也ᅵ오 乘也者 君子之器也ᅵ니 小人而乘君子之器라 盜ᅵ 思奪之矣며 上을 慢코 下 暴라</sent>
+<sent type="main" lang="kor" page="19a" n="1">負 小人의 事ᅵ오 乘은 君子의 器ᅵ니 小人이오 君子의 器를 乘혼디라 盜ᅵ 奪홈을 思며 上을 慢고 下 暴디라</sent>
+<sent type="main" lang="chi" page="19a" n="2">盜ᅵ 思伐之矣니 慢藏이 誨盜ᅵ며 冶容이 誨淫이니 易曰 負且乘致寇至라니 盜之招也ᅵ라</sent>
+<sent type="main" lang="kor" page="19a" n="2">盜ᅵ 伐홈을 思디니 藏을 慢히 홈이 盜를 誨며 容을 冶홈이 淫을 誨홈이니 易曰負且乘致寇至라 니 盜 招홈이라</sent>
+<sent type="theme" lang="chi" page="19a" n="3">右第八章</sent>
+
+<sent type="main" lang="chi" page="19b" n="1">天一地二天三地四天五地六天七地八天九地十이니</sent>
+<sent type="main" lang="kor" page="19b" n="1">天이 一이오 地ᅵ 二ᅵ오 天이 三이오 地ᅵ 四ᅵ오 天이 五ᅵ오 地ᅵ 六이오 天이 七이오 地ᅵ 八이오 天이 九ᅵ오 地ᅵ 十이니</sent>
+
+<sent type="main" lang="chi" page="20a" n="1">天數ᅵ 五ᅵ오 地數ᅵ 五ᅵ니 五位相得며 而各有合니</sent>
+<sent type="main" lang="kor" page="20a" n="1">天의 數ᅵ 五ᅵ오 地의 數ᅵ 五ᅵ니 五位ᅵ 서르 得며 각각 合홈이 이시니</sent>
+<sent type="main" lang="chi" page="20a" n="2">天數ᅵ 二十有五ᅵ오 地數ᅵ 三十이라</sent>
+<sent type="main" lang="kor" page="20a" n="2">天의 數ᅵ 二十이오  五ᅵ오 地의 數ᅵ 三十이라</sent>
+<sent type="main" lang="chi" page="20a" n="3">凡天地之數ᅵ 五十有五ᅵ니 此ᅵ 所以成變化며 而行鬼神也ᅵ라</sent>
+<sent type="main" lang="kor" page="20a" n="3">므릇 天地의 數ᅵ 五十이오  五ᅵ니  變化를 成며 鬼神를 行 배라</sent>
+
+<sent type="main" lang="chi" page="20b" n="1">大衍之數ᅵ 五十이니 其用은 四十有九ᅵ라</sent>
+<sent type="main" lang="kor" page="20b" n="1">大衍의 數ᅵ 五十이니 그 用은 四十이오  九ᅵ라</sent>
+<sent type="main" lang="chi" page="20b-21a" n="2">分而爲二야 以象兩고 掛一야 以象三고 揲之以四야 以象四時고 歸奇於扐야 以象閏니</sent>
+<sent type="main" lang="kor" page="20b-21a" n="2">分야 二를 라  兩을 象고 一을 掛야  三을 象고 揲호 四로  야 四時를 象고 奇를 扐에 歸야  閏을 象니</sent><!--야 ^ -->
+
+<sent type="main" lang="chi" page="21a" n="1">五歲예 再閏이라 故로 再扐而後에 掛니라</sent>
+<sent type="main" lang="kor" page="21a" n="1">五歲에 두 번 閏논 디라 故로 두 번 扐 後에 掛니라</sent>
+<sent type="main" lang="chi" page="21a-21b" n="2">乾之策이 二百一十有六이오 坤之策이 百四十有四ᅵ라 凡三百有六十이니 當期之日고</sent>
+<sent type="main" lang="kor" page="21a-21b" n="2">乾의 策이 二百一十이오  六이오 坤의 策이 百四十이오  四ᅵ라 므릇 三百이오  六十이니 期의 日에 當고</sent><!--六^이-->
+
+<sent type="main" lang="chi" page="21b" n="1">二篇之策이 萬有一千五百二十이니 當萬物之數也니</sent>
+<sent type="main" lang="kor" page="21b" n="1">二篇의 策이 萬이오  一千五百二十이니 萬物의 數에 當니</sent>
+
+<sent type="main" lang="chi" page="22a" n="1">是故로 四營而成易고 十有八變而成卦니</sent>
+<sent type="main" lang="kor" page="22a" n="1">이런 故로 네 번 營야 易이 成고 十이오  여 번 變야 卦ᅵ 成니</sent>
+<sent type="main" lang="chi" page="22a" n="2">八卦而小成야</sent>
+<sent type="main" lang="kor" page="22a" n="2">八卦ᅵ애 小成야</sent>
+<sent type="main" lang="chi" page="22a" n="3">引而伸之며 觸類而長之면 天下之能事ᅵ 畢矣리니</sent>
+<sent type="main" lang="kor" page="22a" n="3">引야 伸며 類를 觸야 長면 天下읫 能 事ᅵ 畢리니</sent>
+
+<sent type="main" lang="chi" page="22b" n="1">顯道고 神德行이라</sent>
+<sent type="main" lang="kor" page="22b" n="1">道를 顯고 德行을 神케  디라</sent>
+<sent type="main" lang="chi" page="22b" n="2">是故로 可與酬酢이며 可與祐神矣니</sent>
+<sent type="main" lang="kor" page="22b" n="2">이런 故로 可히 더브러 酬酌 거시며 可히 더브러 神을 祐 거시니</sent>
+<sent type="main" lang="chi" page="22b" n="3">子曰 知變化之道者ᅵ 其知神之所爲乎뎌</sent>
+<sent type="main" lang="kor" page="22b" n="3">子ᅵ 샤 變며 化 道를 아 者ᅵ 그 神의 爲 바 아뎌</sent>
+<sent type="theme" lang="chi" page="22b" n="4">右第九章</sent>
+
+<sent type="main" lang="chi" page="23a" n="1">易有聖人之道ᅵ 四焉니 以言者 尙其辭고 以動者 尙其變고 以制器者 尙其象고 以卜筮者 尙其占니</sent>
+<sent type="main" lang="kor" page="23a" n="1">易이 聖人의 道ᅵ 四ᅵ 이시니  言 者 그 辭를 尙고  動 者 그 變을 尙고  器를 制 者 그 象을 尙고  卜筮 者 그 占을 尙니</sent>
+
+<sent type="main" lang="chi" page="23b" n="1">是以君子ᅵ 將有爲也며 將有行也애 問焉而以言거든</sent>
+<sent type="main" lang="kor" page="23b" n="1">일로  君子ᅵ 쟝 爲홈이 이시며 쟝 行홈이 이쇼매 問야  言려 거</sent>
+<sent type="main" lang="chi" page="23b-24a" n="2">其受命也ᅵ 如嚮야 无有遠近幽深히 遂知來物니</sent>
+<sent type="main" lang="kor" page="23b-24a" n="2">그 命을 受홈이 嚮 야 遠近이며 幽深 이쇼미 업시 드여 來 物을 아니</sent><!--^-->
+
+<sent type="main" lang="chi" page="24a" n="1">非天下之至精이면 其孰能與於此ᅵ리오</sent>
+<sent type="main" lang="kor" page="24a" n="1">天下읫 지극 精이 아니면 그 뉘 能히 이예 與ᅵ 리오</sent>
+<sent type="main" lang="chi" page="24a-24b" n="2">參伍以變며 錯綜其數야 通其變야 遂成天地之文며 極其數야 遂定天下之象니</sent>
+<sent type="main" lang="kor" page="24a-24b" n="2">參며 伍야  變며 그 數를 錯며 綜야 그 變을 通야 드여 天地읫 文을 成며 그 數를 極야 드여 天下읫 象을 定니</sent><!--極^-->
+
+<sent type="main" lang="chi" page="24b" n="1">非天下之至變이면 其孰能與於此ᅵ리오</sent>
+<sent type="main" lang="kor" page="24b" n="1">天下읫 지극 變이 아니면 그 뉘 能히 이예 與리오</sent>
+<sent type="main" lang="chi" page="24b" n="2">易은 无思也며 无爲也야 寂然不動이라가 感而遂通天下之故니</sent>
+<sent type="main" lang="kor" page="24b" n="2">易은 思ᅵ 업스며 爲ᅵ 업서 寂然히 動티 아녀가 感홈애 드듸여 天下읫 故를 通니</sent>
+<sent type="main" lang="chi" page="24b-25a" n="3">非天下之至神이면 其孰能與於此ᅵ리오</sent>
+<sent type="main" lang="kor" page="24b-25a" n="3">天下읫 지극 神이 아니면 그 뉘 能히 이예 與ᅵ 리오</sent><!-- ^ 神-->
+
+<sent type="main" lang="chi" page="25a" n="1">夫易은 聖人之所以極深而硏幾也ᅵ니</sent>
+<sent type="main" lang="kor" page="25a" n="1">易은 聖人의  深을 極고 幾를 硏 배니</sent>
+
+<sent type="main" lang="chi" page="25b" n="1">唯深也故로 能通天下之志며</sent>
+<sent type="main" lang="kor" page="25b" n="1">오직 深 故로 能히 天下읫 志 通며</sent>
+<sent type="main" lang="chi" page="25b" n="2">唯幾也故로 能成天下之務며</sent>
+<sent type="main" lang="kor" page="25b" n="2">오직 幾 故로 能히 天下읫 務를 成며</sent>
+<sent type="main" lang="chi" page="25b" n="3">唯神也故로 不疾而速며 不行而至니</sent>
+<sent type="main" lang="kor" page="25b" n="3">오직 神 故로 疾티 아녀셔 速며 行티 아녀셔 至니</sent>
+<sent type="main" lang="chi" page="25b" n="4">子曰 易有聖人之道四焉者ᅵ 此之謂也ᅵ라</sent>
+<sent type="main" lang="kor" page="25b" n="4">子ᅵ 샤 易이 聖人의 道ᅵ 四ᅵ 잇다 홈이 이 닐옴이라</sent>
+<sent type="theme" lang="chi" page="25b" n="5">右第十章</sent>
+
+<sent type="main" lang="chi" page="26a" n="1">子曰 夫易은 何爲者也오 夫易은 開物成務야 冒天下之道니</sent>
+<sent type="main" lang="kor" page="26a" n="1">子ᅵ 샤 易은 엇디 者고 易은 物을 開야 務를 成야 天下읫 道를 冒니</sent>
+<sent type="main" lang="chi" page="26a" n="2">如斯而已者也ᅵ라</sent>
+<sent type="main" lang="kor" page="26a" n="2">이  미라</sent>
+<sent type="main" lang="chi" page="26a-26b" n="3">是故로 聖人이 以通天下之志며 以定天下之業며 以斷天下之疑니라</sent>
+<sent type="main" lang="kor" page="26a-26b" n="3">이런 故로 聖人이  天下읫 志를 通며  天下읫 業을 定며  天下읫 疑를 斷니라</sent><!--를 ^ 通-->
+
+<sent type="main" lang="chi" page="27a" n="1">是故로 蓍之德은 圓而神이오 卦之德은 方以知오 六爻之義 易以貢이니</sent>
+<sent type="main" lang="kor" page="27a" n="1">이런 故로 蓍의 德은 圓야 神고 卦의 德은 方야  知고 六爻의 義 易야  貢니</sent>
+<sent type="main" lang="chi" page="27a" n="2">聖人이 以此로 洗心야 退藏於密며 吉凶에 與民同患야 神以知來코 知以藏往니</sent>
+<sent type="main" lang="kor" page="27a" n="2">聖人이 일로  心을 洗야 密애 退藏며 吉凶애 民으로 더브러 患을 가지로 야 神으로  來 知고 知로  王을 藏니</sent>
+<sent type="main" lang="chi" page="27a" n="3">其孰能與於此哉리오 古之聰明叡知神武而不殺者夫뎌</sent>
+<sent type="main" lang="kor" page="27a" n="3">그 뉘 能히 이예 與리오 녯 聰明고 叡知고 神武고 殺티 아닌 者뎌</sent>
+
+<sent type="main" lang="chi" page="27b" n="1">是以明於天之道而察於民之故야 是興神物야 以前民用니</sent>
+<sent type="main" lang="kor" page="27b" n="1">일로  天의 道애 明고 民의 故애 察야 이예 神物을 興야  民의 用애 前니</sent>
+<sent type="main" lang="chi" page="27b" n="2">聖人이 以此齋戒야 以神明其德夫뎌</sent>
+<sent type="main" lang="kor" page="27b" n="2">聖人이 일로  齋며 戒야  그 德을 神明케 신뎌</sent>
+
+<sent type="main" lang="chi" page="28a" n="1">是故로 闔戶 謂之坤이오 闢戶 謂之乾이오</sent>
+<sent type="main" lang="kor" page="28a" n="1">이런 故로 戶를 闔홈을 坤이라 니고 戶를 闢홈을 乾이라 니고</sent>
+<sent type="main" lang="chi" page="28a" n="2">一闔一闢을 謂之變이오 往來不窮을 謂之通이오</sent>
+<sent type="main" lang="kor" page="28a" n="2"> 번 闔고  번 闢홈을 變이라 니고 往며 來야 窮티 아니믈 通이라 니고</sent>
+<sent type="main" lang="chi" page="28a-28b" n="3">見을 乃謂之象이오 形을 乃謂之器오</sent>
+<sent type="main" lang="kor" page="28a-28b" n="3">見 거 이예 象이라 니고 形 거 이예 器라 니고</sent><!-- ^ 거-->
+
+<sent type="main" lang="chi" page="28b" n="1">制而用之 謂之法이오 利用出入야 民咸用之 謂之神이라</sent>
+<sent type="main" lang="kor" page="28b" n="1">制야 用홈을 法이라 니고 用을 利히 야 出며 入야 民이 다 用홈을 神이라 니니라</sent>
+<sent type="main" lang="chi" page="28b" n="2">是故로 易有太極니 是生兩儀고 兩儀ᅵ 生四象고 四象이 生八卦니</sent>
+<sent type="main" lang="kor" page="28b" n="2">이런 故로 易에 太極이 이시니 이 兩儀를 生고 兩儀ᅵ 四象을 生고 四象이 八卦를 生니</sent>
+
+<sent type="main" lang="chi" page="29a" n="1">八卦ᅵ 定吉凶고 吉凶이 生大業니라</sent>
+<sent type="main" lang="kor" page="29a" n="1">八卦ᅵ 吉凶을 定고 吉凶이 大業을 生니라</sent>
+
+<sent type="main" lang="chi" page="29b" n="1">是故로 法象이 莫大乎天地고 變通이 莫大乎四時고</sent>
+<sent type="main" lang="kor" page="29b" n="1">이런 故로 法이며 象이 天地만 大니 업고 變며 通홈이 四時만 大니 업고</sent>
+<sent type="main" lang="chi" page="29b" n="2">縣象著明이 莫大乎日月고</sent>
+<sent type="main" lang="kor" page="29b" n="2">象을 縣야 著明욤이 日月만 大니 업고</sent>
+<sent type="main" lang="chi" page="29b" n="3">崇高ᅵ 莫大乎富貴고</sent>
+<sent type="main" lang="kor" page="29b" n="3">崇高ᅵ 富貴만 大니 업고</sent>
+<sent type="main" lang="chi" page="29b-30a" n="4">備物며 致用며 立成器야 以爲天下利ᅵ 莫大乎聖人고</sent>
+<sent type="main" lang="kor" page="29b-30a" n="4">物를 備며 用을 致며 立成器야  天下읫 利를 삼음이 聖人만 大니 업고</sent><!--天^下-->
+
+<sent type="main" lang="chi" page="30a" n="1">探賾索隱며 鉤深致遠야 以定天下之吉凶며 成天下之亹亹者ᅵ 莫大乎蓍龜니라</sent>
+<sent type="main" lang="kor" page="30a" n="1">賾을 探며 隱을 索며 深을 鉤며 遠을 致야  天下읫 吉凶을 定며 天下읫 亹亹를 成 者ᅵ 蓍와 龜만 大니 업스니라</sent>
+
+<sent type="main" lang="chi" page="30b" n="1">是故로 天生神物이어늘 聖人이 則之며</sent>
+<sent type="main" lang="kor" page="30b" n="1">이런 故로 天이 神物을 生야 聖人이 則며</sent>
+<sent type="main" lang="chi" page="30b" n="2">天地變化ᅵ어 聖人이 效之며</sent>
+<sent type="main" lang="kor" page="30b" n="2">天地ᅵ 變化거 聖人이 效며</sent>
+<sent type="main" lang="chi" page="30b" n="3">天垂象야 見吉凶이어늘 聖人이 象之며</sent>
+<sent type="main" lang="kor" page="30b" n="3">天이 象을 垂야 吉凶을 見거 聖人이 象며</sent>
+<sent type="main" lang="chi" page="30b" n="4">河出圖며 洛出書ᅵ어늘 聖人이 則之니</sent>
+<sent type="main" lang="kor" page="30b" n="4">河ᅵ 圖를 出며 洛이 書를 出야 聖人이 則니</sent>
+
+<sent type="main" lang="chi" page="31a" n="1">易有四象은 所以示也ᅵ오 繫辭焉은 所以告也ᅵ오 定之以吉凶은 所以斷也ᅵ라</sent>
+<sent type="main" lang="kor" page="31a" n="1">易에 四象이 이쇼믄  示 배오 辭를 繫홈은  告 배오 吉凶으로  定홈은  斷 배라</sent>
+<sent type="theme" lang="chi" page="31a" n="2">右第十一章</sent>
+
+<sent type="main" lang="chi" page="31b" n="1">易曰 自天祐之라 吉无不利라니</sent>
+<sent type="main" lang="kor" page="31b" n="1">易애 오 天으로브터 祐논 디라 吉야 利티 아니미 업다 니</sent>
+<sent type="main" lang="chi" page="31b" n="2">子曰 祐者 助也ᅵ니 天之所助者ᅵ 順也ᅵ오 人之所助者ᅵ 信也ᅵ니</sent>
+<sent type="main" lang="kor" page="31b" n="2">子ᅵ 가샤 祐 助홈이니 天의 助 배 順이오 人의 助 배 信이니</sent>
+<sent type="main" lang="chi" page="31b" n="3">履信思乎順고 又以尙賢也ᅵ라 是以自天祐之吉无不利也ᅵ니라</sent>
+<sent type="main" lang="kor" page="31b" n="3">信을 履야 順을 思고   賢을 尙 디라 일로  自天 祐之吉 无不利니라</sent>
+
+<sent type="main" lang="chi" page="32a" n="1">子曰 書不盡言며 言不盡意니</sent>
+<sent type="main" lang="kor" page="32a" n="1">子ᅵ 샤 書ᅵ 言을 盡티 몯며 言이 意를 盡티 몯니</sent>
+<sent type="main" lang="chi" page="32a" n="2">然則聖人之意 其不可見乎아</sent>
+<sent type="main" lang="kor" page="32a" n="2">그런 則 聖人의 意를 그 可히 보디 몯랴</sent>
+<sent type="main" lang="chi" page="32a" n="3">子曰 聖人이 立象야 以盡意며</sent>
+<sent type="main" lang="kor" page="32a" n="3">子ᅵ 샤 聖人이 象을 立야  意를 盡며</sent>
+<sent type="main" lang="chi" page="32a-32b" n="4">設卦야 以盡情僞며</sent>
+<sent type="main" lang="kor" page="32a-32b" n="4">卦를 設야  情僞를 盡며</sent><!--僞^를-->
+
+<sent type="main" lang="chi" page="32b" n="1">繫辭焉야 以盡其言며</sent>
+<sent type="main" lang="kor" page="32b" n="1">辭를 繫야  그 言를 盡며</sent>
+<sent type="main" lang="chi" page="32b" n="2">變而通之야 以盡利며</sent>
+<sent type="main" lang="kor" page="32b" n="2">變야 通야  利를 盡며</sent>
+<sent type="main" lang="chi" page="32b" n="3">鼓之舞之야 以盡神니라</sent>
+<sent type="main" lang="kor" page="32b" n="3">鼓며 舞야  神를 盡니라</sent>
+<sent type="main" lang="chi" page="32b-33a" n="4">乾坤은 其易之縕耶뎌 乾坤ᅵ 成列而易이 立乎其中矣니</sent>
+<sent type="main" lang="kor" page="32b-33a" n="4">乾坤은 그 易의 縕인뎌 乾坤이 列이 成요매 易이 그 中애 立니</sent><!--이 ^ 列-->
+
+<sent type="main" lang="chi" page="33a" n="1">乾坤이 毁則无以見易이오 易을 不可見則乾坤이 或幾乎息矣리라</sent>
+<sent type="main" lang="kor" page="33a" n="1">乾坤이 毁면  易을 보디 몯고 易을 可히 보디 몯면 乾坤이 或 거의 息리라</sent>
+<sent type="main" lang="chi" page="33a-33b" n="2">是故로 形而上者 謂之道ᅵ오</sent>
+<sent type="main" lang="kor" page="33a-33b" n="2">이런 故로 形으로 上을 道ᅵ라 니고</sent><!--^고-->
+
+<sent type="main" lang="chi" page="33b" n="1">形而下者 謂之器오</sent>
+<sent type="main" lang="kor" page="33b" n="1">形으로 下를 器ᅵ라 니고</sent>
+<sent type="main" lang="chi" page="33b" n="2">化而裁之 謂之變이오</sent>
+<sent type="main" lang="kor" page="33b" n="2">化야 栽홈을 變이라 니고</sent>
+<sent type="main" lang="chi" page="33b" n="3">推而行之 謂之通이오</sent>
+<sent type="main" lang="kor" page="33b" n="3">推야 行홈을 通이라 니고</sent>
+<sent type="main" lang="chi" page="33b" n="4">擧而措之天下之民을 謂之事業이라</sent>
+<sent type="main" lang="kor" page="33b" n="4">擧야 天下ᄉ 民애 措홈을 事業이라 니니라</sent>
+
+<sent type="main" lang="chi" page="34a" n="1">是故로 夫象은 聖人이 有以見天下之賾야 而擬諸其形容며 象其物宜라</sent>
+<sent type="main" lang="kor" page="34a" n="1">이런 故로 象은 聖人이  天下읫 賾을 見야 그 形容애 擬며 그 物의 宜를 象 디라</sent>
+<sent type="main" lang="chi" page="34a" n="2">是故謂之象이오 聖人이 有以見天下之動야 而觀其會通야 以行其典禮며 繫辭焉야 以斷其吉凶이라 是故謂之爻ᅵ니</sent>
+<sent type="main" lang="kor" page="34a" n="2">이런 故로 象이라 니고 聖人이  天下읫 動을 見야 그 會와 通을 觀야  그 典禮를 行며 辭를 繫야  그 吉凶을 斷 디라 이런 故로 爻ᅵ라 니니</sent>
+
+<sent type="main" lang="chi" page="34b" n="1">極天下之賾者 存乎卦고 鼓天下之動者 存乎辭고</sent>
+<sent type="main" lang="kor" page="34b" n="1">天下읫 賾을 極히 홈은 卦예 存고 天下읫 動을 鼓홈은 辭애 存고</sent>
+
+<sent type="main" lang="chi" page="35a" n="1">化而裁之 存乎變고 推而行之 存乎通고</sent>
+<sent type="main" lang="kor" page="35a" n="1">化야 栽홈은 變에 存고 推야 行홈은 通애 存고</sent>
+<sent type="main" lang="chi" page="35a" n="2">神而明之 存乎其人고 黙而成之며</sent>
+<sent type="main" lang="kor" page="35a" n="2">神야 明홈은 그 人애 存고 黙야 成며</sent>
+<sent type="main" lang="chi" page="35a" n="3">不言而信은 存乎德行니라</sent>
+<sent type="main" lang="kor" page="35a" n="3">言티 아녀셔 信홈은 德行애 存니라</sent>
+<sent type="theme" lang="chi" page="35a" n="4">右第十二章</sent>
+<sent type="title" lang="chi" page="35a" n="5">周易諺解 券之五</sent>
+</doc>

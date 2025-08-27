@@ -1,0 +1,2610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title lang="kor">국민소학독본</title>
+<title lang="chi">國民小學讀本</title>
+<fullname> </fullname>
+<generalname> </generalname>
+<abbre> </abbre>
+<volume n=""/>
+<author>학부편집국 編</author><!--學部 編輯局-->
+<date>1895</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>韓國開化期敎科書叢書1</title>
+<pubPlace>서울</pubPlace>
+<publisher>아세아문화사</publisher>
+<date>1977</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2023/05/16</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>2023/06/07</date>
+<respStmt>
+<resp>입력자</resp><name>신용남</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>정한데로</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+</revisionDesc>
+
+</teiHeader>
+
+<sent type="title" lang="kor" page="01a" n="1">國民小學讀本</sent>
+<sent type="title2" lang="kor" page="01a" n="2">第一課 大朝鮮國</sent>
+<sent type="main" lang="kor" page="01a" n="3">우리 大朝鮮은 亞細亞洲 中의 一 王國이라</sent>
+<sent type="main" lang="kor" page="01a" n="4">其 形은 西北으로셔 東南에 出 半島國이니</sent>
+<sent type="main" lang="kor" page="01a" n="5">氣候가 西北은 寒氣 甚나</sent>
+<sent type="main" lang="kor" page="01a" n="6">東南은 溫和며</sent>
+<sent type="main" lang="kor" page="01a" n="7">土地 肥沃고</sent>
+<sent type="main" lang="kor" page="01a" n="8">物産이 饒足니라</sent>
+<sent type="main" lang="kor" page="01a" n="9">世界 萬國 中에 獨立國이 許多니</sent>
+<sent type="main" lang="kor" page="01a" n="10">우리 大朝鮮國도 其中의 一國이라</sent>
+<sent type="main" lang="kor" page="01a" n="11">檀箕衛와 三韓과 羅麗濟와 高麗 지난 古國이오</sent>
+<sent type="main" lang="kor" page="01a" n="12">太祖 大王이 開國신 後</sent>
+<sent type="main" lang="kor" page="01a" n="13">五百有餘 年에 王統이 連續 나라이라</sent>
+<sent type="main" lang="kor" page="01a-01b" n="14">吾等은 如此 나라에 生야</sent>
+<!--此^-->
+
+<sent type="main" lang="kor" page="01b" n="1">今日에 와셔</sent>
+<sent type="main" lang="kor" page="01b" n="2">世界 萬國과 修好 通商야</sent>
+<sent type="main" lang="kor" page="01b" n="3">富强을 닷토 에 當얏시니</sent>
+<sent type="main" lang="kor" page="01b" n="4">우리 王國에 사 臣民의 最急務</sent>
+<sent type="main" lang="kor" page="01b" n="5">다만 學業을 힘쓰기에 잇니라</sent>
+<sent type="main" lang="kor" page="01b" n="6"> 나라의 富强이며 貧弱은</sent>
+<sent type="main" lang="kor" page="01b" n="7">一國 臣民의 學業에 關係니</sent>
+<sent type="main" lang="kor" page="01b" n="8">汝等 學徒 泛然이 알지 말며</sent>
+<sent type="main" lang="kor" page="01b" n="9">學業은 다만 讀書와 習字와 算數 等</sent>
+<sent type="main" lang="kor" page="01b" n="10">課業을 修  아니오</sent>
+<sent type="main" lang="kor" page="01b" n="11">平常 父母와 敎師와 長上의 敎訓을 조차</sent>
+<sent type="main" lang="kor" page="01b" n="12">言行을 바르게 미 最要니라</sent>
+<sent type="title2" lang="kor" page="01b" n="13">第二課 廣智識</sent>
+<sent type="main" lang="kor" page="01b" n="14">人人이 各自 奮發야</sent>
+<sent type="main" lang="kor" page="01b-02a" n="15">能히 農工商의 業을 勉勵기 智識에 달녀시니</sent>
+<!--^기-->
+
+<sent type="main" lang="kor" page="02a" n="1">智識을 넓히랴 면</sent>
+<sent type="main" lang="kor" page="02a" n="2">讀書으로 못지라</sent>
+<sent type="main" lang="kor" page="02a" n="3">必然 千事萬物을 精密히 觀察 然後에</sent>
+<sent type="main" lang="kor" page="02a" n="4">智識의 門으로 드러가니라</sent>
+<sent type="main" lang="kor" page="02a" n="5">千事萬物을 精密히 觀察기</sent>
+<sent type="main" lang="kor" page="02a" n="6">眼力을 開미 要緊니</sent>
+<sent type="main" lang="kor" page="02a" n="7">眼力을 開랴 면</sent>
+<sent type="main" lang="kor" page="02a" n="8">엇더 事物이나 양 눈을 열고</sent>
+<sent type="main" lang="kor" page="02a" n="9">그 힘을 쓰기에 注意 것시니</sent>
+<sent type="main" lang="kor" page="02a" n="10">萬一 注意 아니면</sent>
+<sent type="main" lang="kor" page="02a" n="11">눈을 열어도</sent>
+<sent type="main" lang="kor" page="02a" n="12">明盲과 無異야</sent>
+<sent type="main" lang="kor" page="02a" n="13">智識을 넓히기 難니라</sent>
+<sent type="main" lang="kor" page="02a" n="14">能히 眼力을 쓰 者</sent>
+<sent type="main" lang="kor" page="02a" n="15">山川과 原野에 놀아</sent>
+<sent type="main" lang="kor" page="02a" n="16">花卉며 禽獸 보아도</sent>
+<sent type="main" lang="kor" page="02a" n="17">그 形狀과 性品 等에 注意므로</sent>
+<sent type="main" lang="kor" page="02a-02b" n="18">보 것마다 그 음을 恱케  故로</sent>
+<!--보^-->
+
+<sent type="main" lang="kor" page="02b" n="1">事物을 精密히 觀察면</sent>
+<sent type="main" lang="kor" page="02b" n="2">智識을 넓힐  아니라</sent>
+<sent type="main" lang="kor" page="02b" n="3">그 恱心을 더이라</sent>
+<sent type="main" lang="kor" page="02b" n="4">一日은 한 野蠻人이</sent>
+<sent type="main" lang="kor" page="02b" n="5">제 집의 獸肉을 被盜 바ㅣ 되야</sent>
+<sent type="main" lang="kor" page="02b" n="6">그 近處 仔細히 觀察 後에</sent>
+<sent type="main" lang="kor" page="02b" n="7">其 人을 잡으랴 林中으로 차갓더니</sent>
+<sent type="main" lang="kor" page="02b" n="8"> 二三 遊獵者 만나</sent>
+<sent type="main" lang="kor" page="02b" n="9">問曰</sent>
+<sent type="main" lang="kor" page="02b" n="10">矮身 老人을 만낫냐</sent>
+<sent type="main" lang="kor" page="02b" n="11">나 其 人을 보지 못얏시나</sent>
+<sent type="main" lang="kor" page="02b" n="12">短尾 小狗 리고 잇나니라</sent>
+<sent type="main" lang="kor" page="02b" n="13">遊獵者ㅣ 答曰</sent>
+<sent type="main" lang="kor" page="02b" n="14">果然 그러 을 보왓노라</sent>
+<sent type="main" lang="kor" page="02b" n="15">네 엇지 보지 못 을 如此히 아뇨</sent>
+<sent type="main" lang="kor" page="02b" n="16">野蠻人이 曰</sent>
+<sent type="main" lang="kor" page="02b-03a" n="17">그  몸이 矮小믈 알기</sent>
+<!--小^-->
+
+<sent type="main" lang="kor" page="03a" n="1">獸肉을 偷코저 야</sent>
+<sent type="main" lang="kor" page="03a" n="2">石으로 도듬믈 보미오</sent>
+<!--'듬'은 뒤집어져 인쇄됨-->
+<sent type="main" lang="kor" page="03a" n="3">老人인 줄 알기</sent>
+<sent type="main" lang="kor" page="03a" n="4">沙上에 足跡의 이 갓가오미오</sent>
+<sent type="main" lang="kor" page="03a" n="5">短尾 小拘</sent>
+<sent type="main" lang="kor" page="03a" n="6">其 人이 沙上에 안진 겻</sent>
+<sent type="main" lang="kor" page="03a" n="7">개가 안진 痕跡이 잇기로 判知노라</sent>
+<sent type="main" lang="kor" page="03a" n="8">遊獵者ㅣ 그 말을 듯고</sent>
+<sent type="main" lang="kor" page="03a" n="9">크게 그 精密 觀察을 稱贊얏시니</sent>
+<!--''은 ''를 잘못 인쇄한 것으로 보임-->
+<sent type="main" lang="kor" page="03a" n="10">그 野蠻人은 눈에 丁 字 아지 못호</sent>
+<sent type="main" lang="kor" page="03a" n="11">能히 智識을 넓히 法을 야 者ㅣ로다</sent>
+<!--'야'는 '아'를 잘못 인쇄한 것으로 보임-->
+<sent type="title2" lang="kor" page="03a" n="12">第三課 漢陽</sent>
+<sent type="main" lang="kor" page="03a" n="13">漢陽은 我國의 首府ㅣ라</sent>
+<sent type="main" lang="kor" page="03a" n="14">大君主 陛下의 皇居시 地며</sent>
+<sent type="main" lang="kor" page="03a" n="15">政府 잇 곳이라</sent>
+<sent type="main" lang="kor" page="03a-03b" n="16">全國 政事 다 이 에셔 出며</sent>
+<!--에^셔-->
+
+<sent type="main" lang="kor" page="03b" n="1">宮殿 第宅 肆店이 櫛比야</sent>
+<sent type="main" lang="kor" page="03b" n="2">繁榮이 全國에 읏듬이라</sent>
+<sent type="main" lang="kor" page="03b" n="3">漢陽의 地勢</sent>
+<sent type="main" lang="kor" page="03b" n="4">北은 華岳 天險을 據고</sent>
+<sent type="main" lang="kor" page="03b" n="5">東南은 漢水 控야</sent>
+<sent type="main" lang="kor" page="03b" n="6">山川이 淸淑니라</sent>
+<sent type="main" lang="kor" page="03b" n="7">都城은 周ㅣ 九千九百七十五 步오</sent>
+<sent type="main" lang="kor" page="03b" n="8">城郭이 整然며</sent>
+<sent type="main" lang="kor" page="03b" n="9">城門은 八이니</sent>
+<sent type="main" lang="kor" page="03b" n="10">東에 興人과 南에 崇禮 正門이니</sent>
+<sent type="main" lang="kor" page="03b" n="11">結構 宏大고</sent>
+<sent type="main" lang="kor" page="03b" n="12">皇居 景福宮이오</sent>
+<sent type="main" lang="kor" page="03b" n="13">光化門이 壯嚴 無比며</sent>
+<sent type="main" lang="kor" page="03b" n="14">諸部 宮前 大路 兩邊에 잇셔</sent>
+<sent type="main" lang="kor" page="03b" n="15">都城의 美觀이라</sent>
+<sent type="main" lang="kor" page="03b" n="16">城中을 東西南北 中 五部에 區別야</sent>
+<sent type="main" lang="kor" page="03b" n="17">部에 坊이 잇고</sent>
+<sent type="main" lang="kor" page="03b" n="18">坊에 洞이 잇니라</sent>
+
+<sent type="main" lang="kor" page="04a" n="1">崇禮門으로 鐘路지</sent>
+<!--''처럼 보이나 잉크가 묻은 것임-->
+<sent type="main" lang="kor" page="04a" n="2">西門으로 興人門지</sent>
+<sent type="main" lang="kor" page="04a" n="3">큰길은 京城 大路ㅣ라</sent>
+<sent type="main" lang="kor" page="04a" n="4">其中에 鐘路 商賈가 輻輳야</sent>
+<sent type="main" lang="kor" page="04a" n="5">第一 繁華니라</sent>
+<sent type="main" lang="kor" page="04a" n="6">南山은 靑松이 接天야</sent>
+<sent type="main" lang="kor" page="04a" n="7">幽靜기 測量업고</sent>
+<sent type="main" lang="kor" page="04a" n="8">山頂에 올나 보면</sent>
+<sent type="main" lang="kor" page="04a" n="9">都城은 眼前에 잇고</sent>
+<sent type="main" lang="kor" page="04a" n="10">漢水 漾漾며</sent>
+<sent type="main" lang="kor" page="04a" n="11">晴天에 富平 外洋도 뵈이니</sent>
+<sent type="main" lang="kor" page="04a" n="12"> 都城의 園囿ㅣ라</sent>
+<sent type="main" lang="kor" page="04a" n="13">五江은 漢水 沿岸에 잇서</sent>
+<sent type="main" lang="kor" page="04a" n="14">都城 運輪의 咽喉ㅣ라</sent>
+<sent type="main" lang="kor" page="04a" n="15">其中에 麻浦와 西江은</sent>
+<sent type="main" lang="kor" page="04a" n="16">帆檣이 林立야 繁盛니라</sent>
+<sent type="main" lang="kor" page="04a" n="17">漢陽은 八道의 首府ㅣ라</sent>
+<sent type="main" lang="kor" page="04a" n="18">如此히 繁華호</sent>
+<sent type="main" lang="kor" page="04a" n="19">外國의 首府와 比較먼</sent>
+<!--'먼'은 '면'의 탈획으로 보임-->
+<sent type="main" lang="kor" page="04a" n="20">學藝며 商工이며 交通이며</sent>
+<sent type="main" lang="kor" page="04a-04b" n="21">其 餘百般 事業이</sent>
+<!--餘^百-->
+
+<sent type="main" lang="kor" page="04b" n="1">具備치 못 일이 多니</sent>
+<sent type="main" lang="kor" page="04b" n="2">如此 事情을 硏究야</sent>
+<sent type="main" lang="kor" page="04b" n="3">漸漸 文明開化되게 經營기</sent>
+<sent type="main" lang="kor" page="04b" n="4"> 生徒의 將來 事業이니</sent>
+<sent type="main" lang="kor" page="04b" n="5">專心야 修學지어다</sent>
+<sent type="title2" lang="kor" page="04b" n="6">第四課 我家</sent>
+<sent type="main" lang="kor" page="04b" n="7">우리 집이라 면</sent>
+<sent type="main" lang="kor" page="04b" n="8">萬般 什物은 勿論고</sent>
+<sent type="main" lang="kor" page="04b" n="9">居 父母와 兄弟와 姉妹로 奴婢지</sent>
+<sent type="main" lang="kor" page="04b" n="10">全혀 包括니</sent>
+<sent type="main" lang="kor" page="04b" n="11">鷄犬과 牛馬의 飼養이며</sent>
+<sent type="main" lang="kor" page="04b" n="12">草木과 花卉의 培養이</sent>
+<sent type="main" lang="kor" page="04b" n="13">다 吾家에 屬 것시니라</sent>
+<sent type="main" lang="kor" page="04b" n="14">我家 如此히 緊切나</sent>
+<sent type="main" lang="kor" page="04b" n="15">本是 偶然이 기 것시 아니라</sent>
+<sent type="main" lang="kor" page="04b" n="16">經營며 建造야</sent>
+<sent type="main" lang="kor" page="04b" n="17">우리 居게 되기지</sent>
+
+<sent type="main" lang="kor" page="05a" n="1">許多 勞動을 要며</sent>
+<sent type="main" lang="kor" page="05a" n="2">許多 浮費 要니</sent>
+<sent type="main" lang="kor" page="05a" n="3">爲先 집을 지으랴 면</sent>
+<sent type="main" lang="kor" page="05a" n="4">그 圖式을 지어</sent>
+<sent type="main" lang="kor" page="05a" n="5">木石을 모흐고</sent>
+<sent type="main" lang="kor" page="05a" n="6">木手와 石手의 力으로 始作며</sent>
+<sent type="main" lang="kor" page="05a" n="7">그 木石을 運來기 役軍을 要고</sent>
+<sent type="main" lang="kor" page="05a" n="8"> 各色 機械 쓰기 鍛冶도 要니라</sent>
+<sent type="main" lang="kor" page="05a" n="9">집이 大槪 된 後에</sent>
+<sent type="main" lang="kor" page="05a" n="10">瓦匠과 泥工과 席匠과 塗褙工을 雇用야</sent>
+<sent type="main" lang="kor" page="05a" n="11">盖瓦와 塗墁과 舖陳 等物을 갓초아</sent>
+<sent type="main" lang="kor" page="05a" n="12">집은 畢役나</sent>
+<sent type="main" lang="kor" page="05a" n="13">그으로 我家라  슈 업니</sent>
+<sent type="main" lang="kor" page="05a" n="14">一切 什物 器用이며</sent>
+<sent type="main" lang="kor" page="05a" n="15">衣服 飮食의 所用을 辦備 然後에</sent>
+<sent type="main" lang="kor" page="05a" n="16">一家 眷族이 朝夕에 相親며</sent>
+<sent type="main" lang="kor" page="05a" n="17">相樂야 </sent>
+<sent type="main" lang="kor" page="05a-05b" n="18">各各 그 業을 勉從야</sent>
+<!--業^을-->
+
+ 
+
+<sent type="main" lang="kor" page="05b" n="1">겨우 我家ㅣ라 稱니라</sent>
+<sent type="main" lang="kor" page="05b" n="2">우리 如此 爽快 집의 사나</sent>
+<sent type="main" lang="kor" page="05b" n="3">녯젹을 도라보니</sent>
+<sent type="main" lang="kor" page="05b" n="4">今日 갓흔 집을 經營게 되기</sent>
+<sent type="main" lang="kor" page="05b" n="5">여러 번 變遷을 지시니</sent>
+<sent type="main" lang="kor" page="05b" n="6">太古 時節에</sent>
+<sent type="main" lang="kor" page="05b" n="7">이 다 洞穴 中에 居고</sent>
+<sent type="main" lang="kor" page="05b" n="8">石器로 各色의 物件을 지엇시며</sent>
+<sent type="main" lang="kor" page="05b" n="9">그 後에 樹木의 柯枝를 結야 盖屋고</sent>
+<sent type="main" lang="kor" page="05b" n="10">或 큰 나무 셰워</sent>
+<sent type="main" lang="kor" page="05b" n="11">그 우희 皮物을 고 덥허</sent>
+<sent type="main" lang="kor" page="05b" n="12">因야 粗糙 小屋을 지엇시며</sent>
+<sent type="main" lang="kor" page="05b" n="13">野蠻人 中에</sent>
+<sent type="main" lang="kor" page="05b" n="14">至今도 如此 집의 居 者ㅣ 잇니</sent>
+<sent type="main" lang="kor" page="05b" n="15">人智가 進步기에 좃차 石器 銅으로 變고</sent>
+<sent type="main" lang="kor" page="05b" n="16">今日에 鐵器 쓰고 堅牢며</sent>
+<sent type="main" lang="kor" page="05b-06a" n="17">壯嚴 집을 지으니</sent>
+<!--지^으-->
+
+<sent type="main" lang="kor" page="06a" n="1">然則</sent>
+<sent type="main" lang="kor" page="06a" n="2">우리가 家眷과 갓치 爽快 집에 居기</sent>
+<sent type="main" lang="kor" page="06a" n="3"> 幸福이라</sent>
+<sent type="main" lang="kor" page="06a" n="4">다만 그 幸福으로 滿足지 말고</sent>
+<sent type="main" lang="kor" page="06a" n="5">더욱 爽快게 經綸기</sent>
+<sent type="main" lang="kor" page="06a" n="6">우리의 小務ㅣ니라</sent>
+<sent type="title2" lang="kor" page="06a" n="7">第五課 世宗大王 紀事</sent>
+<sent type="main" lang="kor" page="06a" n="8">우리나라 世宗大王게셔 萬古의 大聖人이시라</sent>
+<sent type="main" lang="kor" page="06a" n="9">人民의 農事 爲샤</sent>
+<sent type="main" lang="kor" page="06a" n="10">農事集說이라  冊을 지어 頒布시고</sent>
+<sent type="main" lang="kor" page="06a" n="11">刑罰의 慘酷믈 惻怛히 녀기사</sent>
+<sent type="main" lang="kor" page="06a" n="12">答背法을 除시고</sent>
+<sent type="main" lang="kor" page="06a" n="13">倫紀의 綱領을 定사</sent>
+<sent type="main" lang="kor" page="06a" n="14">三綱行實이라  冊을 頒行시고</sent>
+<sent type="main" lang="kor" page="06a" n="15">龍飛御天歌 撰사</sent>
+<sent type="main" lang="kor" page="06a" n="16">祖宗의 德을 贊揚시고</sent>
+<sent type="main" lang="kor" page="06a" n="17"> 雅樂을 正시며</sent>
+<sent type="main" lang="kor" page="06a-06b" n="18"> 萬世에 欽仰 者</sent>
+<!--萬^世-->
+
+<sent type="main" lang="kor" page="06b" n="1">世宗大王이 아</sent>
+<sent type="main" lang="kor" page="06b" n="2">外國에 다 其 國 文字ㅣ 有되</sent>
+<sent type="main" lang="kor" page="06b" n="3">我國에 無다 샤</sent>
+<sent type="main" lang="kor" page="06b" n="4">訓民正音을 지으시고</sent>
+<sent type="main" lang="kor" page="06b" n="5">冊板 삭이 法이 不便다 사</sent>
+<sent type="main" lang="kor" page="06b" n="6">活字 鑄시니</sent>
+<sent type="main" lang="kor" page="06b" n="7">此 다 大聖人의 開物成務시 文明 德이라</sent>
+<sent type="main" lang="kor" page="06b" n="8">支那의 堯舜禹湯이 아모리 聖人이라 </sent>
+<sent type="main" lang="kor" page="06b" n="9">我 世宗大王의 聖神신 德을 엇지 當리오</sent>
+<sent type="main" lang="kor" page="06b" n="10">支那 古昔 帝王에</sent>
+<sent type="main" lang="kor" page="06b" n="11">비록 聖賢이 多다 야도</sent>
+<sent type="main" lang="kor" page="06b" n="12">世宗大王게셔 行신</sent>
+<sent type="main" lang="kor" page="06b" n="13">여러 가지 文明신 德을 合 者ㅣ 無니라</sent>
+<sent type="main" lang="kor" page="06b" n="14">是故로 我 世宗大王게셔</sent>
+<sent type="main" lang="kor" page="06b" n="15">堯舜禹湯 </sent>
+<sent type="main" lang="kor" page="06b" n="16">上에 大聖人이시니</sent>
+<sent type="main" lang="kor" page="06b" n="17">汝等 學徒들은</sent>
+
+<sent type="main" lang="kor" page="07a" n="">我國에 이러선 大聖人이 계오신 쥴 알지어다</sent>
+<!--'선'은 '신'의 오자로 보임-->
+<sent type="main" lang="kor" page="07a" n="">我 大君主 陛下계셔</sent>
+<sent type="main" lang="kor" page="07a" n="">大聖人의 道德으로 大聖人의 王統을 繼承시니</sent>
+<sent type="main" lang="kor" page="07a" n="">吾等은 大聖人의 人民이라</sent>
+<sent type="main" lang="kor" page="07a" n="">아모조록 愛國心으로 工夫 잘야</sent>
+<sent type="main" lang="kor" page="07a" n="">富强 文明 化 協贊야</sent>
+<sent type="main" lang="kor" page="07a" n="">大聖人 自主 獨立國의</sent>
+<sent type="main" lang="kor" page="07a" n="">活潑 勤勉 自由 良民이 되미 可니라</sent>
+<sent type="title2" lang="kor" page="07a" n="">第六課 商事 及 交易</sent>
+<sent type="main" lang="kor" page="07a" n="">한 坊洞에 사 은</sent>
+<sent type="main" lang="kor" page="07a" n="">다른 坊洞에 과 往來 交通을 긋치지 못고</sent>
+<sent type="main" lang="kor" page="07a" n="">한 府縣과 다른 府縣 이도 亦然니</sent>
+<sent type="main" lang="kor" page="07a" n="">世界 萬國 이도</sent>
+<sent type="main" lang="kor" page="07a-07b" n="">다 그럿치 못 슈 업니라</sent>
+<!--^니-->
+
+<sent type="main" lang="kor" page="07b" n="1">如此히 往來 交通을 긋치지 못기</sent>
+<sent type="main" lang="kor" page="07b" n="2">무 緣ㅣ 故뇨 니</sent>
+<sent type="main" lang="kor" page="07b" n="3">한 坊洞에셔</sent>
+<sent type="main" lang="kor" page="07b" n="4">産出과 製作 物件은 限이 잇스나</sent>
+<sent type="main" lang="kor" page="07b" n="5">人民이 구 物件은 限이 업 故로</sent>
+<sent type="main" lang="kor" page="07b" n="6"> 坊洞 人民 中에셔 他地에 가셔</sent>
+<sent type="main" lang="kor" page="07b" n="7">그 不足 物件을 購來야 </sent>
+<sent type="main" lang="kor" page="07b" n="8">그 求을 應며</sent>
+<sent type="main" lang="kor" page="07b" n="9">各國의 土地와 氣候가 지 못 故로</sent>
+<sent type="main" lang="kor" page="07b" n="10">그 産出과 製作의 物貨도 自然 지 못지라</sent>
+<sent type="main" lang="kor" page="07b" n="11">져 에 苧麻 만이 고</sent>
+<sent type="main" lang="kor" page="07b" n="12">이 에 木花 지어 며</sent>
+<sent type="main" lang="kor" page="07b" n="13">이 나라에 海面이 만하</sent>
+<sent type="main" lang="kor" page="07b" n="14">魚物이 흔고</sent>
+<sent type="main" lang="kor" page="07b" n="15">져 나라 山岳이 만하</sent>
+<sent type="main" lang="kor" page="07b" n="16">材木이 饒足니</sent>
+<sent type="main" lang="kor" page="07b" n="17">如此則</sent>
+
+<sent type="main" lang="kor" page="08a" n="1">이 에 남은 物貨 다란 에 輪送야</sent>
+<sent type="main" lang="kor" page="08a" n="2">셔로 不足을 補 거시 自然의 勢ㅣ라</sent>
+<sent type="main" lang="kor" page="08a" n="3">이 곳 交易이 기 緣由ㅣ니라</sent>
+<sent type="main" lang="kor" page="08a" n="4">漢陽과 各府 都會</sent>
+<sent type="main" lang="kor" page="08a" n="5">他 地方에셔 産出과 製作 物貨 集散 곳이라</sent>
+<sent type="main" lang="kor" page="08a" n="6">集散이 速면</sent>
+<sent type="main" lang="kor" page="08a" n="7">더욱 繁盛고</sent>
+<sent type="main" lang="kor" page="08a" n="8">集散이 遲면</sent>
+<sent type="main" lang="kor" page="08a" n="9">漸漸 衰殘니</sent>
+<sent type="main" lang="kor" page="08a" n="10">集散의 遲速은</sent>
+<sent type="main" lang="kor" page="08a" n="11">道路와 橋梁과 舟車 等의 便不便에 屬니라</sent>
+<sent type="main" lang="kor" page="08a" n="12">如此니</sent>
+<sent type="main" lang="kor" page="08a" n="13">은 孤立야</sent>
+<sent type="main" lang="kor" page="08a" n="14">生業을 經營치 못리니</sent>
+<sent type="main" lang="kor" page="08a" n="15">부 相依며</sent>
+<sent type="main" lang="kor" page="08a" n="16">相親 것이오</sent>
+<sent type="main" lang="kor" page="08a" n="17">外國과 貿易기</sent>
+<sent type="main" lang="kor" page="08a" n="18">國家 富强에 相關이 有니</sent>
+<sent type="main" lang="kor" page="08a-08b" n="19">크게 要念 거시니라</sent>
+<!--니^라-->
+
+<sent type="title2" lang="kor" page="08b" n="1">第七課 植物 變化</sent>
+<sent type="main" lang="kor" page="08b" n="2">植物은 土地와 氣候 좃차 變化니</sent>
+<sent type="main" lang="kor" page="08b" n="3">食料 植物의 變化 이 맛당히 알지니</sent>
+<sent type="main" lang="kor" page="08b" n="4">植物의 變化 土地와 氣候에 有</sent>
+<sent type="main" lang="kor" page="08b" n="5">農夫와 園丁의 耕作과 裁培 因야</sent>
+<sent type="main" lang="kor" page="08b" n="6">變種 거시 젹지 아니니라</sent>
+<sent type="main" lang="kor" page="08b" n="7">蔓菁과 蘿葍은 耕作을 因야</sent>
+<sent type="main" lang="kor" page="08b" n="8">여러 가지로 變化</sent>
+<sent type="main" lang="kor" page="08b" n="9">土地와 氣候 좃차</sent>
+<sent type="main" lang="kor" page="08b" n="10">스로 變 거시  有니</sent>
+<sent type="main" lang="kor" page="08b" n="11">紅蔓菁을 한 地方에셔 他 地方으로 옴기면</sent>
+<sent type="main" lang="kor" page="08b" n="12">흰 게 되고</sent>
+<sent type="main" lang="kor" page="08b" n="13">肥大 蘿葍을 다  移植면</sent>
+<sent type="main" lang="kor" page="08b-09a" n="14">細小히 變고</sent>
+<!--變^-->
+
+<sent type="main" lang="kor" page="09a" n="1"> 野生의 胡蘿葍은 細瘦야</sent>
+<sent type="main" lang="kor" page="09a" n="2">羽莖 갓되</sent>
+<sent type="main" lang="kor" page="09a" n="3">裁培 잘면</sent>
+<sent type="main" lang="kor" page="09a" n="4">크고 길게 되니라</sent>
+<sent type="main" lang="kor" page="09a" n="5">如此 變化</sent>
+<sent type="main" lang="kor" page="09a" n="6">다만 食料되 植物 아니라</sent>
+<sent type="main" lang="kor" page="09a" n="7">盆栽에도 만니</sent>
+<sent type="main" lang="kor" page="09a" n="8">熱國 所産의</sent>
+<sent type="main" lang="kor" page="09a" n="9">크기 宮塔  사버뎬이라  植物은</sent>
+<sent type="main" lang="kor" page="09a" n="10">日本으로 移植면</sent>
+<sent type="main" lang="kor" page="09a" n="11">次第로 細小히 되고</sent>
+<sent type="main" lang="kor" page="09a" n="12">놉기 四五 寸에 變며</sent>
+<sent type="main" lang="kor" page="09a" n="13"> 薔薇와 蘭草  거슨</sent>
+<sent type="main" lang="kor" page="09a" n="14">園丁의 力으로 變種을 지어</sent>
+<sent type="main" lang="kor" page="09a" n="15">數百 種이 되게 야</sent>
+<sent type="main" lang="kor" page="09a" n="16">各色 일홈을 지어</sent>
+<sent type="main" lang="kor" page="09a" n="17">愛玩 者ㅣ 만코</sent>
+<sent type="main" lang="kor" page="09a" n="18">갑시 數百 元 되 者ㅣ 잇니라</sent>
+<sent type="main" lang="kor" page="09a" n="19">植物이 全體 不變호</sent>
+<sent type="main" lang="kor" page="09a-09b" n="20">一部만 變 거시 더욱 만흐니</sent>
+<!--욱 ^ 만-->
+
+<sent type="main" lang="kor" page="09b" n="1">그 葉을 말면</sent>
+<sent type="main" lang="kor" page="09b" n="2">葉質이 變化야</sent>
+<sent type="main" lang="kor" page="09b" n="3">鱗莖 中에 養分을 貯蓄 者ㅣ 잇스니</sent>
+<sent type="main" lang="kor" page="09b" n="4">百合  거시오</sent>
+<sent type="main" lang="kor" page="09b" n="5">或 葉의 一部가 變化야</sent>
+<sent type="main" lang="kor" page="09b" n="6">針形을 이루 것도 잇고</sent>
+<sent type="main" lang="kor" page="09b" n="7">葉質이 卷鬚치 되 것도 잇시니</sent>
+<sent type="main" lang="kor" page="09b" n="8">是 等을 變形葉이라 總稱니라</sent>
+<sent type="main" lang="kor" page="09b" n="9"> 貌樣도 여러 가지로 變化니</sent>
+<sent type="main" lang="kor" page="09b" n="10">雄蕋 雌蕋에도  各色 變化ㅣ 잇스나</sent>
+<sent type="main" lang="kor" page="09b" n="11">一定 理 라 硏究면</sent>
+<sent type="main" lang="kor" page="09b" n="12">입며 시 變化 緣由 알 거시니라</sent>
+<!--''의 아래아의 위치가 시옷과 모음 사이에 있음-->
+<sent type="title2" lang="kor" page="09b" n="13">第八課 書籍</sent>
+<sent type="main" lang="kor" page="09b" n="14">書籍은 古今 의 言行이며 思想이며</sent>
+<sent type="main" lang="kor" page="09b-10a" n="15">智識 等을 收集 거시라</sent>
+<!--을 ^ 收-->
+
+<sent type="main" lang="kor" page="10a" n="1">故로 書籍은 寫眞과 다이 업니</sent>
+<sent type="main" lang="kor" page="10a" n="2">寫眞은 古今 의 外貌만 寫出거니와</sent>
+<sent type="main" lang="kor" page="10a" n="3">그 言行과 그 思想과 智識을 仔細히 寫出하기</sent>
+<sent type="main" lang="kor" page="10a" n="4">書籍에 由니라</sent>
+<sent type="main" lang="kor" page="10a" n="5">如此 書籍은</sent>
+<sent type="main" lang="kor" page="10a" n="6">古今 의 言行 思想 智識 等을 寫出 寫眞이</sent>
+<sent type="main" lang="kor" page="10a" n="7">愛讀면 益已 利人미 不少니</sent>
+<sent type="main" lang="kor" page="10a" n="8">可謂 람의 羅針盤이라</sent>
+<sent type="main" lang="kor" page="10a" n="9"> 타고 萬 里 波濤 지나랴 면</sent>
+<sent type="main" lang="kor" page="10a" n="10">所頼 다만 한 羅針盤이니</sent>
+<sent type="main" lang="kor" page="10a" n="11">의 生業 經營에도</sent>
+<sent type="main" lang="kor" page="10a" n="12"> 小頼가 업지 못지라</sent>
+<sent type="main" lang="kor" page="10a" n="13">書籍은  古今 萬國에 往復 길이니</sent>
+<sent type="main" lang="kor" page="10a-10b" n="14">그 길을 좃지 아니면</sent>
+<!--니^-->
+
+<sent type="main" lang="kor" page="10b" n="1">古今 萬國의 物情을 알기 어려오니라</sent>
+<sent type="main" lang="kor" page="10b" n="2">남의 지은 書籍은 如此히 큰 利益이 잇시니</sent>
+<sent type="main" lang="kor" page="10b" n="3">우리 等은 남의 著書 볼 으로</sent>
+<sent type="main" lang="kor" page="10b" n="4">滿足 것시 아니오</sent>
+<sent type="main" lang="kor" page="10b" n="5">自進야 有益 冊을 지어</sent>
+<sent type="main" lang="kor" page="10b" n="6">萬世不朽 事業을 圖謀 것시니</sent>
+<sent type="main" lang="kor" page="10b" n="7">有益 冊은</sent>
+<sent type="main" lang="kor" page="10b" n="8">一世 一代의 을 益  아니오</sent>
+<sent type="main" lang="kor" page="10b" n="9">子孫 後世 益미 甚大야</sent>
+<sent type="main" lang="kor" page="10b" n="10">有益 發明을  事業과 갓고</sent>
+<sent type="main" lang="kor" page="10b" n="11"> 그 冊과 그 姓名은</sent>
+<sent type="main" lang="kor" page="10b" n="12">後代 照야</sent>
+<sent type="main" lang="kor" page="10b" n="13">消滅치 아니니</sent>
+<sent type="main" lang="kor" page="10b" n="14">爽치 아니냐</sent>
+<sent type="title2" lang="kor" page="10b" n="15">第九課 以德報怨</sent>
+<sent type="main" lang="kor" page="10b" n="16">한 에 한 老人이 잇서</sent>
+<sent type="main" lang="kor" page="10b" n="17">年이 六十이 넘은지라</sent>
+<sent type="main" lang="kor" page="10b-11a" n="18">一生 中에 사 가진 田畓을</sent>
+<!--生 ^ 中-->
+
+<sent type="main" lang="kor" page="11a" n="1">三 子의게 分與고</sent>
+<sent type="main" lang="kor" page="11a" n="2">다만 錢兩을 남은 櫃 가젓더니</sent>
+<sent type="main" lang="kor" page="11a" n="3">一日은 그 三 子 불너</sent>
+<sent type="main" lang="kor" page="11a" n="4">갓가히 안치고 일으기</sent>
+<sent type="main" lang="kor" page="11a" n="5">汝等 中에 自今으로 三 個月 동안에</sent>
+<sent type="main" lang="kor" page="11a" n="6">人事 中에 最善 일을 行 者ㅣ 잇시면</sent>
+<sent type="main" lang="kor" page="11a" n="7">이 櫃 주리라 約束을 얏더니</sent>
+<sent type="main" lang="kor" page="11a" n="8">一日은 그 長子ㅣ 老人을 對야 曰</sent>
+<sent type="main" lang="kor" page="11a" n="9">近時에  이 게 와서 돈을 맛기니</sent>
+<sent type="main" lang="kor" page="11a" n="10">모르 이오</sent>
+<sent type="main" lang="kor" page="11a" n="11"> 標 못 바다 갓시니</sent>
+<sent type="main" lang="kor" page="11a" n="12">그 돈을 바로  것스로 기 어려온 일이 아니로되</sent>
+<sent type="main" lang="kor" page="11a" n="13">그 이 다시 와셔</sent>
+<sent type="main" lang="kor" page="11a" n="14">그 돈을 게 지면</sent>
+<sent type="main" lang="kor" page="11a" n="15">나 맛탓 報酬 밧지 아니고</sent>
+<sent type="main" lang="kor" page="11a" n="16">바로 보랴 니</sent>
+<sent type="main" lang="kor" page="11a-11b" n="17">그 일이 善行이라 오리잇가</sent>
+<!--善^行-->
+
+<sent type="main" lang="kor" page="11b" n="1">老人이 曰</sent>
+<sent type="main" lang="kor" page="11b" n="2">그 의 맛당히  일이니</sent>
+<sent type="main" lang="kor" page="11b" n="3">엇지 善行이라 리오</sent>
+<sent type="main" lang="kor" page="11b" n="4">第二子ㅣ 告曰</sent>
+<sent type="main" lang="kor" page="11b" n="5">近日에  川邊에 놀더니</sent>
+<sent type="main" lang="kor" page="11b" n="6">七八 歲 된 兒孩가 그릇 물속에 지거</sent>
+<sent type="main" lang="kor" page="11b" n="7"> 바로 救야</sent>
+<sent type="main" lang="kor" page="11b" n="8">그 집으로 다리고 갓시니</sent>
+<sent type="main" lang="kor" page="11b" n="9">그 일은 가 生命을 도라보지 아니고 救이니</sent>
+<sent type="main" lang="kor" page="11b" n="10">足히 善行이라 아니오릿가</sent>
+<sent type="main" lang="kor" page="11b" n="11">老人이 曰</sent>
+<sent type="main" lang="kor" page="11b" n="12">남의 危急믈 보고 救 것슨</sent>
+<sent type="main" lang="kor" page="11b" n="13">의 맛당히 行 일이라</sent>
+<sent type="main" lang="kor" page="11b" n="14">아즉 善行이라  슈 업니라</sent>
+<sent type="main" lang="kor" page="11b" n="15">第三子ㅣ 告曰</sent>
+<sent type="main" lang="kor" page="11b" n="16">지 밤에  山逕을 지나더니</sent>
+<sent type="main" lang="kor" page="11b" n="17">가 平生 深仇로 아 者ㅣ</sent>
+<sent type="main" lang="kor" page="11b" n="18">懸崖 우희 자거날</sent>
+<sent type="main" lang="kor" page="11b-12a" n="19">그  손가락으로 쳐도</sent>
+<!--손^가-->
+
+<sent type="main" lang="kor" page="12a" n="1">바로 崖下로 러질 것</sent>
+<sent type="main" lang="kor" page="12a" n="2">오히려 그 危殆을 아 보지 못야</sent>
+<sent type="main" lang="kor" page="12a" n="3">그  손을 들고 을 여</sent>
+<sent type="main" lang="kor" page="12a" n="4">安全 흐로 다리고 왓이다</sent>
+<sent type="main" lang="kor" page="12a" n="5">老人이 그 말을 듯고 喜色이 滿面야</sent>
+<sent type="main" lang="kor" page="12a" n="6">그 櫃 第三子 쥬니라</sent>
+<sent type="title2" lang="kor" page="12a" n="7">第十課 時計</sent>
+<sent type="main" lang="kor" page="12a" n="8">世上에 時計 나기 前에</sent>
+<sent type="main" lang="kor" page="12a" n="9">甁에 모래 담고</sent>
+<sent type="main" lang="kor" page="12a" n="10">或 그릇셰 물을 담아</sent>
+<sent type="main" lang="kor" page="12a" n="11">그 밋 小孔으로</sent>
+<sent type="main" lang="kor" page="12a" n="12">물과 모가 져 나리 分數 보고</sent>
+<sent type="main" lang="kor" page="12a" n="13">時刻을 알더니</sent>
+<sent type="main" lang="kor" page="12a" n="14">至今도 그와  法을 쓰 나라히 或 잇니라</sent>
+<sent type="main" lang="kor" page="12a" n="15">그 法은 의 머리만 헌 코코라 果實의 질을</sent>
+<sent type="main" lang="kor" page="12a" n="16">正中으로 割야</sent>
+<sent type="main" lang="kor" page="12a-12b" n="17">그 一片 밋헤 小孔을 穿야</sent>
+<!--그 ^ 一-->
+
+<sent type="main" lang="kor" page="12b" n="1">水筒에 워 두면</sent>
+<sent type="main" lang="kor" page="12b" n="2">물이 漸漸 小孔으로 드러</sent>
+<sent type="main" lang="kor" page="12b" n="3">一 時間에 水滿야</sent>
+<sent type="main" lang="kor" page="12b" n="4">果皮가 筒底에 러지 소로</sent>
+<sent type="main" lang="kor" page="12b" n="5">時間을 定니라</sent>
+<sent type="main" lang="kor" page="12b" n="6">然나 理學 大家 갈리례오라  이</sent>
+<!--갈리례오는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="12b" n="7">搖錘 發明 以來로</sent>
+<sent type="main" lang="kor" page="12b" n="8">마다 輕便 時計 가지게 되얏시니</sent>
+<sent type="main" lang="kor" page="12b" n="9">그 發明던 일을 左述노라</sent>
+<sent type="main" lang="kor" page="12b" n="10">한 寺刹에 一 個 燈籠이 잇셔</sent>
+<sent type="main" lang="kor" page="12b" n="11">天障으로 懸下</sent>
+<sent type="main" lang="kor" page="12b" n="12">바을 因야 振動야</sent>
+<sent type="main" lang="kor" page="12b" n="13">左右 一定 距離로 往來거</sent>
+<sent type="main" lang="kor" page="12b" n="14">갈리례오가 그 形容을 熟視얏다가</sent>
+<!--갈리례오를 소괄호로 묶었는데 앞의 괄호는 보이지 않음-->
+<sent type="main" lang="kor" page="12b" n="15">집으로 도라온 後</sent>
+<sent type="main" lang="kor" page="12b" n="16">深思 硏究야</sent>
+<sent type="main" lang="kor" page="12b" n="17">맛 한 法을 發明니</sent>
+
+<sent type="main" lang="kor" page="13a" n="1">定振이라  理 곳 이거시라</sent>
+<sent type="main" lang="kor" page="13a" n="2">今日에 와셔</sent>
+<sent type="main" lang="kor" page="13a" n="3">時計가 指時기</sent>
+<sent type="main" lang="kor" page="13a" n="4">그 機械 中게 搖錘가 잇슴이니라</sent>
+<!--'게'는 '에'의 오자로 보임-->
+<sent type="title2" lang="kor" page="13a" n="5">第十一課 駱駝</sent>
+<sent type="main" lang="kor" page="13a" n="6">이 부리 畜類 中에</sent>
+<sent type="main" lang="kor" page="13a" n="7">駱駝갓치 異常 거시 업스니</sent>
+<sent type="main" lang="kor" page="13a" n="8">馬와 牛 世界 中 各處에셔 使用호</sent>
+<sent type="main" lang="kor" page="13a" n="9">駱駝 沙漠에만 부리 故로</sent>
+<sent type="main" lang="kor" page="13a" n="10">沙漠의 라 니라</sent>
+<sent type="main" lang="kor" page="13a" n="11">駱駝 그 貌樣이 馬쳐름 美麗치 못고</sent>
+<sent type="main" lang="kor" page="13a" n="12">背에 肉塊  或 둘이 잇스며</sent>
+<sent type="main" lang="kor" page="13a" n="13">그 털은 茶褐色이오</sent>
+<sent type="main" lang="kor" page="13a" n="14">그 다리 길고</sent>
+<sent type="main" lang="kor" page="13a" n="15">그 膝에 硬皮가 잇 故로</sent>
+<sent type="main" lang="kor" page="13a" n="16">沙礫에 안도</sent>
+<sent type="main" lang="kor" page="13a" n="17">傷치 아니며</sent>
+<sent type="main" lang="kor" page="13a" n="18">足踱에 厚皮가 잇서 扁平 故로</sent>
+<sent type="main" lang="kor" page="13a-13b" n="19">沙漠에 단녀도</sent>
+<!--沙^漠-->
+
+<sent type="main" lang="kor" page="13b" n="1">馬蹄갓치 파이 念慮 업고</sent>
+<sent type="main" lang="kor" page="13b" n="2">그 입에 硬骨이 만흔 故로</sent>
+<sent type="main" lang="kor" page="13b" n="3">沙漠에 기 荊棘을 먹어도</sent>
+<sent type="main" lang="kor" page="13b" n="4">입을 傷치 아니며</sent>
+<sent type="main" lang="kor" page="13b" n="5">그 上唇은 二 片이 되야</sent>
+<sent type="main" lang="kor" page="13b" n="6">손과 갓치 草木을 아 먹기에 便니라</sent>
+<sent type="main" lang="kor" page="13b" n="7">肉塊 駱駝 몸 中에 第一 奇異니</sent>
+<sent type="main" lang="kor" page="13b" n="8">二 個 肉塊가 倂立야</sent>
+<sent type="main" lang="kor" page="13b" n="9">그 貌樣이 鞍粧  거슬 雙峰駝라 고</sent>
+<sent type="main" lang="kor" page="13b" n="10">單塊 單奉駝라 니</sent>
+<sent type="main" lang="kor" page="13b" n="11">그 肉塊 脂肪質노 되니</sent>
+<sent type="main" lang="kor" page="13b" n="12">沙漠을 단닐 에</sent>
+<sent type="main" lang="kor" page="13b" n="13">먹을 거시 업셔지면</sent>
+<sent type="main" lang="kor" page="13b" n="14">그 脂肪質노 保命호</sent>
+<sent type="main" lang="kor" page="13b" n="15">제 스로 먹 거시 아니라</sent>
+<sent type="main" lang="kor" page="13b" n="16">오 먹지 아니면</sent>
+<sent type="main" lang="kor" page="13b" n="17">肉塊가 스로 減縮야</sent>
+<sent type="main" lang="kor" page="13b-14a" n="18">그 脂肪質이 體 中에 드러가</sent>
+<!--에 ^ 드-->
+
+<sent type="main" lang="kor" page="14a" n="1">血液과 混合야</sent>
+<sent type="main" lang="kor" page="14a" n="2">因야 身體 滋養 資料가 되니라</sent>
+<sent type="main" lang="kor" page="14a" n="3">肉塊에 比야</sent>
+<sent type="main" lang="kor" page="14a" n="4">더욱 奇異기 駱駝의 胃腑ㅣ라</sent>
+<sent type="main" lang="kor" page="14a" n="5">다른 動物의 胃腑에</sent>
+<sent type="main" lang="kor" page="14a" n="6">保命에 要 食物을 담아도</sent>
+<sent type="main" lang="kor" page="14a" n="7">駱駝의 胃腑 食物을 담을  아니라</sent>
+<sent type="main" lang="kor" page="14a" n="8">數多 水脬가 잇서</sent>
+<sent type="main" lang="kor" page="14a" n="9">遠行 에</sent>
+<sent type="main" lang="kor" page="14a" n="10">水 만히 먹어</sent>
+<sent type="main" lang="kor" page="14a" n="11">脬 中에 貯蓄</sent>
+<sent type="main" lang="kor" page="14a" n="12">그 水脬 족히 駱駝의 渴疾을 醫나</sent>
+<sent type="main" lang="kor" page="14a" n="13">그 因야</sent>
+<sent type="main" lang="kor" page="14a" n="14">或 져의 生命을 戕害 時도 有니</sent>
+<sent type="main" lang="kor" page="14a" n="15">御者가 貯蓄야 오 水 다 먹은 후에</sent>
+<sent type="main" lang="kor" page="14a" n="16">다시 水 엇기 어려울 에</sent>
+<sent type="main" lang="kor" page="14a" n="17">駱駝 쥭이여</sent>
+<sent type="main" lang="kor" page="14a-14b" n="18">그 水脬 中의 水 여 먹으나</sent>
+<!--으^나-->
+
+<sent type="main" lang="kor" page="14b" n="1">駱駝 一 頭의 갑시 數百 圓이니</sent>
+<sent type="main" lang="kor" page="14b" n="2">必死 地境에 逼迫지 아니면</sent>
+<sent type="main" lang="kor" page="14b" n="3">쥭이지 아니니라</sent>
+<sent type="title2" lang="kor" page="14b" n="4">第十二課 條約國</sent>
+<sent type="main" lang="kor" page="14b" n="5">우리 大君主 陛下와</sent>
+<sent type="main" lang="kor" page="14b" n="6">外國 帝王이며 大統領 이에 條約書 交換야</sent>
+<sent type="main" lang="kor" page="14b" n="7">그 나라 과 셔로 交通 貿易 나라</sent>
+<sent type="main" lang="kor" page="14b" n="8">條約國이라 稱니</sent>
+<sent type="main" lang="kor" page="14b" n="9">그 條約國 이에</sent>
+<sent type="main" lang="kor" page="14b" n="10">彼此 公使라  큰 官員을 泒遣야</sent>
+<sent type="main" lang="kor" page="14b" n="11">外交 事務 辦理케 며</sent>
+<sent type="main" lang="kor" page="14b" n="12">各國 人民의 貿易塲에 領事官을 泒置야</sent>
+<sent type="main" lang="kor" page="14b" n="13">各其 제 나라 의</sent>
+<sent type="main" lang="kor" page="14b" n="14">貿易 所關 일을 提掌케 니라</sent>
+
+<sent type="main" lang="kor" page="15a" n="1">우리 條約國은 現今 八 國이니</sent>
+<sent type="main" lang="kor" page="15a" n="2">開國 四百八十五 年에 大君主 陛下계셔</sent>
+<sent type="main" lang="kor" page="15a" n="3">决然히 日本과 修交 通商의 條約을 交換시기 始 後로</sent>
+<sent type="main" lang="kor" page="15a" n="4">各國이 와셔</sent>
+<sent type="main" lang="kor" page="15a" n="5">條約을 求 者ㅣ 陸續야</sent>
+<sent type="main" lang="kor" page="15a" n="6">맛 八 國과 結約니라</sent>
+<sent type="main" lang="kor" page="15a" n="7">그 條約國은 東洋에 日本이오</sent>
+<sent type="main" lang="kor" page="15a" n="8">歐羅巴洲에</sent>
+<sent type="main" lang="kor" page="15a" n="9">英 法 獨 俄 墺 伊 六 國이오</sent>
+<sent type="main" lang="kor" page="15a" n="10">亞米利加洲에 合衆國이니</sent>
+<sent type="main" lang="kor" page="15a" n="11">各各 獨立國으로 對等의 條約을 졋고</sent>
+<sent type="main" lang="kor" page="15a" n="12">오즉 淸國은 본 兄弟의 國으로</sent>
+<sent type="main" lang="kor" page="15a" n="13">일즉이 開國 二百四十五 年 丙子에</sent>
+<sent type="main" lang="kor" page="15a" n="14">큰 나라 威力으로 凌逼야</sent>
+<sent type="main" lang="kor" page="15a-15b" n="15">南漢의 約을 不得已 結 後로</sent>
+<!--을 ^ 不-->
+
+<sent type="main" lang="kor" page="15b" n="1">幾百 年來에 國耻 雪치 못얏더니</sent>
+<sent type="main" lang="kor" page="15b" n="2">今에 至야</sent>
+<sent type="main" lang="kor" page="15b" n="3">淸國의 옛 約을 업시야</sent>
+<sent type="main" lang="kor" page="15b" n="4">世界 萬國 이에 差等이 업게 되얏스니</sent>
+<sent type="main" lang="kor" page="15b" n="5">大君主 陛下에 큰 㓛烈이 祖宗에 有光시니라</sent>
+<sent type="main" lang="kor" page="15b" n="6">外國 評論에</sent>
+<sent type="main" lang="kor" page="15b" n="7">우리나라 小國이라 弱고 貧타 호</sent>
+<sent type="main" lang="kor" page="15b" n="8">나라의 貧富 强弱은 大小에 잇지 아니니</sent>
+<sent type="main" lang="kor" page="15b" n="9">俄國은 히 歐洲 中에 第一 크거니와</sent>
+<sent type="main" lang="kor" page="15b" n="10">其他 英國은 彈丸 小國이로</sent>
+<sent type="main" lang="kor" page="15b" n="11">印度 征服며</sent>
+<sent type="main" lang="kor" page="15b" n="12">殖民地 만히 두엇고</sent>
+<sent type="main" lang="kor" page="15b" n="13">法 獨 兩國은 國外 領地 合야도</sent>
+<sent type="main" lang="kor" page="15b" n="14">俄國의 큼과 갓지 못되</sent>
+<sent type="main" lang="kor" page="15b" n="15">다 갓치 富强야</sent>
+<sent type="main" lang="kor" page="15b" n="16">四海 雄視니</sent>
+
+<sent type="main" lang="kor" page="16a" n="1">진실노 나라의 富强은</sent>
+<sent type="main" lang="kor" page="16a" n="2">地方 大小에 相關이 無고</sent>
+<sent type="main" lang="kor" page="16a" n="3">다만 그 나라 開化 與否와</sent>
+<sent type="main" lang="kor" page="16a" n="4">人民의 尊主 愛國心의 有無에 係니</sent>
+<sent type="main" lang="kor" page="16a" n="5">汝等은 尊主 愛國心을 造次에 不㤀고</sent>
+<sent type="main" lang="kor" page="16a" n="6">國民이 一團이 되야</sent>
+<sent type="main" lang="kor" page="16a" n="7">專心 勤勞면</sent>
+<sent type="main" lang="kor" page="16a" n="8">各國과 爭衡기 어렵지 아니리라</sent>
+<sent type="main" lang="kor" page="16a" n="9">各 條約國 中의셔 英國은 王國이오</sent>
+<sent type="main" lang="kor" page="16a" n="10">獨 俄 墺 伊와 日本은 帝國이오</sent>
+<sent type="main" lang="kor" page="16a" n="11">法國과 合衆國은 共和國이라</sent>
+<sent type="main" lang="kor" page="16a" n="12">如此히 帝라 王이라 大統領이라 稱號</sent>
+<sent type="main" lang="kor" page="16a" n="13">各各 다르나</sent>
+<sent type="main" lang="kor" page="16a" n="14">相對 權利 差等이 업니라</sent>
+<sent type="title2" lang="kor" page="16a" n="15">第十三課 智識 一話</sent>
+
+<sent type="main" lang="kor" page="16b" n="1">一日은  兒孩가 老人을 對야 曰</sent>
+<sent type="main" lang="kor" page="16b" n="2">方今 兒孩 七八 歲 되면</sent>
+<sent type="main" lang="kor" page="16b" n="3">古人의 모르던 일을 能히 知니</sent>
+<sent type="main" lang="kor" page="16b" n="4">方今 世上에 智識이 古昔보다 富믄</sent>
+<sent type="main" lang="kor" page="16b" n="5">各色 冊을 보고</sent>
+<sent type="main" lang="kor" page="16b" n="6">各色 일을 發明미 아니잇가</sent>
+<sent type="main" lang="kor" page="16b" n="7">老人이 答曰</sent>
+<sent type="main" lang="kor" page="16b" n="8">너 아즉 一을 알고 二 모르도다</sent>
+<sent type="main" lang="kor" page="16b" n="9">凡 智識의 貴기 實地 應用에 잇슬 이니</sent>
+<sent type="main" lang="kor" page="16b" n="10">實地에 應用면</sent>
+<sent type="main" lang="kor" page="16b" n="11">惡 力도 良 力이 되고</sent>
+<sent type="main" lang="kor" page="16b" n="12">應用치 못면</sent>
+<sent type="main" lang="kor" page="16b" n="13">良 力도 惡 力이 되니라</sent>
+<sent type="main" lang="kor" page="16b" n="14">그 兒孩 驚訝야 曰</sent>
+<sent type="main" lang="kor" page="16b" n="15">지 못이다</sent>
+<sent type="main" lang="kor" page="16b" n="16">惡 力과 良 力이 何 謂이니잇고</sent>
+<sent type="main" lang="kor" page="16b" n="17">老人이 曰</sent>
+<sent type="main" lang="kor" page="16b" n="18">너 御馬法을 아냐</sent>
+<sent type="main" lang="kor" page="16b" n="19">銜轡로 控御면</sent>
+
+<sent type="main" lang="kor" page="17a" n="1">을 오고 千 里에 馳騁며</sent>
+<sent type="main" lang="kor" page="17a" n="2">物貨 運送믄 馬의 良 力이</sent>
+<sent type="main" lang="kor" page="17a" n="3">一朝에 그 銜轡가 버셔지면</sent>
+<sent type="main" lang="kor" page="17a" n="4">은 러지고</sent>
+<sent type="main" lang="kor" page="17a" n="5">物貨 여지니</sent>
+<sent type="main" lang="kor" page="17a" n="6">그 馬의 惡 力이 아니냐</sent>
+<sent type="main" lang="kor" page="17a" n="7"> 湖 河의 물이 灌漑의 利믄</sent>
+<sent type="main" lang="kor" page="17a" n="8">水의 良 力이나</sent>
+<sent type="main" lang="kor" page="17a" n="9">一朝에 暴漲야 泛濫면</sent>
+<sent type="main" lang="kor" page="17a" n="10">堤防이 潰决며</sent>
+<sent type="main" lang="kor" page="17a" n="11">橋梁이 頹圮야</sent>
+<sent type="main" lang="kor" page="17a" n="12">其 害가 不少니</sent>
+<sent type="main" lang="kor" page="17a" n="13">그 水의 惡 力이 아니냐</sent>
+<sent type="main" lang="kor" page="17a" n="14">네가 是 等 事實을 能히 曉解면</sent>
+<sent type="main" lang="kor" page="17a" n="15">智識의 貴기</sent>
+<sent type="main" lang="kor" page="17a" n="16">應用 如何의 잇슴을 알 터이라</sent>
+<sent type="main" lang="kor" page="17a" n="17">다만 冊을 보아</sent>
+<sent type="main" lang="kor" page="17a" n="18">各色 일을 아라도 貴치 아니고</sent>
+<sent type="main" lang="kor" page="17a-17b" n="19">그 아 일을 實狀 됴흔 일에 應用이 貴니</sent>
+<!--흔 ^ 일-->
+
+<sent type="main" lang="kor" page="17b" n="1">만일 不然야</sent>
+<sent type="main" lang="kor" page="17b" n="2">올치 못 일에 應用면</sent>
+<sent type="main" lang="kor" page="17b" n="3">오히려 世上을 害고</sent>
+<sent type="main" lang="kor" page="17b" n="4">을 傷니</sent>
+<sent type="main" lang="kor" page="17b" n="5">汝等이 能히 銘心지어다</sent>
+<sent type="title2" lang="kor" page="17b" n="6">第十四課 倫敦 一</sent>
+<sent type="main" lang="kor" page="17b" n="7">江의 大小</sent>
+<sent type="main" lang="kor" page="17b" n="8">그 長短 廣狹만 가지고 漫定 거시 아니오</sent>
+<sent type="main" lang="kor" page="17b" n="9">바다에 흘너 나가 水量 多少에 좃</sent>
+<sent type="main" lang="kor" page="17b" n="10">仔細히 알 것시니라</sent>
+<sent type="main" lang="kor" page="17b" n="11">都城 府市에 大小도  그러니</sent>
+<sent type="main" lang="kor" page="17b" n="12">의 廣狹에 不關고</sent>
+<sent type="main" lang="kor" page="17b" n="13">人口 多少로 定지니</sent>
+<sent type="main" lang="kor" page="17b" n="14">英吉利國 倫敦은 世界 中 第一 大都會라</sent>
+<sent type="main" lang="kor" page="17b" n="15">人口가 거의 四百萬이 되니</sent>
+<sent type="main" lang="kor" page="17b" n="16">果然 名이 虛傳치 아니믈 可知로다</sent>
+
+<sent type="main" lang="kor" page="18a" n="1">倫敦은 다만 그 나라 首府 될  아니오</sent>
+<sent type="main" lang="kor" page="18a" n="2">世界 中 商業의 首府 되야</sent>
+<sent type="main" lang="kor" page="18a" n="3">萬國 城鎭과 市港의 商務 聯絡으로</sent>
+<sent type="main" lang="kor" page="18a" n="4">滊船과 帆船이 萬國에 往來고</sent>
+<sent type="main" lang="kor" page="18a" n="5">鐵路와 電線이 倫敦으로븟터 東西南北에 縱橫니라</sent>
+<sent type="main" lang="kor" page="18a" n="6">倫敦은 一大 都會로</sent>
+<sent type="main" lang="kor" page="18a" n="7">한 됴각도 空地 업시</sent>
+<sent type="main" lang="kor" page="18a" n="8">人家ㅣ 稠密야</sent>
+<sent type="main" lang="kor" page="18a" n="9">四州에 跨連니</sent>
+<sent type="main" lang="kor" page="18a" n="10">長이 十六 哩오</sent>
+<sent type="main" lang="kor" page="18a" n="11">橫이 十二 哩라</sent>
+<sent type="main" lang="kor" page="18a" n="12">여러 街衢 一條로 連면</sent>
+<sent type="main" lang="kor" page="18a" n="13">八千 哩 되 故로</sent>
+<sent type="main" lang="kor" page="18a" n="14">그 에 사 도</sent>
+<sent type="main" lang="kor" page="18a" n="15">一生 中에 보지 못 街衢가 不少니라</sent>
+<sent type="main" lang="kor" page="18a" n="16">府中의 生死 數爻 平均면</sent>
+<sent type="main" lang="kor" page="18a-18b" n="17">每 四分 時間에 한 名이 나고</sent>
+<!--名^이-->
+
+<sent type="main" lang="kor" page="18b" n="1">每 六分 時間에 한 名이 쥭 分數ㅣ니</sent>
+<sent type="main" lang="kor" page="18b" n="2">一書夜의 나 兒孩 三百六十이오</sent>
+<sent type="main" lang="kor" page="18b" n="3">쥭 이 二百四十이라</sent>
+<sent type="main" lang="kor" page="18b" n="4">이 일노 보아도</sent>
+<sent type="main" lang="kor" page="18b" n="5">人數가 날마다 더믈 可知오</sent>
+<sent type="main" lang="kor" page="18b" n="6"> 府中 人口 百分의 三十七은</sent>
+<sent type="main" lang="kor" page="18b" n="7">다 鄕曲에셔 와  者ㅣ라</sent>
+<sent type="main" lang="kor" page="18b" n="8">故로 每 歲에 二十萬 人을 더며</sent>
+<sent type="main" lang="kor" page="18b" n="9">三十 哩 街衢 新開니</sent>
+<sent type="main" lang="kor" page="18b" n="10">倫敦은 實노</sent>
+<sent type="main" lang="kor" page="18b" n="11">都城과 城市와 村落 等의 모히 一大 州ㅣ라</sent>
+<sent type="main" lang="kor" page="18b" n="12">如此히 繁華 緣由</sent>
+<sent type="main" lang="kor" page="18b" n="13">그 압 뎸스江이 잇서</sent>
+<!--뎸스江은 소괄호로 묶은 것으로 보이나 뒤쪽의 부호만 보임-->
+<sent type="main" lang="kor" page="18b" n="14">一日 두 번식 往來 海水</sent>
+<sent type="main" lang="kor" page="18b" n="15">勞費 업시 船舶의 上下 便게 이니라</sent>
+<sent type="title2" lang="kor" page="18b" n="16">第十五課 倫敦 二</sent>
+
+<sent type="main" lang="kor" page="19a" n="1">倫敦 市街에 往來 이 朝暮에 不絶야</sent>
+<sent type="main" lang="kor" page="19a" n="2">肩摩轂擊 貌樣이 世界에 無比고</sent>
+<sent type="main" lang="kor" page="19a" n="3">街衢 坦坦며 廣濶야</sent>
+<sent type="main" lang="kor" page="19a" n="4">駟馬에 鞭야 가 者도 잇고</sent>
+<sent type="main" lang="kor" page="19a" n="5">四輪馬車 馳 者도 잇고</sent>
+<sent type="main" lang="kor" page="19a" n="6">兩人 同乘 馬車와</sent>
+<sent type="main" lang="kor" page="19a" n="7">各色 馬車의 往來가 絡繹 無數며</sent>
+<sent type="main" lang="kor" page="19a" n="8">뎸스江에 노흔 倫敦橋와 其餘 十三 大橋</sent>
+<!--뎸스江은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="19a" n="9">終日 人馬의 足響이 긋치지 아니고</sent>
+<sent type="main" lang="kor" page="19a" n="10">河底 隧道로 蒸滊車가 往來고</sent>
+<sent type="main" lang="kor" page="19a" n="11">江을 지 滊船은 其 數가 無筭니라</sent>
+<sent type="main" lang="kor" page="19a" n="12">倫敦의 人口 다만 英人 아니라</sent>
+<sent type="main" lang="kor" page="19a" n="13">各國으로셔 往來 者ㅣ</sent>
+<sent type="main" lang="kor" page="19a" n="14">每 朝夕에 二十萬 名이라</sent>
+<sent type="main" lang="kor" page="19a-19b" n="15">如此히 外國 의 出入이 頻頻</sent>
+<!--國 ^ -->
+
+<sent type="main" lang="kor" page="19b" n="1">와셔 居住 者도 不少야</sent>
+<sent type="main" lang="kor" page="19b" n="2">東으로 日人과 淸人과 印度人과 波斯人이오</sent>
+<sent type="main" lang="kor" page="19b" n="3">西으로 美人과 南阿 諸國人이오</sent>
+<sent type="main" lang="kor" page="19b" n="4">歐羅巴에셔 德人과 法人은 勿論고</sent>
+<sent type="main" lang="kor" page="19b" n="5">西班牙人과 葡萄牙人과 魯西亞人과 波蘭人과 凶牙利人과</sent>
+<sent type="main" lang="kor" page="19b" n="6">瑞西 那威 芬蘭 等 國人이 輻輳며</sent>
+<sent type="main" lang="kor" page="19b" n="7">蘇格蘭人과 愛蘭人과 威勤士人과 猶太人과</sent>
+<sent type="main" lang="kor" page="19b" n="8">希臘人의 倫敦에 居 數爻가</sent>
+<sent type="main" lang="kor" page="19b" n="9">그 本國 都城의 人口보다도 만흔 故로</sent>
+<sent type="main" lang="kor" page="19b" n="10">言語와 風俗도 種類가 不少니라</sent>
+<sent type="main" lang="kor" page="19b" n="11">人口가 多 都府에</sent>
+<sent type="main" lang="kor" page="19b" n="12">相反 일이 自然 만흐나</sent>
+
+<sent type="main" lang="kor" page="20a" n="1">倫敦갓치 甚 이 업니</sent>
+<sent type="main" lang="kor" page="20a" n="2">其中의 一二 거擧면</sent>
+<sent type="main" lang="kor" page="20a" n="3">木造 집이 甓造 집과 相接고</sent>
+<sent type="main" lang="kor" page="20a" n="4">村落이 都府 이에 잇스며</sent>
+<sent type="main" lang="kor" page="20a" n="5">闊路와 游園이 陋巷에 隔隣고</sent>
+<sent type="main" lang="kor" page="20a" n="6">傲華 宮闕이 人目을 驚</sent>
+<sent type="main" lang="kor" page="20a" n="7">數步 면</sent>
+<sent type="main" lang="kor" page="20a" n="8">茅屋의 草創 者ㅣ 悲心을 興起며</sent>
+<sent type="main" lang="kor" page="20a" n="9">富者의 揚揚과 貧者의 慽慽 光景이</sent>
+<sent type="main" lang="kor" page="20a" n="10">路上의 參差고</sent>
+<sent type="main" lang="kor" page="20a" n="11">德行이 놉흔 者와 罪惡이 깁흔 이</sent>
+<sent type="main" lang="kor" page="20a" n="12">길에 往來며</sent>
+<sent type="main" lang="kor" page="20a" n="13">博識者와 無識者와 魯愚 醜惡과 美麗 賢能이</sent>
+<sent type="main" lang="kor" page="20a" n="14">一都에 聚集니</sent>
+<sent type="main" lang="kor" page="20a" n="15">聰明 耳目으로 街衢 逍遙면</sent>
+<sent type="main" lang="kor" page="20a" n="16">人間 萬象을 다 보니라</sent>
+
+<sent type="title2" lang="kor" page="20b" n="1">第十六課 風</sent>
+<sent type="main" lang="kor" page="20b" n="2">바은 空氣의 流動이니</sent>
+<!--''에 아래아가 탈획되어 있음-->
+<sent type="main" lang="kor" page="20b" n="3">물이 河海에셔 流動과 同야</sent>
+<sent type="main" lang="kor" page="20b" n="4">물은 高로붓터 低에 流動</sent>
+<sent type="main" lang="kor" page="20b" n="5">空氣 其 分量이 重 셔</sent>
+<sent type="main" lang="kor" page="20b" n="6">輕 로 向야 流動니</sent>
+<sent type="main" lang="kor" page="20b" n="7">그 流動은 空氣 寒暖이 不同  由니라</sent>
+<sent type="main" lang="kor" page="20b" n="8">日光이 放射 故로</sent>
+<sent type="main" lang="kor" page="20b" n="9">의 熱度가 各處에 不同고</sent>
+<sent type="main" lang="kor" page="20b" n="10">그 地位 좃 受熱 差等이 잇고</sent>
+<sent type="main" lang="kor" page="20b" n="11"> 의 注射 熱量은 同호</sent>
+<sent type="main" lang="kor" page="20b" n="12">地上 物質이 熱氣 吸收 分數 各各 다르니</sent>
+<sent type="main" lang="kor" page="20b" n="13">假令 樹陰과 屋裏와 林藪와 水邊의 溫度</sent>
+<sent type="main" lang="kor" page="20b" n="14">乾燥 이나</sent>
+<sent type="main" lang="kor" page="20b-21a" n="15">巖石과 屋上과 平野 等에 比면</sent>
+<!--野 ^ 等-->
+
+<sent type="main" lang="kor" page="21a" n="1">溫度가 少니라</sent>
+<sent type="main" lang="kor" page="21a" n="2">히 溫度 受이 各處가 不同야</sent>
+<sent type="main" lang="kor" page="21a" n="3">溫度 受이 速고 만흔 의 空氣</sent>
+<sent type="main" lang="kor" page="21a" n="4">膨脹야 上昇 故로</sent>
+<sent type="main" lang="kor" page="21a" n="5">大氣 中에 稀薄 處가 生면</sent>
+<sent type="main" lang="kor" page="21a" n="6">寒冷 地方으로셔 찬 空氣 와셔 塡充며</sent>
+<sent type="main" lang="kor" page="21a" n="7">樹陰과 林藪와 湖海 邊에 양 微風이  것슨</sent>
+<sent type="main" lang="kor" page="21a" n="8">稀薄 空氣와 濃厚 空氣가 셔로 轉換믈 因야 運動이라</sent>
+<sent type="main" lang="kor" page="21a" n="9">故로 바이 면</sent>
+<sent type="main" lang="kor" page="21a" n="10">空氣 上層과 下層에</sent>
+<sent type="main" lang="kor" page="21a" n="11">上反 運動을 기 거시 必然 勢라</sent>
+<sent type="main" lang="kor" page="21a" n="12">그 緣由 左記 法으로 證明노라</sent>
+<sent type="main" lang="kor" page="21a" n="13">隔壁헌 두 房에  房을 게 고</sent>
+<sent type="main" lang="kor" page="21a" n="14"> 房을 덥게 야</sent>
+
+<sent type="main" lang="kor" page="21b" n="1">그이 壁에 上中下로 三孔을 러</sent>
+<sent type="main" lang="kor" page="21b" n="2">各各 孔 前에 燭을 셰워 點火면</sent>
+<sent type="main" lang="kor" page="21b" n="3">아 불은 寒房으로셔 暖房에 向고</sent>
+<sent type="main" lang="kor" page="21b" n="4">우희 불은 暖房으로셔 寒房에 向고</sent>
+<sent type="main" lang="kor" page="21b" n="5">가온 불은 그 方向이 一定 不動니라</sent>
+<sent type="main" lang="kor" page="21b" n="6">如此 空氣의 運動을 因야</sent>
+<sent type="main" lang="kor" page="21b" n="7">海邊에 定時風이 잇니</sent>
+<sent type="main" lang="kor" page="21b" n="8">午後 陸地가 溫度 受이 만 故로</sent>
+<sent type="main" lang="kor" page="21b" n="9">空氣가 膨脹야 上騰면</sent>
+<sent type="main" lang="kor" page="21b" n="10"> 空氣가 海上으로븟터 塡充야 海風이 되고</sent>
+<sent type="main" lang="kor" page="21b" n="11">밤에 海面이 陸地보다 溫暖 故로</sent>
+<sent type="main" lang="kor" page="21b" n="12">空氣가 膨脹야 上騰면</sent>
+<sent type="main" lang="kor" page="21b" n="13">陸地의 空氣가 填充야 陸地風이 되니</sent>
+<sent type="main" lang="kor" page="21b-22a" n="14">如此히 海陸風이 晝夜에 그 方向을 變 理가</sent>
+<!--夜^에-->
+
+<sent type="main" lang="kor" page="22a" n="1">一定 故로 定時風이라 니라</sent>
+<sent type="title2" lang="kor" page="22a" n="2">第十七課 勤學</sent>
+<sent type="main" lang="kor" page="22a" n="3">汝等은 學校에셔 卒業야</sent>
+<sent type="main" lang="kor" page="22a" n="4">다른 事務에 從事야도</sent>
+<sent type="main" lang="kor" page="22a" n="5">决斷코 讀書 廢치 말지니</sent>
+<sent type="main" lang="kor" page="22a" n="6">學校의 敎育은 智識의 階梯오</sent>
+<sent type="main" lang="kor" page="22a" n="7"> 比면 집의 基礎ㅣ라</sent>
+<sent type="main" lang="kor" page="22a" n="8">그 우헤 宏大 집을 짓기</sent>
+<sent type="main" lang="kor" page="22a" n="9">汝等의 將來 勤勉에 係니라</sent>
+<sent type="main" lang="kor" page="22a" n="10">汝等이 學校에 잇슬 동안은</sent>
+<sent type="main" lang="kor" page="22a" n="11">다만 敎師의 말을 좃 勤學 이</sent>
+<sent type="main" lang="kor" page="22a" n="12">一朝에 出校야</sent>
+<sent type="main" lang="kor" page="22a" n="13">訓戒 敎師 업고</sent>
+<sent type="main" lang="kor" page="22a" n="14"> 汝等이 事物에 應用 智識이 不足며 讀書야</sent>
+<sent type="main" lang="kor" page="22a-22b" n="15">自進기에 無心면</sent>
+<!--自^進-->
+
+<sent type="main" lang="kor" page="22b" n="1">事業을 改良치 못  아니라</sent>
+<sent type="main" lang="kor" page="22b" n="2">人의 後에 러지니</sent>
+<sent type="main" lang="kor" page="22b" n="3">故로 每日 一二 時間을 讀書 時로 定야</sent>
+<sent type="main" lang="kor" page="22b" n="4">그동안 專心야 讀書고</sent>
+<sent type="main" lang="kor" page="22b" n="5">다른 일을 도라보지 아니지니라</sent>
+<sent type="main" lang="kor" page="22b" n="6">或 事務가 煩劇야</sent>
+<sent type="main" lang="kor" page="22b" n="7">讀書 餘暇ㅣ 업다  者ㅣ 잇시</sent>
+<sent type="main" lang="kor" page="22b" n="8">實狀은 이 口實노 아 光陰을 虛送이니</sent>
+<sent type="main" lang="kor" page="22b" n="9">歲月과 潮水 을 기다리지 아니거날</sent>
+<sent type="main" lang="kor" page="22b" n="10">悠悠히 消日야 一生을 空過면</sent>
+<!--'야'는 원문에 '아'로 되어 있는데 이는 탈획으로 보여 수정함-->
+<sent type="main" lang="kor" page="22b" n="11">엇지 浩嘆치 아니리오</sent>
+<sent type="main" lang="kor" page="22b" n="12">故로 汝等은 今日에 不學</sent>
+<sent type="main" lang="kor" page="22b" n="13">來日이 잇스며</sent>
+<sent type="main" lang="kor" page="22b" n="14">今年에 不學</sent>
+<sent type="main" lang="kor" page="22b-23a" n="15">來年이 잇다  空想을 지 말지어다</sent>
+<!--지^어-->
+
+<sent type="main" lang="kor" page="23a" n="1">然이 一時에 여러 事業을 고저 말고</sent>
+<sent type="main" lang="kor" page="23a" n="2">다만 죠아 一業에</sent>
+<sent type="main" lang="kor" page="23a" n="3">專心으로 從事이 可며</sent>
+<sent type="main" lang="kor" page="23a" n="4"> 一身이 疲勞 </sent>
+<sent type="main" lang="kor" page="23a" n="5">郊外와 游園에 逍遙야 비</sent>
+<!--문맥상 '비워'로 보이는데 탈자로 생각됨-->
+<sent type="main" lang="kor" page="23a" n="6">그 마음을 慰勞이 조흐니</sent>
+<sent type="main" lang="kor" page="23a" n="7">暫時 休憩 의 精神을 收拾 거시라</sent>
+<sent type="main" lang="kor" page="23a" n="8">勤勉  勤勉고</sent>
+<sent type="main" lang="kor" page="23a" n="9">休憩  休憩이</sent>
+<sent type="main" lang="kor" page="23a" n="10">實노 事務 完全이  最良法이니라</sent>
+<sent type="title2" lang="kor" page="23a" n="11">第十八課 蜂房</sent>
+<sent type="main" lang="kor" page="23a" n="12">蜜峰은 山野에 잇스</sent>
+<sent type="main" lang="kor" page="23a" n="13">그 蜜과 蠟을 爲야</sent>
+<sent type="main" lang="kor" page="23a" n="14">人家에도 길으며</sent>
+<sent type="main" lang="kor" page="23a" n="15">體客이 小야</sent>
+<!--客은 格의 오자로 보임-->
+<sent type="main" lang="kor" page="23a" n="16">三四 分에 지지 안코</sent>
+<sent type="main" lang="kor" page="23a-23b" n="17">全身의 微黃色 毛가 잇고</sent>
+<!--全^身-->
+
+<sent type="main" lang="kor" page="23b" n="1">背 淡黑이오</sent>
+<sent type="main" lang="kor" page="23b" n="2">翅 灰白이라</sent>
+<sent type="main" lang="kor" page="23b" n="3">그 種類 雄蜂 雌蜂 工蜂에 分니라</sent>
+<sent type="main" lang="kor" page="23b" n="4">蜂房의 構造</sent>
+<sent type="main" lang="kor" page="23b" n="5">다른 昆虫의 巢와 比면 宮殿이라</sent>
+<sent type="main" lang="kor" page="23b" n="6">蜂房에 기 養며</sent>
+<sent type="main" lang="kor" page="23b" n="7">或 蜜을 貯蓄야</sent>
+<sent type="main" lang="kor" page="23b" n="8">겨을 糧食을 準備고</sent>
+<sent type="main" lang="kor" page="23b" n="9">工蜂이 蜂房을 짓 거 보면</sent>
+<sent type="main" lang="kor" page="23b" n="10">그 邊을 附着기에 樹脂 쓰고</sent>
+<sent type="main" lang="kor" page="23b" n="11">그 材料 蠟을 쓰며</sent>
+<sent type="main" lang="kor" page="23b" n="12">그 일믈 보면</sent>
+<sent type="main" lang="kor" page="23b" n="13">整然 不亂고</sent>
+<sent type="main" lang="kor" page="23b" n="14">其中에 三 隊 工蜂이 잇서</sent>
+<sent type="main" lang="kor" page="23b" n="15">第一隊 材料 集야 初創히 構造면</sent>
+<sent type="main" lang="kor" page="23b" n="16">第二隊 初創 蜂房의 凸處 平平히 고</sent>
+<sent type="main" lang="kor" page="23b" n="17">過多 蠟을 除去야 完全케 고</sent>
+<sent type="main" lang="kor" page="23b-24a" n="18">第三隊 連續히 蜂房에 出入야</sent>
+<!--에 ^ 出-->
+
+<sent type="main" lang="kor" page="24a" n="1">專혀 花粉을 採集야</sent>
+<sent type="main" lang="kor" page="24a" n="2">第二隊 輔助니라</sent>
+<sent type="main" lang="kor" page="24a" n="3">蜜蜂에 一羣은 其 數가 大槪 一萬 九千이니</sent>
+<sent type="main" lang="kor" page="24a" n="4">그中의 眞正 雌蜂은 다만 이라</sent>
+<sent type="main" lang="kor" page="24a" n="5">그 雌蜂의 크기 自然히 出衆야</sent>
+<sent type="main" lang="kor" page="24a" n="6">蜂王이 되야 一群을 指揮고</sent>
+<sent type="main" lang="kor" page="24a" n="7">雄蜂은 其 數가 大槪 六百이</sent>
+<sent type="main" lang="kor" page="24a" n="8">四五月 兩 朔 이에 生存 이오</sent>
+<sent type="main" lang="kor" page="24a" n="9">그 限을 지면</sent>
+<sent type="main" lang="kor" page="24a" n="10">다시 無用이라 야 工蜂이 쏘아 쥭이고</sent>
+<sent type="main" lang="kor" page="24a" n="11">工蜂은 服役을 專掌야</sent>
+<sent type="main" lang="kor" page="24a" n="12">其 數 大槪 一羣에 一萬 五千 有餘ㅣ라</sent>
+<sent type="main" lang="kor" page="24a" n="13">蜜蜂 中에셔 蜂王이 될 者</sent>
+<sent type="main" lang="kor" page="24a" n="14">그 어릴 에</sent>
+<sent type="main" lang="kor" page="24a" n="15">廣大 圓形 宮殿에셔</sent>
+<sent type="main" lang="kor" page="24a-24b" n="16">花液汁으로 釀成 飮食을 享고</sent>
+<!--液^汁-->
+
+<sent type="main" lang="kor" page="24b" n="1">여름이 되여</sent>
+<sent type="main" lang="kor" page="24b" n="2">蜂 數가 漸漸 더야</sent>
+<sent type="main" lang="kor" page="24b" n="3">房中이 充滿면</sent>
+<sent type="main" lang="kor" page="24b" n="4">他處 求고져 야</sent>
+<sent type="main" lang="kor" page="24b" n="5">幼王이 一羣을 거려</sent>
+<sent type="main" lang="kor" page="24b" n="6">外征야 植蜂니라</sent>
+<sent type="title2" lang="kor" page="24b" n="7">第十九課 支那國 一</sent>
+<sent type="main" lang="kor" page="24b" n="8">支那國은 我國과 갓치 亞細亞洲 中의 一國이오</sent>
+<sent type="main" lang="kor" page="24b" n="9">我國의 隣邦이라</sent>
+<sent type="main" lang="kor" page="24b" n="10">그 面積과 人口 世界 中의 一 大國이니라</sent>
+<sent type="main" lang="kor" page="24b" n="11">支那國은 亞洲 中의 大國이오</sent>
+<sent type="main" lang="kor" page="24b" n="12"> 古國이라</sent>
+<sent type="main" lang="kor" page="24b" n="13">堯舜 後에 여러 歷代 治亂을 지야</sent>
+<sent type="main" lang="kor" page="24b" n="14">方今 淸國이 되얏스니</sent>
+<sent type="main" lang="kor" page="24b" n="15">堯의 卽位 西洋 紀年으로 면</sent>
+<sent type="main" lang="kor" page="24b-25a" n="16">紀元前 못 二千餘 年이라</sent>
+<!--二^千-->
+
+<sent type="main" lang="kor" page="25a" n="1">周나라 에 孔子ㅣ 熱國에 遊샤</sent>
+<sent type="main" lang="kor" page="25a" n="2">仁義 論說시니</sent>
+<sent type="main" lang="kor" page="25a" n="3">因야 學者ㅣ 輩出야</sent>
+<sent type="main" lang="kor" page="25a" n="4">그 世界로 보면</sent>
+<sent type="main" lang="kor" page="25a" n="5">文化가 盛行니라</sent>
+<sent type="main" lang="kor" page="25a" n="6">支那國은 如此 大國이오 古國이오</sent>
+<sent type="main" lang="kor" page="25a" n="7"> 文化의 先進國이로</sent>
+<sent type="main" lang="kor" page="25a" n="8">方今에 漸漸 衰殘야</sent>
+<sent type="main" lang="kor" page="25a" n="9">人을 侮고 己 尊야</sent>
+<sent type="main" lang="kor" page="25a" n="10">漫然히 外國과 釁端을 열어</sent>
+<sent type="main" lang="kor" page="25a" n="11">鴉片 싸홈에 英國의 敗 바ㅣ 되고</sent>
+<sent type="main" lang="kor" page="25a" n="12">尙且 蠢蠢 不醒더니</sent>
+<sent type="main" lang="kor" page="25a" n="13"> 開釁야 英 法 同盟軍과 싸와</sent>
+<sent type="main" lang="kor" page="25a" n="14">一敗塗地야</sent>
+<sent type="main" lang="kor" page="25a" n="15">北京 城頭에 白旗 셰워</sent>
+<sent type="main" lang="kor" page="25a" n="16">圓明園을 灰燼에 委고</sent>
+<sent type="main" lang="kor" page="25a" n="17">歷代 寶物을 見奪며</sent>
+<sent type="main" lang="kor" page="25a" n="18">城下에 盟을 乞야</sent>
+<sent type="main" lang="kor" page="25a-25b" n="19">許多 償金을 이고</sent>
+<!--金^을-->
+
+<sent type="main" lang="kor" page="25b" n="1">滿州 一部 俄國에 割야 주고</sent>
+<sent type="main" lang="kor" page="25b" n="2">香港은 英國에 占領 바ㅣ 되고</sent>
+<sent type="main" lang="kor" page="25b" n="3">安南 暹羅 等 南方 藩屛은</sent>
+<sent type="main" lang="kor" page="25b" n="4">洋人의 蹂躪에 一委야</sent>
+<sent type="main" lang="kor" page="25b" n="5">國勢 날노 陵夷호</sent>
+<sent type="main" lang="kor" page="25b" n="6">至今도 中華라 自大고</sent>
+<sent type="main" lang="kor" page="25b" n="7">他國을 外夷라 蔑視야</sent>
+<sent type="main" lang="kor" page="25b" n="8">無識 無義야</sent>
+<sent type="main" lang="kor" page="25b" n="9">世界의 嗤笑와 凌辱을 甘受니</sent>
+<sent type="main" lang="kor" page="25b" n="10">可憐고 可笑롭도다</sent>
+<sent type="title2" lang="kor" page="25b" n="11">第二十課 錢</sent>
+<sent type="main" lang="kor" page="25b" n="12">錢은 物貨의 交易을 便히  거시라</sent>
+<sent type="main" lang="kor" page="25b" n="13">假令 冠 파는 廛의셔 冠 팔아</sent>
+<sent type="main" lang="kor" page="25b" n="14">그 錢으로 米 사면</sent>
+<sent type="main" lang="kor" page="25b" n="15">이 곳 冠과 米와 交易 分數ㅣ라</sent>
+<sent type="main" lang="kor" page="25b" n="16">故로 錢의 所用은</sent>
+<sent type="main" lang="kor" page="25b-26a" n="17">二 箇 商品을 交易 이에 드러</sent>
+<!--商^品-->
+
+ 
+
+<sent type="main" lang="kor" page="26a" n="1">그 媒ㅣ 될 이니라</sent>
+<sent type="main" lang="kor" page="26a" n="2">元來 交易은 物貨와 物貨의 交換이라</sent>
+<sent type="main" lang="kor" page="26a" n="3">故로 太古 時節에 錢을 쓰지 안코</sent>
+<sent type="main" lang="kor" page="26a" n="4">各各 物貨 交易더니</sent>
+<sent type="main" lang="kor" page="26a" n="5">人智가 開기에 隨야</sent>
+<sent type="main" lang="kor" page="26a" n="6">彼此의 交際가 煩雜고</sent>
+<sent type="main" lang="kor" page="26a" n="7">物貨의 需用이 增加</sent>
+<sent type="main" lang="kor" page="26a" n="8">運用에 便利 錢이 업스면</sent>
+<sent type="main" lang="kor" page="26a" n="9">엇지 人間의 交易을 融滑케 리오</sent>
+<sent type="main" lang="kor" page="26a" n="10">物貨 交換기에 便利믈 爲야</sent>
+<sent type="main" lang="kor" page="26a" n="11">貨幣에 金銀과 白銅과 赤銅으로</sent>
+<sent type="main" lang="kor" page="26a" n="12">此 交易에 適當믄 左列 緣故ㅣ니라</sent>
+<sent type="main" lang="kor" page="26a" n="13">一 人人이 됴아야 通用에 便고</sent>
+<!--'一'은 소괄호로 묶여 있으며 다음 면의 '二', '三', '四', '五'도 마찬가지임-->
+
+<sent type="main" lang="kor" page="26b" n="1">(二) 每年에 各處에서 出 斤量 數가</sent>
+<sent type="main" lang="kor" page="26b" n="2">過히 加減 업고</sent>
+<sent type="main" lang="kor" page="26b" n="3">(三) 速히 損傷지 안코</sent>
+<sent type="main" lang="kor" page="26b" n="4">(四) 輕야도 貴고</sent>
+<sent type="main" lang="kor" page="26b" n="5">(五) 分기에 便利며</sent>
+<sent type="main" lang="kor" page="26b" n="6">鑄기 容易고</sent>
+<sent type="main" lang="kor" page="26b" n="7">錢이 各㨾의 品格이 잇서도</sent>
+<sent type="main" lang="kor" page="26b" n="8">僞造 禁코저 면</sent>
+<sent type="main" lang="kor" page="26b" n="9">政府에서 一定 規則으로 盖印야</sent>
+<sent type="main" lang="kor" page="26b" n="10">品質과 重量이 畵一믈 示□니라</sent>
+<!--'니라' 앞에 1음절이 탈자되어 있는데, 앞 뒤로 미루어 '지'로 추정됨-->
+<sent type="title2" lang="kor" page="26b" n="11">第二十一課 紐約</sent>
+<sent type="main" lang="kor" page="26b" n="12">紐約은</sent>
+<sent type="main" lang="kor" page="26b-27a" n="13">北阿米利加洲 合衆國 紐約州의 貿易 大都오</sent>
+<!--都^오-->
+
+<sent type="main" lang="kor" page="27a" n="1">合衆國의 第一 都會라</sent>
+<sent type="main" lang="kor" page="27a" n="2">그 西邊에 흘으 하도손江 對岸에</sent>
+<!--'하도손'이 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27a" n="3">제세라  府가 잇고</sent>
+<!--'제세'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27a" n="4">그 東方에 흘으 이스더江 對岸에</sent>
+<!--'이스더'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27a" n="5">브로클닌이라  附가 잇서</sent>
+<!--'브로클닌'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27a" n="6">二 府 紐約의 外府ㅣ라</sent>
+<sent type="main" lang="kor" page="27a" n="7">本府와 外府의 人口 合면</sent>
+<sent type="main" lang="kor" page="27a" n="8">二百萬餘가 되니라</sent>
+<sent type="main" lang="kor" page="27a" n="9">府中 南端에 바톄리라  遊園이 잇스니</sent>
+<!--'바톄리'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27a" n="10">海水가 浸入믈 長堤로 막고</sent>
+<sent type="main" lang="kor" page="27a" n="11">園內의 光景이 美麗며</sent>
+<sent type="main" lang="kor" page="27a" n="12">그 北東에 부로두웨라  廣街가 잇서</sent>
+<!--'부로두웨'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27a" n="13">長이 三 哩 有餘오</sent>
+<sent type="main" lang="kor" page="27a" n="14">幅이 八十 尺이라</sent>
+<sent type="main" lang="kor" page="27a" n="15">旅館과 商廛이 櫛比고</sent>
+<sent type="main" lang="kor" page="27a" n="16">車馬와 行人이 雜沓며</sent>
+<sent type="main" lang="kor" page="27a-27b" n="17">그 東에 버옌街 한 美麗 街路ㅣ라</sent>
+<!--'버옌'은 소괄호로 묶여 있음-->
+<!--麗^-->
+
+<sent type="main" lang="kor" page="27b" n="1">그 北으로 一 哩 半을 가면</sent>
+<sent type="main" lang="kor" page="27b" n="2">新開 街衢이 잇스니</sent>
+<sent type="main" lang="kor" page="27b" n="3">長이 八 哩오</sent>
+<sent type="main" lang="kor" page="27b" n="4">幅이 百 尺 有餘ㅣ며</sent>
+<sent type="main" lang="kor" page="27b" n="5">웰街 股券 賣買 집이 聯續고</sent>
+<!--'웰'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27b" n="6">사우스街 海運을 專業 집이 만코</sent>
+<!--'사우스'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27b" n="7">其餘 바울 셰달街 等은</sent>
+<!--'바울', '셰달'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27b" n="8">雜貨 賣 肆店이 連續며</sent>
+<sent type="main" lang="kor" page="27b" n="9">各㨾 建築이 莊嚴을 極니</sent>
+<sent type="main" lang="kor" page="27b" n="10">그中 웰街에 잇 商會館은</sent>
+<!--'웰'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="27b" n="11">長이 一百二十 間이오</sent>
+<sent type="main" lang="kor" page="27b" n="12">廣이 二十五 間이라</sent>
+<sent type="main" lang="kor" page="27b" n="13">四 層의 놉기 七十 尺 有餘ㅣ오</sent>
+<sent type="main" lang="kor" page="27b" n="14">屋頂은 一百二十 尺이며</sent>
+<sent type="main" lang="kor" page="27b" n="15">그 建築費와 地價 筭면</sent>
+<sent type="main" lang="kor" page="27b" n="16">一百八十萬 元이라 고</sent>
+<sent type="main" lang="kor" page="27b" n="17">政府의 書籍館은 白大理石으로 建築니</sent>
+<sent type="main" lang="kor" page="27b" n="18">浮費 一百十七萬 元이오</sent>
+<sent type="main" lang="kor" page="27b-28a" n="19">議事堂은 五百萬 元으로 지으니라</sent>
+<!--事^堂-->
+
+<sent type="main" lang="kor" page="28a" n="1">府內 遊園은 中央園이라  公園이 最大니</sent>
+<sent type="main" lang="kor" page="28a" n="2">그 公園은 府民의 醵金으로</sent>
+<sent type="main" lang="kor" page="28a" n="3">府中 中央에 잇 廣地에 築造야</sent>
+<sent type="main" lang="kor" page="28a" n="4">元來 平野로</sent>
+<sent type="main" lang="kor" page="28a" n="5">假山과 泉石을 設置야</sent>
+<sent type="main" lang="kor" page="28a" n="6">勝致 絶景이 天然 形象을 일우니</sent>
+<sent type="main" lang="kor" page="28a" n="7">實로 天下에 比  업 公園이니라</sent>
+<sent type="main" lang="kor" page="28a" n="8">紐約府</sent>
+<sent type="main" lang="kor" page="28a" n="9">世界 中에 一二 닷토 商業이 繁盛 이라</sent>
+<sent type="main" lang="kor" page="28a" n="10">鐵路 蜘蛛의 網과 치</sent>
+<sent type="main" lang="kor" page="28a" n="11">全國 各 州에셔 모이고</sent>
+<sent type="main" lang="kor" page="28a" n="12">高架 鐵路 道路 우에 連亘야</sent>
+<sent type="main" lang="kor" page="28a" n="13">空中에 往來니</sent>
+<sent type="main" lang="kor" page="28a" n="14">實노 天下의 壯觀이오</sent>
+<sent type="main" lang="kor" page="28a-28b" n="15">그 府과 브로클닌府 이에</sent>
+<!--^이-->
+
+<sent type="main" lang="kor" page="28b" n="1">世界 第一이라  長鐵橋가 잇고</sent>
+<sent type="main" lang="kor" page="28b" n="2">그 港口 한 屈指 良港이니</sent>
+<sent type="main" lang="kor" page="28b" n="3">周回ㅣ 二十五 哩오</sent>
+<sent type="main" lang="kor" page="28b" n="4">直徑이 八 哩라</sent>
+<sent type="main" lang="kor" page="28b" n="5">內外 船隻의 出入이 긋칠  업고</sent>
+<sent type="main" lang="kor" page="28b" n="6">一 歲의 輸出入 物貨 價格이</sent>
+<sent type="main" lang="kor" page="28b" n="7">七億萬 元이 되야</sent>
+<sent type="main" lang="kor" page="28b" n="8">東은 大西洋을 橫斷야 歐羅巴로 直航고</sent>
+<sent type="main" lang="kor" page="28b" n="9">內方은 하도손과 運河 지여</sent>
+<!--'하도손'이 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="28b" n="10">各地로 貨物을 運輸니</sent>
+<sent type="main" lang="kor" page="28b" n="11">倫敦과 巴里와 並肩 大都ㅣ니라</sent>
+<sent type="title2" lang="kor" page="28b" n="12">第二十二課 乙支文德</sent>
+<sent type="main" lang="kor" page="28b" n="13">乙支文德은 高句麗 大臣이라</sent>
+<sent type="main" lang="kor" page="28b" n="14">됨이 沈鷙고 兼야</sent>
+<sent type="main" lang="kor" page="28b" n="15">智慧 잇스니</sent>
+<sent type="main" lang="kor" page="28b" n="16">이 當야</sent>
+<sent type="main" lang="kor" page="28b-29a" n="17">隋煬帝 支那 天子ㅣ라</sent>
+<!--那 ^ 天-->
+
+<sent type="main" lang="kor" page="29a" n="1">一百三十萬 大兵을 發고</sent>
+<sent type="main" lang="kor" page="29a" n="2">天下의 財物을 다야 高句麗 치니</sent>
+<sent type="main" lang="kor" page="29a" n="3">乙支文德이 그 虛實을 엿보고저 야</sent>
+<sent type="main" lang="kor" page="29a" n="4">使臣이 되야 隋煬帝 營中에 간</sent>
+<sent type="main" lang="kor" page="29a" n="5">隋 帝가 臣下로 더브러 議論고</sent>
+<sent type="main" lang="kor" page="29a" n="6">文德을 잡으랴 거</sent>
+<sent type="main" lang="kor" page="29a" n="7">文德이 알고 말을 잘고</sent>
+<sent type="main" lang="kor" page="29a" n="8">계교 行야 逃亡여 도라온</sent>
+<sent type="main" lang="kor" page="29a" n="9">隋國 사이 잡으랴고 죳오</sent>
+<sent type="main" lang="kor" page="29a" n="10">밋지 못지라</sent>
+<sent type="main" lang="kor" page="29a" n="11">文德이 이믜 도라오</sent>
+<sent type="main" lang="kor" page="29a" n="12">隋 兵의 虛實을 알고</sent>
+<sent type="main" lang="kor" page="29a" n="13">勝戰 계교 각야</sent>
+<sent type="main" lang="kor" page="29a" n="14">하로 이에 일곱 번 싸와</sent>
+<sent type="main" lang="kor" page="29a" n="15">다 敗 쳬고 退軍니</sent>
+<sent type="main" lang="kor" page="29a" n="16">隋 兵이 果然 계교에 져 驕慢거</sent>
+<sent type="main" lang="kor" page="29a-29b" n="17">文德이 五言詩 지어 隋 將의게 보니</sent>
+<!--게 ^ 보-->
+
+<sent type="main" lang="kor" page="29b" n="1">其 詩에 曰</sent>
+<sent type="main" lang="kor" page="29b" n="2">神策은 究天文이오</sent>
+<sent type="main" lang="kor" page="29b" n="3">妙筭은 窮地理라</sent>
+<sent type="main" lang="kor" page="29b" n="4">戰勝功旣高니 知足願云止라 고</sent>
+<sent type="main" lang="kor" page="29b" n="5">因야 隋 兵을 四面으로 쳐</sent>
+<sent type="main" lang="kor" page="29b" n="6">平壤 近處에셔 隋나라 將帥 만히 쥭이고</sent>
+<sent type="main" lang="kor" page="29b" n="7">軍士 모다 降服바드며 사로잡고</sent>
+<sent type="main" lang="kor" page="29b" n="8">軍器 鉅萬으로 어드니</sent>
+<sent type="main" lang="kor" page="29b" n="9">이 한 싸홈에 隋나라에 百餘萬 軍士가</sent>
+<sent type="main" lang="kor" page="29b" n="10">二千七百 人이 남아 도라가고</sent>
+<sent type="main" lang="kor" page="29b" n="11">隋煬帝 이 因야 나라지 亡니라</sent>
+<sent type="main" lang="kor" page="29b" n="12">너의 學徒들은 각야 보라</sent>
+<sent type="main" lang="kor" page="29b" n="13">高句麗 卽今 平安道와 遼東을 合야 가졋스나</sent>
+<sent type="main" lang="kor" page="29b" n="14">隋나라에 比면 小國이로</sent>
+<sent type="main" lang="kor" page="29b" n="15">한 싸홈에 이러탓시 이긔엿스니</sent>
+<sent type="main" lang="kor" page="29b" n="16">此 觀면</sent>
+<sent type="main" lang="kor" page="29b-30a" n="17">군의 强弱은</sent>
+<!--弱^은-->
+
+<sent type="main" lang="kor" page="30a" n="1">그 나라 의 心과 氣에 잇고</sent>
+<sent type="main" lang="kor" page="30a" n="2">나라 大小에 잇지 아니니</sent>
+<sent type="main" lang="kor" page="30a" n="3">高句麗  朝鮮 이 그다지 强야</sent>
+<sent type="main" lang="kor" page="30a" n="4">隋 이긔기 枯木을 拉듯 얏거</sent>
+<sent type="main" lang="kor" page="30a" n="5">엇지야 今에 至야</sent>
+<sent type="main" lang="kor" page="30a" n="6">殘弱 淸人도 勝치 못고</sent>
+<sent type="main" lang="kor" page="30a" n="7">이 아마도</sent>
+<sent type="main" lang="kor" page="30a" n="8">朝鮮 이 愛國心이 옛 만 못이라</sent>
+<sent type="main" lang="kor" page="30a" n="9">너의 學徒들은 아모조록 힘 工夫야</sent>
+<sent type="main" lang="kor" page="30a" n="10">마다 乙支文德이 되기 각지어다</sent>
+<sent type="main" lang="kor" page="30a" n="11">乙支文德은</sent>
+<sent type="main" lang="kor" page="30a" n="12">우리나라 四千 年 以來에</sent>
+<sent type="main" lang="kor" page="30a" n="13">文武 兼備 第一 人物이니라</sent>
+<sent type="title2" lang="kor" page="30a" n="14">第二十三課 鯨獵</sent>
+<sent type="main" lang="kor" page="30a" n="15">南北 二 海 鯨이 만니</sent>
+<sent type="main" lang="kor" page="30a-30b" n="16">歐羅巴와 亞米利加 에셔</sent>
+<!--에^셔-->
+
+<sent type="main" lang="kor" page="30b" n="1">마다 여러 船隻을 여 獵取니</sent>
+<sent type="main" lang="kor" page="30b" n="2">그 業은 甚히 危殆</sent>
+<sent type="main" lang="kor" page="30b" n="3">每 歲 鯨獵 時節을 當면</sent>
+<sent type="main" lang="kor" page="30b" n="4">剛毅 水夫</sent>
+<sent type="main" lang="kor" page="30b" n="5">그 危殆믈 顧치 아니고 잡기 닷토니</sent>
+<sent type="main" lang="kor" page="30b" n="6">그 利 만흔 緣由ㅣ라</sent>
+<sent type="main" lang="kor" page="30b" n="7">고 크기 獸 中의 第一이라</sent>
+<sent type="main" lang="kor" page="30b" n="8">其中에 最大 거슨</sent>
+<sent type="main" lang="kor" page="30b" n="9">長이 六七十 尺 되 것도 잇니</sent>
+<sent type="main" lang="kor" page="30b" n="10">形容은 鱗族에 屬야</sent>
+<sent type="main" lang="kor" page="30b" n="11">水中에 살기 極히 便게</sent>
+<sent type="main" lang="kor" page="30b" n="12">前肢와 尾 鰭狀을 고</sent>
+<sent type="main" lang="kor" page="30b" n="13">그 尾 力이 强니라</sent>
+<sent type="main" lang="kor" page="30b" n="14">捕鯨船이 獵場에 가면</sent>
+<sent type="main" lang="kor" page="30b" n="15">한 水夫 檣頭 藍 中에 올안자</sent>
+<sent type="main" lang="kor" page="30b" n="16">海上에 고가 믈 伺察야</sent>
+<sent type="main" lang="kor" page="30b" n="17">船長 報면</sent>
+<sent type="main" lang="kor" page="30b" n="18">船長은 곳 여러 輕艇을 나려 水夫 와</sent>
+<sent type="main" lang="kor" page="30b-31a" n="19">고  로 進行니라</sent>
+<!-- ^ -->
+
+<sent type="main" lang="kor" page="31a" n="1">한 水夫 그 輕艇 船頭에 立야</sent>
+<sent type="main" lang="kor" page="31a" n="2">고 身邊에 갓가히 가서</sent>
+<sent type="main" lang="kor" page="31a" n="3">그 手中에 가진 銛을 投면</sent>
+<sent type="main" lang="kor" page="31a" n="4">고 銛을 맛고 海底로 나려가도</sent>
+<sent type="main" lang="kor" page="31a" n="5">銛의 인 長繩은 고에 纏着니라</sent>
+<sent type="main" lang="kor" page="31a" n="6">鯨艇은 고가 기 곳을 追及야</sent>
+<sent type="main" lang="kor" page="31a" n="7">믈 待야 銛을 投면</sent>
+<sent type="main" lang="kor" page="31a" n="8">고 다시 受銛야 海底로 기되</sent>
+<sent type="main" lang="kor" page="31a" n="9">空氣 呼吸 故로</sent>
+<sent type="main" lang="kor" page="31a" n="10">再三 水面에 여 나</sent>
+<sent type="main" lang="kor" page="31a" n="11">水夫 그마다 銛을 投니</sent>
+<sent type="main" lang="kor" page="31a" n="12">고 漸漸 血液을 일허</sent>
+<sent type="main" lang="kor" page="31a" n="13">衰弱야 쥭어 水面에 니</sent>
+<sent type="main" lang="kor" page="31a-31b" n="14">水夫 鏈을 가지고 船側에 여</sent>
+<!--船^側-->
+
+<sent type="main" lang="kor" page="31b" n="1">그 膏脂 搾取야 桶 中에 담니라</sent>
+<sent type="main" lang="kor" page="31b" n="2">前記믄 捕鯨 景狀을 槩述이오</sent>
+<sent type="main" lang="kor" page="31b" n="3">그 危險은 여러 가지라</sent>
+<sent type="main" lang="kor" page="31b" n="4">或 海水에 漂流 氷塊에 衝突며</sent>
+<sent type="main" lang="kor" page="31b" n="5">或 氷山에 닷쳐  破며</sent>
+<sent type="main" lang="kor" page="31b" n="6">或 受傷 고의 突衝믈 맛 水艇을 覆沈며</sent>
+<sent type="main" lang="kor" page="31b" n="7">或 그 力으로 小艇을 破碎야</sent>
+<sent type="main" lang="kor" page="31b" n="8">水夫 數十을 魚腹에 葬니</sent>
+<sent type="main" lang="kor" page="31b" n="9">그 業의 危殆은 千態萬象이라 詳述치 못노라</sent>
+<sent type="main" lang="kor" page="31b" n="10">冒險고 勇進 水夫의 豪氣</sent>
+<sent type="main" lang="kor" page="31b" n="11">兵士가 死 期야 戰場에 向 일과 갓트니</sent>
+<sent type="main" lang="kor" page="31b" n="12">水夫 一身의 利 爲야</sent>
+<sent type="main" lang="kor" page="31b" n="13">危殆홈을 顧치 아니</sent>
+<sent type="main" lang="kor" page="31b-32a" n="14">兵士 나라 爲야 그 몸을 바리니</sent>
+<!-- ^ 爲-->
+
+ 
+
+<sent type="main" lang="kor" page="32a" n="1">그 品別은 다르</sent>
+<sent type="main" lang="kor" page="32a" n="2">勇奮야 몸을 塵芥와 갓치 輕視은 彼此一般이라</sent>
+<sent type="main" lang="kor" page="32a" n="3">勇奮 氣槩를 世人이 欽慕니라</sent>
+<sent type="title2" lang="kor" page="32a" n="4">第二十四課 老農夕話</sent>
+<sent type="main" lang="kor" page="32a" n="5">한 老農이 一日은 子孫을 모아 일너 曰</sent>
+<sent type="main" lang="kor" page="32a" n="6">가 어릴  怠惰야</sent>
+<sent type="main" lang="kor" page="32a" n="7">務業에 마음이 업고</sent>
+<sent type="main" lang="kor" page="32a" n="8">或 就業 도</sent>
+<sent type="main" lang="kor" page="32a" n="9">남을 爲야 가 각더니</sent>
+<sent type="main" lang="kor" page="32a" n="10">今日갓치 農業을 힘쓰게 되믄</sent>
+<sent type="main" lang="kor" page="32a" n="11">全혀 魚와 鳥의 賜 바ㅣ라</sent>
+<sent type="main" lang="kor" page="32a" n="12">一日에 魚 낙랴 川邊에 遊더니</sent>
+<sent type="main" lang="kor" page="32a" n="13">水中에 여러 魚가 游泳호</sent>
+<sent type="main" lang="kor" page="32a" n="14">그中에 한 魚</sent>
+<sent type="main" lang="kor" page="32a-32b" n="15">安全 곳에 卵을 散附코져 야</sent>
+<!--散^附-->
+
+<sent type="main" lang="kor" page="32b" n="1">몸과 입으로 小石을 흔들고</sent>
+<sent type="main" lang="kor" page="32b" n="2">맛  鳥가  겻 잇다가</sent>
+<sent type="main" lang="kor" page="32b" n="3">榛莽 中으로 飛去야</sent>
+<sent type="main" lang="kor" page="32b" n="4">입에 苔蘚의 類 물어</sent>
+<sent type="main" lang="kor" page="32b" n="5">그 집을 지으랴 거</sent>
+<sent type="main" lang="kor" page="32b" n="6"> 因야 熟思니</sent>
+<sent type="main" lang="kor" page="32b" n="7">鳥魚 手가 업스나</sent>
+<sent type="main" lang="kor" page="32b" n="8">그 勤勞 오히려 나보다 더니</sent>
+<sent type="main" lang="kor" page="32b" n="9">나 身體의 屈伸과 手足의 開合이 自在 故로</sent>
+<sent type="main" lang="kor" page="32b" n="10">物件의 把擧携擲을 任意로 못 거시 업고</sent>
+<sent type="main" lang="kor" page="32b" n="11">勞動事爲 支保치 못 거시 업스니</sent>
+<sent type="main" lang="kor" page="32b" n="12">然則 이 怠惰야 生存이 難지니</sent>
+<sent type="main" lang="kor" page="32b" n="13">나 갓튼 者</sent>
+<sent type="main" lang="kor" page="32b" n="14">鳥와 魚에 比면 羞耻가 多니라</sent>
+<sent type="main" lang="kor" page="32b" n="15">如此히 斟酌고 昨非 改悟야</sent>
+<sent type="main" lang="kor" page="32b" n="16">크게 奮發고</sent>
+<sent type="main" lang="kor" page="32b" n="17">自後로 營營 勤勞야</sent>
+<sent type="main" lang="kor" page="32b-33a" n="18">荒蕪 田園을 開拓고</sent>
+<!--荒^蕪-->
+
+<sent type="main" lang="kor" page="33a" n="1">耕耘을 用力야</sent>
+<sent type="main" lang="kor" page="33a" n="2">時時로 疏忽홈이 업더니</sent>
+<sent type="main" lang="kor" page="33a" n="3">맛 今日에 如此 幸福을 享노라</sent>
+<sent type="main" lang="kor" page="33a" n="4">汝等이 萬一 勤勞 어렵고 괴롭게 알거든</sent>
+<sent type="main" lang="kor" page="33a" n="5">당히 野外에 나가</sent>
+<sent type="main" lang="kor" page="33a" n="6">動物의  거슬 熟視 것시라</sent>
+<sent type="main" lang="kor" page="33a" n="7">螻蟻가 飮食을 貯蓄야 집을 지으며</sent>
+<sent type="main" lang="kor" page="33a" n="8">蜂이 蜜을 모흐 일은</sent>
+<sent type="main" lang="kor" page="33a" n="9">다 吾等의 良師友ㅣ라</sent>
+<sent type="main" lang="kor" page="33a" n="10">動物도 이갓치 勤勞기</sent>
+<sent type="main" lang="kor" page="33a" n="11">각각 그 幸福을 求홈이니</sent>
+<sent type="main" lang="kor" page="33a" n="12">도 한 怠惰치 못 거시라</sent>
+<sent type="main" lang="kor" page="33a" n="13">怠惰 곳 不幸의 本이니</sent>
+<sent type="main" lang="kor" page="33a" n="14">汝等은 輕輕히 看過치 말지어다 더라</sent>
+
+<sent type="main" lang="kor" page="33b" n="1">그 老農의 말을 仔細히 각야 보니</sent>
+<sent type="main" lang="kor" page="33b" n="2">幸福은 사마다 스로 求 거시라</sent>
+<sent type="main" lang="kor" page="33b" n="3">王侯將相이나 汝等이나 勤勞 아니고</sent>
+<sent type="main" lang="kor" page="33b" n="4">幸福을 어들 슈 업기 一般이라</sent>
+<sent type="main" lang="kor" page="33b" n="5">나라의 富强은 國民의 勤勞에 잇다 니</sent>
+<sent type="main" lang="kor" page="33b" n="6">汝等의 勤勞  나라에 富强의 幸福이니</sent>
+<sent type="main" lang="kor" page="33b" n="7">學校에 잇슬 와 卒業 後에도</sent>
+<sent type="main" lang="kor" page="33b" n="8">一生 勤勞 잇지 말지어다</sent>
+<sent type="title2" lang="kor" page="33b" n="9">第二十五課 時間 恪守</sent>
+<sent type="main" lang="kor" page="33b" n="10">의 貴賤을 勿論고</sent>
+<sent type="main" lang="kor" page="33b" n="11">職業에 從事야</sent>
+<sent type="main" lang="kor" page="33b" n="12">成就 期望랴 면</sent>
+<sent type="main" lang="kor" page="33b" n="13">부 時間을 직흴 거시라</sent>
+<sent type="main" lang="kor" page="33b" n="14">이 世上에 立身을 못 者</sent>
+<sent type="main" lang="kor" page="33b" n="15">그 時間을 不守홈이오</sent>
+<sent type="main" lang="kor" page="33b-34a" n="16"> 제 職業을 泛然이  者</sent>
+<!-- ^ 제-->
+
+<sent type="main" lang="kor" page="34a" n="1">남의 時間을 妨害 일이 만니라</sent>
+<sent type="main" lang="kor" page="34a" n="2">世上에 미들 바</sent>
+<sent type="main" lang="kor" page="34a" n="3">다만 萬般 事에 時間을 堅守 이니</sent>
+<sent type="main" lang="kor" page="34a" n="4">그런故로 劇務의 當 의게</sent>
+<sent type="main" lang="kor" page="34a" n="5">時間이 곳 金錢이라</sent>
+<sent type="main" lang="kor" page="34a" n="6">如此히 貴重 時間을 妨害 거</sent>
+<sent type="main" lang="kor" page="34a" n="7">곳 그 의 財物을 서 가 貌㨾이니라</sent>
+<sent type="main" lang="kor" page="34a" n="8">米國 大統領 지 華盛頓은</sent>
+<sent type="main" lang="kor" page="34a" n="9">精密히 時間을 직히 者ㅣ라</sent>
+<sent type="main" lang="kor" page="34a" n="10">일즉 그 度支 大臣 하밀돈이</sent>
+<sent type="main" lang="kor" page="34a" n="11">約束 時間을 五 分을 더게 와셔</sent>
+<sent type="main" lang="kor" page="34a" n="12">제 時計 더댄 緣由 고니</sent>
+<sent type="main" lang="kor" page="34a" n="13">華盛頓이 그 말을 듯고 일으되</sent>
+<!--'華盛頓'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="34a-34b" n="14">다시 精良 時計 求이 올흐니</sent>
+<!--求^-->
+
+<sent type="main" lang="kor" page="34b" n="1">不然則 로 大臣을 求겟다 더라</sent>
+<sent type="main" lang="kor" page="34b" n="2">華盛頓이 양 國會에 臨</sent>
+<!--'華盛頓'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="34b" n="3"> 어긔지 아니야</sent>
+<sent type="main" lang="kor" page="34b" n="4">上午 十二 点이면</sent>
+<sent type="main" lang="kor" page="34b" n="5">議事堂으로 갈 로 定고</sent>
+<sent type="main" lang="kor" page="34b" n="6"> 下午 四 点이면</sent>
+<sent type="main" lang="kor" page="34b" n="7">晩餐 로 定며</sent>
+<sent type="main" lang="kor" page="34b" n="8">請 客이 잇셔</sent>
+<sent type="main" lang="kor" page="34b" n="9">그에 오지 아니면</sent>
+<sent type="main" lang="kor" page="34b" n="10">제 혼쟈 食堂으로 드러가</sent>
+<sent type="main" lang="kor" page="34b" n="11">暫時도 기다리지 아니고</sent>
+<sent type="main" lang="kor" page="34b" n="12">或 客이 더 緣由 發明면</sent>
+<sent type="main" lang="kor" page="34b" n="13">答야 일오</sent>
+<sent type="main" lang="kor" page="34b" n="14">나 다만 時間을 직흴 이라 더라</sent>
+<sent type="main" lang="kor" page="34b" n="15">한 貴人이 一日은 길 가더니</sent>
+<sent type="main" lang="kor" page="34b" n="16">한 卑陋 이 불너 오</sent>
+<sent type="main" lang="kor" page="34b" n="17">나 舊 學友 某ㅣ니 아니잇가</sent>
+<sent type="main" lang="kor" page="34b-35a" n="18">貴人이 熟視니</sent>
+<!--熟^視-->
+
+<sent type="main" lang="kor" page="35a" n="1">果然 舊日 相識이라</sent>
+<sent type="main" lang="kor" page="35a" n="2">學校에 잇슬  집이 富豪야</sent>
+<sent type="main" lang="kor" page="35a" n="3">學生 中의 넉넉히 지던 이러니</sent>
+<sent type="main" lang="kor" page="35a" n="4">이제 몸에 襤褸 닙고</sent>
+<sent type="main" lang="kor" page="35a" n="5">顔色이 衰憊거</sent>
+<sent type="main" lang="kor" page="35a" n="6">놀나 오</sent>
+<sent type="main" lang="kor" page="35a" n="7">如此히 賤陋 地境에 階落기 엇진 일인요</sent>
+<sent type="main" lang="kor" page="35a" n="8">그 이 答야 오</sent>
+<sent type="main" lang="kor" page="35a" n="9">가 어릴 븟터 時間을 足足히 아 行習이 잇기로</sent>
+<sent type="main" lang="kor" page="35a" n="10">일을  에 아니고</sent>
+<sent type="main" lang="kor" page="35a" n="11">맛 이 貧寠 地境이 되엿스니</sent>
+<sent type="main" lang="kor" page="35a" n="12">이  一身을 誤 原由ㅣ라</sent>
+<sent type="main" lang="kor" page="35a" n="13">萬一 어릴 에 時間을 恪守 行習을 어덧스면</sent>
+<sent type="main" lang="kor" page="35a" n="14">今日에 반다시 富榮 터이라 니</sent>
+<sent type="main" lang="kor" page="35a" n="15">實노 名言이로다</sent>
+<sent type="main" lang="kor" page="35a-35b" n="16">故로 汝等은 어릴 에 用心 勤勉야</sent>
+<!--心 ^ 勤-->
+
+<sent type="main" lang="kor" page="35b" n="1">時間을 직희 行習을 養成야</sent>
+<sent type="main" lang="kor" page="35b" n="2"> 定 에 定 곳스로 가셔</sent>
+<sent type="main" lang="kor" page="35b" n="3">各기 제 業務의 時間을 恪守야 實踐지어다</sent>
+<sent type="title2" lang="kor" page="35b" n="4">第二十六課 支那國 二</sent>
+<sent type="main" lang="kor" page="35b" n="5">第十九課에 支那國이 漸漸 衰殘 緣由 尋求얏거니와</sent>
+<sent type="main" lang="kor" page="35b" n="6">支那國이 如此히 되 緣由 硏究면</sent>
+<sent type="main" lang="kor" page="35b" n="7">其間에 遠因과 近因과</sent>
+<sent type="main" lang="kor" page="35b" n="8"> 直接因과 間接因이 各各 다 잇니</sent>
+<sent type="main" lang="kor" page="35b" n="9">一朝一夕에 仔細히 說明기 쉽지 못 일이로</sent>
+<sent type="main" lang="kor" page="35b" n="10">아마도 文敎의 失宜홈이 大原因인 듯니라</sent>
+
+<sent type="main" lang="kor" page="36a" n="">孔子와 前後 賢人의 論說은</sent>
+<sent type="main" lang="kor" page="36a" n="">그 나라 文化 開進야</sent>
+<sent type="main" lang="kor" page="36a" n="">世道 人心의 扶植 바ㅣ라</sent>
+<sent type="main" lang="kor" page="36a" n="">後學이 그 敎의 實地 眞正 窮究치 아니고</sent>
+<sent type="main" lang="kor" page="36a" n="">갓 虛文만 崇尙며</sent>
+<sent type="main" lang="kor" page="36a" n=""> 前人의 슬 忖度지 못야</sent>
+<sent type="main" lang="kor" page="36a" n="">그 맛당을 일코 日新치 못기로</sent>
+<sent type="main" lang="kor" page="36a" n="">맛 스로 暴棄으로 習을 成지라</sent>
+<sent type="main" lang="kor" page="36a" n="">이런 故로 의 智慧가 開達치 못야</sent>
+<sent type="main" lang="kor" page="36a" n="">時勢 죠</sent>
+<sent type="main" lang="kor" page="36a" n="">敎義에 適用을 아지 못고</sent>
+<sent type="main" lang="kor" page="36a" n="">다만 中華ㅣ라 目尊며</sent>
+<sent type="main" lang="kor" page="36a" n="">外國을 夷狄이라 니</sent>
+<sent type="main" lang="kor" page="36a" n="">此 곳 支那人의 偏見이니라</sent>
+<sent type="main" lang="kor" page="36a" n="">支那國은 여러 皇統을 經야</sent>
+<sent type="main" lang="kor" page="36a-36b" n="">儒敎ㅣ 綿綿不絶이라</sent>
+<!--이^라-->
+
+<sent type="main" lang="kor" page="36b" n="1"> 虛文으로 本을 고</sent>
+<sent type="main" lang="kor" page="36b" n="2">皇室 社稷을 其次로 아라</sent>
+<sent type="main" lang="kor" page="36b" n="3">스로 尊主 愛國의 마음이 업기 自然 일이니라</sent>
+<sent type="main" lang="kor" page="36b" n="4">淸朝 滿洲 에 한 蠻族이라</sent>
+<sent type="main" lang="kor" page="36b" n="5">中國의 道 尊고 君德을 施行</sent>
+<sent type="main" lang="kor" page="36b" n="6">萬一 失道 缺德의 일을 진</sent>
+<sent type="main" lang="kor" page="36b" n="7">天命이 스로 定실 바ㅣ 잇니라</sent>
+<sent type="main" lang="kor" page="36b" n="8">故로 民은 一心으로 君을 奉戴야 組庸을 上納고</sent>
+<sent type="main" lang="kor" page="36b" n="9">使役을 服從기에 잇고</sent>
+<sent type="main" lang="kor" page="36b" n="10">君은 民을 報기 施德 布恩기에 잇니</sent>
+<sent type="main" lang="kor" page="36b" n="11">君이 民을 保護치 못면</sent>
+<sent type="main" lang="kor" page="36b" n="12">民이 君을 奉戴 아니기 當然 일이라</sent>
+<sent type="main" lang="kor" page="36b" n="13">假今 淸朝 減亡야도</sent>
+<sent type="main" lang="kor" page="36b-37a" n="14">하날은 반시 賢明 君主 샤</sent>
+<!--하^날-->
+
+<sent type="main" lang="kor" page="37a" n="1">護道 布德야</sent>
+<sent type="main" lang="kor" page="37a" n="2">此 民을 保護케 리니라</sent>
+<sent type="main" lang="kor" page="37a" n="3">이 곳 淸國 의 意嚮이라</sent>
+<sent type="main" lang="kor" page="37a" n="4">故로 朝廷의 存廢 興亡은 我의 不關이라 고</sent>
+<sent type="main" lang="kor" page="37a" n="5">天命과 道德에 一歸니</sent>
+<sent type="main" lang="kor" page="37a" n="6">國家 愛護의 情念은</sent>
+<sent type="main" lang="kor" page="37a" n="7">自然히 업기 고이치 아닌 일이라</sent>
+<sent type="main" lang="kor" page="37a" n="8">여러 번 外國과 開釁야</sent>
+<sent type="main" lang="kor" page="37a" n="9">每 戰 每 敗 야 흘 일코 償金을 갑흐되</sent>
+<sent type="main" lang="kor" page="37a" n="10">恬然 不顧</sent>
+<sent type="main" lang="kor" page="37a" n="11">곳 그 나라 의 尊主 愛國의 마음이 업 緣由ㅣ니</sent>
+<sent type="main" lang="kor" page="37a" n="12">이 다 文敎의 失宜 바ㅣ라</sent>
+<sent type="main" lang="kor" page="37a" n="13">可히 鑑며 懲 일이니라</sent>
+<sent type="title2" lang="kor" page="37a" n="14">第二十七課 흴드 一</sent>
+
+<sent type="main" lang="kor" page="37b" n="1">亞米利加洲 合衆國에 大統領 흴드</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="37b" n="2">일홈을 임스 아브람이라 니</sent>
+<!--'임스 아브람'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="37b" n="3">어하이어州 오련지村에 農家의 아들이라</sent>
+<!--'어하이어'와 '오련지'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="37b" n="4">父親 흴드가 두 살 에 도라가니</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="37b" n="5">兄 토마스 그 겨우 十 歲라</sent>
+<!--'토마스'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="37b" n="6">母親은 田圃 邊에 木柵 짓기 生業고</sent>
+<sent type="main" lang="kor" page="37b" n="7">토마스 農業에 힘쓰더라</sent>
+<sent type="main" lang="kor" page="37b" n="8">然이 母親과 어린 兒孩이니</sent>
+<sent type="main" lang="kor" page="37b" n="9">生涯에 極難고 困窶홈이 殊甚야</sent>
+<sent type="main" lang="kor" page="37b" n="10">여러 번 굴머 쥭게 되얏더라</sent>
+<sent type="main" lang="kor" page="37b" n="11">토마스가 남의 밧 지어</sent>
+<!--'토마스'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="37b" n="12">若干 財産을 어더 흴드 小學校에 드리니</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="37b" n="13">母親이 그 學校가 넘무 멀니 잇스믈 念慮야</sent>
+<sent type="main" lang="kor" page="37b" n="14">제 흘 밧쳐 小學校 터 으니</sent>
+<sent type="main" lang="kor" page="37b-38a" n="15">村中 들이 相議야 한 小學校 셰웟더라</sent>
+<!--村^中-->
+
+<sent type="main" lang="kor" page="38a" n="1">自後로 흴드의 學業이 크게 進야</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="38a" n="2">다른 生徒에 數 等이 優더라</sent>
+<sent type="main" lang="kor" page="38a" n="3">토마스가 二十一 歲 에 荒地 開拓야</sent>
+<sent type="main" lang="kor" page="38a" n="4">七十五 元을 어더셔</sent>
+<sent type="main" lang="kor" page="38a" n="5">母親의 집을 지으랴 兄弟 戮力야</sent>
+<sent type="main" lang="kor" page="38a" n="6">로 木造 집을 建設</sent>
+<sent type="main" lang="kor" page="38a" n="7">그 흴드 十二 歲라</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="38a" n="8">木手의 힘을 補助니</sent>
+<sent type="main" lang="kor" page="38a" n="9">木手들이 그 役事에 工巧홈을 보고 크게 稱贊더라</sent>
+<sent type="main" lang="kor" page="38a" n="10">흴드가 自後로 寸暇 곳 잇스면</sent>
+<!--'흴드'는 소괄호로 묶여 있으나 앞의 부호는 보이지 않음-->
+<sent type="main" lang="kor" page="38a" n="11">建築業에 從事야</sent>
+<sent type="main" lang="kor" page="38a" n="12">맛 남을 爲야</sent>
+<sent type="main" lang="kor" page="38a" n="13">여려 穀倉을 지어 니라</sent>
+<!--''는 '니'로 탈획되어 있음-->
+<sent type="main" lang="kor" page="38a" n="14">흴드가 其後에 或 商賈의 雇用이 되며</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="38a-38b" n="15">或 書手ㅣ 되야</sent>
+<!--ㅣ ^ 되-->
+
+<sent type="main" lang="kor" page="38b" n="1">一朔에 十四 元式 月給을 밧더니</sent>
+<sent type="main" lang="kor" page="38b" n="2">一日은 偶然이  冊을 보고</sent>
+<sent type="main" lang="kor" page="38b" n="3">水師 각이 잇셔 母親 엿오니</sent>
+<sent type="main" lang="kor" page="38b" n="4">母親은 흴드 學者 만들야 기로</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="38b" n="5">그 말을 듯지 아니</sent>
+<sent type="main" lang="kor" page="38b" n="6">흴드가 여러 번 强請기로 마지못야 許니</sent>
+<sent type="main" lang="kor" page="38b" n="7">흴드가 大喜야</sent>
+<sent type="main" lang="kor" page="38b" n="8">旅裝을 다려 가지고 클리브난드로 가서</sent>
+<!--'클리브난드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="38b" n="9">運河 往來 短艇 水夫ㅣ 되얏더라</sent>
+<sent type="main" lang="kor" page="38b" n="10">그이에 艱難 貌㨾은 比  업고</sent>
+<sent type="main" lang="kor" page="38b" n="11"> 溺水灾 十四 回 지야</sent>
+<sent type="main" lang="kor" page="38b" n="12">겨우 生命을 保全더니</sent>
+<sent type="main" lang="kor" page="38b" n="13">最後에 스로 感悟호</sent>
+<sent type="main" lang="kor" page="38b" n="14">至今지 멧 번 生命을 업시 地境을 當야</sent>
+<sent type="main" lang="kor" page="38b-39a" n="15">萬死 中에 一生을 得니</sent>
+<!--得^-->
+
+<sent type="main" lang="kor" page="39a" n="1">天意 잇 듯홈은</sent>
+<sent type="main" lang="kor" page="39a" n="2">반시 他日에 國歌 爲야 致身케 홈이니</sent>
+<sent type="main" lang="kor" page="39a" n="3">如此히 貴 몸을 가지고</sent>
+<sent type="main" lang="kor" page="39a" n="4">短艇  일에 生業기</sent>
+<sent type="main" lang="kor" page="39a" n="5">그  아지 못 일이라 고</sent>
+<sent type="main" lang="kor" page="39a" n="6">急히 집에 도라와셔</sent>
+<sent type="main" lang="kor" page="39a" n="7"> 敎育을 受야</sent>
+<sent type="main" lang="kor" page="39a" n="8">一 個 丈夫 될 經營을 니라</sent>
+<sent type="title2" lang="kor" page="39a" n="9">第二十八課 흴드 二</sent>
+<sent type="main" lang="kor" page="39a" n="10">흴드가 水師의 業을 斷念고 집으로 도라오니</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="39a" n="11">母親이 크게 깃거</sent>
+<sent type="main" lang="kor" page="39a" n="12">就學을 爲야 十七 元을 쥬엇더니</sent>
+<sent type="main" lang="kor" page="39a" n="13">흴드가 二三 朋友와 갓치 집을 나</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="39a" n="14">中學校에 드러가니</sent>
+<sent type="main" lang="kor" page="39a" n="15">그 中學校 집에서 一百四十 里라</sent>
+<sent type="main" lang="kor" page="39a-39b" n="16">흴드가 貧困야</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<!--흴^드-->
+
+<sent type="main" lang="kor" page="39b" n="1">寄宿舍에 寓宿 財力이 不足기로</sent>
+<sent type="main" lang="kor" page="39b" n="2">그 近方의 矮屋 中에 한 房을 비러서 寓宿더라</sent>
+<sent type="main" lang="kor" page="39b" n="3">흴드가 中學을 通學 餘暇에</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="39b" n="4">或 木手의 집으로 가셔 工業을 從事고</sent>
+<sent type="main" lang="kor" page="39b" n="5">夏節 休暇에 農家에 雇用이 되야</sent>
+<sent type="main" lang="kor" page="39b" n="6">若干 工錢을 밧고</sent>
+<sent type="main" lang="kor" page="39b" n="7">冬節 休暇에 村落 學校의 助敎授ㅣ 되야</sent>
+<sent type="main" lang="kor" page="39b" n="8">酬勞金을 어더 빗슬 갑고 衣食을 自辦더라</sent>
+<sent type="main" lang="kor" page="39b" n="9">나히 二十이 되</sent>
+<sent type="main" lang="kor" page="39b" n="10">中學에 退야</sent>
+<sent type="main" lang="kor" page="39b" n="11">히람 에 電信術 講習所로 轉學야</sent>
+<!--'히람'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="39b" n="12">쳐음에 門衛 되고</sent>
+<sent type="main" lang="kor" page="39b" n="13">後에 助敎授ㅣ 되얏더니</sent>
+<sent type="main" lang="kor" page="39b-40a" n="14">그 後에 羅甸語와 希臘語 專心 修學야</sent>
+<!--와 ^ 希-->
+
+<sent type="main" lang="kor" page="40a" n="1">맛 卒業니라</sent>
+<sent type="main" lang="kor" page="40a" n="2">흴드가 電信術 講習所에 卒業고</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="40a" n="3"> 大學校로 入코 </sent>
+<sent type="main" lang="kor" page="40a" n="4">學資가 不足더니</sent>
+<sent type="main" lang="kor" page="40a" n="5">맛 保驗証書 典當 잡 이 잇기로</sent>
+<sent type="main" lang="kor" page="40a" n="6">그 保險証書 붓쳐</sent>
+<sent type="main" lang="kor" page="40a" n="7">若干 財物을 어더</sent>
+<sent type="main" lang="kor" page="40a" n="8">新英倫地에 가셔</sent>
+<sent type="main" lang="kor" page="40a" n="9">읠암스 大學校에 入니</sent>
+<sent type="main" lang="kor" page="40a" n="10">그 大學에 總理 博士 허프긴스라  이</sent>
+<sent type="main" lang="kor" page="40a" n="11">그 篤志 感動야 學資 輔助니</sent>
+<sent type="main" lang="kor" page="40a" n="12">因야 더욱 苦學야</sent>
+<sent type="main" lang="kor" page="40a" n="13">二 年間에 大學 學科 卒業니라</sent>
+<sent type="main" lang="kor" page="40a" n="14">흴드의 學識이 饒富케 되얏시</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="40a" n="15">衣食이며 書籍이 不足고</sent>
+<sent type="main" lang="kor" page="40a" n="16">오히려 四百五十 元 빗시 잇더라</sent>
+<sent type="main" lang="kor" page="40a-40b" n="17"> 히란 講習所에</sent>
+<!--'히란'은 소괄호로 묶여 있으며 '란'은 '람'의 오자로 보임-->
+<!-- ^ 히-->
+
+<sent type="main" lang="kor" page="40b" n="1">羅甸 希臘語學 敎師가 缺이 잇셔</sent>
+<sent type="main" lang="kor" page="40b" n="2">聘 바ㅣ 되</sent>
+<sent type="main" lang="kor" page="40b" n="3">講習所長이 되야 子弟 敎育더니</sent>
+<sent type="main" lang="kor" page="40b" n="4">그 翌年은 나히 겨우 二十六이라</sent>
+<sent type="main" lang="kor" page="40b" n="5">그에 南北이 戰爭</sent>
+<sent type="main" lang="kor" page="40b" n="6">講習所 生徒드리 스로 奮發야 一 聯隊 編成니</sent>
+<sent type="main" lang="kor" page="40b" n="7">흴드가 所長을 辭職고</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="40b" n="8">그 義兵 一 聯隊 司令官이 되야</sent>
+<sent type="main" lang="kor" page="40b" n="9">每 戰에 每 勝야 將官으로 昇進니라</sent>
+<sent type="main" lang="kor" page="40b" n="10">南北 戰爭이 긋치기 前에</sent>
+<sent type="main" lang="kor" page="40b" n="11">흴드가 그 故鄕</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="40b" n="12">오하요州의 國會議員에 選擇 바ㅣ 되야</sent>
+<!--'오하요'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="40b" n="13">事務에 盡力며</sent>
+<sent type="main" lang="kor" page="40b" n="14">비록 寸暇ㅣ 업셔도</sent>
+<sent type="main" lang="kor" page="40b" n="15">講學은 依然히 不廢더라</sent>
+
+<sent type="main" lang="kor" page="41a" n="1">그 後에 大統領 닝콘이 職을 辭니</sent>
+<!--'닝콘'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="41a" n="2">一千八百八十 年에</sent>
+<sent type="main" lang="kor" page="41a" n="3">흴드가 合衆國 人民의 推薦 바ㅣ 되</sent>
+<sent type="main" lang="kor" page="41a" n="4">大統領이 되야</sent>
+<sent type="main" lang="kor" page="41a" n="5">그 明年 三月에</sent>
+<sent type="main" lang="kor" page="41a" n="6">華盛頓府의 議事堂 壇上에셔</sent>
+<sent type="main" lang="kor" page="41a" n="7">大統領 任官의 演說을 니</sent>
+<sent type="main" lang="kor" page="41a" n="8">그에 老母 그 背後에셔 演說을 듯더니</sent>
+<sent type="main" lang="kor" page="41a" n="9">演說을 罷 後에</sent>
+<sent type="main" lang="kor" page="41a" n="10">흴드가 바로 老母 압흐로 와셔</sent>
+<!--'흴드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="41a" n="11">그 舊恩을 厚謝니</sent>
+<sent type="main" lang="kor" page="41a" n="12">그 親愛 情誼가 滿堂을 感動더라</sent>
+<sent type="main" lang="kor" page="41a" n="13">大統領 된 後에</sent>
+<sent type="main" lang="kor" page="41a" n="14">四 箇月을 지야</sent>
+<sent type="main" lang="kor" page="41a" n="15">婦人을 맛랴 롱부례인으로 갈</sent>
+<!--'롱부례인'은 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="41a" n="16">華盛頓 停車傷을 지더니</sent>
+<sent type="main" lang="kor" page="41a" n="17">자아질 지류깃더라 하 이</sent>
+<!--'자아질', '지류깃더'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="41a-41b" n="18">短銃으로 狙擊 二 回 니</sent>
+<!--^니-->
+
+<sent type="main" lang="kor" page="41b" n="1">重傷을 맛고 醫藥의 效驗이 업서</sent>
+<sent type="main" lang="kor" page="41b" n="2">그 九月에 逝去니</sent>
+<sent type="main" lang="kor" page="41b" n="3">마다 그 計聞을 듯고 哀悼치 아니리 업더라</sent>
+<sent type="main" lang="kor" page="41b" n="4">遺骸 클니블난드 에 葬 에</sent>
+<!--'클니블난드'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="41b" n="5">靈前에 供花 幾千이 燦然고</sent>
+<sent type="main" lang="kor" page="41b" n="6">其中에 殊勝키 一 箇 花冠을 柩上에 安置 거시니</sent>
+<sent type="main" lang="kor" page="41b" n="7">이 곳 英國 女皇의 供 바ㅣ라</sent>
+<sent type="main" lang="kor" page="41b" n="8">그 겻 記錄 글에 얏시되</sent>
+<sent type="main" lang="kor" page="41b" n="9">人生 競爭에 一步도 不讓고</sent>
+<sent type="main" lang="kor" page="41b" n="10">人生 工塲에 萬苦 不避고</sent>
+<sent type="main" lang="kor" page="41b" n="11">人生의 冠冕을 華麗히 戴얏더니</sent>
+<sent type="main" lang="kor" page="41b" n="12">이제야 이에 頓住지어다 니라</sent>
+<sent type="title2" lang="kor" page="41b" n="13">第二十九課 氣息 一</sent>
+
+<sent type="main" lang="kor" page="42a" n="1">의 氣息이 고 드리 두 가지라</sent>
+<sent type="main" lang="kor" page="42a" n="2">입으로 드리 김을 吸息이라 고</sent>
+<sent type="main" lang="kor" page="42a" n="3">입으로  김을 呼息이라 니</sent>
+<sent type="main" lang="kor" page="42a" n="4">然이나 한번  김을  다시 드리면</sent>
+<sent type="main" lang="kor" page="42a" n="5">몸에 害가 젹지 아니니라</sent>
+<sent type="main" lang="kor" page="42a" n="6">呼息과 吸息의 다은</sent>
+<sent type="main" lang="kor" page="42a" n="7">各色 試驗으로 顯實기 쉬우니</sent>
+<sent type="main" lang="kor" page="42a" n="8">兒孩가 잘 에 머리 이블 속에 드리고</sent>
+<sent type="main" lang="kor" page="42a" n="9">제가  김을 여러 번 입으로 드리면</sent>
+<sent type="main" lang="kor" page="42a" n="10">次第로 顔色이 疲衰야</sent>
+<sent type="main" lang="kor" page="42a" n="11">病身이 되고</sent>
+<sent type="main" lang="kor" page="42a" n="12">初에 健壯 兒孩도</sent>
+<sent type="main" lang="kor" page="42a" n="13">長成기에 이르러 病이 生니라</sent>
+<sent type="main" lang="kor" page="42a" n="14">이 兒孩 에 자든 惡習으로 나 거시</sent>
+<sent type="main" lang="kor" page="42a" n="15">그 惡習을 고치면</sent>
+<sent type="main" lang="kor" page="42a-42b" n="16">次第로 回復니라</sent>
+<!--回^復-->
+
+<sent type="main" lang="kor" page="42b" n="1">衆人이 一 房內에 모와</sent>
+<sent type="main" lang="kor" page="42b" n="2">숫블 픠고 燭블 켜고</sent>
+<sent type="main" lang="kor" page="42b" n="3">窓과 障을 다 닷치면</sent>
+<sent type="main" lang="kor" page="42b" n="4">必然히 氣運이 糢糊케 되야</sent>
+<sent type="main" lang="kor" page="42b" n="5">그 房內에 과 숫블과 燭블이</sent>
+<sent type="main" lang="kor" page="42b" n="6">그 房內에 空氣 吸收 故로</sent>
+<sent type="main" lang="kor" page="42b" n="7">空氣가 自然이 害롭게 되니라</sent>
+<sent type="main" lang="kor" page="42b" n="8"> 山刹에서 衆人이 徹夜코쟈 야</sent>
+<sent type="main" lang="kor" page="42b" n="9">젹은  房에 모와 안</sent>
+<sent type="main" lang="kor" page="42b" n="10">戶와 窓을 始終을 닷쳐 一夜 우니</sent>
+<sent type="main" lang="kor" page="42b" n="11">房內에 空氣가 漸漸 害롭게 되야</sent>
+<sent type="main" lang="kor" page="42b" n="12">其中 일곱이 熱病을 어더</sent>
+<sent type="main" lang="kor" page="42b" n="13">둘이 맛 죽엇다 니라</sent>
+<sent type="main" lang="kor" page="42b" n="14">是 故로 房內에 通氣 고지 업고</sent>
+<sent type="main" lang="kor" page="42b-43a" n="15">新鮮 空氣가 드러오지 못면</sent>
+<!--드^러-->
+
+<sent type="main" lang="kor" page="43a" n="1">燭블은 푸른 빗치 되야</sent>
+<sent type="main" lang="kor" page="43a" n="2"> 지고</sent>
+<sent type="main" lang="kor" page="43a" n="3">사람도 顔色이 變야</sent>
+<sent type="main" lang="kor" page="43a" n="4">頭腦의 痛을 일워 혹 죽기도 니라</sent>
+<sent type="main" lang="kor" page="43a" n="5">如此히 空氣가 害롭게 되야</sent>
+<sent type="main" lang="kor" page="43a" n="6">房內에 燭블이 지 實狀을 알고져 면</sent>
+<sent type="main" lang="kor" page="43a" n="7">樻 속에 블을 세워 켜고</sent>
+<sent type="main" lang="kor" page="43a" n="8">樻 밋  구녕으로 管을 通야</sent>
+<sent type="main" lang="kor" page="43a" n="9">消火치 아니게 입으로 氣息을 드리면</sent>
+<sent type="main" lang="kor" page="43a" n="10">不久 히에 그 燭블이 必然히 滅니라</sent>
+<sent type="main" lang="kor" page="43a" n="11">사의 吸息과 呼息이 다름이 잇스니</sent>
+<sent type="main" lang="kor" page="43a" n="12">吸息은 純粹 空氣로</sent>
+<sent type="main" lang="kor" page="43a" n="13">呼息은 純粹 空氣 아니라</sent>
+<sent type="main" lang="kor" page="43a" n="14">其 多 炭酸瓦斯라  거시라</sent>
+<sent type="main" lang="kor" page="43a" n="15">이 일을 試騐코쟈 면</sent>
+<sent type="main" lang="kor" page="43a-43b" n="16">石灰水 속에 細官으로 氣息을 불어 드리면</sent>
+<!--灰^水-->
+
+<sent type="main" lang="kor" page="43b" n="1">石灰水 그 氣息을 위야</sent>
+<sent type="main" lang="kor" page="43b" n="2">乳汁쳐름 變니</sent>
+<sent type="main" lang="kor" page="43b" n="3">이 息 中에 잇 炭酸瓦斯가 石灰에 結着야</sent>
+<sent type="main" lang="kor" page="43b" n="4">炭酸 石灰 맨드니라</sent>
+<sent type="main" lang="kor" page="43b" n="5">炭酸 石灰 漆板에 쓰 白墨과 트니라</sent>
+<sent type="main" lang="kor" page="43b" n="6">空氣 中에 酸素와 炭酸瓦斯가 잇스니</sent>
+<sent type="main" lang="kor" page="43b" n="7">酸素 命門의 火 燃고</sent>
+<sent type="main" lang="kor" page="43b" n="8">炭酸은 그 火 滅 거시니</sent>
+<sent type="main" lang="kor" page="43b" n="9">이 두 말을 可히 銘心지니라</sent>
+<sent type="title2" lang="kor" page="43b" n="10">氣息 二</sent>
+<!--'第三十課'는 빠져 있으며 이후에는 모두 과 표시가 빠져 있음-->
+<sent type="main" lang="kor" page="43b" n="11">前章에 命門의 火라  말이 잇스니</sent>
+<sent type="main" lang="kor" page="43b" n="12">何故로 사의 氣息은</sent>
+<sent type="main" lang="kor" page="43b" n="13">火 點 燭과 다 요</sent>
+<sent type="main" lang="kor" page="43b-44a" n="14">세히 헤아린즉</sent>
+<!--헤^아-->
+
+<sent type="main" lang="kor" page="44a" n="1">저 은 다 生 블이라</sent>
+<sent type="main" lang="kor" page="44a" n="2">萬一 그럿치 못면</sent>
+<sent type="main" lang="kor" page="44a" n="3">엇더 에</sent>
+<sent type="main" lang="kor" page="44a" n="4">사의 身이 밧긔 空氣에 比야 덥기 保리요</sent>
+<sent type="main" lang="kor" page="44a" n="5">實은 의 몸 中에  機關이 잇셔 燃火不絶이니</sent>
+<sent type="main" lang="kor" page="44a" n="6">그 모양은 맛치 숫시 爐 中에 燃고</sent>
+<sent type="main" lang="kor" page="44a" n="7">기름이 불 속에 燃 것과 트니라</sent>
+<sent type="main" lang="kor" page="44a" n="8">如此히 燃火홈은 酸素가 업지 못니</sent>
+<sent type="main" lang="kor" page="44a" n="9">酸素로 블을 고</sent>
+<sent type="main" lang="kor" page="44a" n="10">因야 炭酸瓦斯가 蒸氣 지어 니</sent>
+<sent type="main" lang="kor" page="44a" n="11">이 엇더 든지 다 同然니라</sent>
+<sent type="main" lang="kor" page="44a" n="12">衆人이 모이 房에셔 숫블이며 燭블이</sent>
+<sent type="main" lang="kor" page="44a" n="13">과 치 息을 呼吸다  거시 맛당니</sent>
+<sent type="main" lang="kor" page="44a" n="14"> 何故오</sent>
+<sent type="main" lang="kor" page="44a-44b" n="15">블이 燃야 잇슬 </sent>
+<!--블^이-->
+
+<sent type="main" lang="kor" page="44b" n="1">양 酸素 多量히 要니</sent>
+<sent type="main" lang="kor" page="44b" n="2">如此히 酸素 取야</sent>
+<sent type="main" lang="kor" page="44b" n="3"> 블이 지어  거시 곳 炭酸瓦斯ㅣ니라</sent>
+<sent type="main" lang="kor" page="44b" n="4">블이 지어  炭酸瓦斯</sent>
+<sent type="main" lang="kor" page="44b" n="5">烟과 치 烟突로 져나가게 되</sent>
+<sent type="main" lang="kor" page="44b" n="6">이 지어  炭酸瓦斯</sent>
+<sent type="main" lang="kor" page="44b" n="7">그 房中에 通氣 가 업스면</sent>
+<sent type="main" lang="kor" page="44b" n="8">방 안에 充滿야</sent>
+<sent type="main" lang="kor" page="44b" n="9"> 다시 입으로 드리게 되니라</sent>
+<sent type="main" lang="kor" page="44b" n="10">房內에 火爐 놋고</sent>
+<sent type="main" lang="kor" page="44b" n="11">숫블을 만이 픠고</sent>
+<sent type="main" lang="kor" page="44b" n="12">窓과 其餘 通氣  막고</sent>
+<sent type="main" lang="kor" page="44b" n="13">그 房에 자 이 잇더니</sent>
+<sent type="main" lang="kor" page="44b" n="14">잠드러 스로 죽엇다  말이 잇스니</sent>
+<sent type="main" lang="kor" page="44b-45a" n="15">이 의 몸과 炭火가 방 안에 酸素 吸取야</sent>
+<!--炭^火-->
+
+<sent type="main" lang="kor" page="45a" n="1">兩邊이 다 炭酸瓦斯 造出 緣由ㅣ라</sent>
+<sent type="main" lang="kor" page="45a" n="2">炭火 과 比면</sent>
+<sent type="main" lang="kor" page="45a" n="3">勢力이 强니</sent>
+<sent type="main" lang="kor" page="45a" n="4">酸素 取기도 더욱 만흐니라</sent>
+<sent type="main" lang="kor" page="45a" n="5">如此 에 만 죽 게 아니라</sent>
+<sent type="main" lang="kor" page="45a" n="6">炭火도 한 죽니라</sent>
+<sent type="main" lang="kor" page="45a" n="7">그 모양은 炭火가 房內에 酸素 모다 吸取면</sent>
+<sent type="main" lang="kor" page="45a" n="8">졈졈 冷却야 消滅니</sent>
+<sent type="main" lang="kor" page="45a" n="9">이 곳 제가 을 죽기고</sent>
+<sent type="main" lang="kor" page="45a" n="10">그 겻셔 져도 맛 半燃消滅야 죽니라</sent>
+<sent type="main" lang="kor" page="45a" n="11">然이 의 입으로 나가 呼息은</sent>
+<sent type="main" lang="kor" page="45a" n="12">엇더케 되고 니</sent>
+<sent type="main" lang="kor" page="45a" n="13">害 아니라  要緊이 쓸 가 잇스니</sent>
+<sent type="main" lang="kor" page="45a-45b" n="14">입으로 나가 炭酸瓦斯</sent>
+<!--으^로-->
+
+<sent type="main" lang="kor" page="45b" n="1">날마다 이 먹는 物件에 죠흔 利益이 잇니라</sent>
+<sent type="main" lang="kor" page="45b" n="2">녯적에 天人이 開語면</sent>
+<sent type="main" lang="kor" page="45b" n="3">그 입으로 眞珠와 寶具가 러진다  말이 잇스되</sent>
+<sent type="main" lang="kor" page="45b" n="4">셰이 짐쟉하면</sent>
+<sent type="main" lang="kor" page="45b" n="5">眞理 比喩 말이니라</sent>
+<sent type="main" lang="kor" page="45b" n="6">그 緣由 이 번  息으로</sent>
+<sent type="main" lang="kor" page="45b" n="7">그 겻 植物이며 花卉 等의 養方이 되니</sent>
+<sent type="main" lang="kor" page="45b" n="8">植物이 의 氣息을 吸收 </sent>
+<sent type="main" lang="kor" page="45b" n="9">柔弱 綠葉이 表面에셔 炭酸瓦斯 吸取고 分析야</sent>
+<sent type="main" lang="kor" page="45b" n="10">炭素만 먹어</sent>
+<sent type="main" lang="kor" page="45b" n="11">酸素을 더러 空中에 면</sent>
+<sent type="main" lang="kor" page="45b" n="12">이 그 酸素 시 吸用니라</sent>
+<sent type="main" lang="kor" page="45b" n="13">如此히 은 植物을 養고</sent>
+<sent type="main" lang="kor" page="45b-46a" n="14">植物은  을 養니</sent>
+<!--養^-->
+
+<sent type="main" lang="kor" page="46a" n="1">故로 病人의 房에 盆栽 두면</sent>
+<sent type="main" lang="kor" page="46a" n="2">그 植物이 生光야</sent>
+<sent type="main" lang="kor" page="46a" n="3">病人의 마음을 慰藉  아니라</sent>
+<sent type="main" lang="kor" page="46a" n="4">病人이 植物에게 惠與 거</sent>
+<sent type="main" lang="kor" page="46a" n="5">植物이 必然히 答禮니</sent>
+<sent type="main" lang="kor" page="46a" n="6">곳 病人의 無用 息은 植物이 吸取고</sent>
+<sent type="main" lang="kor" page="46a" n="7">病人의계 緊要 息은 植物에셔 吸取케 니라</sent>
+<sent type="title2" lang="kor" page="46a" n="8">亞米利加 發見 一</sent>
+<sent type="main" lang="kor" page="46a" n="9">西班牙 歐羅巴洲 中에 一 王國이라</sent>
+<sent type="main" lang="kor" page="46a" n="10">一面은 大西洋에 濱니</sent>
+<sent type="main" lang="kor" page="46a" n="11">그 海岸에 一 小港口가 잇스되</sent>
+<sent type="main" lang="kor" page="46a" n="12">볘러스라 니라</sent>
+<sent type="main" lang="kor" page="46a" n="13"> 距今 四百 有餘 年 前의 八月 三日이라</sent>
+<sent type="main" lang="kor" page="46a" n="14">東天에 紅日이 오르기 前에</sent>
+<sent type="main" lang="kor" page="46a-46b" n="15">數百 人民이 와셔 埠頭에 羣集더라</sent>
+<!--셔 ^ 埠-->
+
+<sent type="main" lang="kor" page="46b" n="1">港 中에 奇形 船 三 隻을 繫泊니</sent>
+<sent type="main" lang="kor" page="46b" n="2">兩 隻은 甲板이 업 圖形船이요</sent>
+<sent type="main" lang="kor" page="46b" n="3">一 隻은 크고  甲板이 잇지라</sent>
+<sent type="main" lang="kor" page="46b" n="4">모이 數百 人民을 기다리 듯더라</sent>
+<sent type="main" lang="kor" page="46b" n="5">맛 一列 船客이 徐徐히 埠頭로 進行더니</sent>
+<sent type="main" lang="kor" page="46b" n="6">第一에 數名 僧徒가 神歌 口唱하고</sent>
+<sent type="main" lang="kor" page="46b" n="7">그 次에  偉丈夫ㅣ 年이 四十은 되고</sent>
+<sent type="main" lang="kor" page="46b" n="8">容貌 儼威 中에 溫容을 여</sent>
+<sent type="main" lang="kor" page="46b" n="9">百難을 當야도 屈치 아니 듯니</sent>
+<sent type="main" lang="kor" page="46b" n="10">左右에 兩 船將이며</sent>
+<sent type="main" lang="kor" page="46b" n="11">海路 引導人을 다리고</sent>
+<sent type="main" lang="kor" page="46b" n="12">그 次에 水夫의 一隊라</sent>
+<sent type="main" lang="kor" page="46b" n="13">一行 通合이 一百二十 人이라</sent>
+
+<sent type="main" lang="kor" page="47a" n="1">船將 水夫 一行이 모다 三 艘 고</sent>
+<sent type="main" lang="kor" page="47a" n="2">西班牙 國旗 各各 檣頭에 셰우고</sent>
+<sent type="main" lang="kor" page="47a" n="3">도슬 놉히 달고</sent>
+<sent type="main" lang="kor" page="47a" n="4">因야 西方으로 進向더라</sent>
+<sent type="main" lang="kor" page="47a" n="5">羣集던 數百 人民이 놉히 손을 들고 作別을 앗기며</sent>
+<sent type="main" lang="kor" page="47a" n="6">或은 눈물지고 永訣을 슬피 더니</sent>
+<sent type="main" lang="kor" page="47a" n="7"> 漸漸 나아가셔</sent>
+<sent type="main" lang="kor" page="47a" n="8">맛 水烟 糢糊 이로 못 뵈게 되니</sent>
+<sent type="main" lang="kor" page="47a" n="9">人人이 다 悲泣야</sent>
+<sent type="main" lang="kor" page="47a" n="10">各各 제 집으로 가더라</sent>
+<sent type="main" lang="kor" page="47a" n="11">此 三 隻을 指揮 者</sent>
+<sent type="main" lang="kor" page="47a" n="12">果然 누구냐 니</sent>
+<sent type="main" lang="kor" page="47a" n="13">곳 伊太利國 제노와 에 生</sent>
+<sent type="main" lang="kor" page="47a" n="14">구리스도 화거론부스니라</sent>
+<sent type="main" lang="kor" page="47a" n="15">然이 어로 向고 니</sent>
+<sent type="main" lang="kor" page="47a" n="16">印度에 接 極東의 陸地</sent>
+<sent type="main" lang="kor" page="47a-47b" n="17">제 반구 으로 航行고자 홈이니</sent>
+<!--東^의-->
+
+<sent type="main" lang="kor" page="47b" n="1">이 거론부스가 歐羅巴 흐로 西行면</sent>
+<sent type="main" lang="kor" page="47b" n="2">반다시 亞細亞의 印度 極東에 가다 推筭기로 因홈이니라</sent>
+<sent type="main" lang="kor" page="47b" n="3">가 六 日 만에 가나리島에 至니</sent>
+<sent type="main" lang="kor" page="47b" n="4">亞非利加洲 中의 一 島오</sent>
+<sent type="main" lang="kor" page="47b" n="5">西班牙國의 屬地라</sent>
+<sent type="main" lang="kor" page="47b" n="6">歐羅巴人의 往來가 이 셤으로 限니</sent>
+<sent type="main" lang="kor" page="47b" n="7">以西에 進向 者 일즉이 업다 더라</sent>
+<!--''는 ''의 오자로 보임-->
+<sent type="main" lang="kor" page="47b" n="8">고론부스가 이 셤에셔  修理고</sent>
+<sent type="main" lang="kor" page="47b" n="9">世人이 鬼域이라 稱 大洋으로 向야</sent>
+<sent type="main" lang="kor" page="47b" n="10">다시 進行니</sent>
+<sent type="main" lang="kor" page="47b" n="11">勇剛 果敢의 水夫도다</sent>
+<sent type="main" lang="kor" page="47b-48a" n="12">流涕야 最愛 國家에 다시 도라가지 못가 嘆息호</sent>
+<!--'에'의 가로획이 탈획되어 'ᄋퟄ'로 보임-->
+<!--家^에-->
+
+<sent type="main" lang="kor" page="48a" n="1">다만 고런부스 毅然 不動고</sent>
+<sent type="main" lang="kor" page="48a" n="2">溫言으로 水夫들 慰勢며</sent>
+<sent type="main" lang="kor" page="48a" n="3">혹 正色야 그 卑屈홈을 嚴戒더라</sent>
+<sent type="main" lang="kor" page="48a" n="4">然이 東風은 날노 부</sent>
+<sent type="main" lang="kor" page="48a" n="5">西方으로 進行니</sent>
+<sent type="main" lang="kor" page="48a" n="6">가나리島  지 이믜 一 個月을 지지라</sent>
+<sent type="main" lang="kor" page="48a" n="7">고런부스 進航 海程을 測量야</sent>
+<sent type="main" lang="kor" page="48a" n="8">西班牙로븟터 二千 里을 나아온 쥴 알더라</sent>
+<sent type="title2" lang="kor" page="48a" n="9">亞米利加 發見 二</sent>
+<sent type="main" lang="kor" page="48a" n="10">如此히 가 西方으로 進行</sent>
+<sent type="main" lang="kor" page="48a" n="11">或 陸地에 到達치 못가 念慮도 고</sent>
+<sent type="main" lang="kor" page="48a-48b" n="12">或 陸地에 到達리라 즐기 者도 잇더라</sent>
+<!-- ^ 者-->
+
+<sent type="main" lang="kor" page="48b" n="1">漸漸 西進</sent>
+<sent type="main" lang="kor" page="48b" n="2">陸地에 갓온 여러 가지 兆候가 顯出니</sent>
+<sent type="main" lang="kor" page="48b" n="3">水面에 野草와 海草가 며</sent>
+<sent type="main" lang="kor" page="48b" n="4"> 陸地에 기 飛禽이 來翔지라</sent>
+<sent type="main" lang="kor" page="48b" n="5">이러무로 船中 人들이</sent>
+<sent type="main" lang="kor" page="48b" n="6">時時로 陸地가 뵈인다  말에 驚起야</sent>
+<sent type="main" lang="kor" page="48b" n="7">奮然히 그곳스로 進면</sent>
+<sent type="main" lang="kor" page="48b" n="8">다만 密雲이 蔽天홈을 보고</sent>
+<sent type="main" lang="kor" page="48b" n="9">呆然홈이 數回러라</sent>
+<sent type="main" lang="kor" page="48b" n="10"> 다시 數日을 進行</sent>
+<sent type="main" lang="kor" page="48b" n="11">陸地 漠漠 不見이라</sent>
+<sent type="main" lang="kor" page="48b" n="12">於是에 水夫들이 怨望야 相語되</sent>
+<sent type="main" lang="kor" page="48b" n="13">彼의 命을 좃 如此히 進行진</sent>
+<sent type="main" lang="kor" page="48b" n="14">吾等의 生命이 엇지 될지 모르니</sent>
+<sent type="main" lang="kor" page="48b" n="15">吾等은 彼 海中에 投쟈 約束얏거</sent>
+<sent type="main" lang="kor" page="48b-49a" n="16">그에 고런부스</sent>
+<!--그^-->
+
+<sent type="main" lang="kor" page="49a" n="1">홀노 沉然히 彼等의 約束홈을 아지 못고</sent>
+<sent type="main" lang="kor" page="49a" n="2">斷然히 船頭 西向야 進다가</sent>
+<sent type="main" lang="kor" page="49a" n="3">水夫의 怨言이 날노 더홈을 보고</sent>
+<sent type="main" lang="kor" page="49a" n="4">마지못야 이후 三 日間에 陸地 發見치 못면</sent>
+<sent type="main" lang="kor" page="49a" n="5">바로 本國으로 歸航자 約束더라</sent>
+<sent type="main" lang="kor" page="49a" n="6">가 漸漸 나아가니</sent>
+<sent type="main" lang="kor" page="49a" n="7">陸地에 泊接 兆候가 顯出니</sent>
+<sent type="main" lang="kor" page="49a" n="8">或 草芥가 水面에 흐르고</sent>
+<sent type="main" lang="kor" page="49a" n="9">或 果實이 녈니 樹枝가 믈에 流來홈을 보고</sent>
+<sent type="main" lang="kor" page="49a" n="10">船中 人이 紛紛히 陸地에 到達기 希望더라</sent>
+<sent type="main" lang="kor" page="49a" n="11">고런부스 船室의 最高處에 안자</sent>
+<sent type="main" lang="kor" page="49a" n="12">밤은 어두어도 遠近을 凝視더니</sent>
+<sent type="main" lang="kor" page="49a-49b" n="13">그 밤 十 時量은 되야</sent>
+<!--十 ^ 時-->
+
+<sent type="main" lang="kor" page="49b" n="1">멀니  火光을 보되</sent>
+<sent type="main" lang="kor" page="49b" n="2">그 眞否 確信치 못얏더니</sent>
+<sent type="main" lang="kor" page="49b" n="3">左右 人이 一齊히 火光이라 絶呌고 나아가니</sent>
+<sent type="main" lang="kor" page="49b" n="4">陸上에서 이 들고 다니 火光인 쥴 알너라</sent>
+<sent type="main" lang="kor" page="49b" n="5">앗 二 時에 다다라</sent>
+<sent type="main" lang="kor" page="49b" n="6">압셔간 에셔 忽然히 號砲 一發 야</sent>
+<sent type="main" lang="kor" page="49b" n="7">陸地 發見홈을 報니</sent>
+<sent type="main" lang="kor" page="49b" n="8">因야 三 船이 一齊히 進行을 止고 天明을 기다리더라</sent>
+<sent type="main" lang="kor" page="49b" n="9">東天이 漸漸 열이니</sent>
+<sent type="main" lang="kor" page="49b" n="10">一帶 陸地 前面에 起伏야</sent>
+<sent type="main" lang="kor" page="49b" n="11">森林의 鬱蔥은 눈에 映照거</sent>
+<sent type="main" lang="kor" page="49b" n="12">船中 人의 驚喜 中에</sent>
+<sent type="main" lang="kor" page="49b" n="13">고런부스 多年 徑營던 바ㅣ니</sent>
+<sent type="main" lang="kor" page="49b-50a" n="14">그 歎喜홈을 形容치 못더라</sent>
+<!--喜^홈-->
+
+<sent type="main" lang="kor" page="50a" n="1">고런부스가 몸에 禮服을 입고</sent>
+<sent type="main" lang="kor" page="50a" n="2">손에 西班牙 國旗 들고</sent>
+<sent type="main" lang="kor" page="50a" n="3">泊船고 下陸야</sent>
+<sent type="main" lang="kor" page="50a" n="4">바로 地上에셔 跪야</sent>
+<sent type="main" lang="kor" page="50a" n="5">上帝 拜고</sent>
+<sent type="main" lang="kor" page="50a" n="6">다시 長劒을 혀 들고</sent>
+<sent type="main" lang="kor" page="50a" n="7">國旗 셰워</sent>
+<sent type="main" lang="kor" page="50a" n="8">因야 이 흘 西班牙 領地로 야</sent>
+<sent type="main" lang="kor" page="50a" n="9">산바더ㅣ라 名니</sent>
+<sent type="main" lang="kor" page="50a" n="10">當時에 다만 印度의  셤이라 알기로</sent>
+<sent type="main" lang="kor" page="50a" n="11">至今에도 그 諸島 西印度ㅣ라 고</sent>
+<sent type="main" lang="kor" page="50a" n="12">그 土人을 印度人이라 稱니</sent>
+<sent type="main" lang="kor" page="50a" n="13">이 곳 亞米利加洲 發見의 槩略이니라</sent>
+<sent type="title2" lang="kor" page="50a" n="14">亞米利加 獨立 一</sent>
+<sent type="main" lang="kor" page="50a" n="15">고런부스가 亞米利加洲 發見 일은</sent>
+<sent type="main" lang="kor" page="50a-50b" n="16">前章에 이믜 記述얏거니와</sent>
+<!--에 ^ 이-->
+
+<sent type="main" lang="kor" page="50b" n="1">爾後로 歐洲人이 移住 者ㅣ 만터니</sent>
+<sent type="main" lang="kor" page="50b" n="2">就中에 英國人은 물이 流下 不毛의 흘 開拓며</sent>
+<sent type="main" lang="kor" page="50b" n="3">土番을 掠奪야</sent>
+<sent type="main" lang="kor" page="50b" n="4">여러 번 戰鬪 지</sent>
+<sent type="main" lang="kor" page="50b" n="5">艱難을 備嘗 後에</sent>
+<sent type="main" lang="kor" page="50b" n="6">漸漸 繁殖야</sent>
+<sent type="main" lang="kor" page="50b" n="7">여러 都府도 創始고</sent>
+<sent type="main" lang="kor" page="50b" n="8">人口도 날노 더야</sent>
+<sent type="main" lang="kor" page="50b" n="9">商事와 工業이  就緖더라</sent>
+<sent type="main" lang="kor" page="50b" n="10">英人이 法國과 交兵야</sent>
+<sent type="main" lang="kor" page="50b" n="11">紀元 一千六百六十三 年[顯宗 五 年]에</sent>
+<!--'顯宗 五 年'은 주석처럼 보이지는 않으나 이후에는 이를 비롯하여 보충 설명 부분은 소괄호로 묶여 주석으로 표시되고 있으므로 여기서도 주석으로 처리하였음--> 
+<sent type="main" lang="kor" page="50b" n="12">巴黎[法國 셔울]에 會야 講和 後로</sent>
+<sent type="main" lang="kor" page="50b" n="13">國用이 蕩耗야</sent>
+<sent type="main" lang="kor" page="50b" n="14">國債가 一億 八千萬 磅 有餘ㅣ라</sent>
+<sent type="main" lang="kor" page="50b" n="15">英國이 賦稅 米人에게 收歛야</sent>
+<sent type="main" lang="kor" page="50b-51a" n="16">歲入을 더고 야 曰</sent>
+<!--고^-->
+
+<sent type="main" lang="kor" page="51a" n="1">米人을 爲야 法國과 왓스니</sent>
+<sent type="main" lang="kor" page="51a" n="2">米人은 맛당이 그 費用을 償지어다</sent>
+<sent type="main" lang="kor" page="51a" n="3">一千七百六十四 年[英祖 四十 年]에</sent>
+<sent type="main" lang="kor" page="51a" n="4">輸入稅 徵고</sent>
+<sent type="main" lang="kor" page="51a" n="5">印稅法을 磨鍊야</sent>
+<sent type="main" lang="kor" page="51a" n="6">國內 貨物에 印紙 貼用 고</sent>
+<sent type="main" lang="kor" page="51a" n="7">不用者 論罪고</sent>
+<sent type="main" lang="kor" page="51a" n="8"> 米人을 英國 國會에 參領홈을 許지 아니니</sent>
+<sent type="main" lang="kor" page="51a" n="9">米人의 論駁이 紛紛야</sent>
+<sent type="main" lang="kor" page="51a" n="10">物情이 恟恟더라</sent>
+<sent type="main" lang="kor" page="51a" n="11">米人 바도릿구 혠리 爲人이 剛毅 善斷이라</sent>
+<sent type="main" lang="kor" page="51a" n="12">國人에게 論告야</sent>
+<sent type="main" lang="kor" page="51a" n="13">印紙 쓰지 말 야 曰</sent>
+<sent type="main" lang="kor" page="51a" n="14">하이 我에게 賦與신 바</sent>
+<sent type="main" lang="kor" page="51a" n="15">我ㅣ 스로 棄 슈 업고</sent>
+<sent type="main" lang="kor" page="51a" n="16">남이  奪 슈도 업스니</sent>
+<sent type="main" lang="kor" page="51a" n="17">이 人君의 職으로 야곰</sent>
+
+<sent type="main" lang="kor" page="51b" n="1">自主의 權을 保全케 기에 잇스되</sent>
+<sent type="main" lang="kor" page="51b" n="2">英 王은 오히려 奪코 니</sent>
+<sent type="main" lang="kor" page="51b" n="3">至今에 拒絶치 아니면</sent>
+<sent type="main" lang="kor" page="51b" n="4">我輩 後에 魚肉이 되리라 더라</sent>
+<sent type="main" lang="kor" page="51b" n="5">四 年 後에 印稅法은 革破가 되얏스</sent>
+<sent type="main" lang="kor" page="51b" n="6">其他 征稅 如前더라</sent>
+<sent type="main" lang="kor" page="51b" n="7">一千七百六十七 年[英祖 四十三 年]에</sent>
+<sent type="main" lang="kor" page="51b" n="8">英人이 茶葉 玻璃 染料 等物의 輸入稅</sent>
+<sent type="main" lang="kor" page="51b" n="9">米人에게 賦課니</sent>
+<sent type="main" lang="kor" page="51b" n="10">婦人이 待客 一椀茶도</sent>
+<sent type="main" lang="kor" page="51b" n="11">한 納稅 免치 못거</sent>
+<sent type="main" lang="kor" page="51b" n="12">米人이 크게 憤怒야</sent>
+<sent type="main" lang="kor" page="51b" n="13">다시 茶 아니 쓰게 相議더라</sent>
+<sent type="main" lang="kor" page="51b" n="14">不久에 玻璃 等物의 稅法은 廢얏스되</sent>
+<sent type="main" lang="kor" page="51b" n="15">茶稅 依然히 如舊더라</sent>
+<sent type="main" lang="kor" page="51b" n="16">마사제솃도 의 人民은</sent>
+<sent type="main" lang="kor" page="51b-52a" n="17">英國에 抗敵홈이 益甚야</sent>
+<!--홈^이-->
+
+<sent type="main" lang="kor" page="52a" n="1">婦人 小童도 各其 自主의 義 主張더라</sent>
+<sent type="main" lang="kor" page="52a" n="2">버스던 에셔</sent>
+<sent type="main" lang="kor" page="52a" n="3">一日은 아들이  못가에 羣聚야</sent>
+<sent type="main" lang="kor" page="52a" n="4">어름을 모으고 遊戱더니</sent>
+<sent type="main" lang="kor" page="52a" n="5">英兵이 偶然이 杖으로 破氷니</sent>
+<sent type="main" lang="kor" page="52a" n="6">童子들이 크게 憤야 鎭將의게 謁야</sent>
+<sent type="main" lang="kor" page="52a" n="7">兵丁으로 妨害홈을 詰難더라</sent>
+<sent type="main" lang="kor" page="52a" n="8">이럿시 人心이 振作거</sent>
+<sent type="main" lang="kor" page="52a" n="9">一日은 英兵이 버스던 을 砲擊야 恐嚇니</sent>
+<sent type="main" lang="kor" page="52a" n="10">市民이 셰시 죽고 다삿시 傷얏스되</sent>
+<sent type="main" lang="kor" page="52a" n="11">맛 屈치 아니더라</sent>
+<sent type="main" lang="kor" page="52a" n="12">一千七百七十三 年[英祖 四十九 年])에</sent>
+<sent type="main" lang="kor" page="52a" n="13">東印度의  商會에셔</sent>
+<sent type="main" lang="kor" page="52a-52b" n="14">數 隻 에 茶葉을 싯고</sent>
+<!--葉^을-->
+
+<sent type="main" lang="kor" page="52b" n="1">重稅 收야</sent>
+<sent type="main" lang="kor" page="52b" n="2">英國 政府의 슬 초랴 니</sent>
+<sent type="main" lang="kor" page="52b" n="3">米人이 그 助暴홈을 憤야</sent>
+<sent type="main" lang="kor" page="52b" n="4">各 港口 封야 入港을 못게 고</sent>
+<sent type="main" lang="kor" page="52b" n="5">버스던 人民이 밤을 셔</sent>
+<sent type="main" lang="kor" page="52b" n="6">그 裝載 茶葉 三百四十二 櫃을</sent>
+<!--''는 ''의 오자로 보임-->
+<sent type="main" lang="kor" page="52b" n="7">海中에 다 播棄얏더니</sent>
+<sent type="main" lang="kor" page="52b" n="8">英人이 맛 그 罪 다스려</sent>
+<sent type="main" lang="kor" page="52b" n="9">버스던 港을 封鎖니</sent>
+<sent type="main" lang="kor" page="52b" n="10">於是에 禍機가 漸漸 깁허</sent>
+<sent type="main" lang="kor" page="52b" n="11">장찻 平和 保全치 못더라</sent>
+<sent type="title2" lang="kor" page="52b" n="12">亞米利加 獨立 二</sent>
+<sent type="main" lang="kor" page="52b" n="13">一千七百七十四 年[英祖 五十 年] 九月 初四日에</sent>
+<sent type="main" lang="kor" page="52b" n="14">米人 十三 邦의 紳董이 히라톌히아 에 相會야</sent>
+<sent type="main" lang="kor" page="52b-53a" n="15">英 王의게 班師홈을 奏請 </sent>
+<!--英 ^ 王-->
+
+<sent type="main" lang="kor" page="53a" n="1">英 王이 大怒야 오히려 侵擾니</sent>
+<sent type="main" lang="kor" page="53a" n="2">於時에 衆人이 議戰호</sent>
+<sent type="main" lang="kor" page="53a" n="3">議論이 未决이어</sent>
+<sent type="main" lang="kor" page="53a" n="4">顯理라  者ㅣ 厲聲야 曰</sent>
+<sent type="main" lang="kor" page="53a" n="5">今日에 獨立지 못면</sent>
+<sent type="main" lang="kor" page="53a" n="6"> 번 死홈이 잇슬 이라</sent>
+<sent type="main" lang="kor" page="53a" n="7">다시 多言치 말나 니</sent>
+<sent type="main" lang="kor" page="53a" n="8">音吐ㅣ 洪鍾 갓더라</sent>
+<sent type="main" lang="kor" page="53a" n="9">衆人이 맛 開戰을 决議니</sent>
+<sent type="main" lang="kor" page="53a" n="10">米人이 各處에 蜂起야</sent>
+<sent type="main" lang="kor" page="53a" n="11">英兵으로 더브러 大戰이 七十餘 回요</sent>
+<sent type="main" lang="kor" page="53a" n="12">小戰은 無筭이라</sent>
+<sent type="main" lang="kor" page="53a" n="13">衆人이 華盛頓을 推戴야 元帥 고</sent>
+<sent type="main" lang="kor" page="53a" n="14">各處에 轉戰니</sent>
+<sent type="main" lang="kor" page="53a" n="15">米 兵의 多數 民兵이오</sent>
+<sent type="main" lang="kor" page="53a" n="16">糧食이며 彈丸이 넉넉지 못야</sent>
+<sent type="main" lang="kor" page="53a" n="17">幾回 大敗에 자못 覆滅얏다가</sent>
+<sent type="main" lang="kor" page="53a-53b" n="18">다시 回復며 七落八起야</sent>
+<!--^며-->
+
+<sent type="main" lang="kor" page="53b" n="1">兵連 八 年에 艱難을 備嘗호</sent>
+<sent type="main" lang="kor" page="53b" n="2">人人이 一片 志氣가 金鐵치 自立에 銳意야</sent>
+<sent type="main" lang="kor" page="53b" n="3">必死 期홈으로</sent>
+<sent type="main" lang="kor" page="53b" n="4">맛 金局에 大勝을 占더라</sent>
+<sent type="main" lang="kor" page="53b" n="5"> 老嫗ㅣ 鈍刀 제 아달 쥬고 曰</sent>
+<sent type="main" lang="kor" page="53b" n="6">奮戰야 물너나지 말고</sent>
+<sent type="main" lang="kor" page="53b" n="7">快히 大功을 셰우라 고</sent>
+<sent type="main" lang="kor" page="53b" n="8"> 農家에 아이 兵丁이 되야 入營니</sent>
+<sent type="main" lang="kor" page="53b" n="9">父母ㅣ 戒야 曰</sent>
+<sent type="main" lang="kor" page="53b" n="10">千歲에 遺芳치 아니면</sent>
+<sent type="main" lang="kor" page="53b" n="11">다시 와셔 나 보지 말나 더라</sent>
+<sent type="main" lang="kor" page="53b" n="12">이 마음은 곳 同盟 十三 邦의 마음이라</sent>
+<sent type="main" lang="kor" page="53b" n="13">그 精神이 如此고</sent>
+<sent type="main" lang="kor" page="53b" n="14">天下에 何事 不成리오</sent>
+<sent type="main" lang="kor" page="53b" n="15">여러  英兵과 와 以小敵大며 以粗抗精야</sent>
+<sent type="main" lang="kor" page="53b-54a" n="16">맛 全局 勝利에 覊絆을 免脫야</sent>
+<!--勝^利-->
+
+<sent type="main" lang="kor" page="54a" n="1">獨立에 初志 貫徹더라</sent>
+<sent type="main" lang="kor" page="54a" n="2">一千七百七十六 年[正宗 元年] 七月에</sent>
+<sent type="main" lang="kor" page="54a" n="3">同盟 各邦의 紳董이 히라톌히아 에 再會야</sent>
+<sent type="main" lang="kor" page="54a" n="4">自立을 議야 國號 合衆國이라 셰우며</sent>
+<sent type="main" lang="kor" page="54a" n="5">華盛頓이 軍隊 모으고 告文을 朗讀며</sent>
+<sent type="main" lang="kor" page="54a" n="6">檄文을 遠近에 馳니</sent>
+<sent type="main" lang="kor" page="54a" n="7">그 글에 얏스되</sent>
+<sent type="main" lang="kor" page="54a" n="8">英 王이 我商船을 損며</sent>
+<sent type="main" lang="kor" page="54a" n="9">我財貨 劫고 我民壯을 害며</sent>
+<sent type="main" lang="kor" page="54a" n="10">我兵器 毁거</sent>
+<sent type="main" lang="kor" page="54a" n="11">我衆의 더욱 忍홈은 王政의 더욱 虐이니</sent>
+<sent type="main" lang="kor" page="54a" n="12">이 英 王이 驅我야</sent>
+<sent type="main" lang="kor" page="54a" n="13">邦國을 創立코 홈이라</sent>
+<sent type="main" lang="kor" page="54a" n="14">自今 以後 永永히 英 法을 奉遵치 말지어다</sent>
+<sent type="main" lang="kor" page="54a-54b" n="15">因야 英 王의 虐民 不君 罪</sent>
+<!--君^-->
+
+<sent type="main" lang="kor" page="54b" n="1">十六 條 聲明야 各國에 宣告더라</sent>
+<sent type="main" lang="kor" page="54b" n="2">그에 國人이 그 흐로 모이 者ㅣ 萬數ㅣ라</sent>
+<sent type="main" lang="kor" page="54b" n="3">鳴鐸 大呼야</sent>
+<sent type="main" lang="kor" page="54b" n="4">밤이면 燎火 烘天야</sent>
+<sent type="main" lang="kor" page="54b" n="5">街衢가 낫 갓더라</sent>
+<sent type="main" lang="kor" page="54b" n="6">紐育克 에 人民은</sent>
+<sent type="main" lang="kor" page="54b" n="7">英 王 若耳治 第三의 像을 蹴倒야</sent>
+<sent type="main" lang="kor" page="54b" n="8">彈丸을 鎔作니</sent>
+<sent type="main" lang="kor" page="54b" n="9">그 萬衆의 歎呼가 數十 里에 轟然더라</sent>
+<sent type="main" lang="kor" page="54b" n="10">時에 法人이 義氣가 富야</sent>
+<sent type="main" lang="kor" page="54b" n="11">豪將 라하엿더 나히 十九 歲라</sent>
+<sent type="main" lang="kor" page="54b" n="12">米軍의 將師 되야 督戰</sent>
+<sent type="main" lang="kor" page="54b" n="13">俸金을 밧지 아니고</sent>
+<sent type="main" lang="kor" page="54b" n="14">勇이 諸軍에 冠絶니</sent>
+<sent type="main" lang="kor" page="54b" n="15">其餘 法人이 와셔</sent>
+<sent type="main" lang="kor" page="54b" n="16">從軍 者ㅣ 만터라</sent>
+<sent type="main" lang="kor" page="54b-55a" n="17">이에 흐란구린을 法國으로 派遣야</sent>
+<!--派^遣-->
+
+<sent type="main" lang="kor" page="55a" n="1">獨立을 認홈을 請야 同盟니</sent>
+<sent type="main" lang="kor" page="55a" n="2">法國이 大將 로산뷰로 야곰</sent>
+<sent type="main" lang="kor" page="55a" n="3">兵船을 거려 救援더라</sent>
+<sent type="main" lang="kor" page="55a" n="4">因야 英 法 兩國이 戰端을 열</sent>
+<sent type="main" lang="kor" page="55a" n="5">西班牙國이  法國과 合고</sent>
+<sent type="main" lang="kor" page="55a" n="6">荷蘭國人이  米人을 도아 開戰니</sent>
+<sent type="main" lang="kor" page="55a" n="7">東西 印度와 歐羅巴 海上에 無端히 戰塲이 열녀</sent>
+<sent type="main" lang="kor" page="55a" n="8">彈雨와 硝烟이 漠漠蔽天고</sent>
+<sent type="main" lang="kor" page="55a" n="9">傷者와 死者의 慘酷이 極</sent>
+<sent type="main" lang="kor" page="55a" n="10">一片 獨立의 志氣와 救弱의 義氣에 發야</sent>
+<sent type="main" lang="kor" page="55a" n="11">不得已 일이러라</sent>
+<sent type="title2" lang="kor" page="55a" n="12">亞米利加 獨立 三</sent>
+<sent type="main" lang="kor" page="55a" n="13">이러므로 歐 亞 米 三大洲 이에</sent>
+<sent type="main" lang="kor" page="55a-55b" n="14">兵結不解야 數年을 지엿더니</sent>
+<!--數^年-->
+
+<sent type="main" lang="kor" page="55b" n="1">맛 英國 諸 大臣이</sent>
+<sent type="main" lang="kor" page="55b" n="2">禍亂 不弭홈을 견지 못야</sent>
+<sent type="main" lang="kor" page="55b" n="3">米國 獨立을 許홈을 英 王의게 諫奏고</sent>
+<sent type="main" lang="kor" page="55b" n="4">國會에  그 失計 悔더라</sent>
+<sent type="main" lang="kor" page="55b" n="5">一千七百八十三 年[正宗 八 年]에</sent>
+<sent type="main" lang="kor" page="55b" n="6">英人이 米人과 法人으로 더부러</sent>
+<sent type="main" lang="kor" page="55b" n="7">法都 巴黎에 會同야 和議 講니</sent>
+<sent type="main" lang="kor" page="55b" n="8">米人 十三 邦에 獨立 建國을 認고</sent>
+<sent type="main" lang="kor" page="55b" n="9">法國과 西班牙國에 흘 割與고</sent>
+<sent type="main" lang="kor" page="55b" n="10">荷蘭國에 그 侵地 도로 보야</sent>
+<sent type="main" lang="kor" page="55b" n="11">因야 홈이 終局이 되니라</sent>
+<sent type="main" lang="kor" page="55b" n="12">그 十一月에</sent>
+<sent type="main" lang="kor" page="55b" n="13">華盛頓이 戰船 二十과 兵丁 一萬을 留고</sent>
+<sent type="main" lang="kor" page="55b" n="14">其餘 全軍은 解散며</sent>
+<sent type="main" lang="kor" page="55b" n="15">그 翌月에 華盛頓이 한 兵柄을 謝고</sent>
+<!--'한'은 ''의 오자로 보이며 '한'은 이 문헌에서 두 번 나타남-->
+<sent type="main" lang="kor" page="55b-56a" n="16">田里로 歸니</sent>
+<!--田^里-->
+
+<sent type="main" lang="kor" page="56a" n="1">하엿더 以下 親信 將士ㅣ 從야</sent>
+<sent type="main" lang="kor" page="56a" n="2">車馬ㅣ 前後 擁衛거</sent>
+<sent type="main" lang="kor" page="56a" n="3">環視者ㅣ 如堵야 모다 일오되</sent>
+<sent type="main" lang="kor" page="56a" n="4">我等이 今日을 보기</sent>
+<sent type="main" lang="kor" page="56a" n="5">實노 元帥의 賜ㅣ라 더라</sent>
+<sent type="main" lang="kor" page="56a" n="6">於是에 十三 邦에 紳董이 會同야</sent>
+<sent type="main" lang="kor" page="56a" n="7">國憲을 議定야 上下 議院을 設置고</sent>
+<sent type="main" lang="kor" page="56a" n="8">大統領은 四 年 限으로 고</sent>
+<sent type="main" lang="kor" page="56a" n="9">因야 共和 政治 施行더라</sent>
+<sent type="main" lang="kor" page="56a" n="10">國人이 華盛頓을 推戴야 大統領을 고</sent>
+<sent type="main" lang="kor" page="56a" n="11">졘아단스 副統領을 으니라</sent>
+<sent type="main" lang="kor" page="56a" n="12">이 먼져 公會에 將卒의 功을 賞야</sent>
+<sent type="main" lang="kor" page="56a" n="13">終身지 그 俸祿의 半을 給더니</sent>
+<sent type="main" lang="kor" page="56a-56b" n="14">不久에 그 法을 撤廢니</sent>
+<!--不^久-->
+
+<sent type="main" lang="kor" page="56b" n="1">將卒이 憤怒야</sent>
+<sent type="main" lang="kor" page="56b" n="2">因야 國憲 廢야 國王을 셰워</sent>
+<sent type="main" lang="kor" page="56b" n="3">제 스로 貴族이 되야 世襲코쟈 야</sent>
+<sent type="main" lang="kor" page="56b" n="4">華盛頓의게 相議거</sent>
+<sent type="main" lang="kor" page="56b" n="5">華盛頓이 慨然 嘆息야 曰</sent>
+<sent type="main" lang="kor" page="56b" n="6">다만 宿德 重望이 足히 四海 鎭 者ㅣ</sent>
+<sent type="main" lang="kor" page="56b" n="7">맛당이 上帝 代야</sent>
+<sent type="main" lang="kor" page="56b" n="8"> 億兆 統治 거시요</sent>
+<sent type="main" lang="kor" page="56b" n="9">만일 帝王 世襲으로 賢愚 勿論면</sent>
+<sent type="main" lang="kor" page="56b" n="10">이 天下 私홈이니</sent>
+<sent type="main" lang="kor" page="56b" n="11">吾 알  아니라 니</sent>
+<sent type="main" lang="kor" page="56b" n="12">諸將이 愧服더라</sent>
+<sent type="main" lang="kor" page="56b" n="13">이에 일으러 國會에셔 華盛頓을 迎니</sent>
+<sent type="main" lang="kor" page="56b" n="14">華盛頓이 마지못야 聽從야 上途거</sent>
+<sent type="main" lang="kor" page="56b" n="15">人民이 扶老 挈幼고 出迎니</sent>
+<sent type="main" lang="kor" page="56b" n="16">道路ㅣ 塡咽야</sent>
+<sent type="main" lang="kor" page="56b-57a" n="17">歎聲이 如雷더라</sent>
+<!--雷^-->
+
+<sent type="main" lang="kor" page="57a" n="1">그 맛 亂後 當야</sent>
+<sent type="main" lang="kor" page="57a" n="2">民力이 彫弊며</sent>
+<sent type="main" lang="kor" page="57a" n="3">國債가 山積고</sent>
+<sent type="main" lang="kor" page="57a" n="4">盜賊은 各處에 蜂起며</sent>
+<sent type="main" lang="kor" page="57a" n="5">外國은 釁을 엿보니</sent>
+<sent type="main" lang="kor" page="57a" n="6"> 國步ㅣ 艱難 라</sent>
+<sent type="main" lang="kor" page="57a" n="7">그 萬一 措置에 당홈을 일으면</sent>
+<sent type="main" lang="kor" page="57a" n="8">계우 創始던 㓛을 장 一簣에 버릴 거슬</sent>
+<sent type="main" lang="kor" page="57a" n="9">華盛頓의 周密 智慮로 萬事ㅣ 다 得宜야</sent>
+<sent type="main" lang="kor" page="57a" n="10">前後 八 年 在職 이에</sent>
+<sent type="main" lang="kor" page="57a" n="11">맛 米國 百 年의 富庶基 셰우니라</sent>
+<sent type="main" lang="kor" page="57a" n="12">米國에 獨立은</sent>
+<sent type="main" lang="kor" page="57a" n="13">비록 그 나라 의 志氣가 凝結기에 發얏스</sent>
+<sent type="main" lang="kor" page="57a" n="14">萬一 華盛頓의 創業 守成에 大手腕이 업스면</sent>
+<sent type="main" lang="kor" page="57a" n="15">일이 아직 아지 못지라</sent>
+<sent type="main" lang="kor" page="57a-57b" n="16">攻城 守戰에 終局의 勝利홈과</sent>
+<!--에 ^ 終-->
+
+<sent type="main" lang="kor" page="57b" n="">建國 不久에 文敎 여려</sent>
+<sent type="main" lang="kor" page="57b" n="">全國이 大治야</sent>
+<sent type="main" lang="kor" page="57b" n="">四隣에 들네옴은 實노 다 華盛頓의 㓛이라</sent>
+<sent type="main" lang="kor" page="57b" n="">그 赫赫 勳業이 진실노 千古의 偉人이러라</sent>
+<sent type="title2" lang="kor" page="57b" n="">鰐魚</sent>
+<sent type="main" lang="kor" page="57b" n="">鰐魚 熱帶 地方에 잇 卵生 冷血의 動物이라</sent>
+<sent type="main" lang="kor" page="57b" n="">爬蟲類 中에 第一 크니</sent>
+<sent type="main" lang="kor" page="57b" n="">기리 八九 尺이 되 者도 平常고</sent>
+<sent type="main" lang="kor" page="57b" n="">或 十六七 尺이 되 者도 잇스니</sent>
+<sent type="main" lang="kor" page="57b" n="">그 四肢 젹으며</sent>
+<sent type="main" lang="kor" page="57b" n="">後趾에 蹼이 잇고</sent>
+<sent type="main" lang="kor" page="57b" n="">몸에 上部 背로 尾지 骨質이 가지런홈으로</sent>
+<sent type="main" lang="kor" page="57b" n="">범어 銃丸도 擊破치 못니라</sent>
+
+<sent type="main" lang="kor" page="58a" n="1">머리 扁平고 齶은 길고</sent>
+<sent type="main" lang="kor" page="58a" n="2">입에 銳利 齒가 잇고</sent>
+<sent type="main" lang="kor" page="58a" n="3">舌은 젹으 牢硬야</sent>
+<sent type="main" lang="kor" page="58a" n="4">口底에 附着니</sent>
+<sent type="main" lang="kor" page="58a" n="5">故로 昔時에 鰐魚의 舌이 잇 쥴 아지 못니라</sent>
+<sent type="main" lang="kor" page="58a" n="6">如此히 舌이 젹고 움작이지 아니홈으로</sent>
+<sent type="main" lang="kor" page="58a" n="7">或 昆蟲이 그 입으로 出入도 </sent>
+<sent type="main" lang="kor" page="58a" n="8">小鳥가 昆蟲을 라 그 입으로 드러가 어 먹으되</sent>
+<sent type="main" lang="kor" page="58a" n="9">鰐魚 양 입을 열어</sent>
+<sent type="main" lang="kor" page="58a" n="10">그 鳥 害치 아니고</sent>
+<sent type="main" lang="kor" page="58a" n="11"> 그 尾 길고 强니</sent>
+<sent type="main" lang="kor" page="58a" n="12">揮尾 一擊으로 防敵다 니라</sent>
+<sent type="main" lang="kor" page="58a" n="13">鰐魚 水와 陸에 兩捿 者ㅣ로</sent>
+<sent type="main" lang="kor" page="58a" n="14">양 湖河의 中에 잇슬  遊泳이 自在야</sent>
+<sent type="main" lang="kor" page="58a-58b" n="15">物을 害홈이 젹지 아니</sent>
+<!--지 ^ 아-->
+
+<sent type="main" lang="kor" page="58b" n="1">陸地에 잇슬  物을 害지 못니</sent>
+<sent type="main" lang="kor" page="58b" n="2">이 그 몸이 길고 발이 젹고</sent>
+<sent type="main" lang="kor" page="58b" n="3"> 머리의 運動이 自在치 못 緣由ㅣ라</sent>
+<sent type="main" lang="kor" page="58b" n="4">나아갈  바로 進行이 敏速</sent>
+<sent type="main" lang="kor" page="58b" n="5">進行 中에 그 方向이 變홈을 最難니</sent>
+<sent type="main" lang="kor" page="58b" n="6">故로 鰐魚 맛 追 바ㅣ 될 </sent>
+<sent type="main" lang="kor" page="58b" n="7">몸을 他方으로 回避면</sent>
+<sent type="main" lang="kor" page="58b" n="8">害 免기 쉽다 니라</sent>
+<sent type="main" lang="kor" page="58b" n="9">鰐魚가 水中에 羣集  向야 空球 抛投면</sent>
+<sent type="main" lang="kor" page="58b" n="10">그 球 잡으랴 水中에 닷토 形容은</sent>
+<sent type="main" lang="kor" page="58b" n="11">맛치 兒孩가 打球 遊戱  것과 다이 업다 니라</sent>
+<sent type="main" lang="kor" page="58b" n="12">鰐魚 水中에 잇슬 라도</sent>
+<sent type="main" lang="kor" page="58b-59a" n="13">을 攻擊홈이 稀少니</sent>
+<!--少^-->
+
+<sent type="main" lang="kor" page="59a" n="1">하믈며 水邊에 嬉戱 兒孩 害 일은 絶無니라</sent>
+<sent type="main" lang="kor" page="59a" n="2">그 平生에 食料 鱗族이며</sent>
+<sent type="main" lang="kor" page="59a" n="3">或 다 小動物을 잡아먹기도 고</sent>
+<sent type="main" lang="kor" page="59a" n="4">特히 狗肉을 죠화고</sent>
+<sent type="main" lang="kor" page="59a" n="5">或 여러 鰐魚가 무리 지어 잇슬 </sent>
+<sent type="main" lang="kor" page="59a" n="6">잇다감 大動物도 쥭이니</sent>
+<sent type="main" lang="kor" page="59a" n="7">犀와 河馬 往往 그 害 免치 못다 니라</sent>
+<sent type="main" lang="kor" page="59a" n="8">東洋 諸國에셔 神靈다 고</sent>
+<sent type="main" lang="kor" page="59a" n="9">特이 支那에셔 國旗에도 表章 龍은</sent>
+<sent type="main" lang="kor" page="59a" n="10">傳說에 녯젹  이 鰐魚의 兇惡 모양을 보고</sent>
+<sent type="main" lang="kor" page="59a" n="11">附會야 그린 거시라 니라</sent>
+<sent type="title2" lang="kor" page="59a" n="12">動物 天性</sent>
+
+<sent type="main" lang="kor" page="59b" n="1">各色 動物은 제 먹을 것슬  먹고</sent>
+<sent type="main" lang="kor" page="59b" n="2"> 그것슬 消化 機關을 가지며</sent>
+<sent type="main" lang="kor" page="59b" n="3">兼야 自衛 機關도 具備니</sent>
+<sent type="main" lang="kor" page="59b" n="4">比例면</sent>
+<sent type="main" lang="kor" page="59b" n="5">家畜獸 草와 穀의 類 常食 故로</sent>
+<sent type="main" lang="kor" page="59b" n="6">嚙碎에 맛당 廣齒를 具고</sent>
+<!--'맛당'의 ''는 ''의 오자로 보임-->
+<sent type="main" lang="kor" page="59b" n="7">其中에 牛羊의 類 翻芻 食니</sent>
+<sent type="main" lang="kor" page="59b" n="8">스로 適 胃腑 具</sent>
+<sent type="main" lang="kor" page="59b" n="9">然이 그 四肢 身體 保支며</sent>
+<sent type="main" lang="kor" page="59b" n="10"> 運動 徘徊 爲 이오</sent>
+<sent type="main" lang="kor" page="59b" n="11">食料 取 要 업니라</sent>
+<sent type="main" lang="kor" page="59b" n="12">啖肉獸 그 爪 다른 動物을 잡기에 맛당고</sent>
+<sent type="main" lang="kor" page="59b" n="13">그 牙 銳利야 噬嚼기에 便니라</sent>
+<sent type="main" lang="kor" page="59b" n="14"> 猫 그 性이 柔和</sent>
+<sent type="main" lang="kor" page="59b" n="15">獅子와 虎狼의 類와 가튼 즘승이니</sent>
+
+<sent type="main" lang="kor" page="60a" n="1"> 잡기에 용홈은</sent>
+<sent type="main" lang="kor" page="60a" n="2">맛치 虎狼이 羊 鹿을 잡기와 다이 업고</sent>
+<sent type="main" lang="kor" page="60a" n="3">野兎와 鼷鼠의 類 嚙物이 그 性이오</sent>
+<sent type="main" lang="kor" page="60a" n="4">豚과 野猪의 鼻 掘穴야</sent>
+<sent type="main" lang="kor" page="60a" n="5">植物에 폴을 여 먹기에 당니라</sent>
+<sent type="main" lang="kor" page="60a" n="6">是等은 動物이 제 먹을 거슬 取며</sent>
+<sent type="main" lang="kor" page="60a" n="7">제 몸을 保護 機關에 不過니</sent>
+<sent type="main" lang="kor" page="60a" n="8">然이 萬一 動物에 智能이 업셧스면</sent>
+<sent type="main" lang="kor" page="60a" n="9">是等 機關은 假令 잇스 無益지니</sent>
+<sent type="main" lang="kor" page="60a" n="10">例之면</sent>
+<sent type="main" lang="kor" page="60a" n="11">家畜類의 즘승이</sent>
+<sent type="main" lang="kor" page="60a" n="12">제가 먹을 만 草類의 適否 選擇 知覺이 업슬진</sent>
+<sent type="main" lang="kor" page="60a" n="13">그 齒와 그 胃도 제 몸을 益홈이 决無 거시요</sent>
+<sent type="main" lang="kor" page="60a-60b" n="14">啖肉獸도 다 動物을 잡으랴 經營 知能이 업셧스면</sent>
+<!--잡^으-->
+
+<sent type="main" lang="kor" page="60b" n="1">그 爪와 그 牙가 亦是 所用이 업슬 거시니</sent>
+<sent type="main" lang="kor" page="60b" n="2">是等의 智能을 큰 動物의 天性이라 稱니라</sent>
+<sent type="main" lang="kor" page="60b" n="3">啖肉獸의 天性은 그 먹을 거슬 取 에 顯出니</sent>
+<sent type="main" lang="kor" page="60b" n="4">是等 動物은 그 먹을 바ㅣ 大槩 肉類ㅣ라</sent>
+<sent type="main" lang="kor" page="60b" n="5">或 제 몸에 比야 더 큰 動物을 잡으니</sent>
+<sent type="main" lang="kor" page="60b" n="6">故로 그에 제 힘으로만 못니</sent>
+<sent type="main" lang="kor" page="60b" n="7">智慮  要니라</sent>
+<sent type="main" lang="kor" page="60b" n="8">暗夜 藪 中에 蟄伏야</sent>
+<sent type="main" lang="kor" page="60b" n="9">牛 羊 馬 鹿의 나오믈 기다려</sent>
+<sent type="main" lang="kor" page="60b" n="10">그 意外에 突進야 잡으며</sent>
+<sent type="main" lang="kor" page="60b" n="11">獅子  즘승은 或 그 머리를 에 붓쳐 怒吼</sent>
+<sent type="main" lang="kor" page="60b" n="12">그 소 멀니 響니</sent>
+<sent type="main" lang="kor" page="60b-61a" n="13">百獸ㅣ 恐迷야 급히 東西로 遁逃거든</sent>
+<!--야 ^ 급-->
+
+<sent type="main" lang="kor" page="61a" n="1">獅子 그 틈을 엿보아 바로 나아가 쟙니라</sent>
+<sent type="main" lang="kor" page="61a" n="2">犬과 狼은 他 獸의 臭氣 </sent>
+<sent type="main" lang="kor" page="61a" n="3">제 몸보다 强 動物을 쟙기도 고</sent>
+<sent type="main" lang="kor" page="61a" n="4">牛 羊 鹿은 急遽 에</sent>
+<sent type="main" lang="kor" page="61a" n="5">모와 무리 지어  防敵고</sent>
+<sent type="main" lang="kor" page="61a" n="6">馬의 天性은 그 後足으로 蹴敵니</sent>
+<sent type="main" lang="kor" page="61a" n="7">或 猛獸도 쥭이니라</sent>
+<sent type="main" lang="kor" page="61a" n="8"> 鹿의 知覺은</sent>
+<sent type="main" lang="kor" page="61a" n="9">그 危殆 에 바로 水中으로 드러가</sent>
+<sent type="main" lang="kor" page="61a" n="10">그 鼻만 水上에 여 呼吸야</sent>
+<sent type="main" lang="kor" page="61a" n="11"> 겨우 患을 免니</sent>
+<sent type="main" lang="kor" page="61a" n="12">이 追躡者로 야곰</sent>
+<sent type="main" lang="kor" page="61a" n="13">제  즐 슈 업게 이라</sent>
+<sent type="main" lang="kor" page="61a" n="14">兎 避敵랴 跳躍며</sent>
+<sent type="main" lang="kor" page="61a" n="15">海狸가 巢 지으며</sent>
+<sent type="main" lang="kor" page="61a-61b" n="16">온갓 鳥獸가 其 子 랑 것시</sent>
+<!-- ^ -->
+
+<sent type="main" lang="kor" page="61b" n="1">모다 그 天性이 아닌 者ㅣ 업니라</sent>
+<sent type="title2" lang="kor" page="61b" n="2">合衆國 鑛業</sent>
+<sent type="main" lang="kor" page="61b" n="3">古代에 은 石으로 各色 연쟝을 지으니</sent>
+<sent type="main" lang="kor" page="61b" n="4">그 石 時代라 니라</sent>
+<sent type="main" lang="kor" page="61b" n="5">人智가 稍進기에 좃</sent>
+<sent type="main" lang="kor" page="61b" n="6">쳐음 銅鑛을 採堀여</sent>
+<sent type="main" lang="kor" page="61b" n="7">漸漸 金銀을 堀取니</sent>
+<sent type="main" lang="kor" page="61b" n="8">그 三 種에 金屬만 貴히 아 </sent>
+<sent type="main" lang="kor" page="61b" n="9">人智가 아직 中等이니</sent>
+<sent type="main" lang="kor" page="61b" n="10">그 金 時代라 니라</sent>
+<sent type="main" lang="kor" page="61b" n="11">오직 堅剛 鐵을 쓰고</sent>
+<sent type="main" lang="kor" page="61b" n="12">器械 製作게 되지 아니면</sent>
+<sent type="main" lang="kor" page="61b" n="13">그 나라의 富 더기 어려우니</sent>
+<sent type="main" lang="kor" page="61b" n="14">이 모다 鐵을 貴이 아 </sent>
+<sent type="main" lang="kor" page="61b-62a" n="15">이제 鐵 時代라 니라</sent>
+<!--라 ^ -->
+
+<sent type="main" lang="kor" page="62a" n="1">如此히 鑛物은 古代로 의 쓰 바ㅣ라</sent>
+<sent type="main" lang="kor" page="62a" n="2">其中에 鐵用이 만치 못면</sent>
+<sent type="main" lang="kor" page="62a" n="3">百工이 興隆 슈 업스니</sent>
+<sent type="main" lang="kor" page="62a" n="4">故로 各國의 鐵用이 로 더기</sent>
+<sent type="main" lang="kor" page="62a" n="5">가히 文明의 徵兆ㅣ라  만니라</sent>
+<sent type="main" lang="kor" page="62a" n="6">合衆國은 世界 中에 鑛物의 富 히니</sent>
+<sent type="main" lang="kor" page="62a" n="7">高山峻嶺이 한 젹지 아니니라</sent>
+<!--'한'은 ''의 오자로 보임-->
+<sent type="main" lang="kor" page="62a" n="8">그 山脉은 네 쥴기니</sent>
+<sent type="main" lang="kor" page="62a" n="9">太平洋의 西岸으로 計數면</sent>
+<sent type="main" lang="kor" page="62a" n="10">第一은 海岸에 山脉이오</sent>
+<sent type="main" lang="kor" page="62a" n="11">第二 실라녜 바다의 山脉이오</sent>
+<sent type="main" lang="kor" page="62a" n="12">第三은 롯기의 大山脉이오</sent>
+<sent type="main" lang="kor" page="62a" n="13">第四 아례과니의 山脉이라</sent>
+<sent type="main" lang="kor" page="62a" n="14">이 녜 쥴기 山脉 外에</sent>
+<sent type="main" lang="kor" page="62a" n="15">大槩 平原이니</sent>
+<sent type="main" lang="kor" page="62a-62b" n="16">밋시비河의 兩邊은 百萬 方哩 되 沃野ㅣ라</sent>
+<!--비^河-->
+
+<sent type="main" lang="kor" page="62b" n="1">全國 農産의 大槩 그 흐로 난다 니라</sent>
+<sent type="main" lang="kor" page="62b" n="2">道路의 修補 이 너무 크기로</sent>
+<sent type="main" lang="kor" page="62b" n="3">다 完全치 못</sent>
+<sent type="main" lang="kor" page="62b" n="4">鐵路가 못 가  못 無니</sent>
+<sent type="main" lang="kor" page="62b" n="5">그 長이 九萬 哩로 가고</sent>
+<sent type="main" lang="kor" page="62b" n="6"> 舟楫이 通 河湖의 長이 二萬 哩 잇고</sent>
+<sent type="main" lang="kor" page="62b" n="7">그 外에 運河 鑿開니</sent>
+<sent type="main" lang="kor" page="62b" n="8">長이 四千 哩 有餘ㅣ라</sent>
+<sent type="main" lang="kor" page="62b" n="9">然기로 合衆國의 建國이 至今 百有餘 年에 不過호</sent>
+<sent type="main" lang="kor" page="62b" n="10">富 지어  法이 가장 整頓니</sent>
+<sent type="main" lang="kor" page="62b" n="11">自然히 散布 富源을 거두어 各國으로 輸送야</sent>
+<sent type="main" lang="kor" page="62b" n="12">因야 利益을 取기</sent>
+<sent type="main" lang="kor" page="62b" n="13">이 나라쳐럼 極便 히 업니라</sent>
+<sent type="main" lang="kor" page="62b-63a" n="14">鑛業 中에셔 第一 利益이 잇 거슨</sent>
+<!--鑛^業-->
+
+<sent type="main" lang="kor" page="63a" n="1">그 炭과 鐵에 더 거시 업스니</sent>
+<sent type="main" lang="kor" page="63a" n="2">炭 鐵의 産出이 世界에 이 나라가 한 第一이라</sent>
+<sent type="main" lang="kor" page="63a" n="3">一 年 中에 堀出 石炭이 七千餘 萬 噸이오</sent>
+<sent type="main" lang="kor" page="63a" n="4">鐵이 八百餘 萬 噸이라</sent>
+<sent type="main" lang="kor" page="63a" n="5">변실바니아州에셔 堀出 炭과 鐵은</sent>
+<sent type="main" lang="kor" page="63a" n="6">그 三分의 一을 當고</sent>
+<sent type="main" lang="kor" page="63a" n="7">紐約과 미싱안과 뉴졜시와 오하이오 等 諸州에셔</sent>
+<sent type="main" lang="kor" page="63a" n="8">그 半을 出다 니라</sent>
+<sent type="main" lang="kor" page="63a" n="9">銅은 미싱안州으로 出 거시 殊多고</sent>
+<sent type="main" lang="kor" page="63a" n="10">가리헐니아와 녜바다州에셔 出 金銀은</sent>
+<sent type="main" lang="kor" page="63a" n="11">갑시 一歲에 七千餘 萬 元이라</sent>
+<sent type="main" lang="kor" page="63a" n="12">其外에 이리노스와 미셰리州에셔 銅을 出며</sent>
+
+<sent type="main" lang="kor" page="63b" n="1">변실바니아州에셔 石胸油 만히 出며</sent>
+<sent type="main" lang="kor" page="63b" n="2">마씨제셰州에셔 大理石과 靑石 等</sent>
+<sent type="main" lang="kor" page="63b" n="3">집 建造에 쓰 石材 出니</sent>
+<sent type="main" lang="kor" page="63b" n="4">是等 鑛物은 다 世界에 일홈난 거시라</sent>
+<sent type="main" lang="kor" page="63b" n="5">此國이 如此히 炭 鐵이 富 故로</sent>
+<sent type="main" lang="kor" page="63b" n="6">製鐵業이  旺盛니</sent>
+<sent type="main" lang="kor" page="63b" n="7">全國을 通야 熔鐵所 三百에 나뭄이 잇고</sent>
+<sent type="main" lang="kor" page="63b" n="8">그 職工이 二萬 七千餘 人이오</sent>
+<sent type="main" lang="kor" page="63b" n="9">錢砲 製作所 二千에 나뭄이 잇고</sent>
+<sent type="main" lang="kor" page="63b" n="10">그 職工이 五萬餘 人이라</sent>
+<sent type="main" lang="kor" page="63b" n="11">그 外에 木匠이며</sent>
+<sent type="main" lang="kor" page="63b" n="12">農家에 쓰 器械類 지워  고지</sent>
+<sent type="main" lang="kor" page="63b" n="13">三百에 나뭄이 잇고</sent>
+<sent type="main" lang="kor" page="63b" n="14">그 職工이 四萬餘 人이라 니라</sent>
+
+<sent type="main" lang="kor" page="64a" n="1">製鐵이 殊盛  히라뎰히야와 빗벌구의 二 府니</sent>
+<sent type="main" lang="kor" page="64a" n="2">그 일홈이 海外에 轟聞니라</sent>
+<sent type="title2" lang="kor" page="64a" n="3">元素</sent>
+<sent type="main" lang="kor" page="64a" n="4">元素 엇더 거신고 니</sent>
+<sent type="main" lang="kor" page="64a" n="5">化學上에 元素 두고  말이라</sent>
+<sent type="main" lang="kor" page="64a" n="6">大體 元素 非常 知力으로 發明된 거시니</sent>
+<sent type="main" lang="kor" page="64a" n="7">凡 萬物은 大槩 六十五 種 物質 中에</sent>
+<sent type="main" lang="kor" page="64a" n="8">한 或 둘 以上으로 構成 거시라</sent>
+<sent type="main" lang="kor" page="64a" n="9">이 六十 有餘의 物質은 엇더 手段으로 야도</sent>
+<sent type="main" lang="kor" page="64a" n="10">到底 다 物質노 分離치 못 일 發見지라</sent>
+<sent type="main" lang="kor" page="64a" n="11">是等의 物質은 各各 一 物노 成立니</sent>
+<sent type="main" lang="kor" page="64a" n="12">가량 純金의 物質은 한히니</sent>
+<sent type="main" lang="kor" page="64a-64b" n="13">곳 純金이오</sent>
+<!--純^金-->
+
+<sent type="main" lang="kor" page="64b" n="1">銅도 그 物質은 銅이라</sent>
+<sent type="main" lang="kor" page="64b" n="2">如此 物質을 元素ㅣ라 니라</sent>
+<sent type="main" lang="kor" page="64b" n="3">金屬의 純粹 거슨 다 元素ㅣ니</sent>
+<sent type="main" lang="kor" page="64b" n="4">硫黃도 元素오</sent>
+<sent type="main" lang="kor" page="64b" n="5">寶石 中의 第一 美麗 金剛石도 亦是 元素ㅣ라</sent>
+<sent type="main" lang="kor" page="64b" n="6">然而 우리 呼吸 空氣</sent>
+<sent type="main" lang="kor" page="64b" n="7">瓦斯狀을  二 元素 混合이라</sent>
+<sent type="main" lang="kor" page="64b" n="8">如此니 元素 다만  物質이오</sent>
+<sent type="main" lang="kor" page="64b" n="9">其中으로 다 元素  슈 업기 明白니라</sent>
+<sent type="main" lang="kor" page="64b" n="10">然이 古代에셔</sent>
+<sent type="main" lang="kor" page="64b" n="11">學識이 깁흔 者도 一 元素 中으로</sent>
+<sent type="main" lang="kor" page="64b" n="12">다른 元素 랴 極力 도 젹지 아니니</sent>
+<sent type="main" lang="kor" page="64b" n="13">古人은 鉛과 其餘 金屬으로</sent>
+<sent type="main" lang="kor" page="64b-65a" n="14">金銀을 煉出코 盡力더라</sent>
+<!--力^-->
+
+ 
+
+<sent type="main" lang="kor" page="65a" n="1">然이 當時 學術이 十分 開達치 못 라</sent>
+<sent type="main" lang="kor" page="65a" n="2">至今에 우리가 그 일을 웃기 當치 아니니라</sent>
+<sent type="main" lang="kor" page="65a" n="3">是等의 所謂 煉金家라 稱던 者의 慘憺 許多 經營은</sent>
+<sent type="main" lang="kor" page="65a" n="4">今日 我等의 큰 便益이 되여</sent>
+<sent type="main" lang="kor" page="65a" n="5">맛 數多 發明을 게 되엿니라</sent>
+<sent type="main" lang="kor" page="65a" n="6">二 個 或 二 個 以上에 元素가 셔로 化合 거슬</sent>
+<sent type="main" lang="kor" page="65a" n="7">化合物이라 니</sent>
+<sent type="main" lang="kor" page="65a" n="8">이 化合物의 數 限이 업고</sent>
+<sent type="main" lang="kor" page="65a" n="9"> 漸漸 其 數 더야 가니라</sent>
+<sent type="main" lang="kor" page="65a" n="10">물과 갓치 다만 二 個 元素으로 되 것도 잇고</sent>
+<sent type="main" lang="kor" page="65a" n="11">砂糖과 갓치 三 箇 元素로 되 것도 잇고</sent>
+<sent type="main" lang="kor" page="65a" n="12">  數多 元素 含蓄 것도 잇스니</sent>
+
+<sent type="main" lang="kor" page="65b" n="1">蛋白質은 六 箇 元素로 되고</sent>
+<sent type="main" lang="kor" page="65b" n="2">十二 個 江上 元素 含有 거슨</sent>
+<sent type="main" lang="kor" page="65b" n="3">너무 複雜 血液이라</sent>
+<sent type="main" lang="kor" page="65b" n="4">其他에 蛋白質쳐럼 여러 元素 含有 物體</sent>
+<sent type="main" lang="kor" page="65b" n="5">만치 아니니라</sent>
+<sent type="main" lang="kor" page="65b" n="6">大理石과 石灰石은 化合物의 的例 되니</sent>
+<sent type="main" lang="kor" page="65b" n="7">窯에 드려 얼마 時間을 熱면</sent>
+<sent type="main" lang="kor" page="65b" n="8">크게 그 性質을 變니라</sent>
+<sent type="main" lang="kor" page="65b" n="9">熱치 아니기 前에 그 質이 硬고</sent>
+<sent type="main" lang="kor" page="65b" n="10">물과 混合지 못되</sent>
+<sent type="main" lang="kor" page="65b" n="11">한번 窯에 드려 熱 후에</sent>
+<sent type="main" lang="kor" page="65b" n="12">柔軟케 되여 물을 吸收야</sent>
+<sent type="main" lang="kor" page="65b" n="13">白壁에 塗기에 맛당며</sent>
+<sent type="main" lang="kor" page="65b" n="14">煉風을 粘着게  煉風灰 지워 기에 맛당지라</sent>
+<sent type="main" lang="kor" page="65b-66a" n="15">如此이 變化은 엇더 일인고</sent>
+<!--이 ^ 變-->
+
+<sent type="main" lang="kor" page="66a" n="1">石灰石을 熱燒면</sent>
+<sent type="main" lang="kor" page="66a" n="2">一種의 瓦斯가 其中으로 飛散야 져가니</sent>
+<sent type="main" lang="kor" page="66a" n="3">石灰石은 다만 石灰 되 緣由ㅣ라</sent>
+<sent type="main" lang="kor" page="66a" n="4">故로 石灰石과 大理石은</sent>
+<sent type="main" lang="kor" page="66a" n="5">石灰와 一種의 瓦斯가 化合 거신 쥴 알 거시니라</sent>
+<sent type="main" lang="kor" page="66a" n="6">凡 元素와 今 化物의 分別이 업시</sent>
+<!--'化物'은 '化合物'에서 '合'이 탈자된 것으로 보임-->
+<sent type="main" lang="kor" page="66a" n="7">여러 物體의 性質을 講論 學問을 化學이라 고</sent>
+<sent type="main" lang="kor" page="66a" n="8">化學을 硏究 者 化學者라 니라</sent>
+<sent type="main" lang="kor" page="66a" n="9">녯젹에 化學者 이믜 記述던 煉金家ㅣ라</sent>
+<sent type="main" lang="kor" page="66a" n="10">現今 化學者</sent>
+<sent type="main" lang="kor" page="66a" n="11">鉛으로 金銀을 取랴 極力 者 업스</sent>
+<sent type="main" lang="kor" page="66a-66b" n="12">元素와 化合物을 利用코 에 汲汲며</sent>
+<!--을 ^ 利-->
+
+<sent type="main" lang="kor" page="66b" n="1"> 各種 物質을 結合야 新化合物을 製出코 盡力니</sent>
+<sent type="main" lang="kor" page="66b" n="2">거을다을이라  物體 中으로</sent>
+<sent type="main" lang="kor" page="66b" n="3">化學者가 美麗 赤色 染料 製出기</sent>
+<sent type="main" lang="kor" page="66b" n="4">近來의 發明이라</sent>
+<sent type="main" lang="kor" page="66b" n="5">從來 그 染料</sent>
+<sent type="main" lang="kor" page="66b" n="6">고지니일이라  虫을 가지고 製出더니</sent>
+<sent type="main" lang="kor" page="66b" n="7">그 發明이 되엿스니</sent>
+<sent type="main" lang="kor" page="66b" n="8">世人을 爲야 益이 못 크니라</sent>
+<sent type="title2" lang="kor" page="66b" n="9">成吉思汗</sent>
+<sent type="main" lang="kor" page="66b" n="10">姓은 奇握溫이오</sent>
+<sent type="main" lang="kor" page="66b" n="11">名은 鐵木眞이오</sent>
+<sent type="main" lang="kor" page="66b" n="12">號 成吉思汗이라</sent>
+<sent type="main" lang="kor" page="66b" n="13">父 也速該라 고</sent>
+<sent type="main" lang="kor" page="66b" n="14">母 月倫이라 니</sent>
+<sent type="main" lang="kor" page="66b" n="5">西洋曆 紀元 一千百六十二 年[高麗 仁宗 十五 年]에</sent>
+<!--'高麗 仁宗 十五 年'는 소괄호로 묶여 있음-->
+<sent type="main" lang="kor" page="66b-67a" n="16">뎨리언부다山 下에셔 生지라</sent>
+<!--리^언-->
+
+<sent type="main" lang="kor" page="67a" n="1">그 韃靼 國號 女眞이라 야</sent>
+<sent type="main" lang="kor" page="67a" n="2">金나라에 屬호</sent>
+<sent type="main" lang="kor" page="67a" n="3">國內 統一이 못되야</sent>
+<sent type="main" lang="kor" page="67a" n="4">遠近에 諸 部落이 紛紛이 各方으로 割據야</sent>
+<sent type="main" lang="kor" page="67a" n="5">虎視 龍驤더니</sent>
+<sent type="main" lang="kor" page="67a" n="6">其 間에 眼光이 能히 宇宙 達觀야</sent>
+<sent type="main" lang="kor" page="67a" n="7">歐亞 諸 洲 經略고 企圖 者</sent>
+<sent type="main" lang="kor" page="67a" n="8">다만 一 個 成吉思汗이 잇슬 이라</sent>
+<sent type="main" lang="kor" page="67a" n="9">그를 當야</sent>
+<sent type="main" lang="kor" page="67a" n="10">蒙古部 中에셔 히 넓고</sent>
+<sent type="main" lang="kor" page="67a" n="11">威力이 强大고</sent>
+<sent type="main" lang="kor" page="67a" n="12">從民이 最多기 대쥬部 稱首</sent>
+<sent type="main" lang="kor" page="67a" n="13">其 族 뎨례部의 酋長이 대쥬에 잡핀 바ㅣ 되여</sent>
+<sent type="main" lang="kor" page="67a" n="14">所部 거리고 汗의게 來歸야</sent>
+<sent type="main" lang="kor" page="67a" n="15">대쥬 쥭여 自效코자 盟誓더라</sent>
+<sent type="main" lang="kor" page="67a-67b" n="16">汗의 됨이 英邁고</sent>
+<!--^됨-->
+
+<sent type="main" lang="kor" page="67b" n="1">雄略이 잇셔</sent>
+<sent type="main" lang="kor" page="67b" n="2">處己를 嚴毅方正이 며</sent>
+<sent type="main" lang="kor" page="67b" n="3">遇人을 寬弘大度로 고</sent>
+<sent type="main" lang="kor" page="67b" n="4">部下 眷愛야 勳㓛을 厚賞니</sent>
+<sent type="main" lang="kor" page="67b" n="5">人人이 悅服야</sent>
+<sent type="main" lang="kor" page="67b" n="6">各各 自效 질기 지지</sent>
+<!--'질기 지지'는 '질기지라'의 오자인 것으로 보임-->
+<sent type="main" lang="kor" page="67b" n="7">그 韃靼部의 酋長 몡예리더가 金나라에 背叛거</sent>
+<sent type="main" lang="kor" page="67b" n="8">金主ㅣ 丞相 完顔衰로 야곰 征伐을 식이니</sent>
+<sent type="main" lang="kor" page="67b" n="9">汗이 於是에 乘機 蹶起야</sent>
+<sent type="main" lang="kor" page="67b" n="10">斡難河 올나</sent>
+<sent type="main" lang="kor" page="67b" n="11">노라도신 原野에셔 邀戰야 大勝니</sent>
+<sent type="main" lang="kor" page="67b" n="12">金主ㅣ 그 㓛을 賞야</sent>
+<!--'主'는 '王'처럼 보이나 이 문헌에서 '主'의 첫 획을 가로로 길게 쓰는 예가 더 많고 얇긴 하나 가로획이 보이므로 '主'로 표시함-->
+<sent type="main" lang="kor" page="67b" n="13">招討使를 식여 四方 征討 기니</sent>
+<sent type="main" lang="kor" page="67b" n="14">自後로 크게 威力을 蓄야</sent>
+<sent type="main" lang="kor" page="67b" n="15">勇兵을 養더라</sent>
+<sent type="main" lang="kor" page="67b" n="16">대쥬의 部長 한후</sent>
+<sent type="main" lang="kor" page="67b" n="17">汗의 威勢가 如此이 日熾을 忌야</sent>
+<sent type="main" lang="kor" page="67b-68a" n="18">擧兵 來侵거</sent>
+<!--兵 ^ 來-->
+
+<sent type="main" lang="kor" page="68a" n="1">斡難河畔에셔 크게 破니</sent>
+<sent type="main" lang="kor" page="68a" n="2">이러므로 諸 部落의 酋長들이 크게 놀나</sent>
+<sent type="main" lang="kor" page="68a" n="3">連合야 汗을 襲擊코 더니</sent>
+<sent type="main" lang="kor" page="68a" n="4">이믜 通欸 者ㅣ 잇셔</sent>
+<sent type="main" lang="kor" page="68a" n="5">因야 成吉思汗이 反擊 大破니</sent>
+<sent type="main" lang="kor" page="68a" n="6">遠近 部落이 前後로 漸漸 降服야</sent>
+<sent type="main" lang="kor" page="68a" n="7">汗의 勢熖이 一時에 四方을 風靡더라</sent>
+<sent type="main" lang="kor" page="68a" n="8">汗은 如此히 蕞爾 蒙古 中 一 小部落으로 堀起야</sent>
+<sent type="main" lang="kor" page="68a" n="9">羣雄을 駕御야 韃靼을 統一케 되엿스</sent>
+<sent type="main" lang="kor" page="68a" n="10">스로 足다 아니고</sent>
+<sent type="main" lang="kor" page="68a" n="11">더욱 四方을 經略야</sent>
+<sent type="main" lang="kor" page="68a" n="12">基業을 鞏固히 며</sent>
+<sent type="main" lang="kor" page="68a" n="13">政略과 兵力을 並用야</sent>
+<sent type="main" lang="kor" page="68a" n="14">種族의 同盟을 結고</sent>
+<sent type="main" lang="kor" page="68a" n="15">法律을 베풀며 兵制 려</sent>
+<sent type="main" lang="kor" page="68a-68b" n="16">스로 各 部族의 標準이 되엿더라</sent>
+<!--各 ^ 部-->
+
+<sent type="main" lang="kor" page="68b" n="1">一千二百十八 年[高麗 高宗 五 年]에 當야</sent>
+<!--'高麗 高宗 五 年'은 소괄호로 묶여 있으며 이하 서력 표기에 대응하는 우리나라 연기는 모두 소괄호로 묶여 있으므로 따로 언급하지 않음-->
+<sent type="main" lang="kor" page="68b" n="2">汗이 맛 决意야</sent>
+<sent type="main" lang="kor" page="68b" n="3">西征을 企圖거</sent>
+<sent type="main" lang="kor" page="68b" n="4">고 中央 亞細亞 에 二大 帝國이 잇스되</sent>
+<!--'고'는 '그'의 오자로 보임-->
+<sent type="main" lang="kor" page="68b" n="5">하 가라기단이오</sent>
+<sent type="main" lang="kor" page="68b" n="6"> 하 허라듬이라</sent>
+<sent type="main" lang="kor" page="68b" n="7">汗이 爲先 哲伍 將軍으로 야곰 가라기단에 入寇야</sent>
+<sent type="main" lang="kor" page="68b" n="8">마 그 흘 倂略고</sent>
+<sent type="main" lang="kor" page="68b" n="9">旣而요 스로 將이 되여 허라듬에 向進야</sent>
+<sent type="main" lang="kor" page="68b" n="10">翌年 여름에 돌도이시河岸에 다다라 駐陣야</sent>
+<sent type="main" lang="kor" page="68b" n="11">士馬 養息고</sent>
+<sent type="main" lang="kor" page="68b" n="12">가을을 기다려 前進더니</sent>
+<sent type="main" lang="kor" page="68b" n="13">허라듬 部長이 그 勇猛을 듯고 크게 恐悚야</sent>
+<sent type="main" lang="kor" page="68b" n="14">호기 前에 戰地로븟터 退却거</sent>
+<sent type="main" lang="kor" page="68b-69a" n="15">因야 汗의 軍鋒은</sent>
+<!--因^-->
+
+<sent type="main" lang="kor" page="69a" n="1">到處마다 敢이 當 者ㅣ 업셔</sent>
+<sent type="main" lang="kor" page="69a" n="2">無人之境으로 드러감과 갓야</sent>
+<sent type="main" lang="kor" page="69a" n="3">東戰西擊야 그루쟈로 나아가고</sent>
+<sent type="main" lang="kor" page="69a" n="4">露西亞의 邊境으로 迫야</sent>
+<sent type="main" lang="kor" page="69a" n="5">露兵과 交戰야 크게 破고</sent>
+<sent type="main" lang="kor" page="69a" n="6">長驅야 더녜블에 다다라</sent>
+<sent type="main" lang="kor" page="69a" n="7">因야 구리미아로 侵入니</sent>
+<sent type="main" lang="kor" page="69a" n="8">當時에 黑海 南非岸 히에</sent>
+<sent type="main" lang="kor" page="69a" n="9">貿易塲의 스닥으府지 倂야</sent>
+<sent type="main" lang="kor" page="69a" n="10">벌괄이아 흘 襲擊야 破고</sent>
+<sent type="main" lang="kor" page="69a" n="11">因야 收陣班師니</sent>
+<sent type="main" lang="kor" page="69a" n="12">그 一千二百二十四 年[高麗 高宗 十一 年] 五月이라</sent>
+<!--'高麗 高宗 十一 年'은 소괄호로 묶여 있지는 않으나 앞의 예를 따라 주석으로 표시함-->
+<sent type="title2" lang="kor" page="69a" n="13">成吉思汗 二</sent>
+
+<sent type="main" lang="kor" page="69b" n="1">先是 一千二百十一 年[高麗 康宗 元年] 三月에</sent>
+<sent type="main" lang="kor" page="69b" n="2">汗이 支那 經略코 야</sent>
+<sent type="main" lang="kor" page="69b" n="3">師 發야</sent>
+<sent type="main" lang="kor" page="69b" n="4">金人과 와 여러 번 이긔여 北京을 陷没고</sent>
+<sent type="main" lang="kor" page="69b" n="5">未幾에 허라듬 征討의 擧가 잇셔</sent>
+<sent type="main" lang="kor" page="69b" n="6">그 勇將 무우왈이 遼東으로 召還고</sent>
+<sent type="main" lang="kor" page="69b" n="7">王을 封야 </sent>
+<sent type="main" lang="kor" page="69b" n="8">支那 征討의 總督을 고</sent>
+<sent type="main" lang="kor" page="69b" n="9">金나라 倂略의 㓛을 完決코 니</sent>
+<sent type="main" lang="kor" page="69b" n="10">遊牧民兵 二萬 五千과 契丹 金人으로 </sent>
+<sent type="main" lang="kor" page="69b" n="11">編成 二 軍이 그 總督의 거리 바ㅣ 되여</sent>
+<sent type="main" lang="kor" page="69b" n="12">征進야</sent>
+<sent type="main" lang="kor" page="69b" n="13">因야 무우탈이 濟南 東平村을 略取고</sent>
+<sent type="main" lang="kor" page="69b" n="14">進야</sent>
+<sent type="main" lang="kor" page="69b" n="15">黃河에 다다라</sent>
+<sent type="main" lang="kor" page="69b" n="16">단구더國으로 向더니</sent>
+<sent type="main" lang="kor" page="69b" n="17">마 總督의 逝去믈 나</sent>
+<sent type="main" lang="kor" page="69b-70a" n="18">汗이 스로 精兵을 거려 進軍고</sent>
+<!--^로-->
+
+<sent type="main" lang="kor" page="70a" n="1">그 흘 征服야 金나라로 轉더니</sent>
+<sent type="main" lang="kor" page="70a" n="2">마 重痾에 罹야</sent>
+<sent type="main" lang="kor" page="70a" n="3">希世 偉傑이 溘然이 此世 辭니</sent>
+<sent type="main" lang="kor" page="70a" n="4">在位 二十二 年이오</sent>
+<sent type="main" lang="kor" page="70a" n="5">壽ㅣ 六十六이라</sent>
+<sent type="main" lang="kor" page="70a" n="6">이 곳 元 太祖 聖武 皇帝러라</sent>
+<sent type="main" lang="kor" page="70a" n="7">汗이 病蓐에 臥야</sent>
+<sent type="main" lang="kor" page="70a" n="8">命이 朝夕에 迫호</sent>
+<sent type="main" lang="kor" page="70a" n="9">諸將을 모흐고</sent>
+<sent type="main" lang="kor" page="70a" n="10">金을 치 策을 遺言거</sent>
+<sent type="main" lang="kor" page="70a" n="11">第三 子 元 太宗이 그 遺言을 奉야</sent>
+<sent type="main" lang="kor" page="70a" n="12">政略과 兵力을 倂用야</sent>
+<sent type="main" lang="kor" page="70a" n="13">宋과 和고 金을 滅야</sent>
+<sent type="main" lang="kor" page="70a" n="14">穆世祖 에 일으러 宋을 滅고</sent>
+<sent type="main" lang="kor" page="70a" n="15">支那 全國을 經略니라</sent>
+<sent type="main" lang="kor" page="70a" n="16">汗의 治民 略地 法을 보니</sent>
+<sent type="main" lang="kor" page="70a" n="17">政柄을 掌握며</sent>
+<sent type="main" lang="kor" page="70a-70b" n="18">法律 制定야 </sent>
+<!--法^律-->
+
+<sent type="main" lang="kor" page="70b" n="1">人民의 性命과 財産을 保護고</sent>
+<sent type="main" lang="kor" page="70b" n="2">社會에 弊風을 匡正야</sent>
+<sent type="main" lang="kor" page="70b" n="3">마 威權에 强盛을 改지라</sent>
+<sent type="main" lang="kor" page="70b" n="4">그 蕃民을 統御야 內治 整理은</sent>
+<sent type="main" lang="kor" page="70b" n="5">千事萬物이 秩序가 잇셔 措置 公平며</sent>
+<sent type="main" lang="kor" page="70b" n="6">人民 保護을 急務로 며</sent>
+<sent type="main" lang="kor" page="70b" n="7">各道 各府의 警備 嚴肅캐 니</sent>
+<!--이 문헌의 예를 보면 '캐'는 '케'의 오자로 보임-->
+<sent type="main" lang="kor" page="70b" n="8">是故로 橫恣暴戾의 徒가 漸漸 歛跡야</sent>
+<sent type="main" lang="kor" page="70b" n="9">旅客 商賈가 自由로 往來을 어더</sent>
+<sent type="main" lang="kor" page="70b" n="10">從來에 戒心 顧慮 免고</sent>
+<sent type="main" lang="kor" page="70b" n="11">其他 分隊 各道에 屯駐케 야</sent>
+<sent type="main" lang="kor" page="70b" n="12">往來의 警察을 擔任케 며</sent>
+<sent type="main" lang="kor" page="70b" n="13">因야 貿易을 旺盛케 니</sent>
+<sent type="main" lang="kor" page="70b" n="14">是 等事에 處 注意가 周到綿密믄</sent>
+<sent type="main" lang="kor" page="70b-71a" n="15">一毫의 遺 바ㅣ 업고</sent>
+<!--업^고-->
+
+<sent type="main" lang="kor" page="71a" n="1"> 兵制에 가 留心야</sent>
+<sent type="main" lang="kor" page="71a" n="2">遊牧의 人民으로 各其 兵役을 擔當케 야</sent>
+<sent type="main" lang="kor" page="71a" n="3">㓜時로 武藝 練習게 며</sent>
+<sent type="main" lang="kor" page="71a" n="4">精銳의 兵을 編成야</sent>
+<sent type="main" lang="kor" page="71a" n="5">尙武 俗을 일우며</sent>
+<sent type="main" lang="kor" page="71a" n="6">部下 諸將에 攻城野戰의 良法을 授니</sent>
+<sent type="main" lang="kor" page="71a" n="7">그 才略의 傑然 特出은 可히 想見너라</sent>
+<sent type="main" lang="kor" page="71a" n="8">汝等 學徒</sent>
+<sent type="main" lang="kor" page="71a" n="9">이 後에  萬國 史記 工夫 거시</sent>
+<sent type="main" lang="kor" page="71a" n="10">스로 書上에셔</sent>
+<sent type="main" lang="kor" page="71a" n="11">여러 聖人君子와 豪傑 偉人을 맛려니와</sent>
+<sent type="main" lang="kor" page="71a" n="12">成吉思汗  은 다시 나기 어려온지라</sent>
+<sent type="main" lang="kor" page="71a" n="13">歐羅巴洲에 住民이 크게 遷移야</sent>
+<sent type="main" lang="kor" page="71a" n="14">東北으로 南下은 곳 現今 列國을 드러스되</sent>
+<sent type="main" lang="kor" page="71a-71b" n="15">汗이 東歐 흐로 侵入기에 因니라</sent>
+<!--東^歐-->
+
+<sent type="main" lang="kor" page="71b" n="1">故로 汗의 一生 事業은</sent>
+<sent type="main" lang="kor" page="71b" n="2">眞實노 地球 半球上에 相關니</sent>
+<sent type="main" lang="kor" page="71b" n="3">엇지 크지 아니리오</sent>
+<sent type="main" lang="kor" page="71b" n="4">特別히 東洋 各國에셔 古來로 偉人이 젹지 아니되</sent>
+<sent type="main" lang="kor" page="71b" n="5">如此 大業을 圖謀 者</sent>
+<sent type="main" lang="kor" page="71b" n="6">成吉思汗 外에 다시 보지 못니라</sent>
+<sent type="main" lang="kor" page="71b" n="7">汗의 威名은 歐洲 驚破니</sent>
+<sent type="main" lang="kor" page="71b" n="8">곳 東洋에 威名을 歐洲에 轟揚기</sent>
+<sent type="main" lang="kor" page="71b" n="9">前後 數千 年間에 다만 汗이 一人이라</sent>
+<sent type="main" lang="kor" page="71b" n="10">現今에 東亞 各國의 形勢 보니</sent>
+<sent type="main" lang="kor" page="71b" n="11">우리 東亞人이 엇지 恨이 업스리오</sent>
+<sent type="main" lang="kor" page="71b" n="12">八道 山河에 鍾出 人傑이 업지 아니나</sent>
+<sent type="main" lang="kor" page="71b" n="13">다만 汝等의 努力에 잇스니</sent>
+<sent type="main" lang="kor" page="71b" n="14">깁히 심쓸지어다</sent>
+
+<sent type="main" lang="kor" page="72a" n="">古記 보니</sent>
+<sent type="main" lang="kor" page="72a" n="">우리 平山 에 僧 令俊이 女眞으로 드러가</sent>
+<sent type="main" lang="kor" page="72a" n="">그 後裔가 元나라 始祖ㅣ 되엿다 며</sent>
+<sent type="main" lang="kor" page="72a" n="">日本서 源義經이 北海道로 滿州로 가셔</sent>
+<sent type="main" lang="kor" page="72a" n="">成吉思汗이 되엿다 니</sent>
+<sent type="main" lang="kor" page="72a" n="">輓近이 되여</sent>
+<sent type="main" lang="kor" page="72a" n=""> 洋人이 著 義經再興記</sent>
+<sent type="main" lang="kor" page="72a" n="">곳 汗이 義經이라  証據 擧示 게니라</sent>
+
+</doc>
+

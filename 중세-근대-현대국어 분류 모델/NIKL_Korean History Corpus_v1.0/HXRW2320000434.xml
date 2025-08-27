@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">마상루</title>
+<title lang="chi">馬上淚</title>
+<fullname> </fullname>
+<generalname> </generalname>
+<abbre> </abbre>
+<volume n=""/>
+<author>민준호</author>
+<date>1912</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>마상루</title>
+<pubPlace>경성동양서원</pubPlace><!---이 텍스트는 아세아문화사에서 1978년에 간행된 <韓國開化期文學叢書>에 실린 <마상루>을 입력한 것이다. -->
+<publisher>민준호</publisher>
+<date>1912</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2003/9 </date>
+<respStmt><resp>프로젝트 책임자</resp><name>임용기</name></respStmt>
+<item>세종21프로젝트 헤더붙임</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>23/07/04</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>23/07/22</date>
+<respStmt>
+<resp>입력자</resp><name>이영매</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="kor" page="1" n="01">신소셜 마샹루 (馬上淚) 全</sent>
+<sent type="title1" lang="kor" page="1" n="02">{마샹루}</sent>
+<sent type="main" lang="kor" page="1" n="01">閔민濬쥰鎬호 著</sent>
+<sent type="main" lang="kor" page="1" n="02">亞아俗속 金김敎교濟제 閱</sent>
+<sent type="main" lang="kor" page="1" n="03">각산 샹샹봉에 식금은 구름이 뭉긔뭉긔 오르며</sent>
+<sent type="main" lang="kor" page="1" n="04">만호 쟝안에 화약 연긔가 자욱히 덥히더니</sent>
+<sent type="main" lang="kor" page="1" n="05">것뭇어 아우셩소리 총소리가 니러나기 시쟉을 한다</sent>
+<sent type="main" lang="kor" page="1" n="06">이 골목에셔도 호독독호독독 통탕퉁탕</sent><!--'호독독호독독'의 뒤쪽 '호독'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="1" n="07">져 골목에서도 호독독호독독 통탕퉁탕</sent><!--'호독독호독독'의 뒤쪽 '독'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="1" n="08">여긔셔도 자아자아 우직근 </sent>
+<sent type="main" lang="kor" page="1" n="09">져긔서도 자아자아 우직근  텬디를 뒤집고</sent>
+<sent type="main" lang="kor" page="1" n="10">산악이 문어디는 듯 수 털벙거디예</sent>
+<sent type="main" lang="kor" page="1" n="11">네 자락 군복 닙은 오영문 군총들이 를 짓고</sent>
+<sent type="main" lang="kor" page="1" n="12">를 지여 이리 몰니고 져리 몰니고 우루루우루루 물녀 단니며</sent><!--'우루루우루루'의 세 번째, 여섯 번째 '루'는 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="1" n="13">이 집 부수고 뎌 집 부수고 이 사 쥭이고 뎌 사 쥭여</sent>
+<sent type="main" lang="kor" page="1" n="14">서울 일판이 뒤쥭박쥭에 뷔빕밥 텬디가 되엿더라</sent>
+
+<sent type="main" lang="kor" page="2" n="01">대례 그 난리는 됴션 텬디에 몃  안이 가는 난리라 란리라 니</sent>
+<sent type="main" lang="kor" page="2" n="02">국가와 국가 이에 국교가 파렬되는 동시에</sent>
+<sent type="main" lang="kor" page="2" n="03">젼이 니러나 자웅을 결고 승를 다토는 란리로 알 터이나</sent>
+<sent type="main" lang="kor" page="2" n="04">그 날리는 결코 그런 란리가 안이라</sent>
+<sent type="main" lang="kor" page="2" n="05">그러면 그 란리는 무슨 란리냐 면 늙으나 졃으나 어룬 아 무론고</sent>
+<sent type="main" lang="kor" page="2" n="06">군요군요는 임오년 군요 란리러라</sent>
+<sent type="main" lang="kor" page="2" n="07">그 란리가 니러나 원인은 최근력(最近歷史)가 자니</sent>
+<sent type="main" lang="kor" page="2" n="08">쟝황이 긔록할ㅅ 것은 안이로되</sent>
+<sent type="main" lang="kor" page="2" n="09">그  형편을 볼 디경이면 창에도 니고 칼에고 니고 총알도 맛고 난쟝도 마저 넘어지고 업드러뎌 쥭고 샹는 사들은 로 잇스나</sent>
+<sent type="main" lang="kor" page="2" n="10">몃  년 이로 병혁을 모르고</sent>
+<sent type="main" lang="kor" page="2" n="11">승평세게서 나고 자라고 늙고 쥭든 셩들은 공젼졀후 큰 란리로 알아 각 도으로 피란을 가는데</sent>
+<sent type="main" lang="kor" page="2" n="12">부모는 식을 부르고 식은 부모를 부르며</sent>
+<sent type="main" lang="kor" page="2-3" n="13">늙으니를 붓들고 어린이를 익그러</sent><!--익^그러-->
+
+<sent type="main" lang="kor" page="3" n="01">남문이 메이고 동문이 터지게 역역 몰녀 나가는데</sent><!--'역역'의 뒤쪽 '역'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="3" n="02">그 즁에 나이가 십가량은 된 남 한아와 녀 한아이 서로 익글고</sent>
+<sent type="main" lang="kor" page="3" n="03">인 듕에 셕겨 허둥지둥 동문 밧을 썩 나셔</sent>
+<sent type="main" lang="kor" page="3" n="04">한 가다가 동관왕묘 담 모통이에 닥쳐 다시 을 못고</sent>
+<sent type="main" lang="kor" page="3" n="05">그 자리에 털석 쥬저안즈며</sent>
+<sent type="main" lang="kor" page="3" n="06">(남) 여보 우리가 졍신 업시 여긔지는 나왓소마는 엇의를 향고 가야 됴탄 말이오</sent>
+<sent type="main" lang="kor" page="3" n="07">는 은 뎡동 권도요</sent>
+<sent type="main" lang="kor" page="3" n="08">(녀) 아이고 달이야</sent>
+<sent type="main" lang="kor" page="3" n="09">겁결에 엇더케 달음박질을 하엿든지</sent>
+<sent type="main" lang="kor" page="3" n="10">발이 붓웃고 다리에 힘이 업서</sent>
+<sent type="main" lang="kor" page="3" n="11">이제는 촌보를 옴길 수 업소구려</sent>
+<sent type="main" lang="kor" page="3" n="12">는 부인은 권도의 안 리씨러라</sent>
+<sent type="main" lang="kor" page="3-4" n="13">원 권도는 명문 거족으로 학식이 셤부고 품이 단아며</sent><!--단아^며-->
+
+<sent type="main" lang="kor" page="4" n="01">그 부인 리씨도 덕이 구비며 셩질이 유한야 부챵부슈에 금슬이 교칠 더니</sent>
+<sent type="main" lang="kor" page="4" n="02">언늬 날 리씨 부인은 북창을 의지야 바느질을 며 안젓고</sent>
+<sent type="main" lang="kor" page="4" n="03">권도는 평샹 우에 놉히 누어 낫잠이 깁헛더니 별안간 문 밧게서</sent>
+<sent type="main" lang="kor" page="4" n="04">쿵쿵쿵 후당탕 퉁탕 구구 에구구</sent><!--'쿵쿵쿵', '구구 에구구'의 뒤쪽 '쿵쿵', '구'는 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="4" n="05">소리가 들니며 계속야 총소리가 콩 복듯 나더니</sent>
+<sent type="main" lang="kor" page="4" n="06">사면팔방이 물 틋 며 란리가 낫느니</sent>
+<sent type="main" lang="kor" page="4" n="07">리판이 쥭엇느니</sent>
+<sent type="main" lang="kor" page="4" n="08">김판셔가 쥭엇느니</sent>
+<sent type="main" lang="kor" page="4" n="09"> 송장이 낫느니</sent>
+<sent type="main" lang="kor" page="4" n="10">그런 소리가 리씨 부인 귀로 쑥 드러오니</sent>
+<sent type="main" lang="kor" page="4" n="11">리씨 부인은 가이 두근두근며</sent><!--'두근두근'의 뒤쪽 '두근'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="4" n="12">젼신이 벌벌 녀 손에 잡앗든 바느질을 놋는  업시 노아 버리고</sent><!--'벌벌'의 뒤쪽 '벌'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="4" n="13">곤히 자는 그 남편을 급히 오며</sent>
+<sent type="main" lang="kor" page="4" n="14">여보 어서 니러나시오</sent>
+<sent type="main" lang="kor" page="4" n="15">여보 여보 어서 어서 니러나시오</sent><!--'여보 여보'의 뒤쪽 '여보'는 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="4" n="16">란리 란리더니 이제는 정말 난리가 낫나 보오</sent><!--'란리 란리'의 뒤쪽 '란리는 원문에 재점으로 되어 있음.--> 
+
+<sent type="main" lang="kor" page="5" n="01">권도가 결에 그 소리를 듯고 벌 니러나며</sent>
+<sent type="main" lang="kor" page="5" n="02">응 응 란리라니 란리라니 그거 무슨 소리오</sent>
+<sent type="main" lang="kor" page="5" n="03">(리씨) 뎌 소리 좀 들어 보시오</sent>
+<sent type="main" lang="kor" page="5" n="04">권도가 눈을 썩썩 부뷔고 안 한 듯다가 얼골이 노디며</sent><!--'썩썩'의 뒤쪽 '썩'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="5" n="05">에구 뎌게 웬일인가</sent>
+<sent type="main" lang="kor" page="5" n="06">(리) 여보 우리도 어서 어서 피란 갈 도리나  봅시다</sent><!--'어서어서'의 뒤쪽 '어서'는 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="5" n="07">가만이 들으닛가 압집에서도 피란을 가고</sent>
+<sent type="main" lang="kor" page="5" n="08">뒤집에서도 피란을 가고</sent>
+<sent type="main" lang="kor" page="5" n="09">엽집 건넌집에서도 모다 피란을 가난 모양인데</sent>
+<sent type="main" lang="kor" page="5" n="10">우리는 가만이 안저 쥭겟소</sent>
+<sent type="main" lang="kor" page="5" n="11">권도는 그 말을 들은 둥 만 둥 고 황황급급히 갓을 쓴다</sent><!--'황황급급'의 뒤쪽 '황, 급'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="5" n="12">옷을 입는다 고 거리로 나가 소문을 듯고 한만에 들어오더니</sent>
+<sent type="main" lang="kor" page="5" n="13">그 안를 보며</sent>
+<sent type="main" lang="kor" page="5" n="14">에구 큰일 낫소</sent>
+<sent type="main" lang="kor" page="5" n="15">어서 피란을 갑시다</sent>
+
+<sent type="main" lang="kor" page="6" n="01">(리) 에그 그런데 무슨 란리가 졸디에 그러케 낫답더닛가</sent>
+<sent type="main" lang="kor" page="6" n="02">(권) 누가 아오</sent>
+<sent type="main" lang="kor" page="6" n="03">남북촌에 쥭엄이 뫼치 싸이고</sent>
+<sent type="main" lang="kor" page="6" n="04">국직국직 샹가는 한아도 남은 집이 업나 보오</sent><!--'국직국직'의 뒤쪽 '국직'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="6" n="05">고 두 외 서로 촉을 며</sent>
+<sent type="main" lang="kor" page="6" n="06">방으로 들어가 농문 쟝문 괴문을 겁결에 여러 붓치고 졍신 업시 들들 뒤여 찻더니</sent>
+<sent type="main" lang="kor" page="6" n="07">별안간에 콩알튼 탄환이  들어와 집웅에도 러지고 마당에도 러지고 마루에도 러디는데</sent><!--''의 뒤쪽 ''은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="6" n="08">리씨 부인은 심약 녀이라 더 할 말이 업거니와</sent>
+<sent type="main" lang="kor" page="6" n="09">권도도 역시 심지가 나약야 녀와 일반의 사이라</sent>
+<sent type="main" lang="kor" page="6" n="10">의복가지 돈냥도 저  결을이 업시 그로 던지고</sent>
+<sent type="main" lang="kor" page="6" n="11">버션발노 문 밧을 나셔서 피란 가는 사 총즁에 셕겨</sent>
+<sent type="main" lang="kor" page="6" n="12">동문 밧지 나온 것이라</sent>
+<sent type="main" lang="kor" page="6" n="13">권도도 낙디 이후에 곱게 기러 난 사이오</sent>
+<sent type="main" lang="kor" page="6" n="14">리씨 부인도 고이 기러 난 사이라</sent>
+<sent type="main" lang="kor" page="6" n="15">동문지는 겁결에 여 나왓스니</sent>
+<sent type="main" lang="kor" page="6-7" n="16">다리가 압흔지 발이 압흔지 어가 압흔지 몰으고</sent><!--다리가 ^ 압흔지-->
+
+<sent type="main" lang="kor" page="7" n="01">다만 목숨 한아만 보전기에 졍신이 업섯거니와</sent>
+<sent type="main" lang="kor" page="7" n="02">총소리도 좀 멀어디고 아우셩도 좀 머러디닛가</sent>
+<sent type="main" lang="kor" page="7" n="03">그제는 지 톄에 한 곳도 암흐지 안인 곳이 업서 오도가도 못고</sent>
+<sent type="main" lang="kor" page="7" n="04">동관왕묘 담 모통이에 쥬저안저서 두 외 서로 공논는 말이라</sent>
+<sent type="main" lang="kor" page="7" n="05">(리) 이졔는 할 수 업스니 우리 친뎡으로 갈 수밧게 업소</sent>
+<sent type="main" lang="kor" page="7" n="06">(권) 글세 그리 할 수밧게 업소</sent>
+<sent type="main" lang="kor" page="7" n="07">(리) 그려니 노 돈 한 푼 업고</sent>
+<sent type="main" lang="kor" page="7" n="08">간신이 문 밧게 나와서 다리도 이러켸 압흐고 도 이러케 곱흐니</sent>
+<sent type="main" lang="kor" page="7" n="09">엇더케 하잔 말이오</sent>
+<sent type="main" lang="kor" page="7" n="10">(권) 부인의 말도 올소마는 문안으로 들어갈 수 업고</sent>
+<sent type="main" lang="kor" page="7" n="11">불가불 가다가 쥭더라도 갈밧게 업스니</sent>
+<sent type="main" lang="kor" page="7" n="12">뎐뎐걸식을 면서라도 친뎡으로 갑시다</sent>
+<sent type="main" lang="kor" page="7" n="13">부인의 친뎡은 튱쥬 쟝호원 리진 집인데</sent>
+<sent type="main" lang="kor" page="7-8" n="14">문 밧게서 일 구십 리 길이나 된난 터이라</sent><!--리 ^ 길이나-->
+
+<sent type="main" lang="kor" page="8" n="01">할일업시 그리로 가고져 야 니러셔니</sent>
+<sent type="main" lang="kor" page="8" n="02">두 다리는 벌벌 니고 가족은 등에 부터 갈 수가 업것만은</sent>
+<sent type="main" lang="kor" page="8" n="03">뒤예서 총소리는 덜미를 치고 사은 물 미듯 몰려가니</sent>
+<sent type="main" lang="kor" page="8" n="04">쥭을 힘을 써서 한 국에 한 번 쉬고</sent>
+<sent type="main" lang="kor" page="8" n="05">한 거름에 두 번식 쉬여</sent>
+<sent type="main" lang="kor" page="8" n="06">쥭을 번 살 번 간신이 왕심리를 디나가니</sent>
+<sent type="main" lang="kor" page="8" n="07">규듕에 가만이 안저서 손톱에 물을 토기고</sent>
+<sent type="main" lang="kor" page="8" n="08">문 밧만 나간도 쟝돗교나 세보교라도 타고 단니든 부인이라</sent>
+<sent type="main" lang="kor" page="8" n="09">긔의 발노 츌입든 곳은 갓가오면 부엌이오 멀면 뒷간이라</sent>
+<sent type="main" lang="kor" page="8" n="10">이러케 곱게 지나든 부인이 엇지 먼 길을 가리요</sent>
+<sent type="main" lang="kor" page="8" n="11">거긔지는 겁결에 왓거니와</sent>
+<sent type="main" lang="kor" page="8" n="12">그졔는 총소도  머러지고 사도 졈졈 드물어지</sent><!--''의 뒤쪽 ''는 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="8" n="13">겁나든 마음은 좀 너누록고</sent>
+<sent type="main" lang="kor" page="8" n="14">발은 부루터 아리치 되고</sent>
+<sent type="main" lang="kor" page="8" n="15">다리는 부어 터질 야 다시는 촌보를 갈 수 업는지라</sent>
+<sent type="main" lang="kor" page="8" n="16">할일업시 길가 잔듸밧헤 쥭은 모양으로 졍신을 모로거늘</sent>
+
+<sent type="main" lang="kor" page="9" n="01">(권도) 여보 부인 졍신 좀 리오</sent>
+<sent type="main" lang="kor" page="9" n="02">이제는 오도가도 못고 무인지경에서 이 모양 되엿시니</sent>
+<sent type="main" lang="kor" page="9" n="03">엇지하쟌 말이오</sent>
+<sent type="main" lang="kor" page="9" n="04">어서 졍신 좀 려서 아모데라도 인가이 잇는 동리를  들어갑시다</sent>
+<sent type="main" lang="kor" page="9" n="05">며 부인을 잡고 흔들거늘</sent>
+<sent type="main" lang="kor" page="9" n="06">(부인) 에구 쥭겟소…</sent>
+<sent type="main" lang="kor" page="9" n="07">나는 쥭으면 쥭엇지 다시는 한 발거름도 갈 수 업소</sent>
+<sent type="main" lang="kor" page="9" n="08">(권) 여보 글세 졍신을 좀 리시오</sent>
+<sent type="main" lang="kor" page="9" n="09">아모리 갈 수는 업드라도 니러 안나 좀 구려</sent>
+<sent type="main" lang="kor" page="9" n="10">부인이 그치 졍신 업는 듕에도 그 남편의  쓰는 양을 보고</sent>
+<sent type="main" lang="kor" page="9" n="11">졍신을 려 간신이 니러 안저 시름 업는 눈물만 펑펑 쏘다지더니</sent>
+<sent type="main" lang="kor" page="9" n="12">맛 원앙 소리가 나며</sent>
+<sent type="main" lang="kor" page="9" n="13">엇더 거머리 총각놈이 뷘 말을 몰고 급히 지거늘 권도 각에</sent>
+<sent type="main" lang="kor" page="9" n="14">올타 이제는 살엇구나</sent>
+<sent type="main" lang="kor" page="9" n="15">가 뎌 말군 아를 불너 물어 보겟다</sent>
+
+<sent type="main" lang="kor" page="10" n="01">고 급히</sent>
+<sent type="main" lang="kor" page="10" n="02">여보게 총각 총각</sent><!--'총각 총각'의 뒤쪽 '총각'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="10" n="03">(총각) 웨 부르십시오</sent>
+<sent type="main" lang="kor" page="10" n="04">(권) 어 총각의게 쳥할 말이 잇서 그러네</sent>
+<sent type="main" lang="kor" page="10" n="05">(총) 흥 그 냥반 란리에 겨 가는 사의게 쳥할 일이 무에란 말이오</sent>
+<sent type="main" lang="kor" page="10" n="06">(권) 여보게 이 사 아모리 급 란리 듕이라도 사이 금수보담 듕다 는 것은 서로</sent>
+<sent type="main" lang="kor" page="10" n="07">사랑는 마음이 잇는 연고인데 만일 사을 사랑치 안이면 금수나 달을ㅅ 것 무엇 잇나</sent>
+<sent type="main" lang="kor" page="10" n="08">녯말에 한 에 바을 맛나면 초월도 서로 구다 거든</sent>
+<sent type="main" lang="kor" page="10" n="09">황 죠션은 인졍지국인데 그럴 리가 잇나</sent>
+<sent type="main" lang="kor" page="10" n="10">여보게 좌우간  말이나 간 드러 보게나</sent>
+<sent type="main" lang="kor" page="10" n="11">(총)녜 그러면 무슨 말인지 어서 시오</sent>
+
+<sent type="main" lang="kor" page="11" n="01">권) 달음 안일세</sent>
+<sent type="main" lang="kor" page="11" n="02">우리 두 외도 란리에 겨 여긔 지는 엇더케 왓시나</sent>
+<sent type="main" lang="kor" page="11" n="03">우리 마누라가 발이 붓고 다리가 압하서 촌보를 드딀 수 업스니</sent>
+<sent type="main" lang="kor" page="11" n="04">자네 아모리 급하드라도 우리 마누라 좀 여 가지고</sent>
+<sent type="main" lang="kor" page="11" n="05">튱쥬 쟝호원 지만 다려다 쥬면</sent>
+<sent type="main" lang="kor" page="11" n="06">마삭을 달나는 로 줄 것이니 </sent>
+<sent type="main" lang="kor" page="11" n="07">의향이 엇더고</sent>
+<sent type="main" lang="kor" page="11" n="08">(총) 앗다 그 냥반 졍신 업는 말 퍽 시는구</sent>
+<sent type="main" lang="kor" page="11" n="09">란리 난 세샹에 돈은 모와 무엇오</sent>
+<sent type="main" lang="kor" page="11" n="10">이왕 평 시졀에 냥반만 밋고</sent>
+<sent type="main" lang="kor" page="11" n="11">돈이나 가지면 아모 일도 마로 하든 버르쟝이가</sent>
+<sent type="main" lang="kor" page="11" n="12">이 란리 즁에도 그저 남어 잇소구려</sent>
+<sent type="main" lang="kor" page="11" n="13">(권) 가 냥반이라고 그리는 것이 안이라</sent>
+<sent type="main" lang="kor" page="11" n="14">사졍이 졀박야 하는 말이니 각여 보게</sent>
+<sent type="main" lang="kor" page="11" n="15">이왕에 일 편할 쥴만 알고 놀고 먹고 놀고 닙어 게으르든 죄로</sent>
+<sent type="main" lang="kor" page="11" n="16">오날 총각의게 그 망 들어 싸예마는</sent>
+<sent type="main" lang="kor" page="11-12" n="17">당댱 사이 쥭게 된 것을 보고 구치 안으면 그게 엇의 인졍인가</sent><!--엇의 ^ 인졍인가-->
+
+<sent type="main" lang="kor" page="12" n="01"> 시 란리 듕에 이 디경을 당엿시나</sent>
+<sent type="main" lang="kor" page="12" n="02">필경 바로잡힐 날이 잇슬 터인데 돈을 몰온다 면 될 말인가</sent>
+<sent type="main" lang="kor" page="12" n="03">이치 수작는 동안에 총각놈이 부인의 아름다온 용모를 잠간 보고</sent>
+<sent type="main" lang="kor" page="12" n="04">불칙 마이 것든지 됴흔 말노 답기를</sent>
+<sent type="main" lang="kor" page="12" n="05">나으리 말슴이 그러케 간졀시구  졍경이 가긍니</sent>
+<sent type="main" lang="kor" page="12" n="06">제 길은 아모리 급더라도 그리할밧게 업소</sent>
+<sent type="main" lang="kor" page="12" n="07">어서 부인을 타시게 시오</sent>
+<sent type="main" lang="kor" page="12" n="08">며 말을 압흐로 갓가이 가져다 이니</sent>
+<sent type="main" lang="kor" page="12" n="09">권도는 그놈의 불 마음은 모로고 그리는 것만 다이 녁여 부인더러 어서 말을 타라 권니</sent>
+<sent type="main" lang="kor" page="12" n="10">(부인) 에그 나만 타고 가면 나으리는 엇지시랴오</sent>
+<sent type="main" lang="kor" page="12" n="11">(권) 앗다  걱졍은 조곰도 말고 어서 타고 갑시다</sent>
+<sent type="main" lang="kor" page="12" n="12">나는 뒤에 라갈이다</sent>
+
+<sent type="main" lang="kor" page="13" n="01">고 어서 타라고 권고 총각놈도 촉을 년 니</sent>
+<sent type="main" lang="kor" page="13" n="02">부인이 마지못야 말을 탓더라</sent>
+<sent type="main" lang="kor" page="13" n="03">총각놈은 혼 각으로</sent>
+<sent type="main" lang="kor" page="13" n="04">이제야 란리 덕분에 뎌러한 어엽분 안를 한아 엇어ㅅ구나</sent>
+<sent type="main" lang="kor" page="13" n="05">고 직을 들어 말을 치며 급히 모라간다</sent>
+<sent type="main" lang="kor" page="13" n="06">권도가 말 가는 것만 바라보고 텬방 디방 좃처간 들 엇지 르리오</sent>
+<sent type="main" lang="kor" page="13" n="07">순식간에 한 모롱이 두 모롱이를 언듯언듯 지나가며</sent><!--'언듯언듯'의 뒤쪽 '언듯'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="13" n="08">원앙 소가  머러지고 나무 이로 말은 보이지 안코</sent>
+<sent type="main" lang="kor" page="13" n="09">부인의 머리만 잇감 남실남실 다 보이더니</sent><!--'남실남실'의 뒤쪽 '남실'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="13" n="10">다시는 형용이 묘연야 뵈이지를 안는지라</sent>
+<sent type="main" lang="kor" page="13" n="11">쥬먹을 불 쥐고 다름박질노 살고지고를 넘어셔서 자마쟝벌판을 바라보니</sent>
+<sent type="main" lang="kor" page="13" n="12">사고무인 너른 들에 오고가는 사은  쳣고</sent>
+<sent type="main" lang="kor" page="13" n="13">슈양버들 녹음 속에 황금튼 고리는 환우셩이 자즈라뎟고</sent>
+<sent type="main" lang="kor" page="13" n="14">호호탕탕 한강수에 일 업는 구들은 오락가락 할 이라</sent><!--'호호탕탕'의 뒤쪽 '호'와 '탕'은 원문에 재점으로 되어 있음.--> 
+
+<sent type="main" lang="kor" page="14" n="01">긔가 막히고 한심야 여긔도 올나셔 보고 뎌긔도 올나셔 보고 사면팔방을 휘휘 둘너 살피며</sent>
+<sent type="main" lang="kor" page="14" n="02">허 마누라가 어느 길노 갓누</sent>
+<sent type="main" lang="kor" page="14" n="03">허 마누라가 어느 길노 갓누</sent>
+<sent type="main" lang="kor" page="14" n="04">며 밋친 사 모양으로 혼 즁얼즁얼며 오르락 나리락 는데</sent><!--'즁얼즁얼'의 뒤쪽 '즁얼'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="14" n="05">불튼 양볏흔 리이고 무셩 풀 는 훅훅 치는데</sent>
+<sent type="main" lang="kor" page="14" n="06">은 흘너 물에 바진 듯고</sent>
+<sent type="main" lang="kor" page="14" n="07">얼골은 닉어 북홍빗치 되엿고</sent>
+<sent type="main" lang="kor" page="14" n="08">는 곱하 등에 붓텻고</sent>
+<sent type="main" lang="kor" page="14" n="09">발은 부르터 터질 데</sent>
+<sent type="main" lang="kor" page="14" n="10">누구0더러 뭇한들 가는 사이오</sent>
+<sent type="main" lang="kor" page="14" n="11">오는 사은 젼여 업서 물을 수도 업스니다만 혼말노</sent>
+<sent type="main" lang="kor" page="14" n="12">이를 엇뎌나 이를 엇지 이를 엇지할ㅅ고 에구 속달아 쥭겟네</sent>
+<sent type="main" lang="kor" page="14" n="13">며 각나니 부인이오</sent>
+<sent type="main" lang="kor" page="14" n="14">흐르나니 눈물이라</sent>
+<sent type="main" lang="kor" page="14" n="15">그렁뎌렁 긔진야 오도가도 못고</sent>
+<sent type="main" lang="kor" page="14" n="16">길ㅅ가에 쓰러뎌 누엇더라</sent>
+
+<sent type="main" lang="kor" page="15" n="01">권도만 이러할  안이라 총각놈데 속아 그 남편을 일어 버리고 가는 리씨 부인도</sent>
+<sent type="main" lang="kor" page="15" n="02"> 그 총각놈의 말 우에 한업는 눈물을 흘니는 터이라</sent>
+<sent type="main" lang="kor" page="15" n="03">처음에는 부인이 가기는 가야 할 터인데 </sent>
+<sent type="main" lang="kor" page="15" n="04">다리는 압하 촌보를 옴길 수 업고</sent>
+<sent type="main" lang="kor" page="15" n="05">권도가 말군의게 비진 사졍으로</sent>
+<sent type="main" lang="kor" page="15" n="06">말을 어더 타고 가쟈 며</sent>
+<sent type="main" lang="kor" page="15" n="07"> 총각놈 촉는 바에 말ㅅ게 올나 안시나 마음에</sent>
+<sent type="main" lang="kor" page="15" n="08">나는 말을 탓거니와</sent>
+<sent type="main" lang="kor" page="15" n="09">우리 나으리도 곱게 쟝신 귀골노 엇더케 말을 라 오실ㅅ가</sent>
+<sent type="main" lang="kor" page="15" n="10">는 각 작고 니러나서 가는 로 뒤를 도라보니</sent>
+<sent type="main" lang="kor" page="15" n="11">처음에는 권도가 거의 거의 라오더니</sent><!--'거의 거의'의 뒤쪽 '거의'는 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="15" n="12"> 러뎌서 멀니 보이는지라</sent><!--''의 뒤쪽 ''는 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="15" n="13">한 모롱이 두 모롱이 지나가서 도라보니</sent>
+<sent type="main" lang="kor" page="15" n="14">권도의 그림도 볼 수 업고</sent>
+<sent type="main" lang="kor" page="15" n="15">압흘 다보니 산도 설고 물도 선데 무졍 강몰은 호탕이 흘너가고</sent>
+<sent type="main" lang="kor" page="15" n="16">층암 절벽 놉흔 산은 가 질는 드시 둘넛는데</sent>
+<sent type="main" lang="kor" page="15-16" n="17">바위 틈 우에 낙낙쟝송 느러진 가지에는 포곡됴의 우는 소가 심히 쳐량야 사의 간쟝을 녹이는 듯하더라</sent><!--바위 ^ 틈-->
+
+<sent type="main" lang="kor" page="16" n="01">(부인) 여보게 총각 총각</sent><!--'총각 총각'의 뒤쪽 '총각'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="16" n="02">(총각) 녜-</sent>
+<sent type="main" lang="kor" page="16" n="03">(부인) 우리 나으리가 어듸 오시는지 볼 수가 업스니 오시나 좀 보게</sent>
+<sent type="main" lang="kor" page="16" n="04">(총각) 녜 걱졍 맙시오</sent>
+<sent type="main" lang="kor" page="16" n="05">악가 뎌 산 모통이예 도라오십데다</sent>
+<sent type="main" lang="kor" page="16" n="06">(부인) 여보게 그러면 여긔서 좀 쉬여 기다리다가</sent>
+<sent type="main" lang="kor" page="16" n="07">우리 나으리 오시거든 치 가세</sent>
+<sent type="main" lang="kor" page="16" n="08">(총각) 녜 걱졍 마시오</sent>
+<sent type="main" lang="kor" page="16" n="09">어련이 오시겟슴닛가</sent>
+<sent type="main" lang="kor" page="16" n="10">부인도 시쟝시고 나으리도 시쟝시고 나도 시댱데</sent>
+<sent type="main" lang="kor" page="16" n="11">얼는 압 쥬막에 가서 숙소를 뎡고 저녁밥이나 식이고</sent>
+<sent type="main" lang="kor" page="16" n="12">나으리가 밋쳐 못 오시면</sent>
+<sent type="main" lang="kor" page="16-17" n="13">가 말을 가지고 나으리 오시는 길노 마조 가서 뫼시고 올 터이니</sent><!--뫼시고 ^ 올-->
+
+<sent type="main" lang="kor" page="17" n="01">념려 말고 갑시다</sent>
+<sent type="main" lang="kor" page="17" n="02">(부인) 그러치만 궁금고 갑갑야 엇지 그러커겟나</sent><!--'갑갑야'의 뒤쪽 '갑'은 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="17" n="03">뎌 산모통이 가서 엇의쯤 오시나 좀 보고 오게</sent>
+<sent type="main" lang="kor" page="17" n="04">(총각) 녜 그리하오리다</sent>
+<sent type="main" lang="kor" page="17" n="05">고 가쟝 바라보러 가는 듯이 직을 걱구로 잡고 다람박질을 야 가더니</sent>
+<sent type="main" lang="kor" page="17" n="06">조곰 잇다가 와서 는 말이</sent>
+<sent type="main" lang="kor" page="17" n="07">뎌 넘어 오시기예 얼는 오시라고 소리를 치닛가 나으리 말슴이</sent>
+<sent type="main" lang="kor" page="17" n="08">어서 몬져 가서 쥬막에 사쳐나 뎡고 져녁이나 식히면</sent>
+<sent type="main" lang="kor" page="17" n="09">나는 가는 로 라갈ㅅ 것이니</sent>
+<sent type="main" lang="kor" page="17" n="10">어서 압셔 가라 데다</sent>
+<sent type="main" lang="kor" page="17" n="11">며 말곱비를 츅여 들고 살 가듯 다라나더라</sent>
+<sent type="main" lang="kor" page="17" n="12">슬푸다</sent>
+<sent type="main" lang="kor" page="17" n="13">이놈이 당초에 불칙 마음으로 부인을 와 가지고 오난 터에 엇지 튱쥬 길노 가리오</sent>
+<sent type="main" lang="kor" page="17" n="14">튱쥬 길은 바리고 강원도 가는 길노 들어서 부인이야 엇지 알니오</sent>
+<sent type="main" lang="kor" page="17-18" n="15">권도가 살지다리에서 만 쓰다가</sent><!--만 ^ 쓰다가 -->
+
+<sent type="main" lang="kor" page="18" n="01">졍신을 일코 누엇는 쥴을 몰오고</sent>
+<sent type="main" lang="kor" page="18" n="02">총각놈이 뒤예 오신다는 말만 곳이듯고</sent>
+<sent type="main" lang="kor" page="18" n="03">얼는 쥬막에 가서 슉소를 뎡고</sent>
+<sent type="main" lang="kor" page="18" n="04">총각놈을 보여 다려올 마으로 어서 가기만 조이더라</sent>
+<sent type="main" lang="kor" page="18" n="05">이치 몃 리를 갓든지 가 산머리에 걸녓는데</sent>
+<sent type="main" lang="kor" page="18" n="06">그제야 그놈이 말을 나무가지예 더니</sent>
+<sent type="main" lang="kor" page="18" n="07">여보 부인 좀 쉬여 갑시다</sent>
+<sent type="main" lang="kor" page="18" n="08">(부인) 이제 도 넘어가는데 쉬여 무엇나</sent>
+<sent type="main" lang="kor" page="18" n="09">어서 어느 쥬막으로 가서 숙소나 뎡고</sent>
+<sent type="main" lang="kor" page="18" n="10">나으리를 좀 뫼셔 와야지</sent>
+<sent type="main" lang="kor" page="18" n="11">(총각) 허허 우숩고 신긔고 텬치 갓튼 숙의 아달놈 다 보겟군 허허허</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.--><!--'허허허'의 뒤쪽 '허허'는 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="18" n="12">(부인) 이 사이 무엇이 그러케 우숩고 그러케 신긔고</sent>
+<sent type="main" lang="kor" page="18" n="13">누가 그러케 텬치 튼 숙이란 말인가</sent>
+<sent type="main" lang="kor" page="18" n="14">(총각) 허허 권도인지 무엇에 아달인지 그런 지각 업는 식이 엇의 잇나</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.--> <!--^식이-->
+
+<sent type="main" lang="kor" page="19" n="01">허허  우수어라</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.--> 
+<sent type="main" lang="kor" page="19" n="02">부인이 그 말을 들으니</sent>
+<sent type="main" lang="kor" page="19" n="03">그졔야 그놈의 눈치를 알고 긔가 막혀 말ㅅ게 여 나려 길가에 텰셕 쥬저안즈며</sent>
+<sent type="main" lang="kor" page="19" n="04">여보게 총각 그것이 웬 말인가</sent>
+<sent type="main" lang="kor" page="19" n="05">(총각) 허허 좀 셔이 듯고 십소</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="19" n="06">더니 가쟝 졍답게 부인 압흐로 닥아들어 </sent>
+<sent type="main" lang="kor" page="19" n="07">문이서 걸네 튼 수건을 여</sent>
+<sent type="main" lang="kor" page="19" n="08">산두 노름에 탈박아지 튼 얼골에 비지을 이리 씻고 뎌리 씨스며</sent>
+<sent type="main" lang="kor" page="19" n="09">서푼리 되야지 리 튼 머리 지를 북두 갈구리 튼 손으로 이리 쓰다듬고 뎌리 쓰다듬으며</sent>
+<sent type="main" lang="kor" page="19" n="10">몸에서 는 송쟝이 썩는 듯고</sent>
+<sent type="main" lang="kor" page="19" n="11">입에서 구린는 박아지를  듯 당쟝에 비위가 샹야 구역질이 나는데</sent>
+<sent type="main" lang="kor" page="19" n="12">이놈은 념치 업시 밋친 눈갈 튼 눈을 젹이고 압흐로 벗석벗석 닥아안즈며</sent><!--'벗석벗석'의 뒤쪽 '벗석'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="19" n="13">여보 권도치 숙의 아달놈이 어듸 잇겟소</sent>
+<sent type="main" lang="kor" page="19-20" n="14">이왕 법강이 무셔울 에는 우리 튼 사이 법에 눌녀 쟉을 못여니와</sent><!--법강이 ^ 무셔울-->
+
+<sent type="main" lang="kor" page="20" n="01">지금 란리난 셰샹에 당신치 옙 아씨를 제가 단속을 여도 별 이샹 일이 만흘 터인데</sent>
+<sent type="main" lang="kor" page="20" n="02">황 나 튼 사의게 억지로 쳐막기다십히 하엿시니</sent>
+<sent type="main" lang="kor" page="20" n="03">그런 숙이  엇의 잇단 말이오</sent>
+<sent type="main" lang="kor" page="20" n="04">라리 호랑이 입에 고기를 너어야 낫지</sent>
+<sent type="main" lang="kor" page="20" n="05">당 가야 게집 맛을 못 보든 게다 당신치 옙 아씨를 혼 막겨 보단 말이오</sent>
+<sent type="main" lang="kor" page="20" n="06">허허 역시 우리 연분인가</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="20" n="07">됴흔 일이구 그른 일이구 막비 한 연분이웬다</sent>
+<sent type="main" lang="kor" page="20" n="08">이제는 권도도 바서 쓸데업고</sent>
+<sent type="main" lang="kor" page="20" n="09">이 길은 튱쥬로 가는 길이 안이요</sent>
+<sent type="main" lang="kor" page="20" n="10">강원도로 가는 길이요</sent>
+<sent type="main" lang="kor" page="20" n="11"> 집이 원쥬 읍에 잇스니</sent>
+<sent type="main" lang="kor" page="20" n="12">앙탈 말고 나를 라가서 치 사라 봅시다</sent>
+<sent type="main" lang="kor" page="20" n="13">만일 그러치 안으면  손에 쥭을 거시니 각여 시오</sent>
+
+<sent type="main" lang="kor" page="21" n="01">며 당댱에 수샹 거동이 만은지라</sent>
+<sent type="main" lang="kor" page="21" n="02">부인이 그 말을 듯고 졍신이 아득고 분야 곳 그놈의 을 치고 호령을 하고 십흐나</sent>
+<sent type="main" lang="kor" page="21" n="03">법은 멀고 쥬먹은 갓가온 터이라</sent>
+<sent type="main" lang="kor" page="21" n="04">그리하면 욕만 더옥 촉할 모양이라 곰곰 각기를</sent>
+<sent type="main" lang="kor" page="21" n="05">쥭는 나는 설지 안커니와</sent>
+<sent type="main" lang="kor" page="21" n="06">우리 나으리가 나를 일코 찻노라고 를 한업시 쓸 터인데</sent>
+<sent type="main" lang="kor" page="21" n="07">나으리 낫도 다시 보지 못고 거저 쥭으면 이런 원통 노릇이 엇의 잇나</sent>
+<sent type="main" lang="kor" page="21" n="08">그러나 이러 무인진경 산에서 옴쟉달삭을 못고</sent>
+<sent type="main" lang="kor" page="21" n="09"> 잡힌 목숨이 되엿시니 엇더케 면 할 수가 잇슬고</sent>
+<sent type="main" lang="kor" page="21" n="10">고 이리 각 져리 각 한이나 궁리를 여 보다가</sent>
+<sent type="main" lang="kor" page="21" n="11">문득 각기를</sent>
+<sent type="main" lang="kor" page="21" n="12">아모리 하여도 달은 수는 업스니</sent>
+<sent type="main" lang="kor" page="21" n="13">뎌놈을 속여서 거짓 됴흔 말노 허락을 하고</sent>
+<sent type="main" lang="kor" page="21" n="14">아직 욕만 피여 가다가</sent>
+<sent type="main" lang="kor" page="21" n="15">무 변통을 하여 보리라</sent>
+
+<sent type="main" lang="kor" page="22" n="01">고 흔연이 됴흔 말노 총각놈을 향여 는 말이라</sent>
+<sent type="main" lang="kor" page="22" n="02">여보게 총각 발셔 이 디경 되야 이졔 가 실타들 총각이 들을 리도 업고</sent>
+<sent type="main" lang="kor" page="22" n="03"> 이러케 란리 세샹에 남편이 약면 괴로온 일이 만은데</sent>
+<sent type="main" lang="kor" page="22" n="04">셜혹 총각이 나를 노아 쥬기로</sent>
+<sent type="main" lang="kor" page="22" n="05">졀믄 녀가 림 업시 길에 나셔면 필경 욕을 면치 못할 일이 안인가</sent>
+<sent type="main" lang="kor" page="22" n="06">총각의 모양을 보니 우 건쟝야 마음에 합당데 굿하야 방할 것 잇나</sent>
+<sent type="main" lang="kor" page="22" n="07">갓치 살 쥴노 알고 어서 어늬 쥬막으로 가서 좀 쉬게나 여 쥬게</sent>
+<sent type="main" lang="kor" page="22" n="08">총각놈이 그 말을 듯더니 단이 깃거야</sent>
+<sent type="main" lang="kor" page="22" n="09">여보 부인의 마음이 그러면 더할 말 업시니</sent>
+<sent type="main" lang="kor" page="22" n="10">그리 알고 어서 갑시다</sent>
+<sent type="main" lang="kor" page="22" n="11">고 부인더러 말을 타라 권니</sent>
+<sent type="main" lang="kor" page="22" n="12">부인이 할일업서 말을 타려즉</sent>
+<sent type="main" lang="kor" page="22-23" n="13">왕십리서 처음 탈 에는 권도가 안아 보쵹 힘에 탓거니와</sent><!--탓거니^와-->
+
+<sent type="main" lang="kor" page="23" n="01">이 곳에서야 연약 긔질노 혼는 말게 올을 의도 할 수 업서 쥬져쥬져 고만 잇는지라</sent><!--'쥬져쥬져'의 뒤쪽 '쥬져'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="23" n="02">총각놈이 와락 달녀들며</sent>
+<sent type="main" lang="kor" page="23" n="03">부인이 말을 혼 타겟소</sent>
+<sent type="main" lang="kor" page="23" n="04"> 안아서 올니 안치오리다</sent>
+<sent type="main" lang="kor" page="23" n="05">고 두 손을 벌리고 안으려 드니</sent>
+<sent type="main" lang="kor" page="23" n="06">부인이 쟉 놀나 녑흐로 빗겨서며</sent>
+<sent type="main" lang="kor" page="23" n="07">여보게 가만 잇게</sent>
+<sent type="main" lang="kor" page="23" n="08">가 지금 젼신이 압하서  손도  마음로 몸에  술가 업스니</sent>
+<sent type="main" lang="kor" page="23" n="09">이 말을 뎌 언덕 밋헤 가져다 세워 쥬면 나 혼도 타겟네</sent>
+<sent type="main" lang="kor" page="23" n="10">총각놈이 당쟝 불튼 욕심에 망칙 지저귀를 하고 십지마는</sent>
+<sent type="main" lang="kor" page="23" n="11">부인의 범졀이 엄숙고 말이 졍닛가 감히 범치는 못나</sent>
+<sent type="main" lang="kor" page="23" n="12">그 어르는 형샹은 아 볼 수 업더라</sent>
+<sent type="main" lang="kor" page="23" n="13">(총각) 여보 부인 그럴 것 무엇 잇소</sent>
+<sent type="main" lang="kor" page="23" n="14">피 년로를 할 터에 부인의 몸에 손 좀 들 무삼 관게 잇겟소</sent>
+<sent type="main" lang="kor" page="23-24" n="15">아못됴록 곱게 뫼셔 타시도록 리다</sent><!--타^시도록-->
+
+<sent type="main" lang="kor" page="24" n="01">(부인) 에그 총각의 손이 몸에 닷는 거슬 실여서 그려는 것이 안이라</sent>
+<sent type="main" lang="kor" page="24" n="02">실샹 가만이 안잣든 사이 졸디에 란리를 맛나 겨 오노라고 팔다리가 모다 붓고 압흔 듕에 죵일 말을 타고 왓더니</sent>
+<sent type="main" lang="kor" page="24" n="03">젼신이 모다 졀이고 압하셔 남에 손 닷는 것이 실으니</sent>
+<sent type="main" lang="kor" page="24" n="04">여려 말말고 어서 말을 뎌 언덕 밋헤 세워 주게</sent><!--'말말고'의 뒤쪽 '말'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="24" n="05">총각놈이 할일업서 말을 몰아 언덕 아다 세우거늘</sent>
+<sent type="main" lang="kor" page="24" n="06">부인이 길마를 붓들고 간신이 올나 안즈니</sent>
+<sent type="main" lang="kor" page="24" n="07">그놈이 부인의 말을 곳이 듯고</sent>
+<sent type="main" lang="kor" page="24" n="08">가쟝 제 안나 될 쥴 알앗든지</sent>
+<sent type="main" lang="kor" page="24" n="09">여 엇의가 압흘ㅅ가 엇의가 편치 못할ㅅ가 야</sent>
+<sent type="main" lang="kor" page="24" n="10">그 젼에는 졍신을 차릴 수 업시 몰아 가더니</sent>
+<sent type="main" lang="kor" page="24" n="11">지금은 고이고이 뫼셔 가며 간간이 말을 경게다</sent><!--'고이고이'의 뒤쪽 '고이'는 원문에 재점으로 되어 있음.--><!--'간간이'의 뒤쪽 '간'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="24" n="12">이놈의 말 고이 가쟈</sent>
+<sent type="main" lang="kor" page="24" n="13">우리 아씨 놀나실나</sent>
+<sent type="main" lang="kor" page="24" n="14">며 가다가 엇던 쥬막으로 들어가더니</sent>
+
+<sent type="main" lang="kor" page="25" n="01">여보 쥬인 아쥬머니 사쳐방 좀 졍게 치우시고</sent>
+<sent type="main" lang="kor" page="25" n="02">밥 두 샹만하여 쥬실 데  밥은 달은 일례로 고</sent>
+<sent type="main" lang="kor" page="25" n="03"> 진지는 아못됴록 잘 차리시오</sent>
+<sent type="main" lang="kor" page="25" n="04">이  부안은 사쳐방으로 들어가 누어서 권도가 긔를 일코 쓰는 을 니</sent>
+<sent type="main" lang="kor" page="25" n="05">가슴이 답답고 눈물이 비 오듯 다가</sent><!--'답답고'의 뒤쪽 '답'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="25" n="06">다시 총각놈의게 욕 볼 각을 한즉</sent>
+<sent type="main" lang="kor" page="25" n="07">졍신이 아득고 눈이 뒤집혀 어졀 쥴을 몰오는데</sent>
+<sent type="main" lang="kor" page="25" n="08">거무하에 저녁샹이 들어오거늘</sent>
+<sent type="main" lang="kor" page="25" n="09">부인이 밥 각도 업고 쥭고 십은 마음이지마는</sent>
+<sent type="main" lang="kor" page="25" n="10">이 곳에셔 명 업시 쥭으면 쥭은 신톄라도 남의게 욕을 볼 터이니</sent>
+<sent type="main" lang="kor" page="25" n="11">아모리 먹기 실은 밥이라도 억지로 먹고</sent>
+<sent type="main" lang="kor" page="25" n="12">밤이 깁거든 어로 도망다가</sent>
+<sent type="main" lang="kor" page="25" n="13">다이면 면 됴커니와</sent>
+<sent type="main" lang="kor" page="25" n="14">만일 그러치 못면 그 는 물에 져 쥭든지</sent>
+<sent type="main" lang="kor" page="25" n="15">목을 여 쥭든지 리라 고</sent>
+<sent type="main" lang="kor" page="25" n="16">밥을 얼만즘 먹엇더라</sent>
+<sent type="main" lang="kor" page="25" n="17">밥을 먹은 후에 이 각 뎌 각고</sent>
+<sent type="main" lang="kor" page="25-26" n="18">안자ㅅ다 누엇다 며 번뢰 마음을 딘뎡치 뭇더니</sent><!--번뢰^-->
+
+<sent type="main" lang="kor" page="26" n="01">이윽야 밧게서 총각 목소리가 나며 드러오거늘</sent>
+<sent type="main" lang="kor" page="26" n="02">부인이 젼신에 소름이 치며 놀나다가 다시 딘뎡을 야</sent>
+<sent type="main" lang="kor" page="26" n="03">여보게 총각 밥이나 만이 먹엇나</sent>
+<sent type="main" lang="kor" page="26" n="04">곤한데 일즉 지 안코 웨 드러왓나</sent>
+<sent type="main" lang="kor" page="26" n="05">(총각) 허허 그져요</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="26" n="06">며 쥬져쥬져 더니 빙긋빙긋 우소면서</sent><!--'쥬져쥬져', '빙긋빙긋'의 뒤쪽 '쥬져', '빙긋'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="26" n="07">여보 심심데 혼 쥼으시랴오</sent>
+<sent type="main" lang="kor" page="26" n="08">(부인) 심심인지 무엇인지 몸이 넘우도 호고 속이 거복야 쥭겟시니</sent>
+<sent type="main" lang="kor" page="26" n="09">어서 나가 자게</sent>
+<sent type="main" lang="kor" page="26" n="10">(총각) 여보 셔울 부인들은 인졍이 만타더니</sent>
+<sent type="main" lang="kor" page="26" n="11">아씨는 엇지하야 그러케 박졍하단 말이오</sent>
+<sent type="main" lang="kor" page="26" n="12">삼심 노총각이 아씨튼 미을 보고 마음이 산란하야 말 견델 슈 업셔 들어왓시니</sent>
+<sent type="main" lang="kor" page="26-27" n="13">아씨 줌으시는 녑헤 자리 한구석만 뷔여 쥬시구려</sent><!--줌^으시는-->
+
+<sent type="main" lang="kor" page="27" n="01">(부인) 여보게 이 사아</sent>
+<sent type="main" lang="kor" page="27" n="02">셜혹 그런 마이 잇기로니</sent>
+<sent type="main" lang="kor" page="27" n="03">쥬막집에 인이 갓득 들어 이목이 번다데 어서 나가 자게</sent>
+<sent type="main" lang="kor" page="27" n="04">(총각) 관게치 안소</sent>
+<sent type="main" lang="kor" page="27" n="05">봉노방에 인들도 잠들이 깁히 들어 졍신 몰오고</sent>
+<sent type="main" lang="kor" page="27" n="06">쥬인방에서도 불을 시니 아모렴 마오</sent>
+<sent type="main" lang="kor" page="27" n="07">(부인) 여보게 이 사아</sent>
+<sent type="main" lang="kor" page="27" n="08">지각이 엇지 그러케 업단 말인가</sent>
+<sent type="main" lang="kor" page="27" n="09">나도 긔위 갓치 살 바에 하로가 밧부지만은</sent>
+<sent type="main" lang="kor" page="27" n="10">아모라도 총각보고 나보면 누가 외로 알겟나</sent>
+<sent type="main" lang="kor" page="27" n="11">그리하다가 만일 탄로가 되면 총각이 아모리 건쟝한들 여러 사을 당하겟나</sent>
+<sent type="main" lang="kor" page="27" n="12">세샹 일을 급히 하랴면 일도 되지 안코 욕만 도라오는 법이니</sent>
+<sent type="main" lang="kor" page="27" n="13">잘못다가 년긔약을 그르치기 쉬오니</sent>
+<sent type="main" lang="kor" page="27" n="14">그리 말고 몃칠만 아서 총각 집에 간 후에 마음 놋코 자도 늣지 안인즉</sent>
+<sent type="main" lang="kor" page="27" n="15">급조이 말고 어서 곤한데 봉노방으로 나가 자고</sent>
+<sent type="main" lang="kor" page="27" n="16">일 일즉 나게 세</sent>
+
+<sent type="main" lang="kor" page="28" n="01">총각놈이 그 말을 듯더니</sent>
+<sent type="main" lang="kor" page="28" n="02">부인의 말이 올은지라 그제야 는 말이</sent>
+<sent type="main" lang="kor" page="28" n="03">나도 나가 자려니와 부인도 곤한데 일즉 줌우시오</sent>
+<sent type="main" lang="kor" page="28" n="04">고 밧그로 나가거늘</sent>
+<sent type="main" lang="kor" page="28" n="05">부인이 그놈 나간 후에 가슴을  치며 소리 업시 한 울다가</sent><!--''의 뒤쪽 ''은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="28" n="06">봉노방예 불이 잇나 업나 문틈으로 다보니</sent>
+<sent type="main" lang="kor" page="28" n="07">인젹이 고요데 인의 코 고는 소만 들니는지라</sent>
+<sent type="main" lang="kor" page="28" n="08">그제야 다시 졍신을 리고 옷을 단속 후에 뒷문을 소 업시 간만이 열고 나셔니</sent>
+<sent type="main" lang="kor" page="28" n="09">이  월이 희미야 갓가온 데 사은 알아 보겟고</sent>
+<sent type="main" lang="kor" page="28" n="10">먼 데 사은 몰나 볼 만한지라</sent>
+<sent type="main" lang="kor" page="28" n="11">부억 뒷문으로 도라 압흐로 나와서 마구간 마소 뒤로 이리 뷔비고 뎌리 부비며 간신이 문간을 당도야</sent>
+<sent type="main" lang="kor" page="28" n="12">빗쟝을 가만이 노라고 는 거시 겁걸에 손이 니며 빗쟝 소가 드득 거늘</sent>
+<sent type="main" lang="kor" page="28" n="13">마당에 누엇든 들이 겅겅 짓으며 조 나오는지라</sent>
+<sent type="main" lang="kor" page="28" n="14">부인이 할일업서 빗쟝을 도로 놋코 하나님 비는 말이라</sent>
+
+<sent type="main" lang="kor" page="29" n="01">하나님 하나님 이 몸이 사라 나서 가쟝을 다시 만나게 하시랴거든</sent><!--'하나님 하나님'의 뒤쪽 '하나님'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="29" n="02">뎌 가 짓지 말고 이 빗쟝 소가 업게 하여 쥽시오</sent>
+<sent type="main" lang="kor" page="29" n="03">고 다시 를 도라보며</sent>
+<sent type="main" lang="kor" page="29" n="04">야 야 짓지 마라</sent><!--'야 야'의 뒤쪽 '야'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="29" n="05">너는 아모리 즘인들 나를 불샹이 녁여 짓지 마라</sent>
+<sent type="main" lang="kor" page="29" n="06">며 다시 소리 업시 빗쟝을 가만이 잡아 으니 과이 소리 업시 지는지라</sent>
+<sent type="main" lang="kor" page="29" n="07">문을 열고 썩 나셔며 니 갈 곳을 알 수 업는지라</sent>
+<sent type="main" lang="kor" page="29" n="08">쥬져다가 다시금 각을 즉</sent>
+<sent type="main" lang="kor" page="29" n="09">만일 길노 가다가 총각놈이 만 면 좃 오기도 쉽고</sent>
+<sent type="main" lang="kor" page="29" n="10">로 엇던 무뢰의게 붓들니면 욕을 볼 터이니</sent>
+<sent type="main" lang="kor" page="29" n="11">뎌긔 보이는 산을 넘어 가리라</sent>
+<sent type="main" lang="kor" page="29" n="12">고 집 뒤로 살살 도라 가더라</sent><!--'살살'의 뒤쪽 '살'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="29" n="13">이  밤은 깁허 오경이라</sent>
+<sent type="main" lang="kor" page="29" n="14-15">나무는 별겻듯 고 풀은 욱어뎌서 엇의가 엇의인지 몰으고</sent><!--엇^의가-->
+
+<sent type="main" lang="kor" page="30" n="01">텬방디방 산탈비탈노 다라날  인젹은 고요데 원촌에 가 짓고</sent>
+<sent type="main" lang="kor" page="30" n="02">월은 더옥 희미 듕 공산에 두견는 불여귀 불여귀로 슬피 울어 니</sent><!--'불여귀 불여귀'의 뒤쪽 '불여귀'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="30" n="03">슬푼 사의 간쟝을 녹이지라</sent>
+<sent type="main" lang="kor" page="30" n="04">이슬은 비오듯 고 물소는 잔잔야 구비구비 들니는데</sent>
+<sent type="main" lang="kor" page="30" n="05">자든 과 누엇든 노루들은 사의 자최의 놀나서 이리 날고 뎌리 니</sent>
+<sent type="main" lang="kor" page="30" n="06">그 안이 놀나올ㅅ가 무셔운 줄도 모르고 가다가 한 곳에 니른즉</sent>
+<sent type="main" lang="kor" page="30" n="07">어데서 돌 굴니는 소리가 덜컥덜컥 더니</sent><!--'덜컥덜컥'의 뒤쪽 '덜컥'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="30" n="08">무슨 즘이 크기는 황소 갓고 눈은 화경튼 것이 어훙 소를 지르고 압흐로 달녀들거늘</sent>
+<sent type="main" lang="kor" page="30" n="09">부인이 악이 밧삭 오른 터에 무엇이 두려오리오</sent>
+<sent type="main" lang="kor" page="30" n="10">달빗에 바라보니 얼숭덜숭  바둑뎜이 박힌지라</sent>
+<sent type="main" lang="kor" page="30" n="11">이왕에 깁흔 산듕에 호랑이 잇단 말은 들엇고</sent>
+<sent type="main" lang="kor" page="30" n="12">긔 집에서 호피 방셕을 본 고로</sent>
+<sent type="main" lang="kor" page="30" n="13">아마 뎌 겻이 호랑인가 고 호랑이 압흐로 벗석 달려들며 는 말이</sent>
+
+<sent type="main" lang="kor" page="31" n="01">네가 호랑이거든 어서 나를 잡아 먹어라</sent>
+<sent type="main" lang="kor" page="31" n="02">네가 비록 즘인들 산즁에는 영웅이라 는데</sent>
+<sent type="main" lang="kor" page="31" n="03">엇지 무죄 사을 모로고 급히 가는 사의 길을 막느냐</sent>
+<sent type="main" lang="kor" page="31" n="04">니 호랑이가 그제야 설넝설넝 가거늘</sent><!--'설넝설넝'의 뒤쪽 '설넝'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="31" n="05">부인이 졍신을 가다듬아 쥭을 번 살 번고 산을 넘어가니</sent>
+<sent type="main" lang="kor" page="31" n="06">어언간 사방에서 닭의 소리는 어즈러이 울고</sent>
+<sent type="main" lang="kor" page="31" n="07">동방에 밝는 긔운이 기는지라</sent>
+<sent type="main" lang="kor" page="31" n="08">그제야 도 곱흐고 의복이 저저서 치운 각도 나고</sent>
+<sent type="main" lang="kor" page="31" n="09">발굼치가 샹야 피가 흘너 신에 가득고</sent>
+<sent type="main" lang="kor" page="31" n="10">손ㅅ가락이 가시에 녀 뉴혈이 낭자지라</sent>
+<sent type="main" lang="kor" page="31" n="11">간신이 졍신을 수습야 산골노 려가더니</sent>
+<sent type="main" lang="kor" page="31" n="12">조고마 외집 한아이 잇는지라</sent>
+<sent type="main" lang="kor" page="31" n="13">불고 념치고 그 집으로 들어간즉 아모도 업고</sent>
+<sent type="main" lang="kor" page="31" n="14">늘근 할미가 밥솟해 불을 다가</sent>
+<sent type="main" lang="kor" page="31" n="15">부인의 모양을 보고 쟉 놀나 마조 나오며</sent>
+<sent type="main" lang="kor" page="31" n="16">그먼니 웬 아씨가 뎌 모양으로 오시오</sent>
+<sent type="main" lang="kor" page="31-32" n="17">잠시 보아도 시골 댱은 안인데</sent><!--^댱은-->
+
+<sent type="main" lang="kor" page="32" n="01">(부인) 에그 나는 서울 사으로 란리에 겨 오는 길에 다리도 압흐고 시쟝도 기로</sent>
+<sent type="main" lang="kor" page="32" n="02">요긔도 좀 고 다리도 좀 쉬여 갈ㅅ가 고 들어왓소</sent>
+<sent type="main" lang="kor" page="32" n="03">(할미) 응</sent>
+<sent type="main" lang="kor" page="32" n="04">서울서 란리가 낫다 더니 정말인 게지</sent>
+<sent type="main" lang="kor" page="32" n="05">(부인) 에그 졍말이고 말구요</sent>
+<sent type="main" lang="kor" page="32" n="06">란리가 나서 나튼 사도 이 디경이 되엿다오</sent>
+<sent type="main" lang="kor" page="32" n="07">(할미) 에구 뎌 것 보아</sent>
+<sent type="main" lang="kor" page="32" n="08">란리가 낫시면 엇더케 되엿슴닛가</sent>
+<sent type="main" lang="kor" page="32" n="09">(부인) 몰으지오</sent>
+<sent type="main" lang="kor" page="32" n="10">나도 총소리 몃 번에 기여 나오노라고 볼 일을 못 보아시닛가 엇더케 된 거슬 자세이 몰으겟소</sent>
+<sent type="main" lang="kor" page="32" n="11">(할미) 구 가이업서라</sent>
+<sent type="main" lang="kor" page="32" n="12">뎌 모양이 되어실 제야 고인들 여북 하여실ㅅ가</sent>
+<sent type="main" lang="kor" page="32" n="13">어서 방으로 들어가서 좀 누여서 쉬게 시오</sent>
+
+<sent type="main" lang="kor" page="33" n="01">부인이 방으로 들어가 곤핍을 익이지 못야 누어서 각즉</sent>
+<sent type="main" lang="kor" page="33" n="02">이제는 하님 덕으로 우연이 이러 외집에 아모도 업고</sent>
+<sent type="main" lang="kor" page="33" n="03">할미 혼 잇는 집을 맛나시니 불 듕 다일다</sent>
+<sent type="main" lang="kor" page="33" n="04">고 잠간 이 들낙말낙 는데 사리문 열치는 소리에 쟉 놀나 니러 안 다보니</sent>
+<sent type="main" lang="kor" page="33" n="05">문 밧게 웬 크단 아놈이 풋나무 짐을 마당에다 버서 부치며</sent>
+<sent type="main" lang="kor" page="33" n="06">어  곱파라</sent>
+<sent type="main" lang="kor" page="33" n="07">(할미) 어느  오너냐</sent>
+<sent type="main" lang="kor" page="33" n="08"> 곱흐겟다</sent>
+<sent type="main" lang="kor" page="33" n="09">(아희) 에-구  곱하 쥭겟소</sent>
+<sent type="main" lang="kor" page="33" n="10">밥이 다 되엿소</sent>
+<sent type="main" lang="kor" page="33" n="11">(할미) 오냐</sent>
+<sent type="main" lang="kor" page="33" n="12">거진 다 되엿다마는 이 방에는 서울서 피란 오신 아씨가 게시니</sent>
+<sent type="main" lang="kor" page="33" n="13">이 부엌으로 들어오너라</sent>
+<sent type="main" lang="kor" page="33" n="14">아놈이 그 말을 듯더니</sent>
+<sent type="main" lang="kor" page="33-34" n="15">화투 보군이튼 머리를 풀닙흐로 질근동이고</sent><!--질^근-->
+
+<sent type="main" lang="kor" page="34" n="01">얼골은 숫셤에서  것 고</sent>
+<sent type="main" lang="kor" page="34" n="02">눈은 어름에 잡바진 소눈ㅅ갈튼 놈이 방안을 기웃이 드리미러 보고</sent>
+<sent type="main" lang="kor" page="34" n="03">싱긋싱긋 우스며 부억으로 들어가는지라</sent><!--'싱긋싱긋'의 뒤쪽 '싱긋'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="34" n="04">부인이 그놈의 모양과 거동을 보고 놀나 가슴에서 두방망이질이 나며 몸이 벌벌 니는지라 혼말노</sent>
+<sent type="main" lang="kor" page="34" n="05">에구 큰일이  낫구나</sent>
+<sent type="main" lang="kor" page="34" n="06">뎌놈의 모양은 어제 말군놈보담도 더 고약여 보이니</sent>
+<sent type="main" lang="kor" page="34" n="07">만일 뎌놈이  불냥 마음을 먹으면 엇지할ㅅ고</sent>
+<sent type="main" lang="kor" page="34" n="08">며 아ㅅ목 벽에다 귀를 이고 무슨 말을 하는가 듯더니</sent>
+<sent type="main" lang="kor" page="34" n="09">과연 그 모가 무엇이라고 숙은숙은 다</sent><!--'숙은숙은'의 뒤쪽 '숙은'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="34" n="10">(할미) 이 그런 말 하도 마라</sent>
+<sent type="main" lang="kor" page="34" n="11">그 부인의 모양을 보 너와 살겟느냐</sent>
+<sent type="main" lang="kor" page="34" n="12">(아희) 허  벌소리 마오</sent>
+<sent type="main" lang="kor" page="34-35" n="13">이왕 법이 잇슬 에는 그리 못 하엿거니와</sent><!--하엿^거니와-->
+
+<sent type="main" lang="kor" page="35" n="01">지금 란리 난 셰셩에 님 업시 혼 나션 게집이 무슨 룡는 수가 잇답더닛가</sent>
+<sent type="main" lang="kor" page="35" n="02">제가 만일 듯지 안으면 한 쥬먹에 평토제를 디겟소</sent>
+<sent type="main" lang="kor" page="35" n="03">(할미) 이 가만가만이나 하여라</sent><!--'가만가만이나'의 뒤쪽 '가만'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="35" n="04">방에서 다 듯겟다</sent>
+<sent type="main" lang="kor" page="35" n="05">(아희) 허 들으면 샹관 잇소</sent>
+<sent type="main" lang="kor" page="35" n="06">올에 가 쟝가들 수가 잇다더니</sent>
+<sent type="main" lang="kor" page="35" n="07"> 이샹 일도 만쿠면</sent>
+<sent type="main" lang="kor" page="35" n="08">어머니 늙게 눈을 찌그리고 바느질 하는 것 보면 일샹 답답더니</sent><!--'답답더니'의 뒤쪽 '답'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="35" n="09">이제는 한시름 니젓소</sent>
+<sent type="main" lang="kor" page="35" n="10">어  됴와라</sent>
+<sent type="main" lang="kor" page="35" n="11">부인이 그 말을 듯고 졍신이 아득야 혼 각으로</sent>
+<sent type="main" lang="kor" page="35" n="12">에그 이런 년의 신수가 잇나</sent>
+<sent type="main" lang="kor" page="35" n="13">어젯밤에 간신이 말군놈을 속이고 요 피엿더니</sent>
+<sent type="main" lang="kor" page="35" n="14"> 이 디경을 당하엿시니</sent>
+<sent type="main" lang="kor" page="35" n="15">이 일을 엇지하쟌 말인고</sent>
+<sent type="main" lang="kor" page="35" n="17">어제 말군놈은 괴약도 오히러 테면을 리더니</sent>
+<sent type="main" lang="kor" page="35" n="18">이놈은 판 소경 불안당놈인데 속담에 죠악돌을 면면</sent>
+
+<sent type="main" lang="kor" page="36" n="01">수만 셕을 만난다더니</sent>
+<sent type="main" lang="kor" page="36" n="02">나를 두고 니른 말이로구나</sent>
+<sent type="main" lang="kor" page="36" n="03">이치 각기에 졍신 업시 안니</sent>
+<sent type="main" lang="kor" page="36" n="04">거무하에 할미가 아침샹을 들여다 놋는데</sent>
+<sent type="main" lang="kor" page="36" n="05">모 러진 다리소반에 푸루덩덩 샹사발에다 올강올강 는 버리밥을 안아 담은 드시 담어 놋코</sent><!--'푸루덩덩', '올강올강'의 뒤쪽 '덩', '올강'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="36" n="06">니 진 탕긔에 밧흐로 긔여 나가려는 풋김치를 밥 담듯 담어 놋코</sent>
+<sent type="main" lang="kor" page="36" n="07">진 죵의 골인 된쟝 한 술을  붓첫더라</sent>
+<sent type="main" lang="kor" page="36" n="08">아놈은 밥샹 뒤를 라 드러와 안지며</sent>
+<sent type="main" lang="kor" page="36" n="09">곰방를 툭툭 러 담 한 를 붓쳐 물고 첫 말에</sent><!--'툭툭'의 뒤쪽 '툭'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="36" n="10">여보 뎌 아씨 말슴은 강 들엇시나</sent>
+<sent type="main" lang="kor" page="36" n="11">오직 고을 하셧겟소</sent>
+<sent type="main" lang="kor" page="36" n="12">(부인) 후-</sent>
+<sent type="main" lang="kor" page="36" n="13">(아희) 여보 한숨 쉴ㅅ 것 무엇이오</sent>
+<sent type="main" lang="kor" page="36" n="14">나도 부친을 일즉 여의고 모친 시하에 형세가 구차야</sent>
+<sent type="main" lang="kor" page="36" n="15">지금 나이 십이 되도록 쟝가도 못 들엇더니</sent>
+<sent type="main" lang="kor" page="36-37" n="16">하님이 지시를 야 오날 아씨튼 일등 미이 졀노 자 왓시니</sent><!--미이 ^ 졀노-->
+
+<sent type="main" lang="kor" page="37" n="01">감샤 말은 니로 칭냥 업소</sent>
+<sent type="main" lang="kor" page="37" n="02">이러 란리 난 세샹에 튼 부인이 혼 단니면 별별 일이 만은 법인데 허다 집을 다 바리고 그시  집으로 오셧스니</sent><!--'별별'의 뒤쪽 '별'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="37" n="03">이거슨  텬뎡필이요</sent>
+<sent type="main" lang="kor" page="37" n="04">부  각 두지 말고 나와 치 년로 야</sent>
+<sent type="main" lang="kor" page="37" n="05">아달 낫코  나아서 쟝가 보고 시집 보고 미 보면 그 안이 됴켓소</sent>
+<sent type="main" lang="kor" page="37" n="06">부인의게도 됴코 게도 됴코 모도 다한 일이요</sent>
+<sent type="main" lang="kor" page="37" n="07">(부인) 후-</sent>
+<sent type="main" lang="kor" page="37" n="08">(아놈) 여보 넘어 됴와서 그리시오^</sent>
+<sent type="main" lang="kor" page="37" n="09">웨 한숨은 그리 쉬오</sent>
+<sent type="main" lang="kor" page="37" n="10">어서 밥이나 시오</sent>
+<sent type="main" lang="kor" page="37" n="11">더니 불문곡딕 고 밥샹을 압흐로 닥아 놋코</sent>
+<sent type="main" lang="kor" page="37" n="12">우리 두리 치 먹읍시다</sent>
+<sent type="main" lang="kor" page="37" n="13">서울서 이런 보리밥 구경엿겟소</sent>
+<sent type="main" lang="kor" page="37" n="14">버리밥  됴ㅅ슴닌다</sent>
+
+<sent type="main" lang="kor" page="38" n="01">는 모양을 보니</sent>
+<sent type="main" lang="kor" page="38" n="02">부인이 어이 업고 긔가 막혀 먼 산만 바라보고 눈물만 흘니다가</sent>
+<sent type="main" lang="kor" page="38" n="03">암만 도 그놈의 거동을 아 볼 수 업는지라</sent>
+<sent type="main" lang="kor" page="38" n="04">혼 각으로</sent>
+<sent type="main" lang="kor" page="38" n="05">어제 말군놈은 피 디인 고로 집으로 가서 살쟈고 속이기나 하엿지만은</sent>
+<sent type="main" lang="kor" page="38" n="06">오날은 이놈의 집을  와서 이 디경을 당엿시니</sent>
+<sent type="main" lang="kor" page="38" n="07">가마에 든 고기요</sent>
+<sent type="main" lang="kor" page="38" n="08">됴롱에 든 가 되야 어로 다라날 수도 업고 엇지면 됴탄 말인고</sent>
+<sent type="main" lang="kor" page="38" n="09">고 잠시 각는 헤</sent>
+<sent type="main" lang="kor" page="38" n="10">한 게교를 뎡고 아모커나 한 번 시험여 볼 쟉뎡으로 안을 졍이 하고</sent>
+<sent type="main" lang="kor" page="38" n="11">그놈을 향야 하는 말이</sent>
+<sent type="main" lang="kor" page="38" n="12">여보게 총각  말 좀 듯게</sent>
+<sent type="main" lang="kor" page="38" n="13">(아희놈) 녜 무슨 말이오</sent>
+<sent type="main" lang="kor" page="38" n="14">(부인) 여보게 밥 치 먹기가 급지 안인즉 밥샹 뎌리 돌녀 놋코 자시게</sent>
+
+<sent type="main" lang="kor" page="39" n="01">나는 가 압하 먹을 수가 업네</sent>
+<sent type="main" lang="kor" page="39" n="02">시댱데 총각이나 어서 먹고 살 의논이나 하세</sent>
+<sent type="main" lang="kor" page="39" n="03">(아희놈) 어 그리합시다</sent>
+<sent type="main" lang="kor" page="39" n="04">며 밥샹을 돌녀 놋코</sent>
+<sent type="main" lang="kor" page="39" n="05">부인의 말 듯기예 급야 범 본 놈의 창 구멍 틀어막듯 밋쳐 씹도 안코</sent>
+<sent type="main" lang="kor" page="39" n="06">슌식간에  먹고 나서 밥샹도 밋쳐 치지 안코 도라안즈며</sent>
+<sent type="main" lang="kor" page="39" n="07">어  부르군</sent>
+<sent type="main" lang="kor" page="39" n="08">아씨는 시쟝하시겟소</sent>
+<sent type="main" lang="kor" page="39" n="09">(부인) 시댱면 먹지만 밥 각이 업서</sent>
+<sent type="main" lang="kor" page="39" n="10">(아희놈)그러면 악가  먹고 의론하쟈는 말이나 합시다</sent>
+<sent type="main" lang="kor" page="39" n="11">(부인) 여보게 의쥬 파발에도 곱을 눈다는데 그리 급할ㅅ 것 잇나</sent>
+<sent type="main" lang="kor" page="39" n="12">(아희놈) 어 남의 졍도 넘오 몰오시오</sent>
+<sent type="main" lang="kor" page="39" n="13">나이 십이 되도록 쟝가를 못 든 놈이 엇지 급지 안탄 말이오</sent>
+
+<sent type="main" lang="kor" page="40" n="01">부인이 긔가 막혀 분 마음으로 말하면 당댱에 상을 들어 메치고</sent>
+<sent type="main" lang="kor" page="40" n="02">목이라도 여 쥭고 십지마는 진퇴유곡이 되야 졀에 간 시라</sent>
+<sent type="main" lang="kor" page="40" n="03">분한 마음을 쥬리 듯 고 됴흔 말노 하는 말이</sent>
+<sent type="main" lang="kor" page="40" n="04">여보게 총각 네 집 모양을 본즉 오 구챠니</sent>
+<sent type="main" lang="kor" page="40" n="05">아모리 살고 십흔들 엇더케 살 수 잇나</sent>
+<sent type="main" lang="kor" page="40" n="06">(아희놈) 녜 걱졍 마시오</sent>
+<sent type="main" lang="kor" page="40" n="07">두 외 손만 마지면 못 사는 법도 업고</sent>
+<sent type="main" lang="kor" page="40" n="08">졍만 들면 굴머도 샹관 업슬 터이구</sent>
+<sent type="main" lang="kor" page="40" n="09"> 아조 굴머서야 살겟소</sent>
+<sent type="main" lang="kor" page="40" n="10">나는 나무 쟝하고</sent>
+<sent type="main" lang="kor" page="40" n="11">어머니는  쟝하고</sent>
+<sent type="main" lang="kor" page="40" n="12">아씨는 바느질품이나 팔면 부쟈 불어울 것 업스니</sent>
+<sent type="main" lang="kor" page="40" n="13">그런 걱졍은 마오</sent>
+<sent type="main" lang="kor" page="40" n="14">며 제 어미를 도라보며</sent>
+<sent type="main" lang="kor" page="40" n="15">자 어머니  말이 올치 안소</sent>
+<sent type="main" lang="kor" page="40" n="16">(할미) 응 그러쿠 말구</sent>
+<sent type="main" lang="kor" page="40" n="17">그러케만 되면 무슨 걱졍이 잇나</sent>
+<sent type="main" lang="kor" page="40" n="18">(부인) 그리 말고  말만  들으면 됴흘 도리가 잇스니 들을 터인가</sent><!--들을 ^ 터인가-->
+
+<sent type="main" lang="kor" page="41" n="01">(아희놈) 듯고 말구 여부 잇소</sent>
+<sent type="main" lang="kor" page="41" n="02">나더러 쥭으라면  쥭든 못도 쥭는 모양은 할 터이니</sent>
+<sent type="main" lang="kor" page="41" n="03">디톄 말고 어서 말이나 하오</sent>
+<sent type="main" lang="kor" page="41" n="04">에구 답답여 쥭겟소</sent><!--'답답여'의 뒤쪽 '답'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="41" n="05">(부인) 자 그러면 몃 날만 디나서는 아조 놋코 살게 만들고</sent>
+<sent type="main" lang="kor" page="41" n="06">아직은 이런 말 지 말고</sent>
+<sent type="main" lang="kor" page="41" n="07">혹 누가 물어도 나를 총각의 일가 집 녀편네라고 게</sent>
+<sent type="main" lang="kor" page="41" n="08">(아희놈) 녜 그게야 어려올ㅅ 것 잇소</sent>
+<sent type="main" lang="kor" page="41" n="09">그러케 여 일만 잘 된다면 일가는 말고 우리 할머니라 여도 샹관 업시니</sent>
+<sent type="main" lang="kor" page="41" n="10">그것은 걱졍 마시오</sent>
+<sent type="main" lang="kor" page="41" n="11">(부인) 그러면 됴흔 도리가 잇스니</sent>
+<sent type="main" lang="kor" page="41" n="12">나는 이왕에 시집도 가 보앗거니와</sent>
+<sent type="main" lang="kor" page="41" n="13">총각은 처음 쟝가가 안인가</sent>
+<sent type="main" lang="kor" page="41" n="14">(아희놈) 그는 그</sent>
+
+<sent type="main" lang="kor" page="42" n="01">(부인) 위션 일이나 하여 관례나 하고</sent>
+<sent type="main" lang="kor" page="42" n="02">혼인날을 바다 술이나 쟉만고</sent>
+<sent type="main" lang="kor" page="42" n="03">근동 사이나 쳥야 잔나 지고</sent>
+<sent type="main" lang="kor" page="42" n="04">서로 외가 되면 총각의게도  일이고</sent>
+<sent type="main" lang="kor" page="42" n="05">그러치 안코 아못 말 업시 구렁이 담 넘어가듯 슬며시 남 모로게 살다가 만일 소문이 나면</sent>
+<sent type="main" lang="kor" page="42" n="06">고약 놈들이 남의 유부녀 여다 산다고 집탈이나 면 답할 말도 업고</sent>
+<sent type="main" lang="kor" page="42" n="07"> 관가에서 알고 총각을 잡어다가</sent>
+<sent type="main" lang="kor" page="42" n="08">쥬리를 안기고 근지를 고 보면</sent>
+<sent type="main" lang="kor" page="42" n="09"> 총각은 경은 경로 치고 게집은 일은 것이오</sent>
+<sent type="main" lang="kor" page="42" n="10">나는 산 셔방 버리고 다른 셔방 엿다고 관비 뎡속이나 될 터이니</sent>
+<sent type="main" lang="kor" page="42" n="11">총각이나 나 피간 그런 낭가 어듸 잇겟나</sent>
+<sent type="main" lang="kor" page="42" n="12">그 안이라 그저 살고 보면 총각도 나를 밋지 못고</sent>
+<sent type="main" lang="kor" page="42" n="13">나도 춍각을 밋지 못할 것이니</sent>
+<sent type="main" lang="kor" page="42" n="14">텬디신명과 세샹 사이 알게 외가 되면 서로 미덥기도 고</sent>
+<sent type="main" lang="kor" page="42" n="15">다른 인들 무슨 의심이 잇나</sent>
+
+<sent type="main" lang="kor" page="43" n="01">(아희놈) 녜 부인의 말이 당연하나</sent>
+<sent type="main" lang="kor" page="43" n="02"> 집 형세가 구야 그러케 할 긔구가 업슨즉</sent>
+<sent type="main" lang="kor" page="43" n="03">엇지면 죠탄 말이오</sent>
+<sent type="main" lang="kor" page="43" n="04">(부인) 허 이 사아 총각의 집도 구챠고</sent>
+<sent type="main" lang="kor" page="43" n="05">아모 슈가 업는 쥴 짐쟉 못하나</sent>
+<sent type="main" lang="kor" page="43" n="06">잔를 하쟈면 돈 가지고야 될 거신데 엇지야</sent>
+<sent type="main" lang="kor" page="43" n="07">총각이 안 복이 잇서든지</sent>
+<sent type="main" lang="kor" page="43" n="08">가 남편 복이 잇섯든지</sent>
+<sent type="main" lang="kor" page="43" n="09">우연이 서로 맛나 이 디경이 되엿시니</sent>
+<sent type="main" lang="kor" page="43" n="10">무슨 일이든지 세샹만가 되도록 여야 당연데</sent>
+<sent type="main" lang="kor" page="43" n="11">공연이 안저서 헷걱졍이나 고 빈 한숨이나 쉬면 쓸데 잇나</sent>
+<sent type="main" lang="kor" page="43" n="12"> 되도록 힘써 볼ㅅ가</sent>
+<sent type="main" lang="kor" page="43" n="13">(아희놈) 녜 그러면 아못됴록 되게만 하시오</sent>
+<sent type="main" lang="kor" page="43" n="14">(부인) 글세 말일세</sent>
+<sent type="main" lang="kor" page="43" n="15">(아희놈) 허 어서 말을 하시오</sent>
+<sent type="main" lang="kor" page="43" n="16">부인이 돈 변통을 할 터이란 말이오</sent>
+<sent type="main" lang="kor" page="43" n="17">(부인) 가만 잇게</sent>
+<sent type="main" lang="kor" page="43" n="18">각을 좀 하여 보아야 하겟네</sent>
+
+<sent type="main" lang="kor" page="44" n="01">(아희놈) 앗다 나는 무슨 마련이 잇다고</sent>
+<sent type="main" lang="kor" page="44" n="02">이제 각여 가지고 급한 노릇에 언제 되겟소</sent>
+<sent type="main" lang="kor" page="44" n="03">(부인) 허 그 사 젼에 가서 밥 찻고 우물에 가서 숙 달나네</sent>
+<sent type="main" lang="kor" page="44" n="04">뎌러케 급면 나이 십이 되도록 엇지 엇나</sent>
+<sent type="main" lang="kor" page="44" n="05">(아희놈) 한 말이로군</sent>
+<sent type="main" lang="kor" page="44" n="06">견몰심(見物生心)이라고 그 젼에도 마음에 업는 거슨 안이지만</sent>
+<sent type="main" lang="kor" page="44" n="07">아씨치 예 사람을 한 방에 이러케 갓가이 하야 보니</sent>
+<sent type="main" lang="kor" page="44" n="08">사의 간쟝이 슬슬 녹는 판에 속에서 불이 엇지 안이 난단 말이오</sent>
+<sent type="main" lang="kor" page="44" n="09">(부인) 그러면 여긔서 양근읍이 몃 리나 되누</sent>
+<sent type="main" lang="kor" page="44" n="10">(아희놈) 허허 뭇난 말은 답을 안이고 엉 양근읍은 웨 뭇소</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="44" n="11">(부인) 그러면 튱쥬 장호원은 몃 리나 되누</sent>
+<sent type="main" lang="kor" page="44" n="12">(아희놈) 허 그것 </sent>
+<sent type="main" lang="kor" page="44-45" n="13">그러케 왕쳥되게 뭇다가는 나죵에 셔양국이 몃 리니</sent><!--셔양^국이-->
+
+<sent type="main" lang="kor" page="45" n="01">일본국이 몃 리니 뭇소구려</sent>
+<sent type="main" lang="kor" page="45" n="02">(부인) 그러할 리가 잇나</sent>
+<sent type="main" lang="kor" page="45" n="03">양근읍이 쟝호원을 알어야 일이 잘 될 터이야</sent>
+<sent type="main" lang="kor" page="45" n="04">(아희놈) 예 그러면 양근읍은 십 리요 쟝호원은 구십 리나 되지오만은</sent>
+<sent type="main" lang="kor" page="45" n="05">(부인) 다름 안이라 총각이 나 쇼용 업시 걱졍만 면 쓸데 잇나</sent>
+<sent type="main" lang="kor" page="45" n="06">양근읍 홍평양이라 한 집이 잇데</sent>
+<sent type="main" lang="kor" page="45" n="07">그 집 쥬인이 우리 친졍 부친과 듁마고우로 졍분이 여타자별  터이라</sent>
+<sent type="main" lang="kor" page="45" n="08">만일 가 란리에 겨 여긔 와서 로자  푼 업셔 오도가도 못다 말노</sent>
+<sent type="main" lang="kor" page="45" n="09">편지고 돈 간 구졔야 쥬어야 이 군을 면고</sent>
+<sent type="main" lang="kor" page="45" n="10">로슈를 야 친졍으로 가겟다 면 뎡령 낭를 식이지 안일  십흐니</sent>
+<sent type="main" lang="kor" page="45" n="11">총각이 이 길로 곳 가서 그 돈을 바다 가지고 와서</sent>
+<sent type="main" lang="kor" page="45-46" n="12">우리의 혼인 제구나 쟉만야 잔나 지 후에 홍평양 모로게 엇에로 나가면 그 안이 죠켓나</sent><!--모로게 ^ 엇에로-->
+
+<sent type="main" lang="kor" page="46" n="01">(아희놈) 여보 그 그러거니와 쟝호원은 엇지 물엇소</sent>
+<sent type="main" lang="kor" page="46" n="02">(부인) 응 쟝호원은 우리 친졍이지</sent>
+<sent type="main" lang="kor" page="46" n="03">(아희놈) 그러면 엇지 친졍으로 긔별은 안코 양근읍으로 편지를 한다 시오</sent>
+<sent type="main" lang="kor" page="46" n="04">(부인) 응 총각의 말도 글얼 듯 쟝호원은 여긔서 멀고 양근읍은 여긔서 갓가온즉</sent>
+<sent type="main" lang="kor" page="46" n="05">총각이 나 급 마음에 하로 밧비 혼인을 쟈 즉</sent>
+<sent type="main" lang="kor" page="46" n="06">불가불 갓가온 로 할 슈밧게 잇나</sent>
+<sent type="main" lang="kor" page="46" n="07">(아희놈) 예 부인의 경륜은 참 신츌귀몰 오</sent>
+<sent type="main" lang="kor" page="46" n="08">그러면 어서 편지를 써서 시오</sent>
+<sent type="main" lang="kor" page="46" n="09">이 길노 갓다가</sent>
+<sent type="main" lang="kor" page="46" n="10">일 아 이만면 단여올 것이니</sent>
+<sent type="main" lang="kor" page="46" n="11">(부인) 그러나 져러나 총각은 글이나 할 쥴을 아지</sent>
+<sent type="main" lang="kor" page="46-47" n="12">(아희놈) 흥 흉년의 게글은 알지오마는 졍말 글은 낫 놋코 기역 도 모른다오</sent><!--기^역-->
+
+<sent type="main" lang="kor" page="47" n="01">부인이 속마음에 헤오</sent>
+<sent type="main" lang="kor" page="47" n="02">져놈이 글을 모른다 니 불 즁 다이라 고</sent>
+<sent type="main" lang="kor" page="47" n="03">붓을 들고 젼후 고 말이며</sent>
+<sent type="main" lang="kor" page="47" n="04">이놈의게 욕을 보게 된 졍경을 세세이 긔록여 쥬며</sent><!--'세세이'의 뒤쪽 '세'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="47" n="05">(부인) 여보게 이 편지를 부 남 못 보게 간슈여 가지고 가소</sent>
+<sent type="main" lang="kor" page="47" n="06">만일 타인이 보게 되면 아모 일도 안이 될 것이오</sent>
+<sent type="main" lang="kor" page="47" n="07">앗가 말로 총각이 나 경만 칠 것이니 부 조심소</sent>
+<sent type="main" lang="kor" page="47" n="08">(아희놈) 예 그것은 걱졍 마오만은 가 글을 못야 갑갑니</sent><!--'갑갑니'의 뒤쪽 '갑'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="47" n="09">나 듯 데 좀 읽어 들니시오</sent>
+<sent type="main" lang="kor" page="47" n="10">(부인이) 그리라 고 편지를 펼쳐 들고</sent>
+<sent type="main" lang="kor" page="47" n="11">그놈 듯기 좃토록 거츳말을 여 닐아</sent>
+<sent type="main" lang="kor" page="47" n="12">어렷슬 는 여러 번 뵈와</sent>
+<sent type="main" lang="kor" page="47" n="13">친부형이나 다름 업시 지옵고</sent>
+<sent type="main" lang="kor" page="47" n="14">친자녀와 갓치 사랑시더니</sent>
+<sent type="main" lang="kor" page="47-48" n="15">셩인의 말에 사나히와 게집아희가 칠 세붓터 한 자리에 안지 말나 와 남녀지별이 즁옵기로</sent><!--게집아희^가-->
+
+<sent type="main" lang="kor" page="48" n="01">십 세 후에 뵈압지 못엿오며</sent>
+<sent type="main" lang="kor" page="48" n="02">쟝셩 후 서울노 츌가옴 문안은 죵죵 들엇오나</sent><!--'죵죵'의 뒤쪽 '죵'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="48" n="03">뵈올 길이 업와 양 간졀이 지옵드니</sent>
+<sent type="main" lang="kor" page="48" n="04">시운이 볼여 란리를 당와 부지불각에 로자돈 한 푼 업시</sent>
+<sent type="main" lang="kor" page="48" n="05">두 외 문 밧게 나와서 간신이 마삭과 교군을 외샹으로 시골 가서 쥬마 하고</sent>
+<sent type="main" lang="kor" page="48" n="06">이 곳에 와서 권도가 죨연이 병이 나서 불셩인사와 나지 못고</sent>
+<sent type="main" lang="kor" page="48" n="07">몃츨을 유련다가</sent>
+<sent type="main" lang="kor" page="48" n="08">지금은 병이 더야 회츈할 길이 업</sent>
+<sent type="main" lang="kor" page="48" n="09">마부와 교군은 삭젼 라고 주인은 밥 갑 라고 야 곤욕이 자심나</sent>
+<sent type="main" lang="kor" page="48" n="10">슈즁에 푼젼이 업고 각다 못야 귀을 무른즉</sent>
+<sent type="main" lang="kor" page="48" n="11">불과 사십 리라 하압기로</sent>
+<sent type="main" lang="kor" page="48" n="12">불고념치고 글월을 올니오니</sent>
+<sent type="main" lang="kor" page="48" n="13">젼일 사랑시든 졍리를 각시와 젼 간 구쳐야 쥬시면 댱쟝 욕도 면고</sent>
+<sent type="main" lang="kor" page="48" n="14">죽게 된 가쟝을 다리고 서울노 가든지 친졍으로 가옵든지</sent>
+
+<sent type="main" lang="kor" page="49" n="01">온 후에 실신 안코 갑게오니</sent>
+<sent type="main" lang="kor" page="49" n="02">쳔만하량 옵서 쥭게 된 목슘을 살녀 쥬옵소셔</sent>
+<sent type="main" lang="kor" page="49" n="03">이 총각 아희 쥬막 쥬인의 아달이오니</sent>
+<sent type="main" lang="kor" page="49" n="04">쥬인의게 신세도 만이 졋온즉</sent>
+<sent type="main" lang="kor" page="49" n="05">접이나 잘여 보시압소셔</sent>
+<sent type="main" lang="kor" page="49" n="06">허다한 연 일필난긔와 강 고압이다</sent>
+<sent type="main" lang="kor" page="49" n="07">이럿틋 읽어 들니니</sent>
+<sent type="main" lang="kor" page="49" n="08">그놈의 입이 팟자루 버러지듯 며 할미를 도라보고</sent>
+<sent type="main" lang="kor" page="49" n="09">(아희놈) 어머니 가 안 복도 죳커니와</sent>
+<sent type="main" lang="kor" page="49" n="10">어머니 며나리 복이 죠은 모양이오</sent>
+<sent type="main" lang="kor" page="49" n="11">인제야 어머니가 늣게 허리을 느치시겟소</sent>
+<sent type="main" lang="kor" page="49" n="12">(할미) 허허 죠흘시고</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="49" n="13">그 다 일을 말이냐</sent>
+<sent type="main" lang="kor" page="49" n="14">너도 복이 잇기에 져러 안를 맛낫지만 그것이 모다  복일다</sent>
+<sent type="main" lang="kor" page="49" n="15">여러 말 고만두고 어서 갓다 오너라</sent>
+<sent type="main" lang="kor" page="49" n="16">그놈이 레 감발을 단속고</sent>
+<sent type="main" lang="kor" page="49" n="17">참나무 쟉닥이을 구루 집고</sent>
+<sent type="main" lang="kor" page="49-50" n="18">편지를 보에 싸서 허리에 돌녀 차고</sent><!--편^지를-->
+
+<sent type="main" lang="kor" page="50" n="01">무슨 큰 수나 날 듯이 막를 질질 고 다름박질 야</sent><!--'질질'의 뒤쪽 '질'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="50" n="02">오후 한 시즘 여 양근읍 홍평양 집을 차저 가서 사랑 압헤 들어가 편지를 올니니</sent><!--'올니니'의 뒤쪽 '니'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="50" n="03">잇 홍평양 집 사랑에 여러 사이 모여 안자 서울 란리  이약이를  차에</sent>
+<sent type="main" lang="kor" page="50" n="04">엇더 아희놈이 언문 편지를 들이거늘 밧어 보니 여시되</sent>
+<sent type="main" lang="kor" page="50" n="05">어려서 친졍에 잇슬  존안을 자조 뵈와 친부녀 다름 업시 지옵다가</sent>
+<sent type="main" lang="kor" page="50" n="06">남녀유별은 례법에 뎡 바오</sent>
+<sent type="main" lang="kor" page="50" n="07">남가녀혼은 인류의 큰일이라</sent>
+<sent type="main" lang="kor" page="50" n="08">그런고로 십 세 이후 뵈압지 못압고</sent>
+<sent type="main" lang="kor" page="50" n="09">인와 서울노 츌가 후 문안은 죵죵 들엇오</sent><!--'죵죵'의 뒤쪽 '죵'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="50" n="10">다시 뵈올 길 업와 간졀 마음이 깁고 깁더니</sent>
+<sent type="main" lang="kor" page="50" n="11">인간의 일이 만코 시운이 불와</sent>
+<sent type="main" lang="kor" page="50" n="12">란리를 맛 무망결에 두 외 뷘 손목만 잡고 로자  푼 업시 나셧다가</sent>
+<sent type="main" lang="kor" page="50" n="13">왕십리 디경에 와서 다리가 압푸고 발이 부어서 촌보를 갈 수 업와</sent>
+<sent type="main" lang="kor" page="50-51" n="14">지가 마삭을 어더 타고 오다가</sent><!--오^다가-->
+
+<sent type="main" lang="kor" page="51" n="01">불냥 마부놈의 속인 바 되어 즁노에서 가쟝을 일고</sent>
+<sent type="main" lang="kor" page="51" n="02">밤즁에 산을 넘고 물을 건너 쳔신만고로 간신이 욕을 면고 오노라고 오 것이</sent>
+<sent type="main" lang="kor" page="51" n="03">불이 이 편지 가지고 가 놈의 집으로 와서 져간 곤욕을 일구난셜이오며</sent>
+<sent type="main" lang="kor" page="51" n="04">이놈의 불측 거동과 위험 겁욕은 이왕 마부놈의 게 비할  안이라</sent>
+<sent type="main" lang="kor" page="51" n="05">할 일업서 이놈을 속이고 이여서 귀으로 보오니</sent>
+<sent type="main" lang="kor" page="51" n="06">궁도 잇 사을 구졔은 군의 임이라</sent>
+<sent type="main" lang="kor" page="51" n="07">모로 사이라도 이 당연거든 황 친부녀나 다름 업고</sent>
+<sent type="main" lang="kor" page="51" n="08">친졍 부친과 지시든 졍리의 쥭게 된 것을 드르시고</sent>
+<sent type="main" lang="kor" page="51" n="09">구치 안이실 수 잇잇가</sent>
+<sent type="main" lang="kor" page="51" n="10">아직 몸은 보젼엿스나</sent>
+<sent type="main" lang="kor" page="51" n="11">목숨은 쥭은 모양이외다</sent>
+<sent type="main" lang="kor" page="51" n="12">당댱에 자결이라도 할 터이오나</sent>
+<sent type="main" lang="kor" page="51" n="13">이 곳에서 쥭고 보면 누가 쥭은 쥴도 모로고</sent>
+<sent type="main" lang="kor" page="51" n="14">셜원할 날이 업기로 이럿틋 알외오니</sent>
+<sent type="main" lang="kor" page="51-52" n="15">어디신 덕을 입와 이놈을 결박여 압세시고</sent><!--압^세우고-->
+
+<sent type="main" lang="kor" page="52" n="01">인마를 보여 사을 살니옵소셔</sent>
+<sent type="main" lang="kor" page="52" n="02">만일 그러치 안으면 쳔츄의 루명을 입어 원혼이 될지라도 쥭기를 쟉졍이오니</sent>
+<sent type="main" lang="kor" page="52" n="03">이갓치 원통 일을 세상에 발명이나 여 쥬시기를 쳔만 바라오며</sent>
+<sent type="main" lang="kor" page="52" n="04">칼을 목에 언고 기다리옵니다</sent>
+<sent type="main" lang="kor" page="52" n="05">모년 월일에 경셩 뎐동 권도사 실인 쟝호원 리진의 녀식 아모 상셔라 엿더라</sent>
+<sent type="main" lang="kor" page="52" n="06">아희놈은 편지를 올닌 후에 홍평양의 눈치만 바라보고</sent>
+<sent type="main" lang="kor" page="52" n="07">기동 모통이에 안졋다 셧다 며 혼자말노</sent>
+<sent type="main" lang="kor" page="52" n="08">세상에 나갓튼 사은 무식야 편지를 보지 못거니와</sent>
+<sent type="main" lang="kor" page="52" n="09">져 냥반은 외양으로 보드라도 글자이나 할 듯한데</sent>
+<sent type="main" lang="kor" page="52" n="10">무슨 편지를 져다지 오 보고 잇노</sent>
+<sent type="main" lang="kor" page="52" n="11">로 외일나 나베</sent>
+<sent type="main" lang="kor" page="52" n="12">남의 급 사졍도 퍽 모르구 며</sent>
+<sent type="main" lang="kor" page="52" n="13">돈 쥴 만 기다리더니</sent>
+<sent type="main" lang="kor" page="52" n="14">하인 부르 소가 나거늘</sent>
+
+<sent type="main" lang="kor" page="53" n="01">올타 인제 돈을 쥬랴나 보다</sent>
+<sent type="main" lang="kor" page="53" n="02">며 문 압흐로 갓가이 도라오더라</sent>
+<sent type="main" lang="kor" page="53" n="03">홍평양이 편지를 다 본 후에 영창을 미러 치며 소를 벽력갓치 질너 하인을 부른다</sent>
+<sent type="main" lang="kor" page="53" n="04">검돌아-</sent>
+<sent type="main" lang="kor" page="53" n="05">(검돌) 예-</sent>
+<sent type="main" lang="kor" page="53" n="06">(홍평양) 네 안에 들어가서 쥴 두엇고 졀구공이 둘만허고 말 나만 여 오너라</sent>
+<sent type="main" lang="kor" page="53" n="07">(검돌) 예-</sent>
+<sent type="main" lang="kor" page="53" n="08">고 안으로 들어가거늘 아희놈 각에</sent>
+<sent type="main" lang="kor" page="53" n="09">무슨 돈을 야단스럽게 쥬라 보다</sent>
+<sent type="main" lang="kor" page="53" n="10">돈만 쥬면 가 엇더케 가져 가든지 굿타야 말에 담어 줄노 묵거 쥬려나</sent>
+<sent type="main" lang="kor" page="53" n="11"> 절구공이 무엇려노</sent>
+
+<sent type="main" lang="kor" page="54" n="01">며 하인 나오기만 기다리더니</sent>
+<sent type="main" lang="kor" page="54" n="02">거무하에 하인놈이 쥴은 말에 담고</sent>
+<sent type="main" lang="kor" page="54" n="03">졀구공이 엽헤 고 나와셔 마당에 놋코</sent>
+<sent type="main" lang="kor" page="54" n="04">다 다 노얏슴니다</sent>
+<sent type="main" lang="kor" page="54" n="05">(홍평양) 오 그려면 네 거긔 셧 져 아희놈 잡어 여 잔득 결박여 말 등에 니고</sent>
+<sent type="main" lang="kor" page="54" n="06">졀구공이로 억지가 부러지오록 쥬리를 틀어라</sent>
+<sent type="main" lang="kor" page="54" n="07">니 검돌이가 나 듯이 달녀들어 움파갓튼 손을 들어 눈에 불이 번적 나게 을 훔쳐 치며</sent>
+<sent type="main" lang="kor" page="54" n="08">뒷덜미를 턱 집고 발길노 이리 차고 져리 차며</sent>
+<sent type="main" lang="kor" page="54" n="09">러 여 결박을 잔득 지워 말에 니고</sent>
+<sent type="main" lang="kor" page="54" n="10">졀구공이를 억지에 마조 지르니</sent>
+<sent type="main" lang="kor" page="54" n="11">(홍평양) 이놈들 다 엇이 갓느냐</sent>
+<sent type="main" lang="kor" page="54" n="12">소리가 러지니 여러 하인놈들이 일제이 달녀들어 여울목에 사공놈 사질 듯 졀구공이를 벗적벗적 누르지라</sent><!--'벗적벗적'의 뒤쪽 '벗적'은 원문에 재점으로 되어 있음.-->
+
+<sent type="main" lang="kor" page="55" n="01">(아희놈) 구구-</sent><!--'구구'의 뒤쪽 '구'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="55" n="02">소인이 무슨 죄가 잇기예 이리심닛가</sent>
+<sent type="main" lang="kor" page="55" n="03">돈을 안이 쥬러거든 거저 그만두시지</sent>
+<sent type="main" lang="kor" page="55" n="04">쥬리이를 안기심은 웬일이오닛가</sent>
+<sent type="main" lang="kor" page="55" n="05">(홍평양) 이놈- 괴이 놈</sent>
+<sent type="main" lang="kor" page="55" n="06">돈은 엇졘 돈이란 말이냐</sent>
+<sent type="main" lang="kor" page="55" n="07">(아희놈) 소인은 심부림이나 온 터인</sent>
+<sent type="main" lang="kor" page="55" n="08">편지에 돈 말 웨 업슴닛가</sent>
+<sent type="main" lang="kor" page="55" n="09">(홍평양) 져놈 아가리를 짓여라</sent>
+<sent type="main" lang="kor" page="55" n="10">무슨 잔말인고</sent>
+<sent type="main" lang="kor" page="55" n="11">네 죄를 네가 몰으 체고</sent>
+<sent type="main" lang="kor" page="55" n="12">아모리 란리  세상인들 심코 사부 부녀를 겁욕을 하려 들어</sent>
+<sent type="main" lang="kor" page="55" n="13">너갓흔 놈은 당쟝 쥭여도 죄가 남을 터이니</sent>
+<sent type="main" lang="kor" page="55" n="14">이 눔 쥭어 보아라</sent>
+<sent type="main" lang="kor" page="55" n="15">(아희놈) 구구 구구 사 살녀 쥽시샤</sent><!--'구구 구구'의 뒤쪽 '구', '구구'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="55" n="16">저는 아모 죄도 업슴니다</sent>
+<sent type="main" lang="kor" page="55" n="17">편지를 잘못 보신 듯 오니</sent>
+<sent type="main" lang="kor" page="55" n="18">다시 자셔이 보십시오</sent>
+<sent type="main" lang="kor" page="55" n="19">(홍평양) 져런 쥭일 놈</sent>
+<sent type="main" lang="kor" page="55-56" n="20">너 이놈아 편지를 잘못 본 듯 십허 편지를 다시 닑을 테니</sent><!--편지^를-->
+
+<sent type="main" lang="kor" page="56" n="01">네 귀로 자셔이 듯거라</sent>
+<sent type="main" lang="kor" page="56" n="02">며 편지를 펴 들고 소를 놉혀 읽어 들이니</sent>
+<sent type="main" lang="kor" page="56" n="03">그제야 그놈이 머리를 숙이고 아모 말도 못고</sent>
+<sent type="main" lang="kor" page="56" n="04">다만 쥭을 라 법을 모르고 그리 되엿오니</sent>
+<sent type="main" lang="kor" page="56" n="05">살녀 쥬옵소셔</sent>
+<sent type="main" lang="kor" page="56" n="06">홍평양이 소리를 질너 갈아</sent>
+<sent type="main" lang="kor" page="56" n="07">이놈 너를 당쟝 법사로 보여 죽일 터이나</sent>
+<sent type="main" lang="kor" page="56" n="08">네 집이 어인지 너를 잡아 압세우고 가서 권도 아씨를 뫼셔 와야 할 터인 고로</sent>
+<sent type="main" lang="kor" page="56" n="09">아직 용셔 쥴 알녓다</sent>
+<sent type="main" lang="kor" page="56" n="10">고 하인을 불너 쟝독교를 엿 놋코</sent>
+<sent type="main" lang="kor" page="56" n="11">검돌의 부쳐를 불너 이르되</sent>
+<sent type="main" lang="kor" page="56" n="12">너의 외가 여러 인들 더리고 져놈의 집에 가셔 권도 아씨를 뫼시고</sent>
+<sent type="main" lang="kor" page="56" n="13">조곰도 디체 말고 밤도아 으로 모셔 오되</sent>
+<sent type="main" lang="kor" page="56" n="14">가 답장도 못니</sent>
+<sent type="main" lang="kor" page="56" n="15">그 아씨의게  말노 뎌갈을 여라</sent>
+
+<sent type="main" lang="kor" page="57" n="01">지신 환란은 엇더타고 엿쥬을 슈 업고</sent>
+<sent type="main" lang="kor" page="57" n="02">나는 긔별 듯고 심이 놀고 챡급와 곳 가서 보려나</sent>
+<sent type="main" lang="kor" page="57" n="03">마 몸이 편치 못야 심복 하인들을 보오니</sent>
+<sent type="main" lang="kor" page="57" n="04">짓톄 말고 곳 오십시샤 여라</sent>
+<sent type="main" lang="kor" page="57" n="05">금돌의 외가 명을 듯고</sent>
+<sent type="main" lang="kor" page="57" n="06">그 아희놈을 결박야 압셰우고 방망이로 억를 치며</sent>
+<sent type="main" lang="kor" page="57" n="07">이놈 네 집으로 니 가쟈 며 풍우갓치 모라가더라</sent>
+<sent type="main" lang="kor" page="57" n="08">잇  리씨 부인이 그놈을 보고 졍신 업시 뒷문 압헤 안저 권도사의 일과 자긔 신세를 각니</sent>
+<sent type="main" lang="kor" page="57" n="09">압히 캄캄여 눈물이 비오듯 </sent>
+<sent type="main" lang="kor" page="57" n="10"> 뒤동산 고목나무에 법국는 법국법국법 법국법국법 우지라</sent><!--'법국법국법'의 뒤쪽 '법국법'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="57" n="11">부인은 그 소를 유심이 듯다가</sent>
+<sent type="main" lang="kor" page="57" n="12">비창 마음이 일층 더야 눈물이 흘니며 탄식하 말이</sent>
+
+<sent type="main" lang="kor" page="58" n="01">야 야 법국야</sent><!--'야 야'의 뒤쪽 '야'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="58" n="02">하고 만은 무지공산 어 가서 못 울어셔 란리에 낭군 일코 외로온 몸이 쥭을 고을 다하다가</sent>
+<sent type="main" lang="kor" page="58" n="03">이 곳 와서 오도가도 못고 범의게 물닌 모양으로</sent>
+<sent type="main" lang="kor" page="58" n="04">넉을 일코 슬푼 사 압헤 와서 구곡간댱 사로느냐</sent>
+<sent type="main" lang="kor" page="58" n="05">나도 너와 갓치 나가 잇서스면 우리 낭군 잇 곳을 넉넉이  가서 이런 사졍이나 여 볼걸</sent><!--'넉넉이'의 뒤쪽 '넉'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="58" n="06">말을 치고 고 인 스름을 딘뎡키 어려워 목을 놋코 통곡지라</sent>
+<sent type="main" lang="kor" page="58" n="07">그  할미가 낫을 자다가</sent>
+<sent type="main" lang="kor" page="58" n="08">우름 소에 놀나 일어안즈며</sent>
+<sent type="main" lang="kor" page="58" n="09">여보 아씨 웨 우시오</sent>
+<sent type="main" lang="kor" page="58" n="10">혼인은 인간사라 큰일을 당여 방졍맛게 통곡은 무 일이오</sent>
+<sent type="main" lang="kor" page="58" n="11">아모 데나  정 들여 살면 고만이지</sent>
+<sent type="main" lang="kor" page="58" n="12">구 망측  다 보군</sent>
+<sent type="main" lang="kor" page="58" n="13">(부인) 안이오 가 무슨 다른 각이 잇서 운 것이 안이라</sent>
+<sent type="main" lang="kor" page="58-59" n="14">겨 오노라고 수죡이 모다 터져 피가 흐르고 몸이 압허 견 수 업서 올엇소</sent><!--^겨-->
+
+<sent type="main" lang="kor" page="59" n="01">며 친 거름에 구 다리야 구 팔이야 한밧탕 울다가</sent>
+<sent type="main" lang="kor" page="59" n="02">다시 졍신을 차려 보니</sent>
+<sent type="main" lang="kor" page="59" n="03">어언간 가 산머리에 넘어가며</sent>
+<sent type="main" lang="kor" page="59" n="04">원촌의 져녁 연긔가 자옥고</sent>
+<sent type="main" lang="kor" page="59" n="05">갈가마귀 를 지여 산속으로 나러 드지라</sent>
+<sent type="main" lang="kor" page="59" n="06">밤이 차챠 깁허 삼경이 되엿</sent>
+<sent type="main" lang="kor" page="59" n="07">마음이 더욱 죠급여 자리를 잡지 못고 들낙날낙 며 혼자말노</sent>
+<sent type="main" lang="kor" page="59" n="08">하날이 불샹이 녁이샤</sent>
+<sent type="main" lang="kor" page="59" n="09">홍평양 집에서  말로 되어시면 죠커니와</sent>
+<sent type="main" lang="kor" page="59" n="10">만일 그 집이 어로 낫든지 란리  인심에 듯지 안코</sent>
+<sent type="main" lang="kor" page="59" n="11">그놈을 그저 보면 엇지할고</sent>
+<sent type="main" lang="kor" page="59" n="12">만일 여의치 못하면 목을 질너 쥭으리라 더니</sent>
+<sent type="main" lang="kor" page="59" n="13">그렁져렁 밤즁이 되엿데 동구 밧서 사의 소리가 요고 홰불이 연고</sent>
+<sent type="main" lang="kor" page="59" n="14">슈십 명 인마가 동구를 덥허 들어오지라</sent>
+
+<sent type="main" lang="kor" page="60" n="01">부인이 긔다리든 마음에 반가와서 사립문 밧게 나가다가 다시 각즉</sent>
+<sent type="main" lang="kor" page="60" n="02">만일 홍평양 집에서 오 인마 갓트면 죠커니와</sent>
+<sent type="main" lang="kor" page="60" n="03">세샹 일을 측량치 못할지라</sent>
+<sent type="main" lang="kor" page="60" n="04">만일 불안당이든지 가 여긔 잇 소문이 나서 엇던 무뢰가 셔 가랴고 오지 알 슈 업스니</sent>
+<sent type="main" lang="kor" page="60" n="05">글럴 지경이면 죽으리라 고</sent>
+<sent type="main" lang="kor" page="60" n="06">찻던 장도칼을 여 손에 들고</sent>
+<sent type="main" lang="kor" page="60" n="07">부엌 뒤예 가서 숨어 동졍을 살피더라</sent>
+<sent type="main" lang="kor" page="60" n="08">거무하에 그 인마가 그 집으로 드러오며 압헤서 웬 놈이</sent>
+<sent type="main" lang="kor" page="60" n="09">어먼이 서울서 오신 아씨 거긔 게시오</sent>
+<sent type="main" lang="kor" page="60" n="10">사 죽소</sent>
+<sent type="main" lang="kor" page="60" n="11">쿠 쿠 사 살녀 쥽시오</sent><!--'쿠 쿠'의 뒤쪽 '쿠'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="60" n="12">며 뒤에셔 범강댱달리갓튼 하인들이 몽치를 들고 일변 그놈을 치며</sent>
+<sent type="main" lang="kor" page="60-61" n="13">일변 방문을 여러 붓치며 자든 할미를 잡어 여 을 이리 치고 져리 치며</sent><!--을 ^ 이리-->
+
+<sent type="main" lang="kor" page="61" n="01">(하인) 이 년아 졍신 차려라</sent>
+<sent type="main" lang="kor" page="61" n="02">늙은 년이 잠은 무슨 잠이야</sent>
+<sent type="main" lang="kor" page="61" n="03">(할미) 쿠 쿠 이 것이 웬일이오</sent><!--'쿠 쿠'의 뒤쪽 '쿠'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="61" n="04">(하인) 이 년아 네 죄를 네가 몰나^ 졍신 차려</sent>
+<sent type="main" lang="kor" page="61" n="05">네 자식놈 좀 보아라</sent>
+<sent type="main" lang="kor" page="61" n="06">관졀 서울서 오신 아씨 엇의 게시냐</sent>
+<sent type="main" lang="kor" page="61" n="07">니 할미가 잠결에 엇지 된 영문도 모로고 붓들녀서  말이</sent>
+<sent type="main" lang="kor" page="61" n="08">아씨 웬 아씨며 무슨 일노 이리오</sent>
+<sent type="main" lang="kor" page="61" n="09">더니 차차 졍신을 차려 본즉</sent><!--'차차'의 뒤쪽 '차'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="61" n="10">제 자식놈을 잔득 결박여 마당에 녀 안친지라</sent>
+<sent type="main" lang="kor" page="61" n="11">고 하님 맙시샤</sent>
+<sent type="main" lang="kor" page="61" n="12">이 져게 웬일이냐</sent>
+<sent type="main" lang="kor" page="61" n="13">(아희놈) 구 구 웬일인지 무엇인지 인제 죽나 보오</sent><!--'구 구'의 뒤쪽 '구'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="61" n="14">가 이러케 죽게 된 것도 모다 어머니 잘못이오</sent>
+<sent type="main" lang="kor" page="61" n="15">(할미) 이 그게 웬 말이냐</sent>
+<sent type="main" lang="kor" page="61" n="16">가 언제 그리라고 권더니</sent>
+
+<sent type="main" lang="kor" page="62" n="01">슛지예 말나고 얏지</sent>
+<sent type="main" lang="kor" page="62" n="02">(아희놈) 에구   말이오</sent>
+<sent type="main" lang="kor" page="62" n="03">어머니가 동량을 더도 나를 글 좀 가라쳣더면 이런 지경도 업슬 것이오</sent>
+<sent type="main" lang="kor" page="62" n="04">안 잘 엇고 며나리 잘 보엇지오</sent>
+<sent type="main" lang="kor" page="62" n="05">(할미) 인제 와서 글 못 가라친 말은</sent>
+<sent type="main" lang="kor" page="62" n="06">(아놈) 가 글을 왓든들 편지를  눈으로 보앗시면 이 지경 될 리가 잇겟소</sent>
+<sent type="main" lang="kor" page="62" n="07">집에서 편지 듯든 사연이 거긔 가서는 왕쳥됩데다 그려</sent>
+<sent type="main" lang="kor" page="62" n="08">모가 서로 닷토데 하인들이 이리 치고 져리 치며 짓다</sent>
+<sent type="main" lang="kor" page="62" n="09">이 년놈들아 뭇 말은 답 안코 싸홈은 무슨 싸홈인고</sent>
+<sent type="main" lang="kor" page="62" n="10">우리 양근읍 홍평양 하인이라</sent>
+<sent type="main" lang="kor" page="62" n="11">녕감 분부 압고 서울 권도 아씨 뫼시려 와시니</sent>
+<sent type="main" lang="kor" page="62" n="12">어서 아씨 게신 곳을 가라쳐라</sent>
+<sent type="main" lang="kor" page="62" n="13">부인이 그제야 녑녀 업시 나와서  말이</sent>
+
+<sent type="main" lang="kor" page="63" n="01">가 권도사 부인이다</sent>
+<sent type="main" lang="kor" page="63" n="02">니 게집 하인이 압헤 나아와 문안 후에 젼갈을 더라</sent>
+<sent type="main" lang="kor" page="63" n="03">홍평양 하인 문안 알욈니다</sent>
+<sent type="main" lang="kor" page="63" n="04">(부인) 오 그러냐</sent>
+<sent type="main" lang="kor" page="63" n="05">날만 사으로 여 밤즁에 져런 고을 니 불안이 막심이다</sent>
+<sent type="main" lang="kor" page="63" n="06">그러나 너의  제졀도 안령시냐</sent>
+<sent type="main" lang="kor" page="63" n="07">(게집 인) 예 쳔만에 말이외다</sent>
+<sent type="main" lang="kor" page="63" n="08">고이라 할 것 잇습닛가</sent>
+<sent type="main" lang="kor" page="63" n="09">령감서 젼갈시되</sent>
+<sent type="main" lang="kor" page="63" n="10">고신 말은 듯기예 놀납고</sent>
+<sent type="main" lang="kor" page="63" n="11">친이 하인을 다리고 가서 셔 오련만은</sent>
+<sent type="main" lang="kor" page="63" n="12">신병이 잇서 을 이루지 못고 인마를 보오니</sent>
+<sent type="main" lang="kor" page="63" n="13">지체 마시고 곳 오십시샤고 십데다</sent>
+<sent type="main" lang="kor" page="63" n="14">(부인) 너의  신세와 너의 들페 이로 측량 할 슈 업거니와 당댱 사긔가 시급니</sent>
+<sent type="main" lang="kor" page="63" n="15">어서 가쟈 고 쟝독교에 드러안즈니</sent>
+<sent type="main" lang="kor" page="63" n="16">여러 인이 서로 촉야 밤 로 도집허 양근읍을 드러가니</sent>
+
+<sent type="main" lang="kor" page="64" n="01">가 느진 아침나 되엿더라</sent>
+<sent type="main" lang="kor" page="64" n="02">이  홍평양이 하인을 보고 안으로 드러가서 그 부인과 집안 사으로 더부러 그런 이약이를 며</sent>
+<sent type="main" lang="kor" page="64" n="03">세상이 이로 가다가</sent>
+<sent type="main" lang="kor" page="64" n="04">나죵에 안이 날 변괴가 업겟도다 며</sent>
+<sent type="main" lang="kor" page="64" n="05">그 날 밤을 지고 그 잇튼날 아침가 되도록 소식이 업거늘</sent>
+<sent type="main" lang="kor" page="64" n="06">홍평양이 굼굼이 녁이더니</sent><!--'굼굼이'의 뒤쪽 '굼'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="64" n="07">검돌이가 먼져 들어오난지라</sent>
+<sent type="main" lang="kor" page="64" n="08">(검돌) 소인 검돌이 단여왓습니다</sent>
+<sent type="main" lang="kor" page="64" n="09">(홍평양) 오 검돌이냐</sent>
+<sent type="main" lang="kor" page="64" n="10">잘 단여와스며 권도사 아씨도 오시나냐</sent>
+<sent type="main" lang="kor" page="64" n="11">(검돌) 예 이 뒤에 곳 오시 소인은 령감서 굼굼이 아실 듯와 먼져 들어왓습니다</sent>
+<sent type="main" lang="kor" page="64" n="12">며 말 차에 여러 하인이 권도사 부인을 다리고 드러오거늘</sent>
+<sent type="main" lang="kor" page="64" n="13">홍평양이 게집 하인을 분부야 안방으로 인도 후</sent>
+<sent type="main" lang="kor" page="64-65" n="14">방문 밧게 셔셔 공슌 말노</sent><!--밧^게-->
+
+<sent type="main" lang="kor" page="65" n="01">부인의 고신 말은 편지에 강 보아시며 나의 말은 게집 하인 젼갈에 들어 게실 듯니</sent>
+<sent type="main" lang="kor" page="65" n="02">여러 말 할 것 업거니와</sent>
+<sent type="main" lang="kor" page="65" n="03"> 집에서 몃칠 도셥이나 신 후에</sent>
+<sent type="main" lang="kor" page="65" n="04">차챠 소문 들어셔 친졍으로 가시든지</sent>
+<sent type="main" lang="kor" page="65" n="05">서울노 가시든지 마음로 십시오</sent>
+<sent type="main" lang="kor" page="65" n="06">부인은 문 안에서 답 기를</sent>
+<sent type="main" lang="kor" page="65" n="07">저 당 일은 이로 다 고할 수 업거니와</sent>
+<sent type="main" lang="kor" page="65" n="08">령감 은헤를 닙와 죽을 목슘이 다시 살어오니</sent>
+<sent type="main" lang="kor" page="65" n="09">무엇이라 알욀 말이 엄슴니다</sent>
+<sent type="main" lang="kor" page="65" n="10">홍평양은 밧그로 나가고</sent>
+<sent type="main" lang="kor" page="65" n="11">부인은 안방에 안저셔 홍평양 부인으로 더부러 젼후 고 말이며</sent>
+<sent type="main" lang="kor" page="65" n="12">은헤 입은 말을 못 긋치지 안터라</sent>
+<sent type="main" lang="kor" page="65" n="13">이  홍평양 부인 겻헤 엇던 소복 부인이 나은  십 되락말락 데</sent>
+<sent type="main" lang="kor" page="65" n="13">리씨 부인의 말을 듯다가</sent>
+<sent type="main" lang="kor" page="65" n="14">나안즈며 인사를 쳥지라</sent>
+
+<sent type="main" lang="kor" page="66" n="01">여보시오</sent>
+<sent type="main" lang="kor" page="66" n="02">당신 말을 드르니 고도 단이 하셧거니와</sent>
+<sent type="main" lang="kor" page="66" n="03">범졀도 챰 갸륵시고 디헤도 만흐시구려</sent>
+<sent type="main" lang="kor" page="66" n="04">(리 부인) 에그 쳔만에 말도 심니다만은 누구시오닛가</sent>
+<sent type="main" lang="kor" page="66" n="05">(소복) 예 나 이 집 쥬인 령감의 뎨 되 이올시다</sent>
+<sent type="main" lang="kor" page="66" n="06">(리부인) 예 그러시오닛가</sent>
+<sent type="main" lang="kor" page="66" n="07">그러시면 싀은 엇의시고 소복은 웨 셧나요</sent>
+<sent type="main" lang="kor" page="66" n="08">(소복) 예 나도 서올노 싀집 갓다가</sent>
+<sent type="main" lang="kor" page="66" n="09">일직 과부가 되야 친뎡에 와서 잇소</sent>
+<sent type="main" lang="kor" page="66" n="10">>(리부인) 에그 가이업서라</sent>
+<sent type="main" lang="kor" page="66" n="11">오쟉 서르시겟소</sent>
+<sent type="main" lang="kor" page="66" n="21">나 잠시 가댱을 일코 이럿틋 고인데 부인 말이야 더할 말이 잇습닛가</sent>
+<sent type="main" lang="kor" page="66" n="13">에구 가이업서라</sent>
+<sent type="main" lang="kor" page="66" n="14">(소복) 에구 서른 말이야 엇지 다 형언오</sent>
+<sent type="main" lang="kor" page="66" n="15">릿가만은 당신의 쳐디도 오 졀박외다</sent>
+<sent type="main" lang="kor" page="66-67" n="16">자 나 거쳐하 쳐소로 가서 피 회포나 펴고 서로 말벗이나 고 지시다그려</sent><!--회^포나-->
+
+<sent type="main" lang="kor" page="67" n="01">(리부인) 예 그런면 쟉히나 죠흐릿가</sent>
+<sent type="main" lang="kor" page="67" n="02">고 그 과을 러 후면으로 드러간즉</sent>
+<sent type="main" lang="kor" page="67" n="03">삼간 초당이 졍결지라</sent>
+<sent type="main" lang="kor" page="67" n="04">그 후로붓터 두 부인이 서로 위로며 세월을 보나</sent>
+<sent type="main" lang="kor" page="67" n="05">리씨 부인은 일구월심에 권도사 소식을 몰나 글로 인야 근심이 엿더라</sent>
+<sent type="main" lang="kor" page="67" n="06">이  홍평양의 아오 통진사라 하 사이 잇</sent>
+<sent type="main" lang="kor" page="67" n="07">심법이 완고 위가 부졍</sent>
+<sent type="main" lang="kor" page="67" n="08">일즉 상쳐고 나이 삼십이 되도록 사이 아답지 못야 속현도 지 못하엿드니</sent>
+<sent type="main" lang="kor" page="67" n="09">리씨 부인이 자긔 집에 와서 잇슴을 보고 불측 마음을 두엇스나</sent>
+<sent type="main" lang="kor" page="67" n="10">부인의 범졀이 엄숙 고로</sent>
+<sent type="main" lang="kor" page="67" n="11">감이 사을 보이지 못나</sent>
+<sent type="main" lang="kor" page="67-68" n="12">마음에 단이 흠모야 쥬야 궁리가 엇덧케 면 져 부인을 유인할ㅅ고 더라</sent><!--^더라-->
+
+<sent type="main" lang="kor" page="68" n="01">어늬 날 과이 뒤간에 갓다 오 길에 홍진사가 밧그로 들어오다가</sent>
+<sent type="main" lang="kor" page="68" n="02">자긔 씨를 보고 불이낙케 쳐 오며</sent>
+<sent type="main" lang="kor" page="68" n="03">여보 누님 나 좀 보시오</sent>
+<sent type="main" lang="kor" page="68" n="04">할 말이 잇소</sent>
+<sent type="main" lang="kor" page="68" n="05">(과) 할 말은 무슨 말이야…</sent>
+<sent type="main" lang="kor" page="68" n="06">(홍진사) 누님이  들어실 터이오</sent>
+<sent type="main" lang="kor" page="68" n="07">(과) 들을 만면 듯고 못 들을 만면 못 듯지</sent>
+<sent type="main" lang="kor" page="68" n="08">무슨 말을 다짐부터 밧늬</sent>
+<sent type="main" lang="kor" page="68" n="09">(홍진사) 허허 다름 안이라 누님들어 쟝가 좀 들여 달 말이오</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="68" n="10">(과) 이 네가 그 말 안이기로 들 걱졍이 업겟나냐만은</sent>
+<sent type="main" lang="kor" page="68" n="11">감안이 들어안진 사이 뉘 집에 시가 잇고 업 것을 엇덧케 안단 말이냐</sent>
+<sent type="main" lang="kor" page="68" n="12">(홍진사) 누님들어 엇의 가서 업 시를 다려 오라 오</sent>
+<sent type="main" lang="kor" page="68-69" n="13">일등 미이 집 안에 잇스닛가 말이지오</sent><!--일등 ^ 미이-->
+
+<sent type="main" lang="kor" page="69" n="01">(과) 집 안에 일등 미이 누구란 말이냐</sent>
+<sent type="main" lang="kor" page="69" n="02">(홍진사) 누님과 쥬야 갓치 잇 사은 일등 미이 안이오</sent>
+<sent type="main" lang="kor" page="69" n="03">(과) 그 권도사 말이냐</sent>
+<sent type="main" lang="kor" page="69" n="04">(홍진사) 예…</sent>
+<sent type="main" lang="kor" page="69" n="05">(과) 이 그것이 무슨 말이냐</sent>
+<sent type="main" lang="kor" page="69" n="06">큰일 날 말도 구나</sent>
+<sent type="main" lang="kor" page="69" n="07">설혹 그러치 안인 사이라도  집에 와 잇 것을 그러케 졉을 못할 터인데</sent>
+<sent type="main" lang="kor" page="69" n="08">항 그 댁은 우리집과 세의도 자별  안이라</sent>
+<sent type="main" lang="kor" page="69" n="09"> 범졀이 엄슉고 마음이 쳘셕갓흔 부인이라</sent>
+<sent type="main" lang="kor" page="69" n="10">넷날 녈녀라도 지지 못할 것이오</sent>
+<sent type="main" lang="kor" page="69" n="11"> 너는 그 부인의 지 일을 듯지 못엿늬</sent>
+<sent type="main" lang="kor" page="69" n="12">쳔부당만부당 말은 입에 도 말어라</sent>
+<sent type="main" lang="kor" page="69" n="13">홍진사가 그 씨의 엄졀 망을 듯고 무류이 퇴하야 나간 후에 일로 병이 되여 쥭을 지경이라</sent>
+<sent type="main" lang="kor" page="69-70" n="14">언의 날 과이 홍진사의 병이 위즁을 듯고 놀나 홍진사 잇 방으로 가서</sent><!--병^이 -->
+
+<sent type="main" lang="kor" page="70" n="01">진사야 엇이가 압허서 져럿 병이 즁냐</sent>
+<sent type="main" lang="kor" page="70" n="02">(진사) 나 인제 죽 사이니 그것은 알어 무엇오</sent>
+<sent type="main" lang="kor" page="70" n="03">누님이 각여 보시오</sent>
+<sent type="main" lang="kor" page="70" n="04">남간 인졍이 그러할 슈 잇소</sent>
+<sent type="main" lang="kor" page="70" n="05">(과) 오 일젼에 든 말이로구나</sent>
+<sent type="main" lang="kor" page="70" n="06">(진사) …</sent>
+<sent type="main" lang="kor" page="70" n="07">(과) 네가 글노  쥭을 지경이면 동긔간 졍리에 아 볼 슈 잇늬</sent>
+<sent type="main" lang="kor" page="70" n="08">되든 안 되든 시험이나 여 보마</sent>
+<sent type="main" lang="kor" page="70" n="09">(진사) 에구 그러시면 가 살어 날 터이니</sent>
+<sent type="main" lang="kor" page="70" n="10">가부간 속히 장을 시오</sent>
+<sent type="main" lang="kor" page="70" n="11">(과) 오냐 뒷긋이나 보쟈</sent>
+<sent type="main" lang="kor" page="70" n="12">고 자긔 쳐소로 드러와 슈이 만안거늘</sent>
+<sent type="main" lang="kor" page="70" n="13">(리 부인) 여보 부인 무슨 근심이 잇슴닛가</sent>
+
+<sent type="main" lang="kor" page="71" n="01">(과) 흥 과부가 근심 업슬 날이 잇소만은</sent>
+<sent type="main" lang="kor" page="71" n="02">우리 둘 동이 병이 들어 쥭게 되엇다오</sent>
+<sent type="main" lang="kor" page="71" n="03">(리씨) 에그 그 엇지나</sent>
+<sent type="main" lang="kor" page="71" n="04">졀무신 냥반이 무슨 병으로 그 디경이 되셧단 말이오</sent>
+<sent type="main" lang="kor" page="71" n="05">(과) 흥 세샹에 이 서름 져 서름 야 독슈공방에서 더 서름이  잇겟소</sent>
+<sent type="main" lang="kor" page="71" n="06">우리 동도 상쳐 지 여러 에 지우금 금실지낙을 몰나 양 울울불낙 더니</sent>
+<sent type="main" lang="kor" page="71" n="07">글노 야 병이 낫나 보오</sent>
+<sent type="main" lang="kor" page="71" n="08">(리부인) 하하 그것이 무슨 말이오</sent><!--'하하'의 뒤쪽 '하'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="71" n="09">그만 일노 병이 되여 죽을 지경에 이름은 결코 사 냥반의 도랑이 안인 듯십소</sent>
+<sent type="main" lang="kor" page="71" n="10">한 엇의 필이 업슬나구 그도록 신단 말이오</sent>
+<sent type="main" lang="kor" page="71" n="11">(과) 부인의 말이 당연오나</sent>
+<sent type="main" lang="kor" page="71" n="12">우리 동도 인물이 졀등고 문필이 유여머 심지가 단아야</sent>
+<sent type="main" lang="kor" page="71" n="13">지금 세상에  동갓튼 사이 드물지오만은 좀쳐 규수는 합의치 안이기로</sent>
+
+<sent type="main" lang="kor" page="72" n="01">지금것 후취를 안이다오</sent>
+<sent type="main" lang="kor" page="72" n="02">(리부인) 흥 남녀간 덕이 데일인데 덕을 취치 안코 만 탐면 군라 칭 슈 잇소</sent>
+<sent type="main" lang="kor" page="72" n="03">(과)  동이 그런 쥴 몰나 그리겟소</sent>
+<sent type="main" lang="kor" page="72" n="04">상쳐한 후 지금 큰집에 와서 잇스나</sent>
+<sent type="main" lang="kor" page="72" n="05">져 넘어 동리 기와집이 사오십 간이오</sent>
+<sent type="main" lang="kor" page="72" n="06">남젼북답과 남녀 노비며 세간 범졀이 석슝이 부려할 것 업지오</sent>
+<sent type="main" lang="kor" page="72" n="07">제 쳐디가 넉넉 고로</sent>
+<sent type="main" lang="kor" page="72" n="08">마음에 드 사을 구노라고 그런다오</sent>
+<sent type="main" lang="kor" page="72" n="09">나갓튼 사은 남간이라 할 슈 업거니와</sent>
+<sent type="main" lang="kor" page="72" n="10">타인 갓고 보면 지금 난리  세상에 볼 것 잇소</sent>
+<sent type="main" lang="kor" page="72" n="11">나부터 시집 가겟소</sent>
+<sent type="main" lang="kor" page="72" n="12">수졀은 여 무엇오</sent>
+<sent type="main" lang="kor" page="72" n="13">엇지엿든  동의게 오 사은 퇴판이지오</sent>
+<sent type="main" lang="kor" page="72" n="14">리씨 부인이 그 말을 듯더니 발연 변여 소리를 질너 갈아</sent>
+<sent type="main" lang="kor" page="72" n="15">여보 그것이 무슨 말이오</sent>
+<sent type="main" lang="kor" page="72-73" n="16">사이 즘보다 낫다  것이 무엇이오</sent><!--것이 ^ 무엇이오-->
+
+<sent type="main" lang="kor" page="73" n="01">렴티와 례졀을 모르고 한갓 부귀만 탐면</sent>
+<sent type="main" lang="kor" page="73" n="02">이 즘만도 못할지라 사이라 오릿가</sent>
+<sent type="main" lang="kor" page="73" n="03">그런 말은 아모리 롱담이라도 구두에 지 마르시오</sent>
+<sent type="main" lang="kor" page="73" n="04">니 과댁이 허허 우스며</sent><!--'허허'의 뒤쪽 '허'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="73" n="05">나도 화ㅅ김에 롱담이지오</sent>
+<sent type="main" lang="kor" page="73" n="06">그럴 것 갓트면 이 지 슈졀을 엿겟소</sent>
+<sent type="main" lang="kor" page="73" n="07">며 다른 말노 담화를 더라</sent>
+<sent type="main" lang="kor" page="73" n="08">슈일 후에 과댁이 홍진사 방에 가셔 진사를 보고</sent>
+<sent type="main" lang="kor" page="73" n="09">이 진사야 슈일 동안에 병이 좀 엇더냐</sent>
+<sent type="main" lang="kor" page="73" n="10">(홍진사) 누님이시오</sent>
+<sent type="main" lang="kor" page="73" n="11">제 병은 가감 업오나 관절 아라 보셧소</sent>
+<sent type="main" lang="kor" page="73" n="12">에구-</sent>
+<sent type="main" lang="kor" page="73" n="13">(과댁) 이 알어 보지 물어 보지 그  마음이 쳘셕 갓고</sent>
+<sent type="main" lang="kor" page="73" n="14">졀가 츄상 갓서 지가 말노 잠간 시험다가</sent>
+<sent type="main" lang="kor" page="73-74" n="15">큰 무안만 당엿다</sent><!--무안^만-->
+
+<sent type="main" lang="kor" page="74" n="01">만일 바로 말엿드면 큰일이 날 번엿다</sent>
+<sent type="main" lang="kor" page="74" n="02">며 젼휴 슈작 든 말을 낫낫치 이르며</sent>
+<sent type="main" lang="kor" page="74" n="03">당초에 그런 각을 바리고 어서 이러나거라</sent>
+<sent type="main" lang="kor" page="74" n="04">홍진사가 그 말을 듯더니 긔가 막혀</sent>
+<sent type="main" lang="kor" page="74" n="05">여보 누님 말이 올소만은  마음이 공칙여 아모도 살 슈 업스니</sent>
+<sent type="main" lang="kor" page="74" n="06">누님이 나 식이 로 여 주시오</sent>
+<sent type="main" lang="kor" page="74" n="07">(과댁) 엇더케 란 말이냐</sent>
+<sent type="main" lang="kor" page="74" n="08">(홍진사) 죽고 살기 누님의게 달녓시니</sent>
+<sent type="main" lang="kor" page="74" n="09">아모리 어려온 일이라도 동 한나 쥭이 것보다 안 낫게슴닛가</sent>
+<sent type="main" lang="kor" page="74" n="10">며 제 누의 귀에다 입을  고 무에라 무에라 한이나 더니  니르기를</sent><!--'무에라 무에라'의 뒤쪽 '무에라'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="74" n="11">그러고 나오실  신발을 표젹 잇게 노아 쥬시면</sent>
+<sent type="main" lang="kor" page="74-75" n="12">제가 아모리 영악들 엇지 면 하오릿가</sent><!--아모리 ^ 영악들-->
+
+<sent type="main" lang="kor" page="75" n="01">며 간졀이 빌며 제반 모을 가라쳐 쥬니</sent>
+<sent type="main" lang="kor" page="75" n="02">과은 할 슈 업서 허락 말이</sent>
+<sent type="main" lang="kor" page="75" n="03">남간 졍리에 목슘이 죽 것을 볼 슈 업서 그로 여 보겟다만은 부 조심여라</sent>
+<sent type="main" lang="kor" page="75" n="04">고 서로 헤여졋더라</sent>
+<sent type="main" lang="kor" page="75" n="05">언의 날 리씨 부인이 일긔가 심히 더운데 곤을 이기지 못야 벼를 의지고 누어 눈물이 두 을 적시더니</sent>
+<sent type="main" lang="kor" page="75" n="06">과이 게집 인을 식여 슐상을 들니고 드러오며</sent>
+<sent type="main" lang="kor" page="75" n="07">하하 오 곤신가 보오구려</sent><!--'하하'의 뒤쪽 '하'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="75" n="08">오날 일긔도 단이 더웁고 심회도 울젹야 우리 둘이 술이나 한 잔식 먹고 근심이나 닛쟈고 술을 가져 왓소</sent>
+<sent type="main" lang="kor" page="75-76" n="09">(리 부인) 됴흔 말슴이나 술이란 것이 온당치 못한 음식이 되여 사의 마음을 방탕케 하는 고로</sent><!--되여 ^ 사의-->
+
+<sent type="main" lang="kor" page="76" n="01">셩인이 경게하실  안이라 본 졉구를 못니</sent>
+<sent type="main" lang="kor" page="76" n="02">나는 권치 마시고 혼 잡수시오</sent>
+<sent type="main" lang="kor" page="76" n="03">(과) 그러면 무슨 미가 잇소</sent>
+<sent type="main" lang="kor" page="76" n="04">만고 셩인 공부도 술을 한량 업시 잡스시되</sent>
+<sent type="main" lang="kor" page="76" n="05">어즈러온 데 밋지 말나 셧시니</sent>
+<sent type="main" lang="kor" page="76" n="06">우리 술잔이나 먹더라도 쥬졍만 안이하면 구만이지</sent>
+<sent type="main" lang="kor" page="76" n="07">그처름 사양실ㅅ 것 잇소</sent>
+<sent type="main" lang="kor" page="76" n="08">부인이 마지못야 잔을 하나 마에 헤오되</sent>
+<sent type="main" lang="kor" page="76" n="09">일젼에 뎌 과이 잠시 롱담 트나 무슨 곡졀이 잇는 말이요</sent>
+<sent type="main" lang="kor" page="76" n="10"> 졸지에 술을 먹쟈 하는 것이 더옥 수샹니</sent>
+<sent type="main" lang="kor" page="76" n="11">필경 술을 먹여 놋코 무슨 짓을 하려나 보다 십허 술잔마다 사양야 조곰식 마시오</sent>
+<sent type="main" lang="kor" page="76" n="12">그 과은 잔을 가득 가득 부어 권니</sent><!--'가득 가득'의 뒤쪽 '가득'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="76" n="13">과이 두겁이 파리 잡아먹듯 늘금늘금 바다 먹어 불과 사오 에 얼근이 취야 횡셜수셜거늘</sent>
+<!--'늘금늘금'의 뒤쪽 '늘금'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="76" n="14">부인은 졈졈 졍신을 리더라</sent><!--'졈졈'의 뒤쪽 '졈'은 원문에 재점으로 되어 있음.-->
+
+<sent type="main" lang="kor" page="77" n="01">어언간 가 지고 밤이 되엿는지라</sent>
+<sent type="main" lang="kor" page="77" n="02">과이 술김에 젼역 먹을 각도 안코 쉴  업시 퍼먹으며 부인을 권거늘</sent>
+<sent type="main" lang="kor" page="77" n="03">부인이 바다 먹는 톄고 가슴에다 바다 부어 의복이 다 저진지라</sent>
+<sent type="main" lang="kor" page="77" n="04">그렁뎌렁 밤이 깁흔 후에 부인이 술 취 테고 누은즉</sent>
+<sent type="main" lang="kor" page="77" n="05">과은 졍말 술이 취야 눕더니</sent>
+<sent type="main" lang="kor" page="77" n="06">잠이 드러 졍신 업시 코를 골거늘 부인이 가만이 각되</sent>
+<sent type="main" lang="kor" page="77" n="07">아모커나 밧게 숨어 동졍을 보리라</sent>
+<sent type="main" lang="kor" page="77" n="08">고 촉불을 고 나와서 긔 신발을 찾는 거시 급 바에 공교이 과의 신발을 박구어 싯고</sent>
+<sent type="main" lang="kor" page="77" n="09">집 뒤 으슥 곳에 가서 동졍을 살피더니</sent>
+<sent type="main" lang="kor" page="77" n="10">거무하에 엇던 남가 드러와서 방문 압흐로 오더니</sent>
+<sent type="main" lang="kor" page="77" n="11">마루에 잇는 신발을 들고 보다가</sent>
+<sent type="main" lang="kor" page="77" n="12">방으로 들어가거늘</sent>
+<sent type="main" lang="kor" page="77" n="13">부인이 그거슬 보고 모골이 송연여 하날을 우러러 무한이 티샤더라</sent><!--'우러러'의 뒤쪽 '러'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="77" n="14">원 이것이 다 홍진사의 흉게라</sent>
+<sent type="main" lang="kor" page="77-78" n="15">그 누의로 하여금 리 부인을 술 먹여 취 후 과은 나오고</sent><!--부인을 ^ 술-->
+
+<sent type="main" lang="kor" page="78" n="01">리 부인만 혼 졍신 업시 잘 에 들어가 겁탈코져 여</sent>
+<sent type="main" lang="kor" page="78" n="02">제 누의더러 신발을 밧구어 신고 나오지 말나 부탁엿더니</sent>
+<sent type="main" lang="kor" page="78" n="03">하날이 리부인의 졀과 졍셩을 감동샤 욕을 면케도 하시고</sent>
+<sent type="main" lang="kor" page="78" n="04">홍진는 리 부인의게 향야 불칙 게교를 여 겁욕코져 다가</sent>
+<sent type="main" lang="kor" page="78" n="05">도리여 뎨 집 문호를 드러이고 률리를 파며 강상을 문어치는 죄를 범엿더라</sent>
+<sent type="main" lang="kor" page="78" n="06">이거스로 볼지라도 발ㅅ고 신령신 하님이 착 사과 악 쟈의 야 보복심이 엇지 쇼쇼치 안이시리오</sent><!--'쇼쇼치'의 뒤쪽 '쇼'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="78" n="07">이  리 부인은 숨어서 밤을 보고 날이 밝은 후에</sent>
+<sent type="main" lang="kor" page="78" n="08">홍평양 부인의게 가서 홍평양을 쳥야 들어온 후에</sent>
+<sent type="main" lang="kor" page="78" n="09">(리) 녕감 은덕은 니로 층냥치 못거니와</sent>
+<sent type="main" lang="kor" page="78" n="10">가쟝 일은 사이 올 잇슬 수 업오니</sent>
+<sent type="main" lang="kor" page="78" n="11">아모리 어려오셔도 오날 아침 젼으로 인마를 쥰비야 친졍으로 가게여 쥽시오</sent>
+
+<sent type="main" lang="kor" page="79" n="01">(홍) 어 그것이야 어렵다 할ㅅ 것 잇소마는</sent>
+<sent type="main" lang="kor" page="79" n="02">란리 소문이 요란할  안이라 그러케 급히 가실ㅅ 것 잇소</sent>
+<sent type="main" lang="kor" page="79" n="03">몃칠 지난 후에 동졍을 보와 나지요</sent>
+<sent type="main" lang="kor" page="79" n="04">(리) 에그 잇 지 폐도 젹지 안케 쳣는데  몃칠을 엇더케 잇겟슴닛가</sent>
+<sent type="main" lang="kor" page="79" n="05">만일 어려오실 터이면 가다가</sent>
+<sent type="main" lang="kor" page="79" n="06">쥭드라도 곳 거러서 나겟슴니다</sent>
+<sent type="main" lang="kor" page="79" n="07">(홍) 웬 닭으로 그리시오</sent>
+<sent type="main" lang="kor" page="79" n="08">아마 쥬인이 무슨 허물이 잇서 그리하시나 보구려</sent>
+<sent type="main" lang="kor" page="79" n="09">필경 지각 업는 녀편네들이 무슨 불평 일이 잇는게로군</sent>
+<sent type="main" lang="kor" page="79" n="10">(리) 쳔만에 말이웨다</sent>
+<sent type="main" lang="kor" page="79" n="11">디에 잇는 몸이 연 조급여 그러니다</sent>
+<sent type="main" lang="kor" page="79" n="12">(홍) 졍 그러실 디경이면 곳 인마를 차려 들이려니와</sent>
+<sent type="main" lang="kor" page="79" n="13">필경 무슨 곡졀이 잇나 보웨다</sent>
+
+<sent type="main" lang="kor" page="80" n="01">며 일변 하인을 불너 보교를 여 이고</sent>
+<sent type="main" lang="kor" page="80" n="02">말에 부담을 실으라 고</sent>
+<sent type="main" lang="kor" page="80" n="03">검돌의 외를 불너 닐으</sent>
+<sent type="main" lang="kor" page="80" n="04">너의 외가 신실하기로</sent>
+<sent type="main" lang="kor" page="80" n="05">몬져 번에도 권도 아씨를 뫼셔 왓슨즉</sent>
+<sent type="main" lang="kor" page="80" n="06">이 번에도 너의 외가 십분 조심여 뫼시고</sent>
+<sent type="main" lang="kor" page="80" n="07">튱쥬 쟝호원 리진 지 갓다 오너라</sent>
+<sent type="main" lang="kor" page="80" n="08">고 다시 게집 하인을 불너서 닐너 가라되</sent>
+<sent type="main" lang="kor" page="80" n="09">뒷방에 가서 셔울 아씨 나오시라 여라</sent>
+<sent type="main" lang="kor" page="80" n="10">니 게집 하인이 가서 방문을 열고</sent>
+<sent type="main" lang="kor" page="80" n="11">아씨 그져 줌우셔요</sent>
+<sent type="main" lang="kor" page="80" n="12">는 소에 과이 그제야 눈을 번젹  보더니</sent>
+<sent type="main" lang="kor" page="80" n="13">아모 답도 업시 다시 니불을 뒤여 쓰고 들은 테도 안이는지라</sent>
+<sent type="main" lang="kor" page="80" n="14">하인이 그로 와서 홍평양의게 고니</sent>
+<sent type="main" lang="kor" page="80" n="15">홍평앙이 놀나 하는 말이</sent>
+<sent type="main" lang="kor" page="80" n="16">올치 그러치</sent>
+<sent type="main" lang="kor" page="80" n="17">필경 무슨 곡졀이 잇는 쥴 짐작엿다</sent>
+
+<sent type="main" lang="kor" page="81" n="01">네 이 길노 쟉은 사랑에 가서 진님 불너라</sent>
+<sent type="main" lang="kor" page="81" n="02">하인 년이 갓다 오더니</sent>
+<sent type="main" lang="kor" page="81" n="03">쟉은 사랑 문이  닷치고 아모리 진님을 엿쥬어도 답을 안니하시니</sent>
+<sent type="main" lang="kor" page="81" n="04">웬 달인지 모로겟슴니다</sent>
+<sent type="main" lang="kor" page="81" n="05">(홍) 그거시 웬일이란 말이냐</sent>
+<sent type="main" lang="kor" page="81" n="06">며 집안 사의 동졍을 살펴 보니</sent>
+<sent type="main" lang="kor" page="81" n="07">이 구석에서도 숙은숙은 고 뎌 모퉁이예서도 숙은숙은 는지라</sent><!--'숙은숙은'의 뒤쪽 '숙은'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="81" n="08">그렁뎌렁 금돌의 외가 길 날 제구를 린 후에</sent>
+<sent type="main" lang="kor" page="81" n="09">교군을 마당에 드려다 놋코 길을 촉니</sent>
+<sent type="main" lang="kor" page="81" n="10">리 부인이 홍평양과 그 부인의게 무한이 티샤고 나가더라</sent>
+<sent type="main" lang="kor" page="81" n="11">원 쟝호원 리진는 학식이 유여하고</sent>
+<sent type="main" lang="kor" page="81" n="12">범졀이 무던여 산도 넉넉고</sent><!--'넉넉고'의 뒤쪽 '넉'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="81" n="13">녀가 오륙 남 되는 터이라</sent>
+<sent type="main" lang="kor" page="81" n="14">권도사가 맛위라 을 츌가한 후에 일 년 일 식 단녀오더니</sent>
+<sent type="main" lang="kor" page="81" n="15">금년은 단녀오지 못고</sent><!--못 ^ 고-->
+
+<sent type="main" lang="kor" page="82" n="01">서로 편지만 보아 마양 궁금이 지나드니</sent>
+<sent type="main" lang="kor" page="82" n="02">셔울 란리 난 소문을 듯고</sent>
+<sent type="main" lang="kor" page="82" n="03">더옥 소식을 몰나 더옥 갑갑히 녁여 안으로 들어가셔 부인과 아들을 불너 놋코</sent><!--'갑갑히'의 뒤쪽 '갑'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="82" n="04">(리진) 여보 부인 셔울 란리가 낫다구려</sent>
+<sent type="main" lang="kor" page="82" n="05">(부인) 에그머니 란리나니요</sent>
+<sent type="main" lang="kor" page="82" n="06">그러면 의 집이 엇더케 되어실ㅅ가요</sent>
+<sent type="main" lang="kor" page="82" n="07">(리) 글세 나도 궁금여 는 말이요</sent>
+<sent type="main" lang="kor" page="82" n="08">(부인) 란리가 낫스면 셔 소문을 들어 게시오</sent>
+<sent type="main" lang="kor" page="82" n="09">(리) 나도 셔이 알 수 업스나</sent>
+<sent type="main" lang="kor" page="82" n="10">피란 오는 사의 말을 들은즉</sent>
+<sent type="main" lang="kor" page="82" n="11">샹들이 여럿이 쥭고</sent>
+<sent type="main" lang="kor" page="82" n="12">그 외에도 사이 만이 쥭어 종노에 송장이 긋득엿다 구려</sent>
+<sent type="main" lang="kor" page="82" n="13">(부인) 그러면 의 외도 쥭엇겟소구려</sent>
+<sent type="main" lang="kor" page="82" n="14">사을 보여 소식이나 좀 들엇시면 죠켓소</sent>
+
+<sent type="main" lang="kor" page="83" n="01">(리)  각도 그럿소마는 길이 막혀 오는 사은 관겨치 안코</sent>
+<sent type="main" lang="kor" page="83" n="02">올나가는 사은 쥭인다 니</sent>
+<sent type="main" lang="kor" page="83" n="03">아직 누구를 보기도 어렵고  소문을 들어 보아서 가 가든지 져의 형뎨 중에 누구를 보겟소</sent><!--''의 뒤쪽 ''는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="83" n="04">고 사방으로 소문을 탐지고 쥬야 근심더니</sent>
+<sent type="main" lang="kor" page="83" n="05">어늬 날 하인이 쥬막거리로 나가더니</sent>
+<sent type="main" lang="kor" page="83" n="06">웬  신교 한 를 라 드러오며 급 소로</sent>
+<sent type="main" lang="kor" page="83" n="07">진님 진님</sent><!--'진님 진님'의 뒤쪽 '진님'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="83" n="08">(진) 웨 그리느냐</sent>
+<sent type="main" lang="kor" page="83" n="09">(하인) 에구 졍동 쟉은 아씨게서 나려오심니다</sent>
+<sent type="main" lang="kor" page="83" n="10">리진 외가 그 말을 듯고 발바당으로 여 나오더니</sent>
+<sent type="main" lang="kor" page="83" n="11">거무하에  교군이 들어오는지라</sent>
+<sent type="main" lang="kor" page="83" n="12">리진 외가 보교를 붓들고 소를 지르며</sent>
+
+<sent type="main" lang="kor" page="84" n="01">권집아 네가 오느냐</sent>
+<sent type="main" lang="kor" page="84" n="02">고 울음이 몬져 나온다</sent>
+<sent type="main" lang="kor" page="84" n="03">리씨 부인은 그 부모의 음셩을 듯고</sent>
+<sent type="main" lang="kor" page="84" n="04">보교 안에서 역시 곡지통을 여 노으며</sent>
+<sent type="main" lang="kor" page="84" n="05">보교 밧그로 나와서 그 부모를 얼안ㅅ고</sent>
+<sent type="main" lang="kor" page="84" n="06">고 아버지 고 어머니 고 오라버니 이 것이 이요 시오</sent>
+<sent type="main" lang="kor" page="84" n="07">제가 사라서 부모 슬하에 다시 올 쥴 누가 알엇겟슴닛가</sent>
+<sent type="main" lang="kor" page="84" n="08">며 쉴  업시 우는데</sent>
+<sent type="main" lang="kor" page="84" n="09">(리진) 구 권집아 사라 왓느냐 쥭어 왓느냐</sent>
+<sent type="main" lang="kor" page="84" n="10">권도는 웨 안이 오고 너 혼 왓느냐</sent>
+<sent type="main" lang="kor" page="84" n="11">(모친) 고 권집아 너는 난리 즁에  쥭은 쥴노 알엇드니</sent>
+<sent type="main" lang="kor" page="84" n="12">하님이 도읏샤 사라 왓구나</sent>
+<sent type="main" lang="kor" page="84" n="13">며 형뎨 자와 집안 식구들과 면면이 인사를 한 뒤에</sent><!--'면면이'의 뒤쪽 '면'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="84" n="14">초상  집모양으로 울음으로 판을 다가</sent>
+<sent type="main" lang="kor" page="84-85" n="14">마루로 올나가서  졍신을 려</sent><!--''의 뒤쪽 ''는 원문에 재점으로 되어 있음.--><!--졍신을 ^ 려-->
+
+<sent type="main" lang="kor" page="85" n="01">권도사 부인은 란리에 겨 오다가</sent>
+<sent type="main" lang="kor" page="85" n="02">권도 일은 말과 마부놈의게 속아 잡펴 간 말과 아희놈의게 욕 보든 말과 홍평양 집에 잇다가</sent>
+<sent type="main" lang="kor" page="85" n="03">오 말을 일일이 고</sent><!--'일일이'의 뒤쪽 '일'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="85" n="04">리진사 외와 집안 식구들은 소식을 몰나 쥬야 쓰든 말노</sent>
+<sent type="main" lang="kor" page="85" n="05">밤 가 쥴 모로고 서로 주거니 밧거니 며</sent>
+<sent type="main" lang="kor" page="85" n="06">권도의 소식을 몰나 굼굼 말을 못 다가</sent><!--'굼굼'의 뒤쪽 '굼'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="85" n="07">날이 발근 후에</sent>
+<sent type="main" lang="kor" page="85" n="08">홍평양 집 하인을 불너 로도 후이 쥬고</sent>
+<sent type="main" lang="kor" page="85" n="09">리진사가 감사 편지도 고</sent>
+<sent type="main" lang="kor" page="85" n="10">권부인이 젼후 신세진 말노 편지야 쥬어 보엿더라</sent>
+<sent type="main" lang="kor" page="85" n="11">원 권도가 살고지 고에셔 부인을 일코</sent>
+<sent type="main" lang="kor" page="85" n="12">미친 사갓치 날다가</sent>
+<sent type="main" lang="kor" page="85" n="13">인 긔진야 졍신이 업시 길에 죽은 듯이 늘어졋다가</sent>
+<sent type="main" lang="kor" page="85" n="14">언의 가 되엿든지 인들이 지가며</sent>
+<sent type="main" lang="kor" page="85" n="15">웬 사이 여긔 와서 죽엇나 누군지 모로거니와</sent>
+<sent type="main" lang="kor" page="85" n="16">불상다고  소에 졍신을 차려 보니</sent>
+<sent type="main" lang="kor" page="85-86" n="17">어언간 밤이 다 가고 가 돗앗지라 이러안저 각즉</sent><!--각^즉-->
+
+<sent type="main" lang="kor" page="86" n="01">자긔 쳐가로 가자 니 안를 일코 무슨 면목으로 가며</sent>
+<sent type="main" lang="kor" page="86" n="02">서울노 들어가자 니 란리도 엇더케 되엿지 알 슈 업고</sent>
+<sent type="main" lang="kor" page="86" n="03"> 쳐권을 일코 혼자 갈 마음도 업고 도 곱흐고 몸도 압허 견 슈 업지라</sent>
+<sent type="main" lang="kor" page="86" n="04">할 슈 업시 이러셔서 지 업시 자긔 부인 가든 곳을 향고</sent>
+<sent type="main" lang="kor" page="86" n="05">가다가 가노라 간 것이 두모ㅅ 승방에를 들어간지라</sent>
+<sent type="main" lang="kor" page="86" n="06">여러 승들이 맛 밥을 먹다가 권도사을 보드니</sent>
+<sent type="main" lang="kor" page="86" n="07">여보시오 누구신지 모로거니와</sent>
+<sent type="main" lang="kor" page="86" n="08">엇지야 이 곳에 와 게십닛가</sent>
+<sent type="main" lang="kor" page="86" n="09">(권도사) 응 나 문안 으로 피난 가다가</sent>
+<sent type="main" lang="kor" page="86" n="10">안를 일코 갈 바를 몰나 오노라고 온 것이 여긔를 와시니</sent>
+<sent type="main" lang="kor" page="86" n="11">밥이 잇거든 요긔를 좀 식이면 은혜가 적지 안켓군</sent>
+<sent type="main" lang="kor" page="86" n="12">(승) 고 가이업서라</sent>
+<sent type="main" lang="kor" page="86" n="13">어서 올나오십시오</sent>
+<sent type="main" lang="kor" page="86" n="14">더니 밥  상을 차려 주거늘 밥을 먹은 후에 승더러 하 말이</sent>
+
+<sent type="main" lang="kor" page="87" n="01">여보게 문안 형편이 엇더케 되얏다누</sent>
+<sent type="main" lang="kor" page="87" n="02">(승) 지금은 그만져만 엿시나</sent>
+<sent type="main" lang="kor" page="87" n="03">즁궁뎐 마마압서 어로 파쳔신지 모른다 오니</sent><!--'마마압서'의 뒤쪽 '마'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="87" n="04">그런 긔막킬 일이 엇이 잇소</sent>
+<sent type="main" lang="kor" page="87" n="05">아직 들어가실 각 말르시고</sent>
+<sent type="main" lang="kor" page="87" n="06">여긔서 몃칠 동졍을 보아 가시오 거늘</sent>
+<sent type="main" lang="kor" page="87" n="07">권도가 단이 감샤다 고</sent>
+<sent type="main" lang="kor" page="87" n="08">몃칠 유련다가</sent>
+<sent type="main" lang="kor" page="87" n="09">문안이 죵용다 말을 듯고 드러와셔 자긔 집을 보니</sent>
+<sent type="main" lang="kor" page="87" n="10">문은 잡바진  그냥 잇고</sent>
+<sent type="main" lang="kor" page="87" n="11">방에 보 쌋던 것도 그냥 잇지라</sent>
+<sent type="main" lang="kor" page="87" n="12">더옥 긔가 막켜 부인을 각고 서러며</sent>
+<sent type="main" lang="kor" page="87" n="13"> 사방으로 소문을 들을가 고 도라단이드라</sent>
+<sent type="main" lang="kor" page="87" n="14">이  리씨 부인이 친졍에 잇슨 후로</sent>
+<sent type="main" lang="kor" page="87" n="15">일신이 편고 아모 걱졍은 업스나</sent>
+<sent type="main" lang="kor" page="87" n="16">일구월심에 가쟝 소식을 몰나 쥬야 근심더니</sent>
+<sent type="main" lang="kor" page="87" n="17">언의 날 밤에 을 니</sent>
+<sent type="main" lang="kor" page="87-88" n="18">시와 갓치 왕십리에서 자긔 말을 타고 가다가 뒤를 도라보니</sent><!--가다^가-->
+
+<sent type="main" lang="kor" page="88" n="01">권도가 자긔를 바라보고 오 길에 엇던 놈이 칼을 여 들고 달녀들어 권도를 르랴 거늘</sent>
+<sent type="main" lang="kor" page="88" n="02">권도가 두 손을 버리고 칼을 막을  그놈이 칼노 너 죽이지라</sent>
+<sent type="main" lang="kor" page="88" n="03">말게 여 나려 악을 쓰며</sent>
+<sent type="main" lang="kor" page="88" n="04">이놈아 우리 가쟝을 무슨 죄로 죽이나냐 며 소를 지르다가</sent>
+<sent type="main" lang="kor" page="88" n="05">작 놀나 니 침상일몽이라</sent>
+<sent type="main" lang="kor" page="88" n="06">몸에 이 흐르고 귀에 소리가 들니 듯 거늘</sent>
+<sent type="main" lang="kor" page="88" n="07">그 길노 모친 가서 동를 말며</sent>
+<sent type="main" lang="kor" page="88" n="08">아마도 권도가 오다가</sent>
+<sent type="main" lang="kor" page="88" n="09">도젹놈의게 죽엇나 보이다 고 목을 놋코 통곡더라</sent>
+<sent type="main" lang="kor" page="88" n="10">리씨 부인의 다음으로 사 동이 잇 나이 이십여 세요</sent>
+<sent type="main" lang="kor" page="88" n="11">위인이 긔걸야 말도 잘하고 의사도 만은 자 명보라</sent>
+<sent type="main" lang="kor" page="88" n="12">세간을 나서 그 넘어 동리서 살더니</sent>
+<sent type="main" lang="kor" page="88" n="13">그 씨가 온 후로 양 그 씨를 위로기 위와 큰집에 와서 잇다가</sent>
+<sent type="main" lang="kor" page="88" n="14">밤즁에 통곡 소를 듯고 놀나 들어오며</sent>
+<sent type="main" lang="kor" page="88" n="15">여보 누님 너모 서러 마시오</sent>
+<sent type="main" lang="kor" page="88-89" n="16">부가 죽지 안이하여시면 어련이  오겟소</sent><!--어^련이-->
+
+<sent type="main" lang="kor" page="89" n="01">니 부인이 눈물을 싯고 한슘을 며</sent>
+<sent type="main" lang="kor" page="89" n="02">에그  니약이나 좀 들어 보아라</sent>
+<sent type="main" lang="kor" page="89" n="03">며 동를 일일이 말니</sent>
+<sent type="main" lang="kor" page="89" n="04">명보가 고를 숙이고 한 가더니 는 말이</sent>
+<sent type="main" lang="kor" page="89" n="05">그 이 몽이오</sent>
+<sent type="main" lang="kor" page="89" n="06">흉즉길이라 니 칼에 마즌 사이 멀니 갈 슈 잇소</sent>
+<sent type="main" lang="kor" page="89" n="07">필경 누님 일코 찻다가</sent><!--'찻□가'는 '다'로 추정됨.-->
+<sent type="main" lang="kor" page="89" n="08">못 찻고셔 도로 서울노 들어갓나 보오</sent>
+<sent type="main" lang="kor" page="89" n="09">(부인) 이 그러면 작키 죠켯나냐만은  마음에  죽은 듯십다</sent>
+<sent type="main" lang="kor" page="89" n="10">그러나 네 말도 글럴 듯니</sent>
+<sent type="main" lang="kor" page="89" n="11">일이라도 네가 서울 가셔 소식을 좀 알어 보고</sent>
+<sent type="main" lang="kor" page="89" n="12">만일 권도가 죽지 안코 살어셔 맛거든 부 다리고 오너라</sent>
+<sent type="main" lang="kor" page="89" n="13">(명보) 걱졍 마시오</sent>
+<sent type="main" lang="kor" page="89" n="14"> 서울 가서 권도를 맛나거든</sent>
+<sent type="main" lang="kor" page="89-90" n="15">누님이 여긔 잇단 말만 면 오지 말나 여도 줄밥에 쳐럼 올 터이지요</sent><!--누님이 ^ 여긔-->
+
+<sent type="main" lang="kor" page="90" n="01">(부인) 이 어셔 나가 자고</sent>
+<sent type="main" lang="kor" page="90" n="02">일 일직이 이러나서 서울 날 각이나 여라</sent>
+<sent type="main" lang="kor" page="90" n="03"> 속은 타 것 갓다</sent>
+<sent type="main" lang="kor" page="90" n="04">(명보) 에구 그러치 안이시겟소</sent>
+<sent type="main" lang="kor" page="90" n="05">고 나가거늘 부인이 부지즁에 마음이 죰 너누룩 여 그 모친의게 말되</sent>
+<sent type="main" lang="kor" page="90" n="06">명보의 말이 젼여 밋친 놈의 말은 안인 듯오니</sent>
+<sent type="main" lang="kor" page="90" n="07">엇지엿던 일 서울이 보여 보십시다 고</sent>
+<sent type="main" lang="kor" page="90" n="08">모녀 서로 이련 이약이 져련 이약이 다가</sent>
+<sent type="main" lang="kor" page="90" n="09">날이 발근 후에 명보를 서울노 보엿더라</sent>
+<sent type="main" lang="kor" page="90" n="10">그 잇흔날 명보가 서울을 올나갈  동문으로 드러셔서 죵노를 향고</sent>
+<sent type="main" lang="kor" page="90-91" n="11">올나와서 뎐동으로 막 들어가고져 할 에 죵각 모퉁이에서 엇든 사이 명보를 언든 보드니</sent><!--모퉁^이에서-->
+
+<sent type="main" lang="kor" page="91" n="01">고만 도라셔서 광통교 편으로 려가거늘</sent>
+<sent type="main" lang="kor" page="91" n="02">명보가 그 사의 얼골은 자셔이 보지 못하여시나</sent>
+<sent type="main" lang="kor" page="91" n="03">슈상이 역여 뒤를 라가 보니</sent>
+<sent type="main" lang="kor" page="91" n="04">의심 업 권도라 소를 크게 질너</sent>
+<sent type="main" lang="kor" page="91" n="05">여보 져긔 가 냥반이 권도가 안이시오</sent>
+<sent type="main" lang="kor" page="91" n="06">니 그 이 도라다보고 그제야 할일업셔  말이</sent>
+<sent type="main" lang="kor" page="91" n="07">명본가</sent>
+<sent type="main" lang="kor" page="91" n="08">자네 엇지 올나왓나</sent>
+<sent type="main" lang="kor" page="91" n="09">그 자네 집 소 제졀이 안령들 신가 거늘</sent>
+<sent type="main" lang="kor" page="91" n="10">(명보) 여보 우리집은 무고오만은 부 그 란리에 엇덧케 지스며</sent>
+<sent type="main" lang="kor" page="91" n="11">관졀 우리 누님도 안령시오</sent>
+<sent type="main" lang="kor" page="91" n="12">란리에 죽지나 안이엿나 굼굼여 올나왓</sent><!--'굼굼여'의 뒤쪽 '굼'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="91" n="13">여긔셔 부를 맛나시니 반갑소만은</sent>
+<sent type="main" lang="kor" page="91" n="14">우리 씨 보고 십흔 마음이 시급여</sent>
+<sent type="main" lang="kor" page="91-92" n="15">어셔 집으로 갑시다</sent><!--집으로 ^ 갑시다-->
+
+<sent type="main" lang="kor" page="92" n="01">권도가 얼골이 불거지며 머뭇머뭇다가</sent>
+<sent type="main" lang="kor" page="92" n="02">겨오 입을 여러 간신이</sent>
+<sent type="main" lang="kor" page="92" n="03">자네 씨도 무고이 잇스나</sent>
+<sent type="main" lang="kor" page="92" n="04">나 긔간 남촌으로 이사엿시니</sent>
+<sent type="main" lang="kor" page="92" n="05">뎡동으로 갈 것은 업고</sent>
+<sent type="main" lang="kor" page="92" n="06">자네 여긔서 잠간 긔다리면 가 홍문동 리고양 집에 죰 단녀서 곳 올 터이니</sent>
+<sent type="main" lang="kor" page="92" n="07">부 어로 가지 말게</sent>
+<sent type="main" lang="kor" page="92" n="08">명보가 각즉</sent>
+<sent type="main" lang="kor" page="92" n="09">권도가 자긔 안를 일코 무안야 답할 말이 업셧서 그리 쥴 알지만은</sent>
+<sent type="main" lang="kor" page="92" n="10">우숨을 고 짐즉 권도에 손목을 잡고 말이</sent>
+<sent type="main" lang="kor" page="92" n="11">여보 평상시라도 남간에 오 못 보다가 </sent>
+<sent type="main" lang="kor" page="92" n="12">맛나도 반가올 터인데</sent>
+<sent type="main" lang="kor" page="92-93" n="13">황 란리 후에 일부러 보려 올나온 사을 보고 이럿틋 범연이 졉단 말이오</sent><!--범^연이-->
+
+<sent type="main" lang="kor" page="93" n="01">볼 일은 후ㅅ날 보시고 어셔 집으로 가십시다</sent>
+<sent type="main" lang="kor" page="93" n="02">며 촉이 셩화 갓튼지라</sent>
+<sent type="main" lang="kor" page="93" n="03">권도가 할 슈 업셔  말이</sent>
+<sent type="main" lang="kor" page="93" n="04">그러면 라오소</sent>
+<sent type="main" lang="kor" page="93" n="05">고 남촌을 향고 가데 이 골목에 가서 기웃기웃 져 골목에 가셔 기웃기웃며</sent><!--'기웃기웃'과 '기웃기웃며'의 뒤쪽 '기웃'은 모두 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="93" n="06">아 이게 엇진 일인고</sent>
+<sent type="main" lang="kor" page="93" n="07">우리집이 져 골목 막다른 집인데 엇인지를 모로겟네</sent>
+<sent type="main" lang="kor" page="93" n="08">거늘 명보가 권도의 거동을 보고 우숨을 억지로 참고 소를 질너  말이</sent>
+<sent type="main" lang="kor" page="93" n="09">여보 그런 병신갓튼 말을 지 마오</sent>
+<sent type="main" lang="kor" page="93" n="10">아모리 로 이사를 왓기로</sent>
+<sent type="main" lang="kor" page="93" n="11">세상에 제 집 못 찻 사이 엇이 잇단 말이오</sent>
+<sent type="main" lang="kor" page="93" n="12">뎡뎡 란리에 우리 누님이 죽어거 일엇거나</sent>
+<sent type="main" lang="kor" page="93-94" n="13">그러치 안이면 팔어 자셧거나  것이오그려</sent><!--자셧거나 ^ -->
+
+<sent type="main" lang="kor" page="94" n="01">며 셩을 니</sent>
+<sent type="main" lang="kor" page="94" n="02">권도가 고를 푹 숙이고</sent>
+<sent type="main" lang="kor" page="94" n="03">여보게 이  그럴 리가 잇나</sent>
+<sent type="main" lang="kor" page="94" n="04">가만 잇게</sent>
+<sent type="main" lang="kor" page="94" n="05">(명보) 여보 그러면 엇지여 어름어름오</sent>
+<sent type="main" lang="kor" page="94" n="06">집이야 엇든지  누님이나 차저 오</sent>
+<sent type="main" lang="kor" page="94" n="07">만일 발은로 말을 안이면  이 길로 법사에 가셔 고소라도 할 터이니 요량여 시</sent>
+<sent type="main" lang="kor" page="94" n="08">니 권도가 그제야 할일업서 명보의 손을 잡고 바른로 젼후 지 이약이를 며</sent>
+<sent type="main" lang="kor" page="94" n="09">일변 눈물을 흘니며 일변 숨을 며</sent>
+<sent type="main" lang="kor" page="94" n="10">참 자네 볼 낫이 업셔서 속엿네</sent>
+<sent type="main" lang="kor" page="94" n="11">니 명보는 그 말을 듯고 쟉 놀나며 그거 무순 말이오</sent>
+<sent type="main" lang="kor" page="94" n="12">그러면 당초에 바른로 말을 할 것이지오</sent>
+<sent type="main" lang="kor" page="94" n="13">란리  세상에 안 일키도 례사이니</sent>
+<sent type="main" lang="kor" page="94" n="14">어서 집으로 갑시다 며 촉을 니</sent>
+<sent type="main" lang="kor" page="94-95" n="15">권도사가 마지못야 도로 뎐동으로 와셔 자긔 집에 드러가 안즈며 부인을 각고 탄식을 니</sent><!--마^지못야-->
+
+<sent type="main" lang="kor" page="95" n="01">(명보) 여보 쟝부가 되야 그런 아녀자의 도를 단 말이오</sent>
+<sent type="main" lang="kor" page="95" n="02">(권도) 이 사아 그 말 말게</sent><!--'말 말게'의 뒤쪽 '말'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="95" n="03">외간 졍리에 병이 드러 죽어도 불상다 할 터인데</sent>
+<sent type="main" lang="kor" page="95" n="04">샛파럿케 절문 안를 란리 즁에 일엇시니</sent>
+<sent type="main" lang="kor" page="95" n="05">자네 씨 셩품을 자네도 알거니와</sent>
+<sent type="main" lang="kor" page="95" n="06">무슨 욕을 당면 이 세상에 살아 잇슬 듯 십흔가</sent>
+<sent type="main" lang="kor" page="95" n="07">(명보) 허허 남편이 오작 변변면 눈 고 안를 일는단 말이오</sent><!--'허허', '변변면'의 뒤쪽 '허', '변'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="95" n="08">그러나 이와 그리 된 일을 각면 무엇이 유익오</sent>
+<sent type="main" lang="kor" page="95" n="09">페일언고 오날밤이나 지고 우리집으로 려갑시다</sent>
+<sent type="main" lang="kor" page="95" n="10">(권도) 여보게 무슨 면목으로 자네 집을 간단 말인가</sent>
+<sent type="main" lang="kor" page="95" n="11">(명보) 여보 부가 우리 누님을 짐즛 죽인 것도 안이오</sent>
+<sent type="main" lang="kor" page="95-96" n="12">동지환으로 란리에 실리 것을 엇지할 슈 잇소</sent><!--동^지환으로-->
+
+<sent type="main" lang="kor" page="96" n="01">차라리 우리집으로 가셔 쳔쳔이 차자 보 것이 올슴닌다</sent>
+<sent type="main" lang="kor" page="96" n="02">(권도) 자네 말이 당연니 그러면 갓치 나려가세</sent>
+<sent type="main" lang="kor" page="96" n="03">고 주거니 밧거니 밤 가 줄도 모로고 수쟉다가</sent>
+<sent type="main" lang="kor" page="96" n="04">날이 발근 후에 하인 불너 집을 맛기고</sent>
+<sent type="main" lang="kor" page="96" n="05">남간 동여 나려가더라</sent>
+<sent type="main" lang="kor" page="96" n="06">명보는 권도를 다리고 자긔 큰집으로 가지 안코</sent>
+<sent type="main" lang="kor" page="96" n="07">바로 자긔 집으로 드러가 사랑에 안치오고 </sent>
+<sent type="main" lang="kor" page="96" n="08">안으로 들어가 명보 부인이 마조 나오며</sent>
+<sent type="main" lang="kor" page="96" n="09">(부인) 평안이 단겨오셧스며 관졀 권도나 차저 보셧소</sent>
+<sent type="main" lang="kor" page="96" n="10">(명보) 응 맛나 보앗지만 뎨일 누님이 안령이 게시오</sent>
+<sent type="main" lang="kor" page="96" n="11">(부인) 녜 서울 형님셔 안령시나</sent>
+<sent type="main" lang="kor" page="96" n="12">날마다 근심으로 지시 것이  뵙듸다</sent>
+<sent type="main" lang="kor" page="96" n="13">명보가 손을 회회 두르며 눈을 적적며</sent><!--'회회', '적적며'의 뒤쪽 '회', '적'은 원문에 재점으로 되어 있음.-->
+
+<sent type="main" lang="kor" page="97" n="01">여보 말소 죰 나직나직 오</sent><!--'나직나직'의 뒤쪽 '나직'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="97" n="02">사랑에 권도 왓소</sent>
+<sent type="main" lang="kor" page="97" n="03">(부인) 에구 다라</sent>
+<sent type="main" lang="kor" page="97" n="04">권도가 무사이 잇든 게지</sent>
+<sent type="main" lang="kor" page="97" n="05">에그 형님이 드르시면 오작 죠아하실나구</sent>
+<sent type="main" lang="kor" page="97" n="06">(명보) 그러나 져려나 우리 누님과 권도를 좀 속일 일이 잇시니</sent>
+<sent type="main" lang="kor" page="97" n="07">이 사을 지 마오</sent>
+<sent type="main" lang="kor" page="97" n="08">며 방으로 드러가 부인으로 더부러 젼후 니약이를  후</sent>
+<sent type="main" lang="kor" page="97" n="09">사랑으로 나와 권도를 다리고 드러와셔 </sent>
+<sent type="main" lang="kor" page="97" n="10">그 안를 불너 서로 상면을 식이 셔로 례를 맛친 후에</sent>
+<sent type="main" lang="kor" page="97" n="11">(부인) 원도에 나려오시노라고 오작 고이 되셧스며</sent>
+<sent type="main" lang="kor" page="97" n="12">란리의 형님을 일흐셧다 오니</sent>
+<sent type="main" lang="kor" page="97" n="13">그런 놀나올 데가 잇습닛가</sent>
+<sent type="main" lang="kor" page="97" n="14">(권도) 허 이 사의 가운이 불고 신슈가 긔박야</sent>
+<sent type="main" lang="kor" page="97" n="15">남 업 변을 혼자 당엿오니</sent>
+<sent type="main" lang="kor" page="97" n="16">누구를 탓며 누구를 원망겟습닛가</sent>
+
+<sent type="main" lang="kor" page="98" n="01">그렁져렁 날니 느즌 후에 져녁밥을 먹고 명보가 권도의게 권 말이</sent>
+<sent type="main" lang="kor" page="98" n="02">여보 곤신데 불 고 일즉 쥼으시고 큰집에 일 갑시다</sent>
+<sent type="main" lang="kor" page="98" n="03">나 지금 잠간 단녀오겟소</sent>
+<sent type="main" lang="kor" page="98" n="04">고 안으로 드러가 그 안를 보고 부탁기를</sent>
+<sent type="main" lang="kor" page="98" n="05">부 가 오기 젼에 누가 와셔 찻더도 셔울 가셔 안이 왓다 라</sent>
+<sent type="main" lang="kor" page="98" n="06">고 등불을 들고 자긔 큰집으로 가셔 사랑으로 드러간즉</sent>
+<sent type="main" lang="kor" page="98" n="07">그 부친이 안으로 드러간지라 바로 안으로 들어가더라</sent>
+<sent type="main" lang="kor" page="98" n="08">잇  리진사의 외와 리씨 부인이 쥬야 명보 오기를 고더니</sent>
+<sent type="main" lang="kor" page="98" n="09">이 날은 져녁상을 물니고</sent>
+<sent type="main" lang="kor" page="98" n="10">모여 안자 걱졍을 하 에 문 밧게 불이 빗최며 명보가 드러오지라</sent>
+<sent type="main" lang="kor" page="98" n="11">리진사의 외와 리부인이 밋쳐 잘 단녀 왓느냐</sent>
+<sent type="main" lang="kor" page="98" n="12">인사도 할 틈 업시 위션 뭇 말이</sent>
+<sent type="main" lang="kor" page="98" n="13">그 권도의 죵젹을 차졋나냐</sent>
+
+<sent type="main" lang="kor" page="99" n="01">(명보) 에구 공연이 헛거름만 고 왓습니다</sent>
+<sent type="main" lang="kor" page="99" n="02">(부인) …</sent>
+<sent type="main" lang="kor" page="99" n="03">(모친) …</sent>
+<sent type="main" lang="kor" page="99" n="04">(리씨 부인) 에구우 명보야 그게 웬 말이냐</sent>
+<sent type="main" lang="kor" page="99" n="05">말이나 죰 이 하렴으나</sent><!--'이'의 뒤쪽 ''은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="99" n="06">그 보기커녕 소식도 못 드른 게로구나</sent>
+<sent type="main" lang="kor" page="99" n="07">(명보) 소식도 듯지 못엿 더구나 보기를 엇덧케 본단 말이오</sent>
+<sent type="main" lang="kor" page="99" n="08">그러나 이 번 란리에 사이 퍽 만이 죽엇답듸다</sent>
+<sent type="main" lang="kor" page="99" n="09">(부친) 그러면 사외 의심 업시 죽은 사이로구면</sent>
+<sent type="main" lang="kor" page="99" n="10">(모친) 에구 권도가 만일 불엿시면 네 누이 신세 엇지잔 말이냐</sent>
+<sent type="main" lang="kor" page="99" n="11">(리씨 부인) 구 그러면 이 일을 엇지한단 말인구</sent>
+<sent type="main" lang="kor" page="99" n="12">그 뎐동 우리 사돈집이나 가셔 보앗더냐</sent>
+<sent type="main" lang="kor" page="99" n="13">(명보) 예 집은 가셔 보앗지오</sent>
+
+<sent type="main" lang="kor" page="100" n="01">(리 부인) 그 집은 그냥 잇더냐</sent>
+<sent type="main" lang="kor" page="100" n="02">(명보) 뎐동 누님 집을 가셔 본즉</sent>
+<sent type="main" lang="kor" page="100" n="03">다른 사이 발셔 드러 잇고</sent>
+<sent type="main" lang="kor" page="100" n="04">권도의 소식을 무른즉</sent>
+<sent type="main" lang="kor" page="100" n="05">모른다기에 할일업셔 방으로 단이며 차진들 허다 사에 알 수가 업셔 도로 나려오다가</sent>
+<sent type="main" lang="kor" page="100" n="06"> 왕십리 와셔 탐지즉</sent>
+<sent type="main" lang="kor" page="100" n="07">동리 사들 말이 허다 피란에 누가 누구인지 알며</sent>
+<sent type="main" lang="kor" page="100" n="08">우리도 피란 갓다가</sent>
+<sent type="main" lang="kor" page="100" n="09">도로 드러온 지 몃칠이 못 되엿고</sent>
+<sent type="main" lang="kor" page="100" n="10">져 것너 무덤이 모다 이 번에 죽은 사인데 알 수 잇소만은</sent>
+<sent type="main" lang="kor" page="100" n="11">그 에 살고지고에 엇던 사이 죽엇 의관도 션명고 모양도 얌젼</sent>
+<sent type="main" lang="kor" page="100" n="12">나이 한 삼십 되락마락 더란 말만 들엇지만은</sent>
+<sent type="main" lang="kor" page="100" n="13">엇던 무덤이 그 무덤인지 알 수 업다 옵듸다</sent>
+<sent type="main" lang="kor" page="100" n="14">(리씨 부인) 에그 에그 그려면 그것이 권도로구나</sent><!--'에그'의 뒤쪽 '에그'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="100" n="15">인제 바라던 일도 헛 것이오</sent>
+<sent type="main" lang="kor" page="100" n="16"> 신세를 엇지할ㅅ고</sent>
+<sent type="main" lang="kor" page="100" n="17">밝고 밝은 하님도 이런 못할 노릇을 식이시나</sent>
+
+<sent type="main" lang="kor" page="101" n="01">며 방셩곡을 지라</sent>
+<sent type="main" lang="kor" page="101" n="02">명보가 잠시 롱으로 그 부모와 그 씨를 속여시되</sent>
+<sent type="main" lang="kor" page="101" n="03">지금 그 씨의 서러을 보더니 가이업슨 각이 들던지 다시 위로 하 말이라</sent>
+<sent type="main" lang="kor" page="101" n="04">누님 누님 울지 마시고  말 좀 들으시오</sent><!--'누님 누님'의 뒤쪽 '누님'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="101" n="05">란리 즁에 죽은 사이 허다</sent>
+<sent type="main" lang="kor" page="101" n="06">살고지고에셔 죽은 사이  부 쥴 알 슈 잇쇼</sent>
+<sent type="main" lang="kor" page="101" n="07">감안이 게시오</sent>
+<sent type="main" lang="kor" page="101" n="08">가 엇더케 든지 누님 속이 싀연게 진젹 소문을 탐디리다</sent>
+<sent type="main" lang="kor" page="101" n="09">고 이 모양으로 그 씨를 위로야 우름을 치게 고</sent>
+<sent type="main" lang="kor" page="101" n="10">자긔 집으로 도라와 그 잇튼날부터 권도가 자긔 큰집으로 간다고 면 가지 못도록 방으로 방을 셔 그렁져렁 수일이 되얏</sent>
+<sent type="main" lang="kor" page="101" n="11">하로 명보가 자긔 부인을 향야 감안감안  말이</sent>
+<sent type="main" lang="kor" page="101" n="12">여보 오날은 가 누님을 뫼시고 올 것이니 이리이리 시오</sent><!--'이리이리'의 뒤쪽 '이리'는 원문에 재점으로 되어 있음.-->
+
+<sent type="main" lang="kor" page="102" n="01">고 큰집으로 가셔 그 씨를 보고</sent>
+<sent type="main" lang="kor" page="102" n="02">여보 누님 울적도 시고 화도 나시</sent>
+<sent type="main" lang="kor" page="102" n="03">오날은 우리집에나 가셔서 바이나 쐬고 오시구려</sent>
+<sent type="main" lang="kor" page="102" n="04">니 리씨 부인은 그리쟈 고</sent>
+<sent type="main" lang="kor" page="102" n="05">저녁 후에 남 갓치 왓더라</sent>
+<sent type="main" lang="kor" page="102" n="06">명보의 부인이 방으로 마자 드러 안진 후에</sent>
+<sent type="main" lang="kor" page="102" n="07">에그 형님 져 노릇을 엇져면 죳심닛가</sent>
+<sent type="main" lang="kor" page="102" n="08">권도가 살아 게신지 안이할 말노 아조 도라가셧지 진뎍 소식을 들을 길 업오니</sent>
+<sent type="main" lang="kor" page="102" n="09">그런 답답 일이 어 잇서오</sent><!--'답답'의 뒤쪽 '답'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="102" n="10">니 리씨 부인은 눈물을 흘녀 옷깃을 적시며 아모 말도 업시 안젓거늘</sent>
+<sent type="main" lang="kor" page="102" n="11">(명보) 누님 담나 잡스시오</sent>
+<sent type="main" lang="kor" page="102" n="12">그지 권도 각 무엇시오</sent>
+<sent type="main" lang="kor" page="102" n="13">차차 보아 가며 맛당 곳 잇거든 시집이나 가시오</sent>
+<sent type="main" lang="kor" page="102" n="14">니 리씨 부인은 발연 변을 며 그 오비를 짓 말이</sent>
+
+<sent type="main" lang="kor" page="103" n="01">너도 냥반의 자손이 되야 디에 남편 잇 누의더러 가를 가라 단 말이냐</sent>
+<sent type="main" lang="kor" page="103" n="02">어 괴약 소리도 다 듯겟다</sent>
+<sent type="main" lang="kor" page="103" n="03">다시 그런 망칙 소리를 지 말어라</sent>
+<sent type="main" lang="kor" page="103" n="04">며 심이 분연여 니</sent>
+<sent type="main" lang="kor" page="103" n="05">명보는 빙긋빙긋 우스며 사랑으로 나가 권도를 보고  말이</sent>
+<sent type="main" lang="kor" page="103" n="06">여보 부 인제 누님 각 마시고</sent>
+<sent type="main" lang="kor" page="103" n="07">맛당 과부가 잇거든 쟝가 들어 살님이나 어서  도리를 여 보시오</sent>
+<sent type="main" lang="kor" page="103" n="08">(권도) 이 사아 쟝가란 것이 다 무엇인가</sent>
+<sent type="main" lang="kor" page="103" n="09">(명보) 그러면 호라비로 늙어 죽을 터이오</sent>
+<sent type="main" lang="kor" page="103" n="10">우리 누님은 뎡코 도라가신 누님이데 녀편네 슈졀단 말은 들엇시나</sent>
+<sent type="main" lang="kor" page="103" n="11">남자가 녀편네 위 슈졀이란 말은 쳐음 듯겟소</sent>
+<sent type="main" lang="kor" page="103-104" n="12">(권도) 이 사아 지금은 쟝가 각도 업슬  안이라 맛당 혼쳐가 어 잇겟나</sent><!--맛당 ^ 혼쳐가-->
+
+<sent type="main" lang="kor" page="104" n="01">(명보) 여보 신낭이 잇시면 신부가 잇지</sent>
+<sent type="main" lang="kor" page="104" n="02">혼쳐 업서 쟝가 못 드난 법이 엇의 잇겟소</sent>
+<sent type="main" lang="kor" page="104" n="03">가 오날 큰집에를 갓더니</sent>
+<sent type="main" lang="kor" page="104" n="04">우리 외쳑으로 팔촌 되 과부 한아이 잇데</sent>
+<sent type="main" lang="kor" page="104" n="05">외양과 범졀이며 침션방젹이 우리 누님보다 못지 안이지라</sent>
+<sent type="main" lang="kor" page="104" n="06">맛 게 와서 잇기로</sent>
+<sent type="main" lang="kor" page="104" n="07">가 부를 위야 여러 번 말을 건너 보아시나</sent>
+<sent type="main" lang="kor" page="104" n="08">고집고 듯지 안이나 그 속죵인즉 솔깃한 모양이니</sent>
+<sent type="main" lang="kor" page="104" n="09">가 지금 들어가 사랑으로 보 것이니</sent>
+<sent type="main" lang="kor" page="104" n="10">맛 불을 고 문 엽헤 빗겨 셧다가</sent>
+<sent type="main" lang="kor" page="104" n="11">만일 방문을 열고 들어셔거든</sent>
+<sent type="main" lang="kor" page="104" n="12">등불을 쳐셔 고 불문곡직고 붓들어셔 부의 슈단로 여 보시오</sent>
+<sent type="main" lang="kor" page="104" n="13">그 부인의 셩품이 영악니 잘못다가</sent>
+<sent type="main" lang="kor" page="104" n="14">일도 되지 안코 욕만 볼 것이니 부 졍신 차리시오</sent>
+<sent type="main" lang="kor" page="104" n="15">자긔가 아모리 송갓튼 졀가 잇기로</sent>
+<sent type="main" lang="kor" page="104-105" n="16">한 번 허신만 면 고만이지 무슨 뒤ㅅ탈이 잇겟소</sent><!--잇겟^소-->
+
+<sent type="main" lang="kor" page="105" n="01">(권도) 자네가 그쳐렴 니 아모려나  보세 더라</sent>
+<sent type="main" lang="kor" page="105" n="02">명보가 안으로 드러와서 그 씨를 보고  말이</sent>
+<sent type="main" lang="kor" page="105" n="03">누님 심심신데 무엇을 엿시면 누님 마음을 위로할ㅅ고</sent><!--'심심신데'의 뒤쪽 '심'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="105" n="04">올치 죠흔 것이 잇소</sent>
+<sent type="main" lang="kor" page="105" n="05">가 이 번 서울 가셔 죠흔 니약이을 사다가 사랑에 두엇시니</sent>
+<sent type="main" lang="kor" page="105" n="06">그 것을 갓다가 보시오</sent>
+<sent type="main" lang="kor" page="105" n="07">(리 부인) 오냐 그러면 가지고 들어오너라</sent>
+<sent type="main" lang="kor" page="105" n="08">(명보) 에구 맛침 발이 졀여 작을 할 슈 업스니 사랑에 아모도 업소</sent>
+<sent type="main" lang="kor" page="105" n="09">누님이 나가셔서 상 우에 잇 을 집어 가지고 들어오시오 니</sent>
+<sent type="main" lang="kor" page="105" n="10">리씨 부인은 그 말을  곳지듯고 등불을 켜 들고 사랑으로 나가더라</sent>
+<sent type="main" lang="kor" page="105-106" n="11">잇  권도 명보가 들어간 후에 불을 고 문 엽헤 붓터셔서 과부가 나올 만 기다리</sent><!--붓터셔서 ^ 과부가-->
+
+<sent type="main" lang="kor" page="106" n="01">한 후에 안으로서 신발 소리가  나더니</sent><!--''의 뒤쪽 ''은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="106" n="02">것뭇어 불빗이 빗취며 엇던 부인이 나오면서 무에라고 혼자말을 </sent>
+<sent type="main" lang="kor" page="106" n="03">그 음성을 드른즉 흡사 자긔 부인의 음셩이라</sent>
+<sent type="main" lang="kor" page="106" n="04">그러나 그 의심은 반 푼 어치도 들지 안코</sent>
+<sent type="main" lang="kor" page="106" n="05">혼자말노 세상에 갓흔 음셩도 만타</sent>
+<sent type="main" lang="kor" page="106" n="06">명보의 외쳑 팔촌 누의라닛가</sent>
+<sent type="main" lang="kor" page="106" n="07">우리 마누라의 음성이 외탁을 한 것이로구</sent>
+<sent type="main" lang="kor" page="106" n="08">며 잔 누고 셧더니</sent>
+<sent type="main" lang="kor" page="106" n="09">거무하게 방문을 열고 등불이 들어오거늘</sent>
+<sent type="main" lang="kor" page="106" n="10">불문곡직고 독슈리 병아리 듯 등불을 손으로 더 치며</sent>
+<sent type="main" lang="kor" page="106" n="11">달녀들어 훔켜 붓들고 아목으로 고 가거늘</sent>
+<sent type="main" lang="kor" page="106" n="12">부인이 불의지변을 당야 연약 긔질노 장 남를 엇지 당리오</sent>
+<sent type="main" lang="kor" page="106" n="13">외마 소리 버럭 지르고 업드러져 인사졍신을 못 리다가</sent>
+<sent type="main" lang="kor" page="106" n="14">한 후에 모긔 소만치 도젹이야 도젹이야 쥭을 힘을 다 드려 지르</sent>
+<sent type="main" lang="kor" page="106" n="15">이  명보 방문 밧게 령고 셧다가  우스며</sent>
+
+<sent type="main" lang="kor" page="107" n="01">누님 누님 그러케 된 이상에 소리를 질너도 쓸데 업스니</sent><!--'누님 누님'의 뒤쪽 '누님'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="107" n="02">차라리 슌종을 시고 그 사과 갓치 사시 것이 올슴닌다</sent>
+<sent type="main" lang="kor" page="107" n="03">가 누님 졍경을 불상이 녁여 그 사을 미리 다려다 두엇슴니다</sent>
+<sent type="main" lang="kor" page="107" n="04">리씨 부인은 명보의 말을 듯더니 더구나 소리를 지르며</sent>
+<sent type="main" lang="kor" page="107" n="05">이놈 명보야 그랴 네가 나를 쥭여</sent>
+<sent type="main" lang="kor" page="107" n="06">이놈 명보야 네가 네 누의를 쥭여</sent>
+<sent type="main" lang="kor" page="107" n="07">셜사 강약이 부동야 욕을 보기로 가 살 듯십흐냐</sent>
+<sent type="main" lang="kor" page="107" n="08">며 권도를 물고 차고 쥐여 으며 팔짓 달리짓 발짓으로 몸부림을 며 쥭을 동 살 동 모르고  가지로 방을 </sent>
+<sent type="main" lang="kor" page="107" n="09">권도는 허다 못야 리씨 부인을 탁 노아 버리며</sent>
+<sent type="main" lang="kor" page="107" n="10">허 나는  명보 문에 이런 망신을 겟다</sent>
+<sent type="main" lang="kor" page="107" n="11">이 부인이 슌죵을 스면 이 여부 져 여부가 업스려니와 이리 쥴기 차게 앙탈을 니</sent>
+<sent type="main" lang="kor" page="107" n="12">이 노릇을 엇지면 죳탄 말인구</sent>
+
+<sent type="main" lang="kor" page="108" n="01">며 다시 드러 아못죠록 욕이나 한 번 뵐 마음인</sent>
+<sent type="main" lang="kor" page="108" n="02">리씨 부인은 일변 악을 쓰며 일변 몸부림을  다가</sent><!--''의 뒤쪽 ''은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="108" n="03">그 음성을 듯더니 곡지통이 다시 나온다</sent>
+<sent type="main" lang="kor" page="108" n="04">에구 에구 권도 엇의를 가고 날로 야곰 이런 욕을 당게 누</sent>
+<sent type="main" lang="kor" page="108" n="05">권도가 그 소리를 듯더니</sent>
+<sent type="main" lang="kor" page="108" n="06">그제야 의심이 동든지 셕양 가지에 불을 켜 들고 한 들여다 보더니</sent>
+<sent type="main" lang="kor" page="108" n="07">걱 소리를 못고 안졋다가</sent>
+<sent type="main" lang="kor" page="108" n="08">왈악 달녀들어 리씨 부인을 텩 붓들고</sent>
+<sent type="main" lang="kor" page="108" n="09">여보 마누라 나 좀 보오</sent>
+<sent type="main" lang="kor" page="108" n="10">이게 웬일이오</sent>
+<sent type="main" lang="kor" page="108" n="11">마누라 마누라 이게 웬일이오</sent><!--'마누라 마누라'의 뒤쪽 '마누라'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="108" n="12">이 것이 이오 시오</sent>
+<sent type="main" lang="kor" page="108" n="13">이 것이 웬일이오</sent>
+<sent type="main" lang="kor" page="108" n="14">마누라 그도 나를 모르겟소</sent>
+<sent type="main" lang="kor" page="108" n="15">리씨 부인도 권도의 음셩을 듯고 이상이 녁이든 헤</sent>
+<sent type="main" lang="kor" page="108" n="16">그 말 듯고 그 얼골을 보니</sent>
+<sent type="main" lang="kor" page="108" n="17">우름이 다시 터지기를 시작다</sent>
+
+<sent type="main" lang="kor" page="109" n="01">에구 에구 나으리 에구 에구 나으리 나으리가 란리에 쳔금귀톄를 보젼야 사라 와 게시오</sent><!--'에구 에구'의 뒤쪽 '에구'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="109" n="02">창 칼에 비명횡사를 셧소</sent>
+<sent type="main" lang="kor" page="109" n="03">원혼이 뭉치여 와 게시오</sent>
+<sent type="main" lang="kor" page="109" n="04">에구 에구 지금 나으리를 뵈와도 사라셔 외 셔로 맛난가 십지 안소구려</sent><!--'에구 에구'의 뒤쪽 '에구'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="109" n="05">에구 에구</sent><!--'에구 에구'의 뒤쪽 '에구'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="109" n="06">며 우름 만 사셜 반으로 우름을 칠 쥴 모르지라</sent>
+<sent type="main" lang="kor" page="109" n="07">권도 역시 눈물을 흘니며</sent>
+<sent type="main" lang="kor" page="109" n="08">허 우리 두 외가 이러케 맛나기 쳔만 밧기오</sent>
+<sent type="main" lang="kor" page="109" n="09">자 지 일은 엇지 되얏든지 그런 환란 듕에 피차 몸 셩이 잇다 서로 맛나시니 이만 다이 업소</sent>
+<sent type="main" lang="kor" page="109" n="10">거무하에 명보도 허허 우스며 드러와 그 씨를 보고 사과 말이라</sent>
+<sent type="main" lang="kor" page="109" n="11">누님 누님 작죄 일이 만으니 용셔시오</sent>
+<sent type="main" lang="kor" page="109-110" n="12">누님 두 외 당 일이 하도 긔이기에 한 번 희롱을 자고 그리습듼다</sent><!--자고 ^ 그리습듼다-->
+
+<sent type="main" lang="kor" page="110" n="01">고 그 씨 외 겻헤 안자 권도의게 그 씨의 당 일을 신 셜파고</sent>
+<sent type="main" lang="kor" page="110" n="02">그 씨의게는 권도의 지 일을 자세이 말더라</sent>
+<sent type="title" lang="kor" page="110" n="03">마샹루 죵</sent>
+
+</doc>
+

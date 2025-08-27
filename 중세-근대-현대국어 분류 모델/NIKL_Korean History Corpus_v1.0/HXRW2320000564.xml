@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">산양대전</title>
+<title lang="chi">山陽大戰</title>
+<fullname> </fullname>
+<generalname> </generalname>
+<abbre> </abbre>
+<volume n=""/>
+<author>미상</author>
+<date>1916</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>산양젼 구활자본 고소설전집 5권</title>
+<pubPlace>?</pubPlace>
+<publisher>인천대학 민족문화연구소</publisher>
+<date>1983</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>1994/11/05</date>
+<respStmt>
+<resp>입력자</resp><name>박희병</name>
+</respStmt>
+<item>1~68면</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1994/11/25</date>
+<respStmt>
+<resp>교정자</resp><name>박희병</name>
+</respStmt>
+<item>교정</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1998/10</date>
+<respStmt>
+<resp>프로젝트 책임자</resp><name>김흥규</name>
+<resp>연구원</resp><name>차준경</name>
+<resp>프로그래머</resp><name>이애란</name>
+</respStmt>
+<item>파일 변환, 세종 21 프로젝트 헤더 붙임, 마킹</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>223/05/16</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>223/05/29</date>
+<respStmt>
+<resp>입력자</resp><name>곽영영</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="kor" page="c1" n="01">三國風塵 山陽大戰 目次</sent>
+<sent type="main" lang="kor" page="c1" n="02">삼국풍진 산양젼 목차</sent>
+<sent type="main" lang="kor" page="c1" n="03"><ruby>뎨일장<rt>第一章</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>한<rt>漢</rt></ruby>나라 치기를 <ruby>의론<rt>議論</rt></ruby>고 <ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>션봉<rt>先鋒</rt></ruby>이 되여 <ruby>진군<rt>進軍</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="c1" n="04"><ruby>뎨이장<rt>第二章</rt></ruby> <ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby>이 <ruby>젹병<rt>賊兵</rt></ruby> 막기를 근심고 <ruby>운장<rt>雲長</rt></ruby>과 <ruby>긔<rt>孟起</rt></ruby>ㅣ <ruby>일시<rt>一時</rt></ruby>에 드러오다</sent><!--'적병'은 '젹병'이 되어야 함. 원문의 '적'이 '젹'의 오자임.-->
+<sent type="main" lang="kor" page="c1" n="05"><ruby>뎨삼장<rt>第三章</rt></ruby> <ruby>팔쟝<rt>八將</rt></ruby>을 쥭여 쳐음 <ruby>공<rt>功</rt></ruby>을 셰우고 <ruby>명무<rt>名武</rt></ruby>를 버혀 <ruby>위진<rt>魏陣</rt></ruby>에 <ruby>횡<rt>橫行</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="c1" n="06"><ruby>뎨사장<rt>第四章</rt></ruby> <ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>한효<rt>韓曉</rt></ruby>로 <ruby>젼<rt>大戰</rt></ruby>고 <ruby>운장<rt>雲長</rt></ruby>이 <ruby>긔<rt>孟起</rt></ruby>를 <ruby>구<rt>救</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="c1" n="07"><ruby>뎨오장<rt>第五章</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>를 버혀 <ruby>위병<rt>魏兵</rt></ruby>을 <ruby>파<rt>大破</rt></ruby>고 <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>삼국<rt>三國</rt></ruby>에 <ruby>쳥병<rt>請兵</rt></ruby>다</sent><!--'청병'은 '쳥병'이 되어야 함. 원문의 '청'이 '쳥'의 오자임.-->
+<sent type="main" lang="kor" page="c1" n="08"><ruby>뎨륙장<rt>第六章</rt></ruby> <ruby>관운장<rt>關雲長</rt></ruby>이 <ruby>위진<rt>魏陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 에워싸히고 <ruby>죠자룡<rt>趙子龍</rt></ruby>이 <ruby>산양슈<rt>山陽水</rt></ruby>를 여건너다</sent><!--'어건너다'는 '여건너다'가 되어야 함. 원문의 '어'가 '여'의 오자임.-->
+<sent type="main" lang="kor" page="c1" n="09"><ruby>뎨칠장<rt>第七章</rt></ruby> <ruby>죠자룡<rt>趙子龍</rt></ruby>이 <ruby>삼국병<rt>三國兵</rt></ruby>을 쓰러바리고 <ruby>조덕<rt>趙孟德</rt></ruby>이 <ruby>슈염<rt>鬚髯</rt></ruby>을 고 <ruby>도망<rt>逃亡</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="c1" n="10"><ruby>뎨팔장<rt>第八章</rt></ruby> 연을 <ruby>셜<rt>排設</rt></ruby>야 <ruby>삼장<rt>三將</rt></ruby>을 <ruby>위로<rt>慰勞</rt></ruby>고 <ruby>한왕<rt>漢王</rt></ruby>과 <ruby>위왕<rt>魏王</rt></ruby>이 <ruby>구계산<rt>九稽山</rt></ruby>에 모히다</sent>
+
+<sent type="main" lang="kor" page="c2" n="01"><ruby>뎨구장<rt>第九章</rt></ruby> <ruby>공명<rt>孔明</rt></ruby>이 <ruby>슈<rt>數罪</rt></ruby>니 <ruby>조죠<rt>曹操</rt></ruby>가 <ruby>참<rt>大慚</rt></ruby>고 <ruby>량진졔장<rt>兩陣諸將</rt></ruby>이 <ruby>조<rt>才操</rt></ruby>를 <ruby>시험<rt>試驗</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="c2" n="02"><ruby>뎨십장<rt>第十章</rt></ruby> <ruby>로장<rt>老將</rt></ruby> <ruby>황츙<rt>黃忠</rt></ruby>이 <ruby>조인<rt>曹仁</rt></ruby>을 <ruby>금<rt>生擒</rt></ruby>고 <ruby>진겁<rt>陣法</rt></ruby>을 보고 가마니 <ruby>퇴병<rt>退兵</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="c2" n="03">삼국풍진 산양젼 목차 죵</sent>
+
+<sent type="title" lang="kor" page="1" n="01">三國風塵 山陽大戰</sent>
+<sent type="main" lang="kor" page="1" n="02">삼국풍진 산양젼</sent><!--'풍진삼국'은 '삼국풍진'이 되어야 함.-->
+<sent type="title2" lang="kor" page="1" n="03"><ruby>뎨일장<rt>第一章</rt></ruby></sent>
+<sent type="main" lang="kor" page="1" n="04"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>한<rt>漢</rt></ruby>나라 치기를 <ruby>의론<rt>議論</rt></ruby>고 <ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>션봉<rt>先鋒</rt></ruby>이 되여 <ruby>진군<rt>進軍</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="1" n="05"><ruby>화셜<rt>話說</rt></ruby> <ruby>한말<rt>漢末</rt></ruby>에 <ruby>삼국<rt>三國</rt></ruby>이 <ruby>분<rt>分爭</rt></ruby>니 <ruby>한즁왕<rt>漢中王</rt></ruby> <ruby>류비<rt>劉備</rt></ruby>와 <ruby>위왕<rt>魏王</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>와 <ruby>동오왕<rt>東吳王</rt></ruby> <ruby>손권<rt>孫權</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="1" n="06"><ruby>각각<rt>各各</rt></ruby> <ruby>웅병장<rt>雄兵猛將</rt></ruby>을 거나려 <ruby>한<rt>漢</rt></ruby>나라 젼폭원을 아스려야</sent><!--'각각'의 두 번째 글자는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="1" n="07">셔로 닷톨 <ruby>위왕조죠<rt>魏王曹操</rt></ruby>ㅣ <ruby>만병<rt>百萬大兵</rt></ruby>과 용장 쳔여 원을 거나려 한으로 더부러 싸호다가</sent>
+<sent type="main" lang="kor" page="1" n="08"><ruby>산양슈<rt>山陽水</rt></ruby>에셔 <ruby><rt>大敗</rt></ruby>야 도라와 <ruby>분<rt>忿</rt></ruby>함을 참지 못야</sent>
+<sent type="main" lang="kor" page="1" n="09"><ruby>제쟝<rt>諸將</rt></ruby>을 모흐고 <ruby>뎡욱<rt>程昱</rt></ruby> 다려 일너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="1" n="10"> <ruby>쳔하<rt>天下</rt></ruby>에 <ruby>횡<rt>橫行</rt></ruby>되 한 번도 <ruby><rt>敗</rt></ruby>미 업더니</sent>
+<sent type="main" lang="kor" page="1" n="11">이번 싸홈에 <ruby>쳔<rt>千</rt></ruby> <ruby>여원<rt>餘員</rt></ruby> <ruby>장슈<rt>將帥</rt></ruby>와 <ruby>허다<rt>許多</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>을 일엇스니</sent>
+<sent type="main" lang="kor" page="1" n="12">엇지 써 이 <ruby>분<rt>忿</rt></ruby>을 풀니오</sent>
+<sent type="main" lang="kor" page="1" n="13"><ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="1" n="14"><ruby>젼장<rt>戰場</rt></ruby>에 나아가 보오니 <ruby>한<rt>漢</rt></ruby>을 <ruby>경젹<rt>輕敵</rt></ruby>지 못지라</sent>
+<sent type="main" lang="kor" page="1" n="15"><ruby>한즁<rt>漢中</rt></ruby>에 날 <ruby>장슈<rt>將帥</rt></ruby> <ruby>쳔<rt>天</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>이 모엿고 <ruby>모사<rt>謀士</rt></ruby> <ruby>남양<rt>南陽</rt></ruby>  <ruby>졔갈량<rt>諸葛亮</rt></ruby>이니</sent>
+<sent type="main" lang="kor" page="1-2" n="16"><ruby>병법<rt>兵法</rt></ruby>은 <ruby>셕일<rt>昔日</rt></ruby> <ruby>사마양져<rt>司馬穰苴</rt></ruby>라도 이에 지나지 못리 엇지 겨루리잇가</sent><!--겨루리잇^가-->
+
+<sent type="main" lang="kor" page="2" n="01"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="2" n="02">그러진 엇지리오</sent>
+<sent type="main" lang="kor" page="2" n="03"><ruby>뎡욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="2" n="04"><ruby>왕<rt>大王</rt></ruby>은 다만 <ruby>덕<rt>德</rt></ruby>을 닥그시고 <ruby>사졸<rt>士卒</rt></ruby>을 <ruby>무휼<rt>撫恤</rt></ruby>소셔</sent>
+<sent type="main" lang="kor" page="2" n="05"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="2" n="06"><ruby>장안<rt>長安</rt></ruby> <ruby>군<rt>軍士</rt></ruby> <ruby>만<rt>百萬</rt></ruby> <ruby>명<rt>名</rt></ruby>이오 <ruby>장<rt>猛將</rt></ruby>이 <ruby>쳔<rt>千</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>이 잇스니 무 <ruby>념녀<rt>念慮</rt></ruby>리오</sent>
+<sent type="main" lang="kor" page="2" n="07"><ruby>뎡욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="2" n="08"><ruby>셕일<rt>昔日</rt></ruby> <ruby>셔초왕<rt>西楚霸王</rt></ruby>은 <ruby>텬하영웅<rt>天下英雄</rt></ruby>이로되 <ruby>한조<rt>漢太祖</rt></ruby>와 싸와 <ruby>능<rt>能</rt></ruby>이 이긔지 못고 <ruby>오강<rt>烏江</rt></ruby>에 <ruby>자문<rt>自刎</rt></ruby>엿사오니</sent>
+<sent type="main" lang="kor" page="2" n="09"><ruby>져<rt>大抵</rt></ruby> <ruby>텬하<rt>天下</rt></ruby> <ruby>득실<rt>得失</rt></ruby>은 <ruby>덕<rt>德</rt></ruby>에 잇고 <ruby>용녁<rt>勇力</rt></ruby>에 잇지 아니오니</sent>
+<sent type="main" lang="kor" page="2" n="10"><ruby>왕<rt>大王</rt></ruby>은 다만 <ruby>덕<rt>德</rt></ruby>을 닥그 <ruby>뎐명<rt>天命</rt></ruby>을 <ruby>슌<rt>順</rt></ruby>이소셔</sent>
+<sent type="main" lang="kor" page="2" n="11"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="2" n="12">그러면 <ruby>한<rt>漢</rt></ruby>으로 더부러 <ruby>화친<rt>和親</rt></ruby>야 <ruby>한<rt>漢</rt></ruby>을 셤기미 <ruby>가<rt>可</rt></ruby>랴</sent>
+<sent type="main" lang="kor" page="2" n="13"><ruby>졔장<rt>諸將</rt></ruby>이 말이 업더니 <ruby>뎡욱<rt>程昱</rt></ruby>이 다시 <ruby>쥬왈<rt>奏曰</rt></ruby></sent><!--'없더니'는 '업더니'가 되어야 함. 원문의 '없'이 '업'의 오자임.-->
+<sent type="main" lang="kor" page="2" n="14"><ruby>텬하<rt>天下</rt></ruby> <ruby>득실<rt>得失</rt></ruby> 하이 반다시 <ruby>덕<rt>德</rt></ruby> 잇 <ruby><rt>者</rt></ruby>에게 돌녀 보시니</sent>
+<sent type="main" lang="kor" page="2" n="15"><ruby>왕<rt>大王</rt></ruby>은 다만 <ruby>덕<rt>德</rt></ruby>을 닥그 <ruby>린국<rt>隣國</rt></ruby>을 <ruby>화목<rt>和睦</rt></ruby>시고</sent>
+<sent type="main" lang="kor" page="2" n="16"><ruby>군<rt>軍士</rt></ruby>를 <ruby>조련<rt>操鍊</rt></ruby>야 써 를 기다리면 <ruby>텬하<rt>天下</rt></ruby> 엇기를 엇지 근심리잇가</sent>
+<sent type="main" lang="kor" page="2" n="17">말이 맛지 못야셔 문득 한 <ruby>장<rt>將士</rt></ruby> 나아와 <ruby>뎡욱<rt>程昱</rt></ruby>을 <ruby><rt>責</rt></ruby>고 <ruby>조죠<rt>曹操</rt></ruby>의게 <ruby>쥬왈<rt>奏曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="2" n="18"><ruby>뎡욱<rt>程昱</rt></ruby>은 <ruby>간신<rt>姦臣</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="2" n="19"><ruby>한<rt>漢</rt></ruby>을 <ruby>위<rt>爲</rt></ruby>고 <ruby>위<rt>魏</rt></ruby>를 <ruby><rt>害</rt></ruby>야 <ruby>군심<rt>軍心</rt></ruby>을 <ruby>산란<rt>散亂</rt></ruby>케 오니 <ruby>그<rt>其</rt></ruby> <ruby>죄<rt>罪</rt></ruby>를 <ruby>가<rt>可</rt></ruby>이 <ruby>용셔<rt>容恕</rt></ruby>치 못올지라</sent>
+<sent type="main" lang="kor" page="2" n="20"><ruby>소장<rt>小將</rt></ruby>이 비록 <ruby>조<rt>才操</rt></ruby> 업오나 <ruby>왕<rt>大王</rt></ruby>이 <ruby>일지병<rt>一枝兵</rt></ruby>을 빌니시면</sent>
+<sent type="main" lang="kor" page="2" n="21"><ruby>산양<rt>山陽</rt></ruby>에 나아가 <ruby>한<rt>漢</rt></ruby>으로 더부러 한 번 싸와 <ruby>류현덕<rt>劉玄德</rt></ruby>을 금고</sent>
+<sent type="main" lang="kor" page="2-3" n="22"><ruby>졔갈량<rt>諸葛亮</rt></ruby>의 머리를 버혀 <ruby>휘하<rt>麾下</rt></ruby>에 드리고 <ruby>한<rt>漢</rt></ruby>을 <ruby>평뎡<rt>平定</rt></ruby> <ruby>후득승지병<rt>後得勝之兵</rt></ruby>을 잇그러</sent><!--한^을-->
+
+<sent type="main" lang="kor" page="3" n="01"><ruby>동오<rt>東吳</rt></ruby> <ruby>손권<rt>孫權</rt></ruby>을 사로잡아 <ruby>강동<rt>江東</rt></ruby>을 <ruby>평졍<rt>平定</rt></ruby>리이다</sent><!--'평정리이다'는 '평졍리이다'가 되어야 함. 원문의 '정'이 '졍'의 오자임.-->
+<sent type="main" lang="kor" page="3" n="02">모다 보니 그 <ruby>장<rt>將士</rt></ruby> <ruby>신장<rt>身長</rt></ruby>이 <ruby>구<rt>九</rt></ruby> <ruby>쳑<rt>尺</rt></ruby>이오</sent><!--'척이오'는 '쳑이오'가 되어야 함. 원문의 '척'이 '쳑'의 오자임.-->
+<sent type="main" lang="kor" page="3" n="03"><ruby>셩음<rt>聲音</rt></ruby>이 우뢰 고 낫츤 슛먹을 가라친 듯며</sent><!--'셩음'은 '셩음이'가 되어야 함. 원문의 '이'자가 빠짐.-->
+<sent type="main" lang="kor" page="3" n="04"><ruby>면광<rt>面廣</rt></ruby>은 <ruby>일<rt>一</rt></ruby> <ruby>척<rt>尺</rt></ruby> <ruby>오<rt>五</rt></ruby> <ruby>촌<rt>寸</rt></ruby>이오 눈은 <ruby>셰<rt>三</rt></ruby> <ruby>치<rt>寸</rt></ruby> <ruby>닷<rt>五</rt></ruby> <ruby>분<rt>分</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="3" n="05"><ruby>단산졀벽<rt>丹山絶壁</rt></ruby>에 모진 범이 밥을 물고 안졋듯 <ruby>긔셰<rt>氣勢</rt></ruby> <ruby>당당<rt>堂堂</rt></ruby>고 <ruby>위풍<rt>威風</rt></ruby>이 <ruby>름름<rt>凜凜</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="3" n="06">이 <ruby>셔량슈<rt>西凉太守</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>니 텬하 <ruby>명장<rt>天下名將</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="3" n="07"><ruby>조<rt>曹操</rt></ruby> <ruby>희<rt>大喜</rt></ruby>야 <ruby>급<rt>急</rt></ruby>히 <ruby>당<rt>堂</rt></ruby>에 나려 <ruby>한효<rt>韓曉</rt></ruby>의 숀을 잡아 당에 올니고 가로</sent>
+<sent type="main" lang="kor" page="3" n="08"><ruby>장군<rt>將軍</rt></ruby>이 힘을 다야 나를 돕고져 니 <ruby>만고충신<rt>萬古忠臣</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="3" n="09">엇지 <ruby>다<rt>多幸</rt></ruby>치 아니리오</sent>
+<sent type="main" lang="kor" page="3" n="10"><ruby>장군<rt>將軍</rt></ruby>의 <ruby>조<rt>才操</rt></ruby>와 <ruby>장략<rt>將略</rt></ruby>은  임의 아 바 어니와</sent>
+<sent type="main" lang="kor" page="3" n="11">다만 <ruby>장군<rt>將軍</rt></ruby>은 <ruby>조<rt>才操</rt></ruby>를 밋고 <ruby>한<rt>漢</rt></ruby>을 <ruby>경젹<rt>輕敵</rt></ruby>지 말나</sent>
+<sent type="main" lang="kor" page="3" n="12"><ruby>한즁<rt>漢中</rt></ruby>에 <ruby>영웅<rt>英雄</rt></ruby> <ruby>명쟝<rt>名將</rt></ruby>이 구름 모히 듯고</sent>
+<sent type="main" lang="kor" page="3" n="13"><ruby>모<rt>謀士</rt></ruby> <ruby>졔갈량<rt>諸葛亮</rt></ruby>은 <ruby>도슐<rt>道術</rt></ruby>이 놉흔 사이니 <ruby>쟝군<rt>將軍</rt></ruby>은 가 <ruby>조심<rt>操心</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="3" n="14"><ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>분연<rt>忿然</rt></ruby> 왈</sent>
+<sent type="main" lang="kor" page="3" n="15"><ruby>대왕<rt>大王</rt></ruby>은 엇지 남의 <ruby>위엄<rt>威嚴</rt></ruby>을 기르고</sent>
+<sent type="main" lang="kor" page="3" n="16"><ruby>자긔<rt>自己</rt></ruby> <ruby>위풍<rt>威風</rt></ruby>을 <ruby>손상<rt>損傷</rt></ruby>시나잇가</sent>
+<sent type="main" lang="kor" page="3" n="17"><ruby>소장<rt>小將</rt></ruby>이 <ruby>셔량<rt>西凉</rt></ruby> 사으로 <ruby>왕<rt>大王</rt></ruby>의 어지신 <ruby>덕<rt>德</rt></ruby>을 듯고 <ruby>불원쳔리<rt>不遠千里</rt></ruby>하고</sent>
+<sent type="main" lang="kor" page="3" n="18">오문이 를 <ruby>당<rt>當</rt></ruby>와 <ruby>난신젹<rt>亂臣賊子</rt></ruby>를 <ruby>멸<rt>滅</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="3" n="19"><ruby>텬하<rt>天下</rt></ruby>를 <ruby>평졍<rt>平定</rt></ruby>여 <ruby>도탄<rt>塗炭</rt></ruby>에 든 <ruby>셩<rt>百姓</rt></ruby>을 건지고 <ruby>소장<rt>小將</rt></ruby>의 일홈을 <ruby>후셰<rt>後世</rt></ruby>에 <ruby>젼<rt>傳</rt></ruby>가 옵니</sent><!--'평정여'는 '평졍여'가 되어야 함. 원문의 '정'이 '졍'의 오자임.-->
+<sent type="main" lang="kor" page="3" n="20">엇지 져ㅣ 조고마 <ruby>한<rt>漢</rt></ruby>을 <ruby>족<rt>足</rt></ruby>히 근심리잇가</sent>
+<sent type="main" lang="kor" page="3-4" n="21"><ruby>조죠<rt>曹操</rt></ruby>ㅣ 깃거 <ruby>왈<rt>曰</rt></ruby></sent><!--조죠ㅣ ^ 깃거-->
+
+<sent type="main" lang="kor" page="4" n="01"><ruby>장군<rt>將軍</rt></ruby>의 말이 이 갓흐니  엇지 <ruby>한<rt>漢</rt></ruby>을 근심리오 고</sent>
+<sent type="main" lang="kor" page="4" n="02">다시 <ruby>졔장<rt>諸將</rt></ruby>으로 더부러 <ruby>한<rt>漢</rt></ruby>나라 치기를 <ruby>의론<rt>議論</rt></ruby> <ruby>졔쟝<rt>諸將</rt></ruby>이 <ruby>왈<rt>皆曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="4" n="03"><ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>죡<rt>足</rt></ruby>히 <ruby>한<rt>漢</rt></ruby>을 <ruby>당<rt>當</rt></ruby> 거시오니 <ruby>한효<rt>韓曉</rt></ruby>로 <ruby>션봉<rt>先鋒</rt></ruby>을 아 <ruby>한<rt>漢</rt></ruby>을 치게 옵소셔</sent>
+<sent type="main" lang="kor" page="4" n="04"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>즉시<rt>卽時</rt></ruby> <ruby>군병<rt>軍兵</rt></ruby> <ruby>다소<rt>多小</rt></ruby>를 무르니</sent>
+<sent type="main" lang="kor" page="4" n="05"><ruby>도위쟝<rt>都尉將</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="4" n="06"><ruby>군<rt>軍士</rt></ruby> <ruby>칠십만<rt>七十萬</rt></ruby>이오 <ruby>군량마초<rt>軍糧馬草</rt></ruby> <ruby>남병산<rt>南屛山</rt></ruby>과 <ruby>구계산<rt>九稽山</rt></ruby> 뒤에 가득엿이다</sent>
+<sent type="main" lang="kor" page="4" n="07"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>우문왈<rt>又問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="4" n="08"><ruby>쟝슈<rt>將帥</rt></ruby> 얼마나 되나뇨</sent>
+<sent type="main" lang="kor" page="4" n="09"><ruby>도위장<rt>都尉將</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="4" n="10"><ruby>위쟝<rt>魏將</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 <ruby>한쟝<rt>漢將</rt></ruby> <ruby>관모<rt>關某</rt></ruby> <ruby>쟝비<rt>張飛</rt></ruby> <ruby>조운<rt>趙雲</rt></ruby> <ruby>마쵸<rt>馬超</rt></ruby> <ruby>황충<rt>黃忠</rt></ruby> <ruby>등<rt>等</rt></ruby> <ruby>당<rt>當</rt></ruby> <ruby>쟝슈<rt>將帥</rt></ruby> <ruby><rt>百</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>이오</sent>
+<sent type="main" lang="kor" page="4" n="11"><ruby>기여<rt>其餘</rt></ruby> <ruby>불가승슈<rt>不可勝數</rt></ruby>로소이다</sent>
+<sent type="main" lang="kor" page="4" n="12"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>희<rt>大喜</rt></ruby>여 <ruby>좌우<rt>左右</rt></ruby>를 도라보아 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="4" n="13"> <ruby>한효<rt>韓曉</rt></ruby>를 어덧스니 <ruby>한<rt>漢</rt></ruby>을 엇지 근심리오</sent>
+<sent type="main" lang="kor" page="4" n="14"><ruby>졍욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="4" n="15"><ruby>왕<rt>大王</rt></ruby>이 <ruby>군<rt>大軍</rt></ruby>을 거리시고 <ruby>산양슈<rt>山陽水</rt></ruby> 싸홈에 <ruby><rt>敗</rt></ruby>하여 <ruby>허도<rt>許都</rt></ruby>로 도라오심을 <ruby>각<rt>生刻</rt></ruby>지 못시잇가</sent>
+<sent type="main" lang="kor" page="4" n="16"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="4" n="17"><ruby>한즁<rt>漢中</rt></ruby>에 <ruby>명쟝<rt>名將</rt></ruby>이 얼마나 되나뇨</sent>
+<sent type="main" lang="kor" page="4" n="18"><ruby>졍욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="4" n="19"><ruby>모<rt>謀士</rt></ruby> <ruby>남양<rt>南陽</rt></ruby>  <ruby>졔갈량<rt>諸葛亮</rt></ruby>의 <ruby><rt>字</rt></ruby> <ruby>공명<rt>孔明</rt></ruby>이니 <ruby>상통텬문<rt>上通天文</rt></ruby>고 <ruby>하달디리<rt>下達地理</rt></ruby>며</sent>
+<sent type="main" lang="kor" page="4" n="20"><ruby>호풍환우지슐<rt>呼風喚雨之術</rt></ruby>과 <ruby>신츌귀몰지긔<rt>神出鬼沒之機</rt></ruby>를 <ruby>무불통지<rt>無不通知</rt></ruby>고  안자셔 <ruby>능<rt>能</rt></ruby>이 <ruby>쳔리<rt>千里</rt></ruby> 밧일을 알며</sent>
+<sent type="main" lang="kor" page="4" n="21"> <ruby>명장<rt>名將</rt></ruby> <ruby>일인<rt>一人</rt></ruby>은 <ruby>하동<rt>河東</rt></ruby> 사람이니 <ruby>셩<rt>姓</rt></ruby>은 <ruby>관<rt>關</rt></ruby>이오 <ruby>명<rt>名</rt></ruby>은 우오 <ruby>자<rt>字</rt></ruby> <ruby>운장<rt>雲長</rt></ruby>이오</sent>
+<sent type="main" lang="kor" page="4-5" n="22"> <ruby>일인<rt>一人</rt></ruby>은 <ruby>탁군<rt>涿郡</rt></ruby> 사람이니 <ruby>셩<rt>姓</rt></ruby>은 <ruby>장<rt>張</rt></ruby>이오 <ruby>명<rt>名</rt></ruby>은 비오 <ruby>자<rt>字</rt></ruby> <ruby>익덕<rt>翼德</rt></ruby>이니</sent><!--자 ^ 익덕이니-->
+
+<sent type="main" lang="kor" page="5" n="01">이 두 사람은 <ruby>류비<rt>劉備</rt></ruby>로 더부러 <ruby>도원결의<rt>桃園結義</rt></ruby>여 <ruby>사<rt>死生</rt></ruby>을 한가지로 기를 <ruby>셰<rt>盟誓</rt></ruby>엿스니</sent>
+<sent type="main" lang="kor" page="5" n="02">이 <ruby>쳔하<rt>天下</rt></ruby>에 <ruby>젹<rt>對敵</rt></ruby>지 못 <ruby>장슈<rt>將帥</rt></ruby>오</sent>
+<sent type="main" lang="kor" page="5" n="03"> <ruby>일인<rt>一人</rt></ruby>은 <ruby>상산<rt>常山</rt></ruby> 사람이니 <ruby>셩<rt>姓</rt></ruby>은 <ruby>죠<rt>趙</rt></ruby>오 <ruby>명<rt>名</rt></ruby>은 <ruby>운<rt>雲</rt></ruby>이오 <ruby>자<rt>字</rt></ruby> <ruby>자룡<rt>子龍</rt></ruby>이니</sent>
+<sent type="main" lang="kor" page="5" n="04"><ruby>셕일<rt>昔日</rt></ruby> <ruby>당양장판교<rt>當陽長板橋</rt></ruby> 싸흠에 <ruby>아두<rt>阿斗</rt></ruby>를 품에 품고</sent>
+<sent type="main" lang="kor" page="5" n="05"><ruby>필마단창<rt>匹馬單槍</rt></ruby>으로 <ruby>팔십만<rt>八十萬</rt></ruby> <ruby>군즁<rt>軍中</rt></ruby>에 <ruby>횡<rt>橫行</rt></ruby>야 <ruby>위국<rt>魏國</rt></ruby> <ruby>명장<rt>名將</rt></ruby> <ruby>륙십<rt>六十</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>을 쥭인 <ruby>장슈<rt>將帥</rt></ruby>오</sent>
+<sent type="main" lang="kor" page="5" n="06"> <ruby>일인<rt>一人</rt></ruby>은 <ruby>셔량<rt>西凉</rt></ruby> 사람이니 <ruby>셩<rt>姓</rt></ruby>은 <ruby>마<rt>馬</rt></ruby>오 <ruby>명<rt>名</rt></ruby>은 <ruby>초<rt>超</rt></ruby>오 <ruby>자<rt>字</rt></ruby> <ruby>긔<rt>孟起</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="5" n="07"><ruby>셕일<rt>昔日</rt></ruby> <ruby>위슈<rt>渭水</rt></ruby> 싸홈에 <ruby>보젼륙장<rt>步戰六將</rt></ruby>든 <ruby>장슈<rt>將帥</rt></ruby>오</sent>
+<sent type="main" lang="kor" page="5" n="08"> <ruby>일인<rt>一人</rt></ruby>은 <ruby>장사<rt>長沙</rt></ruby> 사람이니 <ruby>셩<rt>姓</rt></ruby>은 <ruby>황<rt>黃</rt></ruby>이오 <ruby>명<rt>名</rt></ruby>은 <ruby>츙<rt>忠</rt></ruby>이오 <ruby>자<rt>字</rt></ruby> <ruby>한승<rt>漢升</rt></ruby>이니</sent>
+<sent type="main" lang="kor" page="5" n="09">나히 <ruby>칠십<rt>七十</rt></ruby>에 <ruby>무예<rt>武藝</rt></ruby>가 <ruby>고강<rt>高强</rt></ruby>고 힘이 <ruby>능<rt>能</rt></ruby>이 <ruby>삼셕궁<rt>三石弓</rt></ruby>을 달희니</sent><!--'삼석궁'은 '삼셕궁'이 되어야 함. 원문의 '석'이 '셕'의 오자임.-->
+<sent type="main" lang="kor" page="5" n="10">이 <ruby>다셧<rt>五</rt></ruby> <ruby>장슈<rt>將帥</rt></ruby> <ruby>쳔하<rt>天下</rt></ruby>에 <ruby>당<rt>當</rt></ruby>치 못할 <ruby>장수<rt>將帥</rt></ruby>로소이다</sent>
+<sent type="main" lang="kor" page="5" n="11"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>침음<rt>沉吟</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent><!--'조료'는 '조죠'가 되어야 함. 원문의 '료'가 '죠'의 오자임.-->
+<sent type="main" lang="kor" page="5" n="12">그러진 <ruby>한<rt>漢</rt></ruby>을 치지말고 <ruby>한<rt>漢</rt></ruby>을 <ruby>위<rt>爲</rt></ruby>랴</sent>
+<sent type="main" lang="kor" page="5" n="13"><ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>분연<rt>忿然</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="5" n="14"><ruby>왕<rt>大王</rt></ruby>이 <ruby>졍욱<rt>程昱</rt></ruby>의 말을 듯고 <ruby>한<rt>漢</rt></ruby>을 치지 아니오면 <ruby>소장<rt>小將</rt></ruby> <ruby>등<rt>等</rt></ruby>은 <ruby>각각<rt>各各</rt></ruby> <ruby>본국<rt>本國</rt></ruby>으로 도라가오리니</sent>
+<sent type="main" lang="kor" page="5" n="15"><ruby>왕<rt>大王</rt></ruby>은 누구로 더부러 <ruby>쳔하<rt>天下</rt></ruby>를 닷토려 시난잇가</sent>
+<sent type="main" lang="kor" page="5" n="16"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>황연<rt>况然</rt></ruby>이 다라</sent>
+<sent type="main" lang="kor" page="5" n="17"><ruby>즉시<rt>卽時</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>로 <ruby>션봉<rt>先鋒</rt></ruby>을 삼고 <ruby>장<rt>猛將</rt></ruby> <ruby>쳔<rt>千</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>과 <ruby>쳘긔<rt>鐵騎</rt></ruby> <ruby>칠십만<rt>七十萬</rt></ruby>을 <ruby>조발<rt>發</rt></ruby>여</sent>
+<sent type="main" lang="kor" page="5" n="18"><ruby>한효<rt>韓曉</rt></ruby>를 주어 <ruby>한<rt>漢</rt></ruby>을 치라 <ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>사<rt>拜謝</rt></ruby>거늘</sent>
+<sent type="main" lang="kor" page="5" n="19"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="5-6" n="20"><ruby>장군<rt>將軍</rt></ruby>은 나의 <ruby>고굉<rt>股肱</rt></ruby>이오 <ruby>국가<rt>國家</rt></ruby>에 <ruby>쥬셕<rt>柱石</rt></ruby>지장이라</sent><!--쥬셕^지장이라-->
+
+<sent type="main" lang="kor" page="6" n="00"><ruby>만리<rt>萬里</rt></ruby> <ruby>젼장<rt>戰場</rt></ruby>에 <ruby>공<rt>大功</rt></ruby>을 셰우고 <ruby>쳔하<rt>天下</rt></ruby>를 <ruby>평졍<rt>平定</rt></ruby>야 일홈을 <ruby>만<rt>萬代</rt></ruby>에 <ruby>유젼<rt>流傳</rt></ruby>케라</sent>
+<sent type="main" lang="kor" page="6" n="01"><ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>사<rt>拜謝</rt></ruby>고 물너 나와 <ruby>장<rt>將臺</rt></ruby>에 올나 <ruby>군사<rt>軍士</rt></ruby>를 <ruby>졈검<rt>點檢</rt></ruby> <ruby>군졍사<rt>軍政司</rt></ruby>를 불너 <ruby>장졸<rt>將卒</rt></ruby> <ruby>춍독<rt>總督</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="6" n="02"><ruby>긔치<rt>旗幟</rt></ruby> <ruby>창검<rt>槍劒</rt></ruby>은 <ruby>일<rt>日色</rt></ruby>을 <ruby>희롱<rt>戱弄</rt></ruby>고 <ruby>고각함성<rt>鼓角喊聲</rt></ruby>은 <ruby>산하<rt>山河</rt></ruby>가 <ruby>진동<rt>震動</rt></ruby>더라</sent>
+<sent type="main" lang="kor" page="6" n="03"><ruby>즉일<rt>卽日</rt></ruby> <ruby>군<rt>行軍</rt></ruby> <ruby>션봉장<rt>先鋒將</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>록포은갑<rt>綠袍銀甲</rt></ruby>에 <ruby>쳥춍마<rt>靑騘馬</rt></ruby>를 타고 <ruby>좌슈<rt>左手</rt></ruby>에 <ruby>장창<rt>長槍</rt></ruby>을 들고 <ruby>우슈<rt>右手</rt></ruby>에 <ruby>슈긔<rt>帥旗</rt></ruby>를 잡앗스며</sent>
+<sent type="main" lang="kor" page="6" n="04"><ruby>긔상<rt>旗上</rt></ruby>에 썻시되 <ruby>위국션봉쟝<rt>魏國先鋒將</rt></ruby> <ruby>셔량슈<rt>西凉太守</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>라 엿스니</sent>
+<sent type="main" lang="kor" page="6" n="05"><ruby>긔셰<rt>氣勢</rt></ruby> <ruby>당々<rt>堂堂</rt></ruby>고 <ruby>위풍<rt>威風</rt></ruby>이 <ruby>름々<rt>凜凜</rt></ruby>더라</sent>
+<sent type="main" lang="kor" page="6" n="06"><ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>군<rt>行軍</rt></ruby>여 <ruby>산양슈<rt>山陽水</rt></ruby>를 건너 <ruby>마하력<rt>馬下驛</rt></ruby>을 지나 <ruby>쥬야<rt>晝夜</rt></ruby>로 <ruby><rt>行</rt></ruby>하야</sent>
+<sent type="main" lang="kor" page="6" n="07"><ruby>한국<rt>漢國</rt></ruby> <ruby>지경<rt>地境</rt></ruby>에 이르러 말 잘 달리 <ruby>쟝슈<rt>將帥</rt></ruby>를 <ruby><rt>擇</rt></ruby>야 <ruby>문<rt>脾文</rt></ruby>을 써 <ruby>한왕<rt>漢王</rt></ruby>게 보니</sent>
+<sent type="main" lang="kor" page="6" n="08"><ruby>셩부<rt>胜負</rt></ruby>ㅣ 엇지된고</sent> 
+<sent type="main" lang="kor" page="6" n="09"><ruby>하회<rt>下回</rt></ruby>를 보와 <ruby>분<rt>分觧</rt></ruby>라</sent>
+<sent type="title2" lang="kor" page="6" n="10"><ruby>뎨이쟝<rt>第二章</rt></ruby></sent>
+<sent type="main" lang="kor" page="6" n="11"><ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby>이 <ruby>젹병<rt>賊兵</rt></ruby> 막기를 근심고 <ruby>관공<rt>關公</rt></ruby>과 <ruby>긔<rt>孟起</rt></ruby>가 <ruby>일시<rt>一時</rt></ruby>에 드러오다</sent>
+<sent type="main" lang="kor" page="6" n="12"><ruby>각셜<rt>却說</rt></ruby> <ruby>한<rt>漢</rt></ruby> <ruby>승상무향후<rt>丞相武鄕侯</rt></ruby> <ruby>졔갈량<rt>諸葛亮</rt></ruby>의 <ruby>자<rt>字</rt></ruby> <ruby>공명<rt>孔明</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="6" n="13"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>션쥬<rt>先主</rt></ruby>를 뫼시고 <ruby>신야<rt>新野</rt></ruby>에 잇셔 <ruby>쳔하사<rt>天下事</rt></ruby>를 <ruby>의론<rt>議論</rt></ruby>더니</sent>
+<sent type="main" lang="kor" page="6" n="14">문득 <ruby>공명<rt>孔明</rt></ruby>이 <ruby>쥬왈<rt>奏曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="6" n="15"><ruby>신<rt>臣</rt></ruby>이 <ruby>거야<rt>去夜</rt></ruby>에 <ruby>쳔긔<rt>天氣</rt></ruby>를 보오니 <ruby>조죠<rt>曹操</rt></ruby>의 <ruby>군미구<rt>軍士未久</rt></ruby>에 <ruby>침노<rt>侵擄</rt></ruby> 듯 오니</sent>
+<sent type="main" lang="kor" page="6" n="16">밧비 <ruby>군사<rt>軍士</rt></ruby>를 <ruby>춍독<rt>總督</rt></ruby>여 <ruby>방비<rt>防備</rt></ruby>사이다</sent>
+<sent type="main" lang="kor" page="6" n="17"><ruby>션쥬<rt>先主</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="6" n="18"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>산양슈<rt>山陽水</rt></ruby> 싸홈에 <ruby><rt>大敗</rt></ruby>여</sent>
+
+<sent type="main" lang="kor" page="7" n="01">도라간 지 오지 아니거늘</sent>
+<sent type="main" lang="kor" page="7" n="02">엇지  군사를 거나려 오리오</sent>
+<sent type="main" lang="kor" page="7" n="03"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="7" n="04"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>젼일<rt>前日</rt></ruby> <ruby>산양슈<rt>山陽水</rt></ruby> 싸홈에 <ruby><rt>敗</rt></ruby> <ruby>분<rt>忿</rt></ruby>을 이긔지 못여</sent>
+<sent type="main" lang="kor" page="7" n="05">이제  <ruby>군<rt>大軍</rt></ruby>을 <ruby>발<rt>發</rt></ruby>여 오가 나이다</sent><!--'빌여'는 '발여'가 되어야 함. 원문의 '빌'이 '발'의 오자임.-->
+<sent type="main" lang="kor" page="7" n="06">말이 맛지 못여셔 <ruby>위국<rt>魏國</rt></ruby> <ruby>문<rt>脾文</rt></ruby>이 왓거늘</sent>
+<sent type="main" lang="kor" page="7" n="07"><ruby>즉시<rt>卽時</rt></ruby> <ruby>탁<rt>開坼</rt></ruby>니 <ruby>과연<rt>果然</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>의 <ruby>패문<rt>脾文</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="7" n="08"><ruby>션쥬<rt>先主</rt></ruby>ㅣ <ruby>공명<rt>孔明</rt></ruby>으로 더부러 <ruby>패문<rt>脾文</rt></ruby>을 보시며 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="7" n="09"><ruby>과연<rt>果然</rt></ruby> <ruby>션<rt>先生</rt></ruby>의 말삼과 갓도다</sent>
+<sent type="main" lang="kor" page="7" n="10">이 일을 <ruby>장차<rt>將次</rt></ruby> 엇지리오</sent>
+<sent type="main" lang="kor" page="7" n="11"><ruby>군즁사<rt>軍中事</rt></ruby>와 <ruby>쳔하사<rt>天下事</rt></ruby> 다 <ruby>션<rt>先生</rt></ruby>의게 잇사오니 <ruby>션<rt>先生</rt></ruby>은 깁히 헤아려 소셔</sent><!--'군즁시'는 '군즁사'가 되어야 함. 원문의 '시'가 '사'의 오자임.-->
+<sent type="main" lang="kor" page="7" n="12"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>패문<rt>脾文</rt></ruby>을 <ruby>양구<rt>良久</rt></ruby>이 보다가 <ruby>우연장탄<rt>偶然長嘆</rt></ruby>고 <ruby>미간<rt>眉間</rt></ruby>에 슬푼 <ruby>긔<rt>氣色</rt></ruby>이 낫하나거늘</sent>
+<sent type="main" lang="kor" page="7" n="13"><ruby>션쥬<rt>先主</rt></ruby>ㅣ <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="7" n="14"><ruby>션<rt>先生</rt></ruby>이 <ruby>젼일<rt>前日</rt></ruby>에 어려운 일을 <ruby>당<rt>當</rt></ruby>나 슯흔 <ruby>긔<rt>氣色</rt></ruby>이 업더니</sent>
+<sent type="main" lang="kor" page="7" n="15">오날은 엇지 슬푼 <ruby>긔<rt>氣色</rt></ruby>이 <ruby>미<rt>眉</rt></ruby> 우에 낫하나시뇨</sent>
+<sent type="main" lang="kor" page="7" n="16"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="7" n="17"><ruby>패문<rt>脾文</rt></ruby>이 왓스나 무슨 <ruby>관계<rt>關係</rt></ruby>리잇가 마 <ruby>명장<rt>名將</rt></ruby>이 다 <ruby>원방<rt>遠方</rt></ruby>에 갓오니 글노써 근심이로쇼이다</sent>
+<sent type="main" lang="kor" page="7" n="18"><ruby>션쥬<rt>先主</rt></ruby>ㅣ <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="7" n="19"><ruby>졔장<rt>諸將</rt></ruby>이 다 어듸 잇나뇨</sent>
+<sent type="main" lang="kor" page="7" n="20"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="7" n="21"><ruby>죠자룡<rt>趙子龍</rt></ruby>은 <ruby>쳔칠<rt>四千七百</rt></ruby> <ruby>리<rt>里</rt></ruby> 되 <ruby>쳔<rt>泗川</rt></ruby>을 직히옵고</sent>
+<sent type="main" lang="kor" page="7" n="22"><ruby>운장<rt>雲長</rt></ruby>은 <ruby>쳔팔<rt>三千八百</rt></ruby> <ruby>리<rt>里</rt></ruby> <ruby>동평관<rt>東平關</rt></ruby>을 직히옵고</sent>
+<sent type="main" lang="kor" page="7" n="23"><ruby>익덕<rt>翼德</rt></ruby>은 <ruby>셔평도독부<rt>西平都督府</rt></ruby> <ruby>션회셩<rt>宣恢城</rt></ruby>을 직히옵고</sent>
+<sent type="main" lang="kor" page="7" n="24"><ruby>긔<rt>孟起</rt></ruby>는 <ruby>이쳔팔<rt>二千八百</rt></ruby> <ruby>리<rt>里</rt></ruby> <ruby>북도셩<rt>北都城</rt></ruby>을 직히옵고</sent>
+<sent type="main" lang="kor" page="7-8" n="25"><ruby>한승<rt>漢升</rt></ruby>은 <ruby>천이<rt>三千二百</rt></ruby> <ruby>리<rt>里</rt></ruby> <ruby>셔평관<rt>西平關</rt></ruby>을 직히나이다</sent><!--셔평관^을-->
+
+<sent type="main" lang="kor" page="8" n="01"><ruby>션쥬<rt>先主</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="8" n="02"><ruby>국운<rt>國運</rt></ruby>이 <ruby>불<rt>不幸</rt></ruby>여 일이 이 <ruby>지경<rt>地境</rt></ruby>에 이르럿스니</sent>
+<sent type="main" lang="kor" page="8" n="03">엇지 써 <ruby>위병<rt>魏兵</rt></ruby>을 막을고</sent>
+<sent type="main" lang="kor" page="8" n="04"><ruby>션<rt>先生</rt></ruby>이 이믜 일이 이 갓흘 쥴 알앗스면</sent> 
+<sent type="main" lang="kor" page="8" n="05">엇지 <ruby>명장<rt>名將</rt></ruby>을 미리 모흐지 아니엿나뇨</sent>
+<sent type="main" lang="kor" page="8" n="06"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="8" n="07"><ruby>조죠<rt>曹操</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>의 말을 듯고 밧게 <ruby>긔군<rt>起軍</rt></ruby>엿오니 엇지 미리 알며</sent>
+<sent type="main" lang="kor" page="8" n="08"> <ruby>명장<rt>名將</rt></ruby>이 다 <ruby>슈천<rt>數千</rt></ruby> <ruby>리<rt>里</rt></ruby> 밧게 잇오니</sent>
+<sent type="main" lang="kor" page="8" n="09">어늬 결을에 부르리잇고</sent>
+<sent type="main" lang="kor" page="8" n="10"><ruby>션쥬<rt>先主</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="8" n="11">그러진 <ruby>원방<rt>遠方</rt></ruby>에 간 <ruby>쟝슈<rt>將帥</rt></ruby>를 밋지 말고</sent> 
+<sent type="main" lang="kor" page="8" n="12"><ruby>슈셩<rt>守城</rt></ruby> <ruby>쟝죨<rt>將卒</rt></ruby>을 밧비 모와 <ruby>도젹<rt>盜賊</rt></ruby> 막으쇼셔</sent>
+<sent type="main" lang="kor" page="8" n="13"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="8" n="14"><ruby>위국<rt>魏國</rt></ruby> <ruby>션봉장<rt>先鋒將</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby> 범 갓흔 <ruby>장수<rt>將帥</rt></ruby>라 <ruby>오호쟝<rt>五虎大將</rt></ruby> 곳 아니면 <ruby>적<rt>對敵</rt></ruby>지 못가 나이다</sent>
+<sent type="main" lang="kor" page="8" n="15"><ruby>션쥬<rt>先主</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="8" n="16">그러면 <ruby>션<rt>先生</rt></ruby>은 밧비 <ruby>계교<rt>計較</rt></ruby>를 베푸러 나의 근심을 덜게소셔</sent>
+<sent type="main" lang="kor" page="8" n="17">말이 맛지 못여셔 <ruby>위병<rt>魏兵</rt></ruby>이 발셔 <ruby>장안<rt>長安</rt></ruby>에 이르러 <ruby>유진<rt>留陣</rt></ruby>엿는지라</sent>
+<sent type="main" lang="kor" page="8" n="18">이  <ruby>슈문장<rt>守門將</rt></ruby>이 <ruby>경<rt>大驚</rt></ruby>여 <ruby>황명젼졍화문<rt>皇明殿貞和門</rt></ruby>을 두다리며 크게 쇼여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="8" n="19"><ruby>위병<rt>魏兵</rt></ruby>이 <ruby>셩하<rt>城下</rt></ruby>에 <ruby>림<rt>臨</rt></ruby>엿사오니</sent>
+<sent type="main" lang="kor" page="8" n="20"><ruby>션쥬<rt>先主</rt></ruby>와 <ruby>션<rt>先生</rt></ruby>은 밧비 막으소셔 거늘</sent>
+<sent type="main" lang="kor" page="8" n="21"><ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby>이 놀나 바라보니 <ruby>위병<rt>魏兵</rt></ruby>이 <ruby>만산편이<rt>滿山遍野</rt></ruby>여</sent><!--'만산편이'는 '만산편야'가 되어야 함. 원문의 '이'가 '야'의 오자임.-->
+<sent type="main" lang="kor" page="8" n="22">그 <ruby>형셰<rt>形勢</rt></ruby> 가장 <ruby>호<rt>浩大</rt></ruby>하거늘 <ruby>션쥬<rt>先主</rt></ruby>ㅣ <ruby>망극<rt>罔極</rt></ruby>하여 <ruby>방셩통곡<rt>放聲痛哭</rt></ruby>시니</sent>
+<sent type="main" lang="kor" page="8" n="23"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>쥬왈<rt>奏曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="8" n="24">옛글에 엿스되 <ruby>룡<rt>龍</rt></ruby>의 눈물이 에 러지면 <ruby>삼년<rt>三年</rt></ruby>을 감은다 엿사오니</sent>
+<sent type="main" lang="kor" page="8-9" n="25"><ruby>쥬상<rt>主上</rt></ruby>은 <ruby>옥쳬<rt>玉體</rt></ruby>를 <ruby>보즁<rt>保重</rt></ruby>소셔</sent><!--옥쳬를 ^ 보즁소셔-->
+
+ 
+
+<sent type="main" lang="kor" page="9" n="01"><ruby>션쥬<rt>先主</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="9" n="02">조고마 <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>지경<rt>地境</rt></ruby>을 <ruby>침범<rt>侵犯</rt></ruby>나 막을 <ruby>장수<rt>將帥</rt></ruby> 업스니</sent>
+<sent type="main" lang="kor" page="9" n="03">엇지 <ruby>망극<rt>罔極</rt></ruby>지 아니리오</sent>
+<sent type="main" lang="kor" page="9" n="04"><ruby>공명<rt>孔明</rt></ruby>이 하날을 우러러 <ruby>탄식<rt>嘆息</rt></ruby>고 <ruby>젹진파<rt>賊陣破</rt></ruby> <ruby>모<rt>謀策</rt></ruby>을 <ruby>각<rt>生覺</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="9" n="05"><ruby>원쳔강<rt>袁天綱</rt></ruby>을 여보다가 <ruby>사관<rt>太史官</rt></ruby>을 불너 <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="9" n="06">오 어늬 나되엿나뇨</sent>
+<sent type="main" lang="kor" page="9" n="07"><ruby>사관<rt>太史官</rt></ruby>이 <ruby>주왈<rt>奏曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="9" n="08"><ruby>진시<rt>辰時</rt></ruby> <ruby>말<rt>末</rt></ruby> <ruby>사시<rt>巳時</rt></ruby> <ruby>초<rt>初</rt></ruby>로쇼이다</sent>
+<sent type="main" lang="kor" page="9" n="09"><ruby>공명<rt>孔明</rt></ruby>이 이윽히 <ruby>각<rt>生覺</rt></ruby>다가 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="9" n="10"><ruby>사시<rt>巳時</rt></ruby> <ruby>말<rt>末</rt></ruby> <ruby>오시<rt>午時</rt></ruby> <ruby>초<rt>初</rt></ruby>에 조흔 <ruby>소식<rt>消息</rt></ruby>이 업스면</sent>
+<sent type="main" lang="kor" page="9" n="11"><ruby>션주<rt>先主</rt></ruby>를 뫼시고 <ruby>피란<rt>避亂</rt></ruby>리라 더니 <ruby>아이<rt>俄而</rt></ruby>오</sent>
+<sent type="main" lang="kor" page="9" n="12"><ruby>사시<rt>巳時</rt></ruby> <ruby>말<rt>末</rt></ruby>에 문득 <ruby>동평북문<rt>東平北門</rt></ruby>으로셔 바람이 이러나며 <ruby>벽락<rt>霹靂</rt></ruby> 갓흔 소 들니거늘</sent>
+<sent type="main" lang="kor" page="9" n="13"><ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby>이 놀나 이러나 바라보시니</sent>
+<sent type="main" lang="kor" page="9" n="14"><ruby>일원<rt>一員</rt></ruby> <ruby>쟝<rt>大將</rt></ruby>이 <ruby>쌍봉<rt>雙鳳</rt></ruby> 투구에 <ruby>녹포은갑<rt>綠袍銀甲</rt></ruby>을 입고</sent>
+<sent type="main" lang="kor" page="9" n="15"><ruby>우수<rt>右手</rt></ruby>에 <ruby>장창<rt>長槍</rt></ruby>을 들고 <ruby>좌슈<rt>左手</rt></ruby>에 <ruby>슈긔<rt>帥旗</rt></ruby>를 들엇스니</sent>
+<sent type="main" lang="kor" page="9" n="16">얼골은 <ruby>옥<rt>白玉</rt></ruby> 갓고 <ruby>호통<rt>呼痛</rt></ruby>은 <ruby>벽력<rt>霹靂</rt></ruby>이 울니는듯더라</sent>
+<sent type="main" lang="kor" page="9" n="17">그 <ruby>장<rt>將士</rt></ruby> 나는 다시 달녀오거늘</sent>
+<sent type="main" lang="kor" page="9" n="18">자셔이 보니 이 <ruby>북도셩<rt>北道城</rt></ruby> 직힌 <ruby>마초<rt>馬超</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="9" n="19"><ruby>슌식간<rt>瞬息間</rt></ruby>에 드러와 <ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby> <ruby>젼<rt>前</rt></ruby>에 <ruby>복지<rt>伏地</rt></ruby> <ruby>쥬왈<rt>奏曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="9" n="20"><ruby>소장<rt>小將</rt></ruby>이 <ruby>북도셩<rt>北道城</rt></ruby>에 잇사와 <ruby>잠간<rt>暫間</rt></ruby> <ruby>쳔긔<rt>天氣</rt></ruby>를 보오니</sent>
+<sent type="main" lang="kor" page="9" n="21"><ruby>왕상<rt>王上</rt></ruby>의 <ruby>쥬셩<rt>主星</rt></ruby>이 <ruby>운무<rt>雲霧</rt></ruby>에 싸이여 <ruby>십분<rt>十分</rt></ruby> <ruby>희미<rt>稀微</rt></ruby>옵고</sent>
+<sent type="main" lang="kor" page="9-10" n="22">한 <ruby>셩즁<rt>城中</rt></ruby>에 <ruby>살긔<rt>殺氣</rt></ruby> 가득엿기로</sent><!--한 ^ 셩즁에-->
+
+<sent type="main" lang="kor" page="10" n="01">무 <ruby>급<rt>急</rt></ruby>미 잇는가 여 <ruby>셩야<rt>星夜</rt></ruby>로 왓더니</sent>
+<sent type="main" lang="kor" page="10" n="02"><ruby>과연<rt>果然</rt></ruby> <ruby>위병<rt>魏兵</rt></ruby>이 <ruby>셩하<rt>城下</rt></ruby>에 <ruby>림<rt>臨</rt></ruby>와 <ruby>위<rt>危殆</rt></ruby>미 <ruby>시각<rt>時刻</rt></ruby>에 잇사오니</sent>
+<sent type="main" lang="kor" page="10" n="03"><ruby>왕상<rt>王上</rt></ruby>과 <ruby>션<rt>先生</rt></ruby>의 근심오믄 다 <ruby>소장<rt>小將</rt></ruby>의 <ruby>죄<rt>罪</rt></ruby>로소이다</sent>
+<sent type="main" lang="kor" page="10" n="04"><ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby>이 <ruby>쳔만<rt>千里</rt></ruby> 밧게 <ruby>마초<rt>馬超</rt></ruby>를 어드 <ruby>희<rt>喜色</rt></ruby>이 <ruby>만안<rt>滿顔</rt></ruby>여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="10" n="05"><ruby>마장군<rt>馬將軍</rt></ruby>은 진실노 <ruby>한<rt>漢</rt></ruby>나라 <ruby>츙신<rt>忠臣</rt></ruby>이로다</sent>
+<sent type="main" lang="kor" page="10" n="06">엇지 <ruby>위병<rt>魏兵</rt></ruby>을 근심리오</sent>
+<sent type="main" lang="kor" page="10" n="07">말이 맛지 못여셔  <ruby>북문<rt>北門</rt></ruby>으로셔 바람이 々러나며</sent>
+<sent type="main" lang="kor" page="10" n="08">우뢰 갓튼 <ruby>호통<rt>呼痛</rt></ruby> 소 히 뒤놉고 <ruby>한<rt>漢水</rt></ruby> 는 듯더라</sent>
+<sent type="main" lang="kor" page="10" n="09"><ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby>이 놀나 멀니 바라보니</sent>
+<sent type="main" lang="kor" page="10" n="10"><ruby>일원<rt>一員</rt></ruby> <ruby>장<rt>大將</rt></ruby>이 <ruby>젹토마<rt>赤兎馬</rt></ruby>를 타고 <ruby>슌금<rt>純金</rt></ruby> 투구를 쓰고 <ruby>룡린갑<rt>龍鱗甲</rt></ruby>을 입고</sent>
+<sent type="main" lang="kor" page="10" n="11"><ruby>우슈<rt>右手</rt></ruby>에 <ruby>쳥뇽도<rt>靑龍刀</rt></ruby>를 들고 <ruby>좌슈<rt>左手</rt></ruby>에 <ruby>슈긔<rt>帥旗</rt></ruby>를 잡앗스며</sent>
+<sent type="main" lang="kor" page="10" n="12"><ruby>삼각슈<rt>三角鬚</rt></ruby>를 거스르고 <ruby>봉<rt>鳳</rt></ruby>의 눈을 부릅고</sent>
+<sent type="main" lang="kor" page="10" n="13">소를 <ruby>벽력<rt>霹靂</rt></ruby> 갓치 지르며 달녀 드러와 <ruby>복디<rt>伏地</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="10" n="14">이 <ruby>동평관<rt>東平關</rt></ruby> 직힌 <ruby>한<rt>漢</rt></ruby> <ruby>슈졍후<rt>壽亭侯</rt></ruby> <ruby>관운장<rt>關雲長</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="10" n="15"><ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby>이 크게 깃거왈</sent>
+<sent type="main" lang="kor" page="10" n="16">이졔 <ruby>양원<rt>兩員</rt></ruby> <ruby>장<rt>大將</rt></ruby>이 드러왓스니</sent>
+<sent type="main" lang="kor" page="10" n="17">무 근심이 잇스리오</sent>
+<sent type="main" lang="kor" page="10-11" n="18"><ruby>방금<rt>方今</rt></ruby> <ruby>젹셰<rt>賊勢</rt></ruby> <ruby>위급<rt>危急</rt></ruby>니 <ruby>운장<rt>雲長</rt></ruby>으로 <ruby>션봉<rt>先鋒</rt></ruby>을 고 <ruby>마초<rt>馬超</rt></ruby>로 <ruby>즁군<rt>中軍</rt></ruby>을 아 <ruby>위젹<rt>魏賊</rt></ruby>을 막게 리라</sent><!--막게리^라-->
+
+<sent type="main" lang="kor" page="11" n="01"><ruby>마초<rt>馬超</rt></ruby>ㅣ 칼을 들어 흘 치며 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="11" n="02"><ruby>소쟝<rt>小將</rt></ruby>이 <ruby>셔량<rt>西凉</rt></ruby> 사으로 <ruby>쳔하분란<rt>天下紛亂</rt></ruby> 가온 <ruby>불원쳔리<rt>不遠千里</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="11" n="03">이곳에 오문 <ruby>란시<rt>亂時</rt></ruby>를 <ruby>당<rt>當</rt></ruby>여 <ruby>일국<rt>一國</rt></ruby> <ruby>션봉<rt>先鋒</rt></ruby>이 되여 <ruby>젹국<rt>賊國</rt></ruby>을 <ruby>멸<rt>滅</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="11" n="04"><ruby>도탄<rt>塗炭</rt></ruby>에 든 <ruby>셩<rt>百姓</rt></ruby>을 건져써 <ruby>소장<rt>小將</rt></ruby>의 일홈을 <ruby>쥭<rt>竹帛</rt></ruby>예 올녀 <ruby>후셰<rt>後世</rt></ruby>에 <ruby>뎐<rt>傳</rt></ruby>기를 <ruby>평<rt>平生</rt></ruby> <ruby>원<rt>願</rt></ruby> 오니</sent>
+<sent type="main" lang="kor" page="11" n="05"><ruby>션<rt>先生</rt></ruby>은 <ruby>소장<rt>小將</rt></ruby>의 <ruby>조<rt>才操</rt></ruby>를 <ruby>용녈<rt>庸劣</rt></ruby>타 마르시고 <ruby>소장<rt>小將</rt></ruby>으로 <ruby>션봉<rt>先鋒</rt></ruby>을 쥬소셔</sent>
+<sent type="main" lang="kor" page="11" n="06"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="11" n="07"><ruby>장군<rt>將軍</rt></ruby>의 <ruby>조<rt>才操</rt></ruby>를 <ruby>부족<rt>不足</rt></ruby>다미 아니라</sent>
+<sent type="main" lang="kor" page="11" n="08"><ruby>장군<rt>將軍</rt></ruby>이 <ruby>션봉<rt>先鋒</rt></ruby>을 지지 못엿스니</sent>
+<sent type="main" lang="kor" page="11" n="09"><ruby>션봉<rt>先鋒</rt></ruby>의 <ruby>소임<rt>所任</rt></ruby>이 가쟝 어렵고 <ruby>위국<rt>魏國</rt></ruby> <ruby>션봉장<rt>先鋒將</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby> 범 갓흔 <ruby>장슈<rt>將帥</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="11" n="10">이번 <ruby>션봉<rt>先鋒</rt></ruby>은 <ruby>운장<rt>雲長</rt></ruby>으로 <ruby>뎡<rt>定</rt></ruby>고 <ruby>후<rt>後</rt></ruby>에 <ruby>장군<rt>將軍</rt></ruby>으로 <ruby>뎡<rt>定</rt></ruby>리라</sent>
+<sent type="main" lang="kor" page="11" n="11"><ruby>마쵸<rt>馬超</rt></ruby> 칼을 들어 흘 치며 크게 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="11" n="12"><ruby>남아<rt>男兒</rt></ruby>ㅣ <ruby>셰상<rt>世上</rt></ruby>에 낫다가 <ruby>란시<rt>亂時</rt></ruby>를 <ruby>당<rt>當</rt></ruby>여</sent>
+<sent type="main" lang="kor" page="11" n="13">한번 <ruby>션봉<rt>先鋒</rt></ruby>이 되지 못고 사라 무엇리오</sent>
+<sent type="main" lang="kor" page="11" n="14">차라리 쥭는 이만 갓지 못여이다</sent>
+<sent type="main" lang="kor" page="11" n="15"><ruby>운장<rt>雲長</rt></ruby>이 겻헤 잇다가 가로되</sent><!--'잇다가 가로되'의 두 번째 '가'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="11" n="16"><ruby>션<rt>先生</rt></ruby>은 <ruby>마장군<rt>馬將軍</rt></ruby>을 <ruby>경<rt>輕</rt></ruby>이아지 마르시고</sent>
+<sent type="main" lang="kor" page="11" n="17"><ruby>션봉<rt>先鋒</rt></ruby>을 <ruby>뎡<rt>定</rt></ruby>오면 <ruby>족<rt>足</rt></ruby>히 <ruby>위병<rt>魏兵</rt></ruby>을 물니치리이다</sent>
+<sent type="main" lang="kor" page="11" n="18"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>소왈<rt>笑曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="11" n="19"><ruby>운장<rt>雲長</rt></ruby>의 말이 <ruby>진<rt>眞</rt></ruby>짓 <ruby>훤훤장부<rt>丈夫</rt></ruby>로다</sent><!--'훤훤'의 두 번째 '훤'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="11-12" n="20"> 쳐음에 <ruby>마장군<rt>馬將軍</rt></ruby>으로 <ruby>션봉<rt>先鋒</rt></ruby>을 <ruby>뎡<rt>定</rt></ruby>코져 나 <ruby>운장<rt>雲長</rt></ruby>의 을 몰나 <ruby>마장군<rt>馬將軍</rt></ruby>으로 <ruby>즁군<rt>中軍</rt></ruby>을 <ruby>뎡<rt>定</rt></ruby>엿더니</sent><!--션봉^을-->
+
+<sent type="main" lang="kor" page="12" n="01"><ruby>운장<rt>雲長</rt></ruby>의 말이 이갓흐니</sent><!--'말이 이갓흐니'의 두 번째 '이'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="12" n="02"><ruby>운장<rt>雲長</rt></ruby>은 진실노 <ruby>활달<rt>豁達</rt></ruby> <ruby>장부<rt>大丈夫</rt></ruby>로다 고</sent>
+<sent type="main" lang="kor" page="12" n="03">다시 <ruby>마초<rt>馬超</rt></ruby>를 도라보아 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="12" n="04"><ruby>마쟝군<rt>馬將軍</rt></ruby>은 나의 <ruby>망녕<rt>妄侫</rt></ruby>됨을 허물치 말나 고</sent>
+<sent type="main" lang="kor" page="12" n="05"><ruby>즉시<rt>卽時</rt></ruby> <ruby>마초<rt>馬超</rt></ruby>로 <ruby>션봉<rt>先鋒</rt></ruby>을 고</sent>
+<sent type="main" lang="kor" page="12" n="06"><ruby>운장<rt>雲長</rt></ruby>으로 <ruby>즁군<rt>中軍</rt></ruby>을 고 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="12" n="07"><ruby>군병<rt>軍兵</rt></ruby>을 얼마나 <ruby>뎡<rt>定</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="12" n="08"><ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="12" n="09"><ruby>군병<rt>軍兵</rt></ruby>은 아직 <ruby>뎡<rt>定</rt></ruby>치 마르소셔</sent>
+<sent type="main" lang="kor" page="12" n="10"><ruby>적셰<rt>賊勢</rt></ruby> <ruby>급<rt>急</rt></ruby>니 한 칼노 <ruby>젹병<rt>賊兵</rt></ruby>을 <ruby>함몰<rt>陷汨</rt></ruby> 졔 엇지 <ruby>군사<rt>軍士</rt></ruby>를 쓰리오</sent><!--'적병'은 '젹병'이 되어야 함. 원문의 '적'이 '젹'의 오자임.--><!--'함몰'는 '함몰'이 되어야 함. 원문의 ''가 ''의 오자임.-->
+<sent type="main" lang="kor" page="12" n="11"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="12" n="00"><ruby>장군<rt>將軍</rt></ruby>의 말이 진실노 <ruby>장<rt>莊</rt></ruby>도다</sent><!--'진실로'는 '진실노'가 되어야 함. 원문의 '로'가 '노'의 오자임.-->
+<sent type="main" lang="kor" page="12" n="12">그러나 나의 <ruby>계교<rt>計較</rt></ruby>를 들으라</sent><!--'그러나 나의'의 두 번째 '나'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="12" n="13">쳐음 <ruby>젹진<rt>賊陣</rt></ruby>을 드러가면 <ruby>한효<rt>韓曉</rt></ruby>의 <ruby>부장<rt>副將</rt></ruby> <ruby>팔인<rt>八人</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 달아들거시니</sent>
+<sent type="main" lang="kor" page="12" n="14">이 <ruby>팔장<rt>八將</rt></ruby>은 <ruby>위국<rt>魏國</rt></ruby> <ruby>명장<rt>名將</rt></ruby>이니 <ruby>경젹<rt>輕敵</rt></ruby>지 말며</sent>
+<sent type="main" lang="kor" page="12" n="15"> <ruby>위진<rt>魏陣</rt></ruby> <ruby>쳥포장<rt>靑布帳</rt></ruby> 뒤흐로셔 <ruby>셔회<rt>徐恢</rt></ruby>라  <ruby>쟝슈<rt>將帥</rt></ruby>ㅣ 나오리니</sent><!--'뒤흐로셔 <ruby>셔회<rt>徐恢</rt></ruby>라'의 두 번째 '셔'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="12" n="16">그 <ruby>쟝슈<rt>將帥</rt></ruby>의 <ruby>쳘퇴<rt>鐵椎</rt></ruby> 즁이 <ruby>팔십<rt>八十</rt></ruby> <ruby>근<rt>斤</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="12" n="17">나 졔비라도 <ruby>피<rt>避</rt></ruby>치 못나니 <ruby>명심<rt>明心</rt></ruby>여 막으며</sent>
+<sent type="main" lang="kor" page="12" n="18"><ruby>만일<rt>萬一</rt></ruby> 그 <ruby>쳘퇴<rt>鐵椎</rt></ruby>를 <ruby>피<rt>避</rt></ruby>치 못면 <ruby>신야<rt>新野</rt></ruby>로 도라오기를 <ruby>긔약<rt>期約</rt></ruby>지 못 거시오</sent>
+<sent type="main" lang="kor" page="12" n="19"> <ruby>한현<rt>韓玄</rt></ruby> <ruby>한총<rt>韓聦</rt></ruby>은 <ruby>위국<rt>魏國</rt></ruby> <ruby>명무<rt>名武</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="12" n="20">그 살이 아홉치 무쇠를 치니 부듸 그살을 <ruby>명심<rt>銘心</rt></ruby>여 막으며</sent>
+<sent type="main" lang="kor" page="12-13" n="21"> <ruby>위국<rt>魏國</rt></ruby> <ruby>션봉장<rt>先鋒</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby> 법 갓흔 <ruby>장슈<rt>將帥</rt></ruby>라</sent><!-- ^ 위국 션봉장-->
+
+<sent type="main" lang="kor" page="13" n="01"><ruby>만일<rt>萬一</rt></ruby> 싸와 <ruby>당<rt>當</rt></ruby>키 어렵거던 <ruby>운장<rt>雲長</rt></ruby>과 <ruby>의논<rt>議論</rt></ruby>여 라</sent>
+<sent type="main" lang="kor" page="13" n="02"><ruby>관공<rt>關公</rt></ruby>과 <ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>령<rt>令</rt></ruby>을 듯고 물너나오니라 <ruby>후사<rt>後事</rt></ruby> 엇지된고</sent>
+<sent type="main" lang="kor" page="13" n="03"><ruby>하회<rt>下回</rt></ruby>를 보와 <ruby>분<rt>分觧</rt></ruby>라</sent>
+<sent type="title2" lang="kor" page="13" n="04"><ruby>뎨삼장<rt>第三章</rt></ruby></sent>
+<sent type="main" lang="kor" page="13" n="05"><ruby>팔쟝<rt>八將</rt></ruby>을 쥭여 쳐음 <ruby>공<rt>功</rt></ruby>을 셰우고 <ruby>명무<rt>名武</rt></ruby>를 버혀 <ruby>위진<rt>魏陣</rt></ruby>에 <ruby>횡<rt>橫行</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="13" n="06"><ruby>차셜<rt>且說</rt></ruby> <ruby>관공<rt>關公</rt></ruby>과 <ruby>긔<rt>孟起</rt></ruby> <ruby>공명<rt>孔明</rt></ruby>의 <ruby>계교<rt>計較</rt></ruby>를 듯고 물너나올 <ruby>승후문<rt>承候門</rt></ruby>을 지나 <ruby>슉셩문<rt>肅城門</rt></ruby>을 바라고 나오더니</sent>
+<sent type="main" lang="kor" page="13" n="07"><ruby>운쟝<rt>雲長</rt></ruby>이 <ruby>마초<rt>馬超</rt></ruby>를 도라보아 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="13" n="08"><ruby>쟝군<rt>將軍</rt></ruby>은 <ruby>션<rt>先生</rt></ruby>의 <ruby>계교<rt>計較</rt></ruby>를 <ruby>명심불망<rt>銘心不忘</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="13" n="09"><ruby>마초<rt>馬超</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="13" n="10"><ruby>쟝군<rt>將軍</rt></ruby>은 <ruby>소쟝<rt>小將</rt></ruby>을 <ruby>염녀<rt>念慮</rt></ruby>치 마르소셔</sent>
+<sent type="main" lang="kor" page="13" n="11"><ruby>소쟝<rt>小將</rt></ruby>이 비록 <ruby>조<rt>才操</rt></ruby> 업스나 <ruby>위진<rt>魏陣</rt></ruby>을 즛쳐 바리고 도라올 거시니</sent>
+<sent type="main" lang="kor" page="13" n="12"><ruby>쟝군<rt>將軍</rt></ruby>은 <ruby>즁군<rt>中軍</rt></ruby>을 히소셔</sent>
+<sent type="main" lang="kor" page="13" n="13"><ruby>언파<rt>言罷</rt></ruby>에 <ruby>록포은갑<rt>綠袍銀甲</rt></ruby>에 <ruby>쌍봉<rt>雙鳳</rt></ruby> 투구를 쓰고 <ruby>쳔리비룡마<rt>千里飛龍馬</rt></ruby>를 타고</sent>
+<sent type="main" lang="kor" page="13" n="14"><ruby>우슈<rt>右手</rt></ruby>에 <ruby>쟝창<rt>長槍</rt></ruby>을 들고 <ruby>좌슈<rt>左手</rt></ruby>에 <ruby>슈긔<rt>帥旗</rt></ruby>를 잡고 <ruby>만군<rt>萬軍</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 <ruby>호령<rt>號令</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="13" n="15">얼골은 <ruby>형산옥<rt>荊山白玉</rt></ruby> 갓고 <ruby>양안<rt>兩眼</rt></ruby>은 별 갓고 <ruby>위풍<rt>威風</rt></ruby>이 <ruby>름름<rt>凜凜</rt></ruby>하더라</sent><!--'름름'의 두 번째 '름'은 원문에 재점으로 되어 있음.-->
+
+<sent type="main" lang="kor" page="14" n="01"><ruby>한<rt>漢</rt></ruby> <ruby>션봉<rt>先鋒</rt></ruby> <ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>비룡마<rt>飛龍馬</rt></ruby>를 쳐 <ruby>위진<rt>魏陣</rt></ruby>을 바라고 <ruby>풍우<rt>風雨</rt></ruby> 갓치 모라 드러가니</sent>
+<sent type="main" lang="kor" page="14" n="02"><ruby>위국<rt>魏國</rt></ruby> <ruby>션봉쟝<rt>先鋒將</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>의 <ruby>부쟝<rt>副將</rt></ruby> <ruby>팔<rt>八</rt></ruby> <ruby>인<rt>人</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 다라 크게 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="14" n="03"><ruby>반젹<rt>叛賊</rt></ruby> <ruby>마초<rt>馬超</rt></ruby>  말을 들으라</sent>
+<sent type="main" lang="kor" page="14" n="04">우리 <ruby>왕상<rt>王上</rt></ruby>의 으신 <ruby>덕<rt>德</rt></ruby>으로 너의 <ruby>등<rt>等</rt></ruby>을 <ruby>지금<rt>至今</rt></ruby>지 살녀 두엇더니</sent>
+<sent type="main" lang="kor" page="14" n="05">이럿틋 <ruby>양양<rt>揚揚</rt></ruby>여 <ruby>셰상<rt>世上</rt></ruby>을 <ruby>요란<rt>擾亂</rt></ruby>케 </sent><!--'양양'의 두 번째 '양'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="14" n="06">우리 <ruby>등<rt>等</rt></ruby>이 <ruby>왕상<rt>王上</rt></ruby>의 <ruby>명<rt>命</rt></ruby>을 바다 오날날 <ruby>한<rt>漢</rt></ruby>을 <ruby>멸<rt>滅</rt></ruby>고</sent><!--'오날날'의 두 번째 '날'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="14" n="07"><ruby>한왕<rt>漢王</rt></ruby> <ruby>유비<rt>劉備</rt></ruby>와 <ruby>모사<rt>謀士</rt></ruby> <ruby>졔갈량<rt>諸葛亮</rt></ruby>을 <ruby>금<rt>生擒</rt></ruby>여 우리 <ruby>왕<rt>大王</rt></ruby>게 밧치리니</sent><!--'졔갈경란'은 '졔갈량'이 되어야 함. 원문의 '경란'이 '량'의 오타임.--><!--'여'는 '금여'이 되어야 함. 원문의 ''이 '금'의 오자임.-->
+<sent type="main" lang="kor" page="14" n="08">너 부즈럽시 젹은 <ruby>조<rt>才操</rt></ruby>를 자랑치 말고 일즉이 <ruby>항복<rt>降服</rt></ruby>여 쥭기를 <ruby>면<rt>免</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="14" n="09"><ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>차언<rt>此言</rt></ruby>을 듯고 <ruby>분긔<rt>忿氣</rt></ruby>를 이긔지 못여</sent>
+<sent type="main" lang="kor" page="14" n="10"><ruby>양안<rt>兩眼</rt></ruby>을 부릅고 <ruby>쟝창<rt>長槍</rt></ruby>을 들어 가라치며 크게 지져 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="14" n="11">너의 <ruby>등<rt>等</rt></ruby>이 <ruby>감<rt>敢</rt></ruby>이 큰 말을 거니와 <ruby>조죠<rt>曹操</rt></ruby> <ruby>무도<rt>無道</rt></ruby>야</sent>
+<sent type="main" lang="kor" page="14" n="12"><ruby>역텬지심<rt>逆天之心</rt></ruby>을 두어 <ruby>황졔<rt>皇帝</rt></ruby>를 <ruby>허창<rt>許昌</rt></ruby>에 가도고</sent>
+<sent type="main" lang="kor" page="14" n="13">어진 <ruby>한왕<rt>漢王</rt></ruby>을 <ruby>침범<rt>侵犯</rt></ruby>며 <ruby>가련<rt>可憐</rt></ruby> <ruby>인<rt>人生</rt></ruby>을 거나려 이에 이르럿스니</sent>
+<sent type="main" lang="kor" page="14" n="14">이 진실노 하로 아지 <ruby>호<rt>猛虎</rt></ruby>를 <ruby>젹고<rt>對敵</rt></ruby>져 미라</sent>
+<sent type="main" lang="kor" page="14" n="15">엇지 <ruby>가련<rt>可憐</rt></ruby>치 아니하리오 고</sent>
+<sent type="main" lang="kor" page="14" n="16"><ruby>호<rt>呼</rt></ruby>통을 <ruby>벽력<rt>霹靂</rt></ruby> 갓치 지르며 나 다시 다라드러 <ruby>팔쟝<rt>八將</rt></ruby>을 <ruby>취<rt>取</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="14-15" n="17"><ruby>팔쟝<rt>八將</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 <ruby>창검<rt>槍劒</rt></ruby>을 들고 는지라</sent><!--팔^쟝이-->
+
+<sent type="main" lang="kor" page="15" n="01">셔로 싸화 <ruby>슈십<rt>數十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>에 <ruby>긔<rt>孟起</rt></ruby>의 <ruby>창<rt>槍</rt></ruby>이 빗나며</sent>
+<sent type="main" lang="kor" page="15" n="02"><ruby>팔쟝<rt>八將</rt></ruby>의 머리 <ruby>검광<rt>劒光</rt></ruby>을 좃차 <ruby>마하<rt>馬下</rt></ruby>에 나려지니</sent>
+<sent type="main" lang="kor" page="15" n="03"><ruby>긔<rt>孟起</rt></ruby> <ruby>슌식간<rt>瞬息間</rt></ruby>에 <ruby>팔장<rt>八將</rt></ruby>의 머리를 버혀들고 <ruby>젹진<rt>賊陣</rt></ruby>을 치며 <ruby>위진<rt>魏陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>을 <ruby>무슈<rt>無數</rt></ruby>이 쥭이고</sent><!--'적진'은 '젹진'이 되어야 함. 원문의 '적'이 '젹'의 오자임.-->
+<sent type="main" lang="kor" page="15" n="04"> 날 <ruby>장슈<rt>將帥</rt></ruby> <ruby>칠<rt>七</rt></ruby> <ruby>인<rt>人</rt></ruby>을 버혀 <ruby>슈급<rt>首級</rt></ruby>을 말게 달고 <ruby>즁군<rt>中軍</rt></ruby>으로 도라오며 <ruby>운장<rt>雲長</rt></ruby>을 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="15" n="05"><ruby>소장<rt>小將</rt></ruby>의 <ruby>조<rt>才操</rt></ruby> 이러믈 <ruby>션<rt>先生</rt></ruby>이 모르시고</sent>
+<sent type="main" lang="kor" page="15" n="06"><ruby>션봉<rt>先鋒</rt></ruby>을 <ruby>허락<rt>許諾</rt></ruby>지 아니시거늘</sent>
+<sent type="main" lang="kor" page="15" n="07"><ruby>장군<rt>將軍</rt></ruby>의 넓으신 <ruby>의리<rt>義理</rt></ruby>로 오날날 <ruby>션봉<rt>先鋒</rt></ruby>이 되니 이 다 <ruby>장군<rt>將軍</rt></ruby>의 <ruby>활<rt>大豁</rt></ruby> <ruby>은혜<rt>恩惠</rt></ruby>로소이다</sent><!--'오날날'의 두 번째 '날'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="15" n="08"><ruby>운장<rt>雲長</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="15" n="09"><ruby>장군<rt>將軍</rt></ruby>의 <ruby>조<rt>才操</rt></ruby> 진실노 <ruby>금셰<rt>今世</rt></ruby>에 <ruby>영웅<rt>英雄</rt></ruby>이로다</sent>
+<sent type="main" lang="kor" page="15" n="10">그러나 남을 <ruby>경뎍<rt>輕敵</rt></ruby>지 말고 <ruby>션<rt>先生</rt></ruby>의 말삼을 <ruby>명심<rt>銘心</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="15" n="11"><ruby>마촉<rt>馬超</rt></ruby>ㅣ 웃고 다시 <ruby>뎍진<rt>賊陣</rt></ruby>을 즛치 고져 더니</sent>
+<sent type="main" lang="kor" page="15" n="12">문득 <ruby>위진<rt>魏陣</rt></ruby> <ruby>쳥포장<rt>靑布帳</rt></ruby> 뒤흐로셔</sent>
+<sent type="main" lang="kor" page="15" n="13">한 <ruby>장수<rt>將帥</rt></ruby>ㅣ 나 다시 나아와 크게 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="15" n="14"><ruby>한장<rt>韓將</rt></ruby> <ruby>마쵸<rt>馬超</rt></ruby> <ruby>위국<rt>魏國</rt></ruby> <ruby>츙신<rt>忠臣</rt></ruby> <ruby>셔회<rt>徐恢</rt></ruby>를 아다</sent>
+<sent type="main" lang="kor" page="15" n="15"><ruby>젼일<rt>前日</rt></ruby> <ruby>산양슈<rt>山陽水</rt></ruby> 싸홈에 네가 아오를 쥭이엿스니</sent>
+<sent type="main" lang="kor" page="15" n="16"><ruby>금일<rt>今日</rt></ruby> <ruby>쳘텬지원<rt>徹天之寃</rt></ruby>이 <ruby>심간<rt>心肝</rt></ruby>에 가득 엿지라</sent>
+<sent type="main" lang="kor" page="15-16" n="17">오날 너를 버혀 <ruby>원슈<rt>寃讎</rt></ruby>를 갑고 <ruby>공<rt>功</rt></ruby>을 셰워 일홈을 <ruby>죽<rt>竹帛</rt></ruby>에 올니리라 고</sent><!--죽에 ^ 올니리라-->
+ 
+
+<sent type="main" lang="kor" page="16" n="01"><ruby>철퇴<rt>鐵椎</rt></ruby>를 두루며 말을 노와 <ruby>마쵸<rt>馬超</rt></ruby>의게 다라들거</sent>
+<sent type="main" lang="kor" page="16" n="02"><ruby>마죠<rt>馬超</rt></ruby>ㅣ <ruby>소왈<rt>大笑曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="16" n="03"><ruby>젼일<rt>前日</rt></ruby> 싸홈에 네 <ruby>동<rt>同生</rt></ruby>이 칼에 쥭엇거</sent>
+<sent type="main" lang="kor" page="16" n="04">너 <ruby>반젹<rt>叛賊</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>의 <ruby>츙신<rt>忠臣</rt></ruby>이라 니</sent>
+<sent type="main" lang="kor" page="16" n="05"> 갓흔 <ruby>조죠<rt>曹操</rt></ruby>의 <ruby>츙신<rt>忠臣</rt></ruby>을 버히고 <ruby>조죠<rt>曹操</rt></ruby>를 잡아</sent>
+<sent type="main" lang="kor" page="16" n="06">우리 <ruby>왕샹<rt>王上</rt></ruby>과 <ruby>션<rt>先生</rt></ruby> <ruby>젼<rt>前</rt></ruby>에 밧치고 큰 일홈을 <ruby>후셰<rt>後世</rt></ruby>에 빗리라 니</sent>
+<sent type="main" lang="kor" page="16" n="07"><ruby>셔회<rt>徐恢</rt></ruby> 이 말을 듯고 <ruby>분<rt>忿</rt></ruby>을 참지 못야</sent>
+<sent type="main" lang="kor" page="16" n="08"><ruby>철퇴<rt>鐵椎</rt></ruby>를 두루며 <ruby>즐왈<rt>大吒曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="16" n="09">어린 아희 <ruby>마쵸<rt>馬超</rt></ruby> 목을 늘희여  <ruby>쳘퇴<rt>鐵椎</rt></ruby>를 바드라 고 다라드니</sent>
+<sent type="main" lang="kor" page="16" n="10"><ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>창<rt>槍</rt></ruby>을 빗기 들고 마져 싸와 <ruby>양장<rt>兩將</rt></ruby>이 <ruby>조<rt>才操</rt></ruby>를 다야 싸호니</sent>
+<sent type="main" lang="kor" page="16" n="11">그 <ruby>형상<rt>形像</rt></ruby>은 두낫 <ruby>호<rt>猛虎</rt></ruby>ㅣ 밥을 닷토 듯</sent>
+<sent type="main" lang="kor" page="16" n="12"><ruby>창신룡<rt>滄海神龍</rt></ruby>이 <ruby>여의쥬<rt>如意珠</rt></ruby>를 닷토 듯더라</sent>
+<sent type="main" lang="kor" page="16" n="13"><ruby>젼<rt>大戰</rt></ruby> <ruby>십<rt>十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>에 이르도록 <ruby>승부<rt>勝負</rt></ruby>를 <ruby>결<rt>結</rt></ruby>치 못더니</sent>
+<sent type="main" lang="kor" page="16" n="14"> <ruby>셔회<rt>徐恢</rt></ruby>의 <ruby>아장<rt>亞將</rt></ruby> <ruby>장슉<rt>張叔</rt></ruby>이 칼을 들고 녀오며 크게 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="16" n="15"><ruby>장군<rt>將軍</rt></ruby>의 <ruby>조<rt>才操</rt></ruby>로 엇지 조고마 <ruby>마초<rt>馬超</rt></ruby>를 <ruby>지금<rt>至今</rt></ruby>지 살녀 두시나잇가 며</sent>
+<sent type="main" lang="kor" page="16" n="16">다라 들어 <ruby>마쵸<rt>馬超</rt></ruby>를 <ruby>협공<rt>挾攻</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="16" n="17"><ruby>마초<rt>馬超</rt></ruby> <ruby>일변<rt>一便</rt></ruby> <ruby>셔회<rt>徐恢</rt></ruby>를 <ruby>젹<rt>對敵</rt></ruby>며</sent>
+<sent type="main" lang="kor" page="16" n="18"><ruby>일변<rt>一便</rt></ruby> <ruby>창<rt>槍</rt></ruby>을 날니여 <ruby>장슉<rt>張叔</rt></ruby>을 질너 <ruby>마하<rt>馬下</rt></ruby>에 나리치니</sent>
+<sent type="main" lang="kor" page="16-17" n="19"><ruby>셔회<rt>徐恢</rt></ruby> <ruby>장슉<rt>張叔</rt></ruby>의 쥭으믈 보고 <ruby>분긔<rt>忿氣</rt></ruby> <ruby>일층<rt>一層</rt></ruby> 더야 눈을 부릅고</sent><!--눈^을-->
+
+<sent type="main" lang="kor" page="17" n="01">이를 갈며 <ruby>쳘퇴<rt>鐵椎</rt></ruby>를 두루고 다라 들거늘</sent>
+<sent type="main" lang="kor" page="17" n="02"><ruby>마초<rt>馬超</rt></ruby>ㅣ 마자 싸와 <ruby>슈합<rt>數合</rt></ruby>이 못되어 마초의 <ruby>창<rt>槍</rt></ruby>이 빗나며 <ruby>셔회<rt>徐恢</rt></ruby>의 머리 <ruby>마하<rt>馬下</rt></ruby>에 나려지지라</sent>
+<sent type="main" lang="kor" page="17" n="03"><ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>창<rt>槍</rt></ruby> 에 여 들고 <ruby>위진<rt>魏陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 <ruby>횡<rt>橫行</rt></ruby>니 <ruby>감<rt>敢</rt></ruby>이 막 <ruby><rt>者</rt></ruby> 업더라</sent>
+<sent type="main" lang="kor" page="17" n="04"><ruby>차시<rt>此時</rt></ruby> <ruby>위장<rt>魏將</rt></ruby> <ruby>등<rt>等</rt></ruby>이 <ruby>의론<rt>議論</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="17" n="05"><ruby>진셰<rt>陣勢</rt></ruby> <ruby>만분<rt>萬分</rt></ruby> <ruby>위<rt>危殆</rt></ruby>니 뉘 <ruby>능<rt>能</rt></ruby>이 <ruby>마초<rt>馬超</rt></ruby>를 잡으리오</sent>
+<sent type="main" lang="kor" page="17" n="06"><ruby>언미필<rt>言未畢</rt></ruby>에 <ruby>일원<rt>一員</rt></ruby> <ruby>쟝<rt>大將</rt></ruby>이 <ruby>졍신츌<rt>挺身出</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="17" n="07">쇼장이 비록 <ruby>조<rt>才操</rt></ruby> 업사오나 <ruby>마초<rt>馬超</rt></ruby>를 잡아 <ruby>휘하<rt>麾下</rt></ruby>에 밧치리이다 고</sent>
+<sent type="main" lang="kor" page="17" n="08"><ruby>언흘<rt>言訖</rt></ruby>에 <ruby>철궁<rt>鐵弓</rt></ruby>에 <ruby>왜젼<rt>倭箭</rt></ruby>을 먹여 들고 <ruby>진젼<rt>陣前</rt></ruby>에 나셔며 크게 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="17" n="09"><ruby>한쟝<rt>漢將</rt></ruby> <ruby>마초<rt>馬超</rt></ruby>야 <ruby>위국<rt>魏國</rt></ruby> <ruby>쟝사슈<rt>長沙太守</rt></ruby> <ruby>한현<rt>韓玄</rt></ruby>을 아는다</sent><!--'한헌'은 '한현'이 되어야 함. 원문의 '헌'이 '현'의 오자임.-->
+<sent type="main" lang="kor" page="17" n="10">나의 살은 아흡치 무쇠를 치나니</sent>
+<sent type="main" lang="kor" page="17" n="11">오 이 살노 너를 쏘와 여러 <ruby>쟝슈<rt>將帥</rt></ruby>의 <ruby>원수<rt>寃讎</rt></ruby>를 갑흐리라</sent><!--'오'의 두 번째 ''은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="17" n="12"><ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>로<rt>大怒</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="17" n="13">어린 <ruby>아<rt>兒孩</rt></ruby> 어룬을 모르고 <ruby>감<rt>敢</rt></ruby>이 큰 말을 니 <ruby>긔특<rt>奇特</rt></ruby>고도 불상도다</sent><!--'어른'은 '어룬'이 되어야 함. 원문의 '른'이 '룬'의 오자임.-->
+<sent type="main" lang="kor" page="17" n="14"><ruby>한현<rt>韓玄</rt></ruby>이 <ruby>로<rt>大怒</rt></ruby>여 활을 달의여 쏘니</sent>
+<sent type="main" lang="kor" page="17" n="15"><ruby>마초<rt>馬超</rt></ruby>ㅣ 오 살을 잡아 거 바리고 <ruby>창<rt>槍</rt></ruby>을 날려 <ruby>한현<rt>韓玄</rt></ruby>을 질너 <ruby>마하<rt>馬下</rt></ruby>에 나리치고</sent>
+<sent type="main" lang="kor" page="17" n="16"><ruby>좌즁우돌<rt>左衝右突</rt></ruby>야 <ruby>만군<rt>萬軍</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 <ruby>왕<rt>往來</rt></ruby>기를 <ruby>무인디경<rt>無人地境</rt></ruby> 치 니</sent>
+<sent type="main" lang="kor" page="17-18" n="17"><ruby>위진<rt>魏陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>이 넉슬일코 <ruby>졍신<rt>精神</rt></ruby>을 <ruby>수습<rt>收拾</rt></ruby>지 못더라</sent><!--장졸^이-->
+
+<sent type="main" lang="kor" page="18" n="01"><ruby>차시<rt>此時</rt></ruby> <ruby>한현<rt>韓玄</rt></ruby>의 아오 <ruby>한총<rt>韓聦</rt></ruby>이 졔 <ruby>형<rt>兄</rt></ruby> 쥭음을 보고</sent>
+<sent type="main" lang="kor" page="18" n="02"><ruby>분긔<rt>忿氣</rt></ruby> <ruby>발<rt>大發</rt></ruby>야 <ruby>급<rt>急</rt></ruby>히 나오며 크게 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="18" n="03"><ruby>마쵸<rt>馬超</rt></ruby> 닷지 말고  살을 밧으라</sent>
+<sent type="main" lang="kor" page="18" n="04">오 이 살노 너를 쏘와 쥭여 <ruby>간<rt>肝</rt></ruby>을 여</sent>
+<sent type="main" lang="kor" page="18" n="05">나의 <ruby>형<rt>兄</rt></ruby> 죽인 <ruby>원수<rt>寃讎</rt></ruby>를 갑흐리라 거</sent>
+<sent type="main" lang="kor" page="18" n="06"><ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>로<rt>大怒</rt></ruby>여 지져 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="18" n="07">어린 <ruby>아<rt>兒孩</rt></ruby> <ruby>한총<rt>韓聦</rt></ruby>은 하로아지 범 무셔운 쥴 모르고 <ruby>감<rt>敢</rt></ruby>히 나를 <ruby>젹<rt>對敵</rt></ruby>고져 냐</sent>
+<sent type="main" lang="kor" page="18" n="08">너의 <ruby>형<rt>兄</rt></ruby>도  <ruby>창<rt>槍</rt></ruby> 아 놀난 넉시 되엿거</sent>
+<sent type="main" lang="kor" page="18" n="09">너도  죽고져 니 진실노 <ruby>가련<rt>可憐</rt></ruby>코 불샹도다</sent>
+<sent type="main" lang="kor" page="18" n="10"><ruby>한춍<rt>韓聦</rt></ruby>이 <ruby>로<rt>大怒</rt></ruby> <ruby>왈<rt>曰</rt></ruby>거</sent>
+<sent type="main" lang="kor" page="18" n="11"><ruby>불<rt>不幸</rt></ruby>여 나의 <ruby>형<rt>兄</rt></ruby>이 네 칼에 죽엇거니와</sent>
+<sent type="main" lang="kor" page="18" n="12"> 살도 아홉치 무쇠를 치나니 너 갓은 <ruby>구유츄<rt>口生乳臭</rt></ruby>을 엇지 <ruby>족<rt>足</rt></ruby>히 근심리오</sent>
+<sent type="main" lang="kor" page="18" n="13">네 목슘을 앗기거던  <ruby>형<rt>兄</rt></ruby>의 <ruby>슈급<rt>首級</rt></ruby>을 놋코가라</sent>
+<sent type="main" lang="kor" page="18" n="14"><ruby>마초<rt>馬超</rt></ruby>ㅣ 우어 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="18" n="15">네 경상을 볼진 네 <ruby>형<rt>兄</rt></ruby>의 <ruby>슈급<rt>首級</rt></ruby>을 쥬엄즉 나</sent>
+<sent type="main" lang="kor" page="18" n="16">우리 <ruby>왕상<rt>王上</rt></ruby>과 <ruby>션<rt>先生</rt></ruby>이 너의 <ruby>형제<rt>兄弟</rt></ruby> <ruby>위국<rt>魏國</rt></ruby> <ruby>명무<rt>名武</rt></ruby>라 여 <ruby>항상<rt>恒常</rt></ruby> 근심시 고로</sent>
+<sent type="main" lang="kor" page="18-19" n="17"> 이제 너의 <ruby>형<rt>兄</rt></ruby>의 머리를 갓다가 <ruby>왕상<rt>王上</rt></ruby>와 <ruby>션<rt>先生</rt></ruby> <ruby>젼<rt>前</rt></ruby>에 드려 근심을 덜으시게 고져 니</sent><!--덜으시^게-->
+
+<sent type="main" lang="kor" page="19" n="01">너 부즈럽시 찻고져 말나</sent>
+<sent type="main" lang="kor" page="19" n="02"><ruby>만일<rt>萬一</rt></ruby> 다시 차즈려진 너 조 살지 못리라</sent>
+<sent type="main" lang="kor" page="19" n="03"><ruby>한총<rt>韓聦</rt></ruby>이 이 말을 듯고 더욱 <ruby>노<rt>怒</rt></ruby>여 크게 불너 <ruby>왈<rt>曰</rt></ruby></sent><!--'<ruby>한총<rt>韓聦</rt></ruby>이 이 말을'의 두 번째 '이'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="19" n="04"><ruby>마초<rt>馬超</rt></ruby>야 네 진짓  <ruby>형<rt>兄</rt></ruby>의 머리를 쥬지 안을 진 나의 살을 바드라</sent>
+<sent type="main" lang="kor" page="19" n="05"><ruby>언흘<rt>言訖</rt></ruby>의 활을 당긔여 쏘니 시위 소 나 곳에 별 갓치 른 살이 <ruby>마초<rt>馬超</rt></ruby>의 <ruby>창<rt>槍</rt></ruby>든 팔에 맛지라</sent>
+<sent type="main" lang="kor" page="19" n="06"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ 살마진 쥴 모르고 다라드러 <ruby>창<rt>槍</rt></ruby>으로 지르려 다가</sent>
+<sent type="main" lang="kor" page="19" n="07">문득 <ruby>창<rt>槍</rt></ruby>을 멈츄고 몸을 날녀 손으로 <ruby>한총<rt>韓聦</rt></ruby>을 잡아 에 업지르고 <ruby>왈<rt>大罵曰</rt></ruby></sent><!--'날려'는 '날녀'가 되어야 함. 원문의 '려'가 '녀'의 오자임.-->
+<sent type="main" lang="kor" page="19" n="08"> 갓흔 <ruby>한총<rt>韓聦</rt></ruby>아 너 <ruby>쳔시<rt>天時</rt></ruby>를 모르고 <ruby>무도<rt>無道</rt></ruby> <ruby>조조<rt>曹操</rt></ruby>를 도와 <ruby>한<rt>漢</rt></ruby>을 <ruby>침범<rt>侵犯</rt></ruby>니 <ruby>죄사무셕<rt>罪死無釋</rt></ruby>이라</sent><!--'조조'의 두 번째 '조'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="19" n="09">네 <ruby>형<rt>兄</rt></ruby>이 칼에 쥭엇거늘 네 엇지 모로고 <ruby>감<rt>敢</rt></ruby>이 나를 <ruby>젹<rt>對敵</rt></ruby>고져 나냐</sent>
+<sent type="main" lang="kor" page="19" n="10">이 <ruby>창<rt>槍</rt></ruby>으로 너를 버힐 거시로되</sent>
+<sent type="main" lang="kor" page="19" n="11">옛글에 엿시되 <ruby>부자형졔<rt>父子兄弟</rt></ruby> 한칼노 쥭이지 아니다  고로</sent>
+<sent type="main" lang="kor" page="19" n="12">너를 쥭이지 아니고 <ruby>셩명<rt>姓名</rt></ruby>을 <ruby>보젼<rt>保全</rt></ruby>케 나니</sent>
+<sent type="main" lang="kor" page="19" n="13">너 도라가 <ruby>조죠<rt>曹操</rt></ruby>의게 말야 슈이 <ruby>항복<rt>降服</rt></ruby>야 <ruby>텬하<rt>天下</rt></ruby>를 <ruby>분란<rt>紛亂</rt></ruby>케 말나</sent>
+<sent type="main" lang="kor" page="19" n="14"><ruby>만일<rt>萬一</rt></ruby> 그러치 아니면 <ruby>옥셕<rt>玉石</rt></ruby>이 <ruby>구분<rt>俱焚</rt></ruby>리라</sent>
+<sent type="main" lang="kor" page="19" n="15"><ruby>언파<rt>言罷</rt></ruby>에 <ruby>창<rt>槍</rt></ruby> 흐로 드러더지니</sent>
+
+<sent type="main" lang="kor" page="20" n="01"><ruby>총<rt>韓聦</rt></ruby>이 <ruby>진<rt>陣</rt></ruby> 밧게 러져 쥭으니라</sent><!--'진로 밧게'는 '진 밧게'가 되어야 함. 원문의 '진로 밧게'가 '진 밧게'의 오타임.-->
+<sent type="main" lang="kor" page="20" n="02"><ruby>필경<rt>畢境</rt></ruby> <ruby>승부<rt>勝負</rt></ruby> 엇지된고 <ruby>하회<rt>下回</rt></ruby>를 보와 <ruby>분<rt>分觧</rt></ruby>라</sent>
+<sent type="title2" lang="kor" page="20" n="03"><ruby>뎨사장<rt>第四章</rt></ruby></sent>
+<sent type="main" lang="kor" page="20" n="04"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ <ruby>효<rt>韓曉</rt></ruby>로 <ruby>젼<rt>大戰</rt></ruby>고 <ruby>운장<rt>雲長</rt></ruby>이 <ruby>긔<rt>孟起</rt></ruby>를 <ruby>구<rt>救</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="20" n="05"><ruby>각셜<rt>却說</rt></ruby> <ruby>관운장<rt>關雲長</rt></ruby>이 <ruby>마쵸<rt>馬超</rt></ruby>의 뒤를 좃차오며</sent>
+<sent type="main" lang="kor" page="20" n="06"><ruby>위장<rt>魏將</rt></ruby> 도망 자 <ruby>칠<rt>七</rt></ruby> <ruby>인<rt>人</rt></ruby>을 칼에 버히고 <ruby>장졸<rt>將卒</rt></ruby>을 썩은 풀 버히 듯더니</sent>
+<sent type="main" lang="kor" page="20" n="07">문득 <ruby>총<rt>韓聦</rt></ruby>의 살이 <ruby>마쵸<rt>馬超</rt></ruby>의 팔의 박히믈 보고 급히 <ruby>위진<rt>魏陣</rt></ruby>을 헤치고</sent>
+<sent type="main" lang="kor" page="20" n="08">나 다시 <ruby>마쵸<rt>馬超</rt></ruby> 잇 곳에 이르러 크게 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="20" n="09"><ruby>마장군<rt>馬將軍</rt></ruby>은 아직 <ruby>싀살<rt>殺</rt></ruby>을 긋치고  말을 드르라</sent>
+<sent type="main" lang="kor" page="20" n="10"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ <ruby>졍<rt>正</rt></ruby>이 <ruby>싀<rt>殺</rt></ruby>다가 부르 소를 듯고 괴이 여겨 도라보니</sent>
+<sent type="main" lang="kor" page="20" n="11">이 곳 <ruby>관운장<rt>關雲長</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="20" n="12"><ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="20" n="13"><ruby>장군<rt>將軍</rt></ruby>은 엇지 <ruby>급<rt>急</rt></ruby>히 오신잇가</sent>
+<sent type="main" lang="kor" page="20" n="14"><ruby>운장<rt>雲長</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="20" n="15"> 앗가 <ruby>잠간<rt>暫間</rt></ruby> 펴보니 <ruby>총<rt>韓聦</rt></ruby>의 이 <ruby>장군<rt>將軍</rt></ruby>의 팔에 박혀더니 <ruby>긔운<rt>氣運</rt></ruby>이 엇더뇨</sent>
+<sent type="main" lang="kor" page="20" n="16"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ 비로소 살마진 쥴 닷고 <ruby>즉시<rt>卽時</rt></ruby> <ruby>갑<rt>甲</rt></ruby>옷슬 그르고 보니</sent>
+<sent type="main" lang="kor" page="20" n="17"><ruby>갑<rt>甲</rt></ruby>옷두겹을 쳣시되 겹은 <ruby>범<rt>犯</rt></ruby>치 못야 살이 몸에 밋지 아니엿거늘</sent>
+<sent type="main" lang="kor" page="20" n="18"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ <ruby>즉시<rt>卽時</rt></ruby> <ruby>갑<rt>甲</rt></ruby>옷을 도로 입으며 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="20-21" n="19">살이 <ruby>다<rt>多幸</rt></ruby>이 몸에 <ruby>범<rt>犯</rt></ruby>치 아니엿스니 <ruby>장군<rt>將軍</rt></ruby>은 <ruby>념녀<rt>念慮</rt></ruby>치 마르시고 <ruby>즁군<rt>中軍</rt></ruby>으로 도라가소셔</sent><!--마르시^고-->
+
+<sent type="main" lang="kor" page="21" n="01"><ruby>운장<rt>雲長</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="21" n="02"><ruby>장군<rt>將軍</rt></ruby>은 <ruby>션<rt>先生</rt></ruby>의 말을 <ruby>명심<rt>銘心</rt></ruby>여 남을 부듸 <ruby>경적<rt>輕敵</rt></ruby>지 말나 고</sent>
+<sent type="main" lang="kor" page="21" n="03"><ruby>즁군<rt>中軍</rt></ruby>으로 도라오니라</sent>
+<sent type="main" lang="kor" page="21" n="04"><ruby>각셜<rt>却說</rt></ruby> 이 <ruby>위진<rt>魏陣</rt></ruby> <ruby>졔장<rt>諸將</rt></ruby>이 <ruby>효<rt>韓曉</rt></ruby>의게 알외되</sent>
+<sent type="main" lang="kor" page="21" n="05"><ruby>션봉<rt>漢先鋒</rt></ruby> <ruby>마쵸<rt>馬超</rt></ruby>ㅣ <ruby>위진<rt>魏陣</rt></ruby>에 드러와 <ruby>팔장<rt>八將</rt></ruby>을 버히고</sent>
+<sent type="main" lang="kor" page="21" n="06"> <ruby>셔회<rt>徐恢</rt></ruby>를 쥭이며 <ruby>명무<rt>名武</rt></ruby> <ruby>현<rt>韓玄</rt></ruby> <ruby>총<rt>韓聦</rt></ruby>을 버히고</sent>
+<sent type="main" lang="kor" page="21" n="07"><ruby>좌우<rt>左右</rt></ruby> <ruby>츙돌<rt>衝突</rt></ruby>여 <ruby>장졸<rt>將卒</rt></ruby>을 <ruby>무슈<rt>無數</rt></ruby>이 쥭엿사오니</sent>
+<sent type="main" lang="kor" page="21" n="08"><ruby>쟝군<rt>將軍</rt></ruby>은 <ruby>마쵸<rt>馬超</rt></ruby>를 밧비 잡으소셔</sent>
+<sent type="main" lang="kor" page="21" n="09"><ruby>효<rt>韓曉</rt></ruby>ㅣ <ruby>졔쟝<rt>諸將</rt></ruby>을 지져 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="21" n="10"><ruby>위국<rt>魏國</rt></ruby>이 날 <ruby>쟝슈<rt>將帥</rt></ruby> <ruby>쳔<rt>千</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>이오 <ruby>군<rt>軍士</rt></ruby> <ruby>슈십만<rt>數十萬</rt></ruby>이니</sent>
+<sent type="main" lang="kor" page="21" n="11">엇지 조고마 <ruby>마쵸<rt>馬超</rt></ruby>를 <ruby>당<rt>當</rt></ruby>치 못리오</sent>
+<sent type="main" lang="kor" page="21" n="12"> <ruby>위국<rt>魏國</rt></ruby> <ruby>션봉<rt>先鋒</rt></ruby>으로 엇지 죠고마 <ruby>아<rt>兒孩</rt></ruby>로 더부러 싸호리오</sent>
+<sent type="main" lang="kor" page="21" n="13"><ruby>졔쟝<rt>諸將</rt></ruby>은 <ruby>마초<rt>馬超</rt></ruby>를 잡으면 나는 <ruby>운장<rt>雲長</rt></ruby>을 잡으리라</sent>
+<sent type="main" lang="kor" page="21" n="14"><ruby>졔장<rt>諸將</rt></ruby> <ruby>등<rt>等</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 가로되</sent><!--'졔쟝'은 '졔장'이 되어야 함. 원문의 '쟝'이 '장'의 오자임.-->
+<sent type="main" lang="kor" page="21" n="15"><ruby>소장<rt>小將</rt></ruby> 등은 비록 <ruby>쳔만<rt>千萬</rt></ruby> <ruby>명<rt>名</rt></ruby>이라도 <ruby>마쵸<rt>馬超</rt></ruby>를 <ruby>젹<rt>對敵</rt></ruby>  업오니</sent>
+<sent type="main" lang="kor" page="21" n="16"><ruby>망녕<rt>妄侫</rt></ruby>된 말을 말고 <ruby>급<rt>急</rt></ruby>히 <ruby>마쵸<rt>馬超</rt></ruby>를 막으라 거</sent>
+<sent type="main" lang="kor" page="21" n="17"><ruby>한효<rt>韓曉</rt></ruby>ㅣ 할일 업셔 <ruby>갑쥬<rt>甲冑</rt></ruby>를 갓쵸고 손에 <ruby>삼<rt>三百</rt></ruby> <ruby>근<rt>斤</rt></ruby> <ruby>철퇴<rt>鐵椎</rt></ruby>를 들고</sent>
+<sent type="main" lang="kor" page="21" n="18"><ruby>쳥총마<rt>靑驄馬</rt></ruby>를 쳐 나 다시 나아오며 크게 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="21" n="19"><ruby>한장<rt>漢將</rt></ruby> <ruby>마쵸<rt>馬超</rt></ruby>  말을 들으라</sent>
+<sent type="main" lang="kor" page="21-22" n="20">엇지 미거 너로 더부러 <ruby>조<rt>才操</rt></ruby>를 닷토리오 만은</sent><!--너^로-->
+
+<sent type="main" lang="kor" page="22" n="01">네 젹은 <ruby>조<rt>才操</rt></ruby>를 밋고 <ruby>진상<rt>陣上</rt></ruby>에셔 <ruby>양양<rt>揚揚</rt></ruby> 거시 <ruby>통한<rt>痛恨</rt></ruby>야  <ruby>친<rt>親</rt></ruby>이 나왓니</sent><!--'잇고'는 '밋고'가 되어야 함. 원문의 '잇'이 '밋'의 오자임.-->
+<sent type="main" lang="kor" page="22" n="02">네 죽기를 두리거든 니 <ruby>항셔<rt>降書</rt></ruby>를 올니라  소 <ruby>벽력<rt>霹靂</rt></ruby>이 울니 듯더라</sent>
+<sent type="main" lang="kor" page="22" n="03"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ 바라보니 이 <ruby>귀국<rt>魏國</rt></ruby> <ruby>션봉장<rt>先鋒將</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>라 <ruby>신장<rt>身長</rt></ruby>이 <ruby>구<rt>九</rt></ruby> <ruby>쳑<rt>尺</rt></ruby>이오</sent>
+<sent type="main" lang="kor" page="22" n="04">낫빗츤 슛먹을 가라 친 듯고 <ruby>면광<rt>面廣</rt></ruby>을 <ruby>일<rt>一</rt></ruby> <ruby>쳑<rt>尺</rt></ruby> <ruby>오<rt>五</rt></ruby> <ruby>촌<rt>寸</rt></ruby>이오</sent>
+<sent type="main" lang="kor" page="22" n="05">눈은 <ruby>셰<rt>三</rt></ruby> <ruby>치<rt>尺</rt></ruby> <ruby>닷<rt>五</rt></ruby> <ruby>분<rt>分</rt></ruby>이라 <ruby>단신졀벽<rt>丹山絶壁</rt></ruby>에 모진 범이 밥을 물고 안졋 듯 <ruby>위풍<rt>威風</rt></ruby>이 <ruby>름름<rt>凜凜</rt></ruby>거</sent>
+<sent type="main" lang="kor" page="22" n="06"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ 번 바라보 눈이 어둡고 <ruby>졍신<rt>精神</rt></ruby>이 아득지라</sent>
+<sent type="main" lang="kor" page="22" n="07"><ruby>도망<rt>逃亡</rt></ruby>코져 다가 다시 <ruby>각<rt>生刻</rt></ruby>되</sent>
+<sent type="main" lang="kor" page="22" n="08"><ruby>장부<rt>大丈夫</rt></ruby>ㅣ <ruby>셰상<rt>世上</rt></ruby>에 나 <ruby>란시<rt>亂時</rt></ruby>를 <ruby>당<rt>當</rt></ruby>야 <ruby>일국션봉<rt>一國先鋒</rt></ruby>이 되여 <ruby>무단<rt>無端</rt></ruby>이 <ruby>도망<rt>逃亡</rt></ruby>면</sent>
+<sent type="main" lang="kor" page="22" n="09"><ruby>후셰<rt>後世</rt></ruby>에 엇지 우음을 <ruby>면<rt>免</rt></ruby>리오 고</sent>
+<sent type="main" lang="kor" page="22" n="10">이를 며 <ruby>졍신<rt>精神</rt></ruby>을 가다듬어 <ruby>장창<rt>長槍</rt></ruby>을 두루며 다라 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="22" n="11">너 <ruby>간웅<rt>奸雄</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>를 돕고 나 <ruby>한종실<rt>漢宗室</rt></ruby> <ruby>류황슉<rt>劉皇叔</rt></ruby>을 셤기니</sent>
+<sent type="main" lang="kor" page="22" n="12">오날날 너로 더부러 <ruby>자웅<rt>雌雄</rt></ruby>을 <ruby>결<rt>結</rt></ruby>여 <ruby>텬하<rt>天下</rt></ruby>를 <ruby>평뎡<rt>平定</rt></ruby>고 나의 <ruby>공<rt>功</rt></ruby>을 빗리다 고</sent><!--'오날날'의 두 번째 '날'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="22" n="13"><ruby>창<rt>槍</rt></ruby>을 두루며 말을 노와 <ruby>한효<rt>韓曉</rt></ruby>를 <ruby>취<rt>取</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="22-23" n="14"><ruby>효<rt>韓曉</rt></ruby>ㅣ 마 싸홀 <ruby>양장<rt>兩將</rt></ruby>이 어우러셔 싸호니</sent><!--어우러셔 ^ 싸호니-->
+
+<sent type="main" lang="kor" page="23" n="01"><ruby>양장<rt>兩將</rt></ruby>의 <ruby>긔셰<rt>氣勢</rt></ruby> <ruby>양양<rt>揚揚</rt></ruby>야 <ruby>텬디<rt>天地</rt></ruby>를 뒤놉 듯 말굽은 <ruby>분분<rt>紛紛</rt></ruby>야 <ruby>오<rt>行伍</rt></ruby>를 차리기 어렵고</sent><!--'양양'의 두 번째 '양'과 '분분'의 두 번째 '분'은 원문에 모두 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="23" n="02"><ruby>검광<rt>劒光</rt></ruby>은 <ruby>찬란<rt>燦爛</rt></ruby>야 <ruby>셕양<rt>夕陽</rt></ruby>을 <ruby>희롱<rt>戱弄</rt></ruby>며</sent>
+<sent type="main" lang="kor" page="23" n="03">틔글은 자욱야 <ruby>산하<rt>山河</rt></ruby>를 덥헛스니</sent>
+<sent type="main" lang="kor" page="23" n="04"><ruby>심산호<rt>深山猛虎</rt></ruby>ㅣ 밥을 닷토 듯 <ruby>창선룡<rt>滄海神龍</rt></ruby>이 <ruby>여의쥬<rt>如意珠</rt></ruby>를 닷토 듯더라</sent>
+<sent type="main" lang="kor" page="23" n="05"><ruby>양진<rt>兩陣</rt></ruby> <ruby>군<rt>軍士</rt></ruby> 넉을 일코 <ruby>졍신<rt>精神</rt></ruby>을 <ruby>슈습<rt>收拾</rt></ruby>지 못야 <ruby>각각<rt>各各</rt></ruby> <ruby>창검<rt>鎗劒</rt></ruby>과 <ruby>궁시<rt>弓矢</rt></ruby>를 들고 어린 다시 바라볼 름이더라</sent><!--'각각'의 두 번째 '각'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="23" n="06"><ruby>오시<rt>午時</rt></ruby>로부터 <ruby>유시<rt>酉時</rt></ruby>에 이르도록 <ruby>젼<rt>大戰</rt></ruby> <ruby>이<rt>二百</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>에 <ruby>마쵸<rt>馬超</rt></ruby>ㅣ <ruby>긔운<rt>氣運</rt></ruby>이 <ruby>졈졈<rt>漸漸</rt></ruby> <ruby>쇠진<rt>衰盡</rt></ruby>야 <ruby>창법<rt>鎗法</rt></ruby>이 어지러운지라</sent><!--'졈졈'의 두 번째 '졈'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="23" n="07"> 일 업셔 <ruby>창<rt>鎗</rt></ruby>을 두루며 살기만 <ruby>도모<rt>圖謀</rt></ruby>야 <ruby>효<rt>韓曉</rt></ruby>를 바리고 <ruby>동<rt>東</rt></ruby>녁흘 바라고 다라나니</sent>
+<sent type="main" lang="kor" page="23" n="08"><ruby>효<rt>韓曉</rt></ruby>ㅣ <ruby>로<rt>大呼</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="23" n="09"><ruby>마쵸<rt>馬超</rt></ruby>야 네 <ruby>숭텬입디<rt>升天入地</rt></ruby> 못리니 니 <ruby>항복<rt>降服</rt></ruby>야 쥭기를 <ruby>면<rt>免</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="23" n="10"> <ruby>위국<rt>魏國</rt></ruby> <ruby>션봉장<rt>先鋒將</rt></ruby>이 되여 너 갓흔 <ruby>구유츄<rt>口生乳臭</rt></ruby>를 엇지 <ruby>창<rt>鎗</rt></ruby>으로 지르며 손으로 잡으리오</sent>
+<sent type="main" lang="kor" page="23" n="11"><ruby>군<rt>軍士</rt></ruby>로 야금 너를 가도와 두고 스사로 쥬려 쥭게리라 고</sent>
+<sent type="main" lang="kor" page="23" n="12"><ruby>군즁<rt>軍中</rt></ruby>에 <ruby>뎐령<rt>傳令</rt></ruby>야</sent>
+<sent type="main" lang="kor" page="23" n="13"><ruby>동<rt>東</rt></ruby>에 <ruby>쳥룡긔<rt>靑龍旗</rt></ruby>와 <ruby>셔<rt>西</rt></ruby>에 <ruby>호긔<rt>白虎旗</rt></ruby>와</sent>
+<sent type="main" lang="kor" page="23" n="14"><ruby>남<rt>南</rt></ruby>에 <ruby>쥬작긔<rt>朱雀旗</rt></ruby>와 <ruby>븍<rt>北</rt></ruby>에 <ruby>현무긔<rt>玄武旗</rt></ruby>를 <ruby>일시<rt>一時</rt></ruby>에 모와 <ruby>원앙진<rt>鴛鴦陣</rt></ruby>을 치고</sent>
+<sent type="main" lang="kor" page="23-24" n="15"><ruby>장<rt>漢將</rt></ruby> <ruby>마쵸<rt>馬超</rt></ruby>를 <ruby>진<rt>陣</rt></ruby>속에 너허 스로 쥴여 쥭게 라 더라</sent><!--마^쵸를-->
+
+<sent type="main" lang="kor" page="24" n="01">앗갑다 <ruby>마쵸<rt>馬超</rt></ruby>ㅣ 아모리 살고져 야 <ruby>동츙셔돌<rt>東衝西突</rt></ruby>나 <ruby>긔치<rt>旗幟</rt></ruby> <ruby>창검<rt>鎗劒</rt></ruby>이 별걸니 듯엿스니 나아갈 길이 업고</sent>
+<sent type="main" lang="kor" page="24" n="02">두 날 업셔 <ruby>공즁<rt>空中</rt></ruby>으로 날아 나오지 못니 쇽졀 업시 죽을 름이라</sent>
+<sent type="main" lang="kor" page="24" n="03"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ 하을 우러러 <ruby>탄식<rt>嘆息</rt></ruby>며 가마니 비러 <ruby>왈<rt>曰</rt></ruby></sent><!--'우러러'의 두 번째 '러'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="24" n="04"><ruby>유유창쳔<rt>悠悠蒼天</rt></ruby>은 굽어 히사 <ruby>관모<rt>關某</rt></ruby>와 <ruby>조운<rt>趙雲</rt></ruby>을 일으게 소셔 며</sent><!--'유유'의 두 번째 '유'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="24" n="05"><ruby>삼<rt>再三</rt></ruby> <ruby>암츅<rt>暗祝</rt></ruby>더라</sent>
+<sent type="main" lang="kor" page="24" n="06">이 <ruby>관공<rt>關公</rt></ruby>이 <ruby>마초<rt>馬超</rt></ruby>의 <ruby>만분<rt>萬分</rt></ruby> <ruby>위<rt>危殆</rt></ruby>함을 알고 <ruby>급<rt>急</rt></ruby>히 <ruby>갑쥬<rt>甲冑</rt></ruby>를 갓초고</sent>
+<sent type="main" lang="kor" page="24" n="07"><ruby>청룡언월도<rt>靑龍偃月刀</rt></ruby>를 빗겨 들고 <ruby>삼각수<rt>三角鬚</rt></ruby>를 거스르고</sent>
+<sent type="main" lang="kor" page="24" n="08"><ruby>봉<rt>鳳</rt></ruby>의 눈을 부릅고 <ruby>젹토마<rt>赤兎馬</rt></ruby> 밧비 모라 우뢰 갓흔 소를 <ruby>벽력<rt>霹靂</rt></ruby> 갓치 지르며</sent><!--'적토마'는 '젹토마'가 되어야 함. 원문의 '적'이 '젹'의 오자임.-->
+<sent type="main" lang="kor" page="24" n="09">나 다시 <ruby>위진<rt>魏陣</rt></ruby>에 <ruby>돌입<rt>突入</rt></ruby>야 <ruby>위장<rt>魏將</rt></ruby> <ruby>십<rt>十</rt></ruby> <ruby>여인<rt>餘人</rt></ruby>을 한 칼에 버히고 <ruby>무인지경<rt>無人地境</rt></ruby> 갓치 즛쳐 들어가니</sent>
+<sent type="main" lang="kor" page="24" n="10"><ruby>감<rt>敢</rt></ruby>이 막을 <ruby><rt>者</rt></ruby> 업고 <ruby>위진<rt>魏陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>이 <ruby>혼비산<rt>魂飛魄散</rt></ruby>야 <ruby>일시<rt>一時</rt></ruby>에 물ㅅ결 헤여지 듯더라</sent>
+<sent type="main" lang="kor" page="24" n="11"><ruby>관공<rt>關公</rt></ruby>이 <ruby>슌식간<rt>瞬息間</rt></ruby>에 <ruby>위진<rt>魏陣</rt></ruby>을 헤치고 <ruby>마초<rt>馬超</rt></ruby>를 <ruby>구<rt>救</rt></ruby>야 <ruby>동문교<rt>彤雲橋</rt></ruby>에 도라와 <ruby>위로<rt>慰勞</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent><!--'구여'는 '구야'가 되어야 함. 원문의 '여'가 '야'의 오자임.-->
+<sent type="main" lang="kor" page="24-25" n="12"><ruby>마장군<rt>馬將軍</rt></ruby>은 <ruby>졍신<rt>精神</rt></ruby>을 <ruby>슈습<rt>收拾</rt></ruby>고 놀나믈 <ruby>진졍<rt>鎭定</rt></ruby>라</sent><!--진^졍라-->
+
+<sent type="main" lang="kor" page="25" n="01"><ruby>란시<rt>亂時</rt></ruby>에 <ruby>션봉장<rt>先鋒將</rt></ruby> 되는 법은 <ruby>조<rt>才操</rt></ruby>는 <ruby>쳔<rt>千</rt></ruby> 사에 지나고 <ruby>지혜<rt>智慧</rt></ruby>는 <ruby>만<rt>萬</rt></ruby> 사람에 지나며</sent>
+<sent type="main" lang="kor" page="25" n="02"><ruby>상통텬문<rt>上通天文</rt></ruby>고 <ruby>하달디리<rt>下達地理</rt></ruby>야 <ruby>션지도<rt>成敗之道</rt></ruby>를 안 <ruby>연후<rt>然後</rt></ruby>에야 <ruby>쟝슈<rt>將帥</rt></ruby>라 거늘</sent>
+<sent type="main" lang="kor" page="25" n="03">그는 젹은 <ruby>조<rt>才操</rt></ruby>를 밋고 엇지 <ruby>션봉<rt>先鋒</rt></ruby>이 되며</sent>
+<sent type="main" lang="kor" page="25" n="04">허믈며 <ruby>위장<rt>魏將</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>는 범 갓흔 <ruby>장슈<rt>將帥</rt></ruby>라 <ruby>형셰<rt>形勢</rt></ruby> <ruby>위<rt>危殆</rt></ruby>거던 일즉 <ruby>군사<rt>軍士</rt></ruby>를 믈니미 올커늘</sent>
+<sent type="main" lang="kor" page="25" n="05">그 남을 넘우 업슈이 여기다가 이졔 이갓치 <ruby>패<rt>敗</rt></ruby>를 보니</sent>
+<sent type="main" lang="kor" page="25" n="06"><ruby>일승일<rt>一勝一敗</rt></ruby> <ruby>병가상사<rt>兵家常事</rt></ruby>라 무삼 <ruby>관계<rt>關係</rt></ruby>리오마 <ruby>왕상<rt>王上</rt></ruby>과 <ruby>션<rt>先生</rt></ruby>의 근심을 엇지리오</sent>
+<sent type="main" lang="kor" page="25" n="07"><ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>수<rt>愁色</rt></ruby>이 <ruby>만안<rt>滿顔</rt></ruby>여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="25" n="08"><ruby>소장<rt>小將</rt></ruby>의 <ruby>조<rt>才操</rt></ruby> <ruby>용녈<rt>庸劣</rt></ruby>믈 <ruby>션<rt>先生</rt></ruby>이 <ruby>짐작<rt>斟酌</rt></ruby>시고 <ruby>션봉<rt>先鋒</rt></ruby> 되기를 <ruby>허락<rt>許諾</rt></ruby>지 안이 시 거슬</sent>
+<sent type="main" lang="kor" page="25" n="09"><ruby>장군<rt>將軍</rt></ruby>의 <ruby>활달<rt>豁達</rt></ruby>신 <ruby>은덕<rt>恩德</rt></ruby>으로 <ruby>션봉<rt>先鋒</rt></ruby>이 되엿더니</sent>
+<sent type="main" lang="kor" page="25" n="10"><ruby>진<rt>陣勢</rt></ruby>를 히지 못고 남을 업슈이 여기다가 거의 쥭게된 목슘을 <ruby>장군<rt>將軍</rt></ruby>이 이갓치 <ruby>구<rt>救</rt></ruby>시니</sent>
+<sent type="main" lang="kor" page="25" n="11"><ruby>젼후은덕<rt>前後恩德</rt></ruby>이 <ruby>하<rt>下海</rt></ruby> 갓삽거니와</sent>
+<sent type="main" lang="kor" page="25" n="12">무삼 <ruby>면목<rt>面目</rt></ruby>으로 <ruby>왕상<rt>王上</rt></ruby>과 <ruby>션<rt>先生</rt></ruby>을 뵈오리오</sent>
+<sent type="main" lang="kor" page="25" n="13">차라리 이 곳에셔 <ruby>자결<rt>自决</rt></ruby>여 쥭 이만 갓지 못여이다</sent>
+<sent type="main" lang="kor" page="25-26" n="14"><ruby>관공<rt>關公</rt></ruby>이 <ruby>마쵸<rt>馬超</rt></ruby>의 말을 <ruby>의심<rt>疑心</rt></ruby>여 <ruby>마쵸<rt>馬超</rt></ruby>에 칼을 앗고 다시 일으되</sent><!--칼^을-->
+
+<sent type="main" lang="kor" page="26" n="01">그 엇지 <ruby>용녈<rt>庸劣</rt></ruby> 을 두나뇨</sent>
+<sent type="main" lang="kor" page="26" n="02">그 <ruby>만군<rt>萬軍</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 <ruby>횡<rt>橫行</rt></ruby>여 날 <ruby>장슈<rt>將帥</rt></ruby> <ruby>팔인<rt>八人</rt></ruby>과 <ruby>명무<rt>名武</rt></ruby> <ruby>한현<rt>韓玄</rt></ruby> <ruby>한춍<rt>韓聦</rt></ruby>을 <ruby>슌식간<rt>瞬息間</rt></ruby>에 버히고</sent>
+<sent type="main" lang="kor" page="26" n="03"><ruby>적진<rt>賊陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>을 <ruby>무수<rt>無數</rt></ruby>이 쥭엿스니 그 <ruby>공<rt>功</rt></ruby>이 젹지 아니고</sent><!--'적지'는 '젹지'가 되어야 함. 원문의 '적'이 '젹'의 오자임.-->
+<sent type="main" lang="kor" page="26" n="04"> 번 <ruby>실수<rt>失數</rt></ruby> <ruby>병가상사<rt>兵家常事</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="26" n="05">다시 <ruby>진즁<rt>陣中</rt></ruby>에 드지 말고 이 곳에 잇셔 우라</sent>
+<sent type="main" lang="kor" page="26" n="06"><ruby>언파<rt>言罷</rt></ruby>에 다시 <ruby>젹토마<rt>赤兎馬</rt></ruby>를 쳐 나 다시 <ruby>젹진<rt>賊陣</rt></ruby>에 <ruby>돌입<rt>突入</rt></ruby>니 <ruby>승부<rt>勝負</rt></ruby>ㅣ 엇지된고 <ruby>하회<rt>下回</rt></ruby>를 보와 <ruby>분<rt>分觧</rt></ruby>라</sent><!--'적토마'는 '젹토마'가 되어야 함. 원문의 '적'이 '젹'의 오자임.-->
+<sent type="title2" lang="kor" page="26" n="07"><ruby>뎨오쟝<rt>第五章</rt></ruby></sent>
+<sent type="main" lang="kor" page="26" n="08"><ruby>한효<rt>韓曉</rt></ruby>를 버혀 <ruby>위병<rt>魏兵</rt></ruby>을 <ruby>파<rt>大破</rt></ruby>고 <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>삼국<rt>三國</rt></ruby>에 <ruby>쳥병<rt>請兵</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="26" n="09"><ruby>각셜<rt>却說</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>마초<rt>馬超</rt></ruby>를 <ruby>진즁<rt>陣中</rt></ruby>에 가도고 <ruby>졍<rt>正</rt></ruby>이 잡고져 더니</sent>
+<sent type="main" lang="kor" page="26" n="10">문득 <ruby>일원<rt>一員</rt></ruby> <ruby>쟝<rt>大將</rt></ruby>이 <ruby>진즁<rt>陣中</rt></ruby>에 <ruby>돌입<rt>突入</rt></ruby>야 <ruby>장졸<rt>將卒</rt></ruby>을 <ruby>무슈<rt>無數</rt></ruby>이 쥭이고 <ruby>마초<rt>馬超</rt></ruby>를 <ruby>구<rt>救</rt></ruby>여 감을 보고 <ruby>경<rt>大驚</rt></ruby>여</sent>
+<sent type="main" lang="kor" page="26" n="11"><ruby>좌우<rt>左右</rt></ruby> 다려 <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="26" n="12">져 <ruby>진즁<rt>陣中</rt></ruby>에 <ruby>돌입<rt>突入</rt></ruby>야 <ruby>마쵸<rt>馬超</rt></ruby>를 <ruby>구<rt>救</rt></ruby>야 가 <ruby>장슈<rt>將帥</rt></ruby> 엇더 <ruby>쟝수<rt>將帥</rt></ruby>뇨</sent>
+<sent type="main" lang="kor" page="26" n="13"><ruby>졔장<rt>諸將</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="26" n="14">이는 <ruby>한국<rt>漢國</rt></ruby> <ruby>즁군쟝<rt>中軍將</rt></ruby> <ruby>수뎡후<rt>漢壽亭侯</rt></ruby> <ruby>관운쟝<rt>關雲長</rt></ruby>이니이다</sent>
+<sent type="main" lang="kor" page="26" n="15"><ruby>한효<rt>韓曉</rt></ruby> <ruby>로<rt>大怒</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="26-27" n="16">우리 <ruby>진즁<rt>陣中</rt></ruby>에 <ruby>쟝<rt>猛將</rt></ruby>이 <ruby>쳔<rt>千</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>이오 <ruby>국사<rt>軍士</rt></ruby>가 <ruby>슈십만<rt>數十萬</rt></ruby>이라 엇지 낫 <ruby>관모<rt>關某</rt></ruby>를 <ruby>젹<rt>對敵</rt></ruby>지 못고</sent><!--엇지 ^ 낫-->
+
+<sent type="main" lang="kor" page="27" n="01">도로혀 <ruby>장졸<rt>將卒</rt></ruby>을 쥭이고 <ruby>마쵸<rt>馬超</rt></ruby>를 일흔고 고</sent>
+<sent type="main" lang="kor" page="27" n="02"><ruby>급<rt>急</rt></ruby>히 로고져나 밋지 못고</sent>
+<sent type="main" lang="kor" page="27" n="03">다만 헤여진 <ruby>쟝졸<rt>將卒</rt></ruby>을 모와 <ruby>싀살<rt>殺</rt></ruby>을 <ruby>쥰비<rt>準備</rt></ruby>더니</sent>
+<sent type="main" lang="kor" page="27" n="04">아이오 <ruby>관공<rt>關公</rt></ruby>이 다시 <ruby>호통<rt>呼痛</rt></ruby>며 <ruby>위진<rt>魏陣</rt></ruby>에 <ruby>돌입<rt>突入</rt></ruby>지라</sent>
+<sent type="main" lang="kor" page="27" n="05"><ruby>한효<rt>韓曉</rt></ruby>ㅣ 바라보 <ruby>관공<rt>關公</rt></ruby>의 <ruby>신장<rt>身長</rt></ruby>이 <ruby>구<rt>九</rt></ruby> <ruby>쳑<rt>尺</rt></ruby> <ruby>오<rt>五</rt></ruby> <ruby>촌<rt>寸</rt></ruby>이오</sent>
+<sent type="main" lang="kor" page="27" n="06">낫츤 무르녹은 초빗 갓고 누에 눈섭에 <ruby>봉<rt>鳳</rt></ruby>의 눈을 부릅고 <ruby>상각수<rt>三角鬚</rt></ruby>를 거스르고</sent>
+<sent type="main" lang="kor" page="27" n="07">머리에 <ruby>순금<rt>純金</rt></ruby> 투구를 쓰고 몸에 <ruby>룡린갑<rt>龍</rt></ruby> <ruby>□<rt>甲</rt></ruby>을 입고</sent>
+<sent type="main" lang="kor" page="27" n="08"><ruby>젹토마<rt>赤兎馬</rt></ruby>를 타고 <ruby>쳥룡도<rt>靑龍刀</rt></ruby>를 들고 나 다시 달녀들어 <ruby>한효<rt>韓曉</rt></ruby>를 불너 싸홈을 도도니</sent>
+<sent type="main" lang="kor" page="27" n="09"><ruby>한효<rt>韓曉</rt></ruby>ㅣ 번 보 <ruby>졍신<rt>精神</rt></ruby>이 아득고 <ruby>수각<rt>手脚</rt></ruby>이 <ruby>황란<rt>恍亂</rt></ruby>나 <ruby>강잉<rt>强仍</rt></ruby>야</sent>
+<sent type="main" lang="kor" page="27" n="10"><ruby>쳘퇴<rt>鐵椎</rt></ruby>를 들고 말을 모라 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="27" n="11"><ruby>작일<rt>昨日</rt></ruby> 싸홈에 어린 <ruby>잡수<rt>將帥</rt></ruby>와 힘을 결우미 <ruby>욕<rt>辱</rt></ruby>되더니</sent>
+<sent type="main" lang="kor" page="27" n="12">이제 <ruby>관모<rt>關某</rt></ruby>를 맛나니 <ruby>가<rt>可</rt></ruby>히  <ruby>젹수<rt>敵手</rt></ruby>로다 며</sent>
+<sent type="main" lang="kor" page="27" n="13">마자 싸와 <ruby>미급수합<rt>未及數合</rt></ruby>에 <ruby>관공<rt>關公</rt></ruby>의 <ruby>쳥룡도<rt>靑龍刀</rt></ruby> 빗나며 <ruby>한효<rt>韓曉</rt></ruby>의 머리 <ruby>검광<rt>劒光</rt></ruby>을 좃차 <ruby>마하<rt>馬下</rt></ruby>에 나려지거</sent>
+<sent type="main" lang="kor" page="27" n="14">칼 헤 여들고 <ruby>좌우츙돌<rt>左右衝突</rt></ruby>니 지나 곳에 <ruby>감<rt>敢</rt></ruby>이 막을 <ruby><rt>者</rt></ruby> 업고</sent>
+
+<sent type="main" lang="kor" page="28" n="01"><ruby>쳥룡도<rt>靑龍刀</rt></ruby> 이 곳에 <ruby>위진<rt>魏陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>의 머리 <ruby>추풍락엽<rt>秋風落葉</rt></ruby> 갓더라</sent>
+<sent type="main" lang="kor" page="28" n="02"><ruby>차셜<rt>且說</rt></ruby> <ruby>위왕<rt>魏王</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>허다<rt>許多</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>을 <ruby>젼장<rt>戰場</rt></ruby>에 보고 <ruby>양진<rt>兩陣</rt></ruby> <ruby>승부<rt>勝負</rt></ruby>를 날노 기다리더니</sent>
+<sent type="main" lang="kor" page="28" n="03">문득 <ruby>탐마보<rt>探馬報</rt></ruby>되</sent>
+<sent type="main" lang="kor" page="28" n="04"><ruby>한장<rt>漢將</rt></ruby> <ruby>마초<rt>馬超</rt></ruby> <ruby>위장<rt>魏將</rt></ruby> <ruby>팔인<rt>八人</rt></ruby>과 <ruby>명무<rt>名武</rt></ruby> <ruby>한현<rt>韓玄</rt></ruby> <ruby>한종<rt>韓聦</rt></ruby>을 <ruby>슌식간<rt>瞬息間</rt></ruby>에 번히고 <ruby>허다<rt>許多</rt></ruby> <ruby>쟝졸<rt>將卒</rt></ruby>을 <ruby>무수<rt>無數</rt></ruby>히 쥭이며</sent><!--'한헌'은 '한현'가 되어야 함. 원문의 '헌'이 '현'의 오자임.-->
+<sent type="main" lang="kor" page="28" n="05"><ruby>한효<rt>韓曉</rt></ruby> <ruby>관모<rt>關某</rt></ruby>의 숀에 쥭엇다 거</sent>
+<sent type="main" lang="kor" page="28" n="06"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>쳥파<rt>聽罷</rt></ruby>에 <ruby>경<rt>大驚</rt></ruby>야 <ruby>셔안<rt>書案</rt></ruby>을 치며 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="28" n="07">나의 <ruby>운수<rt>運數</rt></ruby> <ruby>불<rt>不幸</rt></ruby>야 <ruby>젼일<rt>前日</rt></ruby> <ruby>산양수<rt>山陽水</rt></ruby> 싸홈에 <ruby><rt>敗</rt></ruby>을 <ruby>당<rt>當</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="28" n="08">이졔  이 치 <ruby><rt>敗</rt></ruby>야 <ruby>명장<rt>名將</rt></ruby> <ruby>한효<rt>韓曉</rt></ruby>를 일허스니</sent>
+<sent type="main" lang="kor" page="28" n="09">누로 더부러 <ruby>군졍<rt>軍政</rt></ruby>을 <ruby>의론<rt>議論</rt></ruby>리오 며</sent>
+<sent type="main" lang="kor" page="28" n="10"><ruby>탄식<rt>嘆息</rt></ruby>기를 마지 아니거늘</sent>
+<sent type="main" lang="kor" page="28" n="11"><ruby>뎡욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="28" n="12"><ruby>한효<rt>韓曉</rt></ruby>ㅣ <ruby>신<rt>臣</rt></ruby>의 말을 듯지 아니고 조고마 <ruby>조<rt>才操</rt></ruby>를 밋고</sent>
+<sent type="main" lang="kor" page="28" n="13"><ruby>한<rt>漢</rt></ruby>을 업수히 여기다가 범 갓흔 <ruby>관모<rt>關某</rt></ruby>의 숀에 쥭엇스니</sent>
+<sent type="main" lang="kor" page="28" n="14"><ruby>장차<rt>將次</rt></ruby> <ruby>후환<rt>後患</rt></ruby>을 엇지고져 시닛가</sent>
+<sent type="main" lang="kor" page="28" n="15"><ruby>조<rt>操</rt></ruby>ㅣ 길이 <ruby>탄식<rt>嘆息</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="28" n="16"><ruby>경<rt>卿</rt></ruby>의 <ruby>소견<rt>所見</rt></ruby>에 엇지여야 근심 업시 <ruby>후환<rt>後患</rt></ruby>을 <ruby>졔<rt>除</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="28" n="17"><ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="28" n="18">이제 <ruby>천만<rt>千萬</rt></ruby> <ruby>번<rt>番</rt></ruby> 헤아려드 다른 <ruby>모<rt>謀策</rt></ruby>이 업오니</sent>
+<sent type="main" lang="kor" page="28-29" n="19">밧비 <ruby>오왕<rt>吳王</rt></ruby> <ruby>손권<rt>孫權</rt></ruby>과 <ruby>셔촉<rt>西蜀</rt></ruby> <ruby>강동<rt>江東</rt></ruby>에 <ruby>쳥병<rt>請兵</rt></ruby>야 <ruby>한<rt>漢</rt></ruby>을 쳐</sent><!--손권과 ^ 셔촉-->
+
+<sent type="main" lang="kor" page="29" n="01"><ruby>관모<rt>關某</rt></ruby> <ruby>장비<rt>張飛</rt></ruby> <ruby>조운<rt>趙雲</rt></ruby> <ruby>마초<rt>馬超</rt></ruby> <ruby>황츙<rt>黃忠</rt></ruby> <ruby>등<rt>等</rt></ruby> <ruby>오장<rt>五將</rt></ruby>을 잡으면 <ruby>류현덕<rt>劉玄德</rt></ruby>과 <ruby>졔갈량<rt>諸葛亮</rt></ruby>은 스로 잡히리이다</sent>
+<sent type="main" lang="kor" page="29" n="02"><ruby>조죠<rt>曹操</rt></ruby>ㅣ 그 말을 죳차 <ruby>즉시<rt>卽時</rt></ruby> <ruby>쳥병<rt>請兵</rt></ruby> 글을 닥가 <ruby>삼국<rt>三國</rt></ruby>에 보니라</sent>
+<sent type="main" lang="kor" page="29" n="03">이 <ruby>오왕<rt>吳王</rt></ruby> <ruby>숀권<rt>孫權</rt></ruby>과 <ruby>셔촉<rt>西蜀</rt></ruby> <ruby>강동<rt>江東</rt></ruby>이  <ruby>일야<rt>日夜</rt></ruby>로 <ruby>한<rt>漢</rt></ruby>을 무히여겨 <ruby>긔병<rt>起兵</rt></ruby>야 치고져 더니</sent>
+<sent type="main" lang="kor" page="29" n="04">맛 <ruby>위국<rt>魏國</rt></ruby>에셔 <ruby>청병<rt>請兵</rt></ruby> 글월이 왓거 바다보고 마음에 깃거야 <ruby>즉시<rt>卽時</rt></ruby> <ruby>졔장<rt>諸將</rt></ruby>을 모와 <ruby>의론<rt>議論</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="29" n="05"><ruby>졔장<rt>諸將</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="29" n="06"><ruby>셰<rt>事勢</rt></ruby> <ruby>여차<rt>如此</rt></ruby>오면 <ruby>급<rt>急</rt></ruby>히 <ruby>긔병<rt>起兵</rt></ruby>야 <ruby>구<rt>救</rt></ruby>만 갓지 못야이다</sent>
+<sent type="main" lang="kor" page="29" n="07"><ruby>손권<rt>孫權</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="29" n="08"><ruby>동오<rt>東吳</rt></ruby>에 <ruby>쟝수<rt>將帥</rt></ruby>ㅣ 얼마나 되뇨</sent>
+<sent type="main" lang="kor" page="29" n="09"><ruby>도독<rt>大都督</rt></ruby> <ruby>륙손<rt>陸孫</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="29" n="10"><ruby>명쟝<rt>名將</rt></ruby>이 <ruby><rt>百</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>이오 그나마 <ruby>쟝수<rt>將帥</rt></ruby> <ruby>불가승수<rt>不可勝數</rt></ruby>로소이다</sent>
+<sent type="main" lang="kor" page="29" n="11"><ruby>손권<rt>孫權</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="29" n="12">그러진 엇지 <ruby>한<rt>漢</rt></ruby>을 져허리오</sent>
+<sent type="main" lang="kor" page="29" n="13"><ruby>쟝수<rt>將帥</rt></ruby> <ruby>쳔<rt>千</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>과 <ruby>군<rt>軍士</rt></ruby> <ruby>십만<rt>十萬</rt></ruby>을 <ruby>조발<rt>發</rt></ruby>야 보라 니</sent>
+<sent type="main" lang="kor" page="29" n="14"><ruby>륙손<rt>陸孫</rt></ruby>이 <ruby>즉시<rt>卽時</rt></ruby> <ruby>쟝수<rt>將帥</rt></ruby>와 <ruby>군<rt>軍士</rt></ruby>를 <ruby>분발<rt>奮發</rt></ruby>야 <ruby>위국<rt>魏國</rt></ruby>으로 보니라</sent>
+<sent type="main" lang="kor" page="29" n="15"><ruby>삼국<rt>三國</rt></ruby>이 <ruby>합셰<rt>合勢</rt></ruby>야 <ruby>일<rt>擇日</rt></ruby> <ruby>군<rt>行軍</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>친<rt>親</rt></ruby>히 <ruby>즁군<rt>中軍</rt></ruby>이 되여 <ruby>쥬야도<rt>晝夜倍道</rt></ruby>야</sent>
+<sent type="main" lang="kor" page="29" n="16"><ruby>산양수<rt>山陽水</rt></ruby>를 건너 <ruby>남병산하<rt>南屛山下</rt></ruby>에 이르러 <ruby>결진<rt>結陣</rt></ruby>니라</sent>
+
+<sent type="main" lang="kor" page="30" n="01"><ruby>챠셜<rt>且說</rt></ruby> <ruby>관공<rt>關公</rt></ruby>이 <ruby>연일<rt>連日</rt></ruby> <ruby>위병<rt>魏兵</rt></ruby>을 쓰러 바리더니</sent>
+<sent type="main" lang="kor" page="30" n="02"><ruby>일일<rt>一日</rt></ruby>은 멀니 바라보 <ruby>남병산<rt>南屛山</rt></ruby>하에 <ruby>살긔<rt>殺氣</rt></ruby> 가득고 <ruby>쟝웅병<rt>猛將雄兵</rt></ruby>이 <ruby>만산편야<rt>滿山遍野</rt></ruby>야 오지라</sent>
+<sent type="main" lang="kor" page="30" n="03"><ruby>관공<rt>關公</rt></ruby>이 <ruby>분긔<rt>忿氣</rt></ruby>를 참지 못야 <ruby>잠간<rt>暫間</rt></ruby> <ruby>텬긔<rt>天氣</rt></ruby>를 히고 <ruby>마쵸<rt>馬超</rt></ruby>를 돌아보아 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="30" n="04"><ruby>조죠<rt>曹操</rt></ruby>의 <ruby>군<rt>軍士</rt></ruby> 비록 <ruby>만<rt>百萬</rt></ruby> <ruby>명<rt>名</rt></ruby>이라도  다 쓰러 바리고 도라올 거시니</sent>
+<sent type="main" lang="kor" page="30" n="05">그 <ruby>진즁<rt>陣中</rt></ruby>에 드지 말고 <ruby>신야<rt>新野</rt></ruby>로 도라가라</sent>
+<sent type="main" lang="kor" page="30" n="06"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="30" n="07"><ruby>소장<rt>小將</rt></ruby>이 비록 쥭사온들 엇지 먼져 도라가리잇가</sent>
+<sent type="main" lang="kor" page="30" n="08"><ruby>관공<rt>關公</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="30" n="09"><ruby>마장군<rt>馬將軍</rt></ruby>의 이 이러진 이 곳에셔 기다리라고</sent><!--'이 이러진'의 두 번째 '이'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="30" n="10"><ruby>젹토마<rt>赤兎馬</rt></ruby>를 쳐 <ruby>남병산<rt>南屛山</rt></ruby>으로 <ruby><rt>行</rt></ruby>려 거</sent>
+<sent type="main" lang="kor" page="30" n="11"><ruby>마쵸<rt>馬超</rt></ruby>ㅣ 다시 가로되</sent>
+<sent type="main" lang="kor" page="30" n="12"><ruby>삼국<rt>三國</rt></ruby> <ruby>쳥병<rt>請兵</rt></ruby>이 져럿틋 <ruby>강셩<rt>强盛</rt></ruby>오니 <ruby>장군<rt>將軍</rt></ruby>은 <ruby>호혈<rt>虎穴</rt></ruby>에 드지 말으시고</sent><!--'호열'은 '호혈'이 되어야 함. 원문의 '열'이 '혈'의 오자임.-->
+<sent type="main" lang="kor" page="30" n="13"><ruby>신야<rt>新野</rt></ruby>로 도라가 <ruby>션<rt>先生</rt></ruby>과 <ruby>의논<rt>議論</rt></ruby>미 조흘가 나이다</sent><!--'신이'는 '신야'가 되어야 함. 원문의 '이'가 '야'의 오자임.-->
+<sent type="main" lang="kor" page="30" n="14"><ruby>관공<rt>關公</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="30" n="15"><ruby>장군<rt>將軍</rt></ruby>의 말이 비록 올흐나 임의 을 <ruby>결<rt>結</rt></ruby>엿스니</sent>
+<sent type="main" lang="kor" page="30" n="16"><ruby>젹진<rt>賊陣</rt></ruby>을 <ruby>파<rt>破</rt></ruby>고 도라오물 기다리라 고</sent>
+<sent type="main" lang="kor" page="30" n="17"><ruby>즉시<rt>卽時</rt></ruby> <ruby>필마단도<rt>匹馬單刀</rt></ruby>로 <ruby>벽력<rt>霹靂</rt></ruby> 갓치 <ruby>호통<rt>呼痛</rt></ruby>며 <ruby>위진<rt>魏陣</rt></ruby> <ruby>션봉<rt>先鋒</rt></ruby>을 즛쳐 들어가니 <ruby>감<rt>敢</rt></ruby>이 막 <ruby><rt>者</rt></ruby> 업더라</sent>
+
+<sent type="main" lang="kor" page="31" n="01"><ruby>차시<rt>此時</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>삼국<rt>三國</rt></ruby> <ruby>쳥병<rt>請兵</rt></ruby>의 <ruby>조<rt>才操</rt></ruby>를 보고져 야 <ruby>무겁산<rt>武劫山</rt></ruby>에 올나 <ruby>진셰<rt>陣勢</rt></ruby>를 바라보더니</sent><!--'을나'는 '올나'가 되어야 함. 원문의 '을'이 '올'의 오자임.-->
+<sent type="main" lang="kor" page="31" n="02">문득 <ruby>벽력<rt>霹靂</rt></ruby> 갓흔 소 나며 <ruby>관운장<rt>關雲長</rt></ruby>이 <ruby>만군<rt>萬軍</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 드러와 <ruby>무인지경<rt>無人地境</rt></ruby> 갓치 <ruby>좌츙우돌<rt>左衝右突</rt></ruby>믈 보고</sent>
+<sent type="main" lang="kor" page="31" n="03"><ruby>분긔<rt>忿氣</rt></ruby>를 이긔지 못야 <ruby>친<rt>親</rt></ruby>히 북를 들어 북을 울니며 군즁에 <ruby>젼령<rt>傳令</rt></ruby>되</sent>
+<sent type="main" lang="kor" page="31" n="04"><ruby>관모<rt>關某</rt></ruby>의 <ruby>조<rt>才操</rt></ruby> <ruby>만부<rt>萬夫</rt></ruby> <ruby>부당지용<rt>不當之勇</rt></ruby>이 잇스니 노와 두고 <ruby>능<rt>能</rt></ruby>이 잡지 못리니</sent><!--'<ruby>만부<rt>萬夫</rt></ruby> <ruby>부당지용<rt>不當之勇</rt></ruby>'의 두 번째 '부'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="31" n="05"><ruby>삼국병<rt>三國兵</rt></ruby>은 <ruby>일시<rt>一時</rt></ruby>에 <ruby>관모<rt>關某</rt></ruby>를 에워싸라 고</sent>
+<sent type="main" lang="kor" page="31" n="06"><ruby>마의<rt>司馬懿</rt></ruby>를 불너 <ruby>진셰<rt>陣勢</rt></ruby>를 버리라 니 <ruby>사마의<rt>司馬懿</rt></ruby> <ruby>쳥령<rt>聽令</rt></ruby>고 <ruby>즉시<rt>卽時</rt></ruby> <ruby>젼령<rt>傳令</rt></ruby>되</sent>
+<sent type="main" lang="kor" page="31" n="07"><ruby>삼국졍병<rt>三國精兵</rt></ruby>은 밧그로 <ruby>사면<rt>四面</rt></ruby>에 <ruby>복<rt>埋伏</rt></ruby>고 <ruby>음양진<rt>陰陽陣</rt></ruby>과 <ruby>문<rt>生死門</rt></ruby>을 여 <ruby>관모<rt>關某</rt></ruby>를 두르되</sent>
+<sent type="main" lang="kor" page="31" n="08"><ruby>삼국쳥병<rt>三國精兵</rt></ruby>이 귀를 기우려 북소를 듯고 긔ㅅ 발을 보와 <ruby>일시<rt>一時</rt></ruby>에 에워싸라 니</sent><!--'기ㅅ'는 '긔ㅅ'가 되어야 함. 원문의 '기'가 '긔'의 오자임.-->
+<sent type="main" lang="kor" page="31" n="09"><ruby>삼국병<rt>三國兵</rt></ruby>이 <ruby>령<rt>令</rt></ruby>을 듯고 <ruby>일시<rt>一時</rt></ruby>에 <ruby>뇌고납함<rt>雷鼓吶喊</rt></ruby>며 <ruby>오방긔치<rt>五方旗幟</rt></ruby>를 좃 <ruby>관공<rt>關某</rt></ruby>을 에워싸 드러오거</sent>
+<sent type="main" lang="kor" page="31" n="10"><ruby>관공<rt>關公</rt></ruby>이 <ruby>진즁<rt>陣中</rt></ruby>에 싸이여 <ruby>쟝슈<rt>將帥</rt></ruby> <ruby>오십<rt>五十</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>과 <ruby>군<rt>軍士</rt></ruby>를 <ruby>무슈<rt>無數</rt></ruby>이 쥭이 되임의 <ruby>팔십<rt>八十</rt></ruby> <ruby>여겹<rt>餘裌</rt></ruby>에 싸힌  된지라</sent>
+<sent type="main" lang="kor" page="31" n="11">엇지 버셔나리오</sent>
+<sent type="main" lang="kor" page="31-32" n="12">이 <ruby>마쵸<rt>馬超</rt></ruby>ㅣ <ruby>동운교<rt>彤雲橋</rt></ruby>에셔 바라보니 <ruby>관공<rt>關公</rt></ruby>이 임의 <ruby>중지<rt>重地</rt></ruby>에 드러간지라</sent><!--중지에 ^ 드러간지라-->
+
+<sent type="main" lang="kor" page="32" n="01"><ruby>급<rt>急</rt></ruby>히 말을 모라 <ruby>젹진<rt>賊陣</rt></ruby>을 <ruby>츙돌<rt>衝突</rt></ruby>야 <ruby>관공<rt>關公</rt></ruby>을 <ruby>구<rt>救</rt></ruby>려 다가 <ruby>후군<rt>後軍</rt></ruby> <ruby>칠십<rt>七十</rt></ruby> <ruby>여겹<rt>餘裌</rt></ruby> 여싸인바 되니라</sent>
+<sent type="main" lang="kor" page="32" n="02"><ruby>관공<rt>關公</rt></ruby>이 <ruby>젹진<rt>賊陣</rt></ruby>에 싸이여 <ruby>동츙셔돌<rt>東衝西突</rt></ruby>나 <ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>군즁<rt>軍中</rt></ruby>에 <ruby>젼령<rt>傳令</rt></ruby>야 에워싸기를 더욱 <ruby>쳘통<rt>鐵桶</rt></ruby> 갓치 니</sent>
+<sent type="main" lang="kor" page="32" n="03"><ruby>함셩<rt>喊聲</rt></ruby>이 <ruby>진<rt>大震</rt></ruby>고 <ruby>금극<rt>釼戟</rt></ruby>이 셔리 갓흔지라</sent>
+<sent type="main" lang="kor" page="32" n="04">비록 <ruby>위진<rt>魏陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>을 <ruby>슈<rt>數</rt></ruby> 업시 쥭이나 엇지 <ruby>용<rt>容</rt></ruby>이히 버셔나리오</sent>
+<sent type="main" lang="kor" page="32" n="05"><ruby>종시<rt>終始</rt></ruby> <ruby>심<rt>害心</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 들어 <ruby>졍<rt>正</rt></ruby>이 근심이 적지 아니더라</sent>
+<sent type="title2" lang="kor" page="32" n="06"><ruby>뎨륙장<rt>第六章</rt></ruby></sent>
+<sent type="main" lang="kor" page="32" n="07"><ruby>관운장<rt>關雲長</rt></ruby>이 <ruby>위진<rt>魏陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 에워싸히고 <ruby>조자룡<rt>趙子龍</rt></ruby>이 <ruby>양슈<rt>山陽水</rt></ruby>를 여 건너다</sent>
+<sent type="main" lang="kor" page="32" n="08"><ruby>셜<rt>且說</rt></ruby> <ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>졔쟝<rt>諸將</rt></ruby>을 모와 <ruby>의논<rt>議論</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="32" n="09"><ruby>관모<rt>關某</rt></ruby>ㅣ <ruby>진즁<rt>陣中</rt></ruby>에 드럿스니 졔 아모리 <ruby>조<rt>才操</rt></ruby> 잇스나 능이 버셔나지 못지라</sent>
+<sent type="main" lang="kor" page="32" n="10"><ruby>졔쟝<rt>諸將</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 뉘 능이 <ruby>관모<rt>關某</rt></ruby>를 잡아 <ruby>휘하<rt>麾下</rt></ruby>에 드리리오</sent><!--'드리리오'의 두 번째 '리'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="32" n="11">문득 <ruby>쟝하<rt>帳下</rt></ruby>에  <ruby>쟝<rt>將士</rt></ruby> <ruby>츌반<rt>出班</rt></ruby> <ruby>쥬왈<rt>奏曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="32" n="12"><ruby>소장<rt>小將</rt></ruby>이 비록 <ruby>조<rt>才操</rt></ruby>ㅣ <ruby>용령<rt>庸劣</rt></ruby>오나 <ruby>관모<rt>關某</rt></ruby>를 <ruby>일합<rt>一合</rt></ruby>에 잡아 <ruby>쟝하<rt>帳下</rt></ruby>에 드리리이다</sent><!--'드리리이다'의 두 번째 '리'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="32" n="13">모다 보니 이 <ruby>위국<rt>魏國</rt></ruby> <ruby>쟝<rt>大將</rt></ruby> <ruby>셔황<rt>徐晃</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="32-33" n="14"><ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>희<rt>大喜</rt></ruby>야 <ruby>왈<rt>曰</rt></ruby></sent><!--^희야-->
+
+<sent type="main" lang="kor" page="33" n="01"><ruby>쟝군<rt>將軍</rt></ruby>이 <ruby>만일<rt>萬一</rt></ruby> <ruby>관모<rt>關某</rt></ruby>를 사로잡으면 <ruby>위국<rt>魏國</rt></ruby>에 <ruby>츙신<rt>忠臣</rt></ruby>이 되리니 부듸 <ruby>경적<rt>輕敵</rt></ruby>지 말나</sent>
+<sent type="main" lang="kor" page="33" n="02"><ruby>셔황<rt>徐晃</rt></ruby>이 <ruby>쳥령<rt>聽令</rt></ruby>고 <ruby>즉시<rt>卽時</rt></ruby> <ruby>갑쥬<rt>甲冑</rt></ruby>를 갓쵸고 말게 올나 나 다시  다라 웨여 <ruby>왈<rt>曰</rt></ruby></sent><!--'올나 나'의 두 번째 '나'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="33" n="03"><ruby>장<rt>漢將</rt></ruby> <ruby>관모<rt>關某</rt></ruby> <ruby>위국<rt>魏國</rt></ruby> <ruby>쟝<rt>大將</rt></ruby> <ruby>셔황<rt>徐晃</rt></ruby>을 아다</sent>
+<sent type="main" lang="kor" page="33" n="04"> <ruby>평<rt>平生</rt></ruby>에 <ruby>공<rt>公</rt></ruby>을 잡고져 되 를 만나지 못엿더니</sent>
+<sent type="main" lang="kor" page="33" n="05">오날은 하날에 <ruby>지시<rt>指示</rt></ruby> 우리 <ruby>진즁<rt>陣中</rt></ruby>에 너헛스니 이 <ruby>함졍<rt>陷井</rt></ruby>에 든 범이라</sent>
+<sent type="main" lang="kor" page="33" n="06">니  칼을 바드라 거늘</sent>
+<sent type="main" lang="kor" page="33" n="07"><ruby>관공<rt>關公</rt></ruby>이 이 말을 듯고 더욱 <ruby>통분<rt>痛忿</rt></ruby>야 소를 <ruby>벽력<rt>霹靂</rt></ruby> 갓치 지르며</sent>
+<sent type="main" lang="kor" page="33" n="08"><ruby>쳥뇽도<rt>靑龍刀</rt></ruby>를 두루며 바로 <ruby>셔황<rt>徐晃</rt></ruby>을 마자 싸와</sent>
+<sent type="main" lang="kor" page="33" n="09"><ruby>슈십<rt>數十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>에 이르러 <ruby>셔황<rt>徐晃</rt></ruby>이 <ruby>져당<rt>抵當</rt></ruby>치 못야</sent>
+<sent type="main" lang="kor" page="33" n="10"><ruby>급<rt>急</rt></ruby>히 말머리를 도로혀 <ruby>도망<rt>逃亡</rt></ruby>코져  즈음에 <ruby>관공<rt>關公</rt></ruby>의 <ruby>청룡도<rt>靑龍刀</rt></ruby> 빗나 곳에 <ruby>셔황<rt>徐晃</rt></ruby>의 머리 <ruby>마하<rt>馬下</rt></ruby>에 러지지라</sent>
+<sent type="main" lang="kor" page="33" n="11">칼 헤 여들고 <ruby>좌츙우돌<rt>左衝右突</rt></ruby>며 <ruby>적쟝<rt>賊將</rt></ruby>을 <ruby>무슈<rt>無數</rt></ruby>이 죽이며 두른 데를 헷치고져 더니</sent>
+<sent type="main" lang="kor" page="33" n="12"><ruby>시<rt>此時</rt></ruby> <ruby>위진<rt>魏陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>에셔 <ruby>셔황<rt>徐晃</rt></ruby>의 죽으물 보고</sent>
+<sent type="main" lang="kor" page="33" n="13"> <ruby>쟝슈<rt>將帥</rt></ruby>ㅣ <ruby>오쵸마<rt>烏騅馬</rt></ruby>를 타고 <ruby>쟝창<rt>長槍</rt></ruby>을 들고 다라 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="33" n="14">나 <ruby>위국<rt>魏國</rt></ruby> <ruby>장<rt>大將</rt></ruby> <ruby>장뇨<rt>張遼</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="33" n="15">우리 셔로 <ruby>리별<rt>離別</rt></ruby> <ruby>후<rt>後</rt></ruby> <ruby>무량<rt>無恙</rt></ruby>시뇨</sent>
+<sent type="main" lang="kor" page="33-34" n="16"><ruby>장군<rt>將軍</rt></ruby>이 <ruby>텬하영웅<rt>天下英雄</rt></ruby>이러니</sent><!--텬하^영웅이러니-->
+
+<sent type="main" lang="kor" page="34" n="01"><ruby>금일<rt>今日</rt></ruby>은 <ruby>쟝군<rt>將軍</rt></ruby>의 <ruby>명<rt>命</rt></ruby>이 <ruby>진<rt>盡</rt></ruby> 라</sent>
+<sent type="main" lang="kor" page="34" n="02"><ruby>가<rt>可</rt></ruby>이 불상거니와 <ruby>장군<rt>將軍</rt></ruby>에 머리를 <ruby>쇼장<rt>小將</rt></ruby>을 쥬시면</sent>
+<sent type="main" lang="kor" page="34" n="03"><ruby>위국<rt>魏國</rt></ruby>에 <ruby>공<rt>大功</rt></ruby>이 되여 일홈을 <ruby>후<rt>後世</rt></ruby>에 <ruby>젼<rt>傳</rt></ruby>코져 나이다</sent>
+<sent type="main" lang="kor" page="34" n="04"><ruby>관공<rt>關公</rt></ruby>이 <ruby>익로<rt>益怒</rt></ruby> <ruby>질왈<rt>叱曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="34" n="05"> <ruby>명<rt>命</rt></ruby>이 하에 잇거 엇지 오 쥐 흔 <ruby>조죠<rt>曹操</rt></ruby>의게 죽으리오</sent>
+<sent type="main" lang="kor" page="34" n="06"> 너를 죽일 거시로되 <ruby>젼일<rt>前日</rt></ruby> <ruby>후<rt>厚待</rt></ruby> <ruby>은혜<rt>恩惠</rt></ruby>를 <ruby>각<rt>生覺</rt></ruby>야 너를 살녀두니</sent>
+<sent type="main" lang="kor" page="34" n="07">밧비 도라가 <ruby>조죠<rt>曹操</rt></ruby>의 머리를 버혀 게 보내라</sent>
+<sent type="main" lang="kor" page="34" n="08"><ruby>장뇨<rt>張遼</rt></ruby>ㅣ  <ruby>노<rt>怒</rt></ruby>야 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="34" n="09"><ruby>샹군<rt>將軍</rt></ruby>이 나의 말을 듯고져 아니진  칼을 바드라 고</sent>
+<sent type="main" lang="kor" page="34" n="10"><ruby>도<rt>大刀</rt></ruby>를 들고 다라들거</sent>
+<sent type="main" lang="kor" page="34" n="11"><ruby>관공<rt>關公</rt></ruby>이 <ruby>로<rt>大怒</rt></ruby>야 <ruby>청룡도<rt>靑龍刀</rt></ruby>로 두루며 <ruby>호통일셩<rt>呼痛一聲</rt></ruby>에 <ruby>장뇨<rt>張遼</rt></ruby>의 탄 말이 놀나 <ruby>슈십<rt>數十</rt></ruby> <ruby>보<rt>步</rt></ruby>를 물너가니</sent>
+<sent type="main" lang="kor" page="34" n="12"><ruby>장뇨<rt>張</rt></ruby>  <ruby>겁<rt>大</rt></ruby>□야 <ruby>감<rt>敢</rt></ruby>이 다시 싸호지 못고 <ruby>급<rt>急</rt></ruby>히 <ruby>본진<rt>本陣</rt></ruby>으로 다라나지라</sent>
+<sent type="main" lang="kor" page="34" n="13"><ruby>관공<rt>關公</rt></ruby>이 로지 아니고 <ruby>젹진<rt>賊陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 <ruby>횡<rt>橫行</rt></ruby>야 <ruby>위장<rt>魏將</rt></ruby> <ruby>슈십<rt>數十</rt></ruby> <ruby>인<rt>人</rt></ruby>을 버히니</sent>
+<sent type="main" lang="kor" page="34" n="14"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>탄식<rt>嘆息</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="34" n="15"><ruby>관모<rt>關某</rt></ruby>를 <ruby>진즁<rt>陣中</rt></ruby>에 가도고 잡지 못고 도로혀  <ruby>장졸<rt>將卒</rt></ruby>만 죽이니</sent>
+<sent type="main" lang="kor" page="34" n="16">이졔  <ruby>령<rt>令</rt></ruby> 업시 나아가 <ruby>자<rt>者</rt></ruby> <ruby>참<rt>斬</rt></ruby>리라 고</sent>
+<sent type="main" lang="kor" page="34" n="17"><ruby>뎡욱<rt>程昱</rt></ruby>을 불너 <ruby>계교<rt>計較</rt></ruby>를 <ruby>의논<rt>議論</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="34-35" n="18"><ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>쥬왈<rt>奏曰</rt></ruby></sent><!--뎡욱이 ^ 쥬왈-->
+
+<sent type="main" lang="kor" page="35" n="01"><ruby>관모<rt>關某</rt></ruby> 힘으로 <ruby>릉<rt>能</rt></ruby>히 잡지 못오리니</sent>
+<sent type="main" lang="kor" page="35" n="02"><ruby>군즁<rt>軍中</rt></ruby>에 <ruby>젼령<rt>傳令</rt></ruby>야 에워싸기를 더욱 단단히 야 져로 야금 스로 주려 쥭게 이만 지 못여이다</sent>
+<sent type="main" lang="kor" page="35" n="03"><ruby>조죠<rt>曹操</rt></ruby>ㅣ 올히 여겨 <ruby>급<rt>急</rt></ruby>히 <ruby>장<rt>將臺</rt></ruby>에 올나 북을 울니며 <ruby>긔<rt>旗</rt></ruby>를 두루니</sent>
+<sent type="main" lang="kor" page="35" n="04"><ruby>국<rt>三國</rt></ruby> <ruby>쳥병<rt>請兵</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 <ruby>령<rt>令</rt></ruby>을 듯고 에워싸기를 더욱 <ruby>쳘통<rt>鐵桶</rt></ruby> 치 니</sent>
+<sent type="main" lang="kor" page="35" n="05">이러구러 <ruby>삼<rt>三</rt></ruby> <ruby>일<rt>日</rt></ruby>이 된지라</sent>
+<sent type="main" lang="kor" page="35" n="06"><ruby>관공<rt>關公</rt></ruby>이 여러 날 쥬려 <ruby>긔력<rt>氣力</rt></ruby>이 <ruby>쇠진<rt>衰盡</rt></ruby>니 <ruby>릉<rt>能</rt></ruby>이 버셔나지 못 쥴 알고 하을 우러러 기리 <ruby>탄식<rt>嘆息</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="35" n="07">슬푸다 내일 즉 <ruby>션쥬<rt>先主</rt></ruby>를 뫼시고 <ruby>젼장<rt>戰場</rt></ruby>에 나아가  번도 <ruby>실슈<rt>失守</rt></ruby>미 업더니</sent>
+<sent type="main" lang="kor" page="35" n="08">이졔 <ruby>시운<rt>時運</rt></ruby>이 <ruby>불<rt>不幸</rt></ruby>야 우리 <ruby>션쥬<rt>先主</rt></ruby>와 <ruby>션<rt>先生</rt></ruby>을 다시 뵈옵지 못고 <ruby>반젹<rt>叛賊</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>의게 죽게 되엿스니</sent>
+<sent type="main" lang="kor" page="35" n="09">엇지 <ruby>통<rt>痛恨</rt></ruby>치 아니리오 며</sent>
+<sent type="main" lang="kor" page="35" n="10">하을 우러러 <ruby>암츅<rt>暗祝</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent><!--'우러러'의 두 번째 '러'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="35" n="11"><ruby>일월셩신<rt>日月星辰</rt></ruby>과 <ruby>후토신령<rt>后土神靈</rt></ruby>은 히 <ruby>이십<rt>二十四</rt></ruby> <ruby><rt>代</rt></ruby> 되온 <ruby><rt>漢</rt></ruby>나라 <ruby>죵묘사직<rt>宗廟社稷</rt></ruby>을 <ruby>회복<rt>恢復</rt></ruby>케옵쇼셔</sent>
+<sent type="main" lang="kor" page="35" n="12"><ruby>슈졍후<rt>漢壽亭侯</rt></ruby> <ruby>관모<rt>關某</rt></ruby> 오 <ruby>젹진<rt>賊陣</rt></ruby>에 싸이여 버셔 나지 못고</sent>
+<sent type="main" lang="kor" page="35" n="13">다시 <ruby>고국<rt>故國</rt></ruby>에 도라 <ruby>긔약<rt>期約</rt></ruby>이 업오니 엇지 슯흐지 아니리잇가 며</sent>
+<sent type="main" lang="kor" page="35" n="14"><ruby>탄식<rt>嘆息</rt></ruby>믈 마지 아니더라</sent>
+
+<sent type="main" lang="kor" page="36" n="01"><ruby>각셜<rt>却說</rt></ruby> <ruby>조룡<rt>趙子龍</rt></ruby>이 <ruby>쳔<rt>泗川</rt></ruby>을 을직히엿더니</sent>
+<sent type="main" lang="kor" page="36" n="02"><ruby>시<rt>此時</rt></ruby> <ruby>동십월<rt>冬十月</rt></ruby> <ruby>망간<rt>望間</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="36" n="03"><ruby>월<rt>月色</rt></ruby>은 <ruby>만졍<rt>滿庭</rt></ruby>고 <ruby>풍<rt>寒風</rt></ruby>은 소슬데 잠을 일우지 못고</sent>
+<sent type="main" lang="kor" page="36" n="04"><ruby>등촉<rt>燈燭</rt></ruby>을 도도고 <ruby>셔안<rt>書案</rt></ruby>에 <ruby>의지<rt>依持</rt></ruby>야 <ruby>잠간<rt>暫間</rt></ruby> 조으더니</sent>
+<sent type="main" lang="kor" page="36" n="05">문득 <ruby>일원<rt>一員</rt></ruby> <ruby>장<rt>大將</rt></ruby>이 투구를 버셔 팔에 걸고</sent>
+<sent type="main" lang="kor" page="36" n="06"><ruby>쳥룡도<rt>靑龍刀</rt></ruby>를 걱구로 집고 몸에 <ruby>유혈<rt>流血</rt></ruby>이 <ruby>랑자<rt>浪藉</rt></ruby>야 가로</sent>
+<sent type="main" lang="kor" page="36" n="07">지금 <ruby><rt>漢</rt></ruby>나라 <ruby>위<rt>危殆</rt></ruby>미 <ruby>시각<rt>時刻</rt></ruby>에 잇거</sent>
+<sent type="main" lang="kor" page="36" n="08"><ruby>장군<rt>將軍</rt></ruby>은 엇지 모르고 <ruby>구<rt>救</rt></ruby>치 안뇨</sent>
+<sent type="main" lang="kor" page="36" n="09"><ruby>자룡<rt>子龍</rt></ruby>이 <ruby>급<rt>急</rt></ruby>히 그 <ruby>연고<rt>緣故</rt></ruby>를 뭇고져  지음에 놀나 다르니 <ruby>남가일몽<rt>南柯一夢</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="36" n="10"><ruby>십분<rt>十分</rt></ruby> <ruby>의아<rt>疑訝</rt></ruby>야 즉시 에 나려 <ruby>텬긔<rt>天氣</rt></ruby>를 혀보니</sent>
+<sent type="main" lang="kor" page="36" n="11"><ruby>왕<rt>漢王</rt></ruby>의 <ruby>쥬셩<rt>主星</rt></ruby>이 <ruby>츄측<rt>墜仄</rt></ruby>엿고 <ruby>관공<rt>關公</rt></ruby>과 <ruby>긔<rt>孟起</rt></ruby>의 <ruby>쥬셩<rt>主星</rt></ruby>이 <ruby>운무<rt>雲霧</rt></ruby>에 싸이여 <ruby>희미<rt>稀迷</rt></ruby>야 러지고져 거</sent>
+<sent type="main" lang="kor" page="36" n="12"><ruby>자룡<rt>子龍</rt></ruby>이 <ruby>경<rt>大驚</rt></ruby>야 <ruby>급<rt>急</rt></ruby>히 <ruby>관<rt>太史官</rt></ruby>을 불너 <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="36" n="13"><ruby>지금<rt>至今</rt></ruby> 어느 나 되엿나뇨</sent>
+<sent type="main" lang="kor" page="36" n="14"><ruby>관<rt>太史官</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="36" n="15"><ruby>자시<rt>子時</rt></ruby> <ruby>말<rt>末</rt></ruby> <ruby>츅시<rt>丑時</rt></ruby> <ruby>쵸<rt>初</rt></ruby>로쇼이다</sent>
+<sent type="main" lang="kor" page="36" n="16"><ruby>자룡<rt>子龍</rt></ruby>이 <ruby>즉시<rt>卽時</rt></ruby> <ruby>갑쥬<rt>甲冑</rt></ruby>를 갓쵸고 <ruby>필마단창<rt>匹馬單槍</rt></ruby>으로 <ruby>셩문<rt>城門</rt></ruby>을 나아가니</sent>
+<sent type="main" lang="kor" page="36" n="17"><ruby>졔쟝<rt>諸將</rt></ruby>이 놀나 <ruby>급<rt>急</rt></ruby>히 <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="36" n="18"><ruby>쟝군<rt>將軍</rt></ruby>은 무 <ruby>급<rt>急</rt></ruby> 일이 잇관 이 깁흔 밤에 어듸를 가려시며</sent>
+<sent type="main" lang="kor" page="36-37" n="19"> <ruby>소쟝<rt>小將</rt></ruby> <ruby>등<rt>等</rt></ruby>의게 <ruby>일쟝<rt>一場</rt></ruby> <ruby>분부<rt>分付</rt></ruby>도 아니시고 가시니</sent><!--소쟝 ^ 등의게-->
+
+<sent type="main" lang="kor" page="37" n="01">그 <ruby>연고<rt>緣故</rt></ruby>를 아지 못리로쇼이다</sent>
+<sent type="main" lang="kor" page="37" n="02"><ruby>자룡<rt>子龍</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="37" n="03"> 앗가 <ruby>몽<rt>夢事</rt></ruby>ㅣ <ruby>여여<rt>如此如此</rt></ruby>  아니라</sent><!--'여여'의 두 번째 '여'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="37" n="04"><ruby>텬긔<rt>天氣</rt></ruby>를 본즉 <ruby>남병<rt>南屛</rt></ruby> <ruby>산하<rt>山下</rt></ruby>에 <ruby>살긔츙뎐<rt>殺氣衝天</rt></ruby>고 <ruby>왕샹<rt>王上</rt></ruby>의 <ruby>쥬셩<rt>主星</rt></ruby>이 <ruby>운무<rt>雲霧</rt></ruby>에 가렷스니</sent>
+<sent type="main" lang="kor" page="37" n="05"><ruby>국가<rt>國家</rt></ruby>에 <ruby>위<rt>危殆</rt></ruby>미 <ruby>시각<rt>時刻</rt></ruby>에 잇지라</sent>
+<sent type="main" lang="kor" page="37" n="06">내 몬져  거시니 너의 <ruby>등<rt>等</rt></ruby>은 뒤를 라 <ruby>남병산<rt>南屛山</rt></ruby>으로 <ruby>령<rt>待令</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="37" n="07"><ruby>언흘<rt>言吃</rt></ruby>에 말을 쳐 <ruby>동남<rt>東南</rt></ruby>을 바라고 <ruby><rt>行</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="37" n="08">그 르기 살여 <ruby>쳔산만슈<rt>千山萬水</rt></ruby>ㅣ <ruby>안젼<rt>眼前</rt></ruby>에 버렷더라</sent>
+<sent type="main" lang="kor" page="37" n="09">날이 도록 <ruby><rt>行</rt></ruby>야 <ruby>금셩력<rt>金城驛</rt></ruby>에 이르니 <ruby>이쳔팔<rt>二千八千</rt></ruby> <ruby>리<rt>里</rt></ruby>를 왓더라</sent>
+<sent type="main" lang="kor" page="37" n="10"><ruby>금셩력<rt>金城驛</rt></ruby>에 드러가 말 먹이고 다시 야 <ruby>남병산<rt>南屛山</rt></ruby>을 바라고 나아가니라</sent>
+<sent type="main" lang="kor" page="37" n="11"><ruby>션셜<rt>先說</rt></ruby> <ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>조죠<rt>曹操</rt></ruby>게 <ruby>주왈<rt>奏曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="37" n="12"><ruby>신<rt>臣</rt></ruby>이 <ruby>거야<rt>去夜</rt></ruby>에 <ruby>텬긔<rt>天氣</rt></ruby>를 보오니 <ruby>현덕<rt>玄德</rt></ruby>의 <ruby>쥬셩<rt>主星</rt></ruby>이 <ruby>운무<rt>雲霧</rt></ruby>를 벗고 근 <ruby>긔운<rt>氣運</rt></ruby>이 드러가오니</sent>
+<sent type="main" lang="kor" page="37" n="13">헤아리건 <ruby>텬<rt>泗川</rt></ruby> 직히던 <ruby>조자룡<rt>趙子龍</rt></ruby>이 오가 이다</sent>
+<sent type="main" lang="kor" page="37" n="14"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="37" n="15">그러면 엇지 여야 조흘고</sent>
+<sent type="main" lang="kor" page="37" n="16"><ruby>뎡욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="37" n="17"><ruby>죠자룡<rt>趙子龍</rt></ruby>은 <ruby>산<rt>泰山</rt></ruby>을 엽헤 고 <ruby>븍<rt>北海</rt></ruby>를 여 건너 날미 잇오니</sent>
+<sent type="main" lang="kor" page="37-38" n="18"><ruby>삼국<rt>三國</rt></ruby> <ruby>청병<rt>請兵</rt></ruby>이 비록 미만야도 <ruby>룡<rt>子龍</rt></ruby> <ruby>젹<rt>對敵</rt></ruby> <ruby><rt>者</rt></ruby> 업오니</sent><!--미만^야도-->
+
+<sent type="main" lang="kor" page="38" n="01">엇지 근심되지 아니리잇가</sent>
+<sent type="main" lang="kor" page="38" n="02"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="38" n="03">그러진 밧비 <ruby>젹장<rt>賊將</rt></ruby> 막을 <ruby>계교<rt>計較</rt></ruby>를 <ruby>각<rt>生覺</rt></ruby>야 <ruby>후회<rt>後悔</rt></ruby> 업게 라</sent>
+<sent type="main" lang="kor" page="38" n="04"><ruby>뎡욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="38" n="05"> <ruby>계교<rt>計較</rt></ruby> 잇오니 <ruby>룡<rt>子龍</rt></ruby>이 <ruby>셔<rt>西</rt></ruby>흐로 죳차 올진</sent>
+<sent type="main" lang="kor" page="38" n="06">반다시 <ruby>산양슈<rt>山陽水</rt></ruby>를 건너리니</sent>
+<sent type="main" lang="kor" page="38" n="07"><ruby>대왕<rt>大王</rt></ruby>은 밧비 <ruby>슈공<rt>首沙工</rt></ruby>의게 <ruby>분부<rt>分付</rt></ruby>야 를 하나도 두지 말고 <ruby>인젹<rt>人跡</rt></ruby>이 업게 라 면</sent>
+<sent type="main" lang="kor" page="38" n="08"><ruby>룡<rt>子龍</rt></ruby>이 비록 나 라도 건너지 못지라</sent>
+<sent type="main" lang="kor" page="38" n="09">그 밧게 <ruby>상<rt>上策</rt></ruby>이 업이다</sent>
+<sent type="main" lang="kor" page="38" n="10"><ruby>조죠<rt>曹操</rt></ruby> <ruby>희<rt>大喜</rt></ruby>야 <ruby>즉시<rt>卽時</rt></ruby> 말 잘 달니는 <ruby>군관<rt>軍官</rt></ruby> <ruby>슈십긔<rt>數十騎</rt></ruby>를 보여</sent>
+<sent type="main" lang="kor" page="38" n="11"><ruby>산양슈<rt>山陽水</rt></ruby>에 나아가 <ruby>션척<rt>船隻</rt></ruby>을 업시 라 니라</sent>
+<sent type="main" lang="kor" page="38" n="12"><ruby>차셜<rt>且說</rt></ruby> <ruby>조룡<rt>趙子龍</rt></ruby>이 <ruby>급<rt>急</rt></ruby>히 말을 쳐 <ruby>산양슈<rt>山陽水</rt></ruby>를 다다라 본즉</sent>
+<sent type="main" lang="kor" page="38" n="13"><ruby>인적<rt>人跡</rt></ruby>이 업슬  아니라  <ruby>선쳑<rt>船隻</rt></ruby>이 나도 업지라</sent>
+<sent type="main" lang="kor" page="38" n="14">마음에 <ruby>황황<rt>慌慌</rt></ruby>야 하을 우러러 <ruby>탄식<rt>嘆息</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="38" n="15">슬푸다 <ruby>유유창텬<rt>悠悠蒼天</rt></ruby>은 굽어 히 <ruby>죠운<rt>趙雲</rt></ruby>의 경상을 어엿비 여기소셔</sent>
+<sent type="main" lang="kor" page="38-39" n="16"><ruby>죠운<rt>趙雲</rt></ruby>이 <ruby>삼텬오<rt>三千五百</rt></ruby> <ruby>리<rt>里</rt></ruby> 밧게셔 <ruby>관모<rt>關某</rt></ruby>와 <ruby>긔<rt>孟起</rt></ruby> <ruby>젹진<rt>賊陣</rt></ruby>에 싸이여 쥭게 되믈 알고 <ruby>구<rt>救</rt></ruby>라오더니</sent><!--구라오더^니-->
+
+<sent type="main" lang="kor" page="39" n="01">이제 <ruby>산양수<rt>山陽水</rt></ruby>에 니른즉 <ruby>션척<rt>船隻</rt></ruby>과 <ruby>인젹<rt>人跡</rt></ruby>이 업셔 건널 길이 업오니</sent><!--'인적'은 '인젹'이 되어야 함. 원문의 '적'이 '젹'의 오자임.-->
+<sent type="main" lang="kor" page="39" n="02">이 하이 <ruby>한<rt>漢</rt></ruby>나라를 <ruby>망<rt>亡</rt></ruby>케 시미라</sent>
+<sent type="main" lang="kor" page="39" n="03"><ruby><rt>四百</rt></ruby> <ruby>년<rt>年</rt></ruby> <ruby>죵<rt>宗社</rt></ruby>를 엇지 <ruby>회복<rt>恢復</rt></ruby>며 <ruby>션쥬<rt>先主</rt></ruby>와 <ruby>션<rt>先生</rt></ruby>을 어듸가 다시 뵈오리오 며</sent>
+<sent type="main" lang="kor" page="39" n="04"><ruby>탄식불이<rt>嘆息不已</rt></ruby> 다가 문득 <ruby>각<rt>生覺</rt></ruby>고 말머리를 두다리며 <ruby>경계<rt>警戒</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="39" n="05">네 비록 즘이나  <ruby>산텬졍긔<rt>山川精氣</rt></ruby>를 타셔 낫스니 <ruby>범마<rt>凡馬</rt></ruby>와 다르고</sent>
+<sent type="main" lang="kor" page="39" n="06">한 나라 <ruby>록<rt>祿</rt></ruby>을 먹엇스니 너도 <ruby>소견<rt>所見</rt></ruby>이 잇스리라</sent>
+<sent type="main" lang="kor" page="39" n="07"><ruby>한<rt>漢</rt></ruby>나라 <ruby>위<rt>危殆</rt></ruby>미 <ruby>시각<rt>時刻</rt></ruby>에 잇고  <ruby>한슈졍후<rt>漢壽亭侯</rt></ruby>와 <ruby>마쟝군<rt>馬將軍</rt></ruby>이 <ruby>젹진<rt>賊陣</rt></ruby>에 싸엿기로  <ruby>구<rt>救</rt></ruby>라 가니</sent>
+<sent type="main" lang="kor" page="39" n="08">너 쥭기로써 이 물을 여 건너면 <ruby>션쥬<rt>先主</rt></ruby>와 <ruby>션<rt>先生</rt></ruby>을 다시 뵈옵고</sent>
+<sent type="main" lang="kor" page="39" n="09"><ruby>도탄<rt>塗炭</rt></ruby>에 든 <ruby>창<rt>蒼生</rt></ruby>을 건지려니와</sent>
+<sent type="main" lang="kor" page="39" n="10">그럿치 못면  너로 더부러 이 곳에서  칼노 죽으리라 니</sent>
+<sent type="main" lang="kor" page="39" n="11">그 말이 귀를 구리고 이옥히 듯다가 문득 오던 길노 <ruby>슈십리<rt>數十步</rt></ruby>를 물너셔며</sent>
+<sent type="main" lang="kor" page="39" n="12">소를 <ruby>벽력<rt>霹靂</rt></ruby> 갓치 지르고 <ruby>족<rt>四足</rt></ruby>을 모흐고  번 더니</sent><!--'별력'은 '벽력'이 되어야 함. 원문의 '별'이 '벽'의 오자임.-->
+<sent type="main" lang="kor" page="39" n="13"><ruby>순식간<rt>瞬息間</rt></ruby>에 <ruby>산양슈<rt>山陽水</rt></ruby> 너른 물을 건넛지라</sent>
+<sent type="main" lang="kor" page="39" n="14"><ruby>룡<rt>子龍</rt></ruby>이 <ruby>희<rt>大喜</rt></ruby>야 <ruby>창<rt>槍</rt></ruby>을 들어 <ruby>공<rt>沙工</rt></ruby>을 다 버히고</sent>
+<sent type="main" lang="kor" page="39-40" n="15"><ruby>일명<rt>一名</rt></ruby>만 살녀 두어 뒤에 오 <ruby>쟝졸<rt>將卒</rt></ruby>을 건네라 <ruby>분부<rt>分付</rt></ruby>고</sent><!--살녀 ^ 두어-->
+
+<sent type="main" lang="kor" page="40" n="01"><ruby>한산<rt>韓山</rt></ruby> <ruby>고소<rt>姑蘇臺</rt></ruby>에 올나 <ruby>위진<rt>魏陣</rt></ruby>을 바라보니</sent>
+<sent type="main" lang="kor" page="40" n="02"><ruby>남병<rt>南屛</rt></ruby> <ruby>산하<rt>山下</rt></ruby> <ruby>수리<rt>數百里</rt></ruby> 에 <ruby>위병<rt>魏兵</rt></ruby>이 <ruby>만산편야<rt>滿山遍野</rt></ruby>얏고 <ruby>한병<rt>漢兵</rt></ruby>은 하나도 뵈이지 아니거</sent>
+<sent type="main" lang="kor" page="40" n="03"><ruby>룡<rt>子龍</rt></ruby>이 헤오되 <ruby>관모<rt>關某</rt></ruby>와 <ruby>긔<rt>孟起</rt></ruby> <ruby>일졍<rt>一正</rt></ruby> 죽엇도다 고</sent>
+<sent type="main" lang="kor" page="40" n="04"><ruby>일장통곡<rt>一場痛哭</rt></ruby> 다가 다시 <ruby>갑쥬<rt>甲冑</rt></ruby>를 단단히 <ruby>결속<rt>結束</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="40" n="05"><ruby>장창<rt>長鎗</rt></ruby>을 빗기 들고 <ruby>위진<rt>魏陣</rt></ruby>으로 즛쳐 드러가니</sent>
+<sent type="main" lang="kor" page="40" n="06">엇지 되엿고 <ruby>하회<rt>下回</rt></ruby>를 <ruby>보아<rt>見</rt></ruby> <ruby>분<rt>分觧</rt></ruby>라</sent>
+<sent type="title2" lang="kor" page="40" n="07"><ruby>뎨칠장<rt>第七章</rt></ruby></sent>
+<sent type="main" lang="kor" page="40" n="08"><ruby>죠룡<rt>趙子龍</rt></ruby>이 <ruby>삼국<rt>三國</rt></ruby> <ruby>청병<rt>請兵</rt></ruby>을 쓰러 바리고 <ruby>죠덕<rt>曹孟德</rt></ruby>이 <ruby>슈염<rt>鬚髥</rt></ruby>을 고 <ruby>도망<rt>逃亡</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="40" n="09"><ruby>차셜<rt>且說</rt></ruby> <ruby>조자룡<rt>趙子龍</rt></ruby>이 <ruby>장창<rt>長鎗</rt></ruby>을 빗기 들고 <ruby>위진<rt>魏陣</rt></ruby>을 즛쳐 드러가고져 더니</sent>
+<sent type="main" lang="kor" page="40" n="10">믄득 보니 일 긔마 압흘 지나거 <ruby>룡<rt>子龍</rt></ruby>이 셔히 보니 이 <ruby>마쵸<rt>馬超</rt></ruby>의 <ruby>군관<rt>軍官</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="40" n="11"><ruby>룡<rt>子龍</rt></ruby>이 반겨 밧비 <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="40" n="12"><ruby>션쥬<rt>先主</rt></ruby>와 <ruby>션<rt>先生</rt></ruby>은 어듸 계시며 <ruby>운장<rt>雲長</rt></ruby>과 <ruby>긔<rt>孟起</rt></ruby> 어듸 잇뇨</sent>
+<sent type="main" lang="kor" page="40" n="13"><ruby>군관<rt>軍官</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="40-41" n="14"><ruby>션쥬<rt>先主</rt></ruby>와 <ruby>션<rt>先生</rt></ruby>은 <ruby>신야<rt>新野</rt></ruby>에 계시고 <ruby>관공<rt>關公</rt></ruby>과 <ruby>마장군<rt>馬將軍</rt></ruby>은 <ruby>위진<rt>魏陣</rt></ruby>에 싸힌지 <ruby>지금<rt>至今</rt></ruby> <ruby>오일<rt>五日</rt></ruby>이라 <ruby><rt>死生</rt></ruby>을 모로이다</sent><!--오일이^라-->
+
+<sent type="main" lang="kor" page="41" n="01"><ruby>룡<rt>子龍</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="41" n="02">그러면 너희 <ruby>등<rt>等</rt></ruby>은 갓가히 잇지 말고 멀니 잇스라</sent>
+<sent type="main" lang="kor" page="41" n="03"> <ruby>국병<rt>三國兵</rt></ruby>을 즛쳐 드러갈 졔 엇지 <ruby>한병<rt>漢兵</rt></ruby>을 <ruby>분간<rt>分干</rt></ruby>리오</sent>
+<sent type="main" lang="kor" page="41" n="04"><ruby>언파<rt>言罷</rt></ruby>에 말을 쳐 <ruby>젹진<rt>賊陣</rt></ruby>에 드러가며 쇼를 우뢰 갓치 여 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="41" n="05"><ruby>상산<rt>常山</rt></ruby> <ruby>죠룡<rt>趙子龍</rt></ruby>이 이에 왓니 <ruby>조죠<rt>曹操</rt></ruby> 밧비 나와  <ruby>창<rt>鎗</rt></ruby>을 밧으라  소</sent>
+<sent type="main" lang="kor" page="41" n="06"><ruby>쳥텬일<rt>靑天白日</rt></ruby>에 <ruby>벽력<rt>霹靂</rt></ruby>이 나리는 듯지라</sent>
+<sent type="main" lang="kor" page="41" n="07"><ruby>위진<rt>魏陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>이 <ruby>부지불각<rt>不知不覺</rt></ruby>에 <ruby>텬신<rt>天神</rt></ruby> 갓흔 <ruby>장슈<rt>將帥</rt></ruby>를 맛나 <ruby>졍신<rt>精神</rt></ruby>이 아득고</sent>
+<sent type="main" lang="kor" page="41" n="08"><ruby>슈각<rt>手脚</rt></ruby>이 <ruby>황란<rt>慌亂</rt></ruby>야 엇지  쥴 모로고 <ruby>일시<rt>一時</rt></ruby>에 물ㅅ결 헤여지 듯더라</sent>
+<sent type="main" lang="kor" page="41" n="09"><ruby>자룡<rt>子龍</rt></ruby>이 크게 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="41" n="10"><ruby>죠자룡<rt>趙子龍</rt></ruby>이 이에 잇나니 <ruby>운장<rt>雲長</rt></ruby>과 <ruby>긔<rt>孟起</rt></ruby> 어 잇나뇨 고</sent><!--'<ruby>죠자룡<rt>趙子龍</rt></ruby>이 이에'의 두 번째 '이'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="41" n="11"><ruby>장창<rt>長鎗</rt></ruby>을 두르며 <ruby>셜화마<rt>雪花馬</rt></ruby>를 쳐 즛쳐 들어가니 <ruby>위진<rt>魏陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>의 머리 <ruby>츄풍낙엽<rt>秋風落葉</rt></ruby> 더라</sent>
+<sent type="main" lang="kor" page="41" n="12"><ruby>삼국<rt>山國</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>이 <ruby>감<rt>敢</rt></ruby>이 <ruby>뎌당<rt>抵當</rt></ruby>치 못고 <ruby>일시<rt>一時</rt></ruby>에 물ㅅ결 헤여지 듯는지라</sent>
+<sent type="main" lang="kor" page="41" n="13"><ruby>슌식간<rt>瞬息間</rt></ruby>에 <ruby>위진<rt>魏陣</rt></ruby>을 헤치고 <ruby>관공<rt>關公</rt></ruby>과 <ruby>마쵸<rt>馬超</rt></ruby>를 <ruby>구<rt>救</rt></ruby>야 다리고 <ruby>동운교<rt>彤雲橋</rt></ruby>에 도라와 <ruby>위로<rt>慰勞</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="41" n="14"><ruby>운장<rt>雲長</rt></ruby>과 <ruby>긔<rt>孟起</rt></ruby> 다시 <ruby>진즁<rt>陣中</rt></ruby>에 드지 말고 이곳에 잇셔 오면</sent>
+<sent type="main" lang="kor" page="41-42" n="15"> <ruby>뎍진<rt>賊陣</rt></ruby>에 드러가 남져지 <ruby>장졸<rt>將卒</rt></ruby>을 즛쳐 바리고</sent><!--남져^지-->
+
+ 
+<sent type="main" lang="kor" page="42" n="01"><ruby>위왕<rt>魏王</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>를 로잡아 <ruby>텬하<rt>天下</rt></ruby>를 <ruby>평뎡<rt>平定</rt></ruby>고 신야로 도라가이다</sent>
+<sent type="main" lang="kor" page="42" n="02"><ruby>언필<rt>言畢</rt></ruby>에 <ruby>필마단창<rt>匹馬單鎗</rt></ruby>으로 <ruby>젹진<rt>賊陣</rt></ruby>을 향야 <ruby>무인디경<rt>無人地境</rt></ruby> 치 즛쳐 드러가며 <ruby>좌우츙돌<rt>左右衝突</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="42" n="03">뉘 <ruby>감<rt>敢</rt></ruby>이 막으리오 <ruby>각각<rt>各各</rt></ruby> 기를 <ruby>도모<rt>圖謀</rt></ruby>야 <ruby>면<rt>四面</rt></ruby>으로 헤여지더라</sent><!--'각각'의 두 번째 '각'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="42" n="04"><ruby>차시<rt>此時</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>무겁산<rt>武㥘山</rt></ruby>에 잇셔 <ruby>뎡욱<rt>程昱</rt></ruby> <ruby>사마의<rt>司馬懿</rt></ruby> <ruby>등<rt>等</rt></ruby>으로 더부러 <ruby>관모<rt>關某</rt></ruby> 잡기를 <ruby>의론<rt>議論</rt></ruby>더니</sent>
+<sent type="main" lang="kor" page="42" n="05">믄득 <ruby>자룡<rt>子龍</rt></ruby>이 <ruby>필마단창<rt>匹馬單鎗</rt></ruby>으로 <ruby>만군<rt>萬軍</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 드러와 <ruby>관공<rt>關公</rt></ruby>과 <ruby>마쵸<rt>馬超</rt></ruby>를 <ruby>구<rt>救</rt></ruby>야 가믈 보고 <ruby>경<rt>大驚</rt></ruby>야 <ruby>뎡욱<rt>程昱</rt></ruby>다려 <ruby>문왈<rt>問曰</rt></ruby></sent><!--'관광'은 '관공'이 되어야 함. 원문의 '광'이 '공'의 오자임.-->
+<sent type="main" lang="kor" page="42" n="06">져 <ruby>젹장<rt>賊將</rt></ruby>은 엇더 <ruby>장슈<rt>將帥</rt></ruby>뇨</sent>
+<sent type="main" lang="kor" page="42" n="06"><ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="42" n="07"><ruby>샹산<rt>常山</rt></ruby> <ruby>죠자룡<rt>趙子龍</rt></ruby>이로쇼이다</sent>
+<sent type="main" lang="kor" page="42" n="08"><ruby>죠<rt>操</rt></ruby>ㅣ 더욱 놀라 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="42" n="09"><ruby>자룡<rt>子龍</rt></ruby> 흐면 엇지 <ruby>산양슈<rt>山陽水</rt></ruby>를 건넛스며  <ruby>삼국<rt>三國</rt></ruby> <ruby>명장<rt>名將</rt></ruby> <ruby>즁<rt>中</rt></ruby> <ruby>자룡<rt>子龍</rt></ruby> 잡을 <ruby><rt>者</rt></ruby> 업스니</sent>
+<sent type="main" lang="kor" page="42" n="10">이 <ruby>텬디망아<rt>天之亡我</rt></ruby>로다</sent>
+<sent type="main" lang="kor" page="42" n="11"><ruby>뎡욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="42" n="12"><ruby>국운<rt>國運</rt></ruby>이 <ruby>불<rt>不幸</rt></ruby>야 <ruby>삼국<rt>三國</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>이 거의 다 <ruby>자룡<rt>子龍</rt></ruby>의게 쥭엇고 <ruby>진셰<rt>陣勢</rt></ruby> <ruby>만분<rt>萬分</rt></ruby> <ruby>위<rt>危殆</rt></ruby>오니</sent>
+<sent type="main" lang="kor" page="42" n="13">아즉 남은 <ruby>군<rt>軍士</rt></ruby>와 <ruby>복병<rt>伏兵</rt></ruby>으로 야금 막아 보이다 고</sent>
+<sent type="main" lang="kor" page="42" n="14">북를 들고 <ruby>장<rt>將臺</rt></ruby>에 올나 <ruby>분부<rt>分付</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="42-43" n="15"><ruby>면<rt>四面</rt></ruby>에 잇 <ruby>복병<rt>伏兵</rt></ruby>은 <ruby>일시<rt>一時</rt></ruby>에 일어나 <ruby>죠자룡<rt>趙子龍</rt></ruby>을 에오되</sent><!--^면에-->
+
+<sent type="main" lang="kor" page="43" n="01"> <ruby>긔<rt>旗</rt></ruby>와 북을 보와 <ruby>군령<rt>軍令</rt></ruby>을 어긔지 말나 고</sent>
+<sent type="main" lang="kor" page="43" n="02">긔를 두루며 북을 울니니 <ruby>면복병<rt>四面伏兵</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 일어나거</sent>
+<sent type="main" lang="kor" page="43" n="03"><ruby>자룡<rt>子龍</rt></ruby>이 북소를 듯고 밧비 말을 노와 <ruby>동<rt>東</rt></ruby>으로 닷 듯 <ruby>셔장<rt>西將</rt></ruby>을 버히고</sent>
+<sent type="main" lang="kor" page="43" n="04"><ruby>남<rt>南</rt></ruby>에 번ㅅ듯 <ruby>븍장<rt>北將</rt></ruby>을 버혀 <ruby>동셔치빙<rt>東西馳騁</rt></ruby>니</sent><!--'동셔치'은 '동셔치빙'이 되어야 함. 원문의 ''이 '빙'의 오자임.-->
+<sent type="main" lang="kor" page="43" n="05">그날 문 나 졔비라도 밋지 못네라</sent>
+<sent type="main" lang="kor" page="43" n="06"><ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>진셰<rt>陣勢</rt></ruby>를 바라보다가 북를 더지고 <ruby>탄식<rt>嘆息</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="43" n="07"><ruby>자룡<rt>子龍</rt></ruby>은 곳 <ruby>텬신<rt>天神</rt></ruby>이 아니면 분명 <ruby>신장<rt>分明神將</rt></ruby>이로다</sent>
+<sent type="main" lang="kor" page="43" n="08">잡을 <ruby>의<rt>生意</rt></ruby>도 말고 져 가 로 바려두라 더라</sent>
+<sent type="main" lang="kor" page="43" n="09"><ruby>차시<rt>此時</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>자룡<rt>子龍</rt></ruby>의 <ruby>횡<rt>橫行</rt></ruby>믈 보고 <ruby>졍신<rt>精神</rt></ruby>이 <ruby>황홀<rt>怳忽</rt></ruby>야 <ruby>좌우<rt>左右</rt></ruby> 다려 <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="43" n="10">져 <ruby>젹장<rt>賊將</rt></ruby>은 다 뒤뇨</sent>
+<sent type="main" lang="kor" page="43" n="11"><ruby>좌우<rt>左右</rt></ruby>ㅣ <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="43" n="12">다 <ruby>상산<rt>常山</rt></ruby> <ruby>죠자룡<rt>趙子龍</rt></ruby>이로소이다</sent>
+<sent type="main" lang="kor" page="43" n="13"><ruby>죠<rt>操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="43" n="14">한낫 <ruby>자룡<rt>子龍</rt></ruby>이면 엇지 <ruby>동셔남북<rt>東西南北</rt></ruby>에 다 <ruby>자룡<rt>子龍</rt></ruby>이뇨</sent>
+<sent type="main" lang="kor" page="43" n="15"><ruby>졔장<rt>諸將</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="43" n="16"><ruby>젼일<rt>前日</rt></ruby> <ruby>당양<rt>當陽</rt></ruby> <ruby>장판파<rt>長板坡</rt></ruby>에셔 <ruby>아두<rt>阿斗</rt></ruby>를 품에 품고 <ruby>팔십만<rt>八十萬</rt></ruby> <ruby>군즁<rt>軍中</rt></ruby>에 <ruby>횡<rt>橫行</rt></ruby>든 <ruby>죠자룡<rt>趙子龍</rt></ruby>이로소이다</sent>
+<sent type="main" lang="kor" page="43" n="17"><ruby>조죄<rt>曹操</rt></ruby> <ruby>탄왈<rt>嘆曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="43" n="18"><ruby>현덕<rt>玄德</rt></ruby>은 <ruby>복<rt>福</rt></ruby>이 둣터워 져런 <ruby>장슈<rt>將帥</rt></ruby>를 두어 <ruby>텬하<rt>天下</rt></ruby>를 <ruby>희롱<rt>戱弄</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="43-44" n="19">나 어이야 여러 <ruby>쟝수<rt>將帥</rt></ruby>를 두엇스되 다 <ruby>용렬<rt>庸劣</rt></ruby>야 남의 우음만 <ruby>취<rt>取</rt></ruby>니</sent><!--두엇스^되-->
+
+<sent type="main" lang="kor" page="44" n="01">엇지 <ruby>분<rt>忿恨</rt></ruby>치 안으리오</sent>
+<sent type="main" lang="kor" page="44" n="02"><ruby>뎡욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="44" n="03"><ruby>자룡<rt>子龍</rt></ruby>은 <ruby>도시<rt>都是</rt></ruby> <ruby>담<rt>膽</rt></ruby>이오니</sent>
+<sent type="main" lang="kor" page="44" n="04"><ruby>텬하<rt>天下</rt></ruby>에 <ruby>젹<rt>對敵</rt></ruby> <ruby>쟝수<rt>將帥</rt></ruby>ㅣ 업온지라</sent>
+<sent type="main" lang="kor" page="44" n="05">잡기 고고 <ruby>목젼<rt>目前</rt></ruby>에 <ruby>환<rt>大患</rt></ruby>이 밋오니</sent>
+<sent type="main" lang="kor" page="44" n="06"><ruby>급급<rt>急急</rt></ruby>히 다라 밧게 다른 <ruby>계교<rt>計較</rt></ruby> 업이다</sent>
+<sent type="main" lang="kor" page="44" n="07">말이 맛지 아니야셔 <ruby>자룡<rt>子龍</rt></ruby>이 크게 <ruby>호통<rt>呼痛</rt></ruby>야 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="44" n="08"><ruby>위왕<rt>魏王</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>야 <ruby>상산<rt>常山</rt></ruby> <ruby>조자룡<rt>趙子龍</rt></ruby>을 아다</sent>
+<sent type="main" lang="kor" page="44" n="09">오날 네 머리를 버혀 우리 <ruby>왕상<rt>王上</rt></ruby>게 드리고 <ruby>텬하<rt>天下</rt></ruby>를 <ruby>평뎡<rt>平定</rt></ruby>야 <ruby>공<rt>大功</rt></ruby>을 셰우리라</sent>
+<sent type="main" lang="kor" page="44" n="10">쇼를 우뢰 치 지르며 말을 쳐 <ruby>무겁<rt>武㥘</rt></ruby>산으로 <ruby>향<rt>向</rt></ruby>야 나 다시 올나오거</sent>
+<sent type="main" lang="kor" page="44" n="11"><ruby>조죠<rt>曹操</rt></ruby> <ruby>경실<rt>大驚失色</rt></ruby>야 <ruby>황망<rt>慌忙</rt></ruby>이 <ruby>쳥양산<rt>靑陽傘</rt></ruby>을 바리고</sent>
+<sent type="main" lang="kor" page="44" n="12"><ruby>졔장<rt>諸將</rt></ruby>으로 더부러 <ruby>군<rt>軍士</rt></ruby> <ruby>즁<rt>中</rt></ruby>에 싸이여 <ruby>급급<rt>急急</rt></ruby>히 다라나지라</sent>
+<sent type="main" lang="kor" page="44" n="13"><ruby>자룡<rt>子龍</rt></ruby>이 <ruby>후군<rt>後軍</rt></ruby>을 즛치며 크게 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="44" n="14"><ruby>슈염<rt>鬚髯</rt></ruby> 조흔 <ruby><rt>者</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>니 잡으라 거</sent>
+<sent type="main" lang="kor" page="44" n="15"><ruby>조죠<rt>曹操</rt></ruby> 더욱 <ruby>황겁<rt>惶</rt></ruby>□야 <ruby>급<rt>急</rt></ruby>히 칼을 혀 <ruby>슈염<rt>鬚髯</rt></ruby>을 버혀 바리고 닷거</sent>
+<sent type="main" lang="kor" page="44" n="16"><ruby>자룡<rt>子龍</rt></ruby>이 <ruby>조죠<rt>曹操</rt></ruby> <ruby>슈염<rt>鬚髯</rt></ruby> 버히물 알고 <ruby>쇼<rt>大笑</rt></ruby>며  웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="44" n="17"><ruby>슈염<rt>鬚髯</rt></ruby> 른 <ruby><rt>者</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>니 쟙으라 거</sent>
+<sent type="main" lang="kor" page="44-45" n="18"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>황망<rt>慌忙</rt></ruby>이 <ruby>긔<rt>旗</rt></ruby>를 져 목에 쳐고 쥭을 힘을 다야 닷더니</sent><!--다^야-->
+
+<sent type="main" lang="kor" page="45" n="01">문득 나무 가지에 투구ㅣ 걸니여 버셔지지라</sent>
+<sent type="main" lang="kor" page="45" n="02"><ruby>조죠<rt>曹操</rt></ruby>ㅣ 놀나 <ruby>좌우<rt>左右</rt></ruby> 다려 <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="45" n="03"> 머리 그져 잇나냐</sent>
+<sent type="main" lang="kor" page="45" n="04"><ruby>졍욱<rt>程昱</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="45" n="05"><ruby>왕<rt>大王</rt></ruby>이 머리 업스시면 엇지 말을 시리잇가</sent>
+<sent type="main" lang="kor" page="45" n="06"><ruby>조<rt>操</rt></ruby>ㅣ <ruby>쇼<rt>大笑</rt></ruby>며 말을 쳐 <ruby>급<rt>急</rt></ruby>히 다라 쇼만 들어도 <ruby>자룡<rt>子龍</rt></ruby>의 <ruby>호통<rt>呼痛</rt></ruby>인가 놀나고 나무 그림자만 보아도 <ruby>자룡<rt>子龍</rt></ruby>에 창ㅅ 힌가 <ruby>의심<rt>疑心</rt></ruby>며</sent>
+<sent type="main" lang="kor" page="45" n="07"><ruby>무겁산<rt>武㥘山</rt></ruby>을 게우 지나 <ruby>산양슈<rt>山陽水</rt></ruby>에 다다르니 <ruby>조조<rt>曹操</rt></ruby>의 <ruby>유셩<rt>流星</rt></ruby> <ruby>쟝졸<rt>將卒</rt></ruby>이 <ruby>젼션<rt>戰船</rt></ruby> <ruby><rt>百</rt></ruby> <ruby>여쳑<rt>餘隻</rt></ruby>에 <ruby>군량<rt>軍糧</rt></ruby>을 실고 <ruby>후<rt>待候</rt></ruby>엿거</sent><!--'다다르니'의 두 번째 '다'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="45" n="08"><ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>급<rt>急</rt></ruby>히 <ruby>조조<rt>曹操</rt></ruby>를 붓드러 에 올니니라</sent>
+<sent type="main" lang="kor" page="45" n="09"><ruby>차시<rt>此時</rt></ruby> <ruby>자룡<rt>子龍</rt></ruby>이 <ruby>잠간<rt>暫間</rt></ruby> <ruby>텬긔<rt>天氣</rt></ruby>를 혀본 즉 <ruby>조조<rt>曹操</rt></ruby>의 <ruby>쥬셩<rt>主星</rt></ruby>이 밝은 <ruby>긔운<rt>氣運</rt></ruby>을 엿지라</sent>
+<sent type="main" lang="kor" page="45" n="10">쟙지 못 쥴 알고 거즛 <ruby>호통<rt>呼痛</rt></ruby>며 <ruby>조조<rt>曹操</rt></ruby>를 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="45" n="11"><ruby>조조<rt>曹操</rt></ruby>야  오날 이 살노 너를 쏘와 쟙으리라 고</sent>
+<sent type="main" lang="kor" page="45" n="12">활을 당긔여 쏘니 <ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>급<rt>急</rt></ruby>히 <ruby>방패<rt>防牌</rt></ruby>를 들어 오 살을 여러 번 막으 <ruby>방<rt>防牌</rt></ruby> 여지지라</sent>
+<sent type="main" lang="kor" page="45" n="13"> 말달를 여들고 쥭을 힘을 다야 <ruby>분분<rt>紛紛</rt></ruby>이 드러오 살을 막으니</sent><!--'분분'의 두 번째 '분'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="45" n="14"><ruby>자룡<rt>子龍</rt></ruby>이 <ruby>군관<rt>軍官</rt></ruby> 다려 <ruby>문왈<rt>問曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="45-46" n="15">져 말 달로 살밧는 <ruby>장슈<rt>將帥</rt></ruby> 뉘뇨 </sent><!--장슈^-->
+
+<sent type="main" lang="kor" page="46" n="01"><ruby>졔장<rt>諸將</rt></ruby>이 <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="46" n="02"><ruby>조죠<rt>曹操</rt></ruby>의 <ruby>모<rt>謀士</rt></ruby> <ruby>뎡욱<rt>程昱</rt></ruby>이로소이다</sent>
+<sent type="main" lang="kor" page="46" n="03"><ruby>룡<rt>子龍</rt></ruby>이 <ruby>탄왈<rt>嘆曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="46" n="04"><ruby>각각<rt>各各</rt></ruby> 졔 <ruby>인군<rt>人君</rt></ruby>을 셤기 <ruby>츙셩<rt>忠誠</rt></ruby>은 가지라 고</sent>
+<sent type="main" lang="kor" page="46" n="05">크게 소야 <ruby>조죠<rt>曹操</rt></ruby>를 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="46" n="06"> 이졔 너를 쥭일 거시로되 너의 <ruby>신하<rt>臣下</rt></ruby> <ruby>뎡욱<rt>程昱</rt></ruby>의 <ruby>츙셩<rt>忠誠</rt></ruby>을 보와 너를 살여 보미오  <ruby>조<rt>才操</rt></ruby> <ruby>부족<rt>不足</rt></ruby>미 아니니</sent>
+<sent type="main" lang="kor" page="46" n="07">너 다시 <ruby>군<rt>軍士</rt></ruby>를 일으혀 <ruby>텬하<rt>天下</rt></ruby>를 <ruby>분란<rt>紛亂</rt></ruby>케 말나</sent>
+<sent type="main" lang="kor" page="46" n="08"><ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>응셩<rt>應聲</rt></ruby> <ruby>답왈<rt>答曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="46" n="09">이번에 <ruby>장군<rt>將軍</rt></ruby>의 놉흐신 <ruby>덕<rt>德</rt></ruby>으로 <ruby>잔명<rt>殘命</rt></ruby>을 <ruby>보젼<rt>保全</rt></ruby>야 도라가오니</sent>
+<sent type="main" lang="kor" page="46" n="10">그 <ruby>은혜<rt>恩惠</rt></ruby> <ruby>골난망<rt>白骨難忘</rt></ruby>이로소이다 고</sent>
+<sent type="main" lang="kor" page="46" n="11"><ruby>조죠<rt>曹操</rt></ruby>를 다리고 <ruby>허창<rt>許昌</rt></ruby>으로 도라가니라</sent>
+<sent type="main" lang="kor" page="46" n="12"><ruby>후<rt>後事</rt></ruby> 엇지된고 <ruby>하회<rt>下回</rt></ruby>를 보와 <ruby>분<rt>分觧</rt></ruby>라</sent>
+<sent type="title2" lang="kor" page="46" n="13"><ruby>뎨팔장<rt>第八章</rt></ruby></sent>
+<sent type="main" lang="kor" page="46" n="14"><ruby>대연<rt>大宴</rt></ruby>을 <ruby>셜<rt>排設</rt></ruby>야 <ruby>장<rt>三將</rt></ruby>을 <ruby>위로<rt>慰勞</rt></ruby>고 <ruby>한왕<rt>漢王</rt></ruby>과 <ruby>위왕<rt>魏王</rt></ruby>이 <ruby>구계산<rt>九稽山</rt></ruby>에 모히다</sent>
+<sent type="main" lang="kor" page="46" n="15"><ruby>셜<rt>且說</rt></ruby> <ruby>룡<rt>子龍</rt></ruby>이 <ruby>위진<rt>魏陣</rt></ruby>을 즛쳐 바리고 <ruby>동운교<rt>彤雲橋</rt></ruby>에 도라오니</sent>
+<sent type="main" lang="kor" page="46" n="16"><ruby>관공<rt>關公</rt></ruby>과 <ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>룡<rt>子龍</rt></ruby>의 도라오믈 보고 크게 반기며 <ruby>치하<rt>致賀</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="46-47" n="17"><ruby>장군<rt>將軍</rt></ruby>이 <ruby>필마단창<rt>匹馬單鎗</rt></ruby>으로 <ruby>국<rt>三國</rt></ruby> <ruby>청병<rt>請兵</rt></ruby>을 다 쓰러 바리고 도라오니</sent><!--쓰러 ^ 바리고-->
+
+<sent type="main" lang="kor" page="47" n="01"><ruby>국가<rt>國家</rt></ruby>에 <ruby>다<rt>多幸</rt></ruby>믈 엇지 다  입으로 말리오</sent>
+<sent type="main" lang="kor" page="47" n="02"><ruby>룡<rt>子龍</rt></ruby>이 <ruby>숀사<rt>遜謝</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="47" n="03">이 다 <ruby>텬슈<rt>天數</rt></ruby>요 <ruby>왕상<rt>王上</rt></ruby>의 넓으신 <ruby>덕<rt>德</rt></ruby>이오니 무 <ruby>소장<rt>小將</rt></ruby>의 <ruby>공<rt>功</rt></ruby>이리잇가 며</sent>
+<sent type="main" lang="kor" page="47" n="04"><ruby>인<rt>三人</rt></ruby>이 가지로 <ruby>신야<rt>新野</rt></ruby>로 도라오니라</sent>
+<sent type="main" lang="kor" page="47" n="05"><ruby>각셜<rt>却說</rt></ruby> <ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby>이 <ruby>젼진<rt>戰陣</rt></ruby> <ruby>승<rt>勝敗</rt></ruby>를 날노 기다리더니</sent>
+<sent type="main" lang="kor" page="47" n="06">이날 <ruby>장<rt>三將</rt></ruby>의 도라오믈 보시고 크게 반긴 <ruby>후<rt>後事</rt></ruby> <ruby>연<rt>緣</rt></ruby>을 무르니</sent>
+<sent type="main" lang="kor" page="47" n="07"><ruby>룡<rt>子龍</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="47" n="08"><ruby>텬하<rt>天下</rt></ruby>ㅣ 이럿틋 <ruby>분란<rt>紛亂</rt></ruby>온</sent>
+<sent type="main" lang="kor" page="47" n="09">엇지 <ruby>소쟝<rt>小將</rt></ruby>의게 <ruby>통긔<rt>通奇</rt></ruby>치 아니시니잇가</sent>
+<sent type="main" lang="kor" page="47" n="10"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="47" n="11">밧게 <ruby>젹병<rt>賊兵</rt></ruby>이 들어와 거의 <ruby>셩문<rt>城門</rt></ruby>에 밋게 되야 <ruby>만분<rt>萬分</rt></ruby> <ruby>위<rt>危殆</rt></ruby> <ruby>군신<rt>君臣</rt></ruby>이 <ruby>황황<rt>慌慌</rt></ruby>더니</sent>
+<sent type="main" lang="kor" page="47" n="12">하이 도으사 <ruby>의외<rt>意外</rt></ruby>에 <ruby>관모<rt>關某</rt></ruby>와 <ruby>마초<rt>馬超</rt></ruby>ㅣ 드러왓으 <ruby>마초<rt>馬超</rt></ruby>로 <ruby>션봉<rt>先鋒</rt></ruby>을 고</sent>
+<sent type="main" lang="kor" page="47" n="13"><ruby>관모<rt>關某</rt></ruby>로 <ruby>즁군<rt>中軍</rt></ruby>을 아 보고 맛참 <ruby>쟝군<rt>將軍</rt></ruby>의게 <ruby>통<rt>通</rt></ruby>치 못얏더니</sent>
+<sent type="main" lang="kor" page="47" n="14"><ruby>장군<rt>將軍</rt></ruby>은 엇지 알고 <ruby>슈텬리<rt>數千里</rt></ruby>를 와 <ruby>량장<rt>兩將</rt></ruby>을 <ruby>구<rt>救</rt></ruby>고 <ruby>국병<rt>三國兵</rt></ruby>을 쓰러 바리뇨</sent>
+<sent type="main" lang="kor" page="47" n="15"><ruby>룡<rt>子龍</rt></ruby>이 <ruby>젼후<rt>前後</rt></ruby> 슈말을 <ruby>셰셰<rt>細細</rt></ruby>히 <ruby>고<rt>告</rt></ruby></sent>
+<sent type="main" lang="kor" page="47" n="16"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="47" n="17"><ruby>장군<rt>將軍</rt></ruby>은 진실노 <ruby>한<rt>漢</rt></ruby>나라 <ruby>충신<rt>忠臣</rt></ruby>이요</sent>
+<sent type="main" lang="kor" page="47" n="18"><ruby>텬하<rt>天下</rt></ruby> <ruby>명장<rt>名將</rt></ruby>이로다</sent>
+<sent type="main" lang="kor" page="47-48" n="19"><ruby>만일<rt>萬一</rt></ruby> <ruby>장군<rt>將軍</rt></ruby>이 아니런들 뉘 <ruby>릉<rt>能</rt></ruby>히 <ruby>국청병<rt>三國請兵</rt></ruby>을 물니치고 <ruby>왕상<rt>王上</rt></ruby>을 <ruby>편안<rt>便安</rt></ruby>케 리오</sent><!--물^니치고-->
+
+<sent type="main" lang="kor" page="48" n="01"><ruby>칭샤<rt>稱謝</rt></ruby>기를 마지아니고 <ruby>인<rt>因</rt></ruby>야</sent>
+<sent type="main" lang="kor" page="48" n="02"><ruby>연<rt>大宴</rt></ruby>을 <ruby>셜<rt>排設</rt></ruby>야 <ruby>졔장<rt>諸將</rt></ruby> <ruby>군졸<rt>軍卒</rt></ruby>을 <ruby>호궤<rt>犒饋</rt></ruby>고 다시 <ruby>군국<rt>軍國事</rt></ruby>를 <ruby>의론<rt>議論</rt></ruby>더라</sent>
+<sent type="main" lang="kor" page="48" n="03"><ruby>각셜<rt>却說</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>남병산<rt>南屛山</rt></ruby>에 <ruby><rt>大敗</rt></ruby>믈 <ruby>통<rt>痛恨</rt></ruby>야 밤에 <ruby>릉<rt>能</rt></ruby>히 잠을 일우지 못더니</sent>
+<sent type="main" lang="kor" page="48" n="04"><ruby>일일<rt>一日</rt></ruby>은 <ruby>졔장<rt>諸將</rt></ruby>을 모흐고 <ruby>원슈<rt>寃讎</rt></ruby> 갑기를 <ruby>의론<rt>議論</rt></ruby>더니</sent>
+<sent type="main" lang="kor" page="48" n="05"><ruby>뎡욱<rt>程昱</rt></ruby>이 <ruby>고왈<rt>告曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="48" n="06"><ruby>이왕<rt>已往</rt></ruby> <ruby>조룡<rt>趙子龍</rt></ruby>의 <ruby>덕<rt>德</rt></ruby>을 힘입어 목슘을 <ruby>지금<rt>至今</rt></ruby>지 <ruby>보젼<rt>保全</rt></ruby>얏거니와</sent>
+<sent type="main" lang="kor" page="48" n="07">아직 <ruby>모<rt>謀策</rt></ruby>이 업오니 <ruby>장졸<rt>將卒</rt></ruby>을 <ruby>휴양<rt>休養</rt></ruby>야 <ruby>셔셔<rt>徐徐</rt></ruby>히 <ruby>도모<rt>圖謀</rt></ruby>홈만 갓지 못여이다</sent>
+<sent type="main" lang="kor" page="48" n="08"><ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="48" n="09">그러진 이졔 힘으로 싸호지 못 거시니</sent>
+<sent type="main" lang="kor" page="48" n="10"><ruby>긔묘<rt>奇妙</rt></ruby> <ruby>계교<rt>計較</rt></ruby>를 내여 <ruby>한왕<rt>漢王</rt></ruby>을 <ruby>유인<rt>誘引</rt></ruby>야 <ruby>구계산<rt>九稽山</rt></ruby>으로 <ruby>쳥<rt>請</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="48" n="11"><ruby>군<rt>軍士</rt></ruby>를 <ruby>복<rt>埋伏</rt></ruby>얏다가 <ruby>한왕<rt>漢王</rt></ruby>을 잡으미 <ruby>상<rt>上策</rt></ruby>일가 노라</sent><!--'상칙'은 '상'이 되어야 함. 원문의 '칙'이 ''의 오자임.-->
+<sent type="main" lang="kor" page="48" n="12"><ruby>졍욱<rt>程昱</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="48" n="13">이 <ruby>계교<rt>計較</rt></ruby>ㅣ 비록 맛당오나</sent>
+<sent type="main" lang="kor" page="48" n="14"><ruby>한왕<rt>漢王</rt></ruby>을 달여 <ruby>구계산<rt>九稽山</rt></ruby>으로 <ruby>유인<rt>誘引</rt></ruby>야 잡고져 면</sent>
+<sent type="main" lang="kor" page="48" n="15"><ruby>쟝<rt>壯士</rt></ruby> <ruby>쳔<rt>千</rt></ruby> <ruby>여명<rt>餘名</rt></ruby>을 혀 <ruby>산하<rt>山下</rt></ruby>에 <ruby>복<rt>埋伏</rt></ruby>얏다가 <ruby>현덕<rt>玄德</rt></ruby>이 이르거던 <ruby>일시<rt>一時</rt></ruby>에 다라치면 <ruby>가<rt>可</rt></ruby>이 사로잡을 듯오나</sent>
+<sent type="main" lang="kor" page="48" n="16"><ruby>졔갈량<rt>諸葛亮</rt></ruby>은 <ruby>명견만리<rt>明見萬里</rt></ruby> <ruby>조<rt>才操</rt></ruby> 잇오니</sent>
+<sent type="main" lang="kor" page="48-49" n="17"><ruby>만일<rt>萬一</rt></ruby> 이 <ruby>계교<rt>計較</rt></ruby> 맛지 못오면 도로혀 남의 우음만 <ruby>취<rt>取</rt></ruby>리니</sent><!--맛지 ^ 못오면-->
+
+<sent type="main" lang="kor" page="49" n="01"><ruby>왕<rt>大王</rt></ruby>은 깁히 헤아려 소셔</sent>
+<sent type="main" lang="kor" page="49" n="02"><ruby>졔장<rt>諸將</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 <ruby>쥬왈<rt>奏曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="49" n="03">그 <ruby>계교<rt>計較</rt></ruby>ㅣ <ruby>합당<rt>合當</rt></ruby>오니 밧비 글월을 닥가 <ruby>구변<rt>口辯</rt></ruby> 조흔 사을 <ruby><rt>擇</rt></ruby>야 보소셔</sent>
+<sent type="main" lang="kor" page="49" n="04"><ruby>조<rt>操</rt></ruby>ㅣ <ruby>즉시<rt>卽時</rt></ruby> 글월을 닥가 사으로 야금 <ruby>신야<rt>新野</rt></ruby>에 나아가 <ruby>션쥬<rt>先主</rt></ruby>게 드리니라</sent>
+<sent type="main" lang="kor" page="49" n="05"><ruby>차셜<rt>且說</rt></ruby> <ruby>션쥬<rt>先主</rt></ruby> <ruby>조회<rt>朝會</rt></ruby>를 <ruby>파<rt>罷</rt></ruby>고 가히 안졋더니</sent>
+<sent type="main" lang="kor" page="49" n="06">문득 <ruby>조조<rt>曹操</rt></ruby>의 <ruby><rt>使者</rt></ruby> 글월을 올니거 <ruby>션쥬<rt>先主</rt></ruby>ㅣ 바다 보시니</sent>
+<sent type="main" lang="kor" page="49" n="07">그글에 얏스되</sent>
+<sent type="main" lang="kor" page="49" n="08"><ruby>위왕<rt>魏王</rt></ruby> <ruby>조조<rt>曹操</rt></ruby> <ruby>돈슈<rt>頓首百拜</rt></ruby>고 <ruby>슈셔<rt>數行書</rt></ruby>를 <ruby>한왕<rt>漢王</rt></ruby> <ruby>젼하<rt>殿下</rt></ruby>게 올니이다</sent>
+<sent type="main" lang="kor" page="49" n="09"><ruby>조조<rt>曹操</rt></ruby> <ruby>역텬지신<rt>逆天之身</rt></ruby>으로 <ruby>류예쥬<rt>劉豫州</rt></ruby>의 을 거스르미 만오니 그 <ruby>죄<rt>罪</rt></ruby> 젹지 아니거니와</sent>
+<sent type="main" lang="kor" page="49" n="10">이졔 <ruby>각<rt>生覺</rt></ruby>건 <ruby>한위<rt>漢魏</rt></ruby> <ruby>량국<rt>兩國</rt></ruby>이 <ruby>동심합력<rt>同心合力</rt></ruby>야 <ruby>텬하<rt>天下</rt></ruby>를 <ruby>졔어<rt>除禦</rt></ruby>진 뉘 <ruby>감<rt>敢</rt></ruby>히 <ruby>침노<rt>侵擄</rt></ruby>리오</sent>
+<sent type="main" lang="kor" page="49" n="11">바라건 <ruby>황슉<rt>皇叔</rt></ruby>은 <ruby><rt>再三</rt></ruby> <ruby>각<rt>生覺</rt></ruby>야 <ruby>젼일<rt>前日</rt></ruby>을 <ruby>괘렴<rt>掛念</rt></ruby>치 말고</sent>
+<sent type="main" lang="kor" page="49" n="12">모로미 <ruby>구계산<rt>九稽山</rt></ruby>으로 <ruby>왕굴<rt>枉屈</rt></ruby>시면 <ruby>잔<rt>一盃</rt></ruby> <ruby>슐<rt>酒</rt></ruby>로 <ruby>화호<rt>和好</rt></ruby>고 <ruby><rt>大事</rt></ruby>를 <ruby>의론<rt>議論</rt></ruby>야</sent>
+
+<sent type="main" lang="kor" page="50" n="01"><ruby>텬하<rt>天下</rt></ruby>를 <ruby>진졍<rt>鎭定</rt></ruby>가 이다</sent>
+<sent type="main" lang="kor" page="50" n="02"><ruby>한왕<rt>漢王</rt></ruby>이 보기를 다 <ruby>희<rt>大喜</rt></ruby>야 <ruby>즉시<rt>卽時</rt></ruby> <ruby>답셔<rt>答書</rt></ruby>야 <ruby>신<rt>史臣</rt></ruby>을 쥬어 보니라</sent>
+<sent type="main" lang="kor" page="50" n="03"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>왕<rt>漢王</rt></ruby>의 <ruby>답셔<rt>答書</rt></ruby>를 보고 <ruby>희불승<rt>喜不自勝</rt></ruby>야 <ruby>졍욱<rt>程昱</rt></ruby>을 도라보아 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="50" n="04">이졔 나의 <ruby>계교<rt>計較</rt></ruby>에 맛친지라</sent>
+<sent type="main" lang="kor" page="50" n="05"><ruby>텬하<rt>天下</rt></ruby>를 <ruby>가<rt>可</rt></ruby>히 <ruby>졍<rt>定</rt></ruby>리로다 고</sent><!--'가희'는 '가히'가 되어야 함. 원문의 '희'가 '히'의 오자임.-->
+<sent type="main" lang="kor" page="50" n="06"><ruby>즉시<rt>卽時</rt></ruby>  <ruby>쟝슈<rt>將帥</rt></ruby> <ruby>텬<rt>千</rt></ruby> <ruby>여원<rt>餘員</rt></ruby>을 혀 <ruby>구계산<rt>九稽山</rt></ruby>에 <ruby>복<rt>埋伏</rt></ruby>니라</sent>
+<sent type="main" lang="kor" page="50" n="07"><ruby>각셜<rt>却說</rt></ruby> <ruby>공명<rt>孔明</rt></ruby>이 호을노 안 <ruby>텬하<rt>天下事</rt></ruby>를 <ruby>각<rt>生覺</rt></ruby>다가</sent>
+<sent type="main" lang="kor" page="50" n="08">문득 <ruby>텬긔<rt>天氣</rt></ruby>를 혀본 즉 <ruby>왕<rt>漢王</rt></ruby>의 <ruby>쥬셩<rt>主星</rt></ruby>에 <ruby>살긔<rt>殺氣</rt></ruby> <ruby>침노<rt>侵擄</rt></ruby>얏거</sent>
+<sent type="main" lang="kor" page="50" n="09"><ruby>경<rt>大驚</rt></ruby>야 <ruby>급<rt>急</rt></ruby>히 <ruby>궐<rt>闕內</rt></ruby>에 드러가 <ruby>션쥬<rt>先主</rt></ruby>게 뵈옵고 무러 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="50" n="10">요사이 <ruby>왕상<rt>王上</rt></ruby>게옵셔 조흔 일이 잇삽지 <ruby>희<rt>喜色</rt></ruby>이 <ruby>만안<rt>滿顔</rt></ruby>시니</sent>
+<sent type="main" lang="kor" page="50" n="11">그 <ruby>연고<rt>緣故</rt></ruby>를 아지못나이다</sent>
+<sent type="main" lang="kor" page="50" n="12"><ruby>션쥬<rt>先主</rt></ruby>ㅣ 우으며 <ruby>조죠<rt>曹操</rt></ruby>의 글을 여 <ruby>공명<rt>孔明</rt></ruby>을 뵈이니</sent>
+<sent type="main" lang="kor" page="50" n="13"><ruby>공명<rt>孔明</rt></ruby>이 이윽히 보다가 가로되</sent><!--'보다가 가로되'의 두 번째 '가'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="50" n="14">이 일이 맛당치 아니여이다</sent>
+<sent type="main" lang="kor" page="50" n="15"><ruby>조죠<rt>曹操</rt></ruby> 본듸 <ruby>간사<rt>奸詐</rt></ruby> 사람이라</sent>
+<sent type="main" lang="kor" page="50" n="16">이졔 <ruby>왕<rt>大王</rt></ruby>을 <ruby>유인<rt>誘引</rt></ruby>야 <ruby><rt>害</rt></ruby>코져 미어늘</sent>
+<sent type="main" lang="kor" page="50-51" n="17">엇지 <ruby>신<rt>臣</rt></ruby>다려 이르지 아니시고 <ruby>답셔<rt>答書</rt></ruby>야 보신잇가</sent><!--아니시^고-->
+
+<sent type="main" lang="kor" page="51" n="01">그 <ruby>의향<rt>意向</rt></ruby>을 아지 못리로소이다</sent>
+<sent type="main" lang="kor" page="51" n="02"><ruby>신<rt>臣</rt></ruby>은 오날날 <ruby>왕<rt>大王</rt></ruby>게 <ruby>하즉<rt>下直</rt></ruby>고 <ruby>고향<rt>故鄕</rt></ruby>에 도라가 <ruby>쳔하사<rt>天下事</rt></ruby>를 잇삽고 <ruby>여년<rt>餘年</rt></ruby>을 맛고져 오니</sent><!--'오날날'의 두 번째 '날'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="51" n="03">바라옵건 <ruby>왕<rt>大王</rt></ruby>은 <ruby>신<rt>臣</rt></ruby>의 <ruby>소원<rt>所願</rt></ruby>을 <ruby>허락<rt>許諾</rt></ruby>옵소셔</sent><!--'바라옵건 왕'의 두 번째 ''는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="51" n="04"><ruby>션쥬<rt>先主</rt></ruby>ㅣ 이 말을 들으시고 <ruby>후회<rt>後悔</rt></ruby>야 가로사되</sent>
+<sent type="main" lang="kor" page="51" n="05"> <ruby>과연<rt>果然</rt></ruby> <ruby>실조<rt>失操</rt></ruby>엿거니와 <ruby>션<rt>先生</rt></ruby>은 엇지 나를 바리고 가고져 나뇨</sent>
+<sent type="main" lang="kor" page="51" n="06"><ruby>원<rt>願</rt></ruby>컨 <ruby>조죠<rt>曹操</rt></ruby>의 <ruby>쳥<rt>請</rt></ruby> 을 밝히 가라치라</sent>
+<sent type="main" lang="kor" page="51" n="07"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="51" n="08"><ruby>조조<rt>曹操</rt></ruby>ㅣ 글월을 보미 조흔 이 아니라</sent>
+<sent type="main" lang="kor" page="51" n="09"><ruby>군사<rt>軍士</rt></ruby>를 <ruby>구계산<rt>九稽山</rt></ruby>에 <ruby>복<rt>埋伏</rt></ruby>엿다가 <ruby>왕<rt>大王</rt></ruby>을 <ruby><rt>害</rt></ruby>코져 미오니 <ruby>왕<rt>大王</rt></ruby>은 히소셔</sent>
+<sent type="main" lang="kor" page="51" n="10"><ruby>션쥬<rt>先主</rt></ruby>ㅣ 바야흐로 다르사 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="51" n="11">그러면 가지 아니미 조흐리로다</sent>
+<sent type="main" lang="kor" page="51" n="12"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="51" n="13">임의 <ruby>답셔<rt>答書</rt></ruby>야 보엿스니</sent>
+<sent type="main" lang="kor" page="51" n="14"><ruby>만일<rt>萬一</rt></ruby> 가지 아니진 이 <ruby>실신<rt>失信</rt></ruby>미라</sent>
+<sent type="main" lang="kor" page="51" n="15"><ruby>왕<rt>大王</rt></ruby>은 <ruby>장차<rt>將次</rt></ruby> 무엇으로써 <ruby>쳔하<rt>天下</rt></ruby>에 <ruby>취신<rt>取信</rt></ruby>코져 시나잇가</sent>
+<sent type="main" lang="kor" page="51" n="16"><ruby>션쥬<rt>先主</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="51" n="17">그러면 엇지야야 조흘고</sent><!--'엇지야야'의 두 번째 '야'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="51" n="18"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="51" n="19"><ruby>왕<rt>大王</rt></ruby>은 <ruby>셩녀<rt>聖慮</rt></ruby>치 마르소셔 <ruby>신<rt>臣</rt></ruby>이 맛당이 <ruby>계교<rt>計較</rt></ruby>를 베푸러 <ruby>장계취계<rt>將計就計</rt></ruby>리이다 고</sent>
+<sent type="main" lang="kor" page="51-52" n="20"><ruby>즉시<rt>卽時</rt></ruby> <ruby>군즁<rt>軍中</rt></ruby>에 <ruby>젼령<rt>傳令</rt></ruby>야 <ruby>비밀<rt>秘密</rt></ruby>이 <ruby>약쇽<rt>約束</rt></ruby>고 <ruby>관모<rt>關某</rt></ruby>와 <ruby>긔<rt>孟起</rt></ruby>로 <ruby>장졸<rt>將卒</rt></ruby>을 <ruby>뎡졔<rt>整齊</rt></ruby>야</sent><!--약쇽^고-->
+
+<sent type="main" lang="kor" page="52" n="01">다시 <ruby>령<rt>令</rt></ruby>을 기다리라다</sent>
+<sent type="main" lang="kor" page="52" n="02">오지 아니야 <ruby>조죠<rt>曹操</rt></ruby>의 <ruby>긔약<rt>期約</rt></ruby> 날이 이르 <ruby>션쥬<rt>先主</rt></ruby>와 <ruby>공명<rt>孔明</rt></ruby>이 <ruby>약쇽<rt>約束</rt></ruby>을 <ruby>뎡<rt>定</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="52" n="03"><ruby>졔장<rt>諸將</rt></ruby> <ruby>등<rt>等</rt></ruby>을 불너 <ruby>각각<rt>各各</rt></ruby> <ruby>비밀<rt>秘密</rt></ruby>이 <ruby>약쇽<rt>約束</rt></ruby> 후 <ruby>장졸<rt>將卒</rt></ruby>을 거나리고 <ruby>구계산<rt>九稽山</rt></ruby>으로 <ruby>향<rt>向</rt></ruby>야 갈</sent>
+<sent type="main" lang="kor" page="52" n="04"><ruby>긔치<rt>旗幟</rt></ruby> <ruby>창검<rt>鎗劒</rt></ruby>은 <ruby>일광<rt>日光</rt></ruby>을 가리오고 <ruby>고각함셩<rt>鼓角喊聲</rt></ruby>은 <ruby>텬지진동<rt>天地震動</rt></ruby>더라 <ruby><rt>行</rt></ruby>야</sent>
+<sent type="main" lang="kor" page="52" n="05"><ruby>구계산<rt>九稽山</rt></ruby>에 이르러 <ruby>결진<rt>結陣</rt></ruby>니 <ruby>조<rt>曹操</rt></ruby> 이미 <ruby>군<rt>大軍</rt></ruby>을 <ruby>휘동<rt>揮動</rt></ruby>야 <ruby>유진<rt>留陣</rt></ruby>고 <ruby>한왕<rt>漢王</rt></ruby>을 기다리더라</sent>
+<sent type="main" lang="kor" page="52" n="06"><ruby>일셩포향<rt>一聲砲響</rt></ruby>에 <ruby>진문<rt>陣門</rt></ruby>이 열니 곳에 <ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>슌금<rt>純金</rt></ruby> 투구와 <ruby>홍포금갑<rt>紅袍金甲</rt></ruby>을 입고 <ruby>쳥총마<rt>靑驄馬</rt></ruby>를 쳐 <ruby>진젼<rt>陣前</rt></ruby>에 나셔니</sent>
+<sent type="main" lang="kor" page="52" n="07"><ruby>좌편<rt>左便</rt></ruby>은 <ruby>허져<rt>許褚</rt></ruby>오 <ruby>우편<rt>右便</rt></ruby>은 <ruby>쟝뇨<rt>張遼</rt></ruby>러라</sent>
+<sent type="main" lang="kor" page="52" n="08"><ruby>조조<rt>曹操</rt></ruby>ㅣ 크게 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="52" n="09"><ruby>황슉<rt>皇叔</rt></ruby>은 <ruby>별무양<rt>別來無恙</rt></ruby>시뇨거</sent>
+<sent type="main" lang="kor" page="52" n="10"><ruby>한진<rt>漢陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>으로셔 한 일셩포향□에 <ruby>션쥬<rt>先主</rt></ruby>ㅣ 슌금 투구에 <ruby>포운갑<rt>白袍雲甲</rt></ruby>을 입고 <ruby>총마<rt>白聦馬</rt></ruby>를 쳐 나오니</sent>
+<sent type="main" lang="kor" page="52" n="11"><ruby>좌<rt>左</rt></ruby>에 <ruby>류봉<rt>劉封</rt></ruby>이오 <ruby>우<rt>右</rt></ruby>에 <ruby>관평<rt>關平</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="52" n="12"><ruby>션쥬<rt>先主</rt></ruby>ㅣ 를 들어 <ruby>읍<rt>揖</rt></ruby>고 가로되</sent>
+<sent type="main" lang="kor" page="52" n="13"><ruby>덕<rt>孟德</rt></ruby>은 그 사이 <ruby>무양<rt>無恙</rt></ruby>드뇨</sent>
+<sent type="main" lang="kor" page="52" n="14"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="52" n="15">그 <ruby>텬조<rt>天朝</rt></ruby>를 <ruby>반<rt>背叛</rt></ruby>고 <ruby>찬역<rt>簒逆</rt></ruby>을  <ruby>텬<rt>天子</rt></ruby> 날노 야금</sent>
+<sent type="main" lang="kor" page="52-53" n="16">그를 잡아 <ruby>텬하<rt>天下</rt></ruby>를 <ruby>진뎡<rt>鎭定</rt></ruby>라 시기로 이에 이르럿노라</sent><!--잡^아-->
+
+<sent type="main" lang="kor" page="53" n="01"><ruby>션쥬<rt>先主</rt></ruby>ㅣ <ruby>소<rt>大笑</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="53" n="02">나 <ruby>당당<rt>堂堂</rt></ruby> <ruby>한<rt>漢</rt></ruby>나라 <ruby>종친<rt>宗親</rt></ruby>이어니와</sent><!--'당당'의 두 번째 '당'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="53" n="03">너 <ruby>실<rt>實</rt></ruby>로 <ruby>찬역지신<rt>簒逆之臣</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="53" n="04"> <ruby>의조<rt>衣帶詔</rt></ruby>를 밧드러 <ruby>찬젹<rt>簒賊</rt></ruby>을 치거늘</sent>
+<sent type="main" lang="kor" page="53" n="05">엇지 도로혀 나를 <ruby>반<rt>叛</rt></ruby>다 나뇨</sent>
+<sent type="main" lang="kor" page="53" n="06">오날날 너를 잡아 <ruby>텬하<rt>天下</rt></ruby>에 큰 <ruby>죄<rt>罪</rt></ruby>를 <ruby>쇽<rt>續</rt></ruby>리라 니</sent><!--'오날날'의 두 번째 '날'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="53" n="07"><ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>쇼<rt>大笑</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="53" n="08"><ruby>현덕<rt>玄德</rt></ruby>의 말이 가장 우읍도다</sent>
+<sent type="main" lang="kor" page="53" n="09">그를 <ruby>시험<rt>試驗</rt></ruby>코져 야 거즛 쓸데업 말을 얏더니</sent>
+<sent type="main" lang="kor" page="53" n="10">그 말을 고지 듯고 그다지 <ruby>로<rt>怒</rt></ruby>나뇨</sent>
+<sent type="main" lang="kor" page="53" n="11"> 들으니 <ruby>남양<rt>南陽</rt></ruby> <ruby>면셔<rt>白面書生</rt></ruby>으로 스로 <ruby>조<rt>才操</rt></ruby>를 <ruby>관즁<rt>管仲</rt></ruby> <ruby>악의<rt>樂</rt></ruby>□의게 <ruby>비<rt>比</rt></ruby> <ruby>졔공명<rt>孔明</rt></ruby>이</sent>
+<sent type="main" lang="kor" page="53" n="12">오날날 이곳에 왓다 니 한번 보고져 노라</sent><!--'오날날'의 두 번째 '날'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="53" n="13"><ruby>언미필<rt>言未畢</rt></ruby>에 <ruby>진<rt>韓陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>으로셔 문득 <ruby>일셩포향<rt>一聲砲響</rt></ruby>에 <ruby>공명<rt>孔明</rt></ruby>이 머리에 <ruby>륜건<rt>綸巾</rt></ruby>을 쓰고</sent>
+<sent type="main" lang="kor" page="53" n="14">몸에 <ruby>학창의<rt>鶴氅衣</rt></ruby>를 입고 손에 <ruby>우선<rt>白羽扇</rt></ruby>을 고</sent>
+<sent type="main" lang="kor" page="53" n="15"><ruby>사륜거<rt>四輪車</rt></ruby>를 모라 <ruby>완연<rt>完然</rt></ruby>이 나아오니 <ruby>좌편<rt>左便</rt></ruby>에 <ruby>자룡<rt>子龍</rt></ruby>이오 <ruby>우편<rt>右便</rt></ruby>에 <ruby>익덕<rt>翼德</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="53" n="16"><ruby>조죠<rt>曹操</rt></ruby> 한번 바라보 <ruby>신쟝<rt>身長</rt></ruby>이 <ruby>팔<rt>八</rt></ruby> <ruby>척<rt>尺</rt></ruby>이오</sent>
+<sent type="main" lang="kor" page="53" n="17">얼골이 <ruby>관옥<rt>冠玉</rt></ruby> 갓고 <ruby>양미간<rt>兩眉間</rt></ruby>에 <ruby>샨텬졍긔<rt>山川精氣</rt></ruby>를 엿고</sent>
+<sent type="main" lang="kor" page="53" n="18"><ruby>텬지조화<rt>天地造化</rt></ruby>를 <ruby>은은<rt>隱隱</rt></ruby>이 감초왓스며</sent><!--'은은'의 두 번째 '은'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="53-54" n="19"><ruby>흉즁<rt>胷中</rt></ruby>에 <ruby>고금흥망<rt>古今興亡</rt></ruby>을 <ruby>력력<rt>歷歷</rt></ruby>히 품엇스니 진짓 <ruby>졔셰<rt>濟世</rt></ruby> <ruby>영웅<rt>英雄</rt></ruby>이오</sent><!--품엇스^니 -->
+
+<sent type="main" lang="kor" page="54" n="01"><ruby>무쌍<rt>無雙</rt></ruby> <ruby>인물<rt>人物</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="54" n="02"><ruby>조죠<rt>曹操</rt></ruby>ㅣ 마음에 <ruby>경동<rt>驚動</rt></ruby>야 <ruby>탄복<rt>嘆服</rt></ruby>믈 마지아니며</sent>
+<sent type="main" lang="kor" page="54" n="03">이에 몸을 굽히고 소를 나즉이 야 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="54" n="04">나 <ruby>한승상<rt>漢丞相</rt></ruby> <ruby>조덕<rt>曹孟德</rt></ruby>이러니</sent>
+<sent type="main" lang="kor" page="54" n="05">그의 놉흔 일홈을 들은 지 오지라</sent>
+<sent type="main" lang="kor" page="54" n="06">번 보고져 야 이곳에 왓나니 허물치 말나</sent>
+<sent type="main" lang="kor" page="54" n="07"><ruby>져<rt>大抵</rt></ruby> <ruby>시운<rt>時運</rt></ruby>이 <ruby>불<rt>不幸</rt></ruby>야 <ruby>쳐쳐<rt>處處</rt></ruby>에 <ruby>도젹<rt>盜賊</rt></ruby>이 <ruby>강셩<rt>强盛</rt></ruby></sent>
+<sent type="main" lang="kor" page="54" n="08"><ruby>텬<rt>天子</rt></ruby> 근심사 날노 야금 <ruby>도젹<rt>盜賊</rt></ruby>을 <ruby>토멸<rt>討滅</rt></ruby>고 <ruby>도탄<rt>塗炭</rt></ruby>에 든 <ruby>셩<rt>百姓</rt></ruby>을 건지라 시니</sent>
+<sent type="main" lang="kor" page="54" n="09"><ruby>만일<rt>萬一</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby> 아니면 모든 <ruby>도젹<rt>盜賊</rt></ruby>을 <ruby>소멸<rt>消滅</rt></ruby>며 <ruby>텬<rt>天子</rt></ruby> 엇지 <ruby>안강<rt>安康</rt></ruby>시리오</sent>
+<sent type="main" lang="kor" page="54" n="10">그 <ruby>조<rt>才操</rt></ruby>를 닥가 <ruby>셰상<rt>世上</rt></ruby>에 일홈을 엇고져 진</sent>
+<sent type="main" lang="kor" page="54" n="11">나 갓흔 <ruby>영웅<rt>英雄</rt></ruby>을 좃차 <ruby>텬자<rt>天子</rt></ruby>를 도와 일홈을 <ruby>쥭<rt>竹帛</rt></ruby>에 드리미 올커늘</sent>
+<sent type="main" lang="kor" page="54" n="12">그 <ruby>반젹<rt>叛賊</rt></ruby> <ruby>류비<rt>劉備</rt></ruby>를 도으니 엇지 앗갑지 아니리오 니</sent>
+<sent type="main" lang="kor" page="54" n="13"><ruby>공명<rt>孔明</rt></ruby>의 <ruby>답<rt>對答</rt></ruby>이 엇지고 <ruby>하회<rt>下回</rt></ruby>를 보와 <ruby>분<rt>分觧</rt></ruby>라</sent>
+<sent type="title2" lang="kor" page="54" n="14"><ruby>뎨구쟝<rt>第九章</rt></ruby></sent>
+<sent type="main" lang="kor" page="54" n="15"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>슈<rt>數罪</rt></ruby>니 <ruby>조죠<rt>曹操</rt></ruby>가 <ruby>참<rt>大慚</rt></ruby>고 <ruby>량진<rt>兩陣</rt></ruby> <ruby>졔쟝<rt>諸將</rt></ruby>이 <ruby>조<rt>才操</rt></ruby>를 <ruby>시험<rt>試驗</rt></ruby>다</sent>
+
+<sent type="main" lang="kor" page="55" n="01"><ruby>차셜<rt>且說</rt></ruby> <ruby>공명<rt>孔明</rt></ruby>이 <ruby>조죠<rt>曹操</rt></ruby>의 말을 듯고 <ruby>소<rt>大笑</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="55" n="02"><ruby>덕<rt>孟德</rt></ruby>이 엇지 붓그럽지 아니뇨</sent>
+<sent type="main" lang="kor" page="55" n="03">그의 <ruby>조상<rt>祖上</rt></ruby>이 <ruby>고황뎨<rt>高皇帝</rt></ruby>를 도와 <ruby>텬하<rt>天下</rt></ruby>를 어더 <ruby>년<rt>四百年</rt></ruby> <ruby>긔업<rt>基業</rt></ruby>을 셰웟거늘</sent><!--'고항뎨'는 '고황뎨'가 되어야 함. 원문의 '항'이 '황'의 오자임.-->
+<sent type="main" lang="kor" page="55" n="04">그 <ruby>국은<rt>國恩</rt></ruby>을 <ruby>각<rt>生覺</rt></ruby>지 아니고 <ruby>금슈<rt>禽獸</rt></ruby>의 마음을 두어 <ruby>황뎨<rt>皇帝</rt></ruby>를 <ruby>허창<rt>許昌</rt></ruby>에 가도고 <ruby>황숀<rt>皇孫</rt></ruby>을 <ruby>짐<rt>鴆殺</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="55" n="05">그 <ruby>악<rt>罪惡</rt></ruby>은 <ruby>신명<rt>神明</rt></ruby>이라도 버히고져 실지라</sent>
+<sent type="main" lang="kor" page="55" n="06">그 <ruby>디하<rt>地下</rt></ruby>에 도라가 <ruby>하면목<rt>何面目</rt></ruby>으로 <ruby>이십<rt>二十四</rt></ruby> <ruby>황뎨<rt>皇帝</rt></ruby>를 뵈오며</sent>
+<sent type="main" lang="kor" page="55" n="07">그 <ruby>조상<rt>祖上</rt></ruby>이 엇지 <ruby>용납<rt>容納</rt></ruby>리오</sent>
+<sent type="main" lang="kor" page="55" n="08">우리 <ruby>왕샹<rt>王上</rt></ruby>은 <ruby>한실죵친<rt>漢室宗親</rt></ruby>이오 <ruby>졔실<rt>帝室</rt></ruby>에 읏듬이라</sent>
+<sent type="main" lang="kor" page="55" n="09">너갓흔 <ruby>녁류<rt>逆流</rt></ruby>를 버혀 <ruby>국가<rt>國家</rt></ruby>에 근심을 덜고져 시니</sent>
+<sent type="main" lang="kor" page="55" n="10">네 <ruby>죄악<rt>罪惡</rt></ruby>을 알거던 니 목을 늘희여 쥭기를 기다리고</sent>
+<sent type="main" lang="kor" page="55" n="11"> 싸호고져 거던 밧비 <ruby>승부<rt>勝負</rt></ruby>를 <ruby>결<rt>結</rt></ruby>라 니</sent>
+<sent type="main" lang="kor" page="55" n="12"><ruby>위진<rt>魏陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>이 이 말을 들으 고를 슉여 붓그림을 먹음고</sent>
+<sent type="main" lang="kor" page="55" n="13"><ruby>조죠<rt>曹操</rt></ruby>ㅣ  <ruby>참괴<rt>慚愧</rt></ruby>나 <ruby>강잉<rt>强仍</rt></ruby>야 <ruby>쇼왈<rt>笑曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="55" n="14"> 을 <ruby>공명<rt>孔明</rt></ruby>이 아지 못다</sent>
+<sent type="main" lang="kor" page="55" n="15"> 엇지 <ruby>텬<rt>天子</rt></ruby>를 <ruby>반<rt>背叛</rt></ruby>야 <ruby>츙의<rt>忠義</rt></ruby>를 모로리오</sent>
+<sent type="main" lang="kor" page="55" n="16">오날날 이 곳에 셔로 모히믄 다름이 아니라</sent><!--'오날날'의 두 번째 '날'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="55-56" n="17"><ruby>량진<rt>兩陣</rt></ruby>에 <ruby>쟝졸<rt>將卒</rt></ruby>이 <ruby>족<rt>足</rt></ruby> <ruby>각각<rt>各各</rt></ruby> <ruby>쟝수<rt>將帥</rt></ruby>를 여 <ruby>조<rt>才操</rt></ruby>를 결워 <ruby>위진<rt>魏陣</rt></ruby>이 못이기거던 <ruby>한<rt>漢</rt></ruby>을 셤길 거시오</sent><!--위진^이 -->
+
+<sent type="main" lang="kor" page="56" n="01"><ruby>진<rt>漢陣</rt></ruby>이 이긔지 못면 <ruby>병<rt>兵</rt></ruby>을 물녀 가고져 미니</sent><!--'<ruby>진<rt>漢陣</rt></ruby>이 이긔지'의 두 번째 '이'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="56" n="02"><ruby>공명<rt>孔明</rt></ruby>의 에 엇덧타 나뇨</sent>
+<sent type="main" lang="kor" page="56" n="03"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="56" n="04">그 의론이 가쟝 좃타 </sent>
+<sent type="main" lang="kor" page="56" n="05"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>본진<rt>本陣</rt></ruby>에 도라가 <ruby>졔쟝<rt>諸將</rt></ruby>을 볼너 <ruby>당부<rt>當付</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="56" n="06">이졔 <ruby>량진<rt>兩陣</rt></ruby> <ruby>쟝슈<rt>將帥</rt></ruby>의 <ruby>조<rt>才操</rt></ruby>를 보고져 니</sent>
+<sent type="main" lang="kor" page="56" n="07">너의 <ruby>등<rt>等</rt></ruby>은 힘을 다야 남의 우음을 <ruby>취<rt>取</rt></ruby>치말나 더라</sent>
+<sent type="main" lang="kor" page="56" n="08"><ruby>차셜<rt>且說</rt></ruby> <ruby>공명<rt>孔明</rt></ruby>이 <ruby>션쥬<rt>先主</rt></ruby>로 더부러 <ruby>쟝<rt>將臺</rt></ruby>에 올나 <ruby>졔장즁<rt>諸將中</rt></ruby> <ruby>슈십원<rt>數十員</rt></ruby> <ruby>장<rt>大將</rt></ruby>을 <ruby><rt>擇</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="56" n="08">이 <ruby>관공<rt>關公</rt></ruby> <ruby>장비<rt>張飛</rt></ruby> <ruby>조운<rt>趙雲</rt></ruby> <ruby>마쵸<rt>馬超</rt></ruby> <ruby>황츙<rt>黃忠</rt></ruby> <ruby>위연<rt>魏延</rt></ruby> <ruby>류봉<rt>劉封</rt></ruby> <ruby>관평<rt>關平</rt></ruby> <ruby>등<rt>等</rt></ruby>이러라</sent>
+<sent type="main" lang="kor" page="56" n="09"><ruby>관평<rt>關平</rt></ruby>이 <ruby>진젼<rt>陣前</rt></ruby>에 나셔며 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="56" n="10"><ruby>위왕<rt>魏王</rt></ruby> <ruby>조덕<rt>曹孟德</rt></ruby>은 몬져 무어슬 결우고져 뇨</sent>
+<sent type="main" lang="kor" page="56" n="11"><ruby>차시<rt>此時</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>ㅣ  <ruby>십<rt>十</rt></ruby> <ruby>여원<rt>餘員</rt></ruby> <ruby>쟝<rt>大將</rt></ruby>을 <ruby>츌<rt>擇出</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="56" n="12">이 <ruby>허져<rt>許褚</rt></ruby> <ruby>하후돈<rt>夏候惇</rt></ruby> <ruby>하후연<rt>夏候淵</rt></ruby> <ruby>조인<rt>曹仁</rt></ruby> <ruby>조홍<rt>曹洪</rt></ruby> <ruby>문빙<rt>文聘</rt></ruby> <ruby>방덕<rt>龐德</rt></ruby> <ruby>쟝뇨<rt>張遼</rt></ruby> <ruby>쟝합<rt>張郃</rt></ruby> <ruby>등<rt>等</rt></ruby>이라</sent><!--'하우돈'은 '하후돈'이 되어야 함. 원문의 '우'가 '후'의 오자임.--><!--'하우연'은 '하후연'이 되어야 함. 원문의 '우'가 '후'의 오자임.-->
+<sent type="main" lang="kor" page="56" n="13"><ruby>조홍<rt>曹洪</rt></ruby>이 <ruby>진젼<rt>陣前</rt></ruby>에 나셔며 <ruby>응셩<rt>應聲</rt></ruby> <ruby>답왈<rt>答曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="56" n="14">몬져 <ruby>궁시<rt>弓矢</rt></ruby>로 <ruby>시험<rt>試驗</rt></ruby>되 <ruby>량진<rt>兩陣</rt></ruby> <ruby>상거<rt>相拒</rt></ruby> <ruby>보<rt>百步</rt></ruby> 밧게 <ruby>삼지창<rt>三枝鎗</rt></ruby>을 세우고 쏘리라 고</sent>
+<sent type="main" lang="kor" page="56" n="15"><ruby>위진<rt>魏陣</rt></ruby>에셔 <ruby>습젼관<rt>拾箭官</rt></ruby>으로 <ruby>흑건<rt>黑巾</rt></ruby> <ruby>흑의<rt>黑衣</rt></ruby>에 <ruby>흑긔<rt>黑旗</rt></ruby>를 들고 <ruby>삼지창<rt>三枝鎗</rt></ruby>을 셰우고 <ruby>허져<rt>許褚</rt></ruby> <ruby>조홍<rt>曹洪</rt></ruby> <ruby>문빙<rt>文聘</rt></ruby> <ruby>등<rt>等</rt></ruby>이 나아와 쏘거</sent>
+<sent type="main" lang="kor" page="56-57" n="16"><ruby>진<rt>漢陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>에셔  <ruby>습젼관<rt>拾箭官</rt></ruby>으로 <ruby>황건<rt>黃巾</rt></ruby> <ruby>황의<rt>黃衣</rt></ruby>에 <ruby>황긔<rt>黃旗</rt></ruby>를 들고</sent><!--황건 ^ 황의에-->
+
+<sent type="main" lang="kor" page="57" n="01"><ruby>류봉<rt>劉封</rt></ruby> <ruby>관평<rt>關平</rt></ruby> <ruby>등<rt>等</rt></ruby>이 나오지라 <ruby>허져<rt>許褚</rt></ruby> 활을 당긔여 <ruby>창<rt>鎗</rt></ruby>가온 가지를 쏘와 맛치니</sent>
+<sent type="main" lang="kor" page="57" n="02"><ruby>관평<rt>關平</rt></ruby>이 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="57" n="03">너 가온 가지를 맛치니 나 <ruby>올<rt>右</rt></ruby><ruby>은편<rt>便</rt></ruby> 가지를 맛치리라 고 활을 당긔여 쏘니</sent>
+<sent type="main" lang="kor" page="57" n="04"><ruby>습젼관<rt>拾箭官</rt></ruby>이 <ruby>연<rt>連</rt></ruby>야 <ruby>긔고<rt>旗鼓</rt></ruby>를 울니거</sent>
+<sent type="main" lang="kor" page="57" n="05"><ruby>조홍<rt>曹洪</rt></ruby>이  왼편가지를 맛치니 <ruby>류봉<rt>劉封</rt></ruby>이  가온 가지를 맛치고</sent>
+<sent type="main" lang="kor" page="57" n="06"><ruby>문빙<rt>文聘</rt></ruby>이  왼편가지 츨 맛치니 <ruby>량진<rt>兩陣</rt></ruby> <ruby>군<rt>軍士</rt></ruby> <ruby>졔셩<rt>齊聲</rt></ruby> <ruby><rt>喝采</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="57" n="07"><ruby>조죠<rt>曹操</rt></ruby>  <ruby>의긔<rt>意氣</rt></ruby> <ruby>양양<rt>揚揚</rt></ruby>더라</sent><!--'양양'의 두 번째 '양'은 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="57" n="08"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>쟝비<rt>張飛</rt></ruby>를 불너 <ruby>여여<rt>如此如此</rt></ruby>라 </sent><!--'여여'의 두 번째 '여'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="57" n="09"><ruby>쟝비<rt>張飛</rt></ruby> <ruby>진젼<rt>陣前</rt></ruby>에 나셔며 <ruby>호<rt>大呼</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="57" n="10"><ruby>보<rt>百步</rt></ruby> 밧게 <ruby>창<rt>鎗</rt></ruby>을 셰우고 쏘와 맛치미 엇지 <ruby>조<rt>才操</rt></ruby>라 리오</sent>
+<sent type="main" lang="kor" page="57" n="11"><ruby>일오십보<rt>一百五十步</rt></ruby>에  갑옷슬 달고 쏘와 맛치면 구멍이 시니</sent>
+<sent type="main" lang="kor" page="57" n="12">그 <ruby>후<rt>後</rt></ruby> 쏘  그 궁그로 을 여 보내기를 <ruby>시험<rt>試驗</rt></ruby>리라</sent>
+<sent type="main" lang="kor" page="57" n="13"><ruby>위쟝<rt>魏將</rt></ruby> <ruby>등<rt>等</rt></ruby>이 셔로 도라보며 <ruby>답<rt>對答</rt></ruby>지 못거</sent>
+<sent type="main" lang="kor" page="57" n="14"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>졔쟝<rt>諸將</rt></ruby>을 도라 보아 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="57" n="15">져의론 몬져 쏘라라</sent>
+<sent type="main" lang="kor" page="57" n="16"><ruby>문빙<rt>文聘</rt></ruby>이 <ruby>응셩<rt>應聲</rt></ruby> 답 <ruby>왈<rt>曰</rt></ruby></sent><!--'응셔'는 '응셩'이 되어야 함. 원문의 '셔'가 '셩'의 오자임.-->
+<sent type="main" lang="kor" page="57" n="17">너의 몬져 쏘면 우리 좃차 쏘리라</sent>
+<sent type="main" lang="kor" page="57-58" n="18"><ruby>쟝비<rt>張飛</rt></ruby> <ruby>응락<rt>應諾</rt></ruby>고 <ruby>습젼관<rt>拾箭官</rt></ruby>으로 <ruby>일오십보<rt>一百五十步</rt></ruby> 밧게 갑옷 을 달고 <ruby>철궁<rt>鐵弓</rt></ruby>을 달희여 쏘와 맛치니 궁기 나지라</sent><!--궁^기-->
+
+<sent type="main" lang="kor" page="58" n="01"><ruby>조운<rt>趙雲</rt></ruby> <ruby>마쵸<rt>馬超</rt></ruby> <ruby>황츙<rt>黃忠</rt></ruby> <ruby>등<rt>等</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 다라 쏘와 그 궁그로 여 보거</sent>
+<sent type="main" lang="kor" page="58" n="02"><ruby>조죄<rt>曹操</rt></ruby> <ruby>분긔<rt>忿氣</rt></ruby>를 참지 못야 <ruby>졔쟝<rt>諸將</rt></ruby>을 지져 나아가 쏘라 니</sent>
+<sent type="main" lang="kor" page="58" n="03"><ruby>허져<rt>許褚</rt></ruby>ㅣ 쏘와 계우 갑옷 을 맛치고 기여 <ruby>감불의<rt>敢不生意</rt></ruby>여</sent>
+<sent type="main" lang="kor" page="58" n="04"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>관평<rt>關平</rt></ruby>으로 야금 크게 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="58" n="05"><ruby>덕<rt>孟德</rt></ruby>은 들으라</sent>
+<sent type="main" lang="kor" page="58" n="06">그 <ruby>쟝수<rt>將帥</rt></ruby>의 <ruby>조<rt>才操</rt></ruby>가 이 갓흐니 엇지 <ruby>젼쟝<rt>戰場</rt></ruby>에 나와 싸호리오</sent>
+<sent type="main" lang="kor" page="58" n="07">도라가 다시 <ruby>연습<rt>鍊習</rt></ruby> <ruby>후<rt>後</rt></ruby>에 와셔 <ruby>승부<rt>勝負</rt></ruby>를 <ruby>결<rt>結</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="58" n="08"><ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>방덕<rt>龐德</rt></ruby>을 <ruby>명<rt>命</rt></ruby>야 <ruby>옹셩<rt>應聲</rt></ruby> <ruby>답왈<rt>答曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="58" n="09">우리 <ruby>쟝<rt>壯士</rt></ruby> 이왕 <ruby>궁<rt>弓才</rt></ruby> 이긔지 못엿거니와 다시 <ruby>창법<rt>鎗法</rt></ruby>으로 <ruby>시험<rt>試驗</rt></ruby>리라</sent>
+<sent type="main" lang="kor" page="58" n="10"><ruby>공명<rt>孔明</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="58" n="11"><ruby>던<rt>孟德</rt></ruby>은 셔로 싸와 <ruby>샹<rt>傷</rt></ruby> <ruby>후<rt>後</rt></ruby>야 말고져 미뇨</sent>
+<sent type="main" lang="kor" page="58" n="12"><ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="58" n="13"><ruby>불연<rt>不然</rt></ruby>다 <ruby>량진<rt>兩陣</rt></ruby>이 셔로 조흔 으로 놀다가 엇지 <ruby>샹<rt>傷</rt></ruby>게 리오</sent>
+<sent type="main" lang="kor" page="58" n="14"><ruby>혹<rt>或</rt></ruby> 투구도 벗기며 말달이도 질너</sent>
+<sent type="main" lang="kor" page="58" n="15">이긔고 지 <ruby>증험<rt>證驗</rt></ruby>을 삼을 노라 고</sent>
+<sent type="main" lang="kor" page="58" n="16"><ruby>위진<rt>魏陣</rt></ruby>으로셔 <ruby>곽회창<rt>郭淮鎗</rt></ruby>을 들고 말게 올나 <ruby>진젼<rt>陣前</rt></ruby>에 나셔며 <ruby>조<rt>才操</rt></ruby>를 랑거</sent>
+<sent type="main" lang="kor" page="58" n="17"><ruby>진<rt>漢陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>으로셔 <ruby>조운<rt>趙雲</rt></ruby>이 <ruby>쟝창<rt>長鎗</rt></ruby>을 빗기 들고 말을 달녀 나아와 마져 싸와</sent>
+<sent type="main" lang="kor" page="58-59" n="18"><ruby>미급<rt>未及</rt></ruby> <ruby>수합<rt>數合</rt></ruby>에 <ruby>자룡<rt>子龍</rt></ruby>이 <ruby>곽회<rt>郭淮</rt></ruby>의 투구를 치고 <ruby>위진<rt>魏陣</rt></ruby>에 <ruby>돌입<rt>突入</rt></ruby>야 <ruby>좌츙우돌<rt>左衝右突</rt></ruby>니</sent><!--^치고-->
+
+<sent type="main" lang="kor" page="59" n="01"><ruby>위쟝<rt>魏將</rt></ruby>의 투구 업 <ruby><rt>者</rt></ruby> 그 <ruby>슈<rt>數</rt></ruby>를 헤지 못너라</sent>
+<sent type="main" lang="kor" page="59" n="02"><ruby>위진<rt>魏陣</rt></ruby>에서 <ruby>하후돈<rt>夏侯惇</rt></ruby>이 다라 진에 <ruby>돌입<rt>突入</rt></ruby>니 <ruby>긔치창검<rt>旗幟鎗劒</rt></ruby>은 <ruby>안<rt>眼彩</rt></ruby>에 <ruby>황홀<rt>怳忽</rt></ruby>고</sent>
+<sent type="main" lang="kor" page="59" n="03"><ruby>신쟝<rt>神將</rt></ruby> <ruby>귀졸<rt>鬼卒</rt></ruby>은 <ruby>좌우<rt>左右</rt></ruby>에 버렷스니 이 <ruby>공명<rt>孔明</rt></ruby>의 <ruby>진법<rt>陣法</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="59" n="04"><ruby>하후돈<rt>夏侯惇</rt></ruby>이 비록 <ruby>진즁<rt>陣中</rt></ruby>에 드러왓스나 <ruby>능<rt>能</rt></ruby>이 <ruby>젼진<rt>前進</rt></ruby> 길이 업셔 다만 칼을 들고 <ruby>황황<rt>慌慌</rt></ruby>더니</sent>
+<sent type="main" lang="kor" page="59" n="05"><ruby>진샹<rt>陣上</rt></ruby>으로셔 <ruby>왕평<rt>王上</rt></ruby>이 칼을 들고 다라 <ruby>하후돈<rt>夏侯惇</rt></ruby>을 마 싸와 <ruby>슈십<rt>數十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>에 이르러 <ruby>왕평<rt>王平</rt></ruby>이 <ruby>하후돈<rt>夏侯惇</rt></ruby>의 투구를 치니</sent><!--'합'은 '여합'이 되어야 함. 원문의 '여'자가 빠짐.-->
+<sent type="main" lang="kor" page="59" n="06"><ruby>하후돈<rt>夏侯惇</rt></ruby>이 쥐슘듯 <ruby>도망<rt>逃亡</rt></ruby>야 다라나지라</sent>
+<sent type="main" lang="kor" page="59" n="07"><ruby>공명<rt>孔明</rt></ruby>이 <ruby><rt>錚</rt></ruby>을 울니여 <ruby>군<rt>軍士</rt></ruby>를 거두니</sent>
+<sent type="main" lang="kor" page="59" n="08"><ruby>조죄<rt>曹操</rt></ruby>  <ruby>군<rt>軍士</rt></ruby>를 물니고 <ruby>분긔<rt>忿氣</rt></ruby>를 이긔지 못야 <ruby>허져<rt>許褚</rt></ruby>로 야금 <ruby>진젼<rt>陣前</rt></ruby>에 나셔며 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="59" n="09"><ruby>공명<rt>孔明</rt></ruby>은 <ruby>군<rt>軍士</rt></ruby>를 거두지 말나</sent>
+<sent type="main" lang="kor" page="59" n="10"><ruby>쟝슈<rt>將帥</rt></ruby>의 <ruby>조<rt>才操</rt></ruby>를 결우다가 여러 번 <ruby><rt>番對</rt></ruby> <ruby>분<rt>忿</rt></ruby> 마음이 업지 못야 한 번 다시 <ruby>조<rt>才操</rt></ruby>를 보고져 니</sent>
+<sent type="main" lang="kor" page="59" n="11"><ruby>량진<rt>兩陣</rt></ruby>에셔 <ruby>쟝슈<rt>將帥</rt></ruby> <ruby>하나식<rt>式</rt></ruby> 여 <ruby>시험<rt>試驗</rt></ruby>미 엇더뇨</sent>
+<sent type="main" lang="kor" page="59" n="12"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>응락<rt>應諾</rt></ruby>고 <ruby>졔쟝<rt>諸將</rt></ruby>을 도라 보아 가로되</sent>
+<sent type="main" lang="kor" page="59" n="13">그 <ruby>등<rt>等</rt></ruby>은 다만 <ruby>위쟝<rt>魏將</rt></ruby>의 <ruby>예그<rt>銳氣</rt></ruby>만 고</sent><!--다만 ^ 위쟝의-->
+
+<sent type="main" lang="kor" page="60" n="01"><ruby>량진<rt>兩陣</rt></ruby> <ruby>약쇽<rt>約束</rt></ruby>로  시오 뷰듸 사을 <ruby>상<rt>傷</rt></ruby>케 말나</sent>
+<sent type="main" lang="kor" page="60" n="02"><ruby>졔쟝<rt>諸將</rt></ruby>이 <ruby>청령<rt>聽令</rt></ruby>기를 맛치 <ruby>쟝비<rt>張飛</rt></ruby> <ruby>장팔모<rt>丈八蛇矛</rt></ruby>를 들고 말 올나 <ruby>진젼<rt>陣前</rt></ruby>에 나셔며 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="60" n="03"><ruby>탁군<rt>涿郡</rt></ruby> <ruby>쟝익덕<rt>張翼德</rt></ruby>이 이에 왓니 <ruby>젹<rt>對敵</rt></ruby> <ruby>장슈<rt>將帥</rt></ruby> 잇거던 니 나와오라  소</sent>
+<sent type="main" lang="kor" page="60" n="04"><ruby>텬디<rt>天地</rt></ruby> <ruby>진동<rt>震動</rt></ruby>고 <ruby>산악<rt>山岳</rt></ruby>이 문허지 듯더라</sent>
+<sent type="main" lang="kor" page="60" n="05"><ruby>허져<rt>許褚</rt></ruby>ㅣ 말을 쳐 다라 <ruby>쟝비<rt>張飛</rt></ruby>로 더부러 <ruby>슈십<rt>數十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>을 싸호더니</sent>
+<sent type="main" lang="kor" page="60" n="06"><ruby>허져<rt>許褚</rt></ruby>의 <ruby>긔운<rt>氣運</rt></ruby>이 <ruby>졈졈<rt>漸漸</rt></ruby> <ruby>쇠진<rt>衰盡</rt></ruby>야 <ruby>능<rt>能</rt></ruby>히 <ruby>젹<rt>對敵</rt></ruby>지 못고 말을 도로혀 닷거</sent>
+<sent type="main" lang="kor" page="60" n="07"><ruby>쟝비<rt>張飛</rt></ruby> <ruby>쟝팔모<rt>丈八蛇矛</rt></ruby>를 날니여 <ruby>허져<rt>許褚</rt></ruby>의 투구를 치고 <ruby>마상<rt>馬上</rt></ruby>에서 춤추며 <ruby>본진<rt>本陣</rt></ruby>으로 도라올</sent>
+<sent type="main" lang="kor" page="60" n="08"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>친<rt>親</rt></ruby>이 북을 울니며 크게 깃거야 <ruby>상쾌<rt>爽快</rt></ruby>믈 이긔지 못더라</sent>
+<sent type="main" lang="kor" page="60" n="09"><ruby>차시<rt>此時</rt></ruby> <ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>허져<rt>許褚</rt></ruby>의 <ruby>패<rt>敗</rt></ruby>야 도라오믈 보고 <ruby>종홍<rt>曹洪</rt></ruby>을 <ruby>명<rt>命</rt></ruby>야 밧비 나아가 싸호라 니</sent>
+<sent type="main" lang="kor" page="60" n="10"><ruby>조홍<rt>曹洪</rt></ruby>이 <ruby>도<rt>大刀</rt></ruby>를 들고 말을 쳐 나아오며 싸홈을 도도지라</sent>
+<sent type="main" lang="kor" page="60" n="11"><ruby>마초<rt>馬超</rt></ruby>ㅣ <ruby>졍창츌마<rt>挺鎗出馬</rt></ruby>야 마져 싸와 <ruby>오십<rt>五十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>에 <ruby>조홍<rt>曹洪</rt></ruby>이 <ruby>져당<rt>抵當</rt></ruby>치 못야 말머리를 도로혀 다라나거</sent>
+<sent type="main" lang="kor" page="60-61" n="12"><ruby>마쵸<rt>馬超</rt></ruby><ruby>ㅣ원비<rt>猿臂</rt></ruby>를 늘이여 <ruby>조홍<rt>曹洪</rt></ruby>을 사로잡아</sent><!--원비를 ^ 늘이여-->
+
+<sent type="main" lang="kor" page="61" n="01">투구를 벗기고 갑옷을 져 바리고 도라오니 <ruby>위연<rt>魏延</rt></ruby>이 내다라 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="61" n="02">내 <ruby>젹슈<rt>敵手</rt></ruby> 잇거던 니 나아오라 며 <ruby>요무양위<rt>耀武揚威</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="61" n="03"><ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>분노<rt>忿怒</rt></ruby>야 <ruby>방덕<rt>龐德</rt></ruby>을 불너 <ruby>당부<rt>當付</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="61" n="04"><ruby>쟝군<rt>將軍</rt></ruby>은 각별 <ruby>조심<rt>操心</rt></ruby>여 여러 <ruby>쟝슈<rt>將帥</rt></ruby>의 <ruby>슈치<rt>羞耻</rt></ruby>를 <ruby>신셜<rt>伸延</rt></ruby>라</sent>
+<sent type="main" lang="kor" page="61" n="05"><ruby>방덕<rt>龐德</rt></ruby>이 <ruby>응명<rt>應命</rt></ruby>고 <ruby>도<rt>大桿刀</rt></ruby>를 두르며 말을 쳐 다라 크게 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="61" n="06"><ruby>위연<rt>魏延</rt></ruby>은 나의 <ruby>젹슈<rt>敵手</rt></ruby> 아니니 도라가고 다른 <ruby>쟝슈<rt>將帥</rt></ruby> 나오라</sent>
+<sent type="main" lang="kor" page="61" n="07"><ruby>위연<rt>魏延</rt></ruby>이 <ruby>로<rt>大怒</rt></ruby>야 칼을 두르며 다라들어 <ruby>방덕<rt>龐德</rt></ruby>을 <ruby>취<rt>取</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="61" n="08"><ruby>방덕<rt>龐德</rt></ruby>이 마자 싸와 <ruby>오십<rt>五十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>에 이르 <ruby>위연<rt>魏延</rt></ruby>이 힘이 <ruby>진<rt>盡</rt></ruby>야</sent>
+<sent type="main" lang="kor" page="61" n="09"><ruby>능<rt>能</rt></ruby>히 싸호지 못고 도리키며 가마니 <ruby>철퇴<rt>鐵椎</rt></ruby>를 더져 <ruby>방덕<rt>龐德</rt></ruby>의 가을 맛치니</sent>
+<sent type="main" lang="kor" page="61" n="10"><ruby>방덕<rt>龐德</rt></ruby>이 <ruby>급<rt>急</rt></ruby>히 말을 날녀 <ruby>페<rt>避</rt></ruby>며 <ruby>로<rt>大怒</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="61" n="11">우리 <ruby>왕상<rt>王上</rt></ruby>이 이의 <ruby>공명<rt>孔明</rt></ruby>과 <ruby>약쇽<rt>約束</rt></ruby>기를 <ruby>창검<rt>鎗劒</rt></ruby>을 셔로 몸에 이지 말니라 얏거</sent>
+<sent type="main" lang="kor" page="61" n="12">네 엇지 <ruby>약쇽<rt>約束</rt></ruby>을 어긔여 나를 <ruby><rt>害</rt></ruby>코져 뇨 며</sent>
+<sent type="main" lang="kor" page="61" n="13">다시 <ruby>십<rt>十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>을 싸호더니</sent>
+<sent type="main" lang="kor" page="61" n="14"><ruby>위연<rt>魏延</rt></ruby>이 문득 칼을 니여 <ruby>방덕<rt>龐德</rt></ruby>의 말달희를 치니</sent>
+<sent type="main" lang="kor" page="61-62" n="15"><ruby>방덕<rt>龐德</rt></ruby>이 말게 여나려  <ruby>위연<rt>魏延</rt></ruby>의 말을 지르니 <ruby>연<rt>延</rt></ruby>이  말게 러지지라</sent><!--지르^니-->
+
+<sent type="main" lang="kor" page="62" n="01"><ruby>방덕<rt>龐德</rt></ruby>이 <ruby>위연<rt>魏延</rt></ruby>의 칼을 아가지고 <ruby>본진<rt>本陣</rt></ruby>으로 도라오니</sent>
+<sent type="main" lang="kor" page="62" n="02"><ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>희<rt>大喜</rt></ruby>야 <ruby>친<rt>親</rt></ruby>히 북를 들어 북을 울니며 <ruby>상쾌<rt>爽快</rt></ruby>믈 이긔 못야 <ruby>방덕<rt>龐德</rt></ruby>을 <ruby>칭찬<rt>稱讚</rt></ruby> <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="62" n="03">이제 <ruby>방장군<rt>龐將軍</rt></ruby>이 여러 <ruby>장슈<rt>將帥</rt></ruby>의 <ruby>슈치<rt>羞耻</rt></ruby>를 씨스니 내 여이 업도다 고</sent><!--'쟝슈'는 '쟝슈'가 되어야 함. 원문의 '쟝'이 '장'의 오자임.-->
+<sent type="main" lang="kor" page="62" n="04"><ruby>장합<rt>張郃</rt></ruby>을 <ruby>명<rt>命</rt></ruby>야 나가 싸호라니</sent>
+<sent type="main" lang="kor" page="62" n="05"><ruby>합<rt>郃</rt></ruby>이 <ruby>응셩<rt>應聲</rt></ruby> <ruby>츌마<rt>出馬</rt></ruby>야 <ruby>진젼<rt>陣前</rt></ruby>에 나셔며 크게 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="62" n="06"><ruby>장<rt>漢將</rt></ruby>은 니 나와 내 칼을 바드라</sent>
+<sent type="main" lang="kor" page="62" n="07"><ruby>진<rt>漢陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>으로 <ruby>관평<rt>關平</rt></ruby>이 말게 올나 칼을 춤츄며 나아오니 그 <ruby>검슐<rt>劒術</rt></ruby>이 진실노 <ruby>신긔<rt>神奇</rt></ruby>더라</sent>
+<sent type="main" lang="kor" page="62" n="08"><ruby>장합<rt>張郃</rt></ruby>이 <ruby>관평<rt>關平</rt></ruby>의 <ruby>연쇼<rt>年少</rt></ruby>믈 업슈이 여겨 <ruby>장창<rt>長鎗</rt></ruby>을 놉히 들고 다라들어 <ruby>관평<rt>關平</rt></ruby>을 <ruby>취<rt>取</rt></ruby>거</sent>
+<sent type="main" lang="kor" page="62" n="09"><ruby>평<rt>平</rt></ruby>이 마자싸와 <ruby>십<rt>四十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>에 <ruby>쟝합<rt>張郃</rt></ruby>이 <ruby>창<rt>鎗</rt></ruby>을 들어 <ruby>관평<rt>關平</rt></ruby>의 말다리를 지르거거</sent><!--'평이……지르거거'의 구절이 원문에 빠짐.-->
+<sent type="main" lang="kor" page="62" n="10"><ruby>관평<rt>關平</rt></ruby>이 칼노써 막으며  손으로 <ruby>쳘퇴<rt>鐵椎</rt></ruby>를 혀 <ruby>쟝합<rt>張郃</rt></ruby>의 투구를 맛쳐 치니</sent><!--'철퇴'는 '쳘퇴'가 되어야 함. 원문의 '철'이 '쳘'의 오자임.-->
+<sent type="main" lang="kor" page="62" n="11"><ruby>합<rt>郃</rt></ruby>이 <ruby>분노<rt>忿怒</rt></ruby>여 <ruby>창<rt>鎗</rt></ruby>을 들어 <ruby>관평<rt>關平</rt></ruby>의 투구를 지르려 거</sent>
+<sent type="main" lang="kor" page="62" n="12"><ruby>평<rt>平</rt></ruby>이 <ruby>쳘퇴<rt>鐵椎</rt></ruby>로써 막으니 <ruby>쟝합<rt>張郃</rt></ruby>의 챵 부러지며 <ruby>합<rt>郃</rt></ruby>의 팔이 <ruby>상<rt>傷</rt></ruby>지라</sent><!--'철퇴'는 '쳘퇴'가 되어야 함. 원문의 '철'이 '쳘'의 오자임.-->
+<sent type="main" lang="kor" page="62-63" n="13"><ruby>합<rt>郃</rt></ruby>이 더욱 <ruby>분노<rt>忿怒</rt></ruby>야 쥭기로 싸호려 거</sent><!--분노야 ^ 쥭기로-->
+
+<sent type="main" lang="kor" page="63" n="01"><ruby>조조<rt>曹操</rt></ruby>ㅣ <ruby>진상<rt>陣上</rt></ruby>에셔 <ruby>양장<rt>兩將</rt></ruby>의 <ruby>조<rt>才操</rt></ruby>를 보다가 <ruby>장합<rt>張郃</rt></ruby>이 <ruby>능<rt>能</rt></ruby>히 <ruby>쟝<rt>漢將</rt></ruby>을 <ruby>당<rt>當</rt></ruby>치 못 쥴 알고</sent>
+<sent type="main" lang="kor" page="63" n="02"><ruby><rt>錚</rt></ruby>을 울녀 부르니 <ruby>합<rt>郃</rt></ruby>이 <ruby>분연<rt>忿然</rt></ruby>히 도라가니라</sent>
+<sent type="main" lang="kor" page="63" n="03"><ruby>관평<rt>關平</rt></ruby>이 <ruby>의긔<rt>意氣</rt></ruby> <ruby>양양<rt>揚揚</rt></ruby>야 <ruby>본진<rt>本陣</rt></ruby>으로 도라가니</sent>
+<sent type="main" lang="kor" page="63" n="04"><ruby>조조<rt>曹操</rt></ruby> <ruby>분긔<rt>忿氣</rt></ruby>를 니긔지 못야 <ruby>조인<rt>曹仁</rt></ruby>을 <ruby>명<rt>命</rt></ruby>야 나가 싸호라 니</sent>
+<sent type="main" lang="kor" page="63" n="05"><ruby>조인<rt>曹仁</rt></ruby>이 <ruby>응셩<rt>應聲</rt></ruby> <ruby>츌마<rt>出馬</rt></ruby>야 싸홈을 도도니 <ruby>필경<rt>畢竟</rt></ruby> <ruby>승부<rt>勝負</rt></ruby> 엇지된고 <ruby>하회<rt>下回</rt></ruby>를 보와 <ruby>분회<rt>分詳</rt></ruby>라</sent>
+<sent type="title2" lang="kor" page="63" n="06"><ruby>뎨십장<rt>第十章</rt></ruby></sent>
+<sent type="main" lang="kor" page="63" n="07"><ruby>로장<rt>老將</rt></ruby> <ruby>황츙<rt>黃忠</rt></ruby>이 <ruby>조인<rt>曹仁</rt></ruby>을 <ruby>금<rt>生擒</rt></ruby>고 <ruby>진법<rt>陣法</rt></ruby>을 보고 가마니 <ruby>퇴병<rt>退兵</rt></ruby>다</sent>
+<sent type="main" lang="kor" page="63" n="08"><ruby>셜<rt>且說</rt></ruby> <ruby>조인<rt>曹仁</rt></ruby>이 <ruby>장창<rt>長鎗</rt></ruby>을 들고 <ruby>진전<rt>陣前</rt></ruby>에 나셔며 <ruby>장<rt>漢將</rt></ruby>을 불너 싸홈을 도도니</sent>
+<sent type="main" lang="kor" page="63" n="09"><ruby>진<rt>漢陣</rt></ruby> <ruby>즁<rt>中</rt></ruby>으로셔 <ruby>로장<rt>老將</rt></ruby> <ruby>황충<rt>黃忠</rt></ruby>이 <ruby>갑쥬<rt>甲冑</rt></ruby>를 갓초고 <ruby>도<rt>大刀</rt></ruby>를 들고 <ruby>슈<rt>白鬚</rt></ruby>를 니며 말을 노와 나아오니</sent>
+<sent type="main" lang="kor" page="63" n="10"><ruby>조인<rt>曹仁</rt></ruby>이 그 늘그믈 업슈히 여겨 <ruby>창<rt>鎗</rt></ruby>올 둘너 마자 싸와 <ruby>십<rt>十</rt></ruby> <ruby>여합<rt>餘合</rt></ruby>에 이르</sent>
+<sent type="main" lang="kor" page="63" n="11"><ruby>조인<rt>曹仁</rt></ruby>의 <ruby>창법<rt>鎗法</rt></ruby>이 어지러워 <ruby>실격<rt>失格</rt></ruby>미 여러 번이라</sent>
+<sent type="main" lang="kor" page="63" n="12"><ruby>능<rt>能</rt></ruby>히 <ruby>져당<rt>抵當</rt></ruby>치 못야 말머리를 도로혀 닷고져  지음에 <ruby>황츙<rt>黃忠</rt></ruby>이 <ruby>원비<rt>猿臂</rt></ruby>를 늘희여 <ruby>조인<rt>曹仁</rt></ruby>을 <ruby>금<rt>生擒</rt></ruby>야</sent>
+
+<sent type="main" lang="kor" page="64" n="01"></sent><!--영인본에서 64면이 누락되었음.-->
+
+<sent type="main" lang="kor" page="65" n="01"><ruby>약간<rt>若干</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>을 모와 <ruby>감<rt>敢</rt></ruby>이 <ruby>쳔하<rt>天下</rt></ruby>를 <ruby>희롱<rt>戱弄</rt></ruby>코져 니 가장 <ruby>용녈<rt>庸劣</rt></ruby>지라</sent>
+<sent type="main" lang="kor" page="65" n="02">네 나의 <ruby>진<rt>陣</rt></ruby><ruby>ㅅ법<rt>法</rt></ruby>을 보와 <ruby>장졸<rt>將卒</rt></ruby>을 쓰라 고 <ruby>장비<rt>張飛</rt></ruby>를 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="65" n="03">그 <ruby>흑건<rt>黑巾</rt></ruby> <ruby>흑의<rt>黑衣</rt></ruby>로 검은 말을 타고 <ruby>오<rt>五百</rt></ruby> <ruby>군<rt>軍</rt></ruby>을 거나리고</sent>
+<sent type="main" lang="kor" page="65" n="04"><ruby>남<rt>南</rt></ruby>으로 드러가 <ruby>북<rt>北</rt></ruby>으로 나오되 <ruby>여여<rt>如此如此</rt></ruby>라 고</sent>
+<sent type="main" lang="kor" page="65" n="05"> <ruby>황츙<rt>黃忠</rt></ruby>을 불너 <ruby>왈<rt>曰</rt></ruby></sent><!--'여여'의 두 번째 '여'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="65" n="06">그 <ruby>홍건<rt>紅巾</rt></ruby> <ruby>홍의<rt>紅衣</rt></ruby>에 <ruby>홍마<rt>紅馬</rt></ruby>를 타고 <ruby>오<rt>五百</rt></ruby> <ruby>군<rt>軍</rt></ruby>을 거나리고</sent>
+<sent type="main" lang="kor" page="65" n="07"><ruby>북<rt>北</rt></ruby>으로 드러가 <ruby>남<rt>南</rt></ruby>으로 나오되 <ruby>여여<rt>如此如此</rt></ruby>라 하고</sent>
+<sent type="main" lang="kor" page="65" n="08"> <ruby>마초<rt>馬超</rt></ruby>를 불너 <ruby>왈<rt>曰</rt></ruby></sent><!--'여여'의 두 번째 '여'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="65" n="09">그 <ruby>쳥건<rt>靑巾</rt></ruby> <ruby>쳥의<rt>靑衣</rt></ruby>에 푸른 말을 타고 <ruby>오<rt>五百</rt></ruby> <ruby>군<rt>軍</rt></ruby>을 거느리고</sent>
+<sent type="main" lang="kor" page="65" n="10"><ruby>셔<rt>西</rt></ruby>으로 드러가 <ruby>동<rt>東</rt></ruby>으로 나오되 <ruby>여여<rt>如此如此</rt></ruby>라 고</sent>
+<sent type="main" lang="kor" page="65" n="11"> <ruby>류봉<rt>劉封</rt></ruby>을 <ruby>불너왈<rt>曰</rt></ruby></sent><!--'여여'의 두 번째 '여'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="65" n="12">그 <ruby>건<rt>白巾</rt></ruby> <ruby>의<rt>白衣</rt></ruby>에 <ruby>마<rt>白馬</rt></ruby>를 타고</sent>
+<sent type="main" lang="kor" page="65" n="13"><ruby>동<rt>東</rt></ruby>으로 드러가 <ruby>셔<rt>西</rt></ruby>흐로 나오되 <ruby>여여<rt>如此如此</rt></ruby>라 고</sent>
+<sent type="main" lang="kor" page="65" n="14"> <ruby>조운<rt>趙雲</rt></ruby>을 불너 <ruby>왈<rt>曰</rt></ruby></sent><!--'여여'의 두 번째 '여'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="65" n="15">그 <ruby>황건<rt>黃巾</rt></ruby> <ruby>황의<rt>黃衣</rt></ruby>로 누른 말을 타고 <ruby>일쳔<rt>一千</rt></ruby> <ruby>군<rt>軍</rt></ruby>을 거나리고</sent>
+<sent type="main" lang="kor" page="65" n="16"><ruby>동남<rt>東南</rt></ruby>으로 드러가 <ruby>즁앙<rt>中央</rt></ruby>으로 나오되</sent>
+<sent type="main" lang="kor" page="65" n="17"><ruby>오방긔치<rt>五方旗幟</rt></ruby>를 거나리고 <ruby>북<rt>北</rt></ruby>을 울니며 <ruby>진퇴<rt>進退</rt></ruby>라 고</sent>
+<sent type="main" lang="kor" page="65" n="18"><ruby>왕평<rt>王平</rt></ruby>으로 여금 웨여 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="65-66" n="19"><ruby>위왕<rt>魏王</rt></ruby> <ruby>조덕<rt>曹孟德</rt></ruby>은 이 <ruby>진법<rt>陣法</rt></ruby>을 보와 알나 고</sent><!--보^와-->
+
+<sent type="main" lang="kor" page="66" n="01">긔를 두루며 <ruby>북<rt>北</rt></ruby>을 울니니 <ruby>조죠<rt>曹操</rt></ruby>ㅣ 바라보다가 <ruby>좌우<rt>左右</rt></ruby>를 도라보아 <ruby>왈<rt>曰</rt></ruby></sent><!--'울니니'의 두 번째 '니'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="66" n="02">뉘 <ruby>능<rt>能</rt></ruby>이 져 곳에 나아가 그 <ruby>진법<rt>陣法</rt></ruby>을 아  잇스면 <ruby>쳔금상<rt>千金賞</rt></ruby> <ruby>만호후<rt>萬戶侯</rt></ruby>를 <ruby>봉<rt>封</rt></ruby>리라</sent>
+<sent type="main" lang="kor" page="66" n="03"><ruby>사마의<rt>司馬懿</rt></ruby> <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="66" n="04">져 <ruby>진법<rt>陣法</rt></ruby>은 <ruby>삼오<rt>三災五行</rt></ruby>에 <ruby>사문<rt>生死門</rt></ruby>을 세우고</sent>
+<sent type="main" lang="kor" page="66" n="05">한 <ruby>텬지풍운<rt>天地風雲</rt></ruby>이 <ruby>합<rt>合</rt></ruby>야 <ruby>변화<rt>變化</rt></ruby>미 <ruby>신츌귀몰<rt>神出鬼沒</rt></ruby>니 일홈은 <ruby>긔문눈갑진<rt>奇門遁甲陣</rt></ruby>이라</sent>
+<sent type="main" lang="kor" page="66" n="06">사은 고사고 <ruby>귀신<rt>鬼神</rt></ruby>이라도 <ruby>용납<rt>容納</rt></ruby>지 못이다</sent>
+<sent type="main" lang="kor" page="66" n="07"><ruby>졍언간에<rt>正言間</rt></ruby> 물득 <ruby>진<rt>陣</rt></ruby> 가온로셔 바이 이러나며</sent><!--'바이 이러나며'의 두 번째 '이'는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="66" n="08">거문 안와 흰구름이 이러나 하에 <ruby>연<rt>連</rt></ruby>여 <ruby>살긔<rt>殺氣</rt></ruby> <ruby>츙텬<rt>衝天</rt></ruby>거</sent>
+<sent type="main" lang="kor" page="66" n="09"><ruby>조죠<rt>曹操</rt></ruby>ㅣ <ruby>경<rt>大驚</rt></ruby> <ruby>황겁<rt>慌㥘</rt></ruby>야 <ruby>급<rt>急</rt></ruby>히 <ruby>사마의<rt>司馬懿</rt></ruby>를 도라보아 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="66" n="10">져 거시 무 <ruby>긔운<rt>氣運</rt></ruby>이뇨</sent>
+<sent type="main" lang="kor" page="66" n="11"><ruby>사마의<rt>司馬懿</rt></ruby> <ruby>왈<rt>對曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="66" n="12"><ruby>공명<rt>孔明</rt></ruby>은 <ruby>텬디오<rt>天地五行</rt></ruby>을 <ruby>시각<rt>時刻</rt></ruby>에 <ruby>변화<rt>變化</rt></ruby>며 <ruby>풍운조화<rt>風雲造化</rt></ruby>를 <ruby>임의<rt>任意</rt></ruby>로 부리오니</sent>
+<sent type="main" lang="kor" page="66" n="13">그 <ruby>무궁<rt>無窮</rt></ruby> <ruby>변화<rt>變化</rt></ruby> 아지 못옵나이다</sent>
+<sent type="main" lang="kor" page="66" n="14"><ruby>조<rt>曹操</rt></ruby> <ruby>분<rt>忿</rt></ruby>한 마음을 이긔지 못야 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="66" n="15"><ruby>한<rt>漢</rt></ruby>나라 <ruby>장슈<rt>將帥</rt></ruby>는 이 <ruby>영웅<rt>英雄</rt></ruby>이오 <ruby>모사<rt>謀士</rt></ruby> <ruby>귀신<rt>鬼神</rt></ruby>도 밋지 못 사을 두엇시니</sent><!--'이'의 두 번째 ''는 원문에 재점으로 되어 있음.-->
+<sent type="main" lang="kor" page="66" n="16"><ruby>현덕<rt>玄德</rt></ruby>은 무 근심이 잇스리오</sent>
+<sent type="main" lang="kor" page="66-67" n="17"><ruby>자탄<rt>自嘆</rt></ruby>믈 마지 아니고 <ruby>사마의<rt>司馬懿</rt></ruby> 다려 <ruby>왈<rt>曰</rt></ruby></sent><!--아니^고-->
+
+<sent type="main" lang="kor" page="67" n="01">우리 <ruby>장졸<rt>將卒</rt></ruby> 노 <ruby>능<rt>能</rt></ruby>히 결울 슈 업스니</sent>
+<sent type="main" lang="kor" page="67" n="02">일즉이 도라가 이만 갓지 못도다 고</sent>
+<sent type="main" lang="kor" page="67" n="03"><ruby>즉시<rt>卽時</rt></ruby> <ruby>쟝<rt>行狀</rt></ruby>을 거두어 도라가기를 <ruby>쥰비<rt>準備</rt></ruby>더라</sent>
+<sent type="main" lang="kor" page="67" n="04"><ruby>차셜<rt>且說</rt></ruby> <ruby>공명<rt>孔明</rt></ruby>이 <ruby>션쥬<rt>先主</rt></ruby> 엿오되</sent>
+<sent type="main" lang="kor" page="67" n="05">이번에 <ruby>조죠<rt>曹操</rt></ruby>ㅣ 여러 <ruby>장슈<rt>將帥</rt></ruby>의 <ruby><rt>敗</rt></ruby>를 보고  이 <ruby>진법<rt>陣法</rt></ruby>을 본 <ruby>후<rt>後</rt></ruby> 스사로 물너 가오리니</sent>
+<sent type="main" lang="kor" page="67" n="06">다시 <ruby>긔병<rt>起兵</rt></ruby>치 못려니와 <ruby>사마의<rt>司馬懿</rt></ruby> 반다시 이 <ruby>진<rt>陣</rt></ruby> 일홈을 <ruby>초죠<rt>曹操</rt></ruby> 다려 일으리이다 하고</sent>
+<sent type="main" lang="kor" page="67" n="07">다시 <ruby>조룡<rt>趙子龍</rt></ruby>을 불너 <ruby>왈<rt>曰</rt></ruby></sent>
+<sent type="main" lang="kor" page="67" n="08">그 <ruby>군<rt>軍士</rt></ruby> <ruby>삼쳔<rt>三千</rt></ruby>을 거나리고 <ruby>미창산셩<rt>米倉山城</rt></ruby>으로 드러가</sent>
+<sent type="main" lang="kor" page="67" n="09"><ruby>복<rt>埋伏</rt></ruby>엿시면 <ruby>금야<rt>今夜</rt></ruby> <ruby>삼경<rt>三更</rt></ruby>시 후에 <ruby>조죠<rt>曹操</rt></ruby>ㅣ 반다시 그 길노 지날 거시니</sent>
+<sent type="main" lang="kor" page="67" n="10"><ruby>일시<rt>一時</rt></ruby>에 다라 <ruby>엄살<rt>掩殺</rt></ruby>면 <ruby>조죠<rt>曹操</rt></ruby> 잡지 못여도 <ruby>군긔마필<rt>軍機馬匹</rt></ruby>은 <ruby>무슈<rt>無數</rt></ruby>이 어드리라</sent>
+<sent type="main" lang="kor" page="67" n="11"><ruby>룡<rt>子龍</rt></ruby>이 <ruby>영<rt>令</rt></ruby>을 듯고 가니라</sent>
+<sent type="main" lang="kor" page="67" n="12">이 <ruby>조죄<rt>曹操</rt></ruby> 가마니 <ruby>영<rt>營寨</rt></ruby>를 쳐 밤들기를 기다려 <ruby>허도<rt>許都</rt></ruby>로 도라</sent>
+<sent type="main" lang="kor" page="67" n="13"><ruby>미창산셩<rt>米倉山城</rt></ruby>을 지나더니 문득 <ruby>화광<rt>火光</rt></ruby>이 <ruby>졉텬<rt>接天</rt></ruby>며 <ruby>복병<rt>伏兵</rt></ruby>이 <ruby>일시<rt>一時</rt></ruby>에 다라 <ruby>엄살<rt>掩殺</rt></ruby>니</sent>
+<sent type="main" lang="kor" page="67-68" n="14"><ruby>조죄<rt>曹操</rt></ruby> <ruby>경<rt>大驚</rt></ruby>여 계우 목슘을 <ruby>도망<rt>逃亡</rt></ruby>야 다라니 <ruby>위진<rt>魏陣</rt></ruby> <ruby>장졸<rt>將卒</rt></ruby>이 <ruby>자상쳔답<rt>自相踐踏</rt></ruby>야</sent><!--자상쳔답^야-->
+
+<sent type="main" lang="kor" page="68" n="01">쥭 <ruby><rt>者</rt></ruby> <ruby>부지기슈<rt>不知其數</rt></ruby>요 <ruby>기여<rt>其餘</rt></ruby> 다 <ruby>각자도<rt>各自圖生</rt></ruby>으로 <ruby>사산도쥬<rt>四散逃走</rt></ruby>니라</sent>
+<sent type="main" lang="kor" page="68" n="02"><ruby>자룡<rt>子龍</rt></ruby>이 <ruby>일진<rt>一陣</rt></ruby>을 <ruby>살<rt>大殺</rt></ruby>고 <ruby>가<rt>凱歌</rt></ruby>를 <ruby>쥬<rt>奏</rt></ruby>고 도라오니</sent>
+<sent type="main" lang="kor" page="68" n="03"><ruby>군긔마필<rt>軍機馬匹</rt></ruby> 엇은 거시 그 <ruby>슈<rt>數</rt></ruby>를 아지 못너라</sent>
+<sent type="main" lang="kor" page="68" n="04"><ruby>공명<rt>孔明</rt></ruby>이 <ruby>희<rt>大喜</rt></ruby>야 한 <ruby>영<rt>營寨</rt></ruby>를 거두어 <ruby>신야<rt>新野</rt></ruby>로 도라오니라</sent>
+<sent type="main" lang="kor" page="68" n="05">방금 편집 젹벽젼이란 은 이 보다 더 미가 잇오니</sent>
+<sent type="main" lang="kor" page="68" n="06">츌판 광고를 거든 곳 쥬문야 보시옵소셔</sent>
+<sent type="title" lang="kor" page="68" n="07">삼국풍진 산양젼 죵</sent>
+
+</doc>
+

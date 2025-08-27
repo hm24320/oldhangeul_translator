@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">철세계</title>
+<title lang="chi">鐵世界</title>
+<fullname> </fullname>
+<generalname> </generalname>
+<abbre> </abbre>
+<volume n=""/>
+<author>이해조</author>
+<date>1908</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>철세계</title>
+<pubPlace>회동서관</pubPlace><!--이 텍스트는 아세아문화사에서 1978년에 간행된 <韓國開化期文學叢書>에 실린 <철세계>를 입력한 것이다.-->
+<publisher>고유상</publisher>
+<date>1908</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>2003/09</date>
+<respStmt><resp>프로젝트 책임자</resp><name>임용기</name></respStmt>
+<item>세종21프로젝트 헤더붙임</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>23/07/04</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>23/08/03</date>
+<respStmt>
+<resp>입력자</resp><name>성우철</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+<respStmt>
+<resp>교정자</resp><name>김한별</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="kor" page="1" n="01">과학소설(科學小說) 텰세계(鐵世界)</sent>
+<sent type="title2" lang="kor" page="1" n="02">뎨일 장 하로셔 날어온 일억 오만 원</sent>
+<sent type="main" lang="kor" page="1" n="03">셕양은 염염고 만목은 울총야 슈간두옥이 은영듸</sent><!--뒤쪽의 '염'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="1" n="04">긔화이초가 산만야  압헤 가득고 셰죽념을 빗기것어 셔안이 졍졔듸</sent>
+<sent type="main" lang="kor" page="1" n="05">나이 오십여나 된 신가 슈염이 희희 고 긔골이 쥰슈며 안이 혼후야</sent>
+<sent type="main" lang="kor" page="1" n="06">심이 미목간에 은연게 뵈이니 당셰에 유명 화공이라도 그 화긔와 용을 방불히 그리기 어려올너라</sent>
+<sent type="main" lang="kor" page="1" n="07">그 신 법국 파려 의학 좌션군인 영국 발뢰돈부에 와셔 위를 연구니</sent><!--'영'과 '발뢰돈'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="1" n="08">이 집은 그 신의 슉식 려관이러라</sent>
+<sent type="main" lang="kor" page="1" n="09">이 좌션군이 리 신문  쟝을 들고 보다가 셔안에 노으며 혼말로 탄복 말이</sent>
+<sent type="main" lang="kor" page="1" n="10">이러 신문지 응당 영국 즁에도 몃 안 가리로다</sent><!--'영'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="1" n="11">그 신문은 이날 발뢰돈 위 회의에 법국 의원 좌션의 연셜을 게얏고</sent><!--'발뢰돈'과 '법'에 쌍선 밑줄, '좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="1" n="12">기외에 태오 탈란 잡라 각 신보에 다 이 연셜를 시럿시니</sent>
+<sent type="main" lang="kor" page="1-2 " n="13">이 좌션 의학가 어졔 위 회의에 (람이 엇지면 죽지 안는 술법을 엇을고)  문뎨로 연셜</sent><!--'좌션'에 단선 밑줄--><!--어졔 ^ 위-->
+
+<sent type="main" lang="kor" page="2" n="01">그 말이 졀당으로 일시 좌즁에 회원들이 졀졀탄복고</sent><!--뒤쪽의 '졀'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="2" n="02">륜돈젼도(倫敦全都) 각 신보관에 편젼니 좌션군의 명예가 일국에 굉쟝더라</sent><!--'륜돈'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="2" n="03">좌션군이 맛 각 신문을 보다가 창밧게 인젹이 거</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="2" n="04">창을 열고 보니 시가 명편  쟝을 드리며 엿오</sent>
+<sent type="main" lang="kor" page="2" n="05">엇던 손임이 션 뵈와지라 오니 쳥야 두리오릿가</sent>
+<sent type="main" lang="kor" page="2" n="06">좌션이 명편을 밧아보고 마에 의아야</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="2" n="07">이 람 날과 면분이 업 엇지야 고 며 명편을  보니 쎳시되</sent>
+<sent type="main" lang="kor" page="2" n="08">륜돈 샤 등 구십호 률 겸 공증인 가본이라 엿거</sent><!--'륜돈 샤 등'에 쌍선 밑줄, '가본'에 단선 밑줄-->
+<sent type="main" lang="kor" page="2" n="09">좌션이 더욱 의심되</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="2" n="10">더구나 률가 나를 무 일로 찾노 아모려나 마져 동졍을 보리라 고</sent>
+<sent type="main" lang="kor" page="2" n="11">시다려 손임을 드러오시게 여라</sent>
+<sent type="main" lang="kor" page="2" n="12">이 드러오 안이 온화며 졍신이 씩씩고 나히 삼십여나 되엿더라</sent><!--뒤쪽의 '씩'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="2" n="13">좌션과 례고 좌뎡 후</sent><!--'좌션'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="3" n="01">() 나는 륜돈 등에 잇 률 가본이라 오 션은 의학 좌션군이 안이시오</sent><!--'륜돈 등'과 '가본'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="3" n="02">(좌션) 그럿소</sent>
+<sent type="main" lang="kor" page="3" n="03">(가본) 그런면 션이 법랑송 좌션 씨시오</sent>
+<sent type="main" lang="kor" page="3" n="04">(좌션) 그러오</sent>
+<sent type="main" lang="kor" page="3" n="05">(가) 그러면 션이 본 디북평에 사셧나요</sent><!--'디북평'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="3" n="06">(좌) 과연 그러오</sent>
+<sent type="main" lang="kor" page="3" n="07">(가) 그런즉 존공이 애달이 좌션 씨가 안니시오</sent><!--'애달이 좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="3" n="08">(좌) 하 그러거니와 엇지야 무르시나요</sent>
+<sent type="main" lang="kor" page="3" n="09">(가) 그런즉 군의 됴부게셔도 애달이 좌션 씨라 아니오</sent><!--'애달이 좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="3" n="10">면셔 품으셔 큰  나를 여 뒤젹뒤젹더니</sent>
+<sent type="main" lang="kor" page="3" n="11">올소 존공게셔 일쳔팔오십칠년 삼월 륙일에 파려 타륜리졍 오십호에셔 하셰시지 안엇소</sent><!--'파려'와 '타륜리졍'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="3" n="12">좌션이 이 말을 듯고 놀나며  말이</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="3" n="13">손임이 우리집 일을 엇지 이갓치 자셰이 아시뇨</sent>
+<sent type="main" lang="kor" page="3" n="14">가본이 그 말 답은 안니고  뭇되</sent><!--'가본'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="4" n="01">일쳔팔구십칠년 삼월 륙일에 하셰신 좌션 씨 모친의 일홈은 가리 륜산파이인 배가 륜산파이의 이오</sent><!--'좌션'과 '가리 륜산파이'와 '배가 륜산파이'에 단선 밑줄-->
+<sent type="main" lang="kor" page="4" n="02">씨 일쳔팔십이년에 고고</sent>
+<sent type="main" lang="kor" page="4" n="03">가리 륜산파이의  오라버니 잇셔 일홈은 경극 륜파이인 뎨삼십륙 경긔 군악를 단녓소</sent><!--'가리 륜산파이'와 '경극 륜파이'에 단선 밑줄-->
+<sent type="main" lang="kor" page="4" n="04">좌션이 듯다가 악여 아모 말도 못고 우둑커니 부엉이갓치 한참 잇다가 다시 말를 붓친다</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="4" n="05">하 나는 우리 죠모 집 일을 모호야 긔억지 못오니</sent>
+<sent type="main" lang="kor" page="4" n="06">붓그러온 말이오 우리집 셰계가 엇지야 션의게 잇던지 이럿틋 소샹이 아시니</sent>
+<sent type="main" lang="kor" page="4" n="07"> 마음이 엇더타  길 업소</sent>
+<sent type="main" lang="kor" page="4" n="08">(가본) 군의 다른 형뎨 간 누가  잇소</sent>
+<sent type="main" lang="kor" page="4" n="09">좌션이 슯흔 긔을 이며</sent>
+<sent type="main" lang="kor" page="4" n="10">> 아오 아 잇더니 불야 일직 죽고 이제 우리 부모 혈육은 나 하나이요</sent>
+<sent type="main" lang="kor" page="4" n="11">가본이 허허 우시며 일변 쥬인의 비회를 위로 겸 조롱 격으로 말을 다</sent><!--'가본'에 단선 밑줄--><!--뒤쪽의 '허'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="4" n="12">허허 그가 후작으로 각하를 밧치리로다</sent><!--뒤쪽의 '허'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="4" n="13">좌션이 이 말을 듯고 더욱 알 길 업셔 물그럼이 의 모양만 보며</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="4-5" n="14">속종으로 뎌 손이 아마 광질이 잇 보다 엇지 그리 괴이 말을 노 면서 겻눈질여 손을 보니</sent><!--보^니-->
+
+<sent type="main" lang="kor" page="5" n="01">가본이 그 눈치을 알엇던지 허허 우시며  말이라</sent><!--'가본'에 단선 밑줄--><!--뒤쪽의 '허'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="5" n="02">그러커니 그 응당 오날 쳥치 안닌 손이 와셔 이런 말  줄 몰낫스리니</sent>
+<sent type="main" lang="kor" page="5" n="03">날다려 필연 광질잇다 리로다</sent>
+<sent type="main" lang="kor" page="5" n="04">그러 각하가 몰낫지 후도 엇으려니와 </sent>
+<sent type="main" lang="kor" page="5" n="05"> 일억 오만 원 산을 엇겟시니 엇더뇨</sent>
+<sent type="main" lang="kor" page="5" n="06">(좌션) 션은 무 말이 죵죵 이러시뇨</sent><!--뒤쪽의 '죵'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="5" n="07">(가본)  각하를 위야 일쟝 력을 말리다</sent>
+<sent type="main" lang="kor" page="5" n="08">각하의 조모 가리 륜산파이의 오라버니 경극 씨가 삼십륙 경긔 군악를 단일 젹에 오 린도에셔 사</sent><!--'가리 륜파이'와 '경극'에 단선 밑줄, '린도'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="5" n="09">그 디방 묵위랍에 과부와 결혼여 살다가</sent><!--'묵위랍'에 단선 밑줄-->
+<sent type="main" lang="kor" page="5" n="10">그 과부가 즉시 죽고 일졀 산 집물를 경극 씨가 가지고 잇더니</sent><!--'경극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="5" n="11">그 후에 경극 씨가  도산에 도라가고 가산은 의례히 그 아들이 지 터인</sent><!--'경'에 단선 밑줄-->
+<sent type="main" lang="kor" page="5" n="12">그 아  어려셔 죽고 이 이 디방은 우리 영국이 뎜령 고로</sent><!--'영'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="5" n="13">그 산을 영국 졍부에셔 잠시 보관야 그 임의 졍통 혈속을 기다리</sent><!--'영'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="5" n="14">당초에 산 슈은 이천오만 원일너니</sent>
+<sent type="main" lang="kor" page="5" n="15">지금 삼십여 년에 리를 합계야 일억오만 원이 되얏고</sent>
+<sent type="main" lang="kor" page="5" n="16">몸이 법률 회에 인 고로 결을이 업셧고</sent>
+<sent type="main" lang="kor" page="5" n="17">가  이 산을 간셥야 조곰 슈구롬을 도라보지 안니고 졍통 혈속을 지려 되</sent>
+<sent type="main" lang="kor" page="5" n="18">을 널니 노아 진심 갈력야 륜파이의 셰계를 엇더스나</sent><!--'륜파이'에 단선 밑줄-->
+<sent type="main" lang="kor" page="5-6" n="19"> 몃에 이 혈속을 찻되  도 존 이 업고</sent><!--존 ^ 이 업고-->
+
+<sent type="main" lang="kor" page="6" n="01">속졀업시 일억 오만 원을 국고에 잠겨두고 다시 식리지 못니</sent>
+<sent type="main" lang="kor" page="6" n="02">엇지 가셕지 안으리오</sent>
+<sent type="main" lang="kor" page="6" n="03">일젼에 우연히 신문지를 보다가 좌션 씨의 련셜이 잇스</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="6" n="04">존명을 알고 이곳에 특히 찻져 왓더니 과연 각하를 맛낫도다</sent>
+<sent type="main" lang="kor" page="6" n="05">이 묵위랍의 후작과 일억 오만 원 산을 각하가 아니 가지고 뉘게 가리오</sent><!--'묵위랍'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="6" n="06">각하를 위야 만만치하거니와</sent><!--뒤쪽의 '만'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="6" n="07">각하ㅣ 이졔 쓸 일이 잇스면 곳 본부 은에 수쳔만 원이 현니 마음로 츄심 것시오</sent>
+<sent type="main" lang="kor" page="6" n="08">가 조 업시 다년 보관얏스니</sent>
+<sent type="main" lang="kor" page="6" n="09">각하가 뭇 말이 잇스면 가  셰셰히 고리니</sent><!--뒤쪽의 '셰'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="6" n="10">각하는 그리 아시오</sent>
+<sent type="main" lang="kor" page="6" n="11">가본이 말을 맛치 좌션이 답 바를 모로고 침음다가</sent><!--'가본'과 '좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="6" n="12">심두에 말이 막혀 아모 말도 못더라</sent>
+<sent type="title2" lang="kor" page="6" n="13">뎨이 쟝 장슈촌(長壽村) 리샹(理想)</sent>
+<sent type="main" lang="kor" page="6" n="14">가본이 좌션을 찻져 산을 젼 지 나흘 만에</sent><!--'가본'과 '좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="6" n="15">좌션이 그 소친 마극의게 편지를 얏</sent><!--'좌션'과 '마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="6" n="16">마극 족하여 복이 발뢰돈에 와셔 위 회의에 참예 일를 족하ㅣ 응당 신문을 보아 알엇시려니와</sent>
+<sent type="main" lang="kor" page="6" n="17">근일에  가지 놀날 만 일이 잇셔</sent>
+<sent type="main" lang="kor" page="6" n="18">족하와 지졍 간이기로 이갓치 젼위여 한징글로 고노라</sent><!--'로 이갓'에 단선 밑줄-->
+<sent type="main" lang="kor" page="6" n="19">복이 의외에 린도 후작과 일억 오만 원 산을 엇어니 </sent>
+<sent type="main" lang="kor" page="6-7" n="20">복이 외가 혈속으로 이 물을 당연히 차지 바라도 가위 하이 쥬심이라</sent><!--가위 ^ 하이-->
+
+<sent type="main" lang="kor" page="7" n="01">그러나 일로 말아  일신의 교만과 치를 길으면 나의 본심을 억의 바오</sent>
+<sent type="main" lang="kor" page="7" n="02"> 하에 득죄가 두려노니</sent>
+<sent type="main" lang="kor" page="7" n="03">이럼으로 복이 쥬소촌탁야 이 일억 오만 원 물을 셰계 동포와 함가지 그리를 누리고</sent>
+<sent type="main" lang="kor" page="7" n="04">한 의 기욕을 오지 안코져 노니</sent>
+<sent type="main" lang="kor" page="7" n="05">이러면 족하도 응당 아다이 녁일지라도</sent>
+<sent type="main" lang="kor" page="7" n="06">복이 각건 이갓튼 산을 엇음은 실로 발뢰돈 위 회의를 말암인즉</sent><!--'발뢰돈'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="7" n="07">이 쳐지 도 맛당히 나의 직분을 직혀 잘 쓸지라</sent>
+<sent type="main" lang="kor" page="7" n="08">슈일 사이에 쳐쳐에 젼파고 인인이 헌젼되</sent><!--'쳐쳐에'에서 뒤쪽의 '쳐'와 '인인이'에서 뒤쪽의 '인'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="7" n="09">발뢰돈에 련셜든 법국 의학는 거을 횡얏다 고</sent><!--'발뢰돈'에 단선 밑줄-->
+<sent type="main" lang="kor" page="7" n="10">모다 불어며 싀긔야 평일 반분 지면  람이라도 닷토아 와셔 토쥬토식야</sent>
+<sent type="main" lang="kor" page="7" n="11">기악과 연이 밤낫으로 지 아니니</sent>
+<sent type="main" lang="kor" page="7" n="12">이 슈응기에 실로 귀치 안은지라</sent>
+<sent type="main" lang="kor" page="7" n="13">복이 쟝 이 산으로 인야 그 노예가 될지니</sent>
+<sent type="main" lang="kor" page="7" n="14">이럼으로 부득불 한 계을 여 셰샹 의 의혹을 풀고</sent><!--'의혹을'의 '의'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="7" n="15">나의 쳥 몸을 돌녀 옹(塞翁)이 의외에 말을 엇어 도로혀 앙됨을 증계코져 하야</sent>
+<sent type="main" lang="kor" page="7" n="16">어졔 밤 위 회의에 이 을 연셜야 회원의 찬셩을 구엿시</sent>
+<sent type="main" lang="kor" page="7" n="17">복의 일인으로 조쳐 방침을 독단키 어려운지라</sent>
+<sent type="main" lang="kor" page="7" n="18">그윽히 각건 족하 나와 이 갓흐니</sent>
+<sent type="main" lang="kor" page="7" n="19">나의 오날 이 조쳐을 알면 응당 깃거야 크게 챤셩리라 </sent>
+<sent type="main" lang="kor" page="7" n="20">어졔 밤 련셜 일 통을 긔록야 좌우에 밧치노니</sent>
+<sent type="main" lang="kor" page="7" n="21">바라건 거두어 감고  간졀히 샹의 일이 잇노라</sent>
+
+<sent type="main" lang="kor" page="8" n="01">쓰기를 다고  작야에 연셜 젼문을 로 젹엇더라</sent>
+<sent type="main" lang="kor" page="8" n="02">졔군 졔군아 복이 이번 하에셔 나려온 일억 오만 원을 엇으니 실로 몽 밧기라</sent>
+<sent type="main" lang="kor" page="8" n="03">복이 륜산파이의 일졈 혈이 잇슴으로 샤회 법률이 나의 차지을 허락되</sent>
+<sent type="main" lang="kor" page="8" n="04"> 스로 각건 못 불안노라</sent>
+<sent type="main" lang="kor" page="8" n="05">(쳥즁이 모다  말 아니오 아니오)</sent>
+<sent type="main" lang="kor" page="8" n="06">이럼으로  한 묘법을 각여 이 거의 물를 쳐치되</sent>
+<sent type="main" lang="kor" page="8" n="07"> 일신의 졔일 공평고 졔일 졍대고 졔일 셰계 즁을 보졔 일에 유익코져 노니</sent>
+<sent type="main" lang="kor" page="8" n="08">거의 늘이 내게 위탁심괴 나을 더욱 도으심을 져바리지 안아</sent>
+<sent type="main" lang="kor" page="8" n="09">이 물를 헛도히 낭비지 안이자 오</sent>
+<sent type="main" lang="kor" page="8" n="10">(여러이 다  말 드릅시다)</sent>
+<sent type="main" lang="kor" page="8" n="11">가 일신의 가쟝 젹당고 가쟝 합의 바는 나의 본분 의샹의 쓰 것이 엇덧소</sent>
+<sent type="main" lang="kor" page="8" n="12">(쳥즁이 다 좃소 좃소)</sent>
+<sent type="main" lang="kor" page="8" n="13">졔군네 근일 호젹 통계의 조샤 바 우리 인류가 평균 삼십이 셰를 사</sent>
+<sent type="main" lang="kor" page="8" n="14"> 십분면 겨오 칠분을 산다니</sent>
+<sent type="main" lang="kor" page="8" n="15">이갓치 삼십이 셰 십분 칠을 샤 것이 과연 죠물이 우리 인류의 가쟝 긴 명을 쥬엇소</sent>
+<sent type="main" lang="kor" page="8" n="16">만일 우리 인류가 평균 삼십이 셰 십분 칠의셔 일분이라도 조곰 더 살면 쳔의를 억의인다 릿가</sent>
+<sent type="main" lang="kor" page="8" n="17">나 결단코 그러치 안타 오</sent>
+<sent type="main" lang="kor" page="8" n="18">대뎌 인류가 양슐를 엇으면  셰도 살고 혹 이 셰도 사 쟈가 고로 만코</sent>
+<sent type="main" lang="kor" page="8" n="19"> 슈를  셰 이샹 샤 은 양 졍신이 확삭고 신톄가 건강야</sent>
+<sent type="main" lang="kor" page="8" n="20">몹실 질병과 곤란 이 그 몸에 침로치 안니</sent>
+<sent type="main" lang="kor" page="8-9" n="21">그런즉 죠물이 이런  쟝슈 것을 미워지 안키는 고사고</sent><!--미워^지-->
+
+<sent type="main" lang="kor" page="9" n="01">복을 더 쥬어 가며 쟝수 것을 포쟝 오</sent>
+<sent type="main" lang="kor" page="9" n="02">(여러이 다 손바닥을 친다)</sent>
+<sent type="main" lang="kor" page="9" n="03">이 셰계에  년 이 년 존 몸이 근근히 삼십이 셰 십분 칠의 른 시간으로 일을 어 보고</sent><!--뒤쪽의 '근'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="9" n="04"> 이 몃  동안에 질병 우환 비고 졔반 악증을 지니</sent>
+<sent type="main" lang="kor" page="9" n="05">그 연고 무 인고 면 활의 도를 엇지 못야 신쳬 셥양 방법을 모로 이요</sent>
+<sent type="main" lang="kor" page="9" n="06">(여러니 다 올소 올소)</sent>
+<sent type="main" lang="kor" page="9" n="07">가 죠 업시 의학에 종지 다년이라 반의 졍력이 여긔 다 허비고</sent>
+<sent type="main" lang="kor" page="9" n="08">위의 도를 입이 타고 혀가 말으도록 짓거리기를 몃쳔 번 만 번이로되</sent>
+<sent type="main" lang="kor" page="9" n="09">진졍으로 말를 밋어 셥양을 젹합게  을 못 보앗소</sent>
+<sent type="main" lang="kor" page="9" n="10">(이 듯 쟈가 다 통탄 모양이라)</sent>
+<sent type="main" lang="kor" page="9" n="11">이 리에 밝지 못은 목젼에 실험을 못 보아 그러이니</sent>
+<sent type="main" lang="kor" page="9" n="12">만일 현져 증험을 보면 반다시 결뎡 셩질이 북로 북을 치면 소리나 것갓치 를지라</sent>
+<sent type="main" lang="kor" page="9" n="13">가 양 병인을 대야 의식과 거쳐을 의론고</sent>
+<sent type="main" lang="kor" page="9" n="14">항상 걱졍야 엇지면 하이 나를 도아 약간만의 산을 쥬시면</sent>
+<sent type="main" lang="kor" page="9" n="15"> 만음로 나의 학슐로 경륜 바 큰 집을 짓고 의복과 식물을 졍결히 야</sent>
+<sent type="main" lang="kor" page="9" n="16">수쳔만 인이  경륜 일편토에셔 거쳐야</sent>
+<sent type="main" lang="kor" page="9" n="17">신발명 의식쥬에 먹고 입고 고여 무량 수를 누리게 고 야</sent>
+<sent type="main" lang="kor" page="9" n="18">이 마음이 뢰슈에 박힌 지 여러 로되  번도 실험 날이 업신즉</sent>
+<sent type="main" lang="kor" page="9" n="19">바다 우의 연긔갓치 공즁에 루각갓치 잡을 모가 업더니</sent>
+<sent type="main" lang="kor" page="9-10" n="20">의외에 일억 오만 원이 겨  장 즁에 드러왓시니</sent><!-- ^ 장-->
+
+<sent type="main" lang="kor" page="10" n="01">몃 을 고심경영든 목젹을 달고</sent>
+<sent type="main" lang="kor" page="10" n="02">몽즁갓치 망샹든 큰 집과 의식쥬 개량 방침이 인졔 셩를 겟쇼</sent>
+<sent type="main" lang="kor" page="10" n="03">(일시에 만장이 들며 곰압소 장오)</sent>
+<sent type="main" lang="kor" page="10" n="04">그런즉 우리 인류 거쳐 곳을 갈히여</sent>
+<sent type="main" lang="kor" page="10" n="05">몹실 병이 류젼치 안코 풍토 긔후가 젹 곳 아미리의 셔안이 쳔하에 뎨일이니</sent><!--'아미리'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="10" n="06">그곳에다 나의 젹년 뢰슈 즁에 그린 바 본보기 동리을 로 셜시 오</sent>
+<sent type="main" lang="kor" page="10" n="07">(만좌가 환히야 우리 의학샤 만셰)</sent>
+<sent type="main" lang="kor" page="10" n="08">이 연셜을 당시에 각 회원이 모도 찬셩고</sent>
+<sent type="main" lang="kor" page="10" n="09"> 륜돈 의학 협회에셔 이 말를 듯고</sent><!--'륜돈'에 단선 밑줄-->
+<sent type="main" lang="kor" page="10" n="10">셰계 인류와 의학 회에 단히 유죠다 야 포장을 엇던노라</sent>
+<sent type="main" lang="kor" page="10" n="11">그러나 장수촌을 로 짓 일이 대단히 심력을 허비지니</sent>
+<sent type="main" lang="kor" page="10" n="12">쳥컨 속히 쟝을 려 나와 아미리에 가기를 노라</sent><!--'아미리'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="10" n="13">좌젼이 쓰기을 다 야 봉투에 너코 것면에 쓰되</sent>
+<sent type="main" lang="kor" page="10" n="14">법란셔 파려 부셰 셰리졍 삼십이 호 고등 기예 학교</sent><!--'법란셔'와 '파려 부셰 셰리졍'에 쌍선 밑줄--><!--'셰리졍'의 '셰'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="10" n="15">마극 포 션 계라 여 우톄통에 너엇더니</sent><!--'마극 포밍'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="10" n="16">이날 밤 십 졈 죵에 파려 우쳬국에 이르러 마극의 집으로 보엿더라</sent><!--'파려'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="10" n="17">마극이 원 아이사 으로 나히 열두 에 죠실부모고</sent><!--'아이사'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="10" n="18">도회 학교에 드러가 심샹 교육과를 공부고</sent>
+<sent type="main" lang="kor" page="10" n="19">략간 부모 유산이 잇시나 강건지족이 업고</sent>
+<sent type="main" lang="kor" page="10" n="20">법덕 젼에 덕국병이 파려를 에우거</sent><!--'법덕'의 '법'과 '덕', '덕국병'의 덕', '파려'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="10" n="21">마극이 파려 부즁에 잇다가 동학 졔인으로 의용를 조직야 덕병과 졉젼다가</sent><!--'마극'에 단선 밑줄, '파려'와 '덕'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="10-11" n="22">좌슈에 창을 마져 병원에 드러가니</sent><!--병^원에-->
+
+<sent type="main" lang="kor" page="11" n="01">이 좌션은 병원에 직원이라</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="11" n="02">마극이 어린 셔으로 용긔 비야 창포를 무릅쓰고 죽기를 앗기지 아니야</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="11" n="03">츙의가 을 감동는지라</sent>
+<sent type="main" lang="kor" page="11" n="04">좌션이 마극의 이러을 보고 긔특이 녁여 극진히 치료야 즉시 나앗더라</sent><!--'좌션'과 '마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="11" n="05">얼마 아니야 법덕이 협약고</sent><!--'법'과 '덕'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="11" n="06">마극이 병이 나아 병원에셔 나와 보니</sent>
+<sent type="main" lang="kor" page="11" n="07">젼일 쟝든 아이사 고향은 덕국인이 뎜녕지라</sent><!--'아이사'와 '덕'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="11" n="08">파국 산하에 풀과 나무 알미 업셔 의구히 동풍에 츈을 엿시나</sent>
+<sent type="main" lang="kor" page="11" n="09">마극은 망국의 셩이 되야 고국의 남은 터를 샹심고 고향에 도라갈 마음이 업지라</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="11" n="10">마극의 졍이 그러고 혈혈단신이 의탁  업스며</sent><!--뒤쪽의 '혈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="11" n="11">좌션이 역시 고독야 다른 친쳐이 업고 병원에셔 마극의 츙의를 감격엿더니</sent>
+<sent type="main" lang="kor" page="11" n="12"> 마극의 질이 춍민을 보고 더욱 랑야 집에 두고 여러가지 과학을 교육니</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="11" n="13">리과와 산슐 등에 졍심야 다른 학원들이 로지 못더라</sent>
+<sent type="main" lang="kor" page="11" n="14">좌션과 마극이 졍셰셔로 단혈야 피 골육갓치 지다가</sent><!--'좌션'과 '마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="11" n="15">좌션은 영국 발뢰돈으로 오고 마극은 본국에 잇셔</sent><!--'좌션'과 '마극'에 단선 밑줄, '영'과 '발뢰돈'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="11" n="16">이 좌션의 편지를 보앗더라</sent><!--'좌션'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="12" n="01">그 편지와 연셜 젼문이 일시에  젼파되야 로 밤에 뎐보가 구라파 각국에 퍼지고</sent><!--'구라파'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="12" n="02">잇튼날 덕문으로 번역야 사돈 신문지에 올으더니</sent><!--'덕'과 '사돈'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="12" n="03">밧게  이 닷넌다</sent>
+<sent type="title2" lang="kor" page="12" n="04">뎨삼 쟝 일이만 삼림 즁의셔 괴물 하나이 여 나온다</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="12" n="05">즁부 일이만 야라부 대학 교수 화학 인비라  쟈이 잇스니</sent><!--'중부'와 '일이만'과 '야라부'에 쌍선 밑줄, '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="12" n="06">신톄졀대고 슈족이 츄악며 억를 읏슥면 가 옷슨 솟고</sent>
+<sent type="main" lang="kor" page="12" n="07">눈을 불읍면 불덩이가 도 듯야</sent>
+<sent type="main" lang="kor" page="12" n="08">아모 이던지  번 보면 뢰수에 못쳐 밤이면 가위 눌녀 을 못잔다  위인이라</sent>
+<sent type="main" lang="kor" page="12" n="09">이 맛 하인이 사돈 신문지와 셔함 두셕 쟝을 드리거</sent>
+<sent type="main" lang="kor" page="12" n="10">인비가 벽상에 걸닌 황금 시죵을 거들 보더니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="12" n="11">오 우편이 엇지야 더듼고 오후에 부친 우신이 의례히 여셧 졈 삼십 분이면  집에 오</sent>
+<sent type="main" lang="kor" page="12" n="12">시방 여셧 졈 오십오 분이나 되엿시니 무 인고</sent>
+<sent type="main" lang="kor" page="12" n="13">후 여셧 졈 삼십 분에 신문과 셔찰을 셔안에 두지 못거든 압헤 다시 뵈이지 말어라 면셔</sent>
+<sent type="main" lang="kor" page="12" n="14">눈을 흘기고 하인을 보니</sent>
+<sent type="main" lang="kor" page="12" n="15">하인은 졔 죄가 잇시나 업시나 인비의 눈 흙기 셔슬에 황겁야</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="12" n="16">아모 말도 못다가 겨오 입을 여 얼벙어리 말로</sent>
+<sent type="main" lang="kor" page="12" n="17">쥬인 져녁 진지… 안 스시…</sent>
+
+<sent type="main" lang="kor" page="13" n="01">인비  짓다</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="13" n="02"> 항상 일곱 졈에 셕반을 먹 아즉 사 분 삼십 쵸가 남엇시니</sent>
+<sent type="main" lang="kor" page="13" n="03">네가  집에 잇슨 지 삼 쥬일이 되엿</sent>
+<sent type="main" lang="kor" page="13" n="04">날마다 보 일을  몰나셔 이런 잔말을 느냐 큼 물너 가거라 고</sent>
+<sent type="main" lang="kor" page="13" n="05">신문과 셔은 보지도 안코 붓을 여 글초 하나를 다</sent>
+<sent type="main" lang="kor" page="13" n="06">그 글쵸 일 츌판 리학 협회에 잡지 론셜 쵸니</sent>
+<sent type="main" lang="kor" page="13" n="07">(법국 의  리상 긔운은 죠상으로부터 류젼독의셔 나 라)</sent><!--'법'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="13" n="08">글졔를 고 여덝 쥴을 쓰고 아훕 쥴 쳣를 쓰</sent>
+<sent type="main" lang="kor" page="13" n="09">벽상에 죵소리  일굽 점을 치니 붓을 더지고 식당으로 드러가더라</sent><!--뒤쪽의 ''은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="13" n="10">인비 밥을 먹고 다시 글초를 맛쳐</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="13" n="11"> 화 인비라 쓰고 보니 졍이 십이 졈 오분 죵이라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="13" n="12">이에 인비가 의를 난로 겻 온겨 노코 신문을 본다</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="13" n="13">신문 제일 면 광고로부터 이 면 삼 면을 레로 보다가</sent>
+<sent type="main" lang="kor" page="13" n="14">홀연 눈을 로 고  곳에만 졍신이 들어</sent>
+<sent type="main" lang="kor" page="13" n="15"> 번 보고 두 번 보고 셰 번 네 번 열 번  번이 되도록</sent>
+<sent type="main" lang="kor" page="13" n="16">눈동가 신문에 박엿지 신문이 눈동에 씨엿지 져도 졍신 모로고 혼말로</sent>
+
+<sent type="main" lang="kor" page="14" n="01">륜산파이 륜산파이 륜산파이</sent><!--'륜산파이'에 모두 쌍선 밑줄-->
+<sent type="main" lang="kor" page="14" n="02">몃 번 다가 의에 몸을 의지야 눈을 감고  다가</sent>
+<sent type="main" lang="kor" page="14" n="03">다시 이러며 벽상에  소년 부인의 화샹을 려보니</sent>
+<sent type="main" lang="kor" page="14" n="04">몬지가 가득여 글도 아니 뵈이니</sent>
+<sent type="main" lang="kor" page="14" n="05">그  인비 마음에 급 법이 화샹은 뉘 화샹이던지 글만 는다</sent>
+<sent type="main" lang="kor" page="14" n="06">로 입은 후록 고투 쇼로 몬지를 툭툭 터러 불빗헤 밧삭 드려이고 본다</sent><!--뒤쪽의 '툭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="07">탈란 인비 부인 본셩은 륜산파이 일쳔칠구십이 년 에셔라 엿거</sent><!--'탈란 인비'와 '륜산파이'에 단선 밑줄-->
+<sent type="main" lang="kor" page="14" n="08">도로 거러두고 이튼날 벽에 야나부에셔 륜돈으로 가 급 화거를 타고</sent><!--'야나부'와 '륜돈'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="14" n="09">바로 가본의 집을 차자 가더라</sent><!--'가본'에 단선 밑줄-->
+<sent type="main" lang="kor" page="14" n="10">인비 속으로 가본의 집을 향고 가</sent><!--'인비'와 '가본'에 단선 밑줄-->
+<sent type="main" lang="kor" page="14" n="11">다른  보기 무 일로 어로 가지 인비의 이 황황 것만 보앗더라</sent><!--'인비'에 단선 밑줄--><!--뒤쪽의 '황'은 재점으로 표기되어 있음-->
+<sent type="title2" lang="kor" page="14" n="12">뎨 장 살손 인죵과 라젼 인죵</sent><!--'살손'과 '라젼'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="14" n="13">인비가 바로 가본의 집으로 가 가본을 보고</sent><!--'인비'와 '가본'에 단선 밑줄-->
+<sent type="main" lang="kor" page="14" n="14">인  마 업시 곳 질문  번을 톡톡히  모양이라</sent><!--뒤쪽의 '톡'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="14" n="15">인비 나는 륜산파이 탈란 부인의 손오 탈란 부인은 즉 경극 씨 맛누의신</sent><!--'인비'와 '륜산파이'와 '탈란'과 '경극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="14" n="16">이졔 그 유산을 엇엇다  쇼위 법국 의학 좌션의 죠모 경극 씨의 근 씨라</sent><!--'법'에 쌍선 밑줄, '좌션'과 '경극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="14-15" n="17">우리 죠모 탈란 부인이 일쳔칠구십이 년에 우리 죠부 묵이경의 부인이 되시고</sent><!--부인^이 되시고--><!--'탈란'과 '묵이경'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="15" n="01">경극 씨와 우리 죠모 시에 왕복 셔 셕 쟝이  집에 잇스니 증거가 명확지라</sent>
+<sent type="main" lang="kor" page="15" n="02">경극 씨가 계 좌션에게 동시 진외 죵죠로</sent><!--'경극'과 '좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="15" n="03">우리 죠모 쟝녀가 되시고 좌션의 죠모 녀가 되니 친속은 피 일반이</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="15" n="04">쟝유로 말면 나의 집이 맛이 되니 엇지하야 그 유산을 좌션이 가지리오</sent><!--'좌션'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="15" n="05">그는 질셔를 문란케 말고 일억오만 원을 도로 져 게 돌녀 보라 면셔</sent>
+<sent type="main" lang="kor" page="15" n="06">얼굴이 불으락 푸으락 며 슘이 턱에 닷지 씩씩거리니</sent>
+<sent type="main" lang="kor" page="15" n="07">가본이 어히 업셔 젼후 말을 다 고  일으되</sent><!--'가본'에 단선 밑줄-->
+<sent type="main" lang="kor" page="15" n="08">좌션이 임의이 물을 밧엇시니 필연 무단이 앗기지 안니리라 나</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="15" n="09">인비 고집여</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="15" n="10">졍소 판가지 지라도 이 물를 찻지 못면 셰코 도라가지 안니리라 고</sent>
+<sent type="main" lang="kor" page="15" n="11">좌션은 이 물를 혼 쓰지 안코 일단 심으로 발셔 조인광 좌즁에 션포야 도로에 파다고</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="15" n="12">원건에 류전야 무인부지라 일죠에 졸연히 상는  잇쓰니</sent>
+<sent type="main" lang="kor" page="15" n="13">사이 혹 나더러 모칭얏다 면 엇지 명예에 손상치 안으리요 야</sent>
+<sent type="main" lang="kor" page="15" n="14">양인이 상지 가본이 좌지우지기 어려와 무한 근심더니</sent><!--'가본'에 단선 밑줄-->
+<sent type="main" lang="kor" page="15" n="15">그 일억오만 원 맛흔 은 총리가 이 말를 듯고 맛 귀결 날이 업실가 야</sent>
+<sent type="main" lang="kor" page="15" n="16">몬져 좌션을 보고 이로되</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="15" n="17"> 일젼에 군의 련셜를 드럿거니와</sent>
+<sent type="main" lang="kor" page="15-16" n="18">이갓치 거대 산을 군이 홀노 쓰지 안코</sent><!--산을 ^ 군이-->
+
+<sent type="main" lang="kor" page="16" n="01">쟝 인류의 슈명을 연쟝  쓰려 니</sent>
+<sent type="main" lang="kor" page="16" n="02">그 셩을 뉘 아니 옹츅리오</sent>
+<sent type="main" lang="kor" page="16" n="03">이졔 난업 일이만 춍림 즁에  괴물이 다라 군과 상지려 니</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="16" n="04">군의 의향은 졍쇼 판면 죵당 득송겟시나</sent>
+<sent type="main" lang="kor" page="16" n="05">유유 셰월에 귀결이 묘연고 인 수십 년 광음을 랑비리니</sent><!--뒤쪽의 '유'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="16" n="06">이 가 젼감이 잇노라</sent>
+<sent type="main" lang="kor" page="16" n="07">륜돈에 만 원 유산을 양죠 대변야 삼십구 년을 미결다가</sent><!--'륜돈'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="16" n="08">급기 판이 귀뎡되야 필경  이 지 일이 잇스나</sent>
+<sent type="main" lang="kor" page="16" n="09">져간에 왕 로비와 옥바라지며 각쳐 졍비 쳥젼에 만 원이 다 녹아 필경 부족되고</sent>
+<sent type="main" lang="kor" page="16" n="10"> 집은 셰궁력진야 탕고 말앗스니</sent>
+<sent type="main" lang="kor" page="16" n="11">이런 송가 십 년 이십 년 기 예로 아지라</sent>
+<sent type="main" lang="kor" page="16" n="12">군이 만일 괴물과 샹지다가 쳔연 셰월야 군이 셰를 향슈지라도</sent>
+<sent type="main" lang="kor" page="16" n="13">평 고심연구던 의학은 효력이 업슬지라</sent>
+<sent type="main" lang="kor" page="16" n="14">긔위 군의 조모와 져의 조모가 형뎌간이라 니</sent>
+<sent type="main" lang="kor" page="16" n="15"> 우견은 이 산을 난호아 오쳔만 원식 가지고</sent>
+<sent type="main" lang="kor" page="16" n="16">남져지 오만 원은 다년이 일에 딘심든 가본 씨를 쥬어 슈공이나 면 엇더뇨</sent><!--'가본'에 단선 밑줄-->
+<sent type="main" lang="kor" page="16" n="17">군의 젼일 발론 쟝슈촌 건츅 에 오쳔만 원이 부족나</sent>
+<sent type="main" lang="kor" page="16" n="18">만일 판곳 시작면 이것좃 업셔지리니</sent>
+<sent type="main" lang="kor" page="16" n="19">쟝슈촌이 그림에 이 아니 되쇼</sent>
+<sent type="main" lang="kor" page="16" n="20">(좌션) 내 무단이 횡야 엇지 탐심이 잇셔 부족다 리오만는</sent>
+<sent type="main" lang="kor" page="16" n="21">져 쟝슈촌 건셜 일로 슈쳔만 회즁에 발론을 이졔 뉘웃치나 밋지 못니</sent>
+<sent type="main" lang="kor" page="16" n="22">무슨 면목으로 졔군을 다시 보리오</sent>
+<sent type="main" lang="kor" page="16" n="23">그러나 이 일에 과히 방나 되지 아니면   무엇을 앗기리오</sent>
+
+<sent type="main" lang="kor" page="17" n="01">은 춍리가 이 말을 듯고 대히야 즉시 인비에게 통니 인비  물너나니라</sent><!--'인비'에 모두 단선 밑줄-->
+<sent type="main" lang="kor" page="17" n="02">인비가 오쳔만 원을 가지고 집에 도라와 셔에 홀로 안져 무어을 궁리지</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="17" n="03">슈십 일을 집안 이 볼 수 업다 더니</sent>
+<sent type="main" lang="kor" page="17" n="04">홀련 대학 교슈를 쳥원고 여간 친구를 작별며</sent>
+<sent type="main" lang="kor" page="17" n="05">나는 아미리에 류람을 가노라 고 일조에 쟝을 려 길을 가더라</sent><!--'아미리'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="17" n="06">그 궁리은 무엇이냐 면 좌션은 오쳔만 원을 가져 인명 쟝슈 목뎍으로 쟝슈촌을 셜시</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="17" n="07">져 오쳔만 원을 가지고 쟝슈촌 반기로 슈십 일을 궁리일너라</sent>
+<sent type="main" lang="kor" page="17" n="08">반 엇더케 느냐 무를 디경이면 인죵을 멸망여야 쟝슈촌을 반대가 되리니</sent>
+<sent type="main" lang="kor" page="17" n="09">그러면 졔 나라 디방의 인죵도 멸망케 리오</sent>
+<sent type="main" lang="kor" page="17" n="10">이 인비의 심가 지극히 참 독니 그 말이</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="17" n="11">라젼 인죵(법국으로셔 이대리 셔반아 비리시 등국에 퍼진 인죵이라)은 졈졈 쇠여 가고</sent><!--'라젼'과 '법'과 '이대리'와 '셔반아'와 '비리시'에 쌍선 밑줄--><!--뒤쪽의 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="17" n="12">살손 인죵(일이만으로셔 셔젼 라위 영국 등디에 퍼진 인죵이라)은 졈졈 셩야 가니</sent><!--'살손'과 '일이만'과 '셔젼'과 '라위'와 '영'에 쌍선 밑줄--><!--뒤쪽의 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="17" n="13">셩쇠지리 텬디의 대법이요 공심이어</sent>
+<sent type="main" lang="kor" page="17" n="14">이졔 좌션이 라젼 인죵을 위야 텬디의 대법 공심을 억의고</sent><!--'라젼'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="17" n="15">쇠야 가 인죵을 쟝슈랴 니</sent>
+<sent type="main" lang="kor" page="17" n="16">졔 엇지 죠물의 본의가 라젼 인죵을 쟝슈케 넌지 알며</sent><!--'라젼'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="17-18" n="17"> 엇지 죠물의 본의가 살손 인죵을 번셩케야</sent><!--본의가 ^ 살손--><!--'살손'에 쌍선 밑줄-->
+
+<sent type="main" lang="kor" page="18" n="01">라젼 인죵이 그림도 업시 젼 셰계가 살손 인죵이 되게 지 알엇시리요</sent><!--'라젼'과 '살손'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="18" n="02">져의 법국셔 자랑 바 뎨일등 인물 라파륜의 슉딜이</sent><!--'법'에 쌍선 밑줄, '라파륜'에 단선 밑줄-->
+<sent type="main" lang="kor" page="18" n="03">하나 영국에 혀 가고 하나 우리 덕국에 갓치여 살손 인종의 노례가 되얏고</sent><!--'영'과 '살손'에 쌍선 밑줄, '덕'에 단선 밑줄-->
+<sent type="main" lang="kor" page="18" n="04">아라가 셰계 강국이라 여도 가극 인죵이 오히려  어름속에 어러쥭게 되얏시니</sent><!--'아사'와 '가극'에 쌍선 밑줄-->
+<sent type="anno" lang="kor" page="18" n="05">이 글을 슈십 년 젼에 지은 고로 이 아라사 형편이 그러다 이라</sent>
+<sent type="main" lang="kor" page="18" n="06">이졔 바다에 영국이오 륙지에 우리 덕국이 셰계에 권을 은지라</sent><!--'영'과 '덕'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="18" n="07">이럼으로 우리 살손 인죵은 셰코 라젼 인죵에게 양두지 안을지라</sent><!--'살손'과 '라젼'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="18" n="08">져 좌션이 만일 살손 인죵갓트량이면 내 져와 이닥지 닷투지 안니겟시되</sent><!--'좌션'에 단선 밑줄, '살손'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="18" n="09">져 법국 이어 그 물로 쟝슈촌을 건셜야 라젼 인죵을 번셩게 랴 니</sent><!--'법'과 '라젼'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="18" n="10">우리 일이만 인죵에 날 갓튼 ㅣ 엇지 가만이 안져 보리오</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="18" n="11">다이 져와 오쳔만 원을 논아 가졋시나</sent>
+<sent type="main" lang="kor" page="18" n="12">나 이 물로 좌션의 일을 방고 긔어히 살손 인죵 외의 인류의 리을 엇시면</sent><!--'좌션'에 단선 밑줄, '살손'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="18" n="13">텬디의 법 공심을 몸 밧 것이오 오쳔만 원을 잘 쎳다 지로다</sent><!--'오쳔만'의 '오'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="18" n="14">이럿틋 심를 먹고 궁구히 각엿더라</sent>
+<sent type="main" lang="kor" page="18" n="15">뎨오 쟝 쇠에 피 쥬의(鐵血主義)로 련쳘촌(쇠 다로 촌)을 건셜이라</sent>
+<sent type="main" lang="kor" page="18" n="16">합즁국 셔안은 바다 십 리를 격고 아란궁 하슈 남편을 당야</sent><!--'합즁국'과 '아란궁'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="18" n="17">산명 슈려고 경 졀승니 아미리의 뎨일 가려 곳이라</sent><!--'아미리'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="18-19" n="18">오 년 간에 형가 변야 젼일에 울울쳥쳥든 봉만이</sent><!--울울^쳥쳥든--><!--'울울쳥쳥'에서 뒤쪽의 '울'과 '쳥'은 각기 재점으로 표기되어 있음-->
+
+<sent type="main" lang="kor" page="19" n="01">도 코 등도 코 가로 코 셰로 어 무수 구멍이 모도 텰광 탄광이오</sent>
+<sent type="main" lang="kor" page="19" n="02">예셔  졔셔  쿵쿵쾅쾅 모도 쇠 다로 소리며</sent><!--뒤쪽의 '쾅'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="19" n="03">셕탄 연긔 탄와는 흑산쳔과 탁셰계가 되얏시니</sent>
+<sent type="main" lang="kor" page="19" n="04">이 덕국 화학 인비의 건셜 련쳘촌이라</sent><!--'덕'에 쌍선 밑줄, '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="19" n="05">인비 셰계에 뎨일 가 강쳘 뎨조가라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="19" n="06">그 대포 동셔양 각국에 다시 업시 크고 졔죠 법이 극졍극교야 사마다 놀나고 탄복니</sent>
+<sent type="main" lang="kor" page="19" n="07">이 다셧 를 고심야 좌션 군의 쟝슈촌을 반고 인죵을 손멸 계획으로</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="19" n="08">다년 화학 공부다가  의를 어 비상 포와 탄환을 지엿고</sent>
+<sent type="main" lang="kor" page="19" n="09"> 포신을 크게 록 묵에가 더욱 가븨워 용기 곤란치 아니며</sent>
+<sent type="main" lang="kor" page="19" n="10">지어 쳘물과 탄은 본촌에 광산이 야 풀무 소용을 외쳐에 구지 안이즉</sent>
+<sent type="main" lang="kor" page="19" n="11">그 졔조 법을 뉘 알ㅣ시며</sent>
+<sent type="main" lang="kor" page="19" n="12">촌문 밧게 면으로 놉흔 담과 벽을 둘너 직원과 공인의 츌입이 엄밀야</sent>
+<sent type="main" lang="kor" page="19" n="13">쥬관 의 공문 아니면 촌안에 막우 드리지 안코</sent>
+<sent type="main" lang="kor" page="19" n="14">촌안에  번 드러가면 각기 졔 쇼임을 거 외의 반보 일보라도 다른 쳐쇼에 드러가지 못니</sent>
+<sent type="main" lang="kor" page="19" n="15">그 법령이 각박고 비밀더라</sent>
+<sent type="main" lang="kor" page="19" n="16">이 십월 즁슌이라 텬긔 쳥랑</sent>
+<sent type="main" lang="kor" page="19" n="17">촌문 밧게  소년이 다 러진 마고에 깃도 업고 단쵸도 업셔</sent>
+<sent type="main" lang="kor" page="19" n="18">삼시 위로 로을 아 얼기셜기 잡아 고</sent>
+<sent type="main" lang="kor" page="19-20" n="19">검졍 라홀 바지 쳔아융 보션에</sent><!--바지 ^ 쳔아융-->
+
+<sent type="main" lang="kor" page="20" n="01">누른 구두에 증을 춈춈 박아</sent><!--뒤쪽의 '춈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20" n="02">거러 가면 걱걱 소리가 허릴 업 로동라</sent><!--뒤쪽의 '걱'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20" n="03">보 사마다 촌안에 공인이 잠시 휴역 로 나온 쥴 알더라</sent>
+<sent type="main" lang="kor" page="20" n="04">쇼년이 본 영민야 련쳘촌에 규식을 익의 아 듯시 조금도 셔슴지 안코</sent>
+<sent type="main" lang="kor" page="20" n="05"> 공문  쟝을 어 엇어던지 손에 가지고 것침 업시 단닌다</sent>
+<sent type="main" lang="kor" page="20" n="06">쇼년이 촌문 밧게 셧더니</sent>
+<sent type="main" lang="kor" page="20" n="07">구 쳑 쟝신에 순먹 가러 친듯 슌경이 단총을 둘너 메고 두 눈을 뒤굴니며 나오거</sent>
+<sent type="main" lang="kor" page="20" n="08">쇼년이 쳔연히 공문을 쥬니 슌경이 바다 보고 머리를 덱이며</sent>
+<sent type="main" lang="kor" page="20" n="09">오 네 쳐쇼가 십이 구 아홉 길 칠십삼 호 풀무간이다</sent>
+<sent type="main" lang="kor" page="20" n="10">네 이문으로 드러 바른편으로 가면 큰 길이요 돌비가 잇셔 십이 구라 엿슬 거시니</sent>
+<sent type="main" lang="kor" page="20" n="11">그곳에 가 구댱을 차 이 공문을 드리면 즉시 드러갈 것이요</sent>
+<sent type="main" lang="kor" page="20" n="12">네가 이왕 이 촌의 규칙을 알거니와 만일 그룻야 졔 역쇼외에 다른 역쇼로 드러가면</sent>
+<sent type="main" lang="kor" page="20" n="13">즉시 촌밧그로 겨나와 다시 드러가지 못리니 죠심여라</sent>
+<sent type="main" lang="kor" page="20" n="14">쇼년이 이 말로 문에 드러 바른 편 큰 길로 드러가 셔셔히 혀보니</sent>
+<sent type="main" lang="kor" page="20" n="15">좌우에 놉흔 벽이 모다 길반이나 되고</sent>
+<sent type="main" lang="kor" page="20" n="16">벽 밋헤 홈을 쳐 슈구로 물이 흘너 이 도랑이 져 도랑으로 통야 나가고</sent>
+<sent type="main" lang="kor" page="20" n="17">몃십 구 몃 구에 모다 놉흔 벽과 깁흔 도랑이 졍졍야 조금도 경측 업시니</sent><!--뒤쪽의 '졍'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="20-21" n="18">만일 경긔구를 타고 촌즁을 굽어 보면 응당 바독판 갓흘지라</sent><!--갓흘^지라-->
+
+<sent type="main" lang="kor" page="21" n="01">심즁에 층탄며 챠 드러가니 모구모구라  표셕이 쳐쳐에 례로 셧지라</sent><!--뒤쪽의 '쳐'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="21" n="02">이리뎌리 보며 가다가 홀연 십이 구 표셕이 닷거 문쳐 셔셔 보니</sent><!--뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="21" n="03">이곳에 문금이 쳐음 문과 갓흐나 군긔 가진 건쟝 슌경은 업고 다만 신톄불구 늙은 슈직이 잇거</sent>
+<sent type="main" lang="kor" page="21" n="04">공문을 여주니 슈직이 의에셔 이러셔</sent>
+<sent type="main" lang="kor" page="21" n="05">왼편 다리가 무릎 아로 도막이 나고 나무로 가 다리를 이어 졀눅거리고</sent>
+<sent type="main" lang="kor" page="21" n="06">가심에 구리 를 찻시니 쎳시되 공로를 포샹야 휼금을 급이라 얏더라</sent>
+<sent type="main" lang="kor" page="21" n="07">공문을 밧다 인을 쳐셔 쥬며</sent>
+<sent type="main" lang="kor" page="21" n="08">네 이리 드러 왼편 아홉 길로 가거라</sent>
+<sent type="main" lang="kor" page="21" n="09">쇼년이 샤례고 드러간다</sent>
+<sent type="main" lang="kor" page="21" n="10">이곳은 본촌 부라 쳐쳐 공역쟝과 긔계쟝의 소리가 들기 시작</sent><!--뒤쪽의 '쳐'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="21" n="11">졍신을 려 아홉 길을 찻자 칠십삼 호 문를 보고 문에 드러셔니</sent>
+<sent type="main" lang="kor" page="21" n="12">혼졸이 인도야 본챵 춍리 압 나아가니</sent>
+<sent type="main" lang="kor" page="21" n="13">춍리 쇼년의 공문을 바다 먼져 인쟝을 보고 다시 히다가 탁상에 놋코</sent>
+<sent type="main" lang="kor" page="21" n="14">(춍리) 네가 풀무쟝이 되기를 원냐</sent>
+<sent type="main" lang="kor" page="21" n="15">나히 얼마나 되며 긔질이 약지 안으랴</sent>
+
+<sent type="main" lang="kor" page="22" n="01">(쇼년) 과연 약질이오나 어려셔부터 복역와 시방 나히 셔른 에 두 이 못 오며</sent>
+<sent type="main" lang="kor" page="22" n="02">슈월 간에 풀무를 쟘심왓시니 념려마소셔</sent>
+<sent type="main" lang="kor" page="22" n="03">쇼년이 이 극히 련슉 일이만의 말로 대답여 조금도 얼여오며 업드니</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="22" n="04">말 소리 달으거 총리가 눈을 번 며 참 보다가</sent>
+<sent type="main" lang="kor" page="22" n="05">네가 아이사 이 아니냐</sent><!--'아이사'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="22" n="06">다른 사의 지둔 셩질 갓흐면 덜미 집  넘어 발셔 얼골에 사이 탈로 겟지마</sent>
+<sent type="main" lang="kor" page="22" n="07">쇼년은 원 영민지라 얼 우으며</sent>
+<sent type="main" lang="kor" page="22" n="08">쇼 셔서 이 올시다 공이 밋지 못실 터이면 이것을 보십시오 며</sent><!--'셔서'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="22" n="09">품에 녀권을 여 드리지라</sent>
+<sent type="main" lang="kor" page="22" n="10">다이 춍리가 깁히 히지 안코</sent>
+<sent type="main" lang="kor" page="22" n="11">그러켓다 네 오부터 이 챵 내의셔 집역되 극진히 죠심여라 더니</sent>
+<sent type="main" lang="kor" page="22" n="12">손 샹의셔  나를 여 가지고 뭇되</sent>
+<sent type="main" lang="kor" page="22" n="13">(총리) 네 일홈이 무엇이냐</sent>
+<sent type="main" lang="kor" page="22" n="14">(소년) 에 약한이라 이다</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="22" n="15">총리가 붓을 들고 약한의 일홈을 쓰며</sent>
+
+<sent type="main" lang="kor" page="23" n="01">네 들어라 이 에 오만칠쳔구삼십팔 호 즉 네 호슈라</sent>
+<sent type="main" lang="kor" page="23" n="02">본촌에 집역 공인이 다 일뎡 호슈 잇니 이게 업스면 드러오지 못고</sent>
+<sent type="main" lang="kor" page="23" n="03">일 칠 졈 종에 본 구문 밧계 와셔 이 를 증험고</sent>
+<sent type="main" lang="kor" page="23" n="04">본챵 방에 와셔  목샹 잇시니 샹 즁에 네 호슈를 맛쳐보고</sent>
+<sent type="main" lang="kor" page="23" n="05">역쇼 드러가기 젼 십 분 죵에 게 와셔 다시 검샤를 밧은 후에 가지고 역쇼에 드러가</sent>
+<sent type="main" lang="kor" page="23" n="06">하오 칠 졈 종에 각공이 허여질  역쇼 문 어구에 우쳬통 갓흔 것이 문이 졀로 열닐 것이니</sent>
+<sent type="main" lang="kor" page="23" n="07">네 이 죠희를 그 통에 넛코 물너가라</sent>
+<sent type="main" lang="kor" page="23" n="08">이 일 각 공인의 근만을 험시 바이니라</sent>
+<sent type="main" lang="kor" page="23" n="09">(쇼년) 가르치신 로 봉려니와 곳 오부터 이촌에 류련오릿가</sent>
+<sent type="main" lang="kor" page="23" n="10">춍리 아니다 기 촌 밧게 나아가 고 먹기 본촌 공인이면 염가로 팔게 얏시니</sent>
+<sent type="main" lang="kor" page="23" n="11">네가 혹 쓸 일 잇스면 그곳에 가셔 네 를 보이고 네 신슈금을 타가며</sent>
+<sent type="main" lang="kor" page="23" n="12">신슈금은 일 일 원식이니 만일 근실야 거 지 삼 월이면 례로 증가니라</sent>
+<sent type="main" lang="kor" page="23" n="13">(쇼년) …</sent>
+<sent type="main" lang="kor" page="23" n="14">(춍리) 네 오부터 곳 역쇼에 가려냐</sent>
+<sent type="main" lang="kor" page="23" n="15">(쇼년) 그리겟이다</sent>
+<sent type="main" lang="kor" page="23" n="16">(춍리) 그러면 오날은 신슈금을 반만 쥬 것이니 그리 알어라</sent>
+
+<sent type="main" lang="kor" page="24" n="01">(쇼년)…</sent>
+<sent type="main" lang="kor" page="24" n="02">춍리가 이러나 공쟝으로 드러가니 약한이 러간다</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="24" n="03">좌우 양편에 큰집이 옹포고 둥근 구리통의 연긔를 훅훅  것이</sent><!--뒤쪽의 '훅'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="04">입은   남짓허고 두 쥴로 일망무진게 큰 찰에 기둥 드러셔듯 항구 부두에 돗 드러셔듯 고</sent>
+<sent type="main" lang="kor" page="24" n="05">공쟝 동편에 긔계로 든 텰가 슉텰을 실어 이 공쟝에셔 뎌 공쟝으로 운숑니</sent>
+<sent type="main" lang="kor" page="24" n="06">두 수레가 인력을 허비지 안코 락역부졀여 왕고</sent>
+<sent type="main" lang="kor" page="24" n="07">급기 공쟝에 드러가니 큰 쇠 녹이 독아니에 쳘을 너허 녹은 후에</sent>
+<sent type="main" lang="kor" page="24" n="08">공인들이 로 긴 곰의 손【기계 일홈】으로 쇠 녹은 물을 휘휘 져어  뭉치를 드지라</sent><!--뒤쪽의 '휘'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="09">증긔 긔관의 고등을 틀면 쇠뭉치 졀노 나와 만쟝 즁에 불빗치오</sent><!--'긔관'의 '긔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="10">각 공인이 젼신을 가족으로 고 머리에 투구 갓흔 쇠두겁을 쓰고 두 눈만 여 노코</sent>
+<sent type="main" lang="kor" page="24" n="11">손에 가진 맛치로 일시에 달녀 드러치니 별 갓흔 불이 여 번갓치 면으로 흣터지고</sent>
+<sent type="main" lang="kor" page="24" n="12">쇠가 졈졈 식어지며 빗이 졈졈 검어지면 다시 너코 녹여야</sent><!--'졈졈'에서 뒤쪽의 '졈'은 모두 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24" n="13">삼를 이갓치 니 그 쇠가 엇지 졍고치 안이리오</sent>
+<sent type="main" lang="kor" page="24" n="14">쇼년이 이를 보고 탄상을 마지 안타가 각건</sent>
+<sent type="main" lang="kor" page="24" n="15">내 긔위 이곳에 와셔  죠도 춍리 압 보이지 못면 본경륜을 이로지 못리라 고</sent>
+<sent type="main" lang="kor" page="24" n="16">웃옷을 벗셔 노코 곰의 손을 아 풀무 겻 셔셔  졈종을 로동니</sent><!--'셔셔'에서 뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="24-25" n="17">얼골이 복승아 익어가듯 며 긔력이 시진더니</sent><!--얼골이 ^ 복승아-->
+
+<sent type="main" lang="kor" page="25" n="01">두 졈종이 되 얼골에 쳥이 돌고 시나무 듯 다가 에 나가 널부러지니</sent>
+<sent type="main" lang="kor" page="25" n="02">(총리) 네가 역에 익지 못도다</sent>
+<sent type="main" lang="kor" page="25" n="03">내 앗가 네 긔딜이 약다 엿더니 과연 그러고나</sent>
+<sent type="main" lang="kor" page="25" n="04">네가 졍 감당치 못면 다른 공쟝에 료식이 좀 박지라도</sent>
+<sent type="main" lang="kor" page="25" n="05">공역을 밧구어 네 몸을 구구 신슈금에 팔니지 말어라</sent><!--'구구'에서 뒤족의 '구'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="25" n="06">약한이 벌덕 이러며</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="25" n="07">안이요 안이요 가 그젼부터 이련 병이 잇지 양 발작면 두 시간을 오한 광열과 슈족젼이 나옵니다</sent>
+<sent type="main" lang="kor" page="25" n="08">그 시간이 지면 즉시 낫오니 념려 마옵소셔 고 다시 달녀든다</sent>
+<sent type="main" lang="kor" page="25" n="09">(춍리) 이리 오너라 내 너다려 말 아 더니</sent>
+<sent type="main" lang="kor" page="25" n="10">약한을 다리고 다시 본챵 방으로 가셔</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="25" n="11">(춍리) 네가 이 쇼임을 감당치 못리니 강작지 말고</sent>
+<sent type="main" lang="kor" page="25" n="12">너의 근신을 알거니와 각 공챵에 공인을 구 터이니 너를 환방여 쥴 것이니</sent>
+<sent type="main" lang="kor" page="25" n="13">네 쇼쟝이 무엇인고</sent>
+<sent type="main" lang="kor" page="25" n="14">(약한) 곰압심니다 내 과연 쵸요 공가를 탐고 긔질을 량치 아니엿시니 황숑오이다</sent>
+<sent type="main" lang="kor" page="25" n="14">그러오나 내 쇼습은 물건 붓 일을 약간 아오니</sent>
+<sent type="main" lang="kor" page="25" n="15">만일 물건을 부어 만다 공쟝에 옴겨 쥬시면 지극 감겟십니다</sent>
+
+<sent type="main" lang="kor" page="26" n="01">춍리가 고를 덕이며</sent>
+<sent type="main" lang="kor" page="26" n="02">네 요 교를 잘 맛낫다</sent>
+<sent type="main" lang="kor" page="26" n="03">맛 공인의 궐이 잇고  네가 공쟉에 열심니 내 쥬션야 봄아 고</sent>
+<sent type="main" lang="kor" page="26" n="04">이러나 젼화긔 겻 가셔 고동을 틀어 번호를 맛치고 한참을 문답더니</sent>
+<sent type="main" lang="kor" page="26" n="05">(춍리) 다이 삼십륙 구에 너를 쳔거엿시니 속키 가 보아라 면셔</sent>
+<sent type="main" lang="kor" page="26" n="06">먼져번에 약한 쥬엇던 공문을 여 두어 말를 더 쓰고 린을 쳐 쥬더라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="26" n="07">약한이 바다 가지고 나와 삼십륙 구를 져가니</sent>
+<sent type="main" lang="kor" page="26" n="08">일톄 규측이 십이 구와 다름업고 그 공쟝 춍리도 한 약한을 잇고 공쟝에 드러간다</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="26" n="09">(춍리) 이 공쟝은 본촌 즁에 가쟝 젹은 공쟝이니</sent>
+<sent type="main" lang="kor" page="26" n="10">네 착실면 이 다음에 큰 공쟝으로 승리니 아모죠록 극진히 착심여라</sent>
+<sent type="main" lang="kor" page="26" n="11">약한이 머리를 들고 먼져 공쟝을 보니 가장 젹다 나 공쟝이 가로 삼십 간이요 기리로 팔 간인</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="26" n="12">좌우 양편에 흑도간이 륙여 요 공쟝 즁앙에 쇠물로 부은 대포 짓 본보기가 잇고</sent>
+<sent type="main" lang="kor" page="26" n="13">그 겻 큰 쇠갈고리가 잇셔 대포를 지으면 그 갈고리에 고동을 틀어 달아 올녀</sent>
+<sent type="main" lang="kor" page="26" n="14">텰에 싯고 다른 공쟝으로 보더라</sent>
+<sent type="main" lang="kor" page="26" n="15">약한이 맛 각 공이 쉬 를 만나 공쟝 근쳐에 안졋더니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="26" n="16">홀연  소리 나며 방울 찬 슈 공인이 일시에 일어나</sent>
+<sent type="main" lang="kor" page="26" n="17">톄슈 쟝단이 셔로 갓흔 이 둘식 둘식 쌍을 지어</sent>
+
+<sent type="main" lang="kor" page="27" n="01">쇠몽동이를 두러 메고 본보기 겻 둘너시고</sent>
+<sent type="main" lang="kor" page="27" n="02">공 우슈에 호각이요 좌슈에 한 녈표를 가지고 그 겻 가셔 두루 혀보더니</sent>
+<sent type="main" lang="kor" page="27" n="03">호각을 입에 이고  소를 익 부니</sent>
+<sent type="main" lang="kor" page="27" n="04">각 공인이 쌍쌍으로 압셔지도 안코 뒤셔지도 안이야</sent><!--뒤쪽의 '쌍'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="27" n="05">호각 소를 라 슈 도간이를 일시에 들어 탕구에 부우니</sent>
+<sent type="main" lang="kor" page="27" n="06">검은 연긔를 으며 쇠물이 어 일졔히 본보기에 흘너드러 대포가 되지라</sent>
+<sent type="main" lang="kor" page="27" n="07">슈 명 공인이  공의 지휘를 밧아 추호도 감히 억의지 못고</sent>
+<sent type="main" lang="kor" page="27" n="08"> 슈 좌 긔계며 증긔며 젼긔가 졍졔야  호각의 졀조를 맛쳐 죠곰도 이 업시니</sent>
+<sent type="main" lang="kor" page="27" n="09">이 젼셰계에 업 교술이라</sent>
+<sent type="main" lang="kor" page="27" n="10">약한이 겻 셔셔 보다가</sent><!--'약한'에 단선 밑줄--><!--뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="27" n="11">층찬 소리 나오 쥴 닷지 못고 연방 층찬더라</sent>
+<sent type="main" lang="kor" page="27" n="12">사이 조잇셔 남의 조가 져보다 나은 것을 보면</sent>
+<sent type="main" lang="kor" page="27" n="13">셩벽도 나고 몸이 간질거려 견기 어려워은 예가의 셩졍이라</sent>
+<sent type="main" lang="kor" page="27" n="14">약한이 눈셜미 르고 마음이 영민야 다른 공인보다 부즈러니 역를 니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="27" n="15">총리가 무슈히 층찬더라</sent>
+<sent type="main" lang="kor" page="27" n="16">각 공인이 흣터지니 약한이 간밤에 든 려관으로 온즉 셕반이 발셔 되엿더라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="27" n="17">약한이 두어 슐 셔 졈고만 고 챵을 의지야 안졋시니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="27" n="18">면이 젹젹고 츙셩은 즉즉  졈 뎐긔등 빗치 류리챵에 빗최여 챵호가 죠료더라</sent><!--'젹젹'에서 뒤쪽의 '젹', '즉즉'에서 뒤쪽의 '즉'은 각기 재점으로 표기되어 있음-->
+
+<sent type="main" lang="kor" page="28" n="01">약한이 다시 몸을 일어 품의셔 강텰과 도간이 여진 부스럭이를 여 등불에 들고 보다가</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="28" n="02"> 슈대 속에셔 공을 여 법문으로 긔록다</sent><!--'법'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="28" n="03">련텰촌에 쇠 다르 법과 물건 붓 법은 과이 보회와 과히 다를 것이 업시되</sent>
+<sent type="main" lang="kor" page="28" n="04">공교 슐법은 공슈 즁에 호각이 일뎡 군호가 되니  긔묘 일이라</sent>
+<sent type="main" lang="kor" page="28" n="05">뎌 일이만인이 음악을 질기 셩질이 잇셔 공작 에 일시에 득야</sent>
+<sent type="main" lang="kor" page="28" n="06">일호 이 업심은 젼혀 호각의 음향 졀쥬를 맛치니</sent>
+<sent type="main" lang="kor" page="28" n="07">만일 이러 기슐을 질박 영인다려 라 면 음악의 률려도 모로거든 엇지 졀조를 맛치리오</sent><!--'영'에 단선 밑줄-->
+<sent type="main" lang="kor" page="28" n="08">우리 법인은 오랴면 쉬우니 우리 법인도 쳔 음악에 밝으며  츔츄고 노  능지라</sent><!--'법'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="28" n="09">그런즉 련텰촌 쥬의가 일이만 사만 쓰고 우리 라젼 사은 젼 금니</sent><!--'일이만'과 '라젼'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="28" n="09">비밀 계획이 잇슴을 가히 알지요</sent>
+<sent type="main" lang="kor" page="28" n="10">오날 내 목도 바 십이 구와 삼십륙 구 두 곳이니</sent>
+<sent type="main" lang="kor" page="28" n="11">이후에 엇지면 다른 쳐소에 드러가 이에셔 더 슐법을 볼난지 모로거니와</sent>
+<sent type="main" lang="kor" page="28" n="12">졍탐 바를 맛당히 심샹 뎨죠 회의셔 십나 되겟시니 어렵도다</sent>
+<sent type="main" lang="kor" page="28" n="13">드른즉 본쵼 중앙구의 츄형고【본보기 드 쳐】와 츄밀각 두 곳이 잇다 니</sent>
+<sent type="main" lang="kor" page="28" n="14">인비가 무 계획으로 은밀게 츱복야 무셥고 두려온 독슈단을 부리랴지</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="28" n="15">비밀 속을 여어 보지 못엿고</sent>
+<sent type="main" lang="kor" page="28" n="16">아즉 본 바 과히 관계가 업고 눈에 것친 물건을 못 보왓거니와</sent>
+<sent type="main" lang="kor" page="28" n="17">그 텰물 광물의 품위를 말 면 오대쥬에 상등이 될너라</sent>
+
+<sent type="main" lang="kor" page="29" n="01">쓰기를 다야 도로 슈대 속에 너코 침상에 누어 젼젼불다가</sent>
+<sent type="main" lang="kor" page="29" n="02">우연히 잠이 들어 잠을 엿더라</sent>
+<sent type="main" lang="kor" page="29" n="03">좌션 학 좌션 학</sent>
+<sent type="main" lang="kor" page="29" n="04">불으다가 작 놀나 니러나니라</sent>
+<sent type="title2" lang="kor" page="29" n="05">뎨륙 쟝 탄산와의 바다</sent>
+<sent type="main" lang="kor" page="29" n="06">약한의 려관 쥬인은  과부라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="29" n="07">원 셔서 사으로 두 외 어린 아들 하나를 다리고 버리 차로 슈쳔 리를 표박야 단니다가</sent><!--'셔서'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="29" n="08">이곳에 와셔 탄광 역부로 품을 팔아 셰 식구가 먹고 살더니</sent>
+<sent type="main" lang="kor" page="29" n="09"> 년 젼에 탄광 속에 들어갓다가 광이 문어져 슈십 명 역부가 치여 쥭 중에 갓치 쥭어</sent>
+<sent type="main" lang="kor" page="29" n="10">송장도 지 못여 그 속에 영장고 과부와 고아가  러진 뒤웅박이 되엿더니</sent>
+<sent type="main" lang="kor" page="29" n="11">이갓치 법녕이 각박 련텰촌에 오히려 역부가 역다가 죽으면 그 유족을 차져 휼금을 주 법이 잇 고로</sent>
+<sent type="main" lang="kor" page="29" n="12">이 과부가 매년 삼십 원 휼금을 바라고 살더라</sent>
+<sent type="main" lang="kor" page="29" n="13">이 그 과부의 아이 열셰 살이 되고 일홈은 극아ㅣ라</sent>
+<sent type="main" lang="kor" page="29" n="14">탄광에셔 풍혈 여닷 소임으로 삭 돈푼을 엇으나</sent>
+<sent type="main" lang="kor" page="29" n="15">그 모 슈쳔 리 타향에 을 일코 쳐량 그림를 야 셜코 원통 눈물을 씻고</sent>
+<sent type="main" lang="kor" page="29" n="16">심회를 억졔야 그 아를 어르만져 회포를 위로지라</sent>
+<sent type="main" lang="kor" page="29-30" n="17">극아ㅣ 날마다 광 밋 잇다가 집에 도라오랴면 길이 멀고 왕에 피곤이 심지라</sent><!--피^곤이-->
+
+<sent type="main" lang="kor" page="30" n="01">역인들이 불상히 녁여 공론고</sent>
+<sent type="main" lang="kor" page="30" n="02">탄광 밋 셕탄을 싯고 드나드 구루마를 밤이면 직히 소임을 마련야</sent>
+<sent type="main" lang="kor" page="30" n="03">극아로 낫지면 풍혈에 안져 폐고 밤이면 구루마 겻셔 게 니</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="30" n="04">날마다 탄광으로 오로리 고이 업고  약간 돈푼을 엇으나</sent>
+<sent type="main" lang="kor" page="30" n="05">쥬야에 두 가지 소임을 맛하 륙십 쟝 흑암 세계에 드러 쳔 일을 못 보고</sent>
+<sent type="main" lang="kor" page="30" n="06">다만 뎐긔등만 쳐다볼 이라</sent>
+<sent type="main" lang="kor" page="30" n="07">공일이 되면 그 모가 벽에 이러나 물을 려 소다를 타고</sent>
+<sent type="main" lang="kor" page="30" n="08">그 아 오면 머리도 감기며 낫도 씻기려 고 기다리니</sent>
+<sent type="main" lang="kor" page="30" n="09">이 아 밤낫 열흘을 굴속에 든 괴양이갓치 잇다가 셰상 밧게 나와 쳥쳔 일도 보고</sent>
+<sent type="main" lang="kor" page="30" n="10">함을며 져를  어미를 볼지라 희희락락야 우둥우둥 여 오지라</sent><!--'희희락락'에서 뒤쪽의 '희'와 '락', '우둥우둥'에서 뒤족의 '우둥'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="30" n="11">그 모가 문에 의지엿다가 마조 나와 붓들고 드러가</sent>
+<sent type="main" lang="kor" page="30" n="12">두지죡을 목욕식여 라 지은 옷을 입히고 겸상야 더운 밥을 갓치 먹고 위로니</sent>
+<sent type="main" lang="kor" page="30" n="13">그 모의 졍리 짐짓 사을 감동너라</sent>
+<sent type="main" lang="kor" page="30" n="14">극아ㅣ  셩벽이 잇셔 버레 기를 됴화야</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="30" n="15">낫후에 나가 셕양 면 둥우리에 가득 아 너코 도라와 희롱니</sent>
+<sent type="main" lang="kor" page="30" n="16">그 모 잠시라도 다시 보면 반겨셔 쳔신만고를 다 잇고</sent>
+<sent type="main" lang="kor" page="30" n="17">인간 미 이인가 더라</sent>
+
+<sent type="main" lang="kor" page="31" n="01">악한이 공쟝에 잇셔 슈월이 못 되 집역에 근신고 의가 춀츙야 뎨일등인이 되고</sent>
+<sent type="main" lang="kor" page="31" n="02">쵼즁에 야학교가 잇셔 각 공인들이 밤이면 산술과 수학을 련습니</sent>
+<sent type="main" lang="kor" page="31" n="03">약한의 춍명 질이 그 젼부터 이 갓흔 학문에 익은지라</sent>
+<sent type="main" lang="kor" page="31" n="04">동학 졔인과 쇼위 교 약한이 쳐음 오 학만 녁여 낫비 보다가</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="31" n="05">일취월쟝을 보고 혜를 홰홰 둘으 모양은 약한이 보기에 참 가관이러라</sent><!--뒤쪽의 '홰'는 재점으로 표기되어 있음--><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="31" n="06">각구에셔 각기 무를 조샤야 즁앙구 츄밀각에 보고야 포쟝을 쥬니</sent>
+<sent type="main" lang="kor" page="31" n="07">졔삼십륙 구 오만칠쳔구삼십팔 호 물건 붓 공쟝 뎨일등 역부 약한 년은 삼십 셰</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="31" n="08">우 원이 특별 조 잇고 물리에 련숙니</sent>
+<sent type="main" lang="kor" page="31" n="09">본구 즁에 걸츌 인물이요 쵼즁에 만이 엇지 못 쟈인 고로 포쟝을 증여홈 엿더라</sent>
+<sent type="main" lang="kor" page="31" n="10">로 쥬일인 광즁에셔 도라오 극아를 보지 못겟거</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="31" n="11">약한이 심즁에 의아야 녀쥬인의 챵을 향고 극아 왓소</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="31" n="12">녀쥬인이 슈이 만면야 오도 일직 니러나 져 오기를 기다리되</sent>
+<sent type="main" lang="kor" page="31" n="13">시방 열 졈 삼십 분이나 지나도록 종젹이 묘연오</sent>
+<sent type="main" lang="kor" page="31" n="14">졔 양 일직이 오고 한 번도 궐지 안터니 오은 무 일이오닛가</sent>
+<sent type="main" lang="kor" page="31-32" n="15">(약한) 오 나도 한가니 쥬인을 위야 극아의 소식을 탐지야 보리다 고</sent><!--보리다 ^ 고--><!--'극아'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="32" n="01">즉시 려관을 나와 탄광 문 밧게 가 보니</sent>
+<sent type="main" lang="kor" page="32" n="02">각 공인과 역부들이 다 흣터지고 광문 직히 광직이 의에 안져 조을거</sent>
+<sent type="main" lang="kor" page="32" n="03">약한 만칠쳔구이 호의 극아가 오 벽에 이 광즁의셔 나왓나</sent><!--'약한'과 '극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="32" n="04">(광직) 안니 나왓소</sent>
+<sent type="main" lang="kor" page="32" n="05">(약한) 그러면 이 광에 문이 이 아니라  다른 문이 잇가</sent>
+<sent type="main" lang="kor" page="32" n="06">(광직) 업소 그려나 극아ㅣ 양 쥬일날에 집에 가고  다른 공인보다 상 먼져 가더니</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="32" n="07">오은 나오 것을 못 보앗시니 괴이오</sent>
+<sent type="main" lang="kor" page="32" n="08">(약) 내 이졔 오기 극아를 고져 나 내 광즁에 쟘간 드러가 보면 엇더가</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="32" n="09">(광) 못오 드러가랴면 무쇼에 가셔 광쟝의 허락을 밧어야 오</sent>
+<sent type="main" lang="kor" page="32" n="10">약한이 일업셔 무쇼를 찻져 광쟝을 보고 이 연을 말니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="32" n="11">광쟝이 역시 션 사람이라 약한의 말을 듯고 측연야 이로되</sent>
+<sent type="main" lang="kor" page="32" n="12">이 아를  알거니와 드르니 과모의게 지셩이라 니</sent>
+<sent type="main" lang="kor" page="32" n="13"> 그와 한가지 광즁에 드러가 져 보리라 며 말이 간측지라</sent>
+<sent type="main" lang="kor" page="32" n="14">(약한) 션에게 흡긔통이 잇뇨</sent>
+<sent type="main" lang="kor" page="32" n="15">광즁를 모로니 흡긔통이 읍스면 오 곤란갯소</sent>
+
+<sent type="main" lang="kor" page="33" n="01">광쟝이 흡긔통 둘을 여 논아 가지고 광즁으로 드러가니라</sent>
+<sent type="anno" lang="kor" page="33" n="02">흡긔통은 쥬셕으로 샹를 들어 그 속에 공긔를 져츅고</sent>
+<sent type="anno" lang="kor" page="33" n="03">가죽으로 셜갓치 드러 양편으로 샹 궁계 부치고</sent>
+<sent type="anno" lang="kor" page="33" n="04">츤  합야  줄기를 드려 입의 물고</sent>
+<sent type="anno" lang="kor" page="33" n="05"> 코에 이 가쥭 쥴기 잇셔</sent>
+<sent type="anno" lang="kor" page="33" n="06">통 속의 공긔를 마시면 다른 독긔가 범치 못니라</sent>
+<sent type="main" lang="kor" page="33" n="07">약한이 광쟝과 흡긔통을 등에 지고 광즁으로 려가니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="33" n="08">쳐쳐에 뎐등이 명랑야 흰 낫 갓더니</sent><!--뒤쪽의 '쳐'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="33" n="09">슈십 쟝을 드러가니 물을 분변치 못고</sent>
+<sent type="main" lang="kor" page="33" n="10">여간 젼등이 잇스나 불치 쳥을 이고 찬 긔운이 돌며 음참지라</sent>
+<sent type="main" lang="kor" page="33" n="11">약한이 조금도 이 업고 광쟝의 뒤를 라 드러가니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="33" n="12">극아의 최 업고 구두  이 잇지라 약한이 집어 보고 광쟝을 뵈이며</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="33" n="13">굿쓰가 이곳에 잇스니 극아가 뎡녕 광 밋 잇스리다</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="33" n="14"> 젼일에 극아ㅣ 올 젹에 이 굿쓰 신은 것을 여러 번 보앗소</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="33" n="15">(광쟝) 그러면 어셔 져보 고</sent>
+<sent type="main" lang="kor" page="33" n="16">각쳐로 두루 단이며 되 긔쳑이 업고</sent>
+<sent type="main" lang="kor" page="33" n="17">이 은 휴식 날인 고로 광즁에 무러볼 도 업지라</sent>
+<sent type="main" lang="kor" page="33" n="17">광쟝이 길의셔  아를 만나니 약한은 모로 아라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="33" n="18">(광쟝) 네 오날 아니 나갓시면 극아를 보앗냐</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="33" n="19">(동) 앗가 극아가 젼등과 샹를 가지고 급히 져곳으로 가더니다</sent><!--'극아'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="34" n="01">(약한) 극아가 양 집에 오면 버레 잡기를 됴화더니</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="34" n="02">필시 버레를  가도다 며 압셔셔 드러가니 지쳑을 분간치 못지라</sent><!--뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="03">(약한) 예가 어오</sent>
+<sent type="main" lang="kor" page="34" n="04">(광쟝) 이곳에 악취와 독긔가 잇스니 가지 말나</sent>
+<sent type="main" lang="kor" page="34" n="05">(약한) 엇더 것 업소</sent>
+<sent type="main" lang="kor" page="34" n="06">광쟝이 만류며 향 여긔 셕탄이 난다 야 각쳐 광즁 길을 이리로 모앗스나</sent>
+<sent type="main" lang="kor" page="34" n="07">측양의 말이 문어질 념려가 잇다 야 즉시 도로 봉폐 곳이니라</sent>
+<sent type="main" lang="kor" page="34" n="08">(약한) 광즁이 심히 괴이니 내 긔어히 흘 보겟다 고</sent>
+<sent type="main" lang="kor" page="34" n="09">먼져 드러가 열 거름을 못 가더니 광쟝을 도라보며</sent>
+<sent type="main" lang="kor" page="34" n="10">션 두통나 줄 모로겟소</sent>
+<sent type="main" lang="kor" page="34" n="11">(광쟝) 글셰 머리가 앗득앗득야 들 슈 업네</sent><!--뒤쪽의 '앗득'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="12">(약한) 이 속에 인젹이 오 치고 탄산와가 여 그러니</sent>
+<sent type="main" lang="kor" page="34" n="13">흡긔통을 쓸 밧게 슈가 업소 고</sent>
+<sent type="main" lang="kor" page="34" n="14">량인이 각각 코에 이며 입에 물고 륙칠 쟝을 드러가니</sent><!--뒤쪽의 '각'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="34" n="15">홀연 등불이 풀은 곳에 누은 사이 뵈이거 약한이 급히 나아가 보니</sent><!--'약한'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="35" n="01">슯흐다 극아 손을 곱고 다리를 어 슘긔 업지라</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="35" n="02">메고 광밧게 나와 급히 의를 불너 뵈이니</sent>
+<sent type="main" lang="kor" page="35" n="03">전혀 탄산와의 독이라</sent>
+<sent type="main" lang="kor" page="35" n="04">죽은 지 슈 시간이면 아모리 편쟉이라도 살니지 못니 혹고 가련다</sent>
+<sent type="main" lang="kor" page="35" n="05">극아ㅣ  신셰계에 귀 되엿시니 그 모의 졍경이 엇더리오</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="35" n="06">약한이 극아의 죽엄을 져 련텰촌 공디에 뭇어 쥬고 단갈을 셰워 표니</sent><!--'약한'과 '극어'에 단선 밑줄-->
+<sent type="main" lang="kor" page="35" n="07">일로 여 촌즁에 명예 더욱 쟝지라</sent>
+<sent type="main" lang="kor" page="35" n="08">이튼날 약한이 공쟝에 들어갈 로 삼십륙 구 사방에 긔 호슈를 에 샹 가온 표와 맛쳐 보니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="35" n="09">젼에 업던 조희 을 부쳣 쎳스되</sent>
+<sent type="main" lang="kor" page="35" n="10">뎨삼십륙 구 오만칠쳔구삼십팔 호 일등 공인 약한은 본일 오젼 십 졈 종에 즁앙 구문 외에 잇셔 기다리라</sent><!--'약한'에 단선 밑줄-->
+<sent type="title2" lang="kor" page="35" n="11">뎨 칠쟝 중앙구</sent>
+<sent type="main" lang="kor" page="35" n="12">련텰촌의 중아구라 은 사으로 말면 곳 뢰슈와 갓흐니</sent>
+<sent type="main" lang="kor" page="35" n="13">다른 각구의 크나 젹으 듯고 보 일은 통히 즁앙구에 보고야</sent>
+<sent type="main" lang="kor" page="35" n="14">즁앙구의 잇셔셔 젼촌의 쳔 가지 만 가지를 다 되</sent>
+<sent type="main" lang="kor" page="35-36" n="15">여간 두목이 셕 달의  번이나 반 년의  번 밧게 나와도</sent><!--번이나 ^ 반-->
+
+<sent type="main" lang="kor" page="36" n="01">듯고 본 일은 입 게 지 못기로 약셔 으로</sent>
+<sent type="main" lang="kor" page="36" n="02">외인은 즁앙구 일을 한 가지도 알 ㅣ 업고</sent>
+<sent type="main" lang="kor" page="36" n="03">즁앙구에  속으로 텰로을 노아 외구에 통얏시니</sent>
+<sent type="main" lang="kor" page="36" n="04">비밀이 회의 면 급 텰거로 속으로 왕니</sent>
+<sent type="main" lang="kor" page="36" n="05">엇던 사람을 불너 드리며 무 일을 의론지  슈 업셔</sent>
+<sent type="main" lang="kor" page="36" n="06">그 심모궤계 우등 가 졍탐이라도 드러갓다가 걸녀들면</sent>
+<sent type="main" lang="kor" page="36" n="07">철산디옥이나 염라대왕을 볼 이라  즁앙구라</sent>
+<sent type="main" lang="kor" page="36" n="08">약한이 즁앙구의 이러을 익이 듯고</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="36" n="09">즁앙구 외문에 이르러 터럭 시 빗 빗 며 홀연 깃부기도 고 홀연 무섭기도 야</sent>
+<sent type="main" lang="kor" page="36" n="10">마음을 가다듬고 문 겻 밧 닥아셧더니</sent>
+<sent type="main" lang="kor" page="36" n="11">머리에 투구 갓흔 모 쓰고 허리에 단춍과 쟝금 찬 슌경들이 약한을 기다린 듯시 다라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="36" n="12">겨둘랑을 들고  고간 갓흔 집에 미러 드리치고 문을 탁닷 치니</sent>
+<sent type="main" lang="kor" page="36" n="13">약한이 겁결에 나를 가두가  지음에 안문이 열니지라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="36" n="14">셰 보니 아모도 업셔 쥬져다가 드러셔니 문이 발셔 닷치고  안문이 열리거</sent>
+<sent type="main" lang="kor" page="36" n="15"> 드러가니  닷치고  열니지라</sent>
+<sent type="main" lang="kor" page="36" n="16">이럿틋 몃십 간을 드러가되 안팟 문이 일시에 열닐 적은 업고</sent>
+<sent type="main" lang="kor" page="36" n="17">모도  편 열니면 한 편은 닷치더니</sent>
+
+<sent type="main" lang="kor" page="37" n="01">홀연 큰 문이 통고  사람이 약한의 를 찻 인을 쳐셔 주고 아모 말이 업스니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="37" n="02">졍히 궁금든 에 흰 비단  폭을 여 약한의 두 눈을 싸셔 질 동이더니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="37" n="03">두 사이  들고 다름박질야 이리 갓다 뎌리 갓다 바로 갓다 모로 갓다 </sent>
+<sent type="main" lang="kor" page="37" n="04">발을 에 붓칠 업고 눈은 캄캄 귀박휘에 바람은 훅훅 치며</sent><!--'캄캄'에서 뒤쪽의 '캄'과 '훅훅'에서 뒤쪽의 '훅'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="05">몸이 어로 가지 모로겟</sent>
+<sent type="main" lang="kor" page="37" n="06">방불히 층층 돌을 올나 방으로 드러가 듯더니</sent><!--뒤쪽의 '층'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="37" n="07">그제야 눈의 쓰인 것을 벗겨 노으니 졍신이 황홀야 어릿어릿 둘너보니</sent>
+<sent type="main" lang="kor" page="37" n="08">몸이  강당안에 잇지라</sent>
+<sent type="main" lang="kor" page="37" n="09">밧글 보려 니 면으로 류리챵을 쳔장 밋 밧삭 칙어여 공긔만 쏘이게 고</sent>
+<sent type="main" lang="kor" page="37" n="10">키 닷   곳도 업시니 밧긔 형편을  슈 업더라</sent>
+<sent type="main" lang="kor" page="37" n="11">조곰 잇더니 머리 겻 문 여 소리 더니 두 사이 드러와 의에 안지며</sent>
+<sent type="main" lang="kor" page="37" n="12">( 사) 젼일 삼십륙 구 보고셔에 학녁이 졔 즁 여 난다 얏기로 면시야 진위를 알고져 니</sent>
+<sent type="main" lang="kor" page="37" n="13">네 과연 그러면 본촌 추형고의 직원을 식일 것이니 이 두어 문뎨를 답라 고</sent>
+<sent type="main" lang="kor" page="37" n="14">슈학 리학 화학 등 문뎨를 거 약한이 낫낫치 응답</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="37" n="15">맛치 각 학교 우등도가  달 연습든 과뎡을 월죵에 시험듯 명민허고 쇽지라 두 사람이 셔로</sent>
+<sent type="main" lang="kor" page="37-38" n="16">두 사람이 셔로 보며 머리를 덱덱 더니</sent><!--셔^로--><!--뒤쪽의 '덱'은 재점으로 표기되어 있음-->
+
+<sent type="main" lang="kor" page="38" n="01">(  ) 네 시방 두 졈을 한고 이 그림을 그리라</sent>
+<sent type="main" lang="kor" page="38" n="02">우리 잠간 나갓다 곳 오리라 고 조의 두 권을 노코 나가니</sent>
+<sent type="main" lang="kor" page="38" n="03">그 그림은 증긔 긔관의 본보기 문뎨라</sent><!--'긔관'의 '긔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="04">이 졈 종을 지나 두 이 드러오거 약한이 그 그림을 드리니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="38" n="05">양인이 보고 칭찬다가 약한의 눈을  쓰이고 본구 춍리방에 녀간다</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="38" n="06">(춍리) 이졔 너를 이 추형고 제도실의 직원을 식이니 네 이곳에 법령 규측을 잘 직힐지어다</sent>
+<sent type="main" lang="kor" page="38" n="07">(약) 삼가 봉려니와 다만 법령 규측을 자셰 모로이다</sent>
+<sent type="main" lang="kor" page="38" n="08">(춍리) 뎨일은 네 봉직 제도 실외에 촌보라도 밧게 나가지 못고</sent>
+<sent type="main" lang="kor" page="38" n="09">뎨이 이곳에 일뎡 군률로 종 만일 일호라도 위반면 곳 엄즁 벌을 당 거시오</sent><!--'일호'의 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="38" n="10">뎨삼은 본구의 듯고 보 일을 밧갓 사에게 루셜치 못 것이오</sent>
+<sent type="main" lang="kor" page="38" n="11">뎨 너의 왕복 셔신을 총리방의 와셔 보이며 다만 네 가간 셔이나 샹통고 기외 일졀 금단리니</sent>
+<sent type="main" lang="kor" page="38" n="12">네 이 네 가지를 쥰봉 진 곳 오날부터 뎨도실에 봉직리라</sent>
+<sent type="main" lang="kor" page="38-39" n="13">약한이 마의 실로 즁죄를 짓고 감옥셔에 갓치나 다름 업시되 입으로 그리오리다</sent><!--입으로 ^ 그리오리다-->
+
+<sent type="main" lang="kor" page="39" n="01">(춍리) 그리면 오날 곳 츄형고 넷 제도실에 봉직되</sent>
+<sent type="main" lang="kor" page="39" n="02">네 거쳐 쳐소 로 잇고 네 식물은 샹등으로 공궤지며</sent>
+<sent type="main" lang="kor" page="39" n="03">네의 혹 가지고 온 구가 어 잇냐</sent>
+<sent type="main" lang="kor" page="39" n="04">(약한) 여긔 일용제구가 잇오면 쇼 구 밧게 두 것이 무방오이다</sent>
+<sent type="main" lang="kor" page="39" n="05">그날 져녁부터 약한이 쳐쇼에 잇셔 일동일졍을 모다 춍리방으로셔 규뎡고</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="39" n="06">혹 한가면 다른 졔도원과 음악 창가로 심신을 활발며</sent>
+<sent type="main" lang="kor" page="39" n="07">혹 장셔실에 드러가 셔젹을 마음로 아 여 셥녑고 기외의 졔도 공부에 잠심 이러라</sent>
+<sent type="main" lang="kor" page="39" n="08">약한의 실 밧게 텰란간을 둘너 촌보라도 넘어나가지 못고</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="39" n="09">문틈으로 보면 구름속 하 밋 닷 듯 집이 잇스니 소위 츄밀각이라</sent>
+<sent type="main" lang="kor" page="39" n="10">그 속에  속 집이 잇셔 젼 셰계에 듯지 못든 살인졔구를 감초앗다 며</sent>
+<sent type="main" lang="kor" page="39" n="11"> 각즁에 긔밀실이라  집이 잇셔 집 안 집 밧게 모다 텰판으로 벽을 막고 </sent>
+<sent type="main" lang="kor" page="39" n="12">강텰로 문을 다라 엄밀게 잠가 불이 붓허도 타지 못고 물 부어  틈 업시 견고다 니 </sent>
+<sent type="main" lang="kor" page="39" n="13">이 동관졔인의게 드른 말이라</sent>
+<sent type="main" lang="kor" page="39-40" n="14">쳐음 료량은 이곳에 드러 오면 임의로 놀고 단니며 혹 츄밀각의 일을 알 엿더니</sent><!--엿더^니-->
+
+<sent type="main" lang="kor" page="40" n="01">달이 팔을 다 동인 듯 밧게 나가지 못고 눈 고 귀 막은 듯 밧갓 소문도 들를 슈 업지라</sent>
+<sent type="main" lang="kor" page="40" n="02">심즁에 울젹다가 다시 각되</sent>
+<sent type="main" lang="kor" page="40" n="03">만일 츄밀각의 비밀를 일 년에 모로면 삼 년이오 삼 년에 모로면 오 년이오 오 년에 모로면 십 년 이십 년 삼십 년이라도 긔어코  목젹을 달고 말니라</sent>
+<sent type="main" lang="kor" page="40" n="04">로 약한이 졔도에 참착더니 하인이 엿오</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="40" n="05">오날 총리방에셔 뎐화로 션을 청이다</sent>
+<sent type="main" lang="kor" page="40" n="06">약이 하인을 라 춍리방에 가니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="40" n="07">(춍리) 오날 인비 군이 명령되 츄밀각의 직원이 궐엿시니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="40" n="08">츄형고에 제일등 제도원을 갈히여 보라 얏기</sent>
+<sent type="main" lang="kor" page="40" n="09"> 각건 뎨일등 제도원은 네가 감당겟기로 쳔거얏노라</sent>
+<sent type="main" lang="kor" page="40" n="10">약한이 마음에 감당치 못 톄고 밋쳐 답지 못야 희이 만면을 닷지 못니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="40" n="11">춍리 약한이  승되 것을 됴화헌다 고 허허 우시며</sent><!--'약한'에 단선 밑줄--><!--''에서 뒤쪽의 '', '허허'에서 뒤쪽의 '허'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="40" n="12">각하의게 치하노라 이로좃 각하가 디위를 엇어시니</sent>
+<sent type="main" lang="kor" page="40" n="13">우리들도 다른 날 각하의 힘을 입으리라</sent>
+
+<sent type="main" lang="kor" page="41" n="01">어셔 츄밀각에 가 보시오</sent>
+<sent type="main" lang="kor" page="41" n="02">약한이 평 골돌든 츄밀각을 졸디에 보게 되니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="41" n="03">심신이 비월야 젼일 즁앙구에 쳐음 드러올 보다 몃 갑졀이나 더 무셥고 더 됴흔지라</sent>
+<sent type="main" lang="kor" page="41" n="04">어느 결에 츄밀각 계하에 이르니 굉장 찬란 누각이 눈에 현황더니</sent>
+<sent type="main" lang="kor" page="41" n="05">다리 밋 우루루  쳔동소리 갓치 나며 열두 층계가 뒤놉지라</sent><!--'우루루'에서 뒤쪽의 '루', ''에서 뒤쪽의 ''은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="41" n="06">심즁에 혜오 밋 텰도가 잇다더니 화륜거가 지나가 보다 며</sent>
+<sent type="main" lang="kor" page="41" n="07">층계에 올나 뎨일 실을 보니 쟝벽 창호가 모다 붉은 빗이요</sent>
+<sent type="main" lang="kor" page="41" n="08">뎨이 실에 이르니 모다 검은 빗이오 뎨 삼실에 드러가니 보라빗이라</sent>
+<sent type="main" lang="kor" page="41" n="09">다른 은 일졈도 업고 젼면은 방방이 금박으로 록을 겻드려 이고</sent>
+<sent type="main" lang="kor" page="41" n="10">중앙에 대리셕으로 탁를 들어 노코</sent>
+<sent type="main" lang="kor" page="41" n="10">그 압교의 우에  사이 일이만 보셕 물리에 녀송연을 박아 연긔 옥게 퓌이고 안졋시니</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="41" n="11">이곳 쳘셰계 왕이오 련쳘쵼 쥬인이오 젼 야라부 대학 교슈 화학 인비 군이라</sent><!--'야라부'에 쌍선 밑줄, '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="41" n="12">인비가 약한을 보고 잠간 머리를 숙인지 만지 고 다른 사람을 보며 슈작듯 다</sent><!--'인비'와 '약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="41" n="13">네가 추형고 제도원이냐</sent>
+<sent type="main" lang="kor" page="41" n="14">(약한) ……</sent>
+<sent type="main" lang="kor" page="41" n="15">(인비) 어졔 너의 제도를 보니 되긴 되얏더라만는</sent>
+<sent type="main" lang="kor" page="41" n="16">그러 증긔 긔관 외에  무엇을 잘 냐</sent><!--'긔관'의 '긔'는 재점으로 표기되어 있음-->
+
+<sent type="main" lang="kor" page="42" n="01">(약한) 그외에 략간 온게 잇오니 시험시면 답오리다</sent>
+<sent type="main" lang="kor" page="42" n="02">(인비) 네 챵포 화긔등도 아냐</sent>
+<sent type="main" lang="kor" page="42" n="03">(약) 련슉지 못오나 평 됴화야 발명도 잇오나 대방가 안목에 젹합지오</sent>
+<sent type="main" lang="kor" page="42" n="04">인비가 그제야 머리를 도리켜 다시 믓다</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="42" n="05">그러면 너 나를 위야 이 대포의 도식을 그려라</sent>
+<sent type="main" lang="kor" page="42" n="06"> 곳 너로 폭발약에 치여 죽은 손내의 대를 식히리라</sent><!--'손내'에 단선 밑줄-->
+<sent type="main" lang="kor" page="42" n="07">면셔 속으로 혼말이</sent>
+<sent type="main" lang="kor" page="42" n="08">앗갑다 너도 즉이리로다</sent>
+<sent type="title2" lang="kor" page="42" n="09">뎨팔 쟝 비밀를 알면 죽이 인비의 률령이라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="42" n="10">약한이 츄밀각의 졔도 되야 날마다 인비 좌우에 잇셔 창포등 문뎨를 연구니</sent><!--'약한'과 '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="42" n="11">신긔 묘술에 의가 호회야 그 핍진 곳에 인비 탄도 고 항복지라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="42" n="12">이럼으로 지즁지야 쟘시도 나지 안이고 졈졈 계밀야</sent>
+<sent type="main" lang="kor" page="42" n="13">금슬황이 손가락 놀니 로 음향졀주에 쳥탁고져가 맛 듯더라</sent>
+<sent type="main" lang="kor" page="42" n="14">하로 인비 약한과 추밀각에셔 슐을 야 륙산포림이 랑고</sent><!--'인비'와 '약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="42-43" n="14">술이 얼근야 밧고 기로 슈쟉다</sent><!--얼근^야-->
+
+<sent type="main" lang="kor" page="43" n="01">인비 우스며</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="43" n="02"> 근일에 혼 각니 시방 셰상에 면보를 못 먹고 쥬를 못 마시 인죵이 부지기슈라</sent>
+<sent type="main" lang="kor" page="43" n="03">내 일본 바다 근쳐에 뎨이 련텰촌을 짓고 평 졍력을 다야 무등 살인공뎐구 지여</sent>
+<sent type="main" lang="kor" page="43" n="04">구만 리 셰계를 일이만 일통을 들고 도쳐에 면보 쥬로 일용 통샹 물품이 되게 얏시면</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="43" n="05">네 갓흐니가 어느 디방에 던지 면보 쥬 업 걱졍을 아니 거시니</sent>
+<sent type="main" lang="kor" page="43" n="06">쟝지 안켓나 쟝지 안켓나</sent>
+<sent type="main" lang="kor" page="43" n="07">(약) 참 그러진 쟝지마는 큰 말이지 젼 셰계를 엇지 일이만 일통을 들 슈 인뇨</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="43" n="08">내 각에 구라파  디방도 이런 망념을 못쇼</sent>
+<sent type="main" lang="kor" page="43" n="09">(인비) 네 일이만의 일통이 못 되겟다 구나</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="43" n="10">약한이 이 쥬  잔을 가득 부어들고 먹 인비의 이 말 양을 보고</sent><!--'약한'과 '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="43" n="11">약한이 손의 든 쥬를    드리켜고 잔을 턱 노으며</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="43" n="12">그럿소  각에</sent>
+<sent type="main" lang="kor" page="43" n="13">(인비) 네 소견의 뎡녕 그러면 그런 을 말여라 면셔</sent>
+<sent type="main" lang="kor" page="43" n="14">눈에 불덩이가 나 듯 샹열이 되거 약한이 못 보 톄고 죵용이  말이</sent><!--'약한'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="44" n="01">다 이 잇지요 오날날 일이만과 원슈 법란셔가 아니요</sent><!--뒤쪽의 '날'은 재점으로 표기되어 있음--><!--'일이만'과 '법란셔'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="44" n="02">그 졀치부심야  번 갑흐랴  지가 일조일셕이 아니라</sent>
+<sent type="main" lang="kor" page="44" n="03">드르니 근일 군비를 확쟝야 일이만 멧 갑졀이 되고</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="44" n="04">젼일 라파륜 뎨삼이 기 방장 일이만 병비가 확쟝고 법병이 밋쳐 뫼이지 못야 실긔얏기에</sent><!--'라파륜'에 단선 밑줄, '일이만'과 '법'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="44" n="05">산당의셔 항복고 파리를 앗겻지마는 시방은 그러 리 만무고</sent><!--'산당'과 '파리'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="44" n="06"> 량국의 평등 힘으로 말면 법국 사 하나히 일이만 사 솃식 넷식을 당지니</sent><!--'법'과 '일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="44" n="07">나 셔서 사이거니와 영국의 유식 사들도 평론이 이러오</sent><!--'셔서'과 '영'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="44" n="08">인비가 얼골이 불그락 푸르락 심쥴이 벌벌 이 소나며 금방 살인 것 갓지라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="44" n="09">(약한) 용셔시오 가 주후광감을 엿소</sent>
+<sent type="main" lang="kor" page="44" n="10">인비 조곰 신긔가 화평 듯나 말은 아니고 약한의 말만 드르려 다</sent><!--'인비'와 '약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="44" n="11">약한은 슐김이요 든 말이라 시쟉 김에 인비 래를 으랴고 분만 도도아 말이  련방 나온다</sent><!--'약한'과 '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="44" n="12">내 말이 허탄 말 아니지요</sent>
+<sent type="main" lang="kor" page="44" n="13">법국이 군신샹하 업시 골슈에 박힌 분심으로 군의 모양을 그리고 셜치 노를 지어</sent><!--'법'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="44" n="14">일심단톄로 셥혜 누어 담을 맛보니 젼일 은 도로혀 법국의 병졸 긔계를 발달게 촉박 바라</sent>
+<sent type="main" lang="kor" page="44-45" n="15">우리가 츄밀각에 잇셔 젼심치지야도 셰계에 졀 대포를 못 지엇고</sent><!--츄밀각에 ^잇셔-->
+
+<sent type="main" lang="kor" page="45" n="01">법국은 가륜특파의셔 얼마큼 신긔 대포를 짓지 알겟소</sent><!--'법'과 '가륜특파'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="45" n="02">인비 그졔야 말을 시쟉다</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="45" n="03">졔 아모리 신긔 대포를 짓기로 우리 졔에셔 좀 더 대포 업실가</sent>
+<sent type="main" lang="kor" page="45" n="04">(약) 군은 큰 말만 지 마오 우리 긔 지은 포가 이  밧게 더 되오</sent>
+<sent type="main" lang="kor" page="45" n="05">인비가 참지 못여</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="45" n="06">이  이  네 말이 올타 네 료량의  가능히 이  되 대포나 짓다 냐</sent>
+<sent type="main" lang="kor" page="45" n="07">(약한) 셜혹 이런 대포를 짓기로 엇지 뎌 법국의 경년열셰토록 고심갈력 긔계를 당며</sent><!--'법'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="45" n="08"> 우리가 이  되는 대포를 지으면 법국은   오 를 지을지 엇지 알</sent><!--'법'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="45" n="09">시방 우리 형편은 이런 대포 짓지도 못엿고 완젼 긔계 업시니</sent>
+<sent type="main" lang="kor" page="45" n="10">이것을 가지고 법국을 젹랴면 비샹이 곤란리니 각여 보오</sent><!--'법'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="45" n="11">인비 듯다가 각여 보라 소리에 긔가 막혀 벌덕 이러셔며 팔을 리치고 문 박그로 나가더니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="45" n="12">이리 오게 이리 와</sent>
+<sent type="main" lang="kor" page="45" n="13">약한이 마지 못 톄고 라간다</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="45" n="14"> 곳에 이르니 전면에 큰 목상가 놉기 칠팔 쳑 되고 문이 업가 얏더니</sent>
+<sent type="main" lang="kor" page="45-46" n="15">인비 먼져 방모퉁이로 도라가더니 엇더케 야 문을 여지 약한은 밋쳐 못 보앗더라</sent><!--'인비'와 '약한'에 단선 밑줄--><!--인비 ^ 먼져-->
+
+<sent type="main" lang="kor" page="46" n="01">목상의 쌍바라지가 홀연 열니며 셰렴이 것치더니  길이 드려다 보이고</sent>
+<sent type="main" lang="kor" page="46" n="02">대리셕으로 층계를 싸아 셜갓치 눈이 부시지라</sent>
+<sent type="main" lang="kor" page="46" n="03">인비를 라 졈졈 려가니 도쳐에 문을 잠갓</sent><!--'인비'에 단선 밑줄--><!--뒤쪽의 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="04">인비 낫낫치 쇠로 열며 드러가니 디혱이 도로 졈졈 놉하지고</sent><!--'인비'에 단선 밑줄--><!--'낫낫치'에서 뒤쪽의 '낫'과 '졈졈'에서 뒤쪽의 '졈'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="05">십여 문을 지나 십여 칭계를 올나 샹샹층에 이로니 츄밀각 이에 왓더라</sent><!--뒤쪽의 '샹'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="46" n="06">인비 약한을 고 이곳지 오되 아무 말도 업더니</sent><!--'인비'와 '약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="46" n="07">홀연 약한을 멈쳐 셰우고 가르치며</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="46" n="08">보아 보아</sent>
+<sent type="main" lang="kor" page="46" n="09">약한이 혀보니 덩그려케 산덤이 갓흔 물건이 입은 륙칠 척이나 되야 어웅</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="46" n="10">예 사은 고도 숙이지 안코 드나들겟시며</sent>
+<sent type="main" lang="kor" page="46" n="11">밋 강텰거로 밧쳐 노코  그 밋 텰로를 라 두 박휘 언치엿시니</sent>
+<sent type="main" lang="kor" page="46" n="12">조고만 아라도  손으로 고동을 틀면 다라날지라</sent>
+<sent type="main" lang="kor" page="46" n="13">약한이 보고 혀를 두르며 허허 크고 면셔 인비를 보고 룡춤을 취인다</sent><!--'약한'과 '인비'에 단선 밑줄--><!--뒤쪽의 '허'는 재점으로 표기되어 있음-->
+
+<sent type="main" lang="kor" page="47" n="01">이 대포가 치 심이 얼마나 오</sent>
+<sent type="main" lang="kor" page="47" n="02">(인비) 오 리 밧게 넉  둙게 텰팔을 치면  부스럭이 되니</sent>
+<sent type="main" lang="kor" page="47" n="03">(약) 멀이 가 힘은…</sent>
+<sent type="main" lang="kor" page="47" n="04">인비 실젹 우시며</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="47" n="05">아마 삼십 영리 가</sent>
+<sent type="main" lang="kor" page="47" n="06">약한이 인비의 말눈치를 모로 톄하고 놀나며</sent><!--'약한'과 '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="47" n="07">삼십 영리 삼십 영리 그것  대단오 그러나 엇던 화약을 쓰오</sent>
+<sent type="main" lang="kor" page="47" n="08">(인) 내 예다가 화약면을 쓰랴 노니 화약면의 독긔 심상 화약보다   되고</sent>
+<sent type="main" lang="kor" page="47" n="09">내가 다년 연구야 든 화약면은  심상 화약면보다 오  된즉</sent>
+<sent type="main" lang="kor" page="47" n="10">모도 이십  되겟시니 엇더고</sent>
+<sent type="main" lang="kor" page="47" n="11">(약) 그러면 샹품 강텰로 이 대포를 짓고 이런 렬 염초를 쓰면</sent>
+<sent type="main" lang="kor" page="47" n="12">오 방 안에 포신이 파상야 열 방이 못 가셔 아조 버리지 안켓소</sent>
+<sent type="main" lang="kor" page="47" n="13">(인) 션은 그만두오 나 이 대포가 쳣 방에 파상될 줄로 아오</sent>
+<sent type="main" lang="kor" page="47" n="14">약한이 이 참 놀나 말로 그러면 이 대포 짓기에 얼마나 력이 드럿쇼</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="47" n="15">(인) 이 하나에 일만 원은 드럿쇼</sent>
+
+<sent type="main" lang="kor" page="48" n="01">약한이 더욱 놀나며</sent>
+<sent type="main" lang="kor" page="48" n="02">그러면 이 대포  방 노키에 만 원 황금을 공연히 허비오</sent>
+<sent type="main" lang="kor" page="48" n="03">(인) 션도 시오 엇지 구구 만 원을 앗기고 뎌것에 닥치 곳에 몃억만 원 손를 모로시오</sent><!--뒤쪽의 '구'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="04">(약한) 그러나 이졔 평 힘을 다 드려 셰계에 업 대포를 지엇시나</sent>
+<sent type="main" lang="kor" page="48" n="05"> 불과 츄형고에 엉덩 구경거리나 되얏지 엇다가 써보아야 아니오  말이 밋쳐 못 맛쳐</sent>
+<sent type="main" lang="kor" page="48" n="06">인비 부화가  이러다</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="48" n="07">엇다가 쓰냐 엇다가 쓰냐 내 긔위 네를 긔이지 아니 바에</sent>
+<sent type="main" lang="kor" page="48" n="08">낫낫치 뵈이기로 엇덜게 잇나 네 날를 라오게</sent><!--뒤쪽의 '낫'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="48" n="09">샹층의셔 려와  곳에  이르니 이곳에 둥글고 큰 통을 무슈히 싸앗거</sent>
+<sent type="main" lang="kor" page="48" n="10">약한이 각되 필시 신발명 화포에 소속품이로다 고 갓가히 가 셰볼</sent>
+<sent type="main" lang="kor" page="48" n="11">인비 가르치며 보앗나 이거슨 대포에 탄환일셰</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="48" n="12">약한이 경야 갓가히 가셔 두루 히니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="48" n="13">탄환의 기리 륙 쳑이오 부페 삼 척이라</sent>
+<sent type="main" lang="kor" page="48" n="14">젼신을 강텰로 부어 짓고 입은 납으로 봉엿시며  강철판으로 밋흘 랏지라</sent>
+<sent type="main" lang="kor" page="48-49" n="15">약한이  보며  실야 심신을 졍치 못에 졍츙증 나듯 지라</sent><!--'약한'에 단선 밑줄--><!--지^라 -->
+
+<sent type="main" lang="kor" page="49" n="01">인비 그 긔을 보고</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="49" n="02">(인) 네 이것을 알겟냐</sent>
+<sent type="main" lang="kor" page="49" n="03">(약) 몰나  알면 무엇나 이닥지 크고 긴 탄환을 무엇에 쎠</sent>
+<sent type="main" lang="kor" page="49" n="04">(인) 안일셰 이 탄환이 것흐로 보면 대단히 무거울 듯 나 그 속은 젼공이오</sent>
+<sent type="main" lang="kor" page="49" n="05">씰 에 그 속에 류동탄산을 야 탄환이 져 닥치 곳에 탄산이 터져 와가 되야 공긔 즁에 흐터지면</sent>
+<sent type="main" lang="kor" page="49" n="06">쥬회  쟝 안에 어름 텬지가 되야 셰쇄 동물이라도 다 어러 죽고 람이 독 와에 긔졀야 죽 고로</sent>
+<sent type="main" lang="kor" page="49" n="07"> 평 공부야 득 묘술을 랑건</sent>
+<sent type="main" lang="kor" page="49" n="08">포탄의 힘은 직졉으로 을 죽이고  와에 여독은 간졉으로 람을 죽인즉</sent>
+<sent type="main" lang="kor" page="49" n="09">이 두 가지로 살인 효력을 발달엿노라 면셔 손바닥을 치며 방약무인다가</sent>
+<sent type="main" lang="kor" page="49" n="10"> 약한을 보며 네 각여 보아라 이제  낫 탄환의 폭력이 근  보 안에 인죵을 죽일지니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="49" n="11">종횡 만 보 되 너른 도회에 이 탄환  개를 노흐면</sent>
+<sent type="main" lang="kor" page="49" n="12">슈만 가호에 일도부가 순식간에 탄산와 바다가 될지라</sent>
+<sent type="main" lang="kor" page="49" n="13">내  이런 리치를 경험얏시니 년젼에 의리국에 류람 졔</sent><!--'의리'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="49" n="14">파리 지방에 동【살동은 탄산와가 여 개나 괴나 그 안에 드러가면 즉 고로 동이라 】을 보앗고</sent><!--'파리'와 '동'에 쌍선 밑줄-->
+
+<sent type="main" lang="kor" page="50" n="01">쟉년에 네가 용을 쓰고 탄광 밋 드러가 극아를 챠졋거니와</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="50" n="02">극아 죽기도 이 독기로 그런 것이니 이 두어 가지 경험이 여지라</sent><!--'극아'에 단선 밑줄-->
+<sent type="main" lang="kor" page="50" n="03">이럼으로 몃를 궁리야 이 대포를 신발명얏노라</sent>
+<sent type="main" lang="kor" page="50" n="04">네 아모리 력이 총민들 탄산을 가져 삽시간에 일도부를 와 바다가 되게  쥴은 몰낫실나</sent>
+<sent type="main" lang="kor" page="50" n="05">그러나 내 마에 오히려 미흡 것이 이 탄환 질 젹에 소리가 몹시 나 게 미 업겟노라</sent>
+<sent type="main" lang="kor" page="50" n="06">엇더케 면 아무 소리 업시 달이나 고 셔리 찬 밤에 슈만 가호 십만 인구와 바 소 개 지라도</sent>
+<sent type="main" lang="kor" page="50" n="07">무슨 을 모로고 밥 듯 일시에 어름 텬디 눈 궁게 영쟝얏시면</sent>
+<sent type="main" lang="kor" page="50" n="08">그 안니 셰계에 쟝관이며 남아의 상쾌 일이랴</sent>
+<sent type="main" lang="kor" page="50" n="09">이 문뎨로 궁리노라고 요이 을 못 나</sent>
+<sent type="main" lang="kor" page="50" n="10">대강 짐쟉이 나셔니 몃칠 더 각야 보겟다</sent>
+<sent type="main" lang="kor" page="50" n="11">(약한) 참쟝시오 이런 업은 쳔고만고에 업 업이요</sent>
+<sent type="main" lang="kor" page="50" n="12">그러 나 종시 의단이 업지 못오</sent>
+<sent type="main" lang="kor" page="50" n="13">(인비) 허허 무슨 의단이 잇</sent><!--뒤쪽의 '허'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="50" n="14">(약한) 이 탄환을 속이 비게 야 유동탄산을 너으면</sent>
+<sent type="main" lang="kor" page="50" n="15">탄환이 무게가 업셔 앗가 말로 삼십 영리를 갈가 십지 못오</sent>
+<sent type="main" lang="kor" page="50" n="16">(인비) 그난 내 말이 괴이치 아니겟네</sent>
+
+<sent type="main" lang="kor" page="51" n="01">삼십 영리 가게  법이 로 잇스니 가 들으면 짐작리</sent>
+<sent type="main" lang="kor" page="51" n="02">뎌긔 그 즁 큰 탄환 속에 근 탄환을 슈 십 층으로 겹겹이 너코 이에 팝씨약을 오면</sent><!--뒤쪽의 '겹'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="51" n="03">와가 화약의 힘 부리 로 멀리 가고</sent>
+<sent type="main" lang="kor" page="51" n="04">슈십 탄환이 일졔히 터지며 좌츙우돌면 일도부가 두례 지고  돌바닥이 될 테일셰</sent>
+<sent type="main" lang="kor" page="51" n="05">아모려나 내가 시험을 못얏기에 불일 내에 시험 터이니</sent>
+<sent type="main" lang="kor" page="51" n="06">그 네외 시험쟝에 나가셔 피 흘너 가 되고  모와 산이 되 걸 보면</sent>
+<sent type="main" lang="kor" page="51" n="07">그제야 가 내 말이 올흔 쥴 알니라  헤</sent>
+<sent type="main" lang="kor" page="51" n="08">약한이 어린아 응셕듯 차 가며</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="51" n="09">그러면 언의 응 어다가 응 어듸다가 응면샤 말을 겁흐 니</sent>
+<sent type="main" lang="kor" page="51" n="10">인비  졈잔아졋셔 눈을 푸리고 핀을 쥬며 그것은 알어 무엇고 다가</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="51" n="11">약한의 무료히 잇 것을 참 보더니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="51" n="12">네 졍 알고져 너냐</sent>
+<sent type="main" lang="kor" page="51" n="13">뎌긔 뎌 문 밧게 뎌 산 넘어 쟝슈촌이라  마을이 예셔  삼십 영리라</sent>
+<sent type="main" lang="kor" page="51" n="14">오날 초닷니 인졔  쥬일 지나 열흔 날 졍밤중에 이 탄환이 압산을 나라 넘어 쟝수촌 복판에 러지면</sent>
+<sent type="main" lang="kor" page="51-52" n="15">십여만 라젼 인죵이 함몰다 면셔 소리를 지르고 억를 읏씩읏씩 며</sent><!--'라젼'에 쌍선 밑줄--><!--함몰다 ^ 면서-->
+
+<sent type="main" lang="kor" page="52" n="01">허허 네 일이만 학 인비 말  마  러지면 텬하쟝 라파륜은 다 무엇시냐  서실에</sent><!--'일이만'에 쌍선 밑줄--><!--'인비'와 '라파륜'에 단선 밑줄--><!--뒤쪽의 '허'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="52" n="02">약한이 눈이 멀둥멀둥 이마에셔 벼락이 리 듯고 젼신이 어름 갓여</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="52" n="03">소룸이 죽죽 치고 혀가 굿어 아모 말도 못지라</sent><!--뒤쪽의 '죽'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="52" n="04">인비가 약한의 이러 거동을 히지 못고  허허 우시며</sent><!--'인비'와 '약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="52" n="05">나 쟝슈촌 쥬인과 일졀 치야 져 인명을 쟝슈랴 고 나 인명을 츅랴 니</sent>
+<sent type="main" lang="kor" page="52" n="06">이런 반대의 범의 셰계에 업지 셰계에 업지</sent>
+<sent type="main" lang="kor" page="52" n="07">약한이 머리를 슉이고 졍신을 려  말이</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="52" n="08">그러면 쟝슈촌 인민이 군의게 무삼 원슈며 무삼 죄를 젓기에 군이 진멸야 죵를 업시 랴 오</sent>
+<sent type="main" lang="kor" page="52" n="09"> 말을  맛치지 못야 인비가 욱 지르며</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="52" n="10">소위 션악졍이라 은 피의 거리  말이니</sent>
+<sent type="main" lang="kor" page="52" n="11">착다  것은 뎌것이 이보다 낫다 것이요 악다  것은 이게 뎌보다 못다  것이니</sent>
+<sent type="main" lang="kor" page="52" n="12">우리가 쟝슈촌을 멸망랴 것을 남들이 약다 독다 지라도</sent>
+<sent type="main" lang="kor" page="52" n="13">이 불과 샤회샹에 조고만 인졍으로 평론 것이라</sent>
+
+<sent type="main" lang="kor" page="53" n="01">텬디의 대법 공심을 말면 존 경 셰계에 우등 인죵이 익이고 열등 인종은 패며</sent>
+<sent type="main" lang="kor" page="53" n="02">약 가 고기 되고 강 가 먹으며 묵어온 물건은 기고 거벼온 물건은  것이 텬디 에  리치라</sent><!--뒤쪽의 ''은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="03">이런 고로 셰계에 셰력 잇 사이 텬디의 대법 공심을 승슌야 대표가 되거</sent>
+<sent type="main" lang="kor" page="53" n="04">뎌 좌션은 이 대법 공심을 억의고 나젼의 렬등 인죵을 번셩랴 니</sent><!--'좌션'에 단선 밑줄, '나젼'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="53" n="05">이 하을 거시르 ㅣ라</sent>
+<sent type="main" lang="kor" page="53" n="06">역텬 망이라  말을 그대 못 드러냐</sent>
+<sent type="main" lang="kor" page="53" n="07">슯흐다 쟝슈촌에 나젼 인죵 십만 구가 눈  번 거릴 이에 셰상을 모를 쥴 엇지 이나 어시랴</sent><!--'나젼'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="53" n="08"> 것을 보고 약한이 말이 막혀 못 거슨 아니요</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="53" n="09">속죵은 만일  말을 밧쳐 다가 인비가 급 셩결에 무 독을 부릴지도 모로겟고</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="53" n="10"> 쟝슈촌을 일헤도 기다리지 안코 당쟝 거조를  디경이면</sent>
+<sent type="main" lang="kor" page="53" n="11">밋쳐 죠슈죡야 쟝슈촌에 긔별도 못고 폭망지라</sent>
+<sent type="main" lang="kor" page="53" n="12">이럼으로 약한이 듯기만 고 아모 말 업시 쥬셕으로 도라왓더라</sent><!--'럼으'에 단선 밑줄-->
+<sent type="main" lang="kor" page="53" n="13">인비 약한을 다리고 도라와 의에 안져 뎐긔 방울을 흔들더니 하인이 드러오거</sent><!--'인비 약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="53" n="14">아이밀과 디의 두 사을 쳥야 오게 여라 고</sent><!--'아이밀'과 '디의'에 단선 밑줄-->
+<sent type="main" lang="kor" page="53" n="15">담를  며 안졋 모양이 괴샹거</sent><!--뒤쪽의 ''은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="53" n="16">약한이 겻눈질야 보다가 비위를 조곰 맛츄어 볼가 고 의를 갓가히 닥어 노코 종용이  말이</sent><!--'약한'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="54" n="01">그런즉 각하가 이 일를 작히 비밀게 겟쇼</sent>
+<sent type="main" lang="kor" page="54" n="02">인비가 빙긋빙긋 우시며  를 보고</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="54" n="03">허 춍명거니 우리 약한이야 비밀고  비밀기를 일으게나</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="54" n="04">그러나 졀통 것이 네 갓혼 쳥년에 력으로 셰상을 하직게시니 그 아니 졀통가</sent>
+<sent type="main" lang="kor" page="54" n="05">약한이 의의셔 니러랴 거 인비  붓드러 안치고</sent><!--'약한'과 '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="54" n="06">네 놀나지 말쇼 내 실졍으로 말셰</sent>
+<sent type="main" lang="kor" page="54" n="07">내가 이 일을 비밀히 기에 속담에 말로 부시렴을 두면 고름이 난다 으로  일을 안 쟈 미리 업야 걱졍이 안되 고로</sent>
+<sent type="main" lang="kor" page="54" n="08">가 결심얏노라 면셔 방울을  흔드니</sent>
+<sent type="main" lang="kor" page="54" n="09">아이밀 디의 두 놈이 발셔문에 드러셔지라</sent><!--'아이밀'과 '디의'에 단선 밑줄-->
+<sent type="main" lang="kor" page="54" n="10">인비가 약한을 도라보며</sent><!--'인비'와 '약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="54" n="11">네가 나의 비밀를 알고져 기의 내가 다 일너쥬엇시니</sent>
+<sent type="main" lang="kor" page="54" n="12">네 이 셰상을 나  닐를 루셜치 말면 죠켓</sent>
+<sent type="main" lang="kor" page="54" n="13">약한이 머리를 폭 슉이고 묵묵히 안졋실 이라</sent><!--'약한'에 단선 밑줄--><!--뒤쪽의 '묵'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="54" n="14">(인비) 너의 총명 력을 엇지 즁치 아니리요마는</sent>
+<sent type="main" lang="kor" page="54" n="15">내가 텬의를 밧아 대를 기에 구구 사의 목슘을 앗길 슈 업도다</sent><!--뒤쪽의 '구'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="54-55" n="16">이졔 진담으로 네게 고거니와</sent><!--고거니^와-->
+
+<sent type="main" lang="kor" page="55" n="01">전일 네 벼 단이던 손래도 나의 비밀를 알앗기에 죽이고 거지 폭발약에 죽엇다 얏시니</sent>
+<sent type="main" lang="kor" page="55" n="02">내 비밀를 알면 곳 죽이 것은 인비의 률령이라</sent>
+<sent type="main" lang="kor" page="55" n="03">률령을 어긔지 못니 네 각여 보아라</sent>
+<sent type="main" lang="kor" page="55" n="04">약한이 인비의 신을 보니 구셜로 닷투지 못겟고 비러셔 면치 못지라</sent><!--'약한'과 '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="55" n="05">이에 머리를 들고 그러면 언의 가 나의 셰샹 하직 이며 무 법으로 나의 목슘을 으랴 냐</sent>
+<sent type="main" lang="kor" page="55" n="06">(인비) 다른 죄인 갓흐면 쥭을　에 무한 고쵸를 젹게 지마</sent>
+<sent type="main" lang="kor" page="55" n="07">너 호걸의 사이라 내가 참혹게 지 안으리니</sent>
+<sent type="main" lang="kor" page="55" n="08">슈일 동안 언의 밤이고 네가 다가 영영 지 못하게  것이니</sent><!--뒤쪽의 '영'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="09">그가 너 셰상 하즉 줄 알어라</sent>
+<sent type="main" lang="kor" page="55" n="10">말을 맛치며 아이밀 디의 두 놈을 향야 턱짓을 니</sent><!--'아이밀'과 '디의'에 단선 밑줄-->
+<sent type="main" lang="kor" page="55" n="11">두 놈이 달녀들며 덜미 치고 멱 드러 게지 갓흔 방에 가도더라</sent>
+<sent type="title2" lang="kor" page="55" n="12">뎨구 쟝 녀아화女兒花의 신긔 공효</sent>
+<sent type="main" lang="kor" page="55" n="13">약한이 갓치여 밤이 깁도록 잠을 지 못고 별 각이 다 다</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="55" n="14">인비의 말이 자다가 영영 지 못고 죽어도 닭을 모론다니</sent><!--'인비'에 단선 밑줄--><!--뒤쪽의 '영'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="55" n="15">오날밤 언의 가 아조 셰상을 영결 지 알 슈 업시니</sent>
+<sent type="main" lang="kor" page="55" n="16">나의  몸 쥭기 원통치 안커니와</sent>
+<sent type="main" lang="kor" page="55" n="17">쟝수촌 십여만 인죵이 인비  놈의 숀에 업셔질 각을 면</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="55-56" n="18">가이 두군두군니 엇지 이 오리오</sent><!--엇^지-->
+
+<sent type="main" lang="kor" page="56" n="01">구 월 열흔 이 시방 일헤를 격얏시나</sent>
+<sent type="main" lang="kor" page="56" n="02">무 슈로 져를 방며 무 슈로 져 대포와 츄밀각을 업시 고</sent>
+<sent type="main" lang="kor" page="56" n="03">촌박그로 도망야  름에 장슈촌을 여 갈고</sent>
+<sent type="main" lang="kor" page="56" n="04">입을 악물고 두 주먹을 불 쥐고 닷고져 나</sent>
+<sent type="main" lang="kor" page="56" n="05">뎌 두 놈이 건장야 엄밀게 직히고 셧시니 틈을 탈 슈 업고</sent>
+<sent type="main" lang="kor" page="56" n="06"> 인비 랑되  탄한으로 젼도부를 친다 며</sent>
+<sent type="main" lang="kor" page="56" n="07">삼십 영리 가 속력과 이십  되 폭력이 잇다 니</sent>
+<sent type="main" lang="kor" page="56" n="08">내 졔 말를 듯고져 엿지마 져도 미불 산슐 츄리에 정민니 그릇 리 업고</sent>
+<sent type="main" lang="kor" page="56" n="09">혹 탄환이 녈야 포신이 파상기 바랄가 되</sent>
+<sent type="main" lang="kor" page="56" n="10">원 단련기를 견고히 야 그럴 리치 만무니</sent>
+<sent type="main" lang="kor" page="56" n="11">슯흐다 장슈쵼이여 뉘 능히 독화를 페케 고</sent>
+<sent type="main" lang="kor" page="56" n="12">이럿틋 쳔만렴으로 장이 타 듯다가 동방이 지라</sent>
+<sent type="main" lang="kor" page="56" n="13">잇흔 날 약한이 방속에셔 도라다니가 심즁에 울젹여 손으로 문을 미러보니 다히 반만 답치엿거</sent>
+<sent type="main" lang="kor" page="56" n="14">몸을 부비고 나와 압에 거니다가 헤오</sent>
+<sent type="main" lang="kor" page="56" n="15">만일이 틈을 타 담을 넘어 도망면 거의 될 다 더니</sent>
+<sent type="main" lang="kor" page="56" n="16">아이밀 디의 두 놈이 눈 압 우둑셧지라</sent><!--'아이밀'과 '디의'에 단선 밑줄-->
+<sent type="main" lang="kor" page="56" n="17"> 각되 져 두 놈을 쳐박지로고 나가겟스나</sent>
+<sent type="main" lang="kor" page="56" n="18">장검 고 단총 가진 순경이 왕래니 젹슈공권으로 엇지 고</sent>
+<sent type="main" lang="kor" page="56" n="19">할일업셔 도로 드러와 져 두 놈의게 걸이나 여 볼가 나</sent>
+<sent type="main" lang="kor" page="56-57" n="20">두 놈이 귀 먹고 벙어리갓치 눈만 가지고 약한을 직힌다</sent><!--벙어^리갓치--><!--'약한'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="57" n="01">약한이 울며 비러도  셧고 웃고 달여도  셧고 짓고 욕야도  셧고</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="57" n="02">맥쥬를 잔에 들고 권야도 일향 셔셔 지 안지라</sent><!--뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="03">약한이 아모리 야도 두 놈은 요지부동이라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="57" n="04">날은 졈졈 다 거가고 곳 지면 오 밤을  엇지 살아 날고</sent><!--뒤쪽의 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="05">계몰으로 안져셔 두 놈의 거동만 핀다</sent>
+<sent type="main" lang="kor" page="57" n="06">두 놈이 약한을 직히고 잇셔 심심여 그럿튼지 원래 편기여 그런지 담배를 펄젹 먹</sent><!--'약한'에 단선 밑줄--><!--뒤쪽의 '심'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="07">담가 쎡 귀 모양이라 리를 골나 연가 식을  업시 조 먹지라</sent>
+<sent type="main" lang="kor" page="57" n="08">약한이 이를 보고 뭇득 각이 나며 에 나려  나무입흘  가지고 를 맛하 시험니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="57" n="09">그 나무 셔역 로 (람등라)라 고 번역면 녀아화(女兒花)라</sent>
+<sent type="main" lang="kor" page="57" n="10">그 셩질을  면 유독야 사이 믈어 치 성질이 잇슴으로</sent>
+<sent type="main" lang="kor" page="57" n="11">약한이 젼일 식물학 공부 에 보든 남긴가 고 시험얏더라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="57" n="12">이 약한이 녀아화의 닙을 셔 시험다가 가 지독야</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="57" n="13">손을 씨스랴 고 연못가의 이르러 두루 혀보니</sent>
+<sent type="main" lang="kor" page="57" n="14">못물이 깁지 안코 슈 잇셔 밧갓으로 통야 외쵼으로 나가거</sent>
+<sent type="main" lang="kor" page="57" n="15">다시 돌쳐 셔셔 그 나무닙을  가지고 도라와 먹든 담에 석거 두고 짐짓 두 놈을 뵈인다</sent><!--뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="57" n="16">두 놈 못 볼 젹에 슌젼 담를 밧구어 연에 담고 두 놈 보</sent>
+<sent type="main" lang="kor" page="57-58" n="17">불를 달혀  고 안졋스니 엇덜게 업지라</sent><!--뒤쪽의 ''은 재점으로 표기되어 있음--><!--^고-->
+
+<sent type="main" lang="kor" page="58" n="01">두 놈이 날마다 본즉 약한이 그 닙을 다가 담를 먹으니</sent>
+<sent type="main" lang="kor" page="58" n="02">관계치도 안코 담도 조혼지라</sent>
+<sent type="main" lang="kor" page="58" n="03">만일 약한을 직히고 잇 터이 안이요 다른 허물이 업시량이면</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="58" n="04">약한에 당장 먹 담를 쳥여 달나 엿겟지마는</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="58" n="05">슐도 안으 밧어 먹은 터에 로히 담 달나기 겸연야</sent>
+<sent type="main" lang="kor" page="58" n="06">푸르다 푸른 입흘 셔 볏 닌다 </sent>
+<sent type="main" lang="kor" page="58" n="07">이은 약한이 가친 지 그령뎌령 아흐래 되던 날이요</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="58" n="08">약한이 녀아화 닙을 셔 담 시쟉 지 나흘 되던 날이요</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="58" n="09">인비가 대포로 쟝슈촌 함몰식인다 열흔 날이라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="58" n="10">샹오가 훌젹 넘고 하오가 되야 비로쇼 두 놈이 녀아화 닙흘 셔 말니니</sent>
+<sent type="main" lang="kor" page="58" n="11">약한이 심즁에 하날이 나를 도으신가 며 어셔 말녀지고 어셔 여 먹어지고</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="58" n="12">져 두 놈이 먹으면  목젹이 달리라 며 조급야 안졋다 섯다 펄젹 드나드니</sent>
+<sent type="main" lang="kor" page="58" n="13">셔산에 러지 셕양이 졔 빗을 다 거두어 가지고 허위허위 가지라</sent>
+<sent type="main" lang="kor" page="58" n="14">이 아이밀 디의 두 놈이 녀아화 닙을 담에 석지도 안코  뭉쳐 불에 려</sent><!--'아이밀'과 '디의'에 단선 밑줄--><!--뒤쪽의 ''은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58" n="15">두 놈이 마조 셔셔 먹다가 이마박이를 맛부딋고 걱구러지더니</sent><!--뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="58" n="16">아조 죽은 놈갓치 졍신을 일헛더라</sent>
+<sent type="main" lang="kor" page="58-59" n="17">약한이 그 거동을 보고 올타 올타 며 급히 여 츄형고로 달녀드러</sent><!--보고 ^ 올타-->
+
+<sent type="main" lang="kor" page="59" n="01">졔 일실에 강텰 을 훔쳐 여 품의 감초고</sent>
+<sent type="main" lang="kor" page="59" n="02">츄형 슈십 를  모아 석냥을 박박 거어셔 네 곤 불를 질으니</sent><!--뒤쪽의 '박'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59" n="03">가련다 츄형고에 삽시간 화광이 츙텬지라</sent>
+<sent type="main" lang="kor" page="59" n="04">쳐음에 약한이 츄밀각에 불을 노랴다가</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="59" n="05">이곳은 파슈가 엄밀  아니라 각 졔조가 모도 강텰이니</sent>
+<sent type="main" lang="kor" page="59" n="06">조곰 그릇면  호랑이 코 찌르기라 고 먼져 츄형고에 츙화니</sent>
+<sent type="main" lang="kor" page="59" n="07">이 츄형은 모도 남그로 든 것이라 갈님에 불붓듯 야 검은 연긔 면에 이러나니</sent>
+<sent type="main" lang="kor" page="59" n="08">일시에 불이야 소리 젼촌이 뒤집고 각쳐의 검의쥴 갓혹 뎐화쥴이 응응 울니더니</sent><!--뒤쪽의 '응'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59" n="09">촌내 각구에셔 번갓치 달년 면팔방으로 구화대가 모라들며</sent>
+<sent type="main" lang="kor" page="59" n="10">인비 한 나아와 긔률엄병고 수죡련숙 구화을 지휘야</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="59" n="11">슈십  무위를 근방 못에 당거 노코 증긔 긔관으로 물을 켜</sent><!--'긔관'의 '긔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="59" n="12">은하슈를 기우린 듯나 화셰 더욱 렬지라</sent>
+<sent type="main" lang="kor" page="59" n="13">인비  소리를 크게 지로며</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="59" n="14">뉘 능히 본고의 드러가 목샹에 대포 본보기를 여오면 샹금 심만 원을 쥬리라 나</sent>
+<sent type="main" lang="kor" page="59" n="15">아모도 나셔지 못지라</sent>
+<sent type="main" lang="kor" page="59" n="16">그 본보기 인비가 신발명 것이니 십만 원이 비록 즁상이나</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="59" n="17">뎌 렬화 즁에 드러갓다 몸덩이 타 쥭으면 만 원인들 씰  잇스리오</sent>
+<sent type="main" lang="kor" page="59" n="18">이럼으로  사도 응셩 이 업더니</sent>
+<sent type="main" lang="kor" page="59-60" n="19">홀연 인비 등 뒤의셔 소리 지르며 내가 간다 내가 간다  소리에</sent><!--'인비'에 단선 밑줄--><!--지르며 ^ 내가-->
+
+<sent type="main" lang="kor" page="60" n="01">인비가 반야 불빗헤 얼는 보니 약한이라</sent><!--'인비'와 '약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="60" n="02">(인비) 네가 약한이냐</sent>
+<sent type="main" lang="kor" page="60" n="03">(약한) 그럿쇼</sent>
+<sent type="main" lang="kor" page="60" n="04">(인비) 네가 대포 본보기를 여 오면 내 너를 션고고 쥭이지 아니아</sent>
+<sent type="main" lang="kor" page="60" n="05">(약한) 죽으나 나 고심갈력든 본보기가 가 되겟시니 엇지 앗갑지 안쇼</sent>
+<sent type="main" lang="kor" page="60" n="06">나 이러나 뎌러나 쥭기 일반이니 조금이라도 본촌에 유익기를 바라오</sent>
+<sent type="main" lang="kor" page="60" n="07">(인비) 쟝다 우리 약한이여 아모려 너 쥭으면 십만 원은 네 유족을 져 쥬리라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="60" n="08">(약한) 고맙쇼</sent>
+<sent type="main" lang="kor" page="60" n="09">며 일변 흡긔통을 지니 발셔 십여 를 등대엿거</sent>
+<sent type="main" lang="kor" page="60" n="10">약한이 그 즁 오 가 흡긔통을 골나 가지고 몸을 솟쳐 불속으로 여 드러가니라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="60" n="11">이 슈만 명 인 즁에 약한이 여 드 것을 모다 용다 칭찬나</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="60" n="12">약한의 발 닷  쟝슈촌이라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="60" n="13">츄형고 뒤로 도라 녀아화를 얼는 지나 손 씻든 못가에 이르니</sent>
+<sent type="main" lang="kor" page="60" n="14">홀연 벼락치 소리 나며 츄형고 마루 러지니</sent>
+<sent type="main" lang="kor" page="60-61" n="15">약한이 혼말로 뎌 놈들이 필연 약한이 화쟝엿다 리로다 며</sent><!--'약한'에 모두 단선 밑줄--><!--리로다 ^ 며 -->
+
+<sent type="main" lang="kor" page="61" n="01">슈구가에 셔셔 두 발를 모아 선 여 물속에 드니</sent><!--뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="02">물 깁히 칠팔 쳑이요 물이 셰여 약한에 몸이 훌치여 러 가더니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="61" n="03">다리 이에 무엇이 닥치며 츄리에 걸니거</sent>
+<sent type="main" lang="kor" page="61" n="04">이러 안지며 손으로 만져보니 열십로 가로 막고 셰워 막은 텰쟝인</sent>
+<sent type="main" lang="kor" page="61" n="05">이 텰창을 버셔나면 곳 외촌이라</sent>
+<sent type="main" lang="kor" page="61" n="06">약한이 미리 아는 드시 화즁에 강텰을 여 텰창을 오 분 시간이나 퇴</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="61" n="07">겨오 반을 코 반이 남어 손의 힘을 쓸 슈 업고</sent>
+<sent type="main" lang="kor" page="61" n="08">흡긔통에 공긔 졈졈 쇠진여 호흡이 불쾌니</sent><!--뒤쪽의 '졈'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="09">가심이 덜덜 니고 졍신이 앗득앗득 여</sent><!--뒤쪽의 '덜'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="10">스로 각건 일업시 쥭을 디경이라 </sent>
+<sent type="main" lang="kor" page="61" n="11">혼미 즁에 텰창을 긔예 으랴 고 다시  번 치니</sent>
+<sent type="main" lang="kor" page="61" n="12">강쳘이 손길에 헐넝 더니 물속에 탐방 지지라</sent>
+<sent type="main" lang="kor" page="61" n="13">약한이 하을 우러러 탄식며 십여만 인죵을 구졔쇼셔</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="61" n="14">오날밤에 쟝슈촌이 화를 면진 이 약한의  목숨은 이곳에셔 죽어도 한이 업겟오이다 며</sent>
+<sent type="main" lang="kor" page="61" n="15">벌덕 이러 두 손으로 텰창을 붓들고 죽을 힘을 다 드려 아 낙구니</sent>
+<sent type="main" lang="kor" page="61" n="16">텰창이  부러지며 왈칵 쏘쳐 수 밧그로 나오니라</sent>
+<sent type="title2" lang="kor" page="61" n="17">뎨십 쟝 쟝슈쵼의 조직</sent>
+<sent type="main" lang="kor" page="61" n="18">한 달젼에 일이만 일일 신문에 디를 게얏시되</sent><!--'일이만'에 쌍선 밑줄--><!--'일일'에서 뒤쪽의 '일'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61" n="19">아미리 즁국은 각국 인이 년년이 드러와 번셩되</sent><!--'아미리'와 '즁국'에 쌍선 밑줄--><!--뒤쪽의 '년'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="61-62" n="20">그즁 인구 슈효 만키 우리 일이만 사이요</sent><!--만키 ^ 우리--><!--'일이만'에 쌍선 밑줄-->
+
+<sent type="main" lang="kor" page="62" n="01">그즁 신긔고 이샹이 번셩기 쟝슈촌이니</sent>
+<sent type="main" lang="kor" page="62" n="02">이 촌을 셜시 쥬인은 법국 의학 좌션인</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="62" n="03">우리 련쳘촌 쥬인 인비 학와 쳑분이 잇셔</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="62" n="04">그 번셩히 발달은 실로 우리 일이만의 덕을 입어 그러다 노라</sent><!--'일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="62" n="05">만일 쳔하 디도를 펴고 쟝슈촌 잇는 곳을 차지랴 면</sent>
+<sent type="main" lang="kor" page="62" n="06">아모리 셰 디도라도 이 디방은 업실 것이니</sent>
+<sent type="main" lang="kor" page="62" n="07">이 오 년 젼에 인젹부도쳐요 현져 디명이 업 연고이라</sent>
+<sent type="main" lang="kor" page="62" n="08">이졔 보건 북위 사십삼 도 십일 분 삼 초요 셔경 이십 도 십일 분 십칠 쵸이니</sent>
+<sent type="main" lang="kor" page="62" n="09">즉 평양의 연안이요 낙긔산으로 러진 둘 가지 개특산 벌판이니</sent><!--'평양'과 '낙긔산'과 '개특산'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="62" n="10">긔후 온화야 한셔가 고르고 동남북 삼면에 놉흔 산과 쳡쳡 봉만이 둘녀 질풍악긔를 막고</sent><!--뒤쪽의 '쳡'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="62" n="11">셔편  면을 열어 평양의셔 드러오 공긔를 밧으며</sent><!--'평양'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="62" n="12">좌편에 하슈 잇셔 물맛이 쳥렬고 토품이 기름져 농가 풍등니</sent>
+<sent type="main" lang="kor" page="62" n="13">좌션이 이곳에 이촌을 셜시이 과연 쇼견이 업시 안터라</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="62" n="14">쟝슈촌 셜시  맛 쳥국인 슈만 명이 미국인의 긴 바 되야</sent><!--'쳥'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="62" n="15">동셔표박고 유리걸야 디경 밧그로 나가거</sent>
+<sent type="main" lang="kor" page="62" n="16">좌션이 공를 후이 쥬어 일병 공역을 식이고</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="62" n="17">셕와 목와 텰물 등은 각국의 실업가이 좌션의 이 업 풍문을 듯고 모다 모여 드러와 원여 담당고</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="62" n="18"> 각국 의학와 무슈 회의야 본쵼 제 죠식을 마련고</sent>
+<sent type="main" lang="kor" page="62" n="19">촌내에 가옥을 일병 벽돌로 지엇</sent>
+<sent type="main" lang="kor" page="62-63" n="20">련단【벽돌 굽 사람】 슈인이 신발명 형식으로 긔 벽돌을 구으되</sent><!--신발명 ^ 형식으로-->
+
+<sent type="main" lang="kor" page="63" n="01">대쇼 치가 업고 낫낫치 즁심에 궁글여 샹 공긔를 통고 습긔가 멈으지 못게 엿더라</sent><!--뒤쪽의 '낫'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63" n="02">이졔 그 조직과 졔 조식을 좌에 대강 긔록노니</sent>
+<sent type="main" lang="kor" page="63" n="03">뎨일은 집마다 젼후좌우에 나무와 과목을 만히 심우고</sent>
+<sent type="main" lang="kor" page="63" n="04">집  간에 여러 사이 거쳐면 위에 롭다 야 두 사에 지나지 안케 고</sent>
+<sent type="main" lang="kor" page="63" n="05">뎨이 집집이 문 압 열 거름 나와 큰　길을 내여 통샹 가로와 갓치 고</sent><!--뒤쪽의 '집'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63" n="06">집안에도 공디를 넓게 야 난간을 둘으되 가심에 다케 고</sent>
+<sent type="main" lang="kor" page="63" n="07">뎨삼은 무론 아모 집이던지 누각은 이 층에 지나지 안케 야</sent>
+<sent type="main" lang="kor" page="63" n="08">각기 공긔 통며 일광을 가리지 안케 고</sent>
+<sent type="main" lang="kor" page="63" n="09">뎨 담과 벽을 본촌에셔 신발명야 구은 벽돌로 쌋케 고</sent>
+<sent type="main" lang="kor" page="63" n="10">뎨오 집집이 쳠아를 균평게 야 면으로 빗물 밧난 통을 다라 빗물이  곳에 모야 흐르게 고</sent><!--뒤쪽의 '집'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63" n="11">뎨륙은 집집이 디판 밋 두셕 를 븨게 야 면으로 열어 노아</sent><!--뒤쪽의 '집'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="63" n="12">더러온 긔운과 몹실 가 멈으지 못게 고</sent>
+<sent type="main" lang="kor" page="63" n="13">뎨칠은 부엌과 엄식 두 쳐쇼 샹층 집 놉혼 여</sent>
+<sent type="main" lang="kor" page="63" n="14">연긔와 가 사에게 쏘이지 안케 고</sent>
+
+<sent type="main" lang="kor" page="64" n="01">뎨팔은 집 쇽에 각 사 셩미대로 졍이 슈장되</sent>
+<sent type="main" lang="kor" page="64" n="02">도지와 담젼 텰붓치 일졀 엄금야</sent>
+<sent type="main" lang="kor" page="64" n="03">버레와 곰팡의 젼염 독긔가 치이게 고</sent>
+<sent type="main" lang="kor" page="64" n="04">나무와 돌로 짐이나 가화를 긔교게 여 두고</sent>
+<sent type="main" lang="kor" page="64" n="05">시시로 물 어 먼지 틔글이 업게 고</sent><!--뒤쪽의 '시'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="64" n="06">뎨구 침실을 항샹 넓고 양명게 야 의복과 음식 등물이라도  방에 두지 못며</sent>
+<sent type="main" lang="kor" page="64" n="07">사  것이 삼분 일의 광음은 젼혀 밤잠   잇시니</sent>
+<sent type="main" lang="kor" page="64" n="08">부득이 급 일 외에 잠 시간에 범치 못게 고</sent>
+<sent type="main" lang="kor" page="64" n="09">뎨십은 집안에 란로를 미되 연긔가 집집이 각각 나가게 안코</sent><!--'집집'에서 뒤쪽의 '집', '각각'에서 뒤쪽의 '각'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="64" n="10">슈십여 가의 연긔통을  모아 되 의셔 열두 길을 올나가 공즁에 게 고</sent>
+<sent type="main" lang="kor" page="64" n="11">란로에 탄은 독지 안이 연기 나 것으로 퓌이게 다</sent>
+<sent type="main" lang="kor" page="64" n="12">이 열 가지 집 졔도가 이러고</sent>
+<sent type="main" lang="kor" page="64" n="13">쵼에 사 사은 아모 사이던지  가지 직업을 잡게 니</sent>
+<sent type="main" lang="kor" page="64" n="14">좌션의 말이 사이 건강코져 랴면 일 신쳬의 운동과 휴식이 균일 것이 뎨일이라 야</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="64" n="15">네 살 된 아부터 유치원에 드러가 테조를 익히고</sent>
+<sent type="main" lang="kor" page="64" n="16"> 거쳐 범이 조촐지 안니면 병이 조 난다 야 아동들이라도 의복을 졍결게 고</sent>
+<sent type="main" lang="kor" page="64" n="17">옷깃이나 소에 이나 가 뭇엇시면 곳압혜 불너 셰우고</sent>
+<sent type="main" lang="kor" page="64" n="17">욕을 뵈야 다시 사을 못 볼 듯시 며</sent>
+<sent type="main" lang="kor" page="64" n="18">음식은 위 뎨일 긴요다 야</sent>
+<sent type="main" lang="kor" page="64" n="18">음식 쟝가 혹 샹 물건을 셩 물건에 혼잡야 팔면 곳 독약으로 살인률을 쓰고</sent>
+
+<sent type="main" lang="kor" page="65" n="01"> 좌션이 상 되 요사이 소위 병원은 오 가지 쳔 가지 되 병 인니</sent>
+<sent type="main" lang="kor" page="65" n="02"> 들석겨 잇셔 이 사의 병이 뎌 사에게 옴고 뎌 사람의 병이 이 사에게 전야 셔로 방가 되니</sent>
+<sent type="main" lang="kor" page="65" n="03">대단히 불가다 야 장슈촌의 병원은  간에  사이 잇게 고</sent>
+<sent type="main" lang="kor" page="65" n="04">벽으로 이를 막아 셔로 긔운을 통치 안케 고</sent>
+<sent type="main" lang="kor" page="65" n="05">병원은 벽돌을 안니 쓰고 목로 지여 년 일로 불을 노하 소멸더라</sent>
+<sent type="main" lang="kor" page="65" n="06">장슈촌의 호구가 이상히 늘어 초년에 륙 호가 삼 년 동안에 구쳔 호가 되고 지방은 십여만 인구가 되며</sent>
+<sent type="main" lang="kor" page="65" n="07">쵼즁 전토와 가옥의 셰납은 극히 헐야 쵼쥬가 지고</sent>
+<sent type="main" lang="kor" page="65" n="08">촌즁의 범 민와 형 위원회로 결쳐고</sent>
+<sent type="main" lang="kor" page="65" n="09">촌민 위 총회 좌션이 쥬장되 독단지 안코 각국의 학와 루 왕복야 십분 심신더라</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="65" n="10">신셰계와 구세계와 동셔양에 평균 쥭 사람이 매년에 의 솃쯤 되니 지극히 히적은 슈효라</sent>
+<sent type="main" lang="kor" page="65" n="11">장슈쵼은 셜시 이후로 다셧 에 평균면 매년에 불과 의 일 분 오 릿 되니</sent>
+<sent type="main" lang="kor" page="65" n="12">이 오히려 초년에 가 미비고 질병이 류으로 이 슈효가 되얏고</sent>
+<sent type="main" lang="kor" page="65" n="13">만일 쟉년의 조사을 보면 의 일 분 이 리 오 호가 되니</sent>
+<sent type="main" lang="kor" page="65" n="14">이 일 분 이 리 오 호 죠샹의 류전 병으로 암아 그러고</sent>
+<sent type="main" lang="kor" page="65" n="15">불시여역으로 죽은 쟈 도모지 업스니</sent>
+<sent type="main" lang="kor" page="65" n="16">이럼으로 쟝슈촌 사람들이 랑되</sent>
+<sent type="main" lang="kor" page="65-66" n="17">삼십 년 후에 쟝슈촌에셔 병드려 죽을 사람은 업고</sent><!--쟝슈촌에^셔-->
+
+<sent type="main" lang="kor" page="66" n="01"> 셰나 이 세를 살다가 절로 늙어 나무 너 죽듯 다 하더라</sent>
+<sent type="title2" lang="kor" page="66" n="02">뎨십일 쟝 촌민의 총회</sent>
+<sent type="main" lang="kor" page="66" n="03">이제 특산 샹봉에 올나 셔편으로 평양을 굽어 보면</sent><!--'특산'과 '평양'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="66" n="04">일벽만경에 챵과가 호호탕탕야 좌우에 옥 갓튼 대리셕 언덕을 치며 도라들고</sent><!--'호호탕탕'에서 뒤쪽의 '호'와 '탕'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66" n="05">평원 광야에 슈천만 가옥이 질비야 졍졍졔졔  도로와 구혁이 바독판의 줄 치듯 기우러진  업고</sent><!--'졍졍졔졔'에서 뒤쪽의 '졍'과 '졔'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66" n="06">집집이 면에 가화이목은 검슈릉라를 펴 노흔 듯 사긔 벽돌로 담과 벽을 싸아</sent><!--뒤쪽의 '집'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66" n="07">일뎡 시간에 쓰레질을 자조니 일점 진가 업고</sent>
+<sent type="main" lang="kor" page="66" n="08">샹에 은 바람은 쳥신 공긔 모라다가 십만 인종의 호읍을 자양니</sent>
+<sent type="main" lang="kor" page="66" n="09">이 곳 법난셔 파리부 대의원 학사 좌선군의 장슈촌이라</sent><!--'법난셔 파리부'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="66" n="10">이날은 무슨 날이며 오날밤은 무슨 밤인고</sent>
+<sent type="main" lang="kor" page="66" n="11">달빗이 졍히 아 하날이나 바다나  빗으로 만 리에 유리경을 마조 열어 노은 듯지라</sent>
+<sent type="main" lang="kor" page="66" n="12">좌선 군이 친구 두셰 사람과 경치를 완상고 슐를 나와 한담다가</sent><!--'좌선'에 단선 밑줄-->
+<sent type="main" lang="kor" page="66" n="13">맛참 하인이 누육 특 신문을 드리니</sent><!--'누육'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="66" n="14">인 신문은 장슈촌의 규모와 뎨도를 찬셩야 챵설 이후로 여러 번 셰계에 포양고</sent>
+<sent type="main" lang="kor" page="66" n="15">마다 장수촌이 인구 망 수효가  감 것을 게야</sent><!--뒤쪽의 ''는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="66" n="16">셰상 사람이 다 부러고 다른 각 신문보다 특별히 친절 고로</sent>
+<sent type="main" lang="kor" page="66-67" n="17">셰상이 평론되 이 특신은 장슈촌의 대야 긔관보라  신문디라</sent><!--셰상이 ^ 평론되-->
+
+<sent type="main" lang="kor" page="67" n="01">이에 좌선 군이 신문지를 바다 차례로 본즉  급보가 잇스되</sent><!--'좌선'에 단선 밑줄-->
+<sent type="main" lang="kor" page="67" n="02">은근히 원슈갓치  련텰촌과 장슈촌에 오날 놀나은 탐보가 잇스니</sent>
+<sent type="main" lang="kor" page="67" n="03">그 위절은 모로거니과 련텰촌이 오 십삼일 야반에 장슈촌을 한 번에 멸망케 다 니</sent>
+<sent type="main" lang="kor" page="67" n="04">이 가장 비밀고 음휼도다</sent>
+<sent type="main" lang="kor" page="67" n="05">우리가 확실히 밋을 징거가 잇기로 특이 등야 장슈촌 여러 사의게 보도노니</sent>
+<sent type="main" lang="kor" page="67" n="06">급속히 ᄇᆞᆼ비야 더듸지 말나 더듸지 말나 얏거</sent>
+<sent type="main" lang="kor" page="67" n="07">좌선이 보고 심즁에 경동야 일변 각건</sent><!--'좌선'에 단선 밑줄-->
+<sent type="main" lang="kor" page="67" n="08">인비가 엇지 포악이 이러고 무단히 동병치 못겟슨즉</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="67" n="09">음모암계로 우리 장슈촌을 도모니 인정 도리샹에 응당 이럿치 못지라</sent>
+<sent type="main" lang="kor" page="67" n="10"> 일변 각건 졍탐으로 음명 신문이요</sent>
+<sent type="main" lang="kor" page="67" n="11"> 우리가 졀친 사이에 공연히 광설로 우리 장슈촌을 소동게  리 업스리라 고</sent>
+<sent type="main" lang="kor" page="67" n="12">신문지를 여러 사이 돌녀 보며 계을 의론니</sent>
+<sent type="main" lang="kor" page="67" n="13">모다 일으되 본촌 샹의원을 소집야 회의 것이 올타 니</sent>
+<sent type="main" lang="kor" page="67" n="14">본촌에 그 젼부터 샹의원 삼십 명이 잇고</sent>
+<sent type="main" lang="kor" page="67" n="15">집집이 뎐화을 통하야 양 일이 잇스면 즉시 화야 셔로 보지 안코도  좌셕에 슈작지라</sent><!--뒤쪽의 '집'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="67" n="16">이 뎐화긔로 문답다</sent>
+<sent type="main" lang="kor" page="67" n="17">(좌션) 졔군이 다 집애 잇소</sent>
+<sent type="main" lang="kor" page="67-68" n="18">삼 분 종이 못 되어 회젼되 다 잇소</sent><!--회젼되 ^ 다-->
+
+<sent type="main" lang="kor" page="68" n="01">좌선이  젼화되</sent><!--'좌선'에 단선 밑줄-->
+<sent type="main" lang="kor" page="68" n="02">오밤 당각에 샹의원 림시회를 갯쇼</sent>
+<sent type="main" lang="kor" page="68" n="03">말을 맛치고 신문디의 급보를 목소리 됴흔 사이 셔셔 일거들니니</sent><!--'셔셔'에서 뒤쪽의 '셔', '일거들니니'에서 뒤쪽의 '니'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="68" n="04">일시에 삼십 명 샹의원이 다 듯고 다 알엇더라</sent>
+<sent type="main" lang="kor" page="68" n="05">금시로 뎐화긔  곳에셔 으를 며</sent>
+<sent type="main" lang="kor" page="68" n="06">회장 륙 호요 그련즉 방비 도리가 엇더케 잇소</sent>
+<sent type="main" lang="kor" page="68" n="07">(좌션) 졸지에 방이 업기로 급히 회의를 청엿소</sent>
+<sent type="main" lang="kor" page="68" n="08">  곳에셔 으를 하며</sent>
+<sent type="main" lang="kor" page="68" n="09">회장 칠 호요 시방 쥰비야 막을 계을 되 몃 시간이나 되오</sent>
+<sent type="main" lang="kor" page="68" n="10">(좌션) 시방 팔 점 종이 지나고 넉 점 종이 남아스니 단이 급오</sent>
+<sent type="main" lang="kor" page="68" n="11">  곳에셔 으를 며</sent>
+<sent type="main" lang="kor" page="68" n="12">회장 이 호요 그런즉 우리가 손을 묵고 안져 죽기를 기다리오 들에 나가 뎌와 졉젼 터이오</sent>
+<sent type="main" lang="kor" page="68" n="13">(좌션) 멀니 나가 졉젼면 본촌은 병화를 면겟쇼</sent>
+<sent type="main" lang="kor" page="68" n="14"> 으를 하며</sent>
+<sent type="main" lang="kor" page="68" n="15">회장 일 호요 방어 군비를 얼마즘 예산오</sent>
+
+<sent type="main" lang="kor" page="69" n="01">(좌션) 쇼불하 일쳔오만 원은 가져야 오</sent>
+<sent type="main" lang="kor" page="69" n="02">회쟝 그러면 뎨일 호에 촌민 총회를 고 이 일를 회의 오</sent>
+<sent type="main" lang="kor" page="69" n="03">하 헤 이 호가 챤셩지라</sent>
+<sent type="main" lang="kor" page="69" n="04">좌션이 일 호의 로 각 회원의게 통니</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="69" n="05">삼십 뎐화긔에셔 모다 일치게 답하니</sent>
+<sent type="main" lang="kor" page="69" n="06">좌션이 젼회의 이론이 업슴을 알고 촌민 총회를 하엿더라</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="69" n="07">이 여덜 졈 삼십 분 죵이라</sent>
+<sent type="main" lang="kor" page="69" n="08">촌민이 모혀들기 시작니 로기 살 갓흔지라</sent>
+<sent type="main" lang="kor" page="69" n="09">촌즁에 다셧 집식  뎡을 마련고 뎡에 둥근 기둥 셰우고</sent>
+<sent type="main" lang="kor" page="69" n="10">그 헤 뎐긔 종을 여 뎐션은 본촌 즁앙 회의당으로 모얏시니</sent>
+<sent type="main" lang="kor" page="69" n="11">샹의원이 중앙 회의당에셔 각정 뎐션으로 통보즉</sent>
+<sent type="main" lang="kor" page="69" n="12">젼촌이 일시에 종소리를 듯고 촌민 총회 되 줄 알엇시며</sent>
+<sent type="main" lang="kor" page="69" n="13"> 둥근 기둥을 셰우고 그 우에 면으로 시계를 이고</sent>
+<sent type="main" lang="kor" page="69" n="13">그 속에 등을 달아 밧그로 빗치게 고 장단침으로 회 시간을 돌녀 보이면</sent>
+<sent type="main" lang="kor" page="69" n="14">촌민이 종소리를 듯고 분쥬히 모야와셔 그 시계를 쳐다보아 짐작더라</sent>
+<sent type="main" lang="kor" page="69" n="15">이 회 아홉 졈 삼십 분으로 뎡하엿시니</sent>
+<sent type="main" lang="kor" page="69" n="16">젼촌 인민이 삼삼오오로 셩군작여 락력부절며 회의당 마당에 가득니</sent><!--'삼삼오오'에서 뒤쪽의 '삼'과 '오'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="69" n="17">이 촌민은 의아되 오날밤 회 무슨 일로 이리 급급고 더니</sent><!--뒤쪽의 '급'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="69-70" n="18">셔 회의당 긔록실에셔 쇽셔법으로 상의원 회의 일 통을 번등야</sent><!--긔^록실에셔-->
+
+<sent type="main" lang="kor" page="70" n="01">즉각에 인쇄실에셔 발간여 인 일 장을 돌녀 쥬고 통구대도에 광고를 붓쳣더라</sent>
+<sent type="main" lang="kor" page="70" n="02">구 졈 삼십 분 되 의회쟝이 방울을 울녀 회니</sent>
+<sent type="main" lang="kor" page="70" n="03">샹의원 즁에  사이 단에 올나 극히 간단고 명 로 연셜고  다시  이</sent>
+<sent type="main" lang="kor" page="70" n="04">졔군네들 오날날 만일 광겁야 용도 업고 국심도 업시면</sent><!--뒤쪽의 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="70" n="05">필연 이 밤으로 이촌을  피화나 지니</sent>
+<sent type="main" lang="kor" page="70" n="06">그러코 보면 우리 장슈촌 사이 오 살기만 욕심 바요 엇지 우리 좌션 군의 본심을 아 바리오</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="70" n="07">오날날 셰계에 십오만 만령 중에 우리 장슈촌 인민이 웃듬이 되고져 진</sent><!--'만령'의 '만'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="70" n="08">맛당이 고상 각과 격앙 의긔를 가져</sent>
+<sent type="main" lang="kor" page="70" n="09">아모리 화이 박두고 곤난이 비샹지라도 존망을 한가지 야 장슈촌의 만셰긔념비를 셰울지니</sent>
+<sent type="main" lang="kor" page="70" n="10">그런즉 이 셰계에 몹실 악젹과 일정혈젼이 만부득이  일이요</sent>
+<sent type="main" lang="kor" page="70" n="11"> 수쳔 년 후에 우리 력를 보 이가 눈물를 리고 쳔고를 죠샹리니</sent>
+<sent type="main" lang="kor" page="70" n="12">우리 장슈촌이 오날 단슈촌이 될지라도 후세에 다은 일홈은 만셰무강리라 니</sent>
+<sent type="main" lang="kor" page="70" n="13">일시에 만쟝이 분긔격동야 손바닥 치 소 우뢰 갓더라</sent>
+<sent type="main" lang="kor" page="70" n="14">의회장 좌션이 회즁에 말</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="70-71" n="15">챵졸히 방어 계획으로 군비를 모집지니 오만 원을 보조노라 니</sent><!--보조노라 ^ 니-->
+
+<sent type="main" lang="kor" page="71" n="01">이 젼회가 다 그리 알고 허여질 벅상에 괘종이 발셔 열 졈을 치더니</sent>
+<sent type="main" lang="kor" page="71" n="02">홀연 연셜단에 니 여 올로는  사람이 잇셔</sent>
+<sent type="main" lang="kor" page="71" n="03">텬샹에셔 려온 듯 디즁에셔 소 듯 회즁을 놀지라</sent>
+<sent type="main" lang="kor" page="71" n="04">슈만 회즁이 방장대란이 박두야 슌식간을 다토아 분망다가</sent>
+<sent type="main" lang="kor" page="71" n="05">일시에 돌쳐셔셔 단 우를 바보니</sent>
+<sent type="main" lang="kor" page="71" n="06">듯도 보도 알도 못 인물이 의복은 남루고 형이 초최나</sent>
+<sent type="main" lang="kor" page="71" n="07">긔가 헌앙고 의긔가 격앙니 회즁이 셔로 도라 보며 만심 의아 즈음에</sent>
+<sent type="main" lang="kor" page="71" n="08">그 사람이 손을 놉히 드러 외이되</sent>
+<sent type="main" lang="kor" page="71" n="09">졔군들 헌화 말고 나의 말  마 드로시오</sent>
+<sent type="main" lang="kor" page="71" n="10">내가 련텰촌에셔 아옵 번 죽고  번 사라 도망여 왓소</sent>
+<sent type="main" lang="kor" page="71" n="11">련텰촌 쥬인 인비가 오날밤으로 장슈촌을 친다 고 나를 가도아 죽이려  지 밤낫 열엿에 쳘산 디옥을 버셔나</sent>
+<sent type="main" lang="kor" page="71" n="12">아모조록 뎌의 거하기 젼에 우리 졔군이 알게 자 고</sent>
+<sent type="main" lang="kor" page="71" n="13">쳔신만고야 이에 왓시니 응당 나를 모롤리다</sent>
+<sent type="main" lang="kor" page="71" n="14">그러나 평일에 날과 친 사람이라도 가 슈 년을 고야 얼골이 변형되엿시니</sent>
+<sent type="main" lang="kor" page="71" n="15">오날 만나도 알아보지 못겟쇼</sent>
+<sent type="main" lang="kor" page="71" n="16">우리 선 좌선 학사 무양시오</sent><!--'좌선'에 단선 밑줄-->
+<sent type="main" lang="kor" page="71" n="17">련텰촌 인비의 심사를 졍탐랴 슈년 젼에 가든 마극을 모로시오</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="71" n="18">좌선이 이 말을 듯고 급히 손을 드러 불으며</sent><!--'좌선'에 단선 밑줄-->
+<sent type="main" lang="kor" page="71" n="19">우리 마극인가 우리 마극인가</sent><!--'마극'에 모두 단선 밑줄-->
+
+<sent type="main" lang="kor" page="72" n="01">마극이 다시 말되</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="72" n="02">인비 오날 밤 열한 졈 사십오 분에 젼셰계에 업든 대포로 장슈촌을 험몰다 니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="72" n="03"> 그 대포도 보고 탄한도 보쇼</sent>
+<sent type="main" lang="kor" page="72" n="04">시방으로 남녀로쇼가 이 마을를 나 어셔 밧비 독화를 피시오</sent>
+<sent type="main" lang="kor" page="72" n="05">진심갈력야 챵설 이 마을이 로밤의 탄흙이 되리니 누가 기지 안으리오만은</sent>
+<sent type="main" lang="kor" page="72" n="06">지금 열 졈 십오 분이니  졈 반만 지쳬면 십만 동포 그림자도 업셔질 터이니</sent>
+<sent type="main" lang="kor" page="72" n="07">무엇을 다시 도라보겟쇼</sent>
+<sent type="main" lang="kor" page="72" n="08">슯흐다 뎌 마극의 이 말이 만일 구라파나 구셰계에 잇스량이면</sent><!--'마극'에 단선 밑줄, '구라파'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="72" n="09">듯 사람마다 바람 마졋다 고 고지 듯지 아니 겟스나</sent>
+<sent type="main" lang="kor" page="72" n="10">아미리 신셰계에 잇 사람은 뎐디간에 무슨 일이던지 크나 젹으나 아모아모 인력으로 다 기에</sent><!--'아미리'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="72" n="11">인비의 대포 신발명다 말이 허탄지 아닌 쥴 아지라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="72" n="12">이 회원이 일졔히 니러나며 좌선의 지휘를 기다려 사면으로 흣허져 젼지도지야 집으로 가셔</sent><!--'좌선'에 단선 밑줄-->
+<sent type="main" lang="kor" page="72" n="13">늙으니 붓들고 어린 아희 질머지고 방방곡곡이 셔셔</sent><!--'방방곡곡'에서 뒤쪽의 '방'과 '곡', '셔셔'에서 뒤쪽의 '셔'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="72" n="14">특산을 바라보며 열 거름을  거름에 가자 셩화갓치 모라갈 졔</sent><!--'특산'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="72" n="15">회의당 벽샹에 죵소  열 번을 친다</sent><!--뒤쪽의 ''은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="72" n="16">좌선과 샹의원은 회의당에 그져 잇셔 촌민이 다 피란 후에 그 뒤를 보랴 고 안졋더니</sent><!--'좌선'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="73" n="01">마극이 무슨 졍신이 돌아 각이 나며 품의셔 급피 디판을 여 들고 연필로 휙휙 둘느더니</sent><!--'마극'에 단선 밑줄--><!--뒤쪽의 '휙'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="73" n="02">신긔다 신긔다 여러분 이 산식을 보시오</sent>
+<sent type="main" lang="kor" page="73" n="03">이 산식이 바를진 인비의 셰음이 틀일 것이니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="73" n="04">뎌 대포의 힘이 령야 필연 본촌에 러지지 안코 지나 넘을 것이니</sent>
+<sent type="main" lang="kor" page="73" n="05">우리도 겸야 특산에 올나가 봅시다</sent><!--'특산'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="73" n="06">마극의 예산이 올흔가 인비의 예산이 그릇된가</sent><!--'마극'에 단선 밑줄, '인비'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="73" n="07">지금 이십오 분이 되면 알겟쇼 며 올나가자 촉하니</sent>
+<sent type="main" lang="kor" page="73" n="08">좌선 등이 산식을 보고 기연가미연가야 일시에 특산을 올나가자 졍히 열 졈 십 분이라</sent><!--'좌선'에 단선 밑줄, '특산'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="73" n="09">산상봉에 방장 올나셔며 한 분 종이 마져 되</sent>
+<sent type="main" lang="kor" page="73" n="10">홀연 련쳘촌에셔 코고 둥근  덩얼이 너분게 나오며</sent>
+<sent type="main" lang="kor" page="73" n="11">발셔 좌션의 머리 우흐로 힝힝 지나가는지라</sent><!--'좌션'에 단선 밑줄--><!--뒤쪽의 '힝'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="73" n="12">마극이 쳐다보며 허허허허 묘다 이 셰샹에 큰 도젹이 너를 부러하겟다</sent><!--'마극'에 단선 밑줄--><!--'허허허허'에서 두 번째와 네 번째 '허'는 모두 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="73" n="13">인비의 만 원 황금을 훔쳐 가지고 뎌러케 몸이 가븨여히 구만 리 장텬으로 나라가냐  소리에</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="73" n="14">좌션과 상의원이 모도  웃고 려오니</sent><!--'좌션'에 단선 밑줄--><!--뒤쪽의 ''은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="73" n="15">다시 두 분 시간이 되며 텬동갓치 우루루  소 나니</sent>
+<sent type="main" lang="kor" page="73" n="16">이 탄환 진 후 대포 울니 소리러라</sent>
+<sent type="title2" lang="kor" page="73" n="17">뎨십이 장 만 원리 대포를 편지  장으로 갑다</sent>
+
+<sent type="main" lang="kor" page="74" n="01">구월 열나흔 날 낫 후에  사이 손에 편지  봉을 들고 련쳘촌 문 밧케 와셔 문죨을 쥬니</sent>
+<sent type="main" lang="kor" page="74" n="02">문졸이 바다 가지고 쥴다름여 쥬밀각 방에 들이니</sent>
+<sent type="main" lang="kor" page="74" n="03">인비가 반가온 긔별이 볼 듯시 황황이 여본다</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="74" n="04">그 편지에 엿시되</sent>
+<sent type="main" lang="kor" page="74" n="05">그와 별 지 이십 졈 종이 못 되엿시니</sent>
+<sent type="main" lang="kor" page="74" n="06">기간에 피 놀나고 곤란 일은 장황히  것 업거니와</sent>
+<sent type="main" lang="kor" page="74" n="07">그 각지 모로도다</sent>
+<sent type="main" lang="kor" page="74" n="08">당일 약한이라  쇼년이 그의 대포 츄형을 셔슬도 달치 안코 곱게 가지고 도망여 련쳘촌 밧그로 나왓시니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="74" n="09">그의 은혜도 만히 입고 그와 비밀 의론도 만히 더니</sent>
+<sent type="main" lang="kor" page="74" n="10">오날날 이러 줄 그 엇지 알엇시리오</sent><!--뒤쪽의 '날'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="74" n="11">그 나를 약한이라 부르고 셔서 사으로 알엇시되</sent><!--'약한'에 단선 밑줄, '셔서'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="74" n="12">이 약한의 본 일홈은 마극 포이오 본 고향은 아이 고을에 잇시니</sent><!--'마극 포밍'에 단선 밑줄, '아이'에 쌍선 밑줄--><!--'아이'에서 뒤쪽의 ''는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="74" n="13">그 깁히 밋고 심히 랑여 뎨일등 졔도며 긔관를 삼고</sent>
+<sent type="main" lang="kor" page="74" n="14">잠시도 겻 지 안케 니 지극히 감나</sent>
+<sent type="main" lang="kor" page="74" n="15"> 도로혀 붓그러은 바 나의 슌슈 나전 인죵 법난셔 사으로</sent><!--'나전'과 '법난셔'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="74" n="16">그의 우렁이 속 갓튼 심를 알녀 고 셩을 숨기며 일홈을 고쳐 그를 못 속엿시니</sent>
+<sent type="main" lang="kor" page="74" n="17">그 죄 도망키 어렵도다</sent>
+<sent type="main" lang="kor" page="74" n="18">그러 슈년 간을 밤낫으로 신고며 그 심를 알고 련쳘촌에  귀신 아니 되기 한 다지라</sent>
+<sent type="main" lang="kor" page="74" n="19">어졔밤에 우리 쟝수촌으로 그의 죠흔 대포에 죠흔 탄환을 보 줄 알고</sent><!--'죠흔 탄환'은 원문에 '흔죠 탄환'으로 되어 있음-->
+<sent type="main" lang="kor" page="74" n="20">간졀히 기다리고 바랏더니</sent>
+
+<sent type="main" lang="kor" page="75" n="01">그 즁 보물이 기를 놉히 고 날기를 니 야</sent>
+<sent type="main" lang="kor" page="75" n="02">손으로 붓들 슈도 업고 발로 쳐갈 슈도 업신즉</sent>
+<sent type="main" lang="kor" page="75" n="03">팔경 하 치 밧게 러지고 우리 쇼득이 업시니 우리도 낭거니와</sent>
+<sent type="main" lang="kor" page="75" n="04">그 엇지다가 허슈이 보엿지 의아 바라</sent>
+<sent type="main" lang="kor" page="75" n="05">그러나 그 략간 만 금을 들여 하   밧지 울니 명예를 삿시니</sent>
+<sent type="main" lang="kor" page="75" n="06">나의 얏흔 쇼견에은 실로 굉장지라</sent>
+<sent type="main" lang="kor" page="75" n="07">오날 츄밀각에 놉히 안져 얼마나 괘고 질기고 일커르며</sent>
+<sent type="main" lang="kor" page="75" n="08">젼일 은혜를 각야 두어 글을 밧들어 하례 졍을 표노라 얏시니</sent>
+<sent type="main" lang="kor" page="75" n="09">인비가 보고 오쟉엿시리오마 이런 셔찰은 인비 혼자만 보니 다른 사은 모를너라</sent><!--'인비'에 모두 단선 밑줄-->
+<sent type="main" lang="kor" page="75" n="09">장슈촌이  소요를 격고 후환이 업지 못여 졍히 근심이 되니</sent>
+<sent type="main" lang="kor" page="75" n="10">이 인비가  무슨 흉계 여 볼시로 즛칠지 물을지라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="75" n="11">이에 방어 위원을 조직야 불우지번을 방비</sent>
+<sent type="main" lang="kor" page="75" n="12">마극이 수 년을 련텰촌에 잇셔 듯고 보던 일을 셰셰히 좌선에게 고고</sent><!--'마극'과 '좌선'에 단선 밑줄--><!--뒤쪽의 '셰'는 재점으로 표기되어 있음--><!--'좌선에게'는 원문에 '좌선게에'로 되어 있음-->
+<sent type="main" lang="kor" page="75" n="13">그 긔계와 각 공장에 챵포 탄환을 낫낫치 그려 에 박혀 젼초에 분파고</sent><!--뒤쪽의 '낫'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="75" n="14">시시로 방어 위원이 모혀 의론</sent><!--뒤쪽의 '시'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="75" n="15">마극으로 슈석에 안치고 범를 지휘고</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="75" n="16">일변으로 탄약과 텰물을 쥰비하야 군귀창에 두며</sent>
+<sent type="main" lang="kor" page="75" n="17">일변으로 면보 분과 각 소를 광구야 군량을 져축하고</sent>
+<sent type="main" lang="kor" page="75" n="18"> 촌즁에 공디를 쳑야 우양 슈쳔만 두를 치게 며</sent>
+
+<sent type="main" lang="kor" page="76" n="01">샹비변을 소모야 년긔와 자격이 군귀를 잡을 쟈이면 일병 군적에 싯고</sent>
+<sent type="main" lang="kor" page="76" n="02">군복은 모직에 쾌자와 나슬갑이며 쟝화 혁대 모자 등을  복으로 지여</sent>
+<sent type="main" lang="kor" page="76" n="03">날마다 기예를 죠련며</sent>
+<sent type="main" lang="kor" page="76" n="04">혹 촌외에 나가 각쳐 요디에 흙을 파 홈을 지고 그 판흙은 포대를 아</sent>
+<sent type="main" lang="kor" page="76" n="05">적병이 모쳐에 드러오면 즉시 모쳐로 방비케 고</sent>
+<sent type="main" lang="kor" page="76" n="06">기 대포를 짓되 집집에 날로 연긔  로 든 곳을 변야 단련챵을 들고</sent><!--뒤쪽의 '집'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="76" n="07">마극이 춍고문과 춍경리를 겸야 각 제죠를 가치되</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="76" n="08">손으로 형용며 입으로 셜명여도 알어듯지 못면</sent>
+<sent type="main" lang="kor" page="76" n="09">곳 웃통을 버셔 노콕 각 공인 틈에 드러 갓치 부역니</sent>
+<sent type="main" lang="kor" page="76" n="10">슯흐다 평무야 화긔륭륭고 갓 자션심과 친졍으로 곤란을 모로든 쟝슈촌이</sent><!--뒤쪽의 '륭'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="76" n="10">일조에 대포를 짓다 쟝창을 치인다 무슈 살인구를 준비노라 동셔 분주고 쥬야 황망니</sent>
+<sent type="main" lang="kor" page="76" n="10">텬하의 비참고 슈란이 이에셔 더 ㅣ 잇으리오</sent>
+<sent type="main" lang="kor" page="76" n="10">그러나 쟝슈촌에 쥬랑셜과 흑야허경이 비일비야</sent>
+<sent type="main" lang="kor" page="76" n="10">혹은 인비가  법을 여 물 밋 쟘힝 군함을 지여 쟝슈촌의 인민이 눈으로 보도 못고 귀로 듯치도 못게 즛친다 하며</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="76" n="10">혹은 공즁에 비거를 지어 불시에 벼락 치듯 다 며</sent>
+<sent type="main" lang="kor" page="76" n="10"> 혹은 적병이 발셔 쟝슈촌의 즁앙 텰도 지션을 엇다 고</sent>
+<sent type="main" lang="kor" page="76" n="10">혹은  적인이 속에 길을 여 특산을 거진 팟다 니</sent><!--'특산'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="76" n="10">이러 죵죵 소설에 이등 부녀가 더욱 황겁되</sent><!--뒤쪽의 '죵'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="76" n="10">실상은 긔쳑 업고 쟝슈촌의 졔조 무역은 날마다 번셩더라</sent>
+
+<sent type="title2" lang="kor" page="77" n="01">뎨십삼 장 상항시 희쟝의 뎐보</sent>
+<sent type="main" lang="kor" page="77" n="02">합즁국에 상항은 셰계에 유명 큰 항구라</sent><!--'합즁국산'과 '상항'에 쌍선 밑줄--><!--'큰 항구라'는 원문에 '항큰구라'로 되어 있음-->
+<sent type="main" lang="kor" page="77" n="03">동셔남북이 샤통팔달야 항 지 오지 안이되</sent>
+<sent type="main" lang="kor" page="77" n="04">오대쥬에 샹고가 모여 무역이 번셩지라</sent>
+<sent type="main" lang="kor" page="77" n="05">이날 십 월 십이 일은 샹항의 공동히 모히 시쟝이니</sent>
+<sent type="main" lang="kor" page="77" n="06">각쳐 상고가 쟝와 문셔며 쥬판과 연필을 슈대 가방이 툭 터지게 너어 엇에 메고 모야 드러</sent>
+<sent type="main" lang="kor" page="77" n="07">각기 명하의 우쳬 샹자를 열고 슈십 장 되 셔찰을 여 낫낫치 펴 보고</sent><!--뒤쪽의 '낫'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="77" n="08">오졍 시각에 긔회야 시쟝 중앙에 당일 각쳐 물 표를 놉히 붓쳐</sent>
+<sent type="main" lang="kor" page="77" n="09">쳔 명장들이 돌아셔셔 보고</sent><!--뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="77" n="10">됴화 사도 잇고 걱졍 사도 잇시며 놀나는 도 잇고 의심 사도 잇셔</sent>
+<sent type="main" lang="kor" page="77" n="11">예셔 수군수군 뎨셔 수군수군 구셕구셕이 지걸지걸 복작복작 쳔만샹을 형용치 못너라</sent>
+<sent type="main" lang="kor" page="77" n="12">이 아셰아와 구라파와 아미리와 본쥬 아미리 각 디방에 뎐보가 빗발치듯 드러와 시회장에 펴지면</sent><!--'아셰아'와 '구라파'와 '아미리'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="77" n="13">오대쥬 슈만 리가 지쳑갓치 압 잇셔 형편을 알고 흉망셩쇠를 짐작지라</sent>
+<sent type="main" lang="kor" page="77" n="14">홀연  사람이 나셔며  말이</sent>
+<sent type="main" lang="kor" page="77" n="15"> 각에 이 일이 필시 랑설이니 밋을 것이 못되오</sent>
+<sent type="main" lang="kor" page="77" n="16">  사이 다르며</sent>
+<sent type="main" lang="kor" page="77-78" n="17">그러 속담에 이르기를 바이 업시면 물결이 안이 닐고 불을 야 연긔가 다 니</sent><!--연긔가 ^ 다-->
+
+<sent type="main" lang="kor" page="78" n="01">이 말이 필연 이 잇쇼</sent>
+<sent type="main" lang="kor" page="78" n="02">(압  사) 그러케 흥왕 업이 경각에 파산될 리가 잇나</sent>
+<sent type="main" lang="kor" page="78" n="03">(뒤에  사) 셰샹를 엇지 알 참에 부가옹이 져녁에 걸인 되 걸 못 보아심나</sent>
+<sent type="main" lang="kor" page="78" n="04">(  쟈) 설혹 그러지라도 그 집과 그 긔계만 팔쳔 원이 되쇼</sent>
+<sent type="main" lang="kor" page="78" n="05">(  장) 그것도 고사고 그 텰 슉텰 탄광 등속을 계산여도 팔쳔만 원이 더 되곗</sent>
+<sent type="main" lang="kor" page="78" n="06">(압 잇 사) 올치오 그러킬 일으갓쇼 헐가 방야도 인비의 산이 일억만 원엇치 될 것이니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="78" n="07">이것은 현 물건만 말이오 기외도 얼만지 알 슈 잇쇼</sent>
+<sent type="main" lang="kor" page="78" n="08">홀연  사이 뭇 말이</sent>
+<sent type="main" lang="kor" page="78" n="09">그러면 공네들 그 산을 자세 알진 그 무슨 으로 졸디에 쟝들 공젼을 즁지얏쇼</sent>
+<sent type="main" lang="kor" page="78" n="10">(압 잇던 사) 이 참 알 슈 업시나 이 말이 뎡녕 그런지 모로겟쇼</sent>
+<sent type="main" lang="kor" page="78" n="11">(뒤에 잇든 ) 요이 소위 큰 쟝니 부쟈 이니 야도 다 빈 겁질만 남어셔</sent>
+<sent type="main" lang="kor" page="78" n="12">앗침에 져자 버렷다가 낫에 문 닷어 버리고 폐졈기를 풀풀니 이 쟝의 젼례요</sent><!--뒤쪽의 '풀'은 재점으로 표기되어 있음-->
+
+<sent type="main" lang="kor" page="79" n="01">( 사) 압만 그렬지라도 이 련텰촌은 큰 도부가 되야  사람  쟝의 물이 안이요</sent>
+<sent type="main" lang="kor" page="79" n="02">(  쟈) 이 말이 참 을쇼</sent>
+<sent type="main" lang="kor" page="79" n="03">련텰초은 고샤고 잡화상의 변변치 못 쟈이라도 이러케 초초히 파산 리유가 잇쇼</sent><!--'변변치'에서 뒤쪽의 '변', '초초히'에서 뒤쪽의 '초'는 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="79" n="04">인비가 산을 손 보앗더도 넉넉히  빗을 셔 사회를 로 이고 그져 잇실 리 업쇼</sent><!--'인비'에 단선 밑줄--><!--뒤쪽의 '넉'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="79" n="05">(  ) 인비의 파산 일이 강텰 상점의 관계가 된즉</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="79" n="06">혹 텰물 쟝가 위죠 일인지 모르겠쇼</sent>
+<sent type="main" lang="kor" page="79" n="07">(  ) 안이오 위조란 말이 될 말이오</sent>
+<sent type="main" lang="kor" page="79" n="08"> 쇼문은 임비가 파산  아니라  도망야 어로 갓지 모른다 옵듸다  말이 나더니</sent>
+<sent type="main" lang="kor" page="79" n="09">왁짓걸던 쟝 바닥이 모도 입을 봉 듯이 아모 소리 업고</sent>
+<sent type="main" lang="kor" page="79" n="10">이 말  사만 쳐들 가며 셰히 좀 아옵시다 좀 드릅시다 면셔</sent>
+<sent type="main" lang="kor" page="79" n="11">곗 사이 혹 무슨 말 면 가만이 잇시라 고 손을 휘즈며 쉬쉬 </sent><!--뒤쪽의 '쉬'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="79" n="12">(그 사) 공네들 뎐보 못 보앗쇼 니 그졔야  씨쟝 복판으로 몰켜들며 뎐보를 본다</sent>
+<sent type="main" lang="kor" page="79" n="13">그 뎐보 누육의셔 이날 오졍 후에 발 뎐보인</sent><!--'누육'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="79-80" n="14">상항에 늣게 와셔  사이 먼져 보고 혼자 아듯이 말니</sent><!--먼져 ^ 보고-->
+
+<sent type="main" lang="kor" page="80" n="01">여러 사이 놀날 만도 엿더라</sent>
+<sent type="main" lang="kor" page="80" n="02">뎐보에 쎠시되 련텰초의 즁앙은이 혁파고 인비 도망다 엿거</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="80" n="03">일시에 물졍이 소란고 시가가 고등야 강텰 갑이  초춍에 얼마식 오르더니</sent>
+<sent type="main" lang="kor" page="80" n="04">두 졈 춍이 못되야 팔  이상이 되고</sent>
+<sent type="main" lang="kor" page="80" n="05">아미리 각쳐 졔텰 공에 품삭이 고등야 이  삼 가 되고</sent><!--'아미리'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="80" n="06">기외에 텰물 쟝 명은 모다 일이 식 다 오로고</sent>
+<sent type="main" lang="kor" page="80" n="07">그중 희한하기 련텰촌이 쟝슈촌을 멸망다 에 쟝수촌 갑이  돈엇치가 못 되야</sent>
+<sent type="main" lang="kor" page="80" n="08">심지어 시가표에 올니도 안터니</sent>
+<sent type="main" lang="kor" page="80" n="09">시방은 별안간 여 일 평에 일팔십 원이 되엿더라</sent>
+<sent type="main" lang="kor" page="80" n="10">이날 져물게 탈이봉 아이타 가 가라화 각 신보관 압</sent>
+<sent type="main" lang="kor" page="80" n="11">각쳐 쟝가 인비 도망 일졀을 알고져 야 도라셧시되</sent>
+<sent type="main" lang="kor" page="80" n="12">별로 신긔 말이 업고 긔자의 별보가 잇시되</sent>
+<sent type="main" lang="kor" page="80" n="13">지나간 구 월 이십오 일에 혁난부 각가손 샹회에셔</sent><!--'혁낙부'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="80" n="14">인비의 도쟝 맛진 팔만 원 츌급표를 가지고 누육 위 은에 다지니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="80" n="15">그 젼날에 발셔 문셔 마감얏다 고 아니 쥬지라</sent>
+<sent type="main" lang="kor" page="80" n="16">각가손 상회가 이 일을 인비에게 뎐보로 질문야</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="80" n="17">팔만 원을 어로 셰음엿느냐 고 루 물엇스되 답뎐보가 업고</sent>
+<sent type="main" lang="kor" page="80-81" n="18"> 셔찰로 젼인되 소식이 강감여 </sent><!--젼인^되-->
+
+<sent type="main" lang="kor" page="81" n="01">십여 쳐에셔 인비에게 젼보와 셔찰 보 것이 일졀 회답이 업셔</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="81" n="02">모다 의아조민야 루 최촉 찰 공함이 뎐보 우쳬로 연락부졀야</sent>
+<sent type="main" lang="kor" page="81" n="03">일 슈쳔만 쟝이 번갓치 달녀 련쳘촌 츄밀각에 드러갓스나</sent>
+<sent type="main" lang="kor" page="81" n="04">여일히 신디에 도달지 모로겟도다</sent>
+<sent type="main" lang="kor" page="81" n="05">그러나 젼일에 뎐보 우편으로 부치는 셔간이 일일이 츄밀각에 보여 인비 탁샹에 두면</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="81" n="06">그 편지 더 보 사은 인비 하나이요 다른 사은 셔실 도달치 못면</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="81" n="07">인비가 본 후에 혹 슈필로 회답고 혹 셔긔로 셔도 되</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="81" n="08">거 문부 인비가 쥬필로 조히 등에 표를 맛쳐</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="81" n="09">회계원으로 여슈히 츌랍하고 조금도 지톄거나 셔실되거나  일이 업더니</sent>
+<sent type="main" lang="kor" page="81" n="10">몃칠 동안에 홀연 련텰촌 모쳐에셔 도쳥도설로 젼되</sent>
+<sent type="main" lang="kor" page="81" n="12">(구 월 십칠 일에 인비 부지거쳐요 일후도 엇더 분별이 업더라) 얏스니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="81" n="13">일시에 각쳐 쟝시며 졔죠 상업가이 락심쳔만고 텰가가 고등며</sent>
+<sent type="main" lang="kor" page="81" n="14">인비로 말암어 손를 당 쟈이 모다 루쳔만 원 이샹이 된다 더라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="81" n="15">별보와 갓치 인비의 일을 안다  쟈이 이러 이요</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="81" n="16">기외 각쳐 신보관은 민쳡 졍밀 슈단으로 확실을 탐지야 일시에 요명랴 나</sent>
+<sent type="main" lang="kor" page="81" n="17">횡설슈설 쳔산지산 야 취신키 어렵고</sent>
+<sent type="main" lang="kor" page="81" n="18"> 오날 론설 하나 엿다가 명일 도로 뎡오야 즁언부언니</sent>
+<sent type="main" lang="kor" page="81" n="19"> 사발 슈를 먹고  먹듯시 보 사이 무미 이라</sent>
+
+<sent type="main" lang="kor" page="82" n="01">십 월 십사 일 밤에 련텰촌 사방으로 각쳐에셔 파숑 통신쟈들이</sent>
+<sent type="main" lang="kor" page="82" n="02"> 손에 조희 들고  손에 연필 들고 예 가 기웃 제 가 기웃</sent>
+<sent type="main" lang="kor" page="82" n="03">놉흔  발도듬 낫진  굽정거려 아모리 용을 보랴 나</sent>
+<sent type="main" lang="kor" page="82" n="04">물 부어  틈 업 텰세계라 혼금이 졀엄야  거름 드러셔지 못니</sent>
+<sent type="main" lang="kor" page="82" n="05">슈문졸이나 야 볼가 야 금젼 지젼을 손에 들고 눈을 져 거리며 문이예 이랴 즉</sent>
+<sent type="main" lang="kor" page="82" n="06">초로 지르랴 니 일업시 단쟝 밧그로 도라단이다가</sent>
+<sent type="main" lang="kor" page="82" n="07">억견으로 보고되</sent>
+<sent type="main" lang="kor" page="82" n="08">련철촌 사은 인비 도망 일이 잇 줄도 모로고</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="82" n="09">각 공쟝은 여젼히 졔죠야 검은 연긔 면에 일어나고</sent>
+<sent type="main" lang="kor" page="82" n="10">기타 문졸 파슈와 행인 왕은 전일과 조금도 다름업다 니</sent>
+<sent type="main" lang="kor" page="82" n="11">이 그 속일을 셰 모를  아니라 도로혀 셰상 사의 의혹만 심게  것이러라</sent>
+<sent type="main" lang="kor" page="82" n="12">그러 규률이 엄밀야 일동일졍을 로이 번지 못고</sent>
+<sent type="main" lang="kor" page="82" n="13">인비가 공역 뎡지라 명령이 잇기 젼은 의례 거행야</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="82" n="14">십 월 이십 일지 뎡역지 안이엿시되 </sent>
+<sent type="main" lang="kor" page="82" n="15">이십 일 되 동안에 각 공인의 신슈금을 인비의 예비금 즁으로 지발엿거니와</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="82" n="16">그 후에 각 공인이 젼일 신금은 다 업셔지고 다음 쥬일에 인비가 다시 이어주지 못얏시니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="82" n="17">누가 그 임을 맛하 감당리요</sent>
+<sent type="main" lang="kor" page="82-83" n="18">이럼으로 각 공인이 부득이야 뎡역니라</sent><!--뎡^역니라-->
+
+<sent type="main" lang="kor" page="83" n="01">명일 이십일 일부터 젼일 검은 구룸 검은 안가 텬디간에 미만든 련쳘촌에 일월이 명랑고</sent>
+<sent type="main" lang="kor" page="83" n="02"> 귀 압흐고 머리 압흐고 사람의 졍신을 든 각 긔계가 일시에 괴괴야 다만 츄풍락엽이 소슬 이라</sent>
+<sent type="main" lang="kor" page="83" n="03">이 각 보관에 방원이 필경 공왕공엿시니</sent>
+<sent type="main" lang="kor" page="83" n="04">인비의 비밀은 실로 셰계에 업도다</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="83" n="05">그런즉 샹항 시쟝에 모인 모군의 말과 갓치</sent><!--'샹항'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="83" n="06">인비의 산이 긔계 집물만 여도 넉넉히 여러 사의 손를 보충겟시나</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="83" n="07">일이 대단히 곤란리니</sent>
+<sent type="main" lang="kor" page="83" n="08">졍부 판쇼에 졍쇼랴 즉 이 련텰촌 디방은 인비가 합즁국 정부와 합동야 산 것인 고로</sent><!--'인비'에 단선 밑줄, '합즁국'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="83" n="09">일홈은 촌이라도 나라와 달음업시니 합즁국 판쇼에셔 판결 권한이 못되고</sent><!--'합즁국'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="83" n="10">련텰촌 판쇼에 정랴 즉 촌즁 인비가 통찰야</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="83" n="11">대신이나 판나 검이나 경시통감이나 공쟝 감독이나 정탐이나 샹고나 모다 인비의 지휘로 시니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="83" n="12">련텰촌에 인비 업 것이 신쳬의 머리 업고 긔계에 고동 일흔 것 갓니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="83" n="13">누가 쥬쟝야 숑를 결쳐이오</sent>
+<sent type="main" lang="kor" page="83" n="14">각 쵀쥬 아모리 극력 운동야도 효력이 업실너라</sent>
+<sent type="main" lang="kor" page="83" n="15">뎨십 쟝 졔용도 갓고 부쳐도 갓고 미력도 갓흔 인비</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="83" n="16">인비의 도망얏다 말이 장슈촌에 들니거</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="83-84" n="17">쳣 마극이 말되 이 인비의 흉계랴 야 방어 위원이 회고 젼촌에 고시되</sent><!--흉계랴 ^ 야--><!--'마극'과 '인비'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="84" n="01">오날 련텰촌의 파산고 인비 도망다 풍셜을 드럿시되</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="84" n="02">이 정히 젹인의 음모궤계인즉 우리들이 방어 도를 조금도 이치 못다 니</sent>
+<sent type="main" lang="kor" page="84" n="03">쟝슈촌의 방슈 일이 더욱 업밀더니</sent>
+<sent type="main" lang="kor" page="84" n="04">얼마 아니여 샹 뎐보와 누육 신문이 젹실 고로</sent><!--'샹'과 '누육'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="84" n="05">각처 제조가와 상업가이 큰 관계가 된지라</sent>
+<sent type="main" lang="kor" page="84" n="06">구 월 십삼 일 이후로 쟝수쵼이 계엄 즁에 잇셔</sent>
+<sent type="main" lang="kor" page="84" n="07">양 밤을 지고 날이 면 셔로 보고 손을 잡아</sent>
+<sent type="main" lang="kor" page="84" n="08">다행히 어제밤 무고 오날 다지 산가 십어 송구더니</sent>
+<sent type="main" lang="kor" page="84" n="09">이제 악몽을 이고 즁병 노흔 듯 운무를 헉치고 쳥텬을 보 듯 희희락락야</sent><!--'희희락락'에서 뒤쪽의 '희'와 '락'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="84" n="10">동린셔에 연회만찬이며 남가북리에 풍악 가무가 다시 녯날 쟝슈촌이 되니라</sent>
+<sent type="main" lang="kor" page="84" n="11">사이 환란 즁에 잇시면 셔로 붓들며 구완 정이 나고</sent>
+<sent type="main" lang="kor" page="84" n="12">붓들며 구완 정이 나면  셔로 친고 선 마이 나 법이라</sent>
+<sent type="main" lang="kor" page="84" n="13">이졔 쟝슈촌이 월여를 두고 로소남녀와 귀쳔상하 업지</sent>
+<sent type="main" lang="kor" page="84" n="14">각각 제 몸과 제 목슘을 위야 환란을 방비 즈음에</sent><!--뒤쪽의 '각'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="84" n="15">친 정이 골육 갓고 선 마이 골슈에 박헛시니</sent>
+<sent type="main" lang="kor" page="84" n="16">이 쟝슈촌이 스로 국심이 단톄가 되엿더</sent>
+<sent type="main" lang="kor" page="84" n="17">오날날 릉연각과 긔렴비에 뎨일 대공노 마극이라</sent><!--뒤쪽의 '날'은 재점으로 표기되어 있음--><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="84" n="18">다히 인비가 오산여 대포 탄환의 향방을 아지 못얏시나</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="84-85" n="19">만일 바로 쏘아 맛쳐든들 촌민이 엇지 대화를 면엿시리오</sent><!--대화를 ^ 면엿시리오-->
+
+<sent type="main" lang="kor" page="85" n="01">이럼으로 마극의 은혜 실로 십만 인즁이 각골난망지라</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="85" n="02">촌민들이 회의되 혹은 구리로 마극에 샹을 지여 긔념자 며</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="85" n="03">혹은 귀즁 물품을 마극에게 보여 감사 졍을 표 야 의론이 부산되</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="85" n="04">마극은 종시 자가의 심력을 미딘다 야 일편의 운이 련텰초 우헤 몽롱니</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="85" n="05">만일 풍문의 말을 밋고 방비를 허슈히 다가</sent>
+<sent type="main" lang="kor" page="85" n="06">일조에 적인이 불의에 돌츌야 우리 장슈촌을 도륙면 엇지 만세에 우음을 면리오</sent>
+<sent type="main" lang="kor" page="85" n="07"> 다히 그 흉모를 대강 알엇시니</sent>
+<sent type="main" lang="kor" page="85" n="08">암 련텰촌에 드러가 무슨 흉계가  잇가 자세 알면 시원리라 고</sent>
+<sent type="main" lang="kor" page="85" n="09">좌션의계 자쳥되  련텰촌에 드러가니라</sent><!--'좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="85" n="10">마극이 다시 가기를 결심고  좌선에게 쳥되</sent><!--'마극'과 '좌션'에 단선 밑줄-->
+<sent type="main" lang="kor" page="85" n="11">이졔 뎌 련텰촌 갓흔 위험 샤디에 들어가기 곳 마극의 사양치 안 바어니와</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="85" n="12">만일 불야 져의게 쥭으면</sent>
+<sent type="main" lang="kor" page="85" n="13">본촌에 도라와 고야 피화게 랴 들 인간에 두 벌 마극이 업실지라</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="85" n="14"> 의견은  사람을 범야 갓치 드러갓다가</sent>
+<sent type="main" lang="kor" page="85" n="15"> 사람이 샤라오면 족히 소식을 통리니</sent>
+<sent type="main" lang="kor" page="85" n="16"> 그윽히 방어 위원 즁에 을투가 년긔 비록 략관이나</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="85" n="17">담략이 과인고 학문과 픔이 족히 밋을지니</sent>
+<sent type="main" lang="kor" page="85-86" n="18">져와 동면 됴을가 이다 즉</sent><!--이다 ^ 즉-->
+
+<sent type="main" lang="kor" page="86" n="01">을투가 이 말을 듯고 소년 예긔라 한 자원고 갓치 감을 허락더라</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="86" n="02">이튼날 마극과 을투 량인니 마를 타고 련텰촌 외문에 이르러 마를 돌녀보고</sent><!--'마극'과 '을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="86" n="03">멀니 촌즁을 바라보니 젹젹여 사의 그림자 치고 찬바에 소슬 락엽셩이라</sent><!--뒤쪽의 '젹'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="86" n="04">문 박게 다다르니 벽 밋 큰 도랑이 잇셔</sent><!--뒤쪽의 '다'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="86" n="05">젼일은 외나무 다리를 노아 왕를 통더니 이졔 그 다리를 치워 버린지라</sent>
+<sent type="main" lang="kor" page="86" n="06">십여 보나 넓고 슈십 장 깁흔 물을 건너지 못니</sent>
+<sent type="main" lang="kor" page="86" n="07">량인이 무슈히 를 쓰다가 긴 쥴을 엇어 두  쇠갈구리를 달고</sent>
+<sent type="main" lang="kor" page="86" n="08">압담을 향야 갈구리  을 던져 벽에 고져 되</sent>
+<sent type="main" lang="kor" page="86" n="09">담이 놉고 도랑이 넓어 슈 시간을 신고다가 간신히 줄을 고</sent>
+<sent type="main" lang="kor" page="86" n="10">을투ㅣ 먼져 붓들고 건너 뎌편 언덕에 온으고</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="86" n="11">마극이 이어 건너 그 쥴을 다시 벽에 드리우고 넘어 드러가니</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="86" n="12">예 마극이 년젼에 약한으로 변명고 쳐음 드러오던 길이라</sent><!--'마극'과 '약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="86" n="13">마극이 을투를 도라보며</sent><!--'마극'과 '을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="86" n="14">뎌긔 삼심뉵 구에  젼일 슈작을 동쳐든 사람이 잇스니</sent>
+<sent type="main" lang="kor" page="86" n="15">몬져 가보자 고 바로 삼십륙 구로 향니</sent>
+<sent type="main" lang="kor" page="86" n="16">표석은 놉히셔고 즁문은 구지 닷엇시니 줄연히 열지 못지라</sent>
+<sent type="main" lang="kor" page="86" n="17">문을 치랴 다가 안의 잇 사람이 놀날가 념려고  쥴을 야 담을 넘어 드러가니</sent>
+<sent type="main" lang="kor" page="86" n="18">일초일목이라도 의연히 셔로 아 듯 더라</sent>
+<sent type="main" lang="kor" page="86-87" n="19">마극이 공쟝을 자 젼일 약한을 놀든 풀무 독아니를 보니 불은 지고  라져</sent><!--'마극'과 '젼일'에 단선 밑줄--><!-- ^ 라져-->
+
+<sent type="main" lang="kor" page="87" n="01">소 바람이 돌고 쳐쳐에 연챵은 검의쥴이 느러져 만 날니지라</sent><!--뒤쪽의 '쳐'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="02">마극이 을투와 젼일 리야기며</sent><!--'마극'과 '을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="87" n="03">이  곳을 보면 다른 곳을 짐작리라</sent>
+<sent type="main" lang="kor" page="87" n="04">그러나 뎨일 죠심되  이 즁앙의 잇 일구가 지극 엄밀야 타구에 비허지 못허니</sent>
+<sent type="main" lang="kor" page="87" n="05">만일 실수야 함졍에 지면 우리 량인의 슈치 되고 쟝슈촌의 불이 막심지라</sent>
+<sent type="main" lang="kor" page="87" n="06"> 의향은 가지고 온 폭발약을 노아 즁앙구의 벽을 치면 비단 압길을 엇을  아니라</sent>
+<sent type="main" lang="kor" page="87" n="07">혹 뎌 속에 예비 것이 잇셔도  번 놀나면 것 들어나리니 폭발약을 노 고</sent>
+<sent type="main" lang="kor" page="87" n="08">량인이 셔로 가며 말다가 즁앙구에 니르러 벽밋흘 파고 약을 을</sent>
+<sent type="main" lang="kor" page="87" n="09">벽니 단단야 죨연치 안은지라</sent><!--뒤쪽의 '단'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="10">량인이 평 힘을 다야 쇠맛치로 벽 밋 돌을 조아 겨오 틈을 고</sent>
+<sent type="main" lang="kor" page="87" n="11">다시 쇠지레로 긔니 돌덩이 부셔지고 큰 궁기 나거</sent>
+<sent type="main" lang="kor" page="87" n="12">폭발약을 너코 오 분 시간 탈 화승을 달혀 노코 일 마쟝을 물너나오니</sent>
+<sent type="main" lang="kor" page="87" n="13">방 팔면에 과 모가 눈을  슈 업지라</sent>
+<sent type="main" lang="kor" page="87" n="14">량인이 슈 시간에 소 긋치기를 기다려  나아가 두루 보니</sent><!--뒤쪽의 ''는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="15">즁앙구의 벽이 반은 문허지고 좌우 쟝랑에 들 도리 기동 석가가 예셔 쿵쿵 뎨셔 털셕 위름야</sent><!--뒤쪽의 '쿵'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="16">드러가지 못고 멀니 셔셔 보</sent><!--뒤쪽의 '셔'는 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="87" n="17">여진 챵호와 부러진 란간이  곳도 성  업셔</sent>
+<sent type="main" lang="kor" page="87-88" n="18">병화 격근 도셩 갓흔지라</sent><!--갓흔지^라-->
+
+<sent type="main" lang="kor" page="88" n="01">량인이 이리뎌리 혀가며 젼일 약한의 슈월 거쳔든 츄형고 졔도실을 져가니</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="88" n="02">그곳 쓸쓸야 문에 아모도 업거</sent><!--뒤쪽의 '쓸'은 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="88" n="03">량인이 마을 노코 무인디경갓치 드러가니</sent>
+<sent type="main" lang="kor" page="88" n="04">외촌부터 이곳에 이르되 사람의 종젹은 볼 슈 업고</sent>
+<sent type="main" lang="kor" page="88" n="05"> 구멍에 검졍  지즈며 리 지게 다다러더라</sent>
+<sent type="main" lang="kor" page="88" n="06">마극이 젼일 증긔 긔관 그리던 곳과 섭녑든 쟝셔실을 력력히 차자보니</sent><!--'마극'에 단선 밑줄--><!--'긔관'의 '긔', '력력히'의 '력'은 각기 재점으로 표기되어 있음-->
+<sent type="main" lang="kor" page="88" n="07">모도 와 먼지 가득되 슈습지 안코 추밀각으로 갈</sent>
+<sent type="main" lang="kor" page="88" n="08">(을투) 여긔도 폭발약을 노흐랴 오</sent>
+<sent type="main" lang="kor" page="88" n="09">(마극) 글셰 보아가며 만일 문이 잇셔 드러가면 굿여 독 슈단을 부릴 것 업다 며</sent>
+<sent type="main" lang="kor" page="88" n="10">졈졈 나아가 젼일 약한이 갓치 이고 두 놈이 직히든 곳에 이르러 마극이 가르치며</sent><!--뒤쪽의 '졈'은 재점으로 표기되어 있음--><!--'약한'과 '마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="88" n="11">뎌 방이  속을 쎡이고 뎌 나무가  목슘을 살녓다 며</sent>
+<sent type="main" lang="kor" page="88" n="12">  곳을 가르쳐 이리 가면 추밀각이요</sent>
+<sent type="main" lang="kor" page="88-89" n="13">뎌 문을 트리고 드러가면 바로 인비의 사자방이 머지 안타 고</sent><!--'인비'에 단선 밑줄--><!--안타 ^ 고-->
+
+<sent type="main" lang="kor" page="89" n="01">즉시 독긔를 드러 문을 치니 이 갈너졋시나</sent>
+<sent type="main" lang="kor" page="89" n="02">안을 굿게 쟘가 발로 며 손으로 밀되 덱이 업지라</sent>
+<sent type="main" lang="kor" page="89" n="03">암 독긔를 들어 치려 즈음에 홀연 멀니셔 들니되</sent>
+<sent type="main" lang="kor" page="89" n="04">누가 여긔 잇냐 누가 여긔 잇냐  소리 나거</sent>
+<sent type="main" lang="kor" page="89" n="05">량인이 작 놀나며 이 뷔인 집 속에 어인 소린고 든 에</sent>
+<sent type="main" lang="kor" page="89" n="06"> 들니되 누가 왓냐 누가 왓냐 니</sent>
+<sent type="main" lang="kor" page="89" n="07">마극이 대경하야 이로</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="89" n="08">내 이촌에 드러오며  사람도 업기에  공디를 졈녕기 무방다 엿더니</sent>
+<sent type="main" lang="kor" page="89" n="09">이곳에 사람 잇 쥴을 뉘 알앗시리오</sent>
+<sent type="main" lang="kor" page="89" n="10">이 임자 잇 인가어 담을 넘고 문을 치며 벽을 헐고 집을 문허스니 곳 쳔유 도젹이라</sent>
+<sent type="main" lang="kor" page="89" n="11">우리 순슈 법국 사람으로 일이만 인가에 와셔 쳔유 악명을 엇을지니</sent><!--'법'과 '일이만'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="89" n="12">에지 붓그럽지 안으리오 며 주저더니</sent>
+<sent type="main" lang="kor" page="89" n="13">문 안의셔  누가 여긔 잇냐  소 졈졈 갓가이 들니거</sent>
+<sent type="main" lang="kor" page="89" n="14">마극이 크게 소리 질으며</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="89-90" n="15">너 엇던 사람이냐 니 인비다려 나와 보라 여라 니</sent><!--'인비'에 단선 밑줄--><!--여라 ^ 니-->
+
+<sent type="main" lang="kor" page="90" n="01">문 안의셔 빗쟝을 고 열거</sent>
+<sent type="main" lang="kor" page="90" n="02">자세 보니 오묵눈에 칼등코며 곱솔슈염에 면상에 쥬근 더덕더덕 디의라</sent><!--'디의'에 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="03">디의 마극을 보더니 하 약한이냐 약한이냐 면셔 황황 거동이어</sent><!--'디의'와 '마극'과 '약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="04">마극이 불너 손짓며</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="05">녜 인비게 말여라  뎌와 면질 일이 잇다 여라 즉</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="06">디의 도리질며</sent><!--'디의'에 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="07">나 쥬인의 명을 바다 외인을 드리지 못거 네 엇지 법을 범냐</sent>
+<sent type="main" lang="kor" page="90" n="08">(마극) 그러면 네가 나를 막아 인비를 못 보게  터이냐</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="09">(디의) 인비 군 인비 군 여긔 업셔 여긔 업셔 면셔 눈을 희번덕이며 가라 니</sent><!--'인비'에 모두 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="10">(마극) 인비가 언졔 갓시며 언제 온다더냐</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="11">(디의) 약한아 들지 말아 나 쥬인의 명으로 이 문을 직힐 이어</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="12">네 만일 가지 안코 짓거리면  늙은 쥬먹이라도 네 갈이를 골 박듯 리라</sent>
+<sent type="main" lang="kor" page="90" n="13">이 을투가 겻 셧다가 분심이 대발야 마극을 보며</sent><!--'을투'와 '마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="90" n="14">이러케 힐난 것이 무어이오 고  디의를 보며</sent><!--'디의'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="91" n="01">네가 우리를 드러면 드러가고 안 드리면 우리 그져 갈 듯냐</sent>
+<sent type="main" lang="kor" page="91" n="02">면셔 문턱에 밧 닥어셔니 별안간 문을 탁 닷지라</sent>
+<sent type="main" lang="kor" page="91" n="03">을투ㅣ 겨오 상지 안코 비케 셧다가 분 마음을 참지 못나</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="91" n="04">엇지 슈 업셔 문틈으로 본즉  놈이 크게 외이며 나오너라 나오너라 더니</sent>
+<sent type="main" lang="kor" page="91" n="05">홀연 머리 우흐로 사람의 소 나거</sent>
+<sent type="main" lang="kor" page="91" n="06">급히 보니 아이밀이 발셔 다리를 노코 올너와 려다 보지라</sent><!--'아이밀'에 단선 밑줄-->
+<sent type="main" lang="kor" page="91" n="07">마극이 우시며</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="91" n="08">허 아이밀이로구나  너를 알거이와 이져 너다려 여려 말 것 업고</sent><!--'아이밀'에 단선 밑줄-->
+<sent type="main" lang="kor" page="91" n="09">다만 네가 이 문을 열겟냐 못 열겟냐</sent>
+<sent type="main" lang="kor" page="91" n="10">말을 맛치지 못야 아이밀이 탄자로 마극을 쏘거</sent><!--'아이밀'과 '마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="91" n="11">마극이 급히 머리를 숙이니 탄자가 모자를 코 나가지라</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="91" n="12">이 마극이 폭발약을 여 불을 당긔여 던지니</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="91" n="13">곳 터지며 벽이 문어지고 다리 슈십 보 밧게 러지거</sent>
+<sent type="main" lang="kor" page="91" n="14">량인이 각각 총을 가지고 덜러 가다 보니</sent>
+<sent type="main" lang="kor" page="91" n="15">피 흘너 에 가득하되 아이밀 디의 형젹이 업지라</sent><!--'아이밀'과 '디의'에 단선 밑줄-->
+<sent type="main" lang="kor" page="91" n="16">홀연 춍소리 나더니 마극의 등 뒤에 나무가지 부러지거</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="91" n="17">량인이 셔로 보며 죠심죠심라 며</sent>
+<sent type="main" lang="kor" page="91" n="18">멀리 보니 한기 나무 잇거 급히 나무밋 몸을 감초고 잇</sent>
+<sent type="main" lang="kor" page="91" n="19">총소 연야 나지라</sent>
+<sent type="main" lang="kor" page="91" n="20">량인이 나무밋 잇셔 다이 상지 아니고</sent>
+<sent type="main" lang="kor" page="91-92" n="21">마극이  곳을 보더니</sent><!--'마극'에 단선 밑줄--><!--보^더니-->
+
+<sent type="main" lang="kor" page="92" n="01">이놈 뎌긔 잇다 뎌기 잇다 네 뎌긔 연통에셔 무럭무럭 나오 연긔를 보너냐 고</sent>
+<sent type="main" lang="kor" page="92" n="02">급히 나무가지를 거 모자를 쓰이고 웃옷슬 입혀 젹인을 의심케 하고</sent>
+<sent type="main" lang="kor" page="92" n="03">을투와 탄자를 연속여 노흐니 총소 치지 아니</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="04">두 놈이 간  업시 긔쳑이 사라졋거</sent>
+<sent type="main" lang="kor" page="92" n="05">마극이 연통 잇든 근쳐로 가더니 크게 불으며</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="06">이놈 잡어라 이놈 잡어라 니 을투 쳐가 본즉</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="07">마극이 디의와  덩어리 되야 씨름듯 어우러졋거</sent><!--'마극'과 '디의'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="08">을투의 탄환소 나 곳에 디의 의 걱구러지지라</sent><!--'을투'와 '디의'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="09">을투ㅣ 면으로 둘너보며   놈은 어 잇냐 니</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="10">마극이 슘이 셔 흘덕흘덕며 손으로 가르치 곳에 아이빌이 담 모퉁이에 바졋거</sent><!--'마극'과 '아이밀'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="11">(을투) 져놈도 탄자에 마졋쇼</sent>
+<sent type="main" lang="kor" page="92" n="12">마극이 고만 덕이거</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="13">를투ㅣ 갓가이 가보니 과연 죽엇더라</sent><!--'투ㅣ'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="14">(마극) 인졔 녑려 업다 고 인비의 자방으로 갈</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="15">을투 쳐음 보 터이라 눈에 현황고 가심이 두근거려</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92" n="16">그 젼 약한이 쳐음 들어올 젹 모양이라</sent><!--'약한'에 단선 밑줄-->
+<sent type="main" lang="kor" page="92-93" n="17">일실 이실을 차례로 보다가 졔삼실에 이르니</sent><!--졔삼^실에-->
+
+<sent type="main" lang="kor" page="93" n="01">이곳은 약한이 인비와 쵸면든 금박 록으로 인 집이라</sent><!--'약한'과 '인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="93" n="02">대리셕 고족샹에 츄형도식은 간  업고 각쳐 젼보 신문 셔찰이 산덤이갓치 싸엿시니</sent>
+<sent type="main" lang="kor" page="93" n="03">량인이 셔로 보며</sent>
+<sent type="main" lang="kor" page="93" n="04">이상다 이상다 뎌 신문 셔 뎐보 인비  손으로 혀 보 것인</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="93" n="05">봉도 히지 안코 뎌로 힌  잇시니 괴샹다 며  곳에 이르러</sent>
+<sent type="main" lang="kor" page="93" n="06">(마극)  향자에 이 목샹자 속으로 인비을 라 드러가 별유쳔디를 보앗다</sent>
+<sent type="main" lang="kor" page="93" n="07">고 목샹자에 각죵 셔젹을 여 치우고 마극이 혼자말로</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="93" n="08">어 틈이 잇든가 어로 열던가 며 두루 찻다가</sent>
+<sent type="main" lang="kor" page="93" n="09">오오 인비의 비밀 심가 뎡녕 변작야 남이 모로게 얏도다</sent>
+<sent type="main" lang="kor" page="93" n="10">그러나 필경 드러가 문이 잇시리니</sent>
+<sent type="main" lang="kor" page="93" n="11">졔가 도망야도 이 속에셔 승텬입디 믓엿시리라 며</sent>
+<sent type="main" lang="kor" page="93" n="12">면으로 도라단이가 골이 나셔 발길로 거더며 손으로 밀며 우직근우직근 들부시더니</sent>
+<sent type="main" lang="kor" page="93" n="13">을투가 텬장을 쳐다보다가 우연히 도돔 우에 올나 셔셔 두 손으로 뎐등 걸닌 고리를 잡아 구니</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="93-94" n="14">고리 축 쳐지고 강텰로 든 박휘갓치 둥근 텰판이 그를 더니</sent><!--텰판이 ^ 그를 -->
+
+<sent type="main" lang="kor" page="94" n="01">텬쟝이 문갓치 열녀지며 강철다리 내려 뇌이지라</sent>
+<sent type="main" lang="kor" page="94" n="02">량인이 그제야 드러가 길을 고 허허 우시며</sent>
+<sent type="main" lang="kor" page="94" n="03">별놈도 다 보겟다 고 다리로 올나가니 오십여 층이라</sent>
+<sent type="main" lang="kor" page="94" n="04">올나셔며 면이 ᄏᆞᆼ캄야 지쳑을 분간치 못하고 더듬더듬 만져보며 드러가니</sent>
+<sent type="main" lang="kor" page="94" n="05">슈십여 굽위를 도라 향방을 모로다가</sent>
+<sent type="main" lang="kor" page="94" n="06"> 곳에 흰 무지 치듯 일광이 빗취거</sent>
+<sent type="main" lang="kor" page="94" n="07">마극이 달녀가 보니   남짓 류리챵이라</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="94" n="08">챵 속을 드려다 보더니 마극이 손짓며 가만가만 을투다려 오나라 오너라 니</sent><!--'마극'과 '을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="94" n="09">이 류리챵은 망원경과 현미경갓치 물건을 보면 갑절이나 커 뵈 쳘광경이라  류리라</sent>
+<sent type="main" lang="kor" page="94" n="10">이 마극이 눈이 로히 굴둥굴 가심이 덜셕 려안져 아모 말도 못고 다만 손으로 가라칠 이라</sent>
+<sent type="main" lang="kor" page="94" n="11">을투ㅣ 갓가히 가 엿보니 엇던 쟈가 조희를 펴고 붓를 잡아 텬연히 안졋스니</sent><!--'을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="94" n="12">의곳 텰셰계의 왕이오 련텰촌의 쥬인이오 화학 인비라</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="94" n="13">량인이 다시 눈을 씻스며 셰히 보니</sent>
+<sent type="main" lang="kor" page="94" n="14">인비 손의 잡은 붓을 조희에 이고 무엇을 각지 무엇에 놀낫지 어를 히지</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="94" n="15">붓을 놀니지 안코 오도커니 안져 제용도 갓고 부쳐도 갓고 미력도 가흐니</sent>
+<sent type="main" lang="kor" page="94" n="16">뎌것이 어인 일인고</sent>
+<sent type="main" lang="kor" page="94-95" n="17">셰샹이 들며 도망얏다 인비가 뎌 속에 업데여 뎌 형샹으로 안진 것을 뉘 알알시리오</sent><!--도망얏^다--><!--'인비'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="95" n="01">그 쓰 것이 무엿인고 량인이 류리경 밧게셔 녁여 보니</sent>
+<sent type="main" lang="kor" page="95" n="02">연샹 우에 획이 엿더라</sent>
+<sent type="main" lang="kor" page="95" n="03">ABCD 고시노라 장슈초 칠 일은 오날밤으로 결뎡얏시니</sent>
+<sent type="main" lang="kor" page="95" n="04">본 촌쥬의 명을 밧은 후에 즉시 거되</sent>
+<sent type="main" lang="kor" page="95" n="05">긔어코 오날 뎡밤즁에 쥐도 도 모로게 쟝슈촌이 호읍북통고 일시 함몰야</sent>
+<sent type="main" lang="kor" page="95" n="06">엣날 파비 도부가 복멸듯 게 되</sent><!--'파비'에 쌍선 밑줄-->
+<sent type="main" lang="kor" page="95" n="07">좌선 마극의 두 쥭엄은 완젼 신체로 본촌에 보게 라</sent><!--'좌선 마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="95" n="08"> 이 듀 숑쟝을 보면 지극히 샹쾌고 질기겟스니 쳑념을 바라노라</sent>
+<sent type="main" lang="kor" page="95" n="09">구 월 십칠 일 인</sent><!--'인'에 단선 밑줄-->
+<sent type="main" lang="kor" page="95" n="10">인를 겨오 쓰고 비 못다 쎳 붓을 멈쳐시니 무슨 이며</sent><!--'인'과 '비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="95" n="11"> 구 월 십칠 일은 졍히 도망다 날인</sent>
+<sent type="main" lang="kor" page="95" n="12">이졔  달을 뎌 모양으로 안졋시니 어인 일인고 만심 의혹다가</sent>
+<sent type="main" lang="kor" page="95" n="13">인비 안진 겻 여진 조약돌 류리 각이 랑자하거</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="95" n="14">마극이 그제야 닷고 알괘라 알괘라</sent><!--'마극'에 단선 밑줄-->
+<sent type="title2" lang="kor" page="95" n="15">뎨십오 쟝 쟝슈촌 만셰</sent>
+<sent type="main" lang="kor" page="95-96" n="17">좌션 군이 마극과 을투를 보고 종일 마의 현현야 집안으로 도라단이며 좌불안셕야</sent><!--좌불^안셕야--><!--'좌션'과 '마극'과 '을투'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="96" n="01">문 밧게 방울소리만 나도 오가 굿쓰 소리만 나도 오가 문을 펄젹 여다드며</sent>
+<sent type="main" lang="kor" page="96" n="02"> 념려되 인비 악독야 이 두 사을 만일 불케 면</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="96" n="03">져의 독화도 참혹려니와 쟝슈촌 십만 인즁이 위지로다</sent>
+<sent type="main" lang="kor" page="96" n="04"> 각에 인비 아모리 음휼야도 마극의 략이 샹젹고 을토가 년소나 넉넉이 협력리니</sent><!--'인비'와 '마극'과 '을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="96" n="05">혹 두 사람이 다 무사히 도라오가 야 심신이 비월더니</sent>
+<sent type="main" lang="kor" page="96" n="06">홀연 시가 엿오되 마극 을투 두 선이 오이다 니</sent><!--'마극'과 '을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="96" n="07">좌선이 쟉 놀나며 오다니 모다니 발셔 오냐 고 여 나가</sent><!--'좌선'에 단선 밑줄-->
+<sent type="main" lang="kor" page="96" n="08"> 손으로 마극을 붓들고  한 손으로 을투를 붓드로 안진 후에</sent><!--'마극'과 '을투'에 단선 밑줄-->
+<sent type="main" lang="kor" page="96" n="09">(좌선) 다른 말 다 졋치고 우션 인비의 졍형을 듯셰</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="96" n="10">(마극) 념려 마시오 련텰초이 발셔이 발셰 망고 인비 죽엇이다</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="96" n="11">좌선이 일변 놀나며 일변 깃거야  말이</sent><!--'좌선'에 단선 밑줄-->
+<sent type="main" lang="kor" page="96" n="12">인비가 죽다니 인비가 죽다니 엇더케 알엇노</sent><!--'인비'에 모두 단선 밑줄-->
+<sent type="main" lang="kor" page="96-97" n="13">(마극) 우리들이 분명히 보앗쇼 며 을투를 보고</sent><!--보앗쇼 ^ 며--><!--'을투'에 단선 밑줄-->
+
+<sent type="main" lang="kor" page="97" n="01"> 자셰히 전후 말을 다 려니와 혹 지거든 네가 채워 말계 며</sent>
+<sent type="main" lang="kor" page="97" n="02">쳐음 폭발약 노아 즁앙구에 드러가든 말과</sent>
+<sent type="main" lang="kor" page="97" n="03">츄밀각에 드려가 목샹 문을 찻지 못고 강텰 텰판을 트리던 말과</sent>
+<sent type="main" lang="kor" page="97" n="04">류리챵으로 인비의 형샹을 보던 말을 낫낫치 고고</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="97" n="05">마극이  말되</sent><!--'마극'에 단선 밑줄-->
+<sent type="main" lang="kor" page="97" n="06">전일 그 포 탄환을 자셰히 리야기엿거니와</sent>
+<sent type="main" lang="kor" page="97" n="07">인비의 말이 유동탄산을 탄환 속에 넛다 더니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="97" n="08">읏지야 탄산이 터졋지 쏘다졋지 챵야 봉긔와 샹박 고로</sent>
+<sent type="main" lang="kor" page="97" n="09">와가 빙설 갓야 져 혼 얼어 쥭고</sent>
+<sent type="main" lang="kor" page="97" n="10">우리 만일 그 방 속에 드러가 어리엿든들 져를 라 빙복에 뭇칠 번얏이다</sent>
+<sent type="main" lang="kor" page="97" n="11">을투ㅣ  디의와 아이밀을 맛나 일장 싸호던 일을 말며</sent><!--'을투'와 '디의'와 '아이밀'에 단선 밑줄-->
+<sent type="main" lang="kor" page="97" n="12">필경 그놈들이 인비의 쥭음을 인야 련텬촌의 주인이 되고져 인 듯오</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="97" n="13">(마극) 그런 것이 안이지</sent>
+<sent type="main" lang="kor" page="97" n="14">나 견텰촌 용을 자셰 알거니와</sent>
+<sent type="main" lang="kor" page="97" n="15">인비의 률령이 엇지 엄밀지 아모리 친신 쟈라도</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="97" n="16">인비의 불음이 업시면 감히 인비 잇 쳐소에 갓가히 가지 못 고로</sent><!--'인비'에 모두 단선 밑줄-->
+<sent type="main" lang="kor" page="97" n="17">그 두놈도 인비의 을 모로고 률령을 직히노라고 외인을 방어 일이니라 니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="97" n="18">좌선이 숀바닥을 치며</sent>
+
+<sent type="main" lang="kor" page="98" n="01">하날이로고</sent>
+<sent type="main" lang="kor" page="98" n="02">그 두 사 살어 온 것도 하날이요</sent>
+<sent type="main" lang="kor" page="98" n="03">인비 평 제 죠만 밋고 남의 인죵을 멸랴 다가 져 먼져 제 몸을 죽엿시니</sent><!--'인비'에 단선 밑줄-->
+<sent type="main" lang="kor" page="98" n="04">하날이로다</sent>
+<sent type="main" lang="kor" page="98" n="05">니 이제 늙엇시니 그 량소년은 이를 거울지여다</sent>
+<sent type="main" lang="kor" page="98" n="06">그러 우리 쟝슈촌의 번셩과 우리 쟝슈촌의 친을   번 하례지 아니치 못노라 고</sent>
+<sent type="main" lang="kor" page="98" n="07">잔을 들어 경축며 우리 쟝슈촌 만세 우리 쟝슈촌 만만세</sent>
+<sent type="main" lang="kor" page="98" n="08">우리 나전 인죵 만세 우리 나전 인죵 만만세</sent>
+<sent type="title" lang="kor" page="98" n="09">과학소설(科學小說) 텰세계(鐵世界) 終</sent>
+
+</doc>
+

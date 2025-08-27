@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">석존일대가</title><!--한국불교가사전집--> 
+<title lang="chi">釋尊一代歌</title><!-- 韓國佛敎歌辭全集-->
+<fullname>  </fullname>
+<generalname> </generalname>
+<abbre>  </abbre>
+<volume n=""/>
+<author>이응섭, 이상보 편</author><!--李應燮/이상보 편저-->
+<date>20세기전후</date><!--20C 전후(作), 1927(刊行)-->
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>釋尊一代歌 한국불교가사전집</title>
+<pubPlace>서울</pubPlace><!---이 텍스트는 국립국어연구원 작업 내용 유지-->
+<publisher>집문당</publisher>
+<date>1980</date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date>1994/09/05</date>
+<respStmt>
+<resp>입력자</resp><name>권두환</name>
+</respStmt>
+<item>285~317면</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1994/09/07</date>
+<respStmt>
+<resp>교정자</resp><name>권두환</name>
+</respStmt>
+<item>교정</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>1998/10</date>
+<respStmt>
+<resp>프로젝트 책임자</resp><name>김흥규</name>
+<resp>연구원</resp><name>차준경</name>
+<resp>프로그래머</resp><name>이애란</name>
+</respStmt>
+<item>파일 변환, 세종 21 프로젝트 헤더 붙임, 마킹</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>23/07/04</date>
+<respStmt>
+<resp>교정자</resp><name>오민석</name>
+</respStmt>
+<item>국립국어원 국어 역사 자료 종합 정비 사업의 규정에 맞게 xml 형식으로 변경</item>
+</revisionDesc>
+
+<revisionDesc>
+<date>23/07/20</date>
+<respStmt>
+<resp>입력자</resp><name>김형진</name>
+</respStmt>
+<item>전면적인 교감 및 적절한 문장 내지 절 단위로 분절</item>
+<respStmt>
+<resp>교정자</resp><name>정은영</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<pages n="01">
+<img n="01">https://kohico.kr/_media/image/서명/01.jpg</img>
+<sent type="title" lang="kor" page="01" n="1">석존일대가(釋尊一代歌)</sent>
+<sent type="title2" lang="kor" page="01" n="2">제1장 총론</sent>
+<sent type="title3" lang="kor" page="01" n="3">1</sent>
+<sent type="main" lang="kor" page="01" n="4">삼천 년 전 회고(回顧)하니</sent>
+<sent type="main" lang="kor" page="01" n="5">인도 항하(恒河) 제상류(諸上流)에</sent>
+<sent type="main" lang="kor" page="01" n="6">관개지역(灌漑地域) 사천여리 옥토양양(沃土穰穰) 평원이라</sent>
+<sent type="title3" lang="kor" page="01" n="7">2</sent>
+<sent type="main" lang="kor" page="01" n="8">왕궁이며 바라문탑(婆羅門塔) 취록간(翠綠間)에 소사 잇고</sent>
+<sent type="main" lang="kor" page="01" n="9">아름다운 폐다찬가(吠陀讚歌) 삼림(森林) 속에 요량(嘹喨)하네</sent>
+<sent type="title3" lang="kor" page="01" n="10">3</sent>
+<sent type="main" lang="kor" page="01" n="11">구십여파(九十餘派) 철학자는 참 이치(理致)를 토론(討論)하며</sent>
+<sent type="main" lang="kor" page="01" n="12">대소왕후(大小王侯) 서로서로 패업(覇業)들을 닷투도다</sent>
+<sent type="title3" lang="kor" page="01" n="13">4</sent>
+<sent type="main" lang="kor" page="01" n="14">계급제도(階級制度) 엄정하야 바라문(波羅門)족 찰제리(刹帝利)족</sent>
+<sent type="main" lang="kor" page="01" n="15">비사(毘舍)족과 수도라(首圖羅)를 사성(四姓)이라 명칭(名稱)하네</sent>
+<sent type="title3" lang="kor" page="01" n="16">5</sent>
+<sent type="main" lang="kor" page="01" n="17">저희들의 조상(祖上)들이 분지야부 광야(曠野)에서</sent>
+<sent type="main" lang="kor" page="01" n="18">항하(恒河) 상류 이전(移轉)할 제 그때부터 시작(始作)하야</sent>
+<sent type="title3" lang="kor" page="01" n="19">6</sent>
+<sent type="main" lang="kor" page="01" n="20">정복자(征服者)와 피(被)정복자 치자(治者)이며</sent>
+<sent type="main" lang="kor" page="01" n="21">피치자(被治者)가 종족 현격(懸隔) 유심(愈甚)하야 사성계급(四姓階級) 형성햇네</sent>
+<sent type="title3" lang="kor" page="01" n="22">7</sent>
+<sent type="main" lang="kor" page="01" n="23">이 제도(制度)를 기초(基礎) 삼아 법규율령(法規律令) 제정하고</sent>
+<sent type="main" lang="kor" page="01" n="24">찰제리(刹帝利)가 곳곳마다 국가(國家)들을 형성(形成)햇네</sent>
+<sent type="title3" lang="kor" page="01" n="25">8</sent>
+<sent type="main" lang="kor" page="01" n="26">이 법령(法令)을 지은 자(者)는 바라문(波羅門)의 종교가니</sent>
+<sent type="main" lang="kor" page="01" n="27">사성(四姓) 중의 최고위(最高位)를 바라문(波羅門)이 점령(占領)햇네</sent>
+<sent type="title3" lang="kor" page="02" n="1">9</sent>
+<sent type="main" lang="kor" page="02" n="2">종교가(宗敎家)의 위력(威力)으로 다른 것들 압도(壓倒)하야</sent>
+<sent type="main" lang="kor" page="02" n="3">서력기전(西曆紀前) 천수백 년 완고신정(頑固神政) 조직햇네</sent>
+<sent type="title3" lang="kor" page="02" n="4">10</sent>
+<sent type="main" lang="kor" page="02" n="5">유명할사 마노법전(摩努法典) 신정법령(神政法令) 전서이라</sent>
+<sent type="main" lang="kor" page="02" n="6">바라문의 권세편중(權勢偏重) 법전(法典) 보고 수긍(首肯)일다</sent>
+<sent type="title3" lang="kor" page="02" n="7">11</sent>
+<sent type="main" lang="kor" page="02" n="8">이와 가튼 신성법전(神聖法典) 제족(諸族)들이 준봉(遵奉)함은</sent>
+<sent type="main" lang="kor" page="02" n="9">인도인(印度人)의 종교 사상 강경(强硬)함에 원인(原因)일세</sent>
+<sent type="title3" lang="kor" page="02" n="10">12</sent>
+<sent type="main" lang="kor" page="02" n="11">바라문족(波羅門族) 이와 가치 자기권력(自己權力) 확대하야</sent>
+<sent type="main" lang="kor" page="02" n="12">석존출세(釋尊出世) 그 당시엔 극도(極度)지 달(達)하엿네</sent>
+<sent type="title3" lang="kor" page="02" n="13">13</sent>
+<sent type="main" lang="kor" page="02" n="14">바라문의 폭횡상황(暴橫狀況) 오날 능(能)히 모르오나</sent>
+<sent type="main" lang="kor" page="02" n="15">종교교육(宗敎敎育) 드러보면 일반(一班)이나 짐작하리</sent>
+<sent type="title3" lang="kor" page="02" n="16">14</sent>
+<sent type="main" lang="kor" page="02" n="17">교육(敎育)이라 하는 것은 전국민(全國民)에 베풀 것을</sent>
+<sent type="main" lang="kor" page="02" n="18">당시 인도(印度) 교육(敎育)이란 바라문(波羅門)의 전유(專有)이며</sent>
+<sent type="title3" lang="kor" page="02" n="19">15</sent>
+<sent type="main" lang="kor" page="02" n="20">종교(宗敎)로만 논지(論之)해도 전유(專有)됨은 물론(勿論)이요</sent>
+<sent type="main" lang="kor" page="02" n="21">왕족(王族)이라 할지라도 사교권(司敎權)은 못 가젓다</sent>
+<sent type="title3" lang="kor" page="02" n="22">16</sent>
+<sent type="main" lang="kor" page="02" n="23">이와 가치 바라문(波羅門)은 사회최상위(社會最上位)에 잇서</sent>
+<sent type="main" lang="kor" page="02" n="24">절대 세력 휘천동지(揮天動地) 그 절정(絶頂)에 달(達)햇더니</sent>
+<sent type="title3" lang="kor" page="02" n="25">17</sent>
+<sent type="main" lang="kor" page="02" n="26">그 시대(時代)에 바라문(波羅門)들 넓히 신봉(信奉)하는 것은</sent>
+<sent type="main" lang="kor" page="02" n="27">자재천교(自在天敎) 배화교나 점점부패(漸漸腐敗) 하여진다</sent>
+<sent type="title3" lang="kor" page="02" n="28">18</sent>
+<sent type="main" lang="kor" page="02" n="29">주신(主神)에게 공물(供物)드려 자기 복락(福樂) 기도(祈禱)하니</sent>
+<sent type="main" lang="kor" page="02" n="30">그 의식(儀式)이 번잡(繁雜)하야 신(神)의 본의위반(本意違反)일세</sent>
+<sent type="title3" lang="kor" page="02" n="31">19</sent>
+<sent type="main" lang="kor" page="02" n="32">승도(僧徒)들은 세욕(世慾)으로 아유강욕(阿諛强欲) 교만 전횡</sent>
+<sent type="main" lang="kor" page="03" n="1">배격논쟁(排擊論爭) 가진 추태 타계급(他階級)의 원부(怨府)로다</sent>
+<sent type="title3" lang="kor" page="03" n="2">20</sent>
+<sent type="main" lang="kor" page="03" n="3">바라문도(波羅門徒) 쇠(衰)한 에 진지(眞摯)할 손 찰제리(刹帝利)와 현명(賢明)할 사</sent>
+<sent type="main" lang="kor" page="03" n="4">다른 학파(學派) 종교 문제 고구(考究)하니</sent>
+<sent type="title3" lang="kor" page="03" n="5">21</sent>
+<sent type="main" lang="kor" page="03" n="6">수(數)가 만흔 철학자(哲學者)가 곳곳마다 이러나서</sent>
+<sent type="main" lang="kor" page="03" n="7">각기 학설(學說) 창도(唱道)하야 서로 서로 논난(論難)하네</sent>
+<sent type="title3" lang="kor" page="03" n="8">22</sent>
+<sent type="main" lang="kor" page="03" n="9">석존세출(釋尊世出) 하실 제는 학파수(學派數)가 백(百)이 넘어</sent>
+<sent type="main" lang="kor" page="03" n="10">장엄 경론(經論) 지도론(智度論)엔 구십오종 외도(外道)랫고</sent>
+<sent type="title3" lang="kor" page="03" n="11">23</sent>
+<sent type="main" lang="kor" page="03" n="12">육십 범망(梵網) 이견경(二見經)엔 구류(九類) 육십이종 외도(外道)</sent>
+<sent type="main" lang="kor" page="03" n="13">열반경(涅槃經)에 하신 말삼 이십종(二十種)의 학파(學派)랫네</sent>
+<sent type="title3" lang="kor" page="03" n="14">24</sent>
+<sent type="main" lang="kor" page="03" n="15">외도중(中外道)에 세력(勢力) 큰 자 육파철학(六波哲學) 제일이라</sent>
+<sent type="main" lang="kor" page="03" n="16">그 학파(學派)와 그 주의(主義)를 대강 들어 말할진대</sent>
+<sent type="title3" lang="kor" page="03" n="17">25</sent>
+<sent type="main" lang="kor" page="03" n="18">능전소전(能詮所詮) 항구 불별 주장(主張)하는 성론사(聲論師)오</sent>
+<sent type="main" lang="kor" page="03" n="19">유물론(唯物論)을 창도(唱道)하는 순세파(順世派)도 일파(一派)로다</sent>
+<sent type="title3" lang="kor" page="03" n="20">26</sent>
+<sent type="main" lang="kor" page="03" n="21">관행(觀行)으로 대자재(大自在)를 엇으랴는 유가학파(瑜伽學派)</sent>
+<sent type="main" lang="kor" page="03" n="22">고행(苦行)으로 후세 인과(因果) 설(說)하나니 시사사(翅舍師)요</sent>
+<sent type="title3" lang="kor" page="03" n="23">27</sent>
+<sent type="main" lang="kor" page="03" n="24">절대회의(絶對懷疑) 주장하는 가라구타(迦羅鳩馱) 가전연과</sent>
+<sent type="main" lang="kor" page="03" n="25">수도촌핵(修導寸劾) 업다 하는 산도야(刪闍夜) 비라지(毘羅胝)라</sent>
+<sent type="title3" lang="kor" page="03" n="26">28</sent>
+<sent type="main" lang="kor" page="03" n="27">모든 학파(學派) 이러나니 세인들은 정사불변(正邪不辯)</sent>
+<sent type="main" lang="kor" page="03" n="28">종교신앙(宗敎信仰) 구(求)하는데 귀의처(歸依處)를 모르도다</sent>
+<sent type="title3" lang="kor" page="03" n="29">29</sent>
+<sent type="main" lang="kor" page="03" n="30">편중(偏重)하든 사회 계급(階級) 혁파(革破)할 자(者) 누구이며</sent>
+<sent type="main" lang="kor" page="03" n="31">모든 학설(學說) 통일(統一)하야 종교혁정(宗敎革正) 누가 할고</sent>
+
+<sent type="title3" lang="kor" page="04" n="1">30</sent>
+<sent type="main" lang="kor" page="04" n="2">당시 인도민족(印度民族)들은 일대성인(一大聖人) 출현키를</sent>
+<sent type="main" lang="kor" page="04" n="3">갈앙(渴仰)하고 갈앙(渴仰)하야 대한운예(大旱雲霓) 기다리 듯</sent>
+<sent type="title3" lang="kor" page="04" n="4">31</sent>
+<sent type="main" lang="kor" page="04" n="5">이 우리 석가세존(釋迦世尊) 마가다국(摩伽陀國) 가비라성 왕자(王子)로서 출현(出現)하니</sent>
+<sent type="main" lang="kor" page="04" n="6">재예식덕(才藝識德) 절대하샤</sent>
+<sent type="title3" lang="kor" page="04" n="7">32</sent>
+<sent type="main" lang="kor" page="04" n="8">모든 학설(學說) 타파(打破)하고 인심일세(人心一洗)</sent>
+<sent type="main" lang="kor" page="04" n="9">사회 개조 불교(佛敎)라는 무상묘법(無上妙法) 세존(世尊)서 설(說)하셨네</sent>
+<sent type="title3" lang="kor" page="04" n="10">33</sent>
+<sent type="main" lang="kor" page="04" n="11">세력(勢力) 잇는 그 설법(說法)이 질풍(疾風) 갓고 신뢰(迅雷)가치</sent>
+<sent type="main" lang="kor" page="04" n="12">오천축(五天竺)을 풍미(風靡)함도 우연(偶然)한 일 아니로다</sent>
+<sent type="title2" lang="kor" page="04" n="13">제2장 석존(釋尊)의 조선(祖先)</sent>
+<sent type="title3" lang="kor" page="04" n="14">1</sent>
+<sent type="main" lang="kor" page="04" n="15">석가족(釋迦族)은 인도(印度)국에 아루야종 지족(支族)이라</sent>
+<sent type="main" lang="kor" page="04" n="16">분잡 지방(地方) 주(住)할 때는 인도하(印度河)의 하류 연안</sent>
+<sent type="title3" lang="kor" page="04" n="17">2</sent>
+<sent type="main" lang="kor" page="04" n="18">보다락성(補陀洛城) 중심 삼고 식민(殖民)하든 농업 국민</sent>
+<sent type="main" lang="kor" page="04" n="19">석가족(釋迦族)을 일홈하되 혹은 감자(甘蔗) 혹은 일종(日種)</sent>
+<sent type="title3" lang="kor" page="04" n="20">3</sent>
+<sent type="main" lang="kor" page="04" n="21">감자왕(甘蔗王)이 이전(移轉)하야 중부 인도(印度) 항하(恒河) 지류</sent>
+<sent type="main" lang="kor" page="04" n="22">로히니하(河) 정주(定住)하야 구담(瞿曇)으로 성(姓) 곤첫네</sent>
+<sent type="title3" lang="kor" page="04" n="23">4</sent>
+<sent type="main" lang="kor" page="04" n="24">감자 왕자(王子) 사형제(四兄弟)가 아버님 멀리 나</sent>
+<sent type="main" lang="kor" page="04" n="25">교살라(憍薩羅)에 표우(漂寓)타가 가비라(迦毘羅)를 조우(遭遇)하니</sent>
+<sent type="title3" lang="kor" page="04" n="26">5</sent>
+<sent type="main" lang="kor" page="04" n="27">감자왕(甘蔗王)의 왕자(王子)인줄 가비라(迦毘羅)가 짐작하고</sent>
+<sent type="main" lang="kor" page="04" n="28">자기영토(自己領土) 베혀 주어 성(城)을 쌋코 살게 하니</sent>
+<sent type="title3" lang="kor" page="04" n="29">6</sent>
+<sent type="main" lang="kor" page="04" n="30">왕자(王子)들이 그 도성(都城)을 벌도(伐堵)라 명칭(名稱)하고</sent>
+<sent type="main" lang="kor" page="05" n="1">사자매(四姉妹)가 결혼(結婚)하야 건국(建國)햇다 전설(傳說)하니</sent>
+<sent type="title3" lang="kor" page="05" n="2">7</sent>
+<sent type="main" lang="kor" page="05" n="3">이와 가튼 세업(世業) 잇는 석가족(釋迦族)은 후(後)에 다시</sent>
+<sent type="main" lang="kor" page="05" n="4">로히니하(河) 동(東)에 잇는 구리(拘利)에다 지성(支城) 쌋코</sent>
+<sent type="title3" lang="kor" page="05" n="5">8</sent>
+<sent type="main" lang="kor" page="05" n="6">일족분거(一族分居) 하엿더니 후직시(後直時) 독립(獨立)하야</sent>
+<sent type="main" lang="kor" page="05" n="7">성호(城號) 고처 제바타하(提婆陀訶) 국명(國名) 곤처 구리(拘利)라네</sent>
+<sent type="title3" lang="kor" page="05" n="8">9</sent>
+<sent type="main" lang="kor" page="05" n="9">우리 성모(聖母) 마야(摩耶)부인 이 성(城)에서 나셧스니</sent>
+<sent type="main" lang="kor" page="05" n="10">가비라(迦毘羅)와 구리성(拘利城)은 석씨(釋氏) 선조 발원지(發源地)라</sent>
+<sent type="title2" lang="kor" page="05" n="11">제3장 석존(釋尊)의 탄강(誕降)</sent>
+<sent type="title3" lang="kor" page="05" n="12">1</sent>
+<sent type="main" lang="kor" page="05" n="13">석존 부군(父君) 정반왕(淨飯王)은 가비라성(迦毘羅城) 성주(城主)시고</sent>
+<sent type="main" lang="kor" page="05" n="14">하라버진 사자협왕(獅子頰王) 할머니는 건차나희(建遮那姬)</sent>
+<sent type="title3" lang="kor" page="05" n="15">2</sent>
+<sent type="main" lang="kor" page="05" n="16">정반왕(淨飯王)과 마야(摩耶)부인 항려지례(伉儷之禮) 매즈신 후(後)</sent>
+<sent type="main" lang="kor" page="05" n="17">부인(夫人) 나히 사십사(四十四)에 세존강령(世尊降靈) 하셧도다</sent>
+<sent type="title3" lang="kor" page="05" n="18">3</sent>
+<sent type="main" lang="kor" page="05" n="19">저  우리 성모마야(聖母摩耶) 보체안락(寶體安樂) 하옵시며</sent>
+<sent type="main" lang="kor" page="05" n="20">오욕락(五欲樂)을 으시고 정직법교(正直法敎) 들으섯네</sent>
+<sent type="title3" lang="kor" page="05" n="21">4</sent>
+<sent type="main" lang="kor" page="05" n="22">왕(王) 허락(許諾) 엇으시샤 궁녀(宮女)들과 한가지로</sent>
+<sent type="main" lang="kor" page="05" n="23">람비니원(藍毘尼園) 노실 제는 월만(月滿)하랴 하든 라</sent>
+<sent type="title3" lang="kor" page="05" n="24">5</sent>
+<sent type="main" lang="kor" page="05" n="25">는 정(正)히 사월 파일(四月八日) 무우수화(無憂樹花) 난만(爛漫)한데</sent>
+<sent type="main" lang="kor" page="05" n="26">우리들의 천고대성(千古大聖) 부텨님이 탄강(誕降)일세</sent>
+<sent type="title3" lang="kor" page="05" n="27">6</sent>
+<sent type="main" lang="kor" page="05" n="28">마야부인(摩耶夫人) 깃버하사 가비라성(迦毘羅城) 환어(還御)하니</sent>
+<sent type="main" lang="kor" page="05" n="29">정반왕(淨飯王)이 태자(太子) 보고 환희용약(歡喜踊躍) 망조(罔措)하네</sent>
+<sent type="title3" lang="kor" page="06" n="1">7</sent>
+<sent type="main" lang="kor" page="06" n="2">그 당장(當場)에 범사(梵士) 불러 조흔 이름 고르시서</sent>
+<sent type="main" lang="kor" page="06" n="3">실달다(悉達多)라 지으시니 일체성취(一切成就) 이로다</sent>
+<sent type="title3" lang="kor" page="06" n="4">8</sent>
+<sent type="main" lang="kor" page="06" n="5">성모마야(聖母摩耶) 부인서 산후칠일(産後七日) 계시다가</sent>
+<sent type="main" lang="kor" page="06" n="6">대열반(大涅槃)에 드섯스니 누가 대신(代身) 양육(養育)하리</sent>
+<sent type="title3" lang="kor" page="06" n="7">9</sent>
+<sent type="main" lang="kor" page="06" n="8">파사파제(波闍波提) 부인선 성모마야(聖母摩耶) 실매로서</sent>
+<sent type="main" lang="kor" page="06" n="9">실달태자(悉達太子) 유모 되샤 지성(至誠)으로 양육(養育)했네</sent>
+<sent type="title3" lang="kor" page="06" n="10">10</sent>
+<sent type="main" lang="kor" page="06" n="11">태자 칠세(太子七歲) 되실 에 발다라니(跋陀羅尼) 사부되샤</sent>
+<sent type="main" lang="kor" page="06" n="12">오명학과 폐다경(吠陀經)과 밀다라경(蜜多羅經) 교수하니</sent>
+<sent type="title3" lang="kor" page="06" n="13">11</sent>
+<sent type="main" lang="kor" page="06" n="14">태자 천성(天性) 영민(英敏)하샤 수업수행(授業修行) 하시는 중(中)</sent>
+<sent type="main" lang="kor" page="06" n="15">하나 듯고 열을 알아 무불통달(無不通達) 하시더라</sent>
+<sent type="title3" lang="kor" page="06" n="16">12</sent>
+<sent type="main" lang="kor" page="06" n="17">가비라(迦毘羅)의 지리(地理) 보면 남(南)쪽에는 마하다국(摩訶陀國)</sent>
+<sent type="main" lang="kor" page="06" n="18">서(西)쪽에는 교바라(憍波羅)요 동(東)쪽에는 폐사리(吠舍利)라</sent>
+<sent type="title3" lang="kor" page="06" n="19">13</sent>
+<sent type="main" lang="kor" page="06" n="20">제대국(諸大國)과 병립(竝立)하야 영역(領域) 겨우 오백 방리(方里)</sent>
+<sent type="main" lang="kor" page="06" n="21">그 배하(配下)엔 십개 소성(小城) 통치(統治)하는 나라이다</sent>
+<sent type="title3" lang="kor" page="06" n="22">14</sent>
+<sent type="main" lang="kor" page="06" n="23">군웅(群雄)들과 대치(對峙)하야 활동(活動)하실 태자(太子)시니</sent>
+<sent type="main" lang="kor" page="06" n="24">내지무예(乃至武藝)지라도 통달(通達)해야 하리로다</sent>
+<sent type="title3" lang="kor" page="06" n="25">15</sent>
+<sent type="main" lang="kor" page="06" n="26">일홈 잇는 제제바(提提波) 무예사(武藝師)로 초빙(招聘)하야</sent>
+<sent type="main" lang="kor" page="06" n="27">정반왕(淨飯王)의 원중(園中)에서 무예강습(武藝講習) 식히섯네</sent>
+<sent type="title3" lang="kor" page="06" n="28">16</sent>
+<sent type="main" lang="kor" page="06" n="29">태자 천재(天才) 초월(超越)할사 문사(文事) 만 아니시라</sent>
+<sent type="main" lang="kor" page="06" n="30">무도(武道)에도 능통(能通)하샤 탁절기능(卓絶技能) 보히섯네</sent>
+<sent type="title3" lang="kor" page="06" n="31">17</sent>
+<sent type="main" lang="kor" page="06-07" n="32">국내 명인 달사(達士)이며 기타일반(其他一般) 왕족들과 그 기능(技能)을 격투(格鬪)하샤 용무지명(勇武之名) 날리섯네</sent><!--왕족들과 ^ 그-->
+
+<sent type="title2" lang="kor" page="07" n="1">제4장 석존(釋尊)의 출가(出家)</sent>
+<sent type="title3" lang="kor" page="07" n="2">1</sent>
+<sent type="main" lang="kor" page="07" n="3">태자초생(太子初生) 하섯슬  아사다선(阿私陀仙) 관상하고</sent>
+<sent type="main" lang="kor" page="07" n="4">체읍(涕泣)하며 찬양(讚揚)호대 성재성재(聖哉聖哉) 태자 존용(尊容)</sent>
+<sent type="title3" lang="kor" page="07" n="5">2</sent>
+<sent type="main" lang="kor" page="07" n="6">삼십 이상(二相) 팔십 종호(種好) 무불구비(無不具備) 하섯스니</sent>
+<sent type="main" lang="kor" page="07" n="7">범상인(凡常人)이 아니시고</sent>
+<sent type="title3" lang="kor" page="07" n="8">3</sent>
+<sent type="main" lang="kor" page="07" n="9">만약 치세(萬若治世) 하옵시면 전륜성왕(轉輪聖王) 되시옵서</sent>
+<sent type="main" lang="kor" page="07" n="10">오천축(五天竺)을 통할(統轄)하는 만승 황제(萬乘皇帝) 되오시고</sent>
+<sent type="title3" lang="kor" page="07" n="11">4</sent>
+<sent type="main" lang="kor" page="07" n="12">만약 출가(萬若出家) 하읍시면 삼계도사(三界導師) 되시리니</sent>
+<sent type="main" lang="kor" page="07" n="13">내가 임의 연쇠(年衰)함이 엇지 한통(恨歎) 안 되릿가</sent>
+<sent type="title3" lang="kor" page="07" n="14">5</sent>
+<sent type="main" lang="kor" page="07" n="15">왕(王)이 듯고 일희일비(一喜一悲)</sent>
+<sent type="main" lang="kor" page="07" n="16">엇지하면 태자(太子)서 출가(出家)하지 아니하고 전륜성왕(轉輪聖王) 되게 하랴</sent>
+<sent type="title3" lang="kor" page="07" n="17">6</sent>
+<sent type="main" lang="kor" page="07" n="18">왕(王)이 생각(生覺) 하시기를 태자 출가(太子出家) 방어(防禦)함은</sent>
+<sent type="main" lang="kor" page="07" n="19">아모록 이 인세(人世)을 낙관(樂觀)케 함 상책(上策)이라</sent>
+<sent type="title3" lang="kor" page="07" n="20">7</sent>
+<sent type="main" lang="kor" page="07" n="21">이로부터 정반왕(淨飯王)은 삼시전(三時殿)을 건립(建立)하고</sent>
+<sent type="main" lang="kor" page="07" n="22">임지누각(林池樓閣) 경영(經營)하샤 기후(氣候)조차 거(居)케 하며</sent>
+<sent type="title3" lang="kor" page="07" n="23">8</sent>
+<sent type="main" lang="kor" page="07" n="24">수백 채녀(綵女) 영인(伶人)들을 상시(常侍)하게 하는 등절(等節)</sent>
+<sent type="main" lang="kor" page="07" n="25">일국 부력(一國富力) 다 기울려 태자 무육(太子撫育) 힘을 썻네</sent>
+<sent type="title3" lang="kor" page="07" n="26">9</sent>
+<sent type="main" lang="kor" page="07" n="27">태자 방령(太子芳齡) 십칠세에 선각왕(善覺王)과 약혼(約婚)하고</sent>
+<sent type="main" lang="kor" page="07" n="28">그의 왕녀 야수타라(耶輸陀羅) 태자비(太子妃)로 마즈섯네</sent>
+<sent type="title3" lang="kor" page="07" n="29">10</sent>
+<sent type="main" lang="kor" page="07-08" n="30">수다 미인(美人) 좌우 시봉(侍奉) 가무관현(歌舞管絃) 일석日夕</sent><!--시봉(侍奉) ^ 가무관현(歌舞管絃)-->
+<sent type="main" lang="kor" page="08" n="1">전중(殿中)에서 연주(演奏)하니 완연천상(宛然天上) 낙원이라</sent>
+<sent type="title3" lang="kor" page="08" n="2">11</sent>
+<sent type="main" lang="kor" page="08" n="3">그러하나 태자 흉중(太子胸中) 자극(刺戟)하는 인세 의문(疑問)</sent>
+<sent type="main" lang="kor" page="08" n="4">성색(聲色)들의 유혹(誘惑)으로 소멸(消滅)될 수 바이 업다</sent>
+<sent type="title3" lang="kor" page="08" n="5">12</sent>
+<sent type="main" lang="kor" page="08" n="6">생노병사(生老病死) 관(觀)하시고 구도지념(求道之念) 더욱 깁허</sent>
+<sent type="main" lang="kor" page="08" n="7">졸연(卒然) 한번 부왕(父王) 압헤 출가(出家)의  고(告)햇더니</sent>
+<sent type="title3" lang="kor" page="08" n="8">13</sent>
+<sent type="main" lang="kor" page="08" n="9">왕(王)이 듯고 놀라사대</sent>
+<sent type="main" lang="kor" page="08" n="10">“네가 장차(將次) 성도成道하야</sent>
+<sent type="main" lang="kor" page="08" n="11">일체중생(一切衆生) 제도(濟度)보다 애비 고민(苦悶) 구(救)하여라</sent>
+<sent type="title3" lang="kor" page="08" n="12">14</sent>
+<sent type="main" lang="kor" page="08" n="13">내가 일즉 위(偉)를 네게 선위(禪位)하고 </sent>
+<sent type="main" lang="kor" page="08" n="14">범행(梵行) 닥기 심원(心願)한지 오랜 바니 출가(出家)하지 말지어다”</sent>
+<sent type="title3" lang="kor" page="08" n="15">15</sent>
+<sent type="main" lang="kor" page="08" n="16">그러하나 태자(太子)서 아버지의 말삼으론</sent>
+<sent type="main" lang="kor" page="08" n="17">굿게 세운 그 지원(志願)을 변경(變更)하기 만무(萬無)하다</sent>
+<sent type="title3" lang="kor" page="08" n="18">16</sent>
+<sent type="main" lang="kor" page="08" n="19">이럭 저럭 어언간(於焉間)에 야수타라(耶輸陀羅) 회임(懷姙)하야</sent>
+<sent type="main" lang="kor" page="08" n="20">라후라(羅睺羅)를 나흐시니 성민(城民)들이 경축(慶祝)하네</sent>
+<sent type="title3" lang="kor" page="08" n="21">17</sent>
+<sent type="main" lang="kor" page="08" n="22">는 태자(太子) 십구세(十九歲)라 홀로 생각 하시기를</sent>
+<sent type="main" lang="kor" page="08" n="23">내가 임의 일자(一子)로써 아버지 드럿스니</sent>
+<sent type="title3" lang="kor" page="08" n="24">18</sent>
+<sent type="main" lang="kor" page="08" n="25">지금 부왕(父王) 명(命)을 거어 출가(出家)한다 할지라도</sent>
+<sent type="main" lang="kor" page="08" n="26">얼마콤은 부친(父親)서 위로(慰勞)함을 엇드리라</sent>
+<sent type="title3" lang="kor" page="08" n="27">19</sent>
+<sent type="main" lang="kor" page="08" n="28">그해 이월(二月) 초팔일(初八日)에 차익(車匿)에게 명(命)하시샤</sent>
+<sent type="main" lang="kor" page="08" n="29">백마건척(白馬犍陟) 게 하고 자야유성(子夜踰城) 하섯스니</sent>
+<sent type="title3" lang="kor" page="08" n="30">20</sent>
+<sent type="main" lang="kor" page="08" n="31">이는 우리 태자(太子)서 이 세상의 쾌락 명리(快樂名利)</sent>
+<sent type="main" lang="kor" page="08" n="32">토개(土芥)가치 바리시고 삼계도사(三界導師) 되든 관문</sent>
+<sent type="title2" lang="kor" page="09" n="1">제5장 석존(釋尊)의 고행(苦行)</sent>
+<sent type="title3" lang="kor" page="09" n="2">1</sent>
+<sent type="main" lang="kor" page="09" n="3">태자(太子)셔 성(城)을 넘어 동진(東進)하기 십칠여리</sent>
+<sent type="main" lang="kor" page="09" n="4">람마시(藍摩市)에 달(達)하시샤 게셔 잠간(暫間) 휴식(休息)하고</sent>
+<sent type="title3" lang="kor" page="09" n="5">2</sent>
+<sent type="main" lang="kor" page="09" n="6">갱진(更進)하야 아발미하(阿跋彌河) 심림중(中深林)에 들어가샤</sent>
+<sent type="main" lang="kor" page="09" n="7">적정(寂靜)한 곳 가리어서 수도장(修道場)을 삼으셧네</sent>
+<sent type="title3" lang="kor" page="09" n="8">3</sent>
+<sent type="main" lang="kor" page="09" n="9">태자(太子)서 자기(自己) 손수 수발체제(鬚髮剃除) 하오시며</sent>
+<sent type="main" lang="kor" page="09" n="10">가사(袈裟) 입고 보복(寶服) 버셔 차익(車匿) 돌려 보내시네</sent>
+<sent type="title3" lang="kor" page="09" n="11">4</sent>
+<sent type="main" lang="kor" page="09" n="12">차익위유(車匿慰諭) 하오시며 그 의복과 백마건척(白馬犍陟)</sent>
+<sent type="main" lang="kor" page="09" n="13">왕(王) 봉환(奉還) 하라시고 결단(決斷)하야 하신 말삼</sent>
+<sent type="title3" lang="kor" page="09" n="14">5</sent>
+<sent type="main" lang="kor" page="09" n="15">조만별리(早晩別離)하는 것은 이 세상(世上)의 상례(常例)이니</sent>
+<sent type="main" lang="kor" page="09" n="16">엇지 항상(恒常) 한가지로 단란(團欒)함을 엇을소냐</sent>
+<sent type="title3" lang="kor" page="09" n="17">6</sent>
+<sent type="main" lang="kor" page="09" n="18">차익(車匿) 돌려 보내신 후 갱진(更進)하야</sent>
+<sent type="main" lang="kor" page="09" n="19">발가선(跋伽仙)을 방문(訪問)하야 보오시니</sent>
+<sent type="main" lang="kor" page="09" n="20">고행(苦行)하는 외도(外道)로다</sent>
+<sent type="title3" lang="kor" page="09" n="21">7</sent>
+<sent type="main" lang="kor" page="09" n="22">해탈법(解脫法)을 고행(苦行)으로 오해(誤解)함이 막대(莫大)하야</sent>
+<sent type="main" lang="kor" page="09" n="23">현재신(現在身)의 고초(苦楚)로써 내세생천(來世生天) 인(因)을 삼네</sent>
+<sent type="title3" lang="kor" page="09" n="24">8</sent>
+<sent type="main" lang="kor" page="09" n="25">형극(荊棘) 새에 기와(起臥)하며 불에 들고 물에 들어</sent>
+<sent type="main" lang="kor" page="09" n="26">고행(苦行)하는 그 방법(方法)은 매거(枚擧)하기 미황(未遑)하다</sent>
+<sent type="title3" lang="kor" page="09" n="27">9</sent>
+<sent type="main" lang="kor" page="09" n="28">태자셔 발가선(跋伽仙) 질문(質問)하야 무르샤대</sent>
+<sent type="main" lang="kor" page="09" n="29">“네가 무삼 목적(目的)으로 이와 가치 고행(苦行)하나”</sent>
+<sent type="title3" lang="kor" page="09" n="30">10</sent>
+<sent type="main" lang="kor" page="09" n="31">발가선(跋伽仙)이 대답(對答)하되</sent>
+<sent type="main" lang="kor" page="09-10" n="32">“미래세(未來世)에 천상(天上)에셔 낙과(樂果) 얻기 원(願)하거든 금세고행(今世苦行) 이리하라”</sent><!--천상(天上)에셔 ^ 낙과(樂果)-->
+<sent type="title3" lang="kor" page="10" n="1">11</sent>
+<sent type="main" lang="kor" page="10" n="2">태자(太子)셔 이르사대</sent>
+<sent type="main" lang="kor" page="10" n="3">“너희들의 요구(要求)하는 천상(天上) 잇는 낙과(樂果)라도 아즉 구경(究竟) 아니니라</sent>
+<sent type="title3" lang="kor" page="10" n="4">12</sent>
+<sent type="main" lang="kor" page="10" n="5">모든 천락(天樂) 잇다 하나 그 복보(福報)가 한(限)이 잇셔</sent>
+<sent type="main" lang="kor" page="10" n="6">복업(福業) 한 번 멸진(滅盡)하면 육도윤회(六道輪廻) 못 면(免)한다</sent>
+<sent type="title3" lang="kor" page="10" n="7">13</sent>
+<sent type="main" lang="kor" page="10" n="8">모든 고인(苦因) 수행(修行)하야 엇지 고보(苦報) 구(求)하리요</sent>
+<sent type="main" lang="kor" page="10" n="9">네 구(求)하는 낙(樂)이란 것 필경고로(畢竟苦勞) 이로다”</sent>
+<sent type="title3" lang="kor" page="10" n="10">14</sent>
+<sent type="main" lang="kor" page="10" n="11">맛참 이 성중(城中)에서 태자 출가(太子出家) 발견하고</sent>
+<sent type="main" lang="kor" page="10" n="12">상하 경악(驚愕) 부왕 비탄(悲嘆) 엇지 가(可)히 형언(形言)하리</sent>
+<sent type="title3" lang="kor" page="10" n="13">15</sent>
+<sent type="main" lang="kor" page="10" n="14">신하(臣下)들을 동서남북 파견수색(派遣搜索)하랴 한다</sent>
+<sent type="main" lang="kor" page="10" n="15">이와 가튼 혼란중(混亂中)에 차익(車匿)이는 도라와서</sent>
+<sent type="title3" lang="kor" page="10" n="16">16</sent>
+<sent type="main" lang="kor" page="10" n="17">태자 출가하신 전말(顚末) 정반왕(淨飯王) 보고(報告)하니</sent>
+<sent type="main" lang="kor" page="10" n="18">왕(王)은 즉지 왕사(卽地王師) 식혀 태자(太子) 마저 오라 한다</sent>
+<sent type="title3" lang="kor" page="10" n="19">17</sent>
+<sent type="main" lang="kor" page="10" n="20">왕사대신(王師大臣) 출발하야 발가선(跋伽仙) 니르러셔</sent>
+<sent type="main" lang="kor" page="10" n="21">태자 행위(行衛) 힐문(詰問)하니 북(北)을 향(向)해 가셧다네</sent>
+<sent type="title3" lang="kor" page="10" n="22">18</sent>
+<sent type="main" lang="kor" page="10" n="23">두 사람이 다시 북행(北行) 태자(太子) 뒤를 르다가</sent>
+<sent type="main" lang="kor" page="10" n="24">수하단좌(樹下端座) 하심 보고 크게 깃버 압헤 가서</sent>
+<sent type="title3" lang="kor" page="10" n="25">19</sent>
+<sent type="main" lang="kor" page="10" n="26">가비라(迦毘羅)에 니러난 바 비애 수탄(愁嘆) 경악(驚愕) 실망</sent>
+<sent type="main" lang="kor" page="10" n="27">여러 사정(事情) 고(告)한 후에 환가(還駕)하기 청(請)하오니</sent>
+<sent type="title3" lang="kor" page="10" n="28">20</sent>
+<sent type="main" lang="kor" page="10" n="29">태자(太子)셔 책(責)하사대</sent>
+<sent type="main" lang="kor" page="10" n="30">일시 이별(離別) 영세(永世) 이별 어늬 것슬 구(求)하리요</sent>
+<sent type="main" lang="kor" page="10" n="31">너는 속(速)히 귀성(歸城)하라</sent>
+<sent type="title3" lang="kor" page="10" n="32">21</sent>
+<sent type="main" lang="kor" page="10-11" n="33">뎌희들을 버리시고 아라가란(阿羅迦蘭) 선인(仙人)로 향(向)하시고 나시니</sent><!--버리시고 ^ 아라가란(阿羅迦蘭)-->
+
+<sent type="main" lang="kor" page="11" n="1">용감(勇敢)하신 우리 태자(太子)</sent>
+<sent type="title3" lang="kor" page="11" n="2">22</sent>
+<sent type="main" lang="kor" page="11" n="3">결심부동(決心不動) 하오심을 두 사람이 아라보고</sent>
+<sent type="main" lang="kor" page="11" n="4">종자중(從者中)에 총명(聰明)한 자 태자(太子) 호위(護衛)하게 햇네</sent>
+<sent type="title3" lang="kor" page="11" n="5">23</sent>
+<sent type="main" lang="kor" page="11" n="6">수종자(隨從者)는 누구누구 교진여(憍陳如)와 마하남(摩訶男)과</sent>
+<sent type="main" lang="kor" page="11" n="7">바사파(婆沙婆) 아설시(阿說示)며 발제등(跋提等)의 다섯이라</sent>
+<sent type="title3" lang="kor" page="11" n="8">24</sent>
+<sent type="main" lang="kor" page="11" n="9">태자(太子)셔 이로부터 다섯 종자(從者) 인솔(引率)하고</sent>
+<sent type="main" lang="kor" page="11" n="10">항하 건너 마하다국(摩訶陀國) 왕사성(王舍城)을 지나시니</sent>
+<sent type="title3" lang="kor" page="11" n="11">25</sent>
+<sent type="main" lang="kor" page="11" n="12">남녀노소(男女老少) 성민(城民)들은 가비라국(迦毘羅國) 태자(太子)님을 한 번 봅기 원(願)함으로 사람 산(山)을 싸핫더라</sent>
+<sent type="title3" lang="kor" page="11" n="13">26</sent>
+<sent type="main" lang="kor" page="11" n="14">에 빈바사라왕(頻婆沙羅王)은 성루(城樓)에서 조망(眺望)타가</sent>
+<sent type="main" lang="kor" page="11" n="15">태자(太子) 압헤 배알(拜謁)하고 친(親)히 물어 하는 말삼</sent>
+<sent type="title3" lang="kor" page="11" n="16">27</sent>
+<sent type="main" lang="kor" page="11" n="17">“인자(仁者)셔 출가(出家)하샤 이럿타시 고행(苦行)하심</sent>
+<sent type="main" lang="kor" page="11" n="18">그 동기(動機)가 무엇이뇨 왕위(王位) 엇지 못함인가</sent>
+<sent type="title3" lang="kor" page="11" n="19">28</sent>
+<sent type="main" lang="kor" page="11" n="20">내 국토(國土)를 절반(折半)하야 공(公)의 통치(統治) 비옵나니</sent>
+<sent type="main" lang="kor" page="11" n="21">만일 부족(萬一不足) 하시다면 전영지(全領地)를 드리리다</sent>
+<sent type="title3" lang="kor" page="11" n="22">29</sent>
+<sent type="main" lang="kor" page="11" n="23">나는 다못 인자(仁者) 위(爲)해 깃버 신사(臣事) 하오리며</sent>
+<sent type="main" lang="kor" page="11" n="24">한 사병(四兵) 잇사오니 사린약취(四隣略取) 하옵소셔”</sent>
+<sent type="title3" lang="kor" page="11" n="25">30</sent>
+<sent type="main" lang="kor" page="11" n="26">태자(太子)셔 사사(謝辭)호대</sent>
+<sent type="main" lang="kor" page="11" n="27">“내가 가진 그 입지(立志)는 생노병사(生老病死) 사고(四苦) 코 무상해탈(無上解脫) 엇음이라</sent>
+<sent type="title3" lang="kor" page="11" n="28">31</sent>
+<sent type="main" lang="kor" page="11" n="29">내가 엇지 세간(世間) 오욕(五欲) 엇기 위(爲)해 출가(出家)하리</sent>
+<sent type="main" lang="kor" page="11" n="30">원(願)하노니 대왕(大王)이여 정법(正法)으로 치국(治國)하소”</sent>
+<sent type="title3" lang="kor" page="12" n="1">32</sent>
+<sent type="main" lang="kor" page="12" n="2">빈바사라(頻婆沙羅) 이 말 듯고 감동(感動)되야 복청(伏請)하되</sent>
+<sent type="main" lang="kor" page="12" n="3">“인자해탈(仁者解脫) 엇거시던 나를 몬저 제도(濟度)하오”</sent>
+<sent type="title3" lang="kor" page="12" n="4">33</sent>
+<sent type="main" lang="kor" page="12" n="5">왕의 후의(厚意) 사례(謝禮)하고 니련선하(尼連禪河) 건느시샤</sent>
+<sent type="main" lang="kor" page="12" n="6">성북(城北)으로 미루산(彌樓山)을 길을 나 향(向)하시다</sent>
+<sent type="title3" lang="kor" page="12" n="7">34</sent>
+<sent type="main" lang="kor" page="12" n="8">사화(事火)하는 바라문(波羅門)의 세 사람을 만낫스니</sent>
+<sent type="main" lang="kor" page="12" n="9">나제가섭(那提迦葉) 가야가섭 우루빈라가섭(優樓頻羅迦葉)이라</sent>
+<sent type="title3" lang="kor" page="12" n="10">35</sent>
+<sent type="main" lang="kor" page="12" n="11">태자(太子)셔 뎌들의게 설명(說明)하야 하신 말삼</sent>
+<sent type="main" lang="kor" page="12" n="12">“신화(神火)란건 생멸(生滅)의 법 참 이치(理致)가 아니니라”</sent>
+<sent type="title3" lang="kor" page="12" n="13">36</sent>
+<sent type="main" lang="kor" page="12" n="14">말삼하기 다 하신 후</sent>
+<sent type="main" lang="kor" page="12" n="15">삼가섭(三迦葉)과 작별(作別)하고 미루산(彌樓山)에 도달(到達)하사</sent>
+<sent type="main" lang="kor" page="12" n="16">아라라(阿羅邏)를 면회(面會)햇네</sent>
+<sent type="title3" lang="kor" page="12" n="17">37</sent>
+<sent type="main" lang="kor" page="12" n="18">대개 당시 마가다국(摩伽陀國) 수(數)가 만흔 바라문(波羅門)의 학장(學匠) 비록 잇다 하나</sent>
+<sent type="main" lang="kor" page="12" n="19">그 덕행(德行)이 고결(高潔)키는</sent>
+<sent type="title3" lang="kor" page="12" n="20">38</sent>
+<sent type="main" lang="kor" page="12" n="21">아라라와 울다라마(鬱陀羅摩) 이선인(二仙人)이 제일(第一)이라</sent>
+<sent type="main" lang="kor" page="12" n="22">그런 고(故)로 태자(太子)셔 미루산(彌樓山)에 니르셧다</sent>
+<sent type="title3" lang="kor" page="12" n="23">39</sent>
+<sent type="main" lang="kor" page="12" n="24">태자 형상(太子形相) 단엄(端嚴)하며</sent>
+<sent type="main" lang="kor" page="12" n="25">그 입지(立志)가 고결(高潔)함을 아라라(阿羅邏)가 익히 들어</sent>
+<sent type="main" lang="kor" page="12" n="26">성재성재(聖哉聖哉) 찬탄(讚歎)한다</sent>
+<sent type="title3" lang="kor" page="12" n="27">40</sent>
+<sent type="main" lang="kor" page="12" n="28">태자(太子) 청을 용납(容納)하야</sent>
+<sent type="main" lang="kor" page="12" n="29">뎌의 법(法)의 오의(奧義)되는 구경해탈(究竟解脫) 설명하니</sent>
+<sent type="main" lang="kor" page="12" n="30">그 요의(要意)에 무엇인가</sent>
+<sent type="title3" lang="kor" page="12" n="31">41</sent>
+<sent type="main" lang="kor" page="12" n="32">중생(衆生)들의 최초(最初)에는 명초(冥初)에셔 아만(我慢) 나고</sent>
+<sent type="main" lang="kor" page="12" n="33">아만(我慢)에셔 치심(痴心)이요 치심(痴心)에셔 염애(染愛)로다</sent>
+<sent type="title3" lang="kor" page="12" n="34">42</sent>
+<sent type="main" lang="kor" page="12" n="35">애(愛)로 차 오미진기(五微塵氣)</sent>
+<sent type="main" lang="kor" page="13" n="1">진기(塵氣)에셔 오대(五大) 나고</sent>
+<sent type="main" lang="kor" page="13" n="2">오대에셔 탐진번뇌(貪瞋煩惱) 생사유전(生死流轉) 하게 한다</sent>
+<sent type="title3" lang="kor" page="13" n="3">43</sent>
+<sent type="main" lang="kor" page="13" n="4">그런 고(故)로 우리 인생(人生) 탈리생사(脫離生死) 하랴 하면</sent>
+<sent type="main" lang="kor" page="13" n="5">오욕락(五欲樂)을 모다 코 일심(一心)으로 선정(禪定) 닥게</sent>
+<sent type="title3" lang="kor" page="13" n="6">44</sent>
+<sent type="main" lang="kor" page="13" n="7">선정차제(禪定次第) 논지(論之)컨대 초선정(初禪定)에 희심(喜心) 엇고</sent>
+<sent type="main" lang="kor" page="13" n="8">이선 락근(樂根) 삼선 사근(捨根) 제사 선(禪)엔 무상처(無想處)라</sent>
+<sent type="title3" lang="kor" page="13" n="9">45</sent>
+<sent type="main" lang="kor" page="13" n="10">세상범사(世上梵事) 이것으로 열반극과(涅槃極果) 된다 하나</sent>
+<sent type="main" lang="kor" page="13" n="11">이것 아즉 진실(眞實)되는 해탈법(解脫法)이 아니니라</sent>
+<sent type="title3" lang="kor" page="13" n="12">46</sent>
+<sent type="main" lang="kor" page="13" n="13">나의 소위(所謂) 해탈법(解脫法)은 색상(色想)으란 원리(遠離)하고</sent>
+<sent type="main" lang="kor" page="13" n="14">공처(空處)에 곳 들어가니 이 일홈이 구경해탈(究竟解脫)</sent>
+<sent type="title3" lang="kor" page="13" n="15">47</sent>
+<sent type="main" lang="kor" page="13" n="16">유상(有想)으란 원리(遠離)하고 식처(識處)에 곳 들어가며</sent>
+<sent type="main" lang="kor" page="13" n="17">일식(一識)으란 관(觀)하여셔 무소유처(無所有處) 들어가며</sent>
+<sent type="title3" lang="kor" page="13" n="18">48</sent>
+<sent type="main" lang="kor" page="13" n="19">일체상(一切想)을 해탈(解脫)하고 비비상처(非非想處) 들어가니</sent>
+<sent type="main" lang="kor" page="13" n="20">비비상처(非非想處) 드는 것이 그 일홈이 구경해탈(究竟解脫)</sent>
+<sent type="title3" lang="kor" page="13" n="21">49</sent>
+<sent type="main" lang="kor" page="13" n="22">진개피안(眞箇彼岸) 이것이라 사랑하는 태자(太子)시여</sent>
+<sent type="main" lang="kor" page="13" n="23">사고(四苦) 키 원(願)커시던 이 가흠을 수행(修行)하오</sent>
+<sent type="title3" lang="kor" page="13" n="24">50</sent>
+<sent type="main" lang="kor" page="13" n="25">태자(太子)셔 아라라(阿羅邏)의 설명(說明)함을 들으시고</sent>
+<sent type="main" lang="kor" page="13" n="26">비상(非想)이며 비비상(非非想)에 대(對)한 질의(質議) 발(發)하사대</sent>
+<sent type="title3" lang="kor" page="13" n="27">51</sent>
+<sent type="main" lang="kor" page="13" n="28">소위 비상(非想) 비비상(非非想)에 아(我)가 업다 하겟나냐</sent>
+<sent type="main" lang="kor" page="13" n="29">잇고 업는 두 가지에 나는 자못 의심(疑心)된다</sent>
+<sent type="title3" lang="kor" page="13" n="30">52</sent>
+<sent type="main" lang="kor" page="13" n="31">만일(萬一) 아(我)가 업다면서 비상(非想)이라 못 할지요</sent>
+<sent type="main" lang="kor" page="13" n="32">만일(萬一) 아(我)가 잇다 하면 한 다시 엇더하뇨</sent>
+
+<sent type="title3" lang="kor" page="14" n="1">53</sent>
+<sent type="main" lang="kor" page="14" n="2">아(我)에 지(知)가 잇다 할가 아(我)에 지(知)가 업다 할가</sent>
+<sent type="main" lang="kor" page="14" n="3">만일(萬一) 지(知)가 업고 보면 목석(木石)이나 다름 업고</sent>
+<sent type="title3" lang="kor" page="14" n="4">54</sent>
+<sent type="main" lang="kor" page="14" n="5">만일(萬一) 지(知)가 잇고 보면 반연(攀緣)함이 잇스리니</sent>
+<sent type="main" lang="kor" page="14" n="6">염착(染着)조차 생(生)기리라 엇지 구경해탈(究竟解脫)되랴</sent>
+<sent type="title3" lang="kor" page="14" n="7">55</sent>
+<sent type="main" lang="kor" page="14" n="8">아라라(阿羅邏)가 답(答) 못 하니 태자(太子)셔 문(門)을 나샤</sent>
+<sent type="main" lang="kor" page="14" n="9">울다라마(鬱陀羅摩) 심방(尋訪)한 후 무상도(無上道)를 무르시니</sent>
+<sent type="title3" lang="kor" page="14" n="10">56</sent>
+<sent type="main" lang="kor" page="14" n="11">뎌는 조금 세미경계(細微境界) 관(觀)한다고 할지라도</sent>
+<sent type="main" lang="kor" page="14" n="12">역시(亦是) 아(我)가 잇다 하며 상(想) 비상(非想)을 탈리(脫離)할 </sent>
+<sent type="title3" lang="kor" page="14" n="13">57</sent>
+<sent type="main" lang="kor" page="14" n="14">아라라(阿羅邏)에 비교(比較)하야 출색(出色) 잇슴 못 보겠다</sent>
+<sent type="main" lang="kor" page="14" n="15">이에 태자(太子) 생각하되 계도 의지 할 수 업다</sent>
+<sent type="title3" lang="kor" page="14" n="16">58</sent>
+<sent type="main" lang="kor" page="14" n="17">무상보리(無上菩提) 증득(證得)하며 일체종지(一切種智) 성취(成就)키는 저에 구(求)치 못 하리니</sent>
+<sent type="main" lang="kor" page="14" n="18">자수(自修)하야 정득(證得)할 </sent>
+<sent type="title3" lang="kor" page="14" n="19">59</sent>
+<sent type="main" lang="kor" page="14" n="20">그 곳에셔 출발(出發)하샤</sent>
+<sent type="main" lang="kor" page="14" n="21">니련선하(尼連禪河) 동편 언덕 정각산(正覺山)에 한 곳 가려</sent>
+<sent type="main" lang="kor" page="14" n="22">정좌관행(靜座行觀) 장소 삼아</sent>
+<sent type="title3" lang="kor" page="14" n="23">60</sent>
+<sent type="main" lang="kor" page="14" n="24">부왕(父王)셔 보내 주신 그 자량(資糧)을 사절(謝絶)하고</sent>
+<sent type="main" lang="kor" page="14" n="25">지발걸식(持鉢乞食) 행(行)하시샤 육년 고행(六年苦行) 하셧도다</sent>
+<sent type="title2" lang="kor" page="14" n="26">제6장 석존(釋尊)의 성도(成道)</sent>
+<sent type="title3" lang="kor" page="14" n="27">1</sent>
+<sent type="main" lang="kor" page="14" n="28">태자(太子)셔 정각산(正覺山)의 고행림중(苦行林中) 게시면서</sent>
+<sent type="main" lang="kor" page="14" n="29">육년간(六年間)을 선정(禪定)하며 매일 식사 일마일맥(一麻一麥)</sent>
+<sent type="title3" lang="kor" page="14" n="30">2</sent>
+<sent type="main" lang="kor" page="14" n="31">그런 고(故)로 태자 형체(太子形體) 초췌(憔瘁)하야 고목(枯木) 갓다</sent>
+
+<sent type="main" lang="kor" page="15" n="1">이에 태자(太子) 사유(思惟)하샤 크게 소득(所得) 잇셧스니</sent>
+<sent type="title3" lang="kor" page="15" n="2">3</sent>
+<sent type="main" lang="kor" page="15" n="3">혜해(慧解)로써 성도(成道)하고 근(根)으로셔 혜해(慧解) 나며</sent>
+<sent type="main" lang="kor" page="15" n="4">근(根)의 기초 식물(食物)이니 단식(斷食)함이 부당(不當)하다</sent>
+<sent type="title3" lang="kor" page="15" n="5">4</sent>
+<sent type="main" lang="kor" page="15" n="6">그 자리에 이러나사 니련선하(尼連禪河) 목욕(沐浴)할 제</sent>
+<sent type="main" lang="kor" page="15" n="7">숩풀헤 잇는 목녀(牧女) 그 일홈이 난다파라(難陀婆羅)</sent>
+<sent type="title3" lang="kor" page="15" n="8">5</sent>
+<sent type="main" lang="kor" page="15" n="9">태자(太子) 발에 예배(禮拜)하고 유미죽(乳糜粥)을 드리오니</sent>
+<sent type="main" lang="kor" page="15" n="10">태자(太子) 밧아 잡수시고 체력(體力) 겨우 회복(恢復)햇네</sent>
+<sent type="title3" lang="kor" page="15" n="11">6</sent>
+<sent type="main" lang="kor" page="15" n="12">그러한데 태자(太子) 문하(門下) 한가지로 고행(苦行)하든</sent>
+<sent type="main" lang="kor" page="15" n="13">교진여(憍陣如)등 오 비구(比丘)는 태자 거동(太子擧動) 의심하되</sent>
+<sent type="title3" lang="kor" page="15" n="14">7</sent>
+<sent type="main" lang="kor" page="15" n="15">“도심퇴전(道心退轉) 되엿스니 저를 엇지 를소냐”</sent>
+<sent type="main" lang="kor" page="15" n="16">태자(太子) 압헤 하직하고 바라나(婆羅奈)로 가 버렷네</sent>
+<sent type="title3" lang="kor" page="15" n="17">8</sent>
+<sent type="main" lang="kor" page="15" n="18">태자(太子) 홀로 유행(遊行)하샤 불다가야(佛陀迦耶) 이르러셔</sent>
+<sent type="main" lang="kor" page="15" n="19">필바라수(畢波羅樹) 금강좌에 가부좌(跏趺座)을 매즈시고</sent>
+<sent type="title3" lang="kor" page="15" n="20">9</sent>
+<sent type="main" lang="kor" page="15" n="21">서원(誓願)하야 하신 말삼</sent>
+<sent type="main" lang="kor" page="15" n="22">“내가 이제 좌정(座定)하고 일체종지(一切種智) 못 엇으면 이러나지 안흐리라”</sent>
+<sent type="title3" lang="kor" page="15" n="23">10</sent>
+<sent type="main" lang="kor" page="15" n="24">과현미래(過現未來) 사유(思惟)하샤 인생도(人生道)를 관찰(觀察)하며</sent>
+<sent type="main" lang="kor" page="15" n="25">경험 지식(經驗智識) 종합(綜合)하샤 해탈진리(解脫眞理) 증견(證見)코저</sent>
+<sent type="title3" lang="kor" page="15" n="26">11</sent>
+<sent type="main" lang="kor" page="15" n="27">정관(靜觀)하는 재타 흉중(胸中) 엇지 번민(煩悶) 업스리요</sent>
+<sent type="main" lang="kor" page="15" n="28">이  마장(魔障) 이러나서 종종형상(種種形相) 현출한다</sent>
+<sent type="title3" lang="kor" page="15" n="29">12</sent>
+<sent type="main" lang="kor" page="15" n="30">혹은 사자(獅子) 혹은 호랑(虎狼) 혹(或)은 욕염欲染</sent>
+<sent type="main" lang="kor" page="15" n="31">삼마녀(三魔女)가 현전(現前)하야 위혁(委嚇)하고 유혹(誘惑)한다</sent>
+<sent type="title3" lang="kor" page="15" n="32">13</sent>
+<sent type="main" lang="kor" page="15-16" n="33">혹시 대석(或時大石) 나라오며 혹시 대풍(或時大風) 이러나며</sent><!--나라오며 ^ 혹시-->
+
+<sent type="main" lang="kor" page="16" n="1">혹(或)은 대우(大雨) 쏘다저서 태자 정정(太子靜定) 방해한다</sent>
+<sent type="title3" lang="kor" page="16" n="2">14</sent>
+<sent type="main" lang="kor" page="16" n="3">태자(太子)션 이와 가튼 큰 유혹(誘惑)에 제회(際會)하나</sent>
+<sent type="main" lang="kor" page="16" n="4">제종악마(諸種惡魔) 질타(叱咤)하샤 확연부동(確然不動) 안즈셋네</sent>
+<sent type="title3" lang="kor" page="16" n="5">15</sent>
+<sent type="main" lang="kor" page="16" n="6">장(壯)하도다 우리 태자(太子) 그 밤 초경(初更) 되는 에</sent>
+<sent type="main" lang="kor" page="16" n="7">시방삼세(十方三世) 무량(無量) 세계 지안(智眼)으로 관찰(觀察)하고</sent>
+<sent type="title3" lang="kor" page="16" n="8">16</sent>
+<sent type="main" lang="kor" page="16" n="9">제이경(第二更)에 이르러셔 자유자재(自由自在) 신통(神通)으로</sent>
+<sent type="main" lang="kor" page="16" n="10">삼세실상(三世實相) 관찰(觀察)함이 장중명주(掌中明珠) 보시는 </sent>
+<sent type="title3" lang="kor" page="16" n="11">17</sent>
+<sent type="main" lang="kor" page="16" n="12">삼사경(三四更)에 니르러셔 삼계인과(三界因果) 동찰(洞察)하고</sent>
+<sent type="main" lang="kor" page="16" n="13">제오경(第五更)에 명성(明星)   일체종지(一切種智) 어드셨다</sent>
+<sent type="title3" lang="kor" page="16" n="14">18</sent>
+<sent type="main" lang="kor" page="16" n="15">삼계(三界) 모다 나의 소유(所有) 중생(衆生) 모다 나의 적자(赤子)</sent>
+<sent type="main" lang="kor" page="16" n="16">무상보리(無上菩提) 성취(成就)하사 삼계도사(三界導師) 되셧도다</sent>
+<sent type="title3" lang="kor" page="16" n="17">19</sent>
+<sent type="main" lang="kor" page="16" n="18">이  실(實)로 세존 년기(世尊年紀) 삼십오세 이월 팔일(二月八日)</sent>
+<sent type="main" lang="kor" page="16" n="19">삼천대천(三千大千) 세계 광명 불법신(佛法身)을 빗취도다</sent>
+<sent type="title3" lang="kor" page="16" n="20">20</sent>
+<sent type="main" lang="kor" page="16" n="21">자금(紫金)색의 광휘 찬연(光輝燦然) 시방셰계(十方世界) 조요(照耀)하며</sent>
+<sent type="main" lang="kor" page="16" n="22">범천(梵天)에셔 연화(蓮華) 흣허 공양(供養)하여 찬탄(讚歎)하되</sent>
+<sent type="title3" lang="kor" page="16" n="23">21</sent>
+<sent type="main" lang="kor" page="16" n="24">“무상정각(無上正覺) 성취하샤</sent>
+<sent type="main" lang="kor" page="16" n="25">세간 일체(一切) 유정위(有情爲)해 불생멸문(佛生滅門) 개방(開放)햇네</sent>
+<sent type="main" lang="kor" page="16" n="26">거룩하다 세존(世尊)이여”</sent>
+<sent type="title2" lang="kor" page="16" n="27">제7장 석존(釋尊)의 설법(說法)</sent>
+<sent type="title3" lang="kor" page="16" n="28">1</sent>
+<sent type="main" lang="kor" page="16" n="29">삼십 년래(三十年來) 석존 흉중 반굴(蟠屈)햇든 일대 의문(一大疑問)</sent>
+<sent type="main" lang="kor" page="16-17" n="30">보리수하(菩提樹下) 한 사유에 활연 해득(豁然解得) 하셧고나</sent><!--사유에 ^ 활연-->
+
+<sent type="title3" lang="kor" page="17" n="1">2</sent>
+<sent type="main" lang="kor" page="17" n="2">그  석존(釋尊) 심중 쾌락(快樂) 범정(凡情)으로 모르리라</sent>
+<sent type="main" lang="kor" page="17" n="3">새 정신(精神)이 욱일(旭日) 갓고 연화배뢰(蓮花蓓蕾) 터진 듯이</sent>
+<sent type="title3" lang="kor" page="17" n="4">3</sent>
+<sent type="main" lang="kor" page="17" n="5">심경일시(心境一時) 열리엿고 지광혁혁(智光赫赫) 빗나도다</sent>
+<sent type="main" lang="kor" page="17" n="6">옛날 태자(太子) 아니시요 무명대암(無明大暗) 친 불일(佛日)</sent>
+<sent type="title3" lang="kor" page="17" n="7">4</sent>
+<sent type="main" lang="kor" page="17" n="8">그러하나 석존(釋尊)셔 증오(證悟)하신 그 법칙(法則)은</sent>
+<sent type="main" lang="kor" page="17" n="9">독득(獨得)하신 묘리(妙理)시고 미증유(未曾有)의 대법(大法)이라</sent>
+<sent type="title3" lang="kor" page="17" n="10">5</sent>
+<sent type="main" lang="kor" page="17" n="11">그런고(故)로 석존(釋尊)셔 성도후(成道後)에 사유(思惟)키를</sent>
+<sent type="main" lang="kor" page="17" n="12">만약 졸연(萬若卒然) 설법(說法)하면 범우혹방(凡愚惑謗) 엇지 하리</sent>
+<sent type="title3" lang="kor" page="17" n="13">6</sent>
+<sent type="main" lang="kor" page="17" n="14">일로부터 삼칠일(三七日)을 수하(樹下)에셔 일지 안코</sent>
+<sent type="main" lang="kor" page="17" n="15">근본교리(根本敎理) 설명법을 고찰(考察)하고 고찰(考察)하샤</sent>
+<sent type="title3" lang="kor" page="17" n="16">7</sent>
+<sent type="main" lang="kor" page="17" n="17">삼칠일(三七日)을 경과(經過)한 후 아라라와 울다라마(鬱陀羅摩)</sent>
+<sent type="main" lang="kor" page="17" n="18">이선인(二仙人)을 제도(濟度)코자 미루산(彌樓山)에 가셧더니</sent>
+<sent type="title3" lang="kor" page="17" n="19">8</sent>
+<sent type="main" lang="kor" page="17" n="20">선인(仙人) 발서 죽은지라 방향(方向) 곤처 파라나사(波羅奈斯)</sent>
+<sent type="main" lang="kor" page="17" n="21">녹야원(鹿野園)에 니르러셔 교진여(憍陣如)등 오비구(五比丘)를</sent>
+<sent type="title3" lang="kor" page="17" n="22">9</sent>
+<sent type="main" lang="kor" page="17" n="23">처음 제도(濟度)하실 에 사성제법(四聖諦法) 설명(說明)하샤</sent>
+<sent type="main" lang="kor" page="17" n="24">뎌희들이 한가지로 법안정(法眼淨)을 엇게 햇네</sent>
+<sent type="title3" lang="kor" page="17" n="25">10</sent>
+<sent type="main" lang="kor" page="17" n="26">당시 파라나사국(波羅奈斯國)에 야사(耶舍)라는 장자자(長者子)가 녹원(鹿園) 와셔</sent>
+<sent type="main" lang="kor" page="17" n="27">불법(佛法) 듯고 출가(出家)하야 제자(弟子)되다</sent>
+<sent type="title3" lang="kor" page="17" n="28">11</sent>
+<sent type="main" lang="kor" page="17" n="29">그 부모(父母)와 그 안해가 그를 차저 왓던 차(次)에</sent>
+<sent type="main" lang="kor" page="17" n="30">세존(世尊) 압헤 경배(敬拜)하고 즉시(卽時) 귀의(歸依)하고 보니</sent>
+<sent type="title3" lang="kor" page="17" n="31">12</sent>
+<sent type="main" lang="kor" page="17-18" n="32">이는 실(實)로 불문중(佛門中)에 유명(有名)하온 사건(事件)이라</sent><!--불문중(佛門中)에 ^ 유명(有名)하온-->
+
+<sent type="main" lang="kor" page="18" n="1">우바새(優婆塞)와 우바이(償婆夷)의 남상(濫觴)이라 하리도다</sent>
+<sent type="title3" lang="kor" page="18" n="2">13</sent>
+<sent type="main" lang="kor" page="18" n="3">녹야원(鹿野園)에 게시기를 근근(僅僅) 며칠 이로대</sent>
+<sent type="main" lang="kor" page="18" n="4">법문(法門) 듯고 제자(弟子)된 자 오십육인(五十六人) 되엿도다</sent>
+<sent type="title3" lang="kor" page="18" n="5">14</sent>
+<sent type="main" lang="kor" page="18" n="6">녹야원(鹿野園)을 나셔셔 왕사성(王舍城)에 향(向)하심은</sent>
+<sent type="main" lang="kor" page="18" n="7">입산(入山)전에 빈바사왕(頻婆沙王) 언약(言約) 갑기 위(爲)함일세</sent>
+<sent type="title3" lang="kor" page="18" n="8">15</sent>
+<sent type="main" lang="kor" page="18" n="9">왕사성(王舍城)에 못 다 가서 인도우기(印度雨期) 됨으로써</sent>
+<sent type="main" lang="kor" page="18" n="10">여행(旅行)하든 도중(途中)에셔 하안거(夏安居)를 결(結)하셧네</sent>
+<sent type="title3" lang="kor" page="18" n="11">16</sent>
+<sent type="main" lang="kor" page="18" n="12">하안거(夏安居)라 하는 것은 음력 사월(陰曆四月) 십육일로</sent>
+<sent type="main" lang="kor" page="18" n="13">맹추 칠월(孟秋七月) 십오지 삼개월간 일처지주(一處止住)</sent>
+<sent type="title3" lang="kor" page="18" n="14">17</sent>
+<sent type="main" lang="kor" page="18" n="15">인도국(印度國)의 강우기(降雨期)는 도로 니녕(道路泥濘) 외출 불편</sent>
+<sent type="main" lang="kor" page="18" n="16">식물계(植物界)의 번무기(繁茂期)요 곤충류(昆蟲類)의 출생기(出生期)니</sent>
+<sent type="title3" lang="kor" page="18" n="17">18</sent>
+<sent type="main" lang="kor" page="18" n="18">살생(殺生)될 염려(念慮)하야 다못 일처(一處) 머루러서</sent>
+<sent type="main" lang="kor" page="18" n="19">교법강습(敎法講習) 개시(開始)하고 종종의식(種種儀式) 행(行)함이라</sent>
+<sent type="title3" lang="kor" page="18" n="20">19</sent>
+<sent type="main" lang="kor" page="18" n="21">제자들은 일개년간(一個年間) 행위 선악(行爲善惡) 그 일체을</sent>
+<sent type="main" lang="kor" page="18" n="22">참회(懺悔)하고 경계(警戒)하며 계법(戒法) 정해 발표(發表)로다</sent>
+<sent type="title3" lang="kor" page="18" n="23">20</sent>
+<sent type="main" lang="kor" page="18" n="24">초년 안거(初年安居) 마치시고 사화(事火)하는 바라문(婆羅門)의</sent>
+<sent type="main" lang="kor" page="18" n="25">주교(主敎)되는 삼가섭(三迦葉)을 제도(濟度)코저 하시엇다</sent>
+<sent type="title3" lang="kor" page="18" n="26">21</sent>
+<sent type="main" lang="kor" page="18" n="27">우루빈라(優樓頻羅) 가섭파를 방문(訪問)하고 법설(法說)하니</sent>
+<sent type="main" lang="kor" page="18" n="28">오백 제가(五百弟子) 한가지로 불문중(佛門中)에 귀의(歸依)하고</sent>
+<sent type="title3" lang="kor" page="18" n="29">22</sent>
+<sent type="main" lang="kor" page="18" n="30">나제가야(那提伽倻) 두 가섭(迦葉)은 형(兄)이 임의 사사(師事)하니</sent>
+<sent type="main" lang="kor" page="18" n="31">삼백 제자(三百弟子) 이백 제자  한가지 귀의(歸依)하네</sent>
+
+<sent type="title3" lang="kor" page="19" n="1">23</sent>
+<sent type="main" lang="kor" page="19" n="2">에 우리 세존 제자(世尊弟子) 일천이백 오십오인</sent>
+<sent type="main" lang="kor" page="19" n="3">전후좌우(前後左右) 위요(圍繞)하고 왕사성(王舍城)에 들랴할 제(際)</sent>
+<sent type="title3" lang="kor" page="19" n="4">24</sent>
+<sent type="main" lang="kor" page="19" n="5">빈바사왕(頻婆沙王) 모든 부하 인솔(引率)하고 성외(城外)지</sent>
+<sent type="main" lang="kor" page="19" n="6">우리 세존(世尊) 영접(迎接)하나 장림(杖林)에서 휴게(休憩)하네</sent>
+<sent type="title3" lang="kor" page="19" n="7">25</sent>
+<sent type="main" lang="kor" page="19" n="8">빈바왕(頻婆王)은 임중(林中)에셔 여러 대중(大衆) 공양(供養)하고</sent>
+<sent type="main" lang="kor" page="19" n="9">성민(城民)들의 예배자(禮拜者)가 운집(雲集)하야 하는 말이</sent>
+<sent type="title3" lang="kor" page="19" n="10">26</sent>
+<sent type="main" lang="kor" page="19" n="11">“싣달(悉達) 태자 총명(聰明)하신 성화(聲華) 일즉 들엇스나</sent>
+<sent type="main" lang="kor" page="19" n="12">숙덕(宿德) 장한 가섭(迦葉)들이 제자(弟子) 됨은 괴이(怪異)하다”</sent>
+<sent type="title3" lang="kor" page="19" n="13">27</sent>
+<sent type="main" lang="kor" page="19" n="14">가섭(迦葉)등이 기립(起立)하야 성민(城民)에게 연설(演說)하되</sent>
+<sent type="main" lang="kor" page="19" n="15">“내가 불(佛) 귀의(歸依)함은 그 소이(所以)가 무엇이냐</sent>
+<sent type="title3" lang="kor" page="19" n="16">28</sent>
+<sent type="main" lang="kor" page="19" n="17">내가 엇지 배화교(拜火敎)로 만족(滿足)함을 엇으리요</sent>
+<sent type="main" lang="kor" page="19" n="18">열반(涅槃) 엇는 참 인연(因緣)은 석존법(釋尊法)에 잇슴일다”</sent>
+<sent type="title3" lang="kor" page="19" n="19">29</sent>
+<sent type="main" lang="kor" page="19" n="20">왕사왕(王舍王)은 물론(勿論)이요</sent>
+<sent type="main" lang="kor" page="19" n="21">남녀노소(男女老少) 성민(城民)들도 바라문교(婆羅門敎) 배반(背反)하고 석존법(釋尊法)에 귀의(歸依)한다</sent>
+<sent type="title3" lang="kor" page="19" n="22">30</sent>
+<sent type="main" lang="kor" page="19" n="23">빈바사왕(頻婆沙王) 정사(精舍) 지어 세존(世尊)드러 영접(迎接)하니</sent>
+<sent type="main" lang="kor" page="19" n="24">죽림정사(竹林精舍) 지주(止住)하사 제이 제삼(第二第三) 안거(安居)하며</sent>
+<sent type="title3" lang="kor" page="19" n="25">31</sent>
+<sent type="main" lang="kor" page="19" n="26">빈바사왕(頻婆沙王) 가섭(迦葉)등에 설시(說示)하신 그 법문(法門)은</sent>
+<sent type="main" lang="kor" page="19" n="27">“일체 제법(諸法) 본래 공(空)해 아(我)와 아소(我所) 업것마는</sent>
+<sent type="title3" lang="kor" page="19" n="28">32</sent>
+<sent type="main" lang="kor" page="19" n="29">범부전도(凡夫顚倒) 망상으로 실아실법(實我實法) 잇다 하나</sent>
+<sent type="main" lang="kor" page="19" n="30">전도상(顚倒想)을 흘진대 이것이 곳 해탈(解脫)이라”</sent>
+<sent type="title3" lang="kor" page="19" n="31">33</sent>
+<sent type="main" lang="kor" page="19" n="32">정진식(情塵識)의 삼사(三事)에서 일체 선악(一切善惡) 업(業)이 나며</sent>
+<sent type="main" lang="kor" page="19-20" n="33">이로 차 과보(果報) 밧아 생사장(生死場)에 유전(流轉)할 </sent><!--밧아 ^ 생사장(生死場)에-->
+
+<sent type="title3" lang="kor" page="20" n="1">34</sent>
+<sent type="main" lang="kor" page="20" n="2">석존(釋尊)셔 마하다국(摩訶陀國) 체류(滯留)하야 계시는 </sent>
+<sent type="main" lang="kor" page="20" n="3">삼가섭(三迦葉)과 빈바왕을 제도(濟度)할  아니시라</sent>
+<sent type="title3" lang="kor" page="20" n="4">35</sent>
+<sent type="main" lang="kor" page="20" n="5">“모든 법(法)은 무상(無常)이라 천류(遷流)하야 부지(不止)하며</sent>
+<sent type="main" lang="kor" page="20" n="6">삼계(三界) 모다 불안(不安)하야 불타는 집 한가지라</sent>
+<sent type="title3" lang="kor" page="20" n="7">36</sent>
+<sent type="main" lang="kor" page="20" n="8">모든 법(法)은 수연(隨緣)하야 생멸(生滅)하고 생멸(生滅)하며</sent>
+<sent type="main" lang="kor" page="20" n="9">일체 제법 체성본공(軆性本空) 주반(主伴)됨이 업나니라”</sent>
+<sent type="title3" lang="kor" page="20" n="10">37</sent>
+<sent type="main" lang="kor" page="20" n="11">이와 가튼 학설(學說)로서 사리불(舍利弗)과 목건련(目犍連)과</sent>
+<sent type="main" lang="kor" page="20" n="12">마하가섭(摩訶迦葉) 가튼 이들 박학자(博學者)를 교화(敎化)햇다</sent>
+<sent type="title3" lang="kor" page="20" n="13">38</sent>
+<sent type="main" lang="kor" page="20" n="14">성도(成道)한 후 제사년에 폐사리국(吠舍利國) 나아가샤</sent>
+<sent type="main" lang="kor" page="20" n="15">대림정사(大林精舍) 거(居)하시며 역시(亦是) 안거(安居)하시더니</sent>
+<sent type="title3" lang="kor" page="20" n="16">39</sent>
+<sent type="main" lang="kor" page="20" n="17">에 맛침 한천(旱天)되야 가비라(迦毘羅)와 천지(天指) 이국</sent>
+<sent type="main" lang="kor" page="20" n="18">로히니하(河) 물 문에 셔로 셔로 분쟁(紛爭)하니</sent>
+<sent type="title3" lang="kor" page="20" n="19">40</sent>
+<sent type="main" lang="kor" page="20" n="20">석존(釋尊)셔 임장(臨場)하사 그 분쟁(紛爭)을 조정(調停)하고</sent>
+<sent type="main" lang="kor" page="20" n="21">대림정사(大林精舍) 도라오샤 안거법연(安居法筵) 여시도다</sent>
+<sent type="title3" lang="kor" page="20" n="22">41</sent>
+<sent type="main" lang="kor" page="20" n="23">석존(釋尊)선 이 정사(精舍)에 일년여(佚年餘)을 경과(經過)하샤</sent>
+<sent type="main" lang="kor" page="20" n="24">제오년(第五年)의 안거(安居) 역시 이곳에서 지나셧다</sent>
+<sent type="title3" lang="kor" page="20" n="25">42</sent>
+<sent type="main" lang="kor" page="20" n="26">제자(弟子) 중에 부정행(不淨行)을 행(行)하는 자(者) 잇슴으로</sent>
+<sent type="main" lang="kor" page="20" n="27">사음계(邪淫戒)를 설(說)하시니 불교계율(佛敎戒律) 시작이라</sent>
+<sent type="title3" lang="kor" page="20" n="28">43</sent>
+<sent type="main" lang="kor" page="20" n="29">비루마국(國) 불전(佛傳)에는 세존(世尊)셔 예 잇슬 </sent>
+<sent type="main" lang="kor" page="20" n="30">사리불(舍利佛)과 목건련(目犍連)을 최상좌(最上座)로 정(定)햇더니</sent>
+<sent type="title3" lang="kor" page="20" n="31">44</sent>
+<sent type="main" lang="kor" page="20-21" n="32">대중(大衆)들이 불응(不應)할새 통계게(通戒偈)를 지으시샤</sent><!--불응(不應)할새 ^ 통계게(通戒偈)를-->
+
+<sent type="main" lang="kor" page="21" n="1">제악막작(諸惡莫作) 중선봉행 설(說)하셧다 하얏도다</sent>
+<sent type="title3" lang="kor" page="21" n="2">45</sent>
+<sent type="main" lang="kor" page="21" n="3">살생 망어(殺生妄語) 두 계율은 왕사성(王舍城)셔 제정(制定)하고</sent>
+<sent type="main" lang="kor" page="21" n="4">발다파제(跋陀婆提) 잇슬 에 사가다(莎伽陀)라 하는 장로(長老)</sent>
+<sent type="title3" lang="kor" page="21" n="5">46</sent>
+<sent type="main" lang="kor" page="21" n="6">인사불성(人事不省) 니취(泥醉)할새 불음주계(不飮酒戒) 제정(制定)하니</sent>
+<sent type="main" lang="kor" page="21" n="7">이와 가치 를 라 대소 율의(大小律儀) 새겻도다</sent>
+<sent type="title3" lang="kor" page="21" n="8">47</sent>
+<sent type="main" lang="kor" page="21" n="9">제오결하(第五結夏) 마치시고 대림정사(大林精舍) 나시샤</sent>
+<sent type="main" lang="kor" page="21" n="10">모든 제자(弟子) 인솔(引率)하고 영취산(靈鷲山)에 옴기시다</sent>
+<sent type="title3" lang="kor" page="21" n="11">48</sent>
+<sent type="main" lang="kor" page="21" n="12">이로부터 영취산(靈鷲山)에 전후장시(前後長時) 주(住)하시샤</sent>
+<sent type="main" lang="kor" page="21" n="13">설법(說法)하신 성지(聖地)됨은 경전(經典)에도 분명(分明)하네</sent>
+<sent type="title3" lang="kor" page="21" n="14">49</sent>
+<sent type="main" lang="kor" page="21" n="15">그런 고(故)로 빈바사왕(頻婆沙王) 산녹(山麓)에셔 정사(精舍)지</sent>
+<sent type="main" lang="kor" page="21" n="16">사간통(四間通)에 십여정(十餘町)을 일대 석등(一大石燈) 건립(建立)햇네</sent>
+<sent type="title3" lang="kor" page="21" n="17">50</sent>
+<sent type="main" lang="kor" page="21" n="18">이 영산(靈山)을 금일(今日)에는 일홈 곤처 새라기리</sent>
+<sent type="main" lang="kor" page="21" n="19">그 정상의 암굴 석등(巖窟石燈) 유적(遺跡) 지금 존재(存在)하다</sent>
+<sent type="title3" lang="kor" page="21" n="20">51</sent>
+<sent type="main" lang="kor" page="21" n="21">석존(釋尊)셔 이전(移轉)한 후 불과(不過) 몃칠 안 되야셔</sent>
+<sent type="main" lang="kor" page="21" n="22">정반왕(淨飯王)이 병독(病篤)하신 대급보(大急報)를 들으시고</sent>
+<sent type="title3" lang="kor" page="21" n="23">52</sent>
+<sent type="main" lang="kor" page="21" n="24">급(急)히 고국(故國) 도라가니 부왕(父王)셔 신음(呻吟)하샤</sent>
+<sent type="main" lang="kor" page="21" n="25">안색 초췌(憔悴) 구용(舊容) 업셔 왕족제신(王族諸臣) 비탄(悲嘆)일세</sent>
+<sent type="title3" lang="kor" page="21" n="26">53</sent>
+<sent type="main" lang="kor" page="21" n="27">석존(釋尊)셔 부왕(父王) 위해 설법(說法)하기 마지 안코</sent>
+<sent type="main" lang="kor" page="21" n="28">“오래도록 정도(正道)로서 치국(治國)함을 찬탄(讚嘆)하사</sent>
+<sent type="title3" lang="kor" page="21" n="29">54</sent>
+<sent type="main" lang="kor" page="21" n="30">진정도(眞正道)를 밟는 자(者)는 내세(來世) 복락(福樂) 엇으리라”</sent>
+<sent type="main" lang="kor" page="21" n="31">이와 가튼 법(法)을 설(說)해 병든 부왕(父王) 위로(慰勞)햇네</sent>
+
+<sent type="title3" lang="kor" page="22" n="1">55</sent>
+<sent type="main" lang="kor" page="22" n="2">그 병환(病患)은 회복(恢復)된 후 구십칠(九十七)의 보산(寶算)으로 홀연 붕조(忽然崩殂) 하옵시니</sent>
+<sent type="main" lang="kor" page="22" n="3">국례(國禮) 라 조장(弔葬)하다</sent>
+<sent type="title3" lang="kor" page="22" n="4">56</sent>
+<sent type="main" lang="kor" page="22" n="5">파사바제(波闍婆提) 황후(皇后)이며</sent>
+<sent type="main" lang="kor" page="22" n="6">야수다라(耶輸陀羅) 비궁(妃宮)들의 비구니(比丘尼)됨 청허(聽許)하고</sent>
+<sent type="main" lang="kor" page="22" n="7">교상미(憍賞彌)에 회향(廻向)하다</sent>
+<sent type="title3" lang="kor" page="22" n="8">57</sent>
+<sent type="main" lang="kor" page="22" n="9">석존(釋尊)셔 교상미(憍賞彌)에 제육하좌(第六夏坐) 지내시고</sent>
+<sent type="main" lang="kor" page="22" n="10">왕사성(王舍城)에 유화(遊化)하샤 중생 교도(衆生敎導) 하시더라</sent>
+<sent type="title3" lang="kor" page="22" n="11">58</sent>
+<sent type="main" lang="kor" page="22" n="12">마가다국(摩伽陀國) 궁첩(宮妾)들은 여자(女子)들도 출가(出家)한단</sent>
+<sent type="main" lang="kor" page="22" n="13">풍평(風評)들을 엇어 듯고 우바이(優婆夷)가 되엇더라</sent>
+<sent type="title3" lang="kor" page="22" n="14">59</sent>
+<sent type="main" lang="kor" page="22" n="15">한 제자(弟子) 사리불(舍利弗)은 석존(釋尊)의게 허락(許諾) 밧아</sent>
+<sent type="main" lang="kor" page="22" n="16">니건자파(尼犍子派) 교도들을 개종회향(改宗廻向) 하게 하다</sent>
+<sent type="title3" lang="kor" page="22" n="17">60</sent>
+<sent type="main" lang="kor" page="22" n="18">난타(難陀)이며 아누루타(阿누樓陀) 우바리(優婆離) 등 여덟 사람</sent>
+<sent type="main" lang="kor" page="22" n="19">세존(世尊)셔 재성중(在城中)에 득도(得度)하지 못 한지라</sent>
+<sent type="title3" lang="kor" page="22" n="20">61</sent>
+<sent type="main" lang="kor" page="22" n="21">유감(遺憾)으로 생각(生覺)하고 교상미(憍賞彌)에 차 와셔</sent>
+<sent type="main" lang="kor" page="22" n="22">하루 밧비 득도(得度)하고 불제자(佛弟子)에 참예(叅預)하니</sent>
+<sent type="title3" lang="kor" page="22" n="23">62</sent>
+<sent type="main" lang="kor" page="22" n="24">우바리(優婆離)의 출가(出家)에는 모든 제자(弟子) 불긍(不肯)하야</sent>
+<sent type="main" lang="kor" page="22" n="25">경천(輕賤)하며 조롱(嘲弄)함은 수도라족(首圖羅族) 됨이로다</sent>
+<sent type="title3" lang="kor" page="22" n="26">63</sent>
+<sent type="main" lang="kor" page="22" n="27">불세존(佛世尊)의 안중(眼中)에는 사성계급(四姓階級) 신분 귀천 분별 고하(分別高下) 전혀 업서</sent>
+<sent type="main" lang="kor" page="22" n="28">화익(化益)하심 평등일양(平等一樣)</sent>
+<sent type="title3" lang="kor" page="22" n="29">64</sent>
+<sent type="main" lang="kor" page="22" n="30">그런 고(故)로 제자(弟子)들 누누 교회(屢屢敎誨) 하시기를</sent>
+<sent type="main" lang="kor" page="22" n="31">“사성족(四姓族)과 신분(身分)으로 편벽(便辟)되히 하지 말라”</sent>
+<sent type="title3" lang="kor" page="22" n="32">65</sent>
+<sent type="main" lang="kor" page="22" n="33">성도(成道)하신 제칠년(第七年)엔 산킷싸에 안거(安居)하샤</sent>
+<sent type="main" lang="kor" page="22-23" n="34">교살라국(憍薩羅國) 수도(首都)되는 사위성(舍衛城)에 행화(行化)하다</sent><!--수도(首都)되는 ^ 사위성(舍衛城)에-->
+
+<sent type="title3" lang="kor" page="23" n="1">66</sent>
+<sent type="main" lang="kor" page="23" n="2">사위성에 일부호(一富豪)가 그 일홈이 수달장자(須達長者)</sent>
+<sent type="main" lang="kor" page="23" n="3">왕사성(王舍城)에 잇슬 에 세존교화(世尊敎化) 밧앗더니</sent>
+<sent type="title3" lang="kor" page="23" n="4">67</sent>
+<sent type="main" lang="kor" page="23" n="5">바사왕(波斯王) 청(請)을 드려 지다태자(祗多太子) 저원(邸園) 열어</sent>
+<sent type="main" lang="kor" page="23" n="6">기원정사(祗園精舍) 지여 놋코 세존유석(世尊留錫) 청(請)햇더라</sent>
+<sent type="title3" lang="kor" page="23" n="7">68</sent>
+<sent type="main" lang="kor" page="23" n="8">성도(成道)하신 제구년(第九年)엔 기원사(祗園舍)에 안거(安居)할 때</sent>
+<sent type="main" lang="kor" page="23" n="9">라후라(羅睺羅)가 십팔세라 출가(出家)함을 허락(許諾)하다</sent>
+<sent type="title3" lang="kor" page="23" n="10">69</sent>
+<sent type="main" lang="kor" page="23" n="11">성도(成道)하신 십이년(十二年)엔 파나라사(波奈羅斯) 페사리의 제도읍(諸都邑)을 행화(行化)하고</sent>
+<sent type="main" lang="kor" page="23" n="12">사위성(舍衛城)에 도라오며</sent>
+<sent type="title3" lang="kor" page="23" n="13">70</sent>
+<sent type="main" lang="kor" page="23" n="14">그 후 이년 교사라국(憍沙羅國) 제읍 순화(諸邑巡化) 하시다가</sent>
+<sent type="main" lang="kor" page="23" n="15">성도하신 제십오년(第十五年) 가비라(迦毘羅)에 귀환(歸還)일세</sent>
+<sent type="title3" lang="kor" page="23" n="16">71</sent>
+<sent type="main" lang="kor" page="23" n="17">처음으로 제자(弟子)들 설법(說法)함을 허락(許諾)하고</sent>
+<sent type="main" lang="kor" page="23" n="18">상족제자(上足弟子) 분견(分遣)하샤 중인도(中印度)를 유화(遊化)햇네</sent>
+<sent type="title3" lang="kor" page="23" n="19">72</sent>
+<sent type="main" lang="kor" page="23" n="20">성도하신 제이십년(第二)</sent>
+<sent type="main" lang="kor" page="23" n="21">흉적 앙굴리마라(鴦屈利摩羅)가 교화(敎化) 밧고 사문(沙門)되야</sent>
+<sent type="main" lang="kor" page="23" n="22">참회(懺悔)하고 입문(入門)하며</sent>
+<sent type="title3" lang="kor" page="23" n="23">73</sent>
+<sent type="main" lang="kor" page="23" n="24">성도 이십일년(二十一年)만에 제제자중(諸弟子中) 아란(阿難)이를 상수자(常隨者)로 선거(選擧)하니</sent>
+<sent type="main" lang="kor" page="23" n="25">종시 일관 불 친시(親侍)</sent>
+<sent type="title3" lang="kor" page="23" n="26">74</sent>
+<sent type="main" lang="kor" page="23" n="27">이후(爾後) 이십 오년간을 수천 법좌(數千法座) 열석(列席)하야</sent>
+<sent type="main" lang="kor" page="23" n="28">설법(說法) 듯고 기억(記憶)하니 다문제일(多聞第一) 되엿도다</sent>
+<sent type="title3" lang="kor" page="23" n="29">75</sent>
+<sent type="main" lang="kor" page="23" n="30">각 법회(各法會)의 시(時)와 처와 청중 설법 억지불망(憶持不忘)</sent>
+<sent type="main" lang="kor" page="23" n="31">제일회(第一回)의 결집(結集) 시에 일일부연(一一復演) 하여 내니</sent>
+<sent type="title3" lang="kor" page="23" n="32">76</sent>
+<sent type="main" lang="kor" page="23-24" n="33">우리들이 오늘지 세존 교법(世尊敎法) 듯게 됨은</sent><!--오늘지 ^ 세존-->
+
+<sent type="main" lang="kor" page="24" n="1">그 은덕(恩德)을 생각하면 아란(阿難)의 공 막대(莫大)하네</sent>
+<sent type="title3" lang="kor" page="24" n="2">77</sent>
+<sent type="main" lang="kor" page="24" n="3">그 후(後) 다시 십오년간(十五年間) 왕족 서민(王族庶民) 청(請)을 밧아</sent>
+<sent type="main" lang="kor" page="24" n="4">적화무방(適化無方) 위대 감화(感化) 제국민(諸國民)에 베프셨다</sent>
+<sent type="title3" lang="kor" page="24" n="5">78</sent>
+<sent type="main" lang="kor" page="24" n="6">이  인도(印度) 제왕국(諸王國)은 권력 평형(權力平衡) 결(缺)하여서</sent>
+<sent type="main" lang="kor" page="24" n="7">합종연횡(合縱連橫) 전국(戰國)시대 설법장해(說法障害) 불선(不尠)하다</sent>
+<sent type="title3" lang="kor" page="24" n="8">79</sent>
+<sent type="main" lang="kor" page="24" n="9">그 문에 대부분(大部分)은 열국(列國) 중에 최대강국</sent>
+<sent type="main" lang="kor" page="24" n="10">마하다(摩訶陀)에 계시면서 각처 법연(各處法筵) 개(開)하셧다</sent>
+<sent type="title3" lang="kor" page="24" n="11">80</sent>
+<sent type="main" lang="kor" page="24" n="12">그 방처(方處)와 그 년대(年代)는 사전 기재(史傳記載) 안 햇스나</sent>
+<sent type="main" lang="kor" page="24" n="13">현재(現在) 제경(諸經) 의지하면 모든 것을 짐작하리</sent>
+<sent type="title3" lang="kor" page="24" n="14">81</sent>
+<sent type="main" lang="kor" page="24" n="15">설법(說法)하신 그 처소(處所)와 교화(敎化)하신 그 인연(因緣)과</sent>
+<sent type="main" lang="kor" page="24" n="16">대좌(對座)하든 사람들의 열명등(列名等)을 사고(思考)하니</sent>
+<sent type="title3" lang="kor" page="24" n="17">82</sent>
+<sent type="main" lang="kor" page="24" n="18">석존셔 대림정사(大林精舍) 영취산(靈鷲山)과 기원정사</sent>
+<sent type="main" lang="kor" page="24" n="19">삼도량(三道場)을 왕래(往來)하며 법(法)을 설(說)하신 것 갓다</sent>
+<sent type="title3" lang="kor" page="24" n="20">83</sent>
+<sent type="main" lang="kor" page="24" n="21">혹은 장자(長者) 저택(邸宅)에셔 혹은 국왕 궁전(國王宮殿)에셔</sent>
+<sent type="main" lang="kor" page="24" n="22">혹은 행로도상(行路途上)에셔 기(機)에 응(應)해 설법(說法)이라</sent>
+<sent type="title3" lang="kor" page="24" n="23">84</sent>
+<sent type="main" lang="kor" page="24" n="24">성도 이후(成道以後) 삼십칠년 영취산(靈鷲山)의 성경(聖境)에서</sent>
+<sent type="main" lang="kor" page="24" n="25">법화경(法華經)을 팔개년간 처음으로 설(說)하셧네</sent>
+<sent type="title3" lang="kor" page="24" n="26">85</sent>
+<sent type="main" lang="kor" page="24" n="27">성도이후(成道以後) 삼십팔년 야수다라(耶輸陀羅) 비(妃)의 친형 제파달다아사세(提婆達多阿闍世)와 둘이 함 공모(共謀)하고</sent>
+<sent type="title3" lang="kor" page="24" n="28">86</sent>
+<sent type="main" lang="kor" page="24" n="29">그의 부왕 빈바사라(頻婆沙羅) 시(弑)케 한 후 자기(自己) 손수 우리 석존(釋尊) 해(害)치고셔</sent>
+<sent type="main" lang="kor" page="24" n="30">그 교단(敎團)을 아스랴네</sent>
+
+<sent type="title3" lang="kor" page="25" n="1">87</sent>
+<sent type="main" lang="kor" page="25" n="2">이로부터 석존 교단(釋尊敎團) 더욱 더욱 융성(隆盛)하니</sent>
+<sent type="main" lang="kor" page="25" n="3">투기(妬忌)하고 혐오(嫌惡)하야 해(害)치랴고 만히 햇네</sent>
+<sent type="title3" lang="kor" page="25" n="4">88</sent>
+<sent type="main" lang="kor" page="25" n="5">니건자(尼乾子)의 일바라문 회임(懷姙)한 바</sent>
+<sent type="main" lang="kor" page="25" n="6">요녀(妖女) 친지 비구중중(比丘衆中) 드려보내 별별 흉계(別別凶計) 다 미다</sent>
+<sent type="title3" lang="kor" page="25" n="7">89</sent>
+<sent type="main" lang="kor" page="25" n="8">만삭(滿朔)되기 갓가울  대중(大衆)에다 하는 말이</sent>
+<sent type="main" lang="kor" page="25" n="9">석존(釋尊)셔 첩(妾)의 몸을 더럽혓다 양언(揚言)하며</sent>
+<sent type="title3" lang="kor" page="25" n="10">90</sent>
+<sent type="main" lang="kor" page="25" n="11">실리국다(室利鞠多) 독반(毒飯)으로 석존(釋尊)님 드리는 등</sent>
+<sent type="main" lang="kor" page="25" n="12">종종 음모(種種陰謀) 간계인 중 제바달다(提婆達多) 웃이라</sent>
+<sent type="title3" lang="kor" page="25" n="13">91</sent>
+<sent type="main" lang="kor" page="25" n="14">제바달다(提婆達多) 인물(人物)됨이 용맹(勇猛)하고 다지(多智)하며</sent>
+<sent type="main" lang="kor" page="25" n="15">교만(驕慢)하고 기재(奇才) 잇서 다른 사람 농락(籠絡)하네</sent>
+<sent type="title3" lang="kor" page="25" n="16">92</sent>
+<sent type="main" lang="kor" page="25" n="17">거즛 불문(佛門) 들어와셔 불제자(佛弟子)를 기만(欺瞞)하야</sent>
+<sent type="main" lang="kor" page="25" n="18">자기 당파(自己黨派) 되게 하고 오개조(五個條)의 엄계(嚴戒) 폇네</sent>
+<sent type="title3" lang="kor" page="25" n="19">93</sent>
+<sent type="main" lang="kor" page="25" n="20">오개조(五個條)의 그것으로 도중(徒衆)들은 고뇌(苦惱) 주며</sent>
+<sent type="main" lang="kor" page="25" n="21">교단 분리(敎團分離) 도모(圖謀)타가 성사(成事)하지 못 하얏고</sent>
+<sent type="title3" lang="kor" page="25" n="22">94</sent>
+<sent type="main" lang="kor" page="25" n="23">한 석존(釋尊) 살해(殺害)코저</sent>
+<sent type="main" lang="kor" page="25" n="24">산상(山上)에셔 대석암(大石岩)을 전락(轉落)함이 삼회(三回)이나</sent>
+<sent type="main" lang="kor" page="25" n="25">소망 성취(所望成就) 못 하엿다</sent>
+<sent type="title3" lang="kor" page="25" n="26">95</sent>
+<sent type="main" lang="kor" page="25" n="27">필경 동지(畢竟同志) 오백인을 인솔(引率)하고 교단(敎團) 가나</sent>
+<sent type="main" lang="kor" page="25" n="28">빈바사라(頻婆沙羅)왕 죽이고 위제희(韋提希)를 유폐(幽閉)햇다</sent>
+<sent type="title3" lang="kor" page="25" n="29">96</sent>
+<sent type="main" lang="kor" page="25" n="30">이  우리 세존(世尊)셔 유폐중(幽閉中)에 잇는 부인(夫人)</sent>
+<sent type="main" lang="kor" page="25" n="31">위제희를 위한 설시(說示) 관무량수경(觀無量壽經)이로다</sent>
+<sent type="title3" lang="kor" page="25" n="32">97</sent>
+<sent type="main" lang="kor" page="25" n="33">빈바사라왕의 변사(變死) 일시적(一時的)은 석존 교단 영향됨이 불선(不尠)터니</sent>
+
+<sent type="main" lang="kor" page="26" n="1">불원(不遠)하야 신원(申寃)됫네</sent>
+<sent type="title3" lang="kor" page="26" n="2">98</sent>
+<sent type="main" lang="kor" page="26" n="3">아사세왕(阿闍世王) 그  즉시 기만(欺瞞)된 줄 닷고셔</sent>
+<sent type="main" lang="kor" page="26" n="4">회한(悔限)됨을 참지 못 해 번연시사(翻然施捨) 중지햇다</sent>
+<sent type="title3" lang="kor" page="26" n="5">99</sent>
+<sent type="main" lang="kor" page="26" n="6">석존 문하(釋尊門下) 예참(詣參)하야 전일 과악(前日過惡) 참회(懺悔)하고</sent>
+<sent type="main" lang="kor" page="26" n="7">불문중(佛門中)에 귀의(歸依)하니 불교 다시 성흥(盛興)이니라</sent>
+<sent type="title3" lang="kor" page="26" n="8">100</sent>
+<sent type="main" lang="kor" page="26" n="9">제바달다(提婆達多) 실망하야 분사(憤死)함에 니르럿고</sent>
+<sent type="main" lang="kor" page="26" n="10">그의 도중(徒中) 오백여 명 동분서리(東分西離) 해산(解散)햇네</sent>
+<sent type="title3" lang="kor" page="26" n="11">101</sent>
+<sent type="main" lang="kor" page="26" n="12">아사세왕(阿闍世王) 참회한 후 정신(精神) 전혀 일변(一變)하야</sent>
+<sent type="main" lang="kor" page="26" n="13">중인도(中印度)의 민족(民族)들을 평안(平安)케 할 지망(志望)으로</sent>
+<sent type="title3" lang="kor" page="26" n="14">102</sent>
+<sent type="main" lang="kor" page="26" n="15">대군병(大軍兵)을 운동(運動) 식혀 교사라(憍沙羅)와 가비라성 두 나라를 겸병(兼倂)하야</sent>
+<sent type="main" lang="kor" page="26" n="16">중인도(中印度)의 맹주(盟主)되다</sent>
+<sent type="title3" lang="kor" page="26" n="17">103</sent>
+<sent type="main" lang="kor" page="26" n="18">마하다국(摩訶陀國) 아사세왕 실(實)로 불문 외호자(外護者)라</sent>
+<sent type="main" lang="kor" page="26" n="19">성도(成道) 사십 사년 ᄶᅥᆨ에 이 두 나라 병합(倂合)햇내</sent>
+<sent type="title3" lang="kor" page="26" n="20">104</sent>
+<sent type="main" lang="kor" page="26" n="21">이 해 우리 석존(釋尊)선 기원(祗園)에서 우기(雨期) 나고</sent>
+<sent type="main" lang="kor" page="26" n="22">영취산(靈鷲山)에 도라오샤 법화경(法華經)을 완결(完結)햇다</sent>
+<sent type="title3" lang="kor" page="26" n="23">105</sent>
+<sent type="main" lang="kor" page="26" n="24">마하다국(摩訶陀國) 동과 서에 경(境)을 접한 폐사리(吠舍離)는 제후 연합(諸侯聯合) 정체(政軆)이요</sent>
+<sent type="main" lang="kor" page="26" n="25">율첩비왕(栗呫毘王) 맹주(盟主)로다</sent>
+<sent type="title3" lang="kor" page="26" n="26">106</sent>
+<sent type="main" lang="kor" page="26" n="27">율첩비가 아사세(阿闍世)의 그 세력(勢力)을 질투(嫉妬)하야</sent>
+<sent type="main" lang="kor" page="26" n="28">아사세왕(阿闍世王) 해(害)치랴다 성사(成事)하지 못 하엿다</sent>
+<sent type="title3" lang="kor" page="26" n="29">107</sent>
+<sent type="main" lang="kor" page="26" n="30">아사세왕(阿闍世王) 이 말 듯고 몬저 저를 정복(征服)코저</sent>
+<sent type="main" lang="kor" page="26" n="31">우행대신(雨行大臣) 명령하야 불(佛) 방략(方畧) 질문하니</sent>
+<sent type="title3" lang="kor" page="26" n="32">108</sent>
+<sent type="main" lang="kor" page="26" n="33">세존(世尊)서 고(告)하샤대</sent>
+
+<sent type="main" lang="kor" page="27" n="1">“율첩비왕(栗呫毘王) 해(害)치 말라</sent>
+<sent type="main" lang="kor" page="27" n="2">뎌는 능(能)히 상하 화목(上下和睦) 중의공론(衆議公論) 정사(政事)한다</sent>
+<sent type="title3" lang="kor" page="27" n="3">109</sent>
+<sent type="main" lang="kor" page="27" n="4">그런 고(故)로 율첩왕(栗呫王)을 정벌(征伐)함은 불가(不可)하니</sent>
+<sent type="main" lang="kor" page="27" n="5">네 사자(使者)를 파견(派遣)하야 공물 헌상(貢物獻上) 하야 보라</sent>
+<sent type="title3" lang="kor" page="27" n="6">110</sent>
+<sent type="main" lang="kor" page="27" n="7">피등 연합(彼等聯合) 금지(禁止)하야 힘을 연약(軟弱)하게 하며</sent>
+<sent type="main" lang="kor" page="27" n="8">연합성(聯合性)이 견고(堅固)커든 독립 보존(獨立保存) 하게 하라”</sent>
+<sent type="title3" lang="kor" page="27" n="9">111</sent>
+<sent type="main" lang="kor" page="27" n="10">아사세(阿闍世)가 은밀(隱密)하게 우행대신(雨行大臣) 보냇더니</sent>
+<sent type="main" lang="kor" page="27" n="11">그의 수단(手段) 교모(巧妙)하야 뎌의 연합(聯合) 파괴(破壞)햇네</sent>
+<sent type="title3" lang="kor" page="27" n="12">112</sent>
+<sent type="main" lang="kor" page="27" n="13">우리 세존(世尊) 멸도후(滅度後)에 아사세왕(阿闍世王) 병(兵)을 들어</sent>
+<sent type="main" lang="kor" page="27" n="14">폐사리(嬖沙離)를 정복(征服)하야 교사라(憍沙羅)를 병합(倂合)햇다</sent>
+<sent type="title2" lang="kor" page="27" n="15">제8장 석존(釋尊)의 입멸(入滅)</sent>
+<sent type="title3" lang="kor" page="27" n="16">1</sent>
+<sent type="main" lang="kor" page="27" n="17">석존(釋尊)셔 이로부터 영취산(靈鷲山)을 나오시셔</sent>
+<sent type="main" lang="kor" page="27" n="18">아사세왕 항하변(恒河邊)에 축조(築造) 중인 파탁리성(波吒利城)</sent>
+<sent type="title3" lang="kor" page="27" n="19">2</sent>
+<sent type="main" lang="kor" page="27" n="20">석존(釋尊)셔 보옵시고 강(江)을 건너 가시기 전(前) 예언(豫言) 삼아 하신 말삼</sent>
+<sent type="main" lang="kor" page="27" n="21">“차성(此城) 장차 성대하리”</sent>
+<sent type="title3" lang="kor" page="27" n="22">3</sent>
+<sent type="main" lang="kor" page="27" n="23">폐사리성(吠舍離城) 부근(附近)되는 베루가마 촌(村)에 가샤</sent>
+<sent type="main" lang="kor" page="27" n="24">성도(成道) 사십오년 우기(雨期) 이곳에셔 지내시고</sent>
+<sent type="title3" lang="kor" page="27" n="25">4</sent>
+<sent type="main" lang="kor" page="27" n="26">폐사리성(吠舍離城) 들어가샤 탄식(歎息)으로 하신 말삼</sent>
+<sent type="main" lang="kor" page="27" n="27">“슯흐도다 폐사리성(吠舍離城) 너를 봄은 최후(最後)로다”</sent>
+<sent type="title3" lang="kor" page="27" n="28">5</sent>
+<sent type="main" lang="kor" page="27" n="29">건다촌(乾茶村)에 들어가샤 모든 제자(弟子) 불러 노코</sent>
+<sent type="main" lang="kor" page="27-28" n="30">“내가 삼월(三月) 이후(以後)이면 이 세상(世上)을 버리리니</sent><!--이후(以後)이면 ^ 이-->
+
+<sent type="title3" lang="kor" page="28" n="1">6</sent>
+<sent type="main" lang="kor" page="28" n="2">너희들은 계(戒) 가지고 정(定)을 닥고 혜(慧) 닥그라”</sent>
+<sent type="main" lang="kor" page="28" n="3">이와 가치 말삼하고 구시나성(拘尸那城) 향(向)하섯다</sent>
+<sent type="title3" lang="kor" page="28" n="4">7</sent>
+<sent type="main" lang="kor" page="28" n="5">도중 파사성(波娑城)의 치공(治工) 순다라(純陀羅)의 암마원(菴摩園)에 휴게(休憩)하고 계셧더니</sent>
+<sent type="main" lang="kor" page="28" n="6">순다라(純陀羅)가 기별(寄別) 듯고</sent>
+<sent type="title3" lang="kor" page="28" n="7">8</sent>
+<sent type="main" lang="kor" page="28" n="8">크게 깃버 불(佛) 예배(禮拜) 집에 청(請)해 공양(供養)하니</sent>
+<sent type="main" lang="kor" page="28" n="9">기념(紀念)할 사 이 공양(供養)이 최후(最後) 밧은 공양(供養)이라</sent>
+<sent type="title3" lang="kor" page="28" n="10">9</sent>
+<sent type="main" lang="kor" page="28" n="11">순다라(純陀羅) 집 떠나시샤</sent>
+<sent type="main" lang="kor" page="28" n="12">가굴다(迦屈多)의 하반(河畔)에서 신통(身通)하심 심(甚)하실새</sent>
+<sent type="main" lang="kor" page="28" n="13">아난(阿難)에게 명령(命令)하샤</sent>
+<sent type="title3" lang="kor" page="28" n="14">10</sent>
+<sent type="main" lang="kor" page="28" n="15">잠시간(暫時間)을 부좌(敷座)하고 몸을 던저 누으신 후(後)</sent>
+<sent type="main" lang="kor" page="28" n="16">하수(河水) 길어 오라 하샤 물 마시고 나시다</sent>
+<sent type="title3" lang="kor" page="28" n="17">11</sent>
+<sent type="main" lang="kor" page="28" n="18">구시나성(拘尸那城) 부근(附近)되는 난약하(蘭若河) 언덕 우에</sent>
+<sent type="main" lang="kor" page="28" n="19">사라수(娑羅樹)가 번무(繁茂)한데 아난(阿難)에게 이르사대</sent>
+<sent type="title3" lang="kor" page="28" n="20">12</sent>
+<sent type="main" lang="kor" page="28" n="21">“네가 나를 위(爲)하여서 사라수의 쌍수간(雙樹間)에 상(床)을 폐여 눕게 하되</sent>
+<sent type="main" lang="kor" page="28" n="22">두북면서(頭北面西) 하게 하라”</sent>
+<sent type="title3" lang="kor" page="28" n="23">13</sent>
+<sent type="main" lang="kor" page="28" n="24">아란존자(阿難尊者) 명(命)과 가치 사자좌(獅子座)를 설(說)해 노코</sent>
+<sent type="main" lang="kor" page="28" n="25">두북서면(頭北西面) 양족(兩足) 펴고 안락(安樂)하게 눕게 하다</sent>
+<sent type="title3" lang="kor" page="28" n="26">14</sent>
+<sent type="main" lang="kor" page="28" n="27">아난(阿難) 이  호읍(號泣)하며 살와 말삼 하옵기를</sent>
+<sent type="main" lang="kor" page="28" n="28">“내가 극(極)히 미련(未練)하야 아라한과(阿羅漢果) 미정(未証)이라</sent>
+<sent type="title3" lang="kor" page="28" n="29">15</sent>
+<sent type="main" lang="kor" page="28" n="30">그러한데 세존(世尊)서 적멸(寂滅)코저 하나닛가</sent>
+<sent type="main" lang="kor" page="28" n="31">만일 세존(萬一世尊) 열반(涅槃)하면 도과(道果) 누게 엇으리요”</sent>
+<sent type="title3" lang="kor" page="28" n="32">16</sent>
+<sent type="main" lang="kor" page="28-29" n="33">세존(世尊)셔 간절(懇切)하게 위로(慰勞)하야 하신 말삼</sent><!--간절(懇切)하게 ^ 위로(慰勞)하야-->
+
+<sent type="main" lang="kor" page="29" n="1">“너는 과(過)히 슯허 말라 모든 법(法)이 무상(無常)이다</sent>
+<sent type="title3" lang="kor" page="29" n="2">17</sent>
+<sent type="main" lang="kor" page="29" n="3">내가 항상(恒常) 설(說)햇나니 모히는 자(者) 이별(離別)하며</sent>
+<sent type="main" lang="kor" page="29" n="4">과거 미래 금강신(金剛身)도 무상(無常)으로 변천(變遷)한다</sent>
+<sent type="title3" lang="kor" page="29" n="5">18</sent>
+<sent type="main" lang="kor" page="29" n="6">내가 엇지 단독(單獨)으로 무상(無常)에셔 초월(超越)하리</sent>
+<sent type="main" lang="kor" page="29" n="7">사랑하는 아난(阿難)이여 우려(憂慮)하지 말지어다</sent>
+<sent type="title3" lang="kor" page="29" n="8">19</sent>
+<sent type="main" lang="kor" page="29" n="9">네가 여래(如來) 시봉(侍奉)함이 이십오년(二十五年) 동안이라</sent>
+<sent type="main" lang="kor" page="29" n="10">불(佛) 친근(親近)한 공덕이 대과(大果) 엇게 되리로다“</sent>
+<sent type="title3" lang="kor" page="29" n="11">20</sent>
+<sent type="main" lang="kor" page="29" n="12">맛참 이  구시나성(拘尸那城) 바라문에 수발타라(須跋陀羅)</sent>
+<sent type="main" lang="kor" page="29" n="13">그 연령이 일백이십(一百二十) 현철(賢哲)하고 고명(高明)하다</sent>
+<sent type="title3" lang="kor" page="29" n="14">21</sent>
+<sent type="main" lang="kor" page="29" n="15">여래 입적(如來入寂) 하랴심을 수발타라(須跋陀羅) 탐지하고</sent>
+<sent type="main" lang="kor" page="29" n="16">나는 듯이 압헤 와서 아난(阿難)에게 청(請)하기를</sent>
+<sent type="title3" lang="kor" page="29" n="17">22</sent>
+<sent type="main" lang="kor" page="29" n="18">“세존(世尊) 열반(涅槃) 하랴심을 내가 듯고 왓나이다</sent>
+<sent type="main" lang="kor" page="29" n="19">내게 의문 잇사오니 질문(質問)하게 하옵소셔”</sent>
+<sent type="title3" lang="kor" page="29" n="20">23</sent>
+<sent type="main" lang="kor" page="29" n="21">아난(阿難)이가 대답(對答)하되</sent>
+<sent type="main" lang="kor" page="29" n="22">“열반(涅槃)하랴 하옵시니 원(願)하건대</sent>
+<sent type="main" lang="kor" page="29" n="23">수발타라(須跋陀羅) 요란(擾亂)하게 마옵소서”</sent>
+<sent type="title3" lang="kor" page="29" n="24">24</sent>
+<sent type="main" lang="kor" page="29" n="25">수발타라(須跋陀羅) 강청(强請)하되</sent>
+<sent type="main" lang="kor" page="29" n="26">“불(佛) 맛나기 어려오며 정법(正法) 듯기 심란(甚難)이라</sent>
+<sent type="main" lang="kor" page="29" n="27">네게 청허(請許) 하옵소서</sent>
+<sent type="title3" lang="kor" page="29" n="28">25</sent>
+<sent type="main" lang="kor" page="29" n="29">내게 심의(甚疑) 잇사오니 이 의혹(疑惑)을 엇지릿가</sent>
+<sent type="main" lang="kor" page="29" n="30">정정(貞靜)하게 뭇겟스니 나를 허용(許容) 하옵소서”</sent>
+<sent type="title3" lang="kor" page="29" n="31">26</sent>
+<sent type="main" lang="kor" page="29" n="32">세존(世尊)셔 들으시고 수발타라(須跋陀羅) 부르시샤</sent>
+<sent type="main" lang="kor" page="29" n="33">즉시 의망(疑網) 제거(除去)하고 사제해탈(四諦解脫) 엇게 하다</sent>
+
+<sent type="title3" lang="kor" page="30" n="1">27</sent>
+<sent type="main" lang="kor" page="30" n="2">노철인(老哲人)이 크게 깃버 불제자(佛弟子)가 된 연후(然後)에</sent>
+<sent type="main" lang="kor" page="30" n="3">세존입멸(世尊入滅) 볼 수 업셔 몬저 입멸(入滅) 햇다 하네</sent>
+<sent type="title3" lang="kor" page="30" n="4">28</sent>
+<sent type="main" lang="kor" page="30" n="5">불(佛) 최후(最後) 구법자는 실(實)로 수발타라(須跋陀羅)로다</sent>
+<sent type="main" lang="kor" page="30" n="6">이로부터 세존(世尊)셔 아난(阿難)에게 이르샤대</sent>
+<sent type="title3" lang="kor" page="30" n="7">29</sent>
+<sent type="main" lang="kor" page="30" n="8">“너는 내가 멸도(滅度)한 후(後) 스승 업다 심려(心慮) 말고</sent>
+<sent type="main" lang="kor" page="30" n="9">네가 바라제목차(波羅提木叉)를 대도사(大導師)로 존봉(尊奉)하라”</sent>
+<sent type="title3" lang="kor" page="30" n="10">30</sent>
+<sent type="main" lang="kor" page="30" n="11">이로부터 사제법(四諦法)과 팔정도(八正道)와 계정혜(戒定慧)와</sent>
+<sent type="main" lang="kor" page="30" n="12">보시법(布施法)과 공양법(供養法)을 순순(諄諄)하게 설(說)하시고</sent>
+<sent type="title3" lang="kor" page="30" n="13">31</sent>
+<sent type="main" lang="kor" page="30" n="14">“너희들이 제법중(諸法中)에 의혹 해석(疑惑解釋) 못 햇거든</sent>
+<sent type="main" lang="kor" page="30" n="15">지금(至今) 어셔 속(速)히 뭇고 후회(後悔)하지 말지어다“</sent>
+<sent type="title3" lang="kor" page="30" n="16">32</sent>
+<sent type="main" lang="kor" page="30" n="17">최후(最後) 교회(敎誨) 하샤오대 “너들 비구(比丘) 드러보라</sent>
+<sent type="main" lang="kor" page="30" n="18">모든 법(法)은 무상(無常)이니 일심(一心)으로 위요(爲要)하라</sent>
+<sent type="title3" lang="kor" page="30" n="19">33</sent>
+<sent type="main" lang="kor" page="30" n="20">일체 세간 동부동법(動不動法) 변괴불안상(變壞不安相)이니라</sent>
+<sent type="main" lang="kor" page="30" n="21">너희들은 묵묵(黙黙)하라 내가 멸도(滅度) 하겟노라”</sent>
+<sent type="title3" lang="kor" page="30" n="22">34</sent>
+<sent type="main" lang="kor" page="30" n="23">최후교회(最後敎誨) 마치시고 단연시적(端然示寂) 하옵시니</sent>
+<sent type="main" lang="kor" page="30" n="24">는 정(正)히 서력기전(西曆紀前) 구백사십구년(九百四十九年)이라</sent>
+<sent type="title3" lang="kor" page="30" n="25">35</sent>
+<sent type="main" lang="kor" page="30" n="26">우리 대성석가문불(大聖釋迦文佛) 팔십세(八十歲)의 보수(寶壽)로써 대원적(大園寂)에 나가시니</sent>
+<sent type="main" lang="kor" page="30" n="27">도속교화(道俗敎化) 한량 업다</sent>
+<sent type="title3" lang="kor" page="30" n="28">36</sent>
+<sent type="main" lang="kor" page="30" n="29">수(數)가 업는 도속(道俗)들이 열반(涅槃)하신 보(報)를 듯고</sent>
+<sent type="main" lang="kor" page="30" n="30">재세은교(在世恩敎) 생각하며 멸후적료(滅後寂寥) 슯히 운다</sent>
+<sent type="title3" lang="kor" page="30" n="31">37</sent>
+<sent type="main" lang="kor" page="30" n="32">제읍 금지(啼泣禁止) 못 하고셔 슯흔 눈물 쥐어며</sent>
+<sent type="main" lang="kor" page="30-31" n="33">사방(四方)에셔 회집(會集)하야 장송의식(葬送儀式) 의논허라</sent><!--회집(會集)하야 ^ 장송의식(葬送儀式)-->
+
+<sent type="title3" lang="kor" page="31" n="1">38</sent>
+<sent type="main" lang="kor" page="31" n="2">구시나성(拘尸那城) 성주 말라 장의식(葬儀式)에 도독(都督)되야</sent>
+<sent type="main" lang="kor" page="31" n="3">우리 세존 귀(貴)한 금관(金棺) 천관사(天冠寺)에 봉안(奉安)하다</sent>
+<sent type="title3" lang="kor" page="31" n="4">39</sent>
+<sent type="main" lang="kor" page="31" n="5">세존 유언(世尊遺言) 하신 대로 향적(香積) 싸하 화장 준비(準備)</sent>
+<sent type="main" lang="kor" page="31" n="6">일칠일간(一七日間) 관전(棺前)에셔 송경(誦經)하며 애도(哀悼)로다</sent>
+<sent type="title3" lang="kor" page="31" n="7">40</sent>
+<sent type="main" lang="kor" page="31" n="8">장노 마하가섭존자(摩訶迦葉尊者) 오백 승중(五百僧衆) 한 가지로 파바성(波婆城)셔 출발(出發)하야</sent>
+<sent type="main" lang="kor" page="31" n="9">구시나(拘尸那)로 향(向)하다가</sent>
+<sent type="title3" lang="kor" page="31" n="10">41</sent>
+<sent type="main" lang="kor" page="31" n="11">도중(途中)에셔 바라문(波羅門)이 천화(天華) 놉히 빗처 들고</sent>
+<sent type="main" lang="kor" page="31" n="12">구시나(拘尸那)셔 음을 맛나 세존 입멸(世尊入滅) 기별(寄別) 듯고</sent>
+<sent type="title3" lang="kor" page="31" n="13">42</sent>
+<sent type="main" lang="kor" page="31" n="14">대중(大衆) 모다 경악(驚愕)하야 노방(路傍)에서 전도(顚到)하며</sent>
+<sent type="main" lang="kor" page="31" n="15">비탄(悲嘆)함이 한 업거늘 가섭파(迦葉波)가 위로(慰勞)하고</sent>
+<sent type="title3" lang="kor" page="31" n="16">43</sent>
+<sent type="main" lang="kor" page="31" n="17">구시나(拘尸那)로 급행(急行)하야 세존 유체(世尊遺軆) 다비(茶毘)하고</sent>
+<sent type="main" lang="kor" page="31" n="18">유골 정청(遺骨政廳) 봉안(奉安)한 후 다시 칠일 공양(七日供養) 집행</sent>
+<sent type="title3" lang="kor" page="31" n="19">44</sent>
+<sent type="main" lang="kor" page="31" n="20">우리 세존(世尊) 그 유골(遺骨)은 가장 친(親)히 인연(因緣) 매즌</sent>
+<sent type="main" lang="kor" page="31" n="21">팔개국(八個國)의 국왕(國王)들이 각각(各各) 양여(讓與) 닷토더라</sent>
+<sent type="title3" lang="kor" page="31" n="22">45</sent>
+<sent type="main" lang="kor" page="31" n="23">바라문 승도(僧徒) 노나(盧那)가 평등(平等)하게 팔분(八分)하야</sent>
+<sent type="main" lang="kor" page="31" n="24">각 기일(各其一)을 분배(分配)키로 중론(衆論) 결정(決定) 식혓더라</sent>
+<sent type="title3" lang="kor" page="31" n="25">46</sent>
+<sent type="main" lang="kor" page="31" n="26">국왕(國王)들의 동의(同意) 엇어 제일분을 구시나주(拘尸那主)</sent>
+<sent type="main" lang="kor" page="31" n="27">제이분은 파바성주(波婆城主) 제삼분은 아라전읍(阿羅縳邑)</sent>
+<sent type="title3" lang="kor" page="31" n="28">47</sent>
+<sent type="main" lang="kor" page="31" n="29">제사분은 라마읍(羅摩邑)에 제오분은 폐솔노(吠率奴)에</sent>
+<sent type="main" lang="kor" page="31" n="30">제육분은 가비라성(迦毘羅城) 제석자(諸釋子)에 분배(分配)하고</sent>
+<sent type="title3" lang="kor" page="31" n="31">48</sent>
+<sent type="main" lang="kor" page="31-32" n="32">제칠분은 폐사리주(吠沙離主) 율첩비왕(栗呫毘王) 영수(領受)하고</sent><!--폐사리주(吠沙離主) ^ 율첩비왕(栗呫毘王)-->
+
+<sent type="main" lang="kor" page="32" n="1">제팔분을 아사세왕(阿闍世王) 사자우행(使者雨行) 영수(領受)하다</sent>
+<sent type="title3" lang="kor" page="32" n="2">49</sent>
+<sent type="main" lang="kor" page="32" n="3">비발라(毘鉢羅)의 마납바(摩納婆)는 화장잔회(火葬殘灰) 취(取)해 가고</sent>
+<sent type="main" lang="kor" page="32" n="4">분배자(分配者)의 도노나(徒盧那)는 병탑(甁塔) 엇어 가저갓다</sent>
+<sent type="title3" lang="kor" page="32" n="5">50</sent>
+<sent type="main" lang="kor" page="32" n="6">일천 팔백 구십칠 년 인도(印度) 니볼 경계(境界)에셔 불골석관(佛骨石棺) 발견하고</sent>
+<sent type="main" lang="kor" page="32" n="7">그게 기록(記錄) 참고(參考)하야</sent>
+<sent type="title3" lang="kor" page="32" n="8">51</sent>
+<sent type="main" lang="kor" page="32" n="9">그는 당시(當時) 제육분(第六分)을 제석자(諸釋子) 분배(分配)하든 불골(佛骨)됨을 알앗나니</sent>
+<sent type="main" lang="kor" page="32" n="10">세존 면영(世尊面影) 은연(隱然)하다</sent>
+<sent type="title2" lang="kor" page="32" n="11">제9장 총결</sent>
+<sent type="title3" lang="kor" page="32" n="12">1</sent>
+<sent type="main" lang="kor" page="32" n="13">상래수장(上來數章) 분(分)하여셔</sent>
+<sent type="main" lang="kor" page="32" n="14">우리 석존일대중(釋尊一代中)에 그 행적(行蹟)을 약술(略述)하니</sent>
+<sent type="main" lang="kor" page="32" n="15">깃븜으로 창가(唱歌)하라</sent>
+<sent type="title3" lang="kor" page="32" n="16">2</sent>
+<sent type="main" lang="kor" page="32" n="17">대개(大槪) 우리 사유(思惟)컨대 대성(大聖) 석가모니 세존(世尊)</sent>
+<sent type="main" lang="kor" page="32" n="18">삼세 초절(超絶)하신 지안(智眼) 시방 무애(無碍) 변재(辯才)로써</sent>
+<sent type="title3" lang="kor" page="32" n="19">3</sent>
+<sent type="main" lang="kor" page="32" n="20">고(古)와 금(今)에 관절(冠絶)하는 진리대도(眞理大道) 현시(顯示)하고</sent>
+<sent type="main" lang="kor" page="32" n="21">사십구년(四十九年) 오랜 동안 웅변 도도(雄辯滔滔) 횡설수설</sent>
+<sent type="title3" lang="kor" page="32" n="22">4</sent>
+<sent type="main" lang="kor" page="32" n="23">근기(根機) 라 개도(開導)함에 편하신 날 업섯스며</sent>
+<sent type="main" lang="kor" page="32" n="24">현우 귀천(賢愚貴賤) 분별(分別) 업시 불(佛)의 교화(敎化) 입엇더라</sent>
+<sent type="title3" lang="kor" page="32" n="25">5</sent>
+<sent type="main" lang="kor" page="32" n="26">대성 원적(大聖圓寂) 하신 후(後)도 친설(親說)하신 그 유교(遺敎)는</sent>
+<sent type="main" lang="kor" page="32" n="27">칠천여권(七千餘卷) 경전(經典)되야 이후(爾後) 이천 구백여 년</sent>
+<sent type="title3" lang="kor" page="32" n="28">6</sent>
+<sent type="main" lang="kor" page="32" n="29">동양(東洋) 오억만(五億萬) 인구의 신앙 사상(信仰思想) 습관 지배(支配)</sent>
+<sent type="main" lang="kor" page="32" n="30">석가교(釋迦敎)가 유연(油然)하게 만고 문명(萬古文明) 원천(源泉)일세</sent>
+<sent type="title3" lang="kor" page="33" n="1">7</sent>
+<sent type="main" lang="kor" page="33" n="2">대개(大槪) 세계 각국(各國)에는 각 종교(各宗敎)가 만타 하나</sent>
+<sent type="main" lang="kor" page="33" n="3">불교가치 수다인류(數多人類) 감화(感化)하는 종교(宗敎) 업다</sent>
+<sent type="title3" lang="kor" page="33" n="4">8</sent>
+<sent type="main" lang="kor" page="33" n="5">그러하면 석가세존(釋迦世尊) 세계 개벽(世界開闢)한 이래로</sent>
+<sent type="main" lang="kor" page="33" n="6">제일 위인(第一偉人)이라 함이 엇지 불가(不可) 할부냐</sent>
+</pages>
+</doc>

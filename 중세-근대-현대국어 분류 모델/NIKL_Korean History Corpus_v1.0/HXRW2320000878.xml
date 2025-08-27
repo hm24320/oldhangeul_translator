@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">월인석보</title>
+<title lang="chi">月印釋譜</title>
+<volume n="9"/>
+<author></author>
+<date>1459</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>세종대왕기념사업회 재영인본</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date></date>
+<respStmt>
+<resp>입력자</resp><name>박지용</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name></name>
+</respStmt>
+</revisionDesc>
+</teiHeader><!--제1~4장 낙장. 제1장에 제목 보사. 제4장 극히 일부 남아 있음.-->
+
+<sent type="title" lang="chi" page="01a" n="1">月印千江之曲第九</sent><!--보사-->
+
+<sent type="title" lang="chi" page="01a" n="2">釋譜詳節第九</sent><!--보사-->
+<sent type="poem_num" lang="chi" page="01a" n="3">其二百五十一</sent><!--보사. 곡차 입력에는 lang 항목 삭제함.-->
+
+<sent type="poem" lang="kor" page="04a" n="1"> 야 니시니</sent>
+<sent type="poem_num" lang="chi" page="04a" n="2">□□□□□九</sent><!--□□□□□는 '其二百五十'으로 추정--><!--중간 부분 없음-->
+
+<sent type="poem_num" lang="chi" page="04b" n="1">其二百六十</sent><!--보사--><!--월곡 제260수의 앞 부분이 누락되었음-->
+<sent type="poem" lang="kor" page="04b-5a" n="2">藥師十二願에 淨瑠璃 이러커시니 往生快樂이 달옴 이시리가</sent><!--瑠^璃-->
+
+<sent type="main" lang="chi" page="05a" n="1">一時薄伽梵 遊化諸國</sent><!--本藥:257b04(54)-->
+<sent type="main" lang="kor" page="05a" n="1">부톄 도녀 諸國 敎化샤</sent>
+<sent type="anno" lang="kor" page="05a" n="2">諸國 여러 나라히라</sent>
+<sent type="main" lang="chi" page="05a" n="3">至廣嚴城 住樂音樹下 與大苾芻衆八千人</sent><!--本藥:257b04(54)-->
+<sent type="main" lang="kor" page="05a" n="3">廣嚴城에 가샤 樂音樹 아래 겨샤 굴근 比丘 八千人과  잇더시니</sent>
+<sent type="main" lang="chi" page="05a-5b" n="4">俱菩薩摩訶薩三萬六千 及國王大臣婆羅門居士</sent><!--本藥:257b04(54)-->
+<sent type="main" lang="kor" page="05a-5b" n="4">菩薩摩訶薩 三萬六千과 國王과 大臣과 婆羅門과 居士와</sent><!--六^千-->
+
+<sent type="anno" lang="kor" page="05b" n="1">居는 살씨니 일훔난 □ 즐겨 닐어 淸淨으로 제 살씨라</sent>
+<sent type="anno" lang="kor" page="05b" n="2"> 쳔 만히 두고 가며 사 사미라</sent>
+<sent type="main" lang="chi" page="05b" n="3">天龍夜叉人非人等無量大衆恭敬圍遶</sent><!--本藥:257b04(54)-->
+<sent type="main" lang="kor" page="05b" n="3">天 龍 夜叉 人 非人 等 無量大衆이 恭敬야 圍繞거늘</sent>
+<sent type="anno" lang="kor" page="05b" n="4">人 非人 사과 사 아닌 것과 논 마리니 八部 어울워 니르니라</sent>
+<sent type="main" lang="kor" page="05b-6a" n="5">而爲說法。</sent><!--本藥:257b04(54)-->
+<sent type="main" lang="kor" page="05b-6a" n="5">爲야 說法더시니</sent><!--爲^-->
+
+<sent type="main" lang="chi" page="06a" n="1">爾時 曼殊室利法王子 承佛威神 從座而起 偏袒一肩 右膝著地 向薄伽梵 曲躬合掌 白言世尊</sent><!--本藥:257b23(72)-->
+<sent type="main" lang="kor" page="06a" n="1">그 文殊師利 世尊 샤</sent>
+<sent type="main" lang="chi" page="06a" n="2">唯願演說如是相類諸佛名號 及本大願殊勝功德</sent><!--本藥:257b23(72)-->
+<sent type="main" lang="kor" page="06a" n="2">부텻 일훔과 本來ᄉ 큰 願과  됴신 功德을 불어 니샤</sent>
+<sent type="main" lang="chi" page="06a" n="3">令諸聞者業障消除</sent><!--本藥:257b23(72)-->
+<sent type="main" lang="kor" page="06a" n="3">듣 사 業障이 스러디게 야</sent>
+<sent type="anno" lang="chi" page="06a" n="4">없음</sent>
+<sent type="anno" lang="kor" page="06a" n="4">障 마씨니 聖道와 聖道 方便을 마씨니 業障과 煩惱障과 報障괘라</sent><!--'業障과'의 '과' 불분명-->
+<sent type="anno" lang="chi" page="06a" n="5">業障者五無間業。</sent><!--이하 관련 저경 출전: J21nB109_001 大藏一覽 第1卷 http://tripitaka.cbeta.org/J21nB109_001 -->
+<sent type="anno" lang="kor" page="06a" n="5">業障 五無間業이니</sent>
+<sent type="anno" lang="chi" page="06a-6b" n="6">所謂殺母。殺父。殺阿羅漢。破僧。惡心出佛身血。作此業已。</sent>
+<sent type="anno" lang="kor" page="06a-6b" n="6">□□ 주기거나 아비 주기거나 阿羅漢 주기거나 을 헐어나 부텻 모매 피 내어나 욘 業이라</sent><!--'業障'의 '業' 불분명--><!--□ ^ 주-->
+
+<sent type="anno" lang="chi" page="06b" n="1">必定次生無間地獄。殺母殺父。棄背恩義故。</sent>
+<sent type="anno" lang="kor" page="06b" n="1">웃 둘흔 恩義 背叛혼 젼오</sent>
+<sent type="anno" lang="chi" page="06b" n="2">其餘三種。壞福田故。</sent>
+<sent type="anno" lang="kor" page="06b" n="2">세 福田을 허론 젼라</sent>
+<sent type="anno" lang="chi" page="06b" n="3">煩惱障者。謂勤煩惱。及利煩惱。</sent>
+<sent type="anno" lang="kor" page="06b" n="3">煩惱障 勤煩惱와 利煩惱왜니</sent>
+<sent type="anno" lang="chi" page="06b" n="4">勤煩惱者。數行煩惱。</sent>
+<sent type="anno" lang="kor" page="06b" n="4">勤煩惱 조 煩惱씨오</sent>
+<sent type="anno" lang="chi" page="06b" n="5">利煩惱者。增上煩惱現行煩惱。名之為障。</sent>
+<sent type="anno" lang="kor" page="06b" n="5">利煩惱 더어 가 煩惱ᅵ라</sent>
+<sent type="anno" lang="chi" page="06b" n="6">報障者。隨所住報。非聖道器。報過惡故。(都字函第二卷)。</sent>
+<sent type="anno" lang="kor" page="06b" n="6">報障 住 果報마다 聖道앳 器具 아닐씨니 果報ᅵ 구즌 젼라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="06b" n="7">없음</sent>
+<sent type="anno" lang="kor" page="06b" n="7">煩惱障 내라 호 자보미오 所知障 法이라 호 자씨니</sent>
+<sent type="anno" lang="chi" page="06b-7a" n="8">由煩惱障障心心不解脫。</sent><!--大正新脩大藏經　第33冊 No.1701 金剛般若經疏論纂要 第1卷 http://tripitaka.cbeta.org/mobile/index.php?index=T33n1701_001 -->
+<sent type="anno" lang="kor" page="06b-7a" n="8">煩惱障이  려 미 解脫 몯야</sent><!--脫 ^ 몯-->
+
+<sent type="anno" lang="chi" page="07a" n="1">造業受生輪轉五道。</sent>
+<sent type="anno" lang="kor" page="07a" n="1">業을 지 生 受야 다 길헤 輪廻며</sent>
+<sent type="anno" lang="chi" page="07a" n="2">由所知障障慧慧不解脫。</sent>
+<sent type="anno" lang="kor" page="07a" n="2">所知障이 慧 려 慧 解脫 몯야</sent>
+<sent type="anno" lang="chi" page="07a" n="3">不了自心。不達諸法性相</sent>
+<sent type="anno" lang="kor" page="07a" n="3">제   몯 알며 諸法의 性相  몯 아라</sent><!--'제' 불분명-->
+<sent type="anno" lang="chi" page="07a" n="4">縱出三界亦滯二乘。不得成佛故名障也。</sent>
+<sent type="anno" lang="kor" page="07a" n="4">비록 三界예 나고도  二乘에 기리 成佛 몯 障이라 니라</sent>
+<sent type="anno" lang="chi" page="07a" n="5">二執若除二障隨斷。為除二執故說此經。二為遮斷種現二疑故。</sent>
+<sent type="anno" lang="kor" page="07a" n="5">나와 法과 두 執著 덜면 두 障이 조차 그츠리라</sent>
+<sent type="main" lang="chi" page="07a" n="6">像法轉時</sent><!--本藥:257b23(72)-->
+<sent type="main" lang="kor" page="07a" n="6">像法이 轉 時節애</sent>
+<sent type="anno" lang="chi" page="07a" n="7">없음</sent>
+<sent type="anno" lang="kor" page="07a" n="7">法이 처 盛히 行 저긔 사미 能히 現量로 體得야 아로미 正法이오</sent>
+<sent type="anno" lang="chi" page="07a-7b" n="8">없음</sent>
+<sent type="anno" lang="kor" page="07a-7b" n="8">聖人 업거신 디 오라면 사미 오직 比量로브터 아로미 像法이라</sent><!--比^量-->
+
+<sent type="anno" lang="chi" page="07b" n="1">없음</sent>
+<sent type="anno" lang="kor" page="07b" n="1">末法은 쇽졀업시 似量이라 實 업스니라</sent>
+<sent type="anno" lang="chi" page="07b" n="2">量者。如度量升斗量物知定也。</sent><!--이하 관련 저경 출전: T48n2015_001 禪源諸詮集都序 第1卷 http://tripitaka.cbeta.org/T48n2015_001 -->
+<sent type="anno" lang="kor" page="07b" n="2">量 度量升斗로 物을 量度야 아라 一定호미 니</sent>
+<sent type="anno2" lang="kor" page="07b" n="3">度 기리 견주 거시오 量 하마 져구믈 되 거시라</sent>
+<sent type="anno2" lang="kor" page="07b" n="4">升은 되오 斗는 마리라</sent>
+<sent type="anno2" lang="kor" page="07b" n="5">量度 혜아릴씨라</sent>
+<sent type="anno" lang="chi" page="07b" n="6">比量者。以因由譬喻比度也。如遠見煙必知有火。</sent>
+<sent type="anno" lang="kor" page="07b" n="6">比量 因由譬喩로 比度씨니 미리  보고 블 잇  아로미 니</sent>
+<sent type="anno" lang="chi" page="07b" n="7">雖不見火亦非虛妄。</sent>
+<sent type="anno" lang="kor" page="07b" n="7">비록 브를 몯 보아도 거츠디 아니씨라</sent>
+
+<sent type="anno2" lang="kor" page="08a" n="1">因由는 브틀씨라</sent>
+<sent type="anno2" lang="kor" page="08a" n="2">比度 類 가벼 혜아릴씨라</sent>
+<sent type="anno" lang="chi" page="08a" n="3">現量者親自現見。不假推度。自然定也。</sent>
+<sent type="anno" lang="kor" page="08a" n="3">現量 親히 제 現야 뵈야 推尋야 혜아리디 아니야 自然히 一定씨라</sent>
+<sent type="anno" lang="chi" page="08a" n="4">佛言量者。以諸經為定也。</sent>
+<sent type="anno" lang="kor" page="08a" n="4">佛言量 諸經으로 一定씨라</sent>
+<sent type="anno" lang="chi" page="08a" n="5">없음</sent>
+<sent type="anno" lang="kor" page="08a" n="5">似 씨라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="08a" n="6">現量者。現。謂顯現。</sent><!--이하 관련 저경 출전: 大正新脩大藏經　第48冊 No.2016 宗鏡錄 第 49 卷 http://tripitaka.cbeta.org/mobile/index.php?index=T48n2016_049 -->
+<sent type="anno" lang="kor" page="08a" n="6">現量 現은 顯現씨니</sent>
+<sent type="anno" lang="chi" page="08a" n="7">即分明證境。不帶名言。</sent>
+<sent type="anno" lang="kor" page="08a" n="7">곧 分明히 境을 證야 名言을 가지디 아니야</sent>
+<sent type="anno" lang="chi" page="08a" n="8">無籌度心。親得法體。</sent>
+<sent type="anno" lang="kor" page="08a" n="8">혜아룜 업슨 로 親히 法體 得야</sent>
+<sent type="anno" lang="chi" page="08a" n="9">離妄分別。名之為現。</sent>
+<sent type="anno" lang="kor" page="08a" n="9">거츤 오 여흴 씨 일후미 現이오</sent><!--'오'의 '오' 불분명-->
+<sent type="anno" lang="chi" page="08a" n="10">言量者。量度。是揩定之義。</sent>
+<sent type="anno" lang="kor" page="08a" n="10">量□□□오 量度호미 一定 □□니</sent>
+<sent type="anno" lang="chi" page="08a-8b" n="11">謂心於境上度量揩定法之自相。不錯謬故。名量。</sent>
+<sent type="anno" lang="kor" page="08a-8b" n="11">미 境에 量度야 □□의 제 相 一定야 그르디 아니 일후미 量이라</sent><!--'제 相'의 '', '그르디 아니'의 '디', '아' 불분명--><!--□^의-->
+
+<sent type="anno" lang="chi" page="08b" n="1">比量者。比謂比類。量。即量度。</sent>
+<sent type="anno" lang="kor" page="08b" n="1">比量 比 類 가빌씨오 量 量度씨니</sent>
+<sent type="anno" lang="chi" page="08b" n="2">以比類量度而知有故。名為比量。</sent>
+<sent type="anno" lang="kor" page="08b" n="2">類 가벼 量度야 잇  알 일후미 比量이라</sent><!--'比量'의 '' 불분명-->
+<sent type="anno" lang="chi" page="08b" n="3">非量者。謂心緣境時。於境錯亂。</sent>
+<sent type="anno" lang="kor" page="08b" n="3">非量 미 境을 緣 저긔 境에 錯亂야</sent>
+<sent type="anno" lang="chi" page="08b" n="4">虛妄分別。不能正知。</sent>
+<sent type="anno" lang="kor" page="08b" n="4">거츠리 야 正히 아디 몯야</sent>
+<sent type="anno" lang="chi" page="08b" n="5">境不稱心。名為非量。</sent>
+<sent type="anno" lang="kor" page="08b" n="5">境이 매 맛디 몯씨 일후미 非量이라</sent><!--'맛디 몯씨'의 '씨'는 ''의 오각인 듯-->
+<sent type="anno" lang="chi" page="08b" n="6">없음</sent>
+<sent type="anno" lang="kor" page="08b" n="6">錯亂 어즈러씨라</sent>
+<sent type="main" lang="chi" page="08b" n="7">諸有情故。</sent><!--本藥:257b23(72)-->
+<sent type="main" lang="kor" page="08b" n="7">有情 利樂긔 코져 노다</sent>
+<sent type="anno" lang="kor" page="08b" n="8">利樂 됴코 즐거씨라</sent>
+<sent type="main" lang="chi" page="08b-9a" n="9">爾時世尊讚曼殊室利童子言善哉善哉曼殊室利</sent><!--本藥:257c19(72)-->
+<sent type="main" lang="kor" page="08b-9a" n="9">世尊이 니샤 됴타 文殊師利여</sent><!--^샤-->
+
+<sent type="main" lang="chi" page="09a" n="1">汝以大悲勸請我說諸佛名號本願功德爲拔業障所纏有情利益安樂像法轉時諸有情故汝今諦聽極善思惟</sent>
+<sent type="main" lang="kor" page="09a" n="1">네 大悲로 니고라 請니 子細히 드러 이대 라</sent>
+<sent type="main" lang="chi" page="09a" n="2">當為汝說曼殊室利言唯然願說我等樂聞。</sent><!--本藥:257c19(72)-->
+<sent type="main" lang="kor" page="09a" n="2">너 爲야 닐오리라</sent>
+<sent type="main" lang="chi" page="09a" n="3">佛告曼殊室利 東方去此過十殑伽沙等 佛土 有世界名淨琉璃</sent><!--本藥:257c28(54)-->
+<sent type="main" lang="kor" page="09a" n="3">東方로 이셔 버로미 十恒河沙等 佛土 디나가 世界 이쇼 일후미 淨瑠璃오</sent>
+<sent type="anno" lang="kor" page="09a" n="4">淨은 조씨라</sent>
+<sent type="main" lang="chi" page="09a-9b" n="5">佛號藥師琉璃光如來 應正等覺 明行圓滿 善逝世間解 無上丈夫 調御士 天人師佛薄伽梵。</sent><!--本藥:257c28(54)-->
+<sent type="main" lang="kor" page="09a-9b" n="5">부텻 일후믄 藥師瑠璃光如來 應供 正遍知 明行足 善逝 世間解 無上士 調御丈夫 天人師 佛 世尊이시니</sent><!--후^믄-->
+
+<sent type="anno" lang="chi" page="09b" n="1">金剛經云。無所從來。亦無所去。故名如來。此以法身釋。</sent><!--이하 관련 저경 출전: T54n2131_001 翻譯名義集 第1卷 http://tripitaka.cbeta.org/zh-cn/T54n2131_001 -->
+<sent type="anno" lang="kor" page="09b" n="1">브터 옴 업스며  감 업슬 일후믈 如來라 샤 法身로 사기시니라</sent>
+<sent type="anno" lang="chi" page="09b" n="2">轉法輪論云。第一義諦名如。正覺名來。此以報身釋。</sent>
+<sent type="anno" lang="kor" page="09b" n="2">第一 義諦 如ᅵ오 正覺이 來라 호 報身로 사기니라</sent>
+<sent type="anno" lang="chi" page="09b-10a" n="3">成實論云。乘如實道。來成正覺。故名如來。此約應身釋。</sent>
+<sent type="anno" lang="kor" page="09b-10a" n="3">實다 道 샤 와 正覺 일우실 如來시다 호 應身로 사기니라</sent><!--道^-->
+
+<sent type="anno" lang="chi" page="10a" n="1">摩訶衍云。所言應者隨順根機而不相違。</sent>
+<sent type="anno" lang="kor" page="10a" n="1">應은 맛씨니 根機 조차 서르 다디 아니샤</sent>
+<sent type="anno" lang="chi" page="10a" n="2">隨時隨處隨趣出現。非安樂相故名為應。而此應身周匝千華上復現千釋迦。一華百億國。一國一釋迦。故召釋迦牟尼。名千百億化身也。</sent>
+<sent type="anno" lang="kor" page="10a" n="2">時節을 조시며 고 조시며 趣를 조차 나 現실씨니 이 化身이라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="10a" n="3">然則如者。真性之謂也。</sent><!--이하 관련 저경 출전: X24n0468_001 金剛經註解 第1卷 http://tripitaka.cbeta.org/X24n0468_001 -->
+<sent type="anno" lang="kor" page="10a" n="3">如는 眞性을 니니</sent>
+<sent type="anno" lang="chi" page="10a" n="4">真性所以謂之如者。以其明則照無量世界而無所蔽。慧則通無量劫事而無所礙。</sent>
+<sent type="anno" lang="kor" page="10a" n="4">眞性을 如ᅵ라 호 고미 無量 世界 비취여 린  업고 慧 無量 劫 이 차 마  업서</sent>
+<sent type="anno" lang="chi" page="10a" n="5">能變現為一切眾生而無所不可。是誠能自如者也。</sent>
+<sent type="anno" lang="kor" page="10a" n="5">能히 變化로 一切 衆生이 외요 몯  업수미 眞實로 自如호미라</sent>
+<sent type="anno" lang="chi" page="10a-10b" n="6">其謂之來者。以真性能隨所而來現。故謂之如來。</sent>
+<sent type="anno" lang="kor" page="10a-10b" n="6">來라 호 眞性이 能히 所 조차 와 現실 如來시다 니라</sent><!--現^-->
+
+<sent type="anno" lang="chi" page="10b" n="1">真如本無去來。而謂之來者。蓋謂應現於此。而謂之來也。</sent>
+<sent type="anno" lang="kor" page="10b" n="1">眞如ᅵ 本來 가며 오미 업거늘 來라 호 이긔 應야 現실니</sent>
+<sent type="anno" lang="chi" page="10b" n="2">若人至誠禱告。則有感應。</sent>
+<sent type="anno" lang="kor" page="10b" n="2">아뫼나 至極 精誠으로 비면 感應이 겨시고</sent>
+<sent type="anno" lang="chi" page="10b" n="3">若欲為一切眾生設化。則現色身。皆其來者也。</sent>
+<sent type="anno" lang="kor" page="10b" n="3">一切 衆生 爲야 敎化 펴려 시면 色身 現샤미 다 來라</sent>
+<sent type="anno" lang="chi" page="10b" n="4">此佛所以謂之如來。然則言如如者。乃真性之本體也。言來者。乃真性之應用也。</sent><!--이하 내용: 是則如來二字。兼佛之體用而言之矣。此經所以常言如來也。梵語菩薩。本云菩提薩埵。-->
+<sent type="anno" lang="kor" page="10b" n="4">이러면 如如는 眞性의 根源 體오 來 眞性의 應시논 用이라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="10b" n="5">應者應供也。佛結使除盡得一切智慧。應受一切天地眾生供養故曰應也。</sent><!--관련 저경 출전: 大正新脩大藏經　第40冊 No.1819 無量壽經優婆提舍願生偈註 第 2 卷 http://tripitaka.cbeta.org/mobile/index.php?index=T40n1819_002 -->
+<sent type="anno" lang="kor" page="10b" n="5">應은 맛씨니 一切 天地 衆生 供養 바샤미 맛시다 혼 마리라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="10b" n="6">正遍覺。謂言法無差。故言正。</sent><!--이하 관련 저경 출전: 嘉興大藏經　第30冊 No.B260 大懺悔文略解 第 1 卷 http://tripitaka.cbeta.org/mobile/index.php?index=J30nB260_001 -->
+<sent type="anno" lang="kor" page="10b" n="6">法이 그른  업수미 正이오</sent>
+<sent type="anno" lang="chi" page="10b" n="7">智無不周。故言遍。</sent>
+<sent type="anno" lang="kor" page="10b" n="7">智 몯   업수미 遍이오</sent>
+
+<sent type="anno" lang="chi" page="11a" n="1">出生死夢。故言覺也。</sent>
+<sent type="anno" lang="kor" page="11a" n="1">生死ᄉ 메 나미 覺이라</sent>
+<sent type="anno" lang="chi" page="11a" n="2">正遍知。即般若德。真諦也。</sent>
+<sent type="anno" lang="kor" page="11a" n="2">正遍知 곧 般若ᅵ니 眞諦오</sent>
+<sent type="anno" lang="chi" page="11a" n="3">應供。即解脫德。俗諦也。</sent>
+<sent type="anno" lang="kor" page="11a" n="3">應供 곧 解脫이니 俗諦오</sent>
+<sent type="anno" lang="chi" page="11a" n="4">如來即法身德。中諦也。</sent>
+<sent type="anno" lang="kor" page="11a" n="4">如來 곧 法身이니 中諦라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="11a" n="5">三乘雖得三明。明不滿足。佛悉滿足。是為異也。</sent><!--출전: T54n2131_001 翻譯名義集 第1卷 -->
+<sent type="anno" lang="kor" page="11a" n="5">三明을 三乘이 비록 得야도 足디 몯거니와 부텨는 다 足시니라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="11a" n="6">萬行真明曰明行足</sent><!--출전: 永樂北藏　第184冊 No.1617 妙法蓮華經要解 第 2 卷 http://tripitaka.cbeta.org/mobile/index.php?index=P184n1617_002 -->
+<sent type="anno" lang="kor" page="11a" n="6">萬行이 眞實로 씨 明行足이라</sent><!--'씨'의 '씨'는 ''의 오각인 듯-->
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="11a" n="7">修伽陀。秦言好去。大論云。於種種諸深三摩提無量智慧中去。或名修伽度。此云善逝。</sent><!--이하 관련 저경 출전: T54n2131_001 翻譯名義集 第1卷-->
+<sent type="anno" lang="kor" page="11a" n="7">善逝 됴히 갈씨니 種種앳 기픈 三摩提 無量 智慧ᄉ 가온 가실씨라</sent>
+<sent type="anno" lang="chi" page="11a" n="8">路伽憊。大論云。是名知世間。知二種世間。一眾生。二非眾生。及如實相。</sent>
+<sent type="anno" lang="kor" page="11a" n="8">世間解 두 가짓 世間 알씨니 나 衆生이오 나 非衆生과 如實相괘니</sent>
+<sent type="anno" lang="chi" page="11a-11b" n="9">知世間果。世間因。出世間滅。出世間道。</sent>
+<sent type="anno" lang="kor" page="11a-11b" n="9">世間果와 世間因과 出世間滅와 出世間道 아실씨라</sent><!--世^間-->
+<mark type="section_begin">○</mark>
+
+<sent type="anno" lang="chi" page="11b" n="1">大經云。有所斷者。名有上士。無所斷者名無上士。</sent>
+<sent type="anno" lang="kor" page="11b" n="1">그 것 잇니 有上師ᅵ오 그 것 업스시니 無上師ᅵ라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="11b" n="2">없음</sent>
+<sent type="anno" lang="kor" page="11b" n="2">調御는 질드릴씨오 丈夫는 남지니니</sent>
+<sent type="anno" lang="chi" page="11b" n="3">大論云。佛以大慈大智故。有時軟美語。有時苦切語。有時雜語。</sent>
+<sent type="anno" lang="kor" page="11b" n="3">부톄 大慈大智로 보라 이든 말도 시며 알 고 말도 시며 雜말도 샤</sent>
+<sent type="anno" lang="chi" page="11b" n="4">令不失道。</sent>
+<sent type="anno" lang="kor" page="11b" n="4">道理 일티 아니케 시니</sent>
+<sent type="anno" lang="chi" page="11b" n="5">若言佛為女人調御師。為不尊重。若說丈夫一切都攝。</sent>
+<sent type="anno" lang="kor" page="11b" n="5">부텨를 女人調御師ᅵ시다 면 尊重티 몯시릴 丈夫를 니르니 一切 다 들리라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="11b-12a" n="6">化物不暴挺然不屈曰調御丈夫。</sent><!--출전: X30n0602_001 法華經要解 第1卷 http://tripitaka.cbeta.org/X30n0602_001 -->
+<sent type="anno" lang="kor" page="11b-12a" n="6">萬物을 敎化샤 모디디 아니시며 외로 나샤 구피디 아니실씨 調御丈夫ᅵ라</sent><!--'씨'는 ''의 오각인 듯--><!--디 ^ 아-->
+<mark type="section_begin">○</mark>
+
+<sent type="anno" lang="chi" page="12a" n="1">없음</sent>
+<sent type="anno" lang="kor" page="12a" n="1">三界예 法이실 天人師ᅵ라 니라</sent>
+<sent type="anno" lang="chi" page="12a" n="2">佛陀。大論云。秦言知者。</sent><!--이하 관련 저경 출전: T54n2131_001 翻譯名義集 第1卷 -->
+<sent type="anno" lang="kor" page="12a" n="2">佛은 知者ᅵ라 혼 마리니 知者 아 사미라 혼 디라</sent>
+<sent type="anno" lang="chi" page="12a" n="3">知過去未來現在眾生非眾生數。有常無常等一切諸法。菩提樹下了了覺知。故名佛陀。</sent>
+<sent type="anno" lang="kor" page="12a" n="3">過去 未來 現在옛 衆生과 衆生 아닌 數와 有常과 無常 等 一切 諸法을  아실 佛이시다 니라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="12a" n="4">漢言覺也。覺具三義。</sent>
+<sent type="anno" lang="kor" page="12a" n="4">佛은 覺이라 혼 마리니 覺이 세 가짓 디 니</sent>
+<sent type="anno" lang="chi" page="12a" n="5">一者自覺。悟性真常。了惑虛妄。</sent>
+<sent type="anno" lang="kor" page="12a" n="5">나 自覺이니 性이 眞常  아시고 惑이 虛妄  아실씨라</sent>
+<sent type="anno" lang="chi" page="12a-12b" n="6">二者覺他。運無緣慈度有情界。</sent>
+<sent type="anno" lang="kor" page="12a-12b" n="6">둘흔 覺他ᅵ니 無緣慈 뮈워 有情世界 濟渡실씨라</sent><!--界^-->
+
+<sent type="anno" lang="chi" page="12b" n="1">三者覺行圓滿。窮原極底。行滿果圓故。</sent>
+<sent type="anno" lang="kor" page="12b" n="1">세 覺行圓滿이니 根源을 다며 미틔 다라 行이 차 果ᅵ 두려실씨라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="12b" n="2">華嚴云。一切諸法性無生。亦無滅。奇哉大導師。自覺能覺他。</sent>
+<sent type="anno" lang="kor" page="12b" n="2">一切 諸法性이 無生亦無滅니 奇哉 大導師ᅵ 自覺시고 能覺他시놋다</sent>
+<sent type="anno2" lang="kor" page="12b" n="3">奇哉 奇特다 혼 마리라</sent>
+<sent type="anno2" lang="kor" page="12b" n="4">導 길 자씨니 大導師 크신 길 앗외시 스스라 혼 마리라</sent>
+<sent type="anno" lang="chi" page="12b" n="5">此云知者覺者。對迷名知。對愚說覺。</sent>
+<sent type="anno" lang="kor" page="12b" n="5">知 모니 對야 니고 覺 어리니 對야 니니라</sent>
+<mark type="section_begin">○</mark>
+
+<sent type="anno" lang="chi" page="13a" n="1">佛地論云。具一切智一切種智。</sent>
+<sent type="anno" lang="kor" page="13a" n="1">一切智와 一切 種智 시며</sent>
+<sent type="anno2" lang="kor" page="13a" n="2">一切智 모도아 니고 一切 種智 各別히 니니라</sent>
+<sent type="anno" lang="chi" page="13a" n="3">離煩惱障及所知障。於一切法一切種相。能自開覺。</sent>
+<sent type="anno" lang="kor" page="13a" n="3">煩惱障과 所知障 여희샤 一切 法과 一切 種相애 能히 걔 아시고</sent>
+<sent type="anno" lang="chi" page="13a" n="4">亦能開覺一切有情。如睡夢覺。如蓮華開。故名為佛。</sent>
+<sent type="anno" lang="kor" page="13a" n="4"> 能히 一切 有情을 여러 알에 샤미  다가  며 蓮ᄉ고지 여 실 佛이시다 니라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="13a" n="5">佛者何也。蓋窮理盡性。大覺之稱也。</sent><!--관련 저경 출전: T48n2016_023 宗鏡錄 第23卷 http://tripitaka.cbeta.org/T48n2016_023 -->
+<sent type="anno" lang="kor" page="13a" n="5">佛은 理 다며 性을 다신 大覺 니</sent>
+<sent type="anno" lang="chi" page="13a-13b" n="6">없음</sent>
+<sent type="anno" lang="kor" page="13a-13b" n="6">그 道ᅵ 뷔여 기퍼 녯 境界예 微妙히 그츠실</sent><!--'기퍼'의 '퍼'가 불분명--><!--퍼 ^ -->
+
+<sent type="anno" lang="chi" page="13b" n="1">없음</sent>
+<sent type="anno" lang="kor" page="13b" n="1"> 智로 아디 몯며 얼구를 像로 아디 몯리니</sent>
+<sent type="anno" lang="chi" page="13b" n="2">없음</sent>
+<sent type="anno" lang="kor" page="13b" n="2">萬物의 논 이리 가지샤 디 아니 해 겨시며</sent>
+<sent type="anno" lang="chi" page="13b" n="3">없음</sent>
+<sent type="anno" lang="kor" page="13b" n="3">말며 혬 혜 안해 겨샤 말 업슨 해 겨샤</sent>
+<sent type="anno" lang="chi" page="13b" n="4">없음</sent>
+<sent type="anno" lang="kor" page="13b" n="4">有ᅵ 아니로 無ᅵ 아니 외시며 無ᅵ 아니로 有ᅵ 아니 외샤</sent>
+<sent type="anno" lang="chi" page="13b" n="5">없음</sent>
+<sent type="anno" lang="kor" page="13b" n="5">寂寞히 뷔여 萬物이 能히 아디 몯야 일훔 지호 모</sent>
+<sent type="anno" lang="chi" page="13b" n="6">없음</sent>
+<sent type="anno" lang="kor" page="13b" n="6">구틔여 닐오 覺이시다 니라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="13b" n="7">成論云。具上九號。為物欽重。故曰世尊。天上人間所共尊故。</sent><!--출전: T54n2131_001 翻譯名義集 第1卷-->
+<sent type="anno" lang="kor" page="13b" n="7">天上이며 人間이며 모다 尊히 너기 世尊이시다 니라</sent>
+<sent type="main" lang="chi" page="13b-14a" n="8">曼殊室利彼世尊藥師琉璃光如來本行菩薩道時</sent><!--本藥:258a04(18)-->
+<sent type="main" lang="kor" page="13b-14a" n="8">뎌 藥師瑠璃光如來 菩薩ᄉ 道理 行실 쩌긔</sent><!--璃^光-->
+
+<sent type="main" lang="chi" page="14a" n="1">發十二大願令諸有情所求皆得。</sent><!--本藥:258a04(18)-->
+<sent type="main" lang="kor" page="14a" n="1">열두 大願을 샤 有情히 求논 이 다 得긔 호려 시니라</sent>
+<sent type="main" lang="chi" page="14a" n="2">第一大願。願我來世</sent><!--本藥:258a09(00), 本藥:258a10(14)-->
+<sent type="main" lang="kor" page="14a" n="2">第一 大願은 내 來世예</sent>
+<sent type="anno" lang="kor" page="14a" n="3">來世 오 뉘라</sent>
+<sent type="main" lang="chi" page="14a" n="4">得阿耨多羅三藐三菩提時。</sent>
+<sent type="main" lang="kor" page="14a" n="4">阿耨多羅三藐三菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="14a-14b" n="5">自身光明熾然照曜無量無數無邊世界。</sent>
+<sent type="main" lang="kor" page="14a-14b" n="5">내 모맷 光明이 無量 無數 無邊 世界 盛히 비취여</sent><!--明^이-->
+
+<sent type="main" lang="chi" page="14b" n="1">以三十二大丈夫相八十隨好莊嚴其身。</sent>
+<sent type="main" lang="kor" page="14b" n="1">三十二相 八十種好로 모 莊嚴야</sent>
+<sent type="main" lang="chi" page="14b" n="2">令一切有情如我無異。</sent>
+<sent type="main" lang="kor" page="14b" n="2">一切 有情이 나와 다디 아니케 호리라</sent>
+<sent type="main" lang="chi" page="14b" n="3">第二大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="14b" n="3">第二 大願은 來世예 菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="14b-15a" n="4">身如琉璃內外明徹淨無瑕穢</sent>
+<sent type="main" lang="kor" page="14b-15a" n="4">모미 瑠璃 야 안팟기  가 허므리 업고</sent><!--^야-->
+
+<sent type="main" lang="chi" page="15a" n="1">光明廣大功德巍巍</sent>
+<sent type="main" lang="kor" page="15a" n="1">光明이 크며 功德이 놉고 커</sent>
+<sent type="main" lang="chi" page="15a" n="2">身善安住焰網莊嚴過於日月。</sent>
+<sent type="main" lang="kor" page="15a" n="2">모미 이대 便安히 住며 븘비로 莊嚴호미 日月라와 느러</sent>
+<sent type="main" lang="chi" page="15a" n="3">幽冥衆生悉蒙開曉隨意所趣作諸事業。</sent>
+<sent type="main" lang="kor" page="15a" n="3">어드  衆生도 다 고 어더  조초 이 긔 호리라</sent>
+<sent type="main" lang="chi" page="15a-15b" n="4">第三大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="15a-15b" n="4">第三 大願은 내 來世예 菩提 得 時節에</sent><!--得^-->
+
+<sent type="main" lang="chi" page="15b" n="1">以無量無邊智慧方便令諸有情皆得無盡所受用物莫令衆生有所乏少。</sent>
+<sent type="main" lang="kor" page="15b" n="1">無量無邊 智慧 方便으로 有情 無盡  거시 다 낟 줄 업긔 호리라</sent>
+<sent type="main" lang="chi" page="15b" n="2">第四大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="15b" n="2">第四 大願은 내 來世예 菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="15b" n="3">若諸有情行邪道者。</sent>
+<sent type="main" lang="kor" page="15b" n="3">다가 有情이 邪曲 道理 行리 잇거든</sent>
+<sent type="main" lang="chi" page="15b-16a" n="4">悉令安住菩提道中。</sent>
+<sent type="main" lang="kor" page="15b-16a" n="4">다 菩提道 中에 便安히 住킈 며</sent><!--道 ^ 中-->
+
+<sent type="main" lang="chi" page="16a" n="1">若行聲聞獨覺乘者。</sent>
+<sent type="main" lang="kor" page="16a" n="1">다가 聲聞 辟支佛乘 行 사미 잇거든</sent>
+<sent type="anno" lang="kor" page="16a" n="2">聲聞 辟支佛乘 小乘 中乘이라</sent>
+<sent type="main" lang="chi" page="16a" n="3">皆以大乘而安立之。</sent>
+<sent type="main" lang="kor" page="16a" n="3">다 大乘로 便安히 셰요리라</sent>
+<sent type="anno" lang="kor" page="16a" n="4">大乘은 菩薩ᄉ 乘이라</sent>
+<sent type="main" lang="chi" page="16a" n="5">第五大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="16a" n="5">第五 大願은 내 來世예 菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="16a-16b" n="6">若有無量無邊有情於我法中修行梵行。</sent>
+<sent type="main" lang="kor" page="16a-16b" n="6">다가 無量無邊 有情이 내 法 中에 조 뎍 닷리 잇거든</sent><!--無^量-->
+
+<sent type="main" lang="chi" page="16b" n="1">一切皆令得不缺戒。具三聚戒。</sent>
+<sent type="main" lang="kor" page="16b" n="1">다 이저디디 아니 戒 得며 三聚戒 게 호리라</sent>
+<sent type="anno" lang="chi" page="16b" n="2">三更明三聚戒法者。瓔珞經云。律儀戒。</sent><!--+謂十波羅夷。출전: 卍新纂大日本續藏經　第38冊 No.694 梵網經合註 第 3 卷 http://tripitaka.cbeta.org/mobile/index.php?index=X38n0694_003 -->
+<sent type="anno" lang="kor" page="16b" n="2">三聚戒 세헤 뫼호온 戒니 나 攝律儀戒니</sent>
+<sent type="anno2" lang="kor" page="16b" n="3">攝은 자씨오 律儀 法이라</sent>
+<sent type="anno2" lang="kor" page="16b" n="4">攝律儀 法을 자씨라</sent>
+
+<sent type="anno" lang="chi" page="17a" n="1">所謂不殺不盜不婬。不兩舌</sent><!--이하 관련 저경 출전: 卍新纂大日本續藏經　第45冊 No.757 起信論疏記 第 6 卷 http://tripitaka.cbeta.org/mobile/index.php?index=X45n0757_006 -->
+<sent type="anno" lang="kor" page="17a" n="1">殺生 아니며 도 아니며 婬亂 아니며 두 가짓 말 아니며</sent>
+<sent type="anno" lang="chi" page="17a" n="2">不惡口不妄言不綺語。</sent>
+<sent type="anno" lang="kor" page="17a" n="2">모딘 말 아니며 거즛말 아니며 綺語 아니며</sent>
+<sent type="anno2" lang="kor" page="17a" n="3">綺 며 實에셔 너믄 正티 몯씨라 語는 마리라</sent>
+<sent type="anno" lang="chi" page="17a" n="4">遠離貪嫉欺詐諂曲瞋恚邪見。</sent><!--이하 출전: 卍新纂大日本續藏經　第38冊 No.694 梵網經合註 第 3 卷 http://tripitaka.cbeta.org/mobile/index.php?index=X38n0694_003 -->
+<sent type="anno" lang="kor" page="17a" n="4">貪嫉 欺詐 諂曲 嗔恚 邪見을 머리 여흴씨라</sent>
+<sent type="anno2" lang="kor" page="17a" n="5">嫉  여씨오 欺詐 소길씨오 曲 고씨라</sent>
+<sent type="anno" lang="chi" page="17a" n="6">攝善。謂八萬四千法門。</sent>
+<sent type="anno" lang="kor" page="17a" n="6">둘흔 攝善法戒니 八萬 四千 法門이라</sent>
+<sent type="anno" lang="chi" page="17a" n="7">攝生。謂慈悲喜捨。化及眾生。令得安樂。</sent>
+<sent type="anno" lang="kor" page="17a" n="7">세 攝衆生戒니 慈悲喜捨로 有情을 利樂긔 씨라</sent>
+<sent type="anno" lang="chi" page="17a-17b" n="8">今明此三。並是菩薩戒法。</sent><!--내용이 일치하지 않지만 관련되는 부분을 보임-->
+<sent type="anno" lang="kor" page="17a-17b" n="8">이 戒 諸佛菩薩ᄉ 修行시논 즈길히라</sent><!--戒^-->
+
+<sent type="main" lang="chi" page="17b" n="1">設有毀犯聞我名已還得淸淨</sent>
+<sent type="main" lang="kor" page="17b" n="1">비록 허러도 내 일후믈 드르면 도로 淸淨을 得야</sent>
+<sent type="main" lang="chi" page="17b" n="2">不墮惡趣。</sent>
+<sent type="main" lang="kor" page="17b" n="2">모딘 길헤 아니 러디게 호리라</sent>
+<sent type="main" lang="chi" page="17b" n="3">第六大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="17b" n="3">第六 大願은 내 來世예 菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="17b-18a" n="4">若諸有情其身下劣諸根不具醜陋頑愚盲聾瘖啞踤躄背僂白癩癲狂</sent>
+<sent type="main" lang="kor" page="17b-18a" n="4">다가 有情히 모미 사오나 諸根이 디 몯야 迷惑고</sent><!--^고-->
+
+<sent type="main" lang="chi" page="18a" n="1">種種病苦</sent>
+<sent type="main" lang="kor" page="18a" n="1">種種 受苦 病 얫다가</sent>
+<sent type="main" lang="chi" page="18a" n="2">聞我名已一切皆得端政黠慧諸根完具無諸疾苦。</sent>
+<sent type="main" lang="kor" page="18a" n="2">내 일후믈 드르면 다 端正고 智慧 잇고 諸根이 자 病이 업게 호리라</sent>
+<sent type="main" lang="chi" page="18a" n="3">第七大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="18a" n="3">第七 大願은 내 來世예 菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="18a" n="4">若諸有情衆病逼切無救無歸無醫無藥無親無家貧窮多苦。</sent>
+<sent type="main" lang="kor" page="18a" n="4">다가 有情히 病야 이셔 救리 업고   업거든</sent>
+
+<sent type="main" lang="chi" page="18b" n="1">我之名號一經其耳。衆病悉除身心安樂</sent>
+<sent type="main" lang="kor" page="18b" n="1">내 일후믈 귀예  번 드러도 病이 다 업고</sent>
+<sent type="main" lang="chi" page="18b" n="2">家屬資具悉皆豐足乃至證得無上菩提。</sent>
+<sent type="main" lang="kor" page="18b" n="2">家屬이며 世間애  거시 며 無上菩提 證호매 니를의 호리라</sent>
+<sent type="main" lang="chi" page="18b" n="3">第八大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="18b" n="3">第八 大願은 내 來世예 菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="18b-19a" n="4">若有女人爲女百惡之所逼惱極生厭離</sent>
+<sent type="main" lang="kor" page="18b-19a" n="4">다가 겨지비 겨지븨 온 가짓 어려 이리 다와다  싀틋야</sent><!--^야-->
+
+<sent type="main" lang="chi" page="19a" n="1">願捨女身。</sent>
+<sent type="main" lang="kor" page="19a" n="1">겨지븨 모 리고져 거든</sent>
+<sent type="main" lang="chi" page="19a" n="2">聞我名已一切皆得轉女成男具丈夫相乃至證得無上菩提。</sent>
+<sent type="main" lang="kor" page="19a" n="2">내 일후믈 드르면 다 남지니 외야 無上菩提 證호매 니를의 호리라</sent>
+<sent type="main" lang="chi" page="19a" n="3">第九大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="19a" n="3">第九 大願은 내 來世예 菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="19a" n="4">令諸有情出魔羅網</sent>
+<sent type="main" lang="kor" page="19a" n="4">有情 魔 그므레 내야</sent>
+<sent type="main" lang="chi" page="19a-19b" n="5">解脫一切外道纏縛。</sent>
+<sent type="main" lang="kor" page="19a-19b" n="5">一切 外道 얽요 버서나게 호리니</sent><!--리^니-->
+
+<sent type="main" lang="chi" page="19b" n="1">若墮種種惡見稠林皆當引攝置於正見</sent>
+<sent type="main" lang="kor" page="19b" n="1">다가 種種 머즌 보매 디옛거든 다  거두워 正 보매 두어</sent>
+<sent type="main" lang="chi" page="19b" n="2">漸令修習諸菩薩行。速證無上正等菩提。</sent>
+<sent type="main" lang="kor" page="19b" n="2">漸漸 菩薩ᄉ 뎌글 닷가 無上正等菩提 리 證케 호리라</sent>
+<sent type="anno" lang="chi" page="19b" n="3">없음</sent>
+<sent type="anno" lang="kor" page="19b" n="3">至極 果ᅵ 因 걷내 無上이오</sent>
+<sent type="anno" lang="chi" page="19b" n="4">없음</sent>
+<sent type="anno" lang="kor" page="19b" n="4">正은 中道 正히 볼씨오 等은 두 녁   비췰씨니 果 우흿 三智라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="19b" n="5">無上是理。正等覺是智。</sent><!--大正新脩大藏經　第54冊 No.2131 翻譯名義集 第 5 卷 http://tripitaka.cbeta.org/mobile/index.php?index=T54n2131_005 -->
+<sent type="anno" lang="kor" page="19b" n="5">無上 理오 正等覺 智니</sent>
+<sent type="anno" lang="chi" page="19b-20a" n="6">正謂正中。即一切種智寂滅相也。</sent>
+<sent type="anno" lang="kor" page="19b-20a" n="6">正은 正히 가온니 곧 一切 種智니 寂滅 相이라</sent><!--히 ^ 가-->
+
+<sent type="anno" lang="chi" page="20a" n="1">等謂平等。即行類相貌如實知也。</sent>
+<sent type="anno" lang="kor" page="20a" n="1">等은 平等씨니 行이며 相이며 實다 알씨라</sent>
+<sent type="anno" lang="chi" page="20a" n="2">裴相國云。是諸佛所證最上妙道。是眾生所迷根本妙源。</sent>
+<sent type="anno" lang="kor" page="20a" n="2">이 諸佛ᄉ 證샨  노 微妙道理오 衆生의 모논 根本앳 微妙 根源이니</sent>
+<sent type="anno" lang="chi" page="20a" n="3">故凡夫流浪六道。由不發此菩提心故。</sent>
+<sent type="anno" lang="kor" page="20a" n="3">그럴 凡夫ᅵ 六道애 흘러뇨미 菩提心 發티 아니혼 다시니</sent>
+<sent type="anno" lang="chi" page="20a" n="4">今得人身。起慶幸意。</sent>
+<sent type="anno" lang="kor" page="20a" n="4">이제 사 모 得야 이셔 幸 들 머거 모로매</sent>
+<sent type="anno" lang="chi" page="20a" n="5">當須秉心對佛像前燒香散華。</sent>
+<sent type="anno" lang="kor" page="20a" n="5">佛像 알 對 香 퓌우며 곳 비코</sent>
+<sent type="anno" lang="chi" page="20a" n="6">三業供養。</sent>
+<sent type="anno" lang="kor" page="20a" n="6">몸과 입과 과 淸淨이 야 供養</sent>
+<sent type="anno" lang="chi" page="20a" n="7">立四弘誓</sent>
+<sent type="anno" lang="kor" page="20a" n="7">四弘誓 셰여</sent>
+
+<sent type="anno2" lang="chi" page="20b" n="1">眾生無邊誓願度　煩惱無盡誓願斷 法門無量誓願學　佛道無上誓願成 自性眾生誓願度　自性煩惱誓願斷 自性法門誓願學　　自性佛道誓願成</sent><!--출전: 卍新纂大日本續藏經　第62冊 No.1196 淨土證心集 第 3 卷 http://tripitaka.cbeta.org/mobile/index.php?index=X62n1196_003 -->
+<sent type="anno2" lang="kor" page="20b" n="1">衆生無邊誓願度 煩惱無數誓願斷 法門無盡誓願學 佛道無上誓願成 自性衆生誓願度 自性煩惱誓願斷 自性法門誓願學 自性佛道誓願成</sent>
+<sent type="anno" lang="chi" page="20b" n="2">發成佛心。</sent>
+<sent type="anno" lang="kor" page="20b" n="2">成佛홀  發디니</sent>
+<sent type="anno" lang="chi" page="20b" n="3">故華嚴云。菩提心者。名為種子。能生一切諸佛法故。</sent>
+<sent type="anno" lang="kor" page="20b" n="3">그럴 菩提心을 種子ᅵ라 일훔니 一切 諸佛法을 잘 낼니라</sent>
+<sent type="anno" lang="chi" page="20b" n="4">發此心者。須識其體。</sent>
+<sent type="anno" lang="kor" page="20b" n="4">이  發 사 모로매 體 아라 리니</sent>
+<sent type="anno" lang="chi" page="20b-21a" n="5">體有二種。一曰當體。二曰所依體。其當體者。所謂悲心智心願心。此三種心。乃是當體。</sent>
+<sent type="anno" lang="kor" page="20b-21a" n="5">體 두 가지니 當體 悲心과 智心과 願心괘오</sent><!--心^과-->
+
+<sent type="anno" lang="chi" page="21a" n="1">所依體者。自性清淨。圓明妙心。為所依體。</sent>
+<sent type="anno" lang="kor" page="21a" n="1">所依體 自性이 淸淨야 두려  微妙 미라</sent>
+<sent type="anno" lang="chi" page="21a" n="2">性自具足號如來藏。惑不能染。</sent>
+<sent type="anno" lang="kor" page="21a" n="2">性이 제  號 如來藏이라 고 惑이 더러디 몯며</sent>
+<sent type="anno" lang="chi" page="21a" n="3">智無所淨。虛寂澄湛真覺靈明。</sent>
+<sent type="anno" lang="kor" page="21a" n="3">智 조오미 업서 뷔오 괴외코 가 眞實ᄉ 覺이 靈히 가</sent>
+<sent type="anno" lang="chi" page="21a" n="4">能生萬法。號一大事。</sent>
+<sent type="anno" lang="kor" page="21a" n="4">萬法을 잘 낼 號  큰 이리라 니라</sent>
+<sent type="anno" lang="chi" page="21a" n="5">但由群生久迷此性。唯認攀緣六塵影像。</sent>
+<sent type="anno" lang="kor" page="21a" n="5">오직 衆生 이 性을 오래 몰라 六塵의 그리메 像 브투믈 아라</sent>
+<sent type="anno" lang="chi" page="21a" n="6">乍起乍滅。虛妄之念。以為自心。一迷為心。</sent>
+<sent type="anno" lang="kor" page="21a" n="6">간 닐며 간 업서 虛妄 念으로 제  사마</sent>
+<sent type="anno" lang="chi" page="21a" n="7">決定惑為色身之內。</sent>
+<sent type="anno" lang="kor" page="21a" n="7">決定야 惑야 色身 안 삼고</sent>
+<sent type="anno" lang="chi" page="21a-21b" n="8">不知色身外。洎山河虛空大地咸是妙明真心中物。</sent>
+<sent type="anno" lang="kor" page="21a-21b" n="8">色身이 밧그로 뫼히며 므리며 虛空大地예 니르리 다 微妙코  眞實ᄉ  가온 거신  모니</sent><!--大^地-->
+
+<sent type="anno" lang="chi" page="21b" n="1">此之心體。如肇師云。微妙無相不可為有。</sent>
+<sent type="anno" lang="kor" page="21b" n="1">이  體 微妙야 相 업서 이슈미 외디 아니며</sent>
+<sent type="anno" lang="chi" page="21b" n="2">用之彌勤不可為無。</sent>
+<sent type="anno" lang="kor" page="21b" n="2">현마 도 업수미 외디 아니니라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="21b" n="3">菩提者。無形相無為。云何無形相。不可以六識識故。</sent>
+<sent type="anno" lang="kor" page="21b" n="3">菩提 六識로 아디 몯 形相이 업고</sent>
+<sent type="anno" lang="chi" page="21b" n="4">云何無為。無生住滅故。</sent>
+<sent type="anno" lang="kor" page="21b" n="4">生住異滅이 업슬 요미 업스니라</sent>
+<sent type="anno2" lang="kor" page="21b" n="5">生住異滅은 나 住얫다가 달아 업슬씨라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="21b" n="6">裴相國云。性含萬德。體絕百非。</sent>
+<sent type="anno" lang="kor" page="21b" n="6">性이 一萬 德을 머굼고 體 一百 왼 이리 그처</sent>
+<sent type="anno" lang="chi" page="21b" n="7">如淨月輪圓滿無缺。</sent>
+<sent type="anno" lang="kor" page="21b" n="7">조 리 두려 이즌  업수미 건마</sent>
+<sent type="anno" lang="chi" page="21b-22a" n="8">惑雲所覆不自覺知。</sent>
+<sent type="anno" lang="kor" page="21b-22a" n="8">迷惑 구루믜 료미 외야 제 아디 몯니</sent><!--^-->
+
+<sent type="anno" lang="chi" page="22a" n="1">妄惑既除。真心本淨。</sent>
+<sent type="anno" lang="kor" page="22a" n="1">妄量惑이 덜면 眞實ᄉ 미 本來 조니라</sent>
+<sent type="anno" lang="chi" page="22a" n="2">性含萬德。故在聖不為得。</sent>
+<sent type="anno" lang="kor" page="22a" n="2">性이 萬德을 머구믈 聖人에 이셔도 得호미 아니며</sent>
+<sent type="anno" lang="chi" page="22a" n="3">體絕百非。故居凡不為失。</sent>
+<sent type="anno" lang="kor" page="22a" n="3">體 百非 그츨 凡夫에 이셔도 일혼디 아니니</sent>
+<sent type="anno" lang="chi" page="22a" n="4">然欲發此心者。當運慈悲而為宗要。</sent>
+<sent type="anno" lang="kor" page="22a" n="4">그러나 이  發 사 慈悲心 뮈우로  사디니</sent>
+<sent type="anno" lang="chi" page="22a" n="5">所謂發大悲心普救一切眾生故。</sent><!--생략된 앞 구절: 故華嚴海雲比丘。告善財言。發菩提心者。-->
+<sent type="anno" lang="kor" page="22a" n="5">큰 悲心 發호 一切 衆生 너비 救호려 오</sent>
+<sent type="anno" lang="chi" page="22a" n="6">發大慈心。等祐一切世間故。</sent>
+<sent type="anno" lang="kor" page="22a" n="6">큰 慈心 發호 一切 世間 가지로 도려 니라</sent>
+<sent type="anno" lang="chi" page="22a" n="7">一切群彙本無生死。</sent>
+<sent type="anno" lang="kor" page="22a" n="7">一切 萬物이 本來 生死ᅵ 업거늘</sent>
+<sent type="anno" lang="chi" page="22a" n="8">妄風飄鼓。汩沒苦海。</sent>
+<sent type="anno" lang="kor" page="22a" n="8">妄量 미 부러 受苦ᄉ 바다해 마 잇니</sent>
+<sent type="anno" lang="chi" page="22a-22b" n="9">今發大願。黑暗崖下。</sent>
+<sent type="anno" lang="kor" page="22a-22b" n="9">이제 큰 願을 發야 거믄 石辟 아래 盟誓호</sent><!--'辟' 보사--><!--을 ^ 發-->
+
+<sent type="anno" lang="chi" page="22b" n="1">誓作明燈。生死波中永為船筏。</sent>
+<sent type="anno" lang="kor" page="22b" n="1"> 燈이 외오 生死 믌겴 가온 기리  외요리라 디니라</sent>
+<sent type="anno" lang="chi" page="22b" n="2">一切凡夫。本性具足性淨功德。</sent><!--생략된 앞 구절: 此起悲心。拔眾生苦。-->
+<sent type="anno" lang="kor" page="22b" n="2">一切 凡夫와 本性에 性 조 功德이 거늘</sent>
+<sent type="anno" lang="chi" page="22b" n="3">今迷寶藏貧窮孤露。</sent>
+<sent type="anno" lang="kor" page="22b" n="3">이제 寶藏 몰라 艱難고 외니</sent>
+<sent type="anno" lang="chi" page="22b" n="4">今啟洪願誓與群萌無上佛果究竟之樂。</sent>
+<sent type="anno" lang="kor" page="22b" n="4">이제 큰 願으로 衆生 無上佛果 주리라</sent>
+<sent type="anno" lang="chi" page="22b" n="5">如一眾生未成佛。終不於此取泥洹。</sent><!--생략된 뒤 구절: 願舉脩途之初步。宜運成山之始簣。崇德廣業。不倦終之-->
+<sent type="anno" lang="kor" page="22b" n="5">盟誓호  衆生이나 成佛 몯 야 이시면 乃終내 涅槃 아니호리라 라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="22b" n="6">菩提。肇師云。道之極者。稱曰菩提。秦無言以譯之。後代諸師皆譯為道。以大論翻為佛道故。今問。如周易曰。立人之道曰仁與義。此則儒宗仁義為道。莊子曰。虛靜恬淡。寂寞無為者。天地之平而道德之至。此則道家以虛無為道。今釋氏宗以何為道。</sent><!--이하 관련 저경 출전: T54n2131_005 翻譯名義集 第5卷-->
+<sent type="anno" lang="kor" page="22b" n="6">道 至極 거슬 닐온 菩提니 므스거스로 道 사료</sent>
+<sent type="anno" lang="chi" page="22b" n="7">答曰。般舟經云。諸佛從心得解脫。</sent>
+<sent type="anno" lang="kor" page="22b" n="7">對答호 諸佛이  브터 解脫 得시니</sent>
+
+<sent type="anno" lang="chi" page="23a" n="1">心者清淨名無垢。</sent>
+<sent type="anno" lang="kor" page="23a" n="1">미 淸淨야 일후미 無垢</sent>
+<sent type="anno2" lang="kor" page="23a" n="2">無垢는  업슬씨라</sent>
+<sent type="anno" lang="chi" page="23a" n="3">五道鮮潔不受色。</sent>
+<sent type="anno" lang="kor" page="23a" n="3">五道ᅵ 조야 色 受티 아니니</sent>
+<sent type="anno" lang="chi" page="23a" n="4">有解此者大道成。</sent>
+<sent type="anno" lang="kor" page="23a" n="4">이 알면 大道 일우리니</sent>
+<sent type="anno" lang="chi" page="23a" n="5">是知吾教以心為道。心乃自性清淨心也。</sent>
+<sent type="anno" lang="kor" page="23a" n="5">이럴 로 道 삼니  自性淸淨心이라</sent>
+<sent type="anno" lang="chi" page="23a" n="6">其體湛寂。</sent>
+<sent type="anno" lang="kor" page="23a" n="6">그 體 고 괴외고</sent>
+<sent type="anno" lang="chi" page="23a" n="7">其性靈照。無名無相。絕有絕無。</sent>
+<sent type="anno" lang="kor" page="23a" n="7">그 性은 靈히 비취여 일훔 업스며 相 업스며 有 업스며 無 업서</sent>
+<sent type="anno" lang="chi" page="23a" n="8">心不能思。口不能議。</sent>
+<sent type="anno" lang="kor" page="23a" n="8">로  몯며 이브로 議論 몯호</sent>
+<sent type="anno" lang="chi" page="23a" n="9">褒美稱為第一義諦。</sent>
+<sent type="anno" lang="kor" page="23a" n="9">기려 第一 義諦라 일니라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="23a-23b" n="10">或者問曰。如淨名云。菩提者不可以身得。不可以心得。</sent>
+<sent type="anno" lang="kor" page="23a-23b" n="10">무로 菩提 모로 得디 몯며 로 得디 몯거늘</sent><!--몯^-->
+
+<sent type="anno" lang="chi" page="23b" n="1">今安以心而為道耶。</sent>
+<sent type="anno" lang="kor" page="23b" n="1">엇뎨 로 道 사뇨</sent>
+<sent type="anno" lang="chi" page="23b" n="2">答究乎菩提非身心者。如肇師云。無為之道。豈可以身心而得乎。故度一切佛境界經云。菩提者。不可以身覺。不可以心覺。何以故。</sent>
+<sent type="anno" lang="kor" page="23b" n="2">對答호 몸과 과로 몯 아로</sent>
+<sent type="anno" lang="chi" page="23b" n="3">身是無知如草木故。</sent>
+<sent type="anno" lang="kor" page="23b" n="3">모 나모 플티 아로미 업고</sent>
+<sent type="anno" lang="chi" page="23b" n="4">心者虛誑不真實故。</sent><!--+是故菩提非身心也。-->
+<sent type="anno" lang="kor" page="23b" n="4"> 섭섭야 眞實티 몯거니와</sent>
+<sent type="anno" lang="chi" page="23b" n="5">然淨名中却云諸佛解脫當於眾生心行中求者。</sent><!--+天台釋云。今觀眾生心行。入本性清淨智。窮眾生心源者。即顯諸佛解脫之果。-->
+<sent type="anno" lang="kor" page="23b" n="5">그러나 諸佛解脫 衆生 心行ᄉ 가온 求디니</sent>
+<sent type="anno" lang="chi" page="23b" n="6">如勤求水不得離氷。</sent>
+<sent type="anno" lang="kor" page="23b" n="6">므를 求호 어름 리고 몯 니</sent>
+<sent type="anno" lang="chi" page="23b" n="7">寒雖結水成氷。暖則釋氷為水。</sent><!--+故華嚴云。若能善用其心。則獲一切勝妙功德。-->
+<sent type="anno" lang="kor" page="23b" n="7">치 므리 어렛다가 더면 노가 므리 외니라</sent>
+<sent type="anno" lang="chi" page="23b" n="8">凡夫由昧心源。故隨妄念。</sent>
+<sent type="anno" lang="kor" page="23b" n="8">凡夫ᅵ  根源을 모 妄念을 좃니</sent>
+<sent type="anno" lang="chi" page="23b" n="9">能於妄念深照性空。名解大道。</sent><!--+故華嚴云。體解大道發無上心。此心智發能為佛母。號曰智度。是故智度亦名大道。故大論云。智度大道佛善來。如用此智修習萬行。其所修法。亦名大道。故法華云。為滅諦故。修行於道。由道是心。其性虛通遍一切法無非是道。-->
+<sent type="anno" lang="kor" page="23b" n="9">能히 妄念에 性 뷘   비취면 大道 아다 리라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="23b-24a" n="10">如金色女問文殊云。何謂為道。</sent>
+<sent type="anno" lang="kor" page="23b-24a" n="10">金色女ᅵ 文殊 묻 므스글 道ᅵ라 니고</sent><!--^-->
+
+<sent type="anno" lang="chi" page="24a" n="1">答曰。汝則為道。</sent>
+<sent type="anno" lang="kor" page="24a" n="1">對答샤 네 곧 道ᅵ라</sent>
+<sent type="anno" lang="chi" page="24a" n="2">又喜根云。婬欲即是道。恚癡亦復然。</sent>
+<sent type="anno" lang="kor" page="24a" n="2"> 喜根이  婬欲이 卽是道ᅵ오 恚癡亦復然니</sent>
+<sent type="anno" lang="chi" page="24a" n="3">如此三事中。無量諸佛道。</sent>
+<sent type="anno" lang="kor" page="24a" n="3">如此三事中에 無量諸佛道ᅵ라 니</sent>
+<sent type="anno2" lang="kor" page="24a" n="4">婬欲이 곧 이 道ᅵ오 恚癡  그러니</sent>
+<sent type="anno2" lang="kor" page="24a" n="5">이 세 잀 가온 그지업슨 諸佛ᄉ 道ᅵ라 니</sent>
+<sent type="anno" lang="chi" page="24a" n="6">今問婬事穢污。佛道清淨。</sent>
+<sent type="anno" lang="kor" page="24a" n="6">이제 묻 婬欲 더럽고 佛道 조커시니</sent>
+<sent type="anno" lang="chi" page="24a" n="7">安指穢事名為淨道。</sent>
+<sent type="anno" lang="kor" page="24a" n="7">엇뎨 더러 이 조 道ᅵ라 리고</sent>
+<sent type="anno" lang="chi" page="24a-24b" n="8">答觀婬怒癡相同水月。</sent>
+<sent type="anno" lang="kor" page="24a-24b" n="8">對答샤 婬 怒 癡의  므렛  호 보아</sent><!--^호-->
+
+<sent type="anno" lang="chi" page="24b" n="1">了染淨體。性如虛空。</sent>
+<sent type="anno" lang="kor" page="24b" n="1">더러며 조 體性이 虛空 호  아라</sent>
+<sent type="anno" lang="chi" page="24b" n="2">遇順無著。</sent>
+<sent type="anno" lang="kor" page="24b" n="2">順 이 맛나도 著홈 업스며</sent>
+<sent type="anno" lang="chi" page="24b" n="3">逢違不瞋。</sent>
+<sent type="anno" lang="kor" page="24b" n="3">거 일 맛나도 怒티 아니야</sent>
+<sent type="anno" lang="chi" page="24b" n="4">於惡境界。得解脫門。乃行非道通達佛道。</sent>
+<sent type="anno" lang="kor" page="24b" n="4">구즌 境界예 解脫門 得야 非道 行야도 佛道애 通達리니</sent>
+<sent type="anno" lang="chi" page="24b" n="5">是名無礙人。</sent>
+<sent type="anno" lang="kor" page="24b" n="5">이 일후미 無碍人이라</sent>
+<sent type="anno" lang="chi" page="24b" n="6">一道出生死。</sent>
+<sent type="anno" lang="kor" page="24b" n="6"> 道ᅵ 生死애 나미라</sent>
+<sent type="anno" lang="chi" page="24b" n="7">若起凡見。成地獄業。</sent>
+<sent type="anno" lang="kor" page="24b" n="7">다가 凡夫의 보 니와면 地獄業이 일리니</sent>
+<sent type="anno" lang="chi" page="24b" n="8">如熱金圓取必燒手。</sent>
+<sent type="anno" lang="kor" page="24b" n="8">더 쇠 야 자면 반기 소 리니</sent>
+<sent type="anno" lang="chi" page="24b" n="9">如是無為。名道人也。</sent>
+<sent type="anno" lang="kor" page="24b" n="9">이티 논 일 업수미 일후미 道人이라</sent>
+<sent type="main" lang="chi" page="24b-25a" n="10">第十大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="24b-25a" n="10">第十 大願은 내 來世예 菩提 得 時節에</sent><!--예 ^ 菩-->
+
+<sent type="main" lang="chi" page="25a" n="1">若諸有情王法所繩縛錄鞭撻繫閉牢獄。</sent>
+<sent type="main" lang="kor" page="25a" n="1">다가 有情이 나랏 法에 자피여 여 매 마자 獄애 가도이거나</sent>
+<sent type="anno" lang="kor" page="25a" n="2">獄 사 가도 히라</sent>
+<sent type="main" lang="chi" page="25a" n="3">或當刑戮及餘無量災難陵辱悲愁煎迫身心受苦。</sent>
+<sent type="main" lang="kor" page="25a" n="3">罪 니블 어나 녀나 그지업슨 어려 이리 다와댓거든</sent>
+<sent type="main" lang="chi" page="25a-25b" n="4">若聞我名以我福德威神力故。皆得解脫一切憂苦。</sent>
+<sent type="main" lang="kor" page="25a-25b" n="4">내 일후믈 드르면 내 福德威神力으로 一切 受苦 다 버서나긔 호리라</sent><!--나^긔-->
+
+<sent type="main" lang="chi" page="25b" n="1">第十一大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="25b" n="1">第十一 大願은 내 來世예 菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="25b" n="2">若諸有情飢渴所惱爲求食故造諸惡業。</sent>
+<sent type="main" lang="kor" page="25b" n="2">다가 有情이 주으려 밥 얻고져 야 모딘 業 지 예</sent>
+<sent type="main" lang="chi" page="25b" n="3">得聞我名專念受持。</sent>
+<sent type="main" lang="kor" page="25b" n="3">내 일후믈 드러 닛디 아니야 디니면</sent>
+<sent type="main" lang="chi" page="25b" n="4">我當先以上妙飲食飽足其身。</sent>
+<sent type="main" lang="kor" page="25b" n="4">내 몬져 됴 飮食로 [飮 마실씨라]  브르긔 고</sent>
+<sent type="main" lang="chi" page="25b-26a" n="5">後以法味畢竟安樂而建立之。</sent>
+<sent type="main" lang="kor" page="25b-26a" n="5">法味로 乃終에 便安코 즐겁긔 야 셰요리라</sent><!--終^에-->
+
+<sent type="anno" lang="kor" page="26a" n="1">法味 法 마시라</sent>
+<sent type="main" lang="chi" page="26a" n="2">第十二大願。願我來世得菩提時。</sent>
+<sent type="main" lang="kor" page="26a" n="2">第十二 大願은 내 來世예 菩提 得 時節에</sent>
+<sent type="main" lang="chi" page="26a" n="3">若諸有情貧無衣服蚊虻寒熱晝夜逼惱。</sent>
+<sent type="main" lang="kor" page="26a" n="3">다가 有情이 오시 업서 모 벌에며 더 치로 셜다가</sent>
+<sent type="main" lang="chi" page="26a" n="4">若聞我名專念受持。</sent>
+<sent type="main" lang="kor" page="26a" n="4">내 일후믈 드러 닛디 아니야 디니면</sent>
+<sent type="main" lang="chi" page="26a-26b" n="5">如其所好卽得種種上妙衣服。</sent>
+<sent type="main" lang="kor" page="26a-26b" n="5">제 맛드논 야로 種種앳 됴 오 어드며</sent><!-- ^ 오-->
+
+<sent type="main" lang="chi" page="26b" n="1">亦得一切寶莊嚴具華鬘塗香鼓樂衆伎隨心所翫皆令滿足。</sent>
+<sent type="main" lang="kor" page="26b" n="1"> 보옛 莊嚴이며 花香 伎樂  조초 초 얻긔 호리라 더시니</sent>
+<sent type="main" lang="chi" page="26b" n="2">曼殊室利是爲彼世尊藥師琉璃光如來應正等覺行菩薩道時所發十二微妙上願。</sent>
+<sent type="main" lang="kor" page="26b" n="2">文殊師利여 뎌 藥師瑠璃光如來ᄉ 十二 微妙上願이시니라</sent>
+<sent type="anno" lang="kor" page="26b" n="3">上願은 爲頭 願이라</sent>
+<sent type="main" lang="chi" page="26b-27a" n="4">復次曼殊室利。彼世尊藥師琉璃光如來行菩薩道時</sent>
+<sent type="main" lang="kor" page="26b-27a" n="4"> 文殊師利여 뎌 藥師瑠璃光如來 菩薩ᄉ 道理 行 時節에</sent><!--璃^光-->
+
+<sent type="main" lang="chi" page="27a" n="1">所發大願及彼佛土功德莊嚴。</sent>
+<sent type="main" lang="kor" page="27a" n="1">發샨 큰 願과 뎌 부텻 나라햇 功德莊嚴을</sent>
+<sent type="main" lang="chi" page="27a" n="2">我若一劫若一劫餘說不能盡。</sent>
+<sent type="main" lang="kor" page="27a" n="2">내  劫이며  劫이 남록 닐어도 몯 다 니르리어니와</sent>
+<sent type="main" lang="chi" page="27a-27b" n="3">然彼佛土一向淸淨無有女人亦無惡趣及苦音聲。</sent>
+<sent type="main" lang="kor" page="27a-27b" n="3">그러나 뎌 부텻 히 雜말 업시 淸淨고 겨지비 업스며 惡趣ᅵ며 受苦ᄉ 소리 업고</sent><!--苦^ᄉ-->
+
+<sent type="anno" lang="kor" page="27b" n="1">惡趣는 머즌 길히니 地獄 餓鬼 畜生이라</sent>
+<sent type="main" lang="chi" page="27b" n="2">琉璃爲地金繩界道</sent>
+<sent type="main" lang="kor" page="27b" n="2">瑠璃 히 외오 金 노로 길흘 느리고</sent>
+<sent type="main" lang="chi" page="27b" n="3">城闕宮閣軒窗羅網皆七寶成。</sent>
+<sent type="main" lang="kor" page="27b" n="3">城이며 지비며 軒窓 羅網이 [軒은 軒檻이라] 다 七寶로 이러 이쇼미</sent>
+<sent type="main" lang="chi" page="27b" n="4">亦如西方極樂世界功德莊嚴等無差別。</sent>
+<sent type="main" lang="kor" page="27b" n="4"> 西方 極樂世界와 야 功德莊嚴이 요미 업고</sent>
+<sent type="main" lang="chi" page="27b-28a" n="5">於其國中有二菩薩摩訶薩。</sent>
+<sent type="main" lang="kor" page="27b-28a" n="5">그 나라해 두 菩薩摩訶薩이 이쇼</sent><!--해 ^ 두-->
+
+<sent type="main" lang="chi" page="28a" n="1">一名日光遍照。二名月光遍照。</sent>
+<sent type="main" lang="kor" page="28a" n="1"> 일후믄 日光遍照ᅵ오  일후믄 月光遍照ᅵ니</sent>
+<sent type="main" lang="chi" page="28a" n="2">是彼無量無數菩薩衆之上首。</sent>
+<sent type="main" lang="kor" page="28a" n="2">뎌 無量無數 菩薩衆에 爲頭야 이셔</sent>
+<sent type="main" lang="chi" page="28a" n="3">悉能持彼世尊藥師琉璃光如來正法寶藏。</sent>
+<sent type="main" lang="kor" page="28a" n="3">뎌 藥師瑠璃光如來ᄉ 正法寶藏을 다 디니니</sent>
+<sent type="main" lang="chi" page="28a-28b" n="4">是故曼殊室利。諸有信心善男子善女人等應當願生彼佛世界。</sent>
+<sent type="main" lang="kor" page="28a-28b" n="4">이럴 信心 뒷 善男子 善女人이 뎌 부텻 世界예 나고져 發願야 리라</sent><!--善^男-->
+
+<sent type="main" lang="chi" page="28b" n="1">爾時世尊復告曼殊室利童子言。</sent>
+<sent type="main" lang="kor" page="28b" n="1">그 世尊이  文殊師利려 니샤</sent>
+<sent type="main" lang="chi" page="28b" n="2">曼殊室利。有諸衆生不識善惡</sent>
+<sent type="main" lang="kor" page="28b" n="2">文殊師利여 衆生히 됴며 구즌 이 모고</sent>
+<sent type="main" lang="chi" page="28b" n="3">唯懷貪吝。</sent>
+<sent type="main" lang="kor" page="28b" n="3">오직 貪며 앗가  머거</sent>
+<sent type="main" lang="chi" page="28b-29a" n="4">不知布施及施果報。愚癡無智闕於信根。</sent>
+<sent type="main" lang="kor" page="28b-29a" n="4">布施홈과 布施 果報 몰라 迷惑고 信根이 업서</sent><!--^-->
+
+<sent type="main" lang="chi" page="29a" n="1">多聚財寶勤加守護。</sent>
+<sent type="main" lang="kor" page="29a" n="1">쳔랴 만히 뫼호아 두고 受苦 딕희여 이셔</sent>
+<sent type="main" lang="chi" page="29a" n="2">見乞者來其心不喜。設不獲已而行施時。</sent>
+<sent type="main" lang="kor" page="29a" n="2">빌 리 잇거든 츠기 너겨 모지마라 디라도</sent>
+<sent type="main" lang="chi" page="29a" n="3">如割身肉深生痛惜。</sent>
+<sent type="main" lang="kor" page="29a" n="3">제 모맷 고기 바혀 내논 시 너겨며</sent>
+<sent type="main" lang="chi" page="29a" n="4">復有無量慳貪有情積集資財。</sent>
+<sent type="main" lang="kor" page="29a" n="4"> 貪 無量 有情이 쳔랴 모도아 두고</sent>
+<sent type="main" lang="chi" page="29a-29b" n="5">於其自身尚不受用。</sent>
+<sent type="main" lang="kor" page="29a-29b" n="5">제 도 오히려 아니거니</sent><!--거^니-->
+
+<sent type="main" lang="chi" page="29b" n="1">何況能與父母妻子奴婢作使及來乞者。</sent>
+<sent type="main" lang="kor" page="29b" n="1">며 어버 내야 주며 가시며 子息이며 죠 주며 와 비 사 주리여</sent>
+<sent type="main" lang="chi" page="29b" n="2">彼諸有情從此命終生餓鬼界或傍生趣。</sent>
+<sent type="main" lang="kor" page="29b" n="2">이런 有情 이셔 주그면 餓鬼어나 畜生이어나 외리니</sent>
+<sent type="main" lang="chi" page="29b" n="3">由昔人間曾得暫聞藥師琉璃光如來名故。</sent>
+<sent type="main" lang="kor" page="29b" n="3">人間애 이셔 藥師瑠璃光如來ᄉ 일후믈 잠 듣 젼로</sent>
+<sent type="main" lang="chi" page="29b-30a" n="4">今在惡趣暫得憶念彼如來名。</sent>
+<sent type="main" lang="kor" page="29b-30a" n="4">惡趣예 이셔도 뎌 如來ᄉ 일후믈 잠 각면</sent><!--이^셔-->
+
+<sent type="main" lang="chi" page="30a" n="1">卽於念時從彼處沒還生人中。</sent>
+<sent type="main" lang="kor" page="30a" n="1">즉자히 뎌셔 업서 도로 人間애 나</sent>
+<sent type="main" lang="chi" page="30a" n="2">得宿命念畏惡趣苦</sent>
+<sent type="main" lang="kor" page="30a" n="2">宿命念을 得야 惡趣의 受苦 저허</sent>
+<sent type="main" lang="chi" page="30a" n="3">不樂欲樂好行惠施讚歎施者。一切所有悉無貪惜。</sent>
+<sent type="main" lang="kor" page="30a" n="3">貪欲 즐기디 아니고 布施 즐겨 뒷논 거슬 앗기디 아니야</sent>
+<sent type="main" lang="chi" page="30a-30b" n="4">漸次尚能以頭目手足血肉身分施來求者</sent>
+<sent type="main" lang="kor" page="30a-30b" n="4">漸漸 머리며 누니며 손바리며 고기며 모미라도 비 사 주리어니</sent><!--미^라-->
+
+<sent type="main" lang="chi" page="30b" n="1">況餘財物。</sent>
+<sent type="main" lang="kor" page="30b" n="1">며 녀나 쳔랴녀</sent>
+<sent type="main" lang="chi" page="30b" n="2">復次曼殊室利。若諸有情雖於如來受諸學處而破尸羅。</sent>
+<sent type="main" lang="kor" page="30b" n="2"> 文殊師利여 有情히 비록 如來 法을 화도 尸羅 헐며</sent>
+<sent type="anno" lang="kor" page="30b" n="3">尸羅 戒라 논 마리라</sent>
+<sent type="main" lang="chi" page="30b" n="4">有雖不破尸羅而破軌則。</sent>
+<sent type="main" lang="kor" page="30b" n="4">尸羅 아니 허러도 軌則을 헐며</sent>
+<sent type="anno" lang="kor" page="30b" n="5">軌則은 禮法이라</sent>
+<sent type="main" lang="chi" page="30b-31a" n="6">有於尸羅軌則雖得不壞然毀正見。</sent>
+<sent type="main" lang="kor" page="30b-31a" n="6">尸羅 軌則을 아니 허러도 正 보 헐며</sent><!-- ^ 보-->
+
+<sent type="main" lang="chi" page="31a" n="1">有雖不毀正見而棄多聞。</sent>
+<sent type="main" lang="kor" page="31a" n="1">正 보 아니 허러도 해 드로 려</sent>
+<sent type="main" lang="chi" page="31a" n="2">於佛所說契經深義不能解了</sent>
+<sent type="main" lang="kor" page="31a" n="2">부텨 니샨 經엣 기픈 들 아디 몯며</sent>
+<sent type="main" lang="chi" page="31a" n="3">有雖多聞而增上慢。</sent>
+<sent type="main" lang="kor" page="31a" n="3">비록 해 드러도 增上慢야</sent>
+<sent type="anno" lang="chi" page="31a" n="4">없음</sent>
+<sent type="anno" lang="kor" page="31a" n="4">增은 더을씨오 慢  므더니 너길씨니</sent>
+<sent type="anno" lang="chi" page="31a" n="5">없음</sent>
+<sent type="anno" lang="kor" page="31a" n="5">몯 得혼 法을 得호라 며 몯 證혼 道理 證호라 야</sent>
+<sent type="anno" lang="chi" page="31a" n="6">없음</sent>
+<sent type="anno" lang="kor" page="31a" n="6">제 實엔 사오나 웃사 두고 더은  야</sent><!--''은 ''의 수정인 것으로 보임-->
+<sent type="anno" lang="chi" page="31a" n="7">없음</sent>
+<sent type="anno" lang="kor" page="31a" n="7">法 므더니 너기며 사 므더니 너길씨 增上慢이라</sent>
+<sent type="main" lang="chi" page="31a-31b" n="8">由增上慢覆蔽心故自是非他</sent>
+<sent type="main" lang="kor" page="31a-31b" n="8">增上慢이  리온 젼로 제 올호라 고  외다 야</sent><!--^-->
+
+<sent type="main" lang="chi" page="31b" n="1">嫌謗正法爲魔伴黨。</sent>
+<sent type="main" lang="kor" page="31b" n="1">正法을 비우 魔  黨이 외리니</sent>
+<sent type="main" lang="chi" page="31b" n="2">如是愚人自行邪見</sent>
+<sent type="main" lang="kor" page="31b" n="2">이런 어린 사 제 邪曲 보 고</sent>
+<sent type="main" lang="chi" page="31b" n="3">復令無量俱胝有情墮大險坑。</sent>
+<sent type="main" lang="kor" page="31b" n="3"> 無量 有情이 큰 어려 구데 러디긔 니</sent>
+<sent type="main" lang="chi" page="31b-32a" n="4">此諸有情應於地獄傍生鬼趣流轉無窮。</sent>
+<sent type="main" lang="kor" page="31b-32a" n="4">이런 有情히 地獄 餓鬼 畜生애 그지업시 두루 니다가</sent><!--루 ^ -->
+
+<sent type="main" lang="chi" page="32a" n="1">若得聞此藥師琉璃光如來名號。</sent>
+<sent type="main" lang="kor" page="32a" n="1">이 藥師瑠璃光如來ᄉ 일후믈 듣면</sent>
+<sent type="main" lang="chi" page="32a" n="2">便捨惡行修諸善法不墮惡趣。</sent>
+<sent type="main" lang="kor" page="32a" n="2">모딘 뎌글 리고 됴 法을 닷가 惡趣예 아니 디리니</sent>
+<sent type="main" lang="chi" page="32a" n="3">設有不能捨諸惡行修行善法墮惡趣者。</sent>
+<sent type="main" lang="kor" page="32a" n="3">비록 모딘 뎍 리고 됴 法 닷고 몯야 惡趣예 러디고도</sent>
+<sent type="main" lang="chi" page="32a" n="4">以彼如來本願威力令其現前</sent>
+<sent type="main" lang="kor" page="32a" n="4">뎌 如來ᄉ 本願威力으로 알 뵈샤</sent>
+<sent type="main" lang="chi" page="32a-32b" n="5">暫聞名號從彼命終還生人趣。</sent>
+<sent type="main" lang="kor" page="32a-32b" n="5">일후믈 간 들이시면 뎌셔 주거 도로 人間애 나</sent><!--^간-->
+
+<sent type="main" lang="chi" page="32b" n="1">得正見精進善調意樂便能捨家趣於非家。</sent>
+<sent type="main" lang="kor" page="32b" n="1">正히 보 精進 得야 이든 드로 出家야</sent>
+<sent type="main" lang="chi" page="32b" n="2">如來法中受持學處無有毀犯。</sent>
+<sent type="main" lang="kor" page="32b" n="2">正 봄과 해 드로 허디 아니야</sent>
+<sent type="main" lang="chi" page="32b" n="3">正見多聞解甚深義。</sent>
+<sent type="main" lang="kor" page="32b" n="3">甚히 기픈 들 알며</sent>
+<sent type="main" lang="chi" page="32b" n="4">離增上慢不謗正法。</sent>
+<sent type="main" lang="kor" page="32b" n="4">增上慢 여희여 正法을 비웃디 아니야</sent>
+<sent type="main" lang="chi" page="32b" n="5">不爲魔伴</sent>
+<sent type="main" lang="kor" page="32b" n="5">魔 버디 아니 외야</sent>
+<sent type="main" lang="chi" page="32b-33a" n="6">漸次修行諸菩薩行速得圓滿。</sent>
+<sent type="main" lang="kor" page="32b-33a" n="6">漸漸 菩薩ᄉ 行 닷가 圓滿 리 得리라</sent><!--'리'의 '리'는 판독 불가자, 추정하여 보사함--><!--菩^薩-->
+
+<sent type="main" lang="chi" page="33a" n="1">復次曼殊室利。若諸有情慳貪嫉妒</sent>
+<sent type="main" lang="kor" page="33a" n="1"> 文殊師利여 有情히 貪고 새옴라</sent>
+<sent type="main" lang="chi" page="33a" n="2">自讚毀他。</sent>
+<sent type="main" lang="kor" page="33a" n="2">제 모 기리고  허러</sent>
+<sent type="main" lang="chi" page="33a" n="3">當墮三惡趣中</sent>
+<sent type="main" lang="kor" page="33a" n="3">三惡趣예 러디여</sent>
+<sent type="main" lang="chi" page="33a" n="4">無量千歲受諸劇苦。</sent>
+<sent type="main" lang="kor" page="33a" n="4">無量 千歲  受苦다가</sent>
+<sent type="main" lang="chi" page="33a" n="5">受劇苦已從彼命終來生人間</sent>
+<sent type="main" lang="kor" page="33a" n="5">뎌셔 주거 人間애 나고도</sent>
+<sent type="main" lang="chi" page="33a-33b" n="6">作牛馬駝驢</sent>
+<sent type="main" lang="kor" page="33a-33b" n="6">어나 리어나 □□어나 라귀어나 외야</sent><!--탈자는 낙타를 이르는 말--><!--□^어-->
+
+<sent type="main" lang="chi" page="33b" n="1">恒被鞭撻飢渴逼惱。</sent>
+<sent type="main" lang="kor" page="33b" n="1">長常 채 맛고 주으륨과 목 로로 受苦며</sent>
+<sent type="main" lang="chi" page="33b" n="2">又常負重隨路而行</sent>
+<sent type="main" lang="kor" page="33b" n="2"> 長常 므거 거슬 지여 길흘 조차 니다가</sent>
+<sent type="main" lang="chi" page="33b" n="3">或得爲人生居下賤作人奴婢</sent>
+<sent type="main" lang="kor" page="33b" n="3">시혹 사미 외오도 가  죠 외야</sent>
+<sent type="main" lang="chi" page="33b" n="4">受他驅役恒不自在。</sent>
+<sent type="main" lang="kor" page="33b" n="4"> 브룐 일 녀 녜 自得디 몯리니</sent>
+<sent type="main" lang="chi" page="33b-34a" n="5">若昔人中曾聞世尊藥師琉璃光如來名號。</sent>
+<sent type="main" lang="kor" page="33b-34a" n="5">다가 아래 人間애 이 저긔 藥師瑠璃光如來ᄉ 일후믈 듣단디면</sent><!--'師', '믈' 보사--><!--師^瑠-->
+
+<sent type="main" lang="chi" page="34a" n="1">由此善因今復憶念至心歸依。</sent>
+<sent type="main" lang="kor" page="34a" n="1">이 됴 因緣으로 이제 와  각야 고 로 歸依면</sent>
+<sent type="main" lang="chi" page="34a" n="2">以佛神力衆苦解脫。</sent>
+<sent type="main" lang="kor" page="34a" n="2">부텻 神力으로 한 受苦 버서</sent><!--'으로 한', '明' 보사-->
+<sent type="main" lang="chi" page="34a" n="3">諸根聰利智慧多聞。</sent>
+<sent type="main" lang="kor" page="34a" n="3">諸根이 聦明코 카 智慧며 해 드러</sent><!--'드러' 보사-->
+<sent type="main" lang="chi" page="34a-34b" n="4">恒求勝法常遇善友。</sent>
+<sent type="main" lang="kor" page="34a-34b" n="4">長常 됴 法을 求야 어딘 버들 맛나아</sent><!--딘 ^ 버-->
+
+<sent type="main" lang="chi" page="34b" n="1">永斷魔罥破無明穀。</sent>
+<sent type="main" lang="kor" page="34b" n="1">魔 그므를 기리 그츠며 無明을 헐며</sent>
+<sent type="main" lang="chi" page="34b" n="2">竭煩惱河。解脫一切生老病死憂悲苦惱。</sent>
+<sent type="main" lang="kor" page="34b" n="2">煩惱ᅵ 다아 一切 生老病死 憂悲苦惱 버서나리라</sent>
+<sent type="main" lang="chi" page="34b" n="3">復次曼殊室利。若諸有情好喜乖離。</sent>
+<sent type="main" lang="kor" page="34b" n="3"> 文殊師利여 有情히 과 닫나 즐겨</sent>
+<sent type="main" lang="chi" page="34b" n="4">更相鬥訟惱亂自他。以身語意造作增長種種惡業。</sent>
+<sent type="main" lang="kor" page="34b" n="4">서르 싸화 저와 과 어즈려 種種앳 모딘 業을 길어</sent>
+<sent type="main" lang="chi" page="34b-35a" n="5">展轉常爲不饒益事互相謀害。</sent>
+<sent type="main" lang="kor" page="34b-35a" n="5">녜 饒益디 아니 이 고 서르 害□  야</sent><!--탈자는 ''로 추정됨--><!--饒^益-->
+
+<sent type="main" lang="chi" page="35_1a" n="1">告召山林樹塚等神</sent>
+<sent type="main" lang="kor" page="35_1a" n="1">뫼히며 수프리며 즘게며 무더멧 神靈게 니고</sent><!--'더' 보사-->
+<sent type="main" lang="chi" page="35_1a" n="2">殺諸衆生取其血肉祭祀藥叉邏剎婆等。</sent>
+<sent type="main" lang="kor" page="35_1a" n="2"> 주겨 夜叉 羅刹 等을 이바며</sent>
+<sent type="main" lang="chi" page="35_1a" n="3">書怨人名作其形像以惡咒術而咒咀之。</sent>
+<sent type="main" lang="kor" page="35_1a" n="3">믜 사 일훔 쓰며 얼구를 라 모딘 呪術로 비러</sent>
+<sent type="main" lang="chi" page="35_1a" n="4">厭媚蠱道咒起屍鬼</sent>
+<sent type="main" lang="kor" page="35_1a" n="4">厭魅 蠱道 며 起屍鬼 呪야</sent><!--쪽 번호 '35上ᄀ-35下ᄂ'은 '35a-35_3b'로 입력함-->
+<sent type="anno" lang="chi" page="35_1a-35b" n="5">없음</sent>
+<sent type="anno" lang="kor" page="35_1a-35b" n="5">厭魅 오누르 鬼神이니 鳩槃茶ᅵ라</sent><!-- ^ 鬼-->
+
+<sent type="anno" lang="chi" page="35_1b" n="1">없음</sent>
+<sent type="anno" lang="kor" page="35_1b" n="1">蠱道  쏘배 벌에 잇게 씨라</sent>
+<sent type="anno" lang="chi" page="35_1b" n="2">없음</sent>
+<sent type="anno" lang="kor" page="35_1b" n="2">起屍鬼 주검 니르왇 귓거시라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno" lang="chi" page="35_1b" n="3">「又一時，我在冥寧國白土之邑，</sent><!--이하 관련 저경 출전: T01n0001_011 長阿含經 第11卷 http://tripitaka.cbeta.org/T01n0001_011 -->
+<sent type="anno" lang="kor" page="35_1b" n="3"> 저근 부톄 冥寧國 白土邑에 겨시더니</sent><!--'' 보사-->
+<sent type="anno" lang="chi" page="35_1b" n="4">時有尼乾子，名究羅帝，在白土住，</sent>
+<sent type="anno" lang="kor" page="35_1b" n="4">그제 尼乾子 일훔 究羅帝라 호리 白土애 잇더니</sent>
+<sent type="anno" lang="chi" page="35_1b" n="5">人所宗敬，名稱遠聞，多得利養。</sent>
+<sent type="anno" lang="kor" page="35_1b" n="5">사미 恭敬야 일후미 머리 들여 利養 만히 얻더니</sent>
+<sent type="anno" lang="chi" page="35_1b" n="6">時，我著衣持鉢，入城乞食，</sent>
+<sent type="anno" lang="kor" page="35_1b" n="6">그제 부톄 옷 니브시고 바리 가지샤 城의 드러 乞食더시니</sent>
+<sent type="anno" lang="chi" page="35_1b" n="7">時善宿比丘隨我後行，</sent>
+<sent type="anno" lang="kor" page="35_1b" n="7">善宿比丘ᅵ 부텻 뒤헤 조 가더니</sent>
+<sent type="anno" lang="chi" page="35_1b" n="8">見究羅帝尼乾子在糞堆上伏舐糠糟。梵志！當知時善宿比丘見此尼乾子在糞堆上伏舐糠糟已，</sent>
+<sent type="anno" lang="kor" page="35_1b" n="8">究羅帝尼乾子ᅵ  무딧 우희 겨를 구버 할커늘 보고</sent>
+<sent type="anno" lang="chi" page="35_1b" n="9">作是念言：『世間諸有阿羅漢、</sent>
+<sent type="anno" lang="kor" page="35_1b" n="9">善宿比丘ᅵ 너□□ 世間애 阿羅漢히 □…□</sent><!--'너□□'의 탈자는 '교'로 추정됨. '世'는 보사-->
+<sent type="anno" lang="chi" page="35_1b-35_2a" n="10">向阿羅漢道者無有及此，</sent>
+<sent type="anno" lang="kor" page="35_1b-35_2a" n="10">□…□漢道 向 사미 이 미츠리 업스니</sent><!--'漢道'의 앞 글자는 '阿羅'로 추정됨. '업'은 추정하여 보사한 것, 쪽 번호 35中ᄀ은 35_2a로 입력함--><!--□^漢-->
+
+<sent type="anno" lang="chi" page="35_2a" n="1">此尼乾子其道最勝，</sent>
+<sent type="anno" lang="kor" page="35_2a" n="1">이 尼乾子ᅵ 道理  爲頭도다</sent>
+<sent type="anno" lang="chi" page="35_2a" n="2">所以者何？</sent>
+<sent type="anno" lang="kor" page="35_2a" n="2">엇뎨어뇨 란</sent>
+<sent type="anno" lang="chi" page="35_2a" n="3">此人苦行乃能如是，</sent>
+<sent type="anno" lang="kor" page="35_2a" n="3">이 사미 苦行호 能히 이리 야</sent>
+<sent type="anno" lang="chi" page="35_2a" n="4">除捨憍慢，於糞堆上伏舐糠糟。』</sent>
+<sent type="anno" lang="kor" page="35_2a" n="4">憍慢  려  무딧 우희 겨를 구버 할놋다 거늘</sent>
+<sent type="anno" lang="chi" page="35_2a" n="5">「梵志！時，我右旋告善宿曰：</sent>
+<sent type="anno" lang="kor" page="35_2a" n="5">그제 부톄 올 녀그로 도샤 善宿려 니샤</sent>
+<sent type="anno" lang="chi" page="35_2a" n="6">『汝意愚人！寧可自稱為釋子耶？』</sent>
+<sent type="anno" lang="kor" page="35_2a" n="6">네 디 어린 사미 엇뎨 네 釋子ᅵ로라 다</sent>
+<sent type="anno2" lang="chi" page="35_2a" n="7">「爾時，四大河入海已，</sent><!--이하 관련 저경 출전: 大正新脩大藏經　第02冊 No.125 增壹阿含經 第 21 卷 http://tripitaka.cbeta.org/mobile/index.php?index=T02n0125_021 , T50n2041_001 釋迦氏譜 第1卷에도 일부 비슷한 내용이 있음-->
+<sent type="anno2" lang="kor" page="35_2a" n="7">부톄 니샤 四大河水 바래 든 後에</sent>
+<sent type="anno2" lang="chi" page="35_2a" n="8">無復本名字，但名為海。</sent>
+<sent type="anno2" lang="kor" page="35_2a" n="8">외야 本來ᄉ 일후미 업서 가지로 일후미 바리니</sent>
+<sent type="anno2" lang="chi" page="35_2a" n="9">此亦如是。有四姓。云何為四？剎利、婆羅門、長者、居士種，於如來所，剃除鬚髮，</sent>
+<sent type="anno2" lang="kor" page="35_2a" n="9">네 가짓 姓 刹利 婆羅門 長者 居士種이 如來ᄉ 거긔 머리 갓가</sent>
+<sent type="anno2" lang="chi" page="35_2a-35_2b" n="10">著三法衣，出家學道，</sent>
+<sent type="anno2" lang="kor" page="35_2a-35_2b" n="10">세 가짓 法依 니버 出家야 道理 호면</sent><!--니^버-->
+
+<sent type="anno2" lang="chi" page="35_2b" n="1">無復本姓，但言沙門釋迦子。</sent>
+<sent type="anno2" lang="kor" page="35_2b" n="1">외야 本來ᄉ 姓이 업서 오직 沙門 釋迦子ᅵ라 니</sent><!--35_2b는 35中ᄂ-->
+<sent type="anno2" lang="chi" page="35_2b" n="2">所以然者，如來眾者，其猶大海，四諦其如四大河，</sent>
+<sent type="anno2" lang="kor" page="35_2b" n="2">그러혼 고 如來衆은 大海 고 四諦 四大河ᅵ 니</sent>
+<sent type="anno2" lang="chi" page="35_2b" n="3">除去結使，入於無畏涅槃城。</sent>
+<sent type="anno2" lang="kor" page="35_2b" n="3">結使 더러 려 저품 업슨 涅槃城에 드니라</sent>
+<mark type="section_begin">○</mark>
+<sent type="anno2" lang="chi" page="35_2b" n="4">又長阿含經云。彌勒出世。諸比丘弟子等亦皆稱慈子。</sent><!--이하 관련 저경 출전: T53n2122_022 法苑珠林 第22卷 http://tripitaka.cbeta.org/T53n2122_022 -->
+<sent type="anno2" lang="kor" page="35_2b" n="4">부톄 니샤 彌勒이 世間애 나면 比丘弟子히 다 慈子ᅵ라 리니</sent>
+<sent type="anno2" lang="chi" page="35_2b" n="5">如我今弟子稱為釋子(彌勒者姓也此云慈氏也)</sent>
+<sent type="anno2" lang="kor" page="35_2b" n="5">내 이젯 弟子ᅵ 釋子ᅵ라 호미 니라</sent>
+<sent type="anno" lang="chi" page="35_2b" n="6">善宿白佛言：</sent>
+<sent type="anno" lang="kor" page="35_2b" n="6">善宿ᅵ 부텻긔 </sent>
+<sent type="anno" lang="chi" page="35_2b-35_3a" n="7">『世尊！何故稱我為愚？不應自稱為釋子耶？』</sent>
+<sent type="anno" lang="kor" page="35_2b-35_3a" n="7">世尊하 엇던 젼로 나 어리다 샤 釋子ᅵ로라 호 몯리라 시니고</sent><!--子^ᅵ-->
+
+<sent type="anno" lang="chi" page="35_3a" n="1">佛告善宿言：</sent>
+<sent type="anno" lang="kor" page="35_3a" n="1">부톄 니샤</sent><!--35_3a는 35下ᄀ-->
+<sent type="anno" lang="chi" page="35_3a" n="2">『汝愚人！觀此究羅帝蹲糞堆上伏食糠糟，汝見已，</sent>
+<sent type="anno" lang="kor" page="35_3a" n="2">네 어린 사미 이 究羅帝  무딧 우희 줏구려셔 겨를 구버 먹거늘 보고</sent>
+<sent type="anno" lang="chi" page="35_3a" n="3">作是念：諸世間阿羅漢及向羅漢者，此究羅帝最為尊上，所以者何？</sent>
+<sent type="anno" lang="kor" page="35_3a" n="3">네 너교 世間 阿羅漢과 阿羅漢 向 사해 이 究羅帝  尊上니 엇뎨어뇨 란</sent>
+<sent type="anno" lang="chi" page="35_3a" n="4">今此究羅帝乃能苦行，除捨憍慢，蹲糞堆上伏舐糠糟。</sent>
+<sent type="anno" lang="kor" page="35_3a" n="4">이 究羅帝 能히 苦行야 憍慢을 려  무딧 우희 줏구려셔 겨를 구버 할놋다</sent>
+<sent type="anno" lang="chi" page="35_3a" n="5">汝有是念不？』</sent>
+<sent type="anno" lang="kor" page="35_3a" n="5">네 이 念을 뒷던다 아니 뒷던다</sent>
+<sent type="anno" lang="chi" page="35_3a" n="6">答我言：『實爾。』</sent>
+<sent type="anno" lang="kor" page="35_3a" n="6">對答 實로 뒷다다</sent>
+<sent type="anno" lang="chi" page="35_3a" n="7">善宿又言：『何故？世尊！於阿羅漢所生嫉妬心。』</sent>
+<sent type="anno" lang="kor" page="35_3a" n="7">善宿이   엇뎨 世尊이 阿羅漢의 거긔 새옴  내시니고</sent>
+<sent type="anno" lang="chi" page="35_3a-35_3b" n="8">佛告愚人：『我不於羅漢所生嫉妬心，何為於羅漢所生嫉妬心？</sent>
+<sent type="anno" lang="kor" page="35_3a-35_3b" n="8">부톄 니샤 어린 사마 내 엇뎨 阿羅漢게 새옴  내리오</sent><!--漢^-->
+
+<sent type="anno" lang="chi" page="35_3b" n="1">汝今愚人！謂究羅帝真阿羅漢，</sent>
+<sent type="anno" lang="kor" page="35_3b" n="1">네 이제 어린 사미 究羅帝 너교 眞實ᄉ 阿羅漢이라 건마</sent><!--35_3a는 35下ᄂ-->
+<sent type="anno" lang="chi" page="35_3b" n="2">此人却後七日當腹脹命終，</sent>
+<sent type="anno" lang="kor" page="35_3b" n="2">이 사미 後ᄉ 닐웨예  부러 命終야</sent>
+<sent type="anno" lang="chi" page="35_3b" n="3">生起屍餓鬼中，常苦飢餓，</sent>
+<sent type="anno" lang="kor" page="35_3b" n="3">起屍餓鬼 中에 나 녜 주으료 셜리니</sent>
+<sent type="anno" lang="chi" page="35_3b" n="4">其命終後，以葦索繫抴於塚間。</sent>
+<sent type="anno" lang="kor" page="35_3b" n="4">命終 後에 로 야 무 서리예 긋어다가 두리라</sent>
+<sent type="anno" lang="chi" page="35_3b" n="5">汝若不信者，可先往語之。』</sent>
+<sent type="anno" lang="kor" page="35_3b" n="5">너옷 信티 아니커든 몬져 가 니르라</sent>
+<sent type="anno" lang="chi" page="35_3b" n="6">「時，善宿即往詣究羅帝所，說言：</sent>
+<sent type="anno" lang="kor" page="35_3b" n="6">그제 善宿ᅵ 즉재 究羅帝의게 가 닐오</sent>
+<sent type="anno" lang="chi" page="35_3b" n="7">『彼沙門瞿曇記汝：</sent>
+<sent type="anno" lang="kor" page="35_3b" n="7">뎌 沙門 瞿曇이 너를 닐오</sent>
+<sent type="anno" lang="chi" page="35_3b" n="8">却後七日當腹脹命終，生起屍餓鬼中，</sent>
+<sent type="anno" lang="kor" page="35_3b" n="8">이 後ᄉ 닐웨예 다  부러 命終야 起屍餓鬼 中에 나리니</sent>
+<sent type="anno" lang="chi" page="35_3b" n="9">死已以葦索繫抴於塚間。』</sent>
+<sent type="anno" lang="kor" page="35_3b" n="9">죽거든 로 야 무 서리예 긋어다가 두리라 더라</sent>
+<sent type="anno" lang="chi" page="35_3b-36_1a" n="10">善宿復白：『汝當省食，勿使彼言當也。』</sent>
+<sent type="anno" lang="kor" page="35_3b-36_1a" n="10">善宿ᅵ 닐오 네 모로매 밥 조리 머거 뎌 말미 올티 아니케 라</sent><!--宿^ᅵ-->
+
+<sent type="anno" lang="chi" page="36_1a" n="1">梵志！當知時究羅帝至滿七日腹脹而死，即生起屍餓鬼中，</sent>
+<sent type="anno" lang="kor" page="36_1a" n="1">究羅帝 닐웨 거늘  부러 주거 즉재 起屍餓鬼 中에 나거늘</sent>
+<sent type="anno" lang="chi" page="36_1a" n="2">死屍以葦索繫抴於塚間。</sent>
+<sent type="anno" lang="kor" page="36_1a" n="2">주거믈 로 야 무 서리예 긋어다가 두니라</sent>
+<sent type="anno" lang="chi" page="36_1a" n="3">爾時，善宿聞佛語已，屈指計日，至七日已，時，善宿比丘即往至裸形村中，到已，</sent>
+<sent type="anno" lang="kor" page="36_1a" n="3">그제 善宿ᅵ 손 고펴 날 혜여 닐웨예 다라 즉재 裸形村 中에 가</sent>
+<sent type="anno2" lang="kor" page="36_1a" n="4">裸 옷 바씨오 形은 얼구리오 村 히니</sent>
+<sent type="anno2" lang="kor" page="36_1a" n="5">外道ᅵ 옷 밧고 붓그륨 업스니 外道 사 힐 裸形村이라 니라</sent>
+<sent type="anno" lang="chi" page="36_1a" n="6">問其村人曰：『諸賢！究羅帝今何所在？』</sent>
+<sent type="anno" lang="kor" page="36_1a" n="6">그  사려 무로 究羅帝 이제 어듸 잇뇨</sent>
+<sent type="anno" lang="chi" page="36_1a-36_1b" n="7">報曰：『已取命終。』</sent>
+<sent type="anno" lang="kor" page="36_1a-36_1b" n="7">對答호 쎠 命終니라</sent><!--命^終-->
+
+<sent type="anno" lang="chi" page="36_1b" n="1">問曰：『何患命終耶？』</sent>
+<sent type="anno" lang="kor" page="36_1b" n="1">무로 므슴 病으로 命終뇨</sent>
+<sent type="anno" lang="chi" page="36_1b" n="2">答曰：『腹脹。』』</sent>
+<sent type="anno" lang="kor" page="36_1b" n="2">對答호  부르니라</sent>
+<sent type="anno" lang="chi" page="36_1b" n="3">問曰：『云何殯送？』</sent>
+<sent type="anno" lang="kor" page="36_1b" n="3">무로 엇뎨 送葬뇨</sent>
+<sent type="anno" lang="chi" page="36_1b" n="4">答曰：『以葦索繫抴於塚間。</sent>
+<sent type="anno" lang="kor" page="36_1b" n="4">對答호 로 야 무 서리예 긋어다가 두니라</sent>
+<sent type="anno" lang="chi" page="36_1b" n="5">「梵志！時，善宿聞此語已，即往塚間，欲至未至，時，</sent>
+<sent type="anno" lang="kor" page="36_1b" n="5">善宿ᅵ 즉재 무 서리예 가 마 다 저긔</sent>
+<sent type="anno" lang="chi" page="36_1b" n="6">彼死屍竝動膝脚，忽爾而蹲，</sent>
+<sent type="anno" lang="kor" page="36_1b" n="6">뎌 주거미 무루피며 바리며 다 놀여 믄득 줏구리 거늘</sent>
+<sent type="anno" lang="chi" page="36_1b" n="7">時彼善宿故前到死屍所，語言：『究羅帝！汝命終耶？』</sent>
+<sent type="anno" lang="kor" page="36_1b" n="7">善宿ᅵ 나가 닐오 究羅帝여 네 命終다</sent>
+<sent type="anno" lang="chi" page="36_1b" n="8">死屍答言：『我已命終。』</sent>
+<sent type="anno" lang="kor" page="36_1b" n="8">주거미 닐오 내 마 命終호라</sent>
+<sent type="anno" lang="chi" page="36_1b" n="9">問曰：『汝以何患命終？』</sent>
+<sent type="anno" lang="kor" page="36_1b" n="9">무로 므슴 病으로 命終다</sent>
+<sent type="anno" lang="chi" page="36_1b" n="10">死屍答言：『瞿曇記我，七日後腹脹命終，</sent>
+<sent type="anno" lang="kor" page="36_1b" n="10">주거미 닐오 瞿曇이 나 닐오 닐웨 後에  부러 命終리라 더니</sent>
+<sent type="anno" lang="chi" page="36_1b" n="11">我如其言，至滿七日，腹脹命終。』</sent>
+<sent type="anno" lang="kor" page="36_1b" n="11">내 그 말티 닐웨 거늘  부러 命終호라</sent>
+<sent type="anno" lang="chi" page="36_1b-36_2a" n="12">善宿復問：</sent>
+<sent type="anno" lang="kor" page="36_1b-36_2a" n="12">善宿ᅵ  무로</sent><!--무^로-->
+
+<sent type="anno" lang="chi" page="36_2a" n="1">『汝生何處？』</sent>
+<sent type="anno" lang="kor" page="36_2a" n="1">네 어느 고대 난다</sent><!--36_2a는 36中ᄀ-->
+<sent type="anno" lang="chi" page="36_2a" n="2">屍即報言：『彼瞿曇所記，當生起屍餓鬼中，</sent>
+<sent type="anno" lang="kor" page="36_2a" n="2">주거미 닐오 뎌 瞿曇의 닐오매 起屍餓鬼 中에 나리라 더니</sent>
+<sent type="anno" lang="chi" page="36_2a" n="3">我今日生起屍餓鬼中。』</sent>
+<sent type="anno" lang="kor" page="36_2a" n="3">내 오 起屍餓鬼 中에 냇노라</sent>
+<sent type="anno" lang="chi" page="36_2a" n="4">善宿問曰：『汝命終時，云何殯送？』</sent>
+<sent type="anno" lang="kor" page="36_2a" n="4">善宿ᅵ 무로 네 命終 제 엇뎨 送葬더뇨</sent>
+<sent type="anno" lang="chi" page="36_2a" n="5">屍答曰：『瞿曇所記，以葦索繫抴於塚間，</sent>
+<sent type="anno" lang="kor" page="36_2a" n="5">對答호 瞿曇 닐오매 로 야 무 서리예 긋어다가 두리라 더니</sent>
+<sent type="anno" lang="chi" page="36_2a" n="6">實如彼言，以葦索繫抴於塚間。』</sent>
+<sent type="anno" lang="kor" page="36_2a" n="6">眞實로 뎌 말티 로 야 무 서리예 긋어다가 두니라</sent>
+<sent type="anno" lang="chi" page="36_2a" n="7">時，死屍語善宿曰：</sent>
+<sent type="anno" lang="kor" page="36_2a" n="7">그제 주거미 善宿려 닐오</sent>
+<sent type="anno" lang="chi" page="36_2a" n="8">『汝雖出家，不得善利。</sent>
+<sent type="anno" lang="kor" page="36_2a" n="8">네 비록 出家야도 善利 得디 몯니</sent>
+<sent type="anno" lang="chi" page="36_2a" n="9">瞿曇沙門說如此事，汝常不信。』作是語已，</sent>
+<sent type="anno" lang="kor" page="36_2a" n="9">瞿曇 沙門이 이런 이 니거늘 네 녜 信티 아니니라 고</sent>
+<sent type="anno" lang="chi" page="36_2a" n="10">死屍還臥。</sent>
+<sent type="anno" lang="kor" page="36_2a" n="10">주거미 도로 누니라</sent>
+<sent type="anno" lang="chi" page="36_2a-36_2b" n="11">「梵志！時，善宿比丘來至我所，頭面禮足，</sent>
+<sent type="anno" lang="kor" page="36_2a-36_2b" n="11">그제 善宿比丘ᅵ 부텻긔 와 머리 조 禮數고</sent><!--부^텻-->
+
+<sent type="anno" lang="chi" page="36_2b" n="1">在一面坐，不以此緣語我，</sent>
+<sent type="anno" lang="kor" page="36_2b" n="1"> 面에 고 이 아니 거늘</sent><!--36_2b는 36中ᄀ-->
+<sent type="anno" lang="chi" page="36_2b" n="2">我尋語曰：『如我所記，究羅帝者實爾以不？』</sent>
+<sent type="anno" lang="kor" page="36_2b" n="2">부톄 니샤 내 니던 究羅帝 眞實로 그러터녀 아니터녀</sent>
+<sent type="anno" lang="chi" page="36_2b" n="3">答曰：『實爾，如世尊言。』</sent><!--이하 내용: 梵志！我如是數數為善宿比丘現神通證，而彼猶言：『世尊不為我現神通。』」-->
+<sent type="anno" lang="kor" page="36_2b" n="3">對答 實로 世尊 말 더다</sent>
+<sent type="main" lang="chi" page="36_2b" n="4">令斷彼命及壞其身。</sent>
+<sent type="main" lang="kor" page="36_2b" n="4">뎌의 목수믈 긋긔 거든</sent>
+<sent type="main" lang="chi" page="36_2b" n="5">是諸有情若得聞此藥師琉璃光如來名號。</sent>
+<sent type="main" lang="kor" page="36_2b" n="5">이 有情히 藥師瑠璃光如來ᄉ 일후믈 듣면</sent>
+<sent type="main" lang="chi" page="36_2b" n="6">彼諸惡事悉不能害。</sent>
+<sent type="main" lang="kor" page="36_2b" n="6">뎌 모딘 이리 다 害티 몯며</sent>
+<sent type="main" lang="chi" page="36_2b" n="7">一切展轉皆起慈心利益安樂無損惱意及嫌恨心。</sent>
+<sent type="main" lang="kor" page="36_2b" n="7">서르 慈心 내야 믜 미 업고</sent>
+<sent type="main" lang="chi" page="36_2b-36_3a" n="8">各各歡悅於自所受生於喜足。不相侵淩互爲饒益。</sent>
+<sent type="main" lang="kor" page="36_2b-36_3a" n="8">各各 깃거 서르 饒益긔 리라</sent><!--르 ^ 饒-->
+
+<sent type="main" lang="chi" page="36_3a" n="1">復次曼殊室利。</sent><!--36_3a는 36下ᄀ-->
+<sent type="main" lang="kor" page="36_3a" n="1"> 文殊師利여</sent>
+<sent type="main" lang="chi" page="36_3a" n="2">若有四衆苾芻苾芻尼鄔波素迦鄔波斯迦及餘淨信善男子善女人等。有能受持八分齊戒</sent>
+<sent type="main" lang="kor" page="36_3a" n="2">다가 比丘 比丘尼 優婆塞 優婆夷며 녀나 淨信 善男子 善女人이 八分齋戒 디녀</sent>
+<sent type="anno" lang="kor" page="36_3a" n="3">八分齋戒 八支齋라</sent>
+<sent type="main" lang="chi" page="36_3a" n="4">經一年或復三月受持學處</sent>
+<sent type="main" lang="kor" page="36_3a" n="4">  디나거나 석 만 거나 야</sent>
+<sent type="main" lang="chi" page="36_3a-36_3b" n="5">以此善根願生西方極樂世界無量壽佛</sent>
+<sent type="main" lang="kor" page="36_3a-36_3b" n="5">이 됴 根源으로 西方 極樂世界 無量壽佛 나</sent><!--源^으-->
+
+<sent type="main" lang="chi" page="36_3b" n="1">所聽聞正法而未定者。</sent>
+<sent type="main" lang="kor" page="36_3b" n="1">正法 듣고져 發願호 一定 몯 야 이셔</sent><!--36_3b는 36下ᄂ-->
+<sent type="main" lang="chi" page="36_3b" n="2">若聞世尊藥師琉璃光如來名號。</sent>
+<sent type="main" lang="kor" page="36_3b" n="2">藥師瑠璃光如來ᄉ 일후믈 듣면</sent>
+<sent type="main" lang="chi" page="36_3b" n="3">臨命終時有八菩薩乘神通來</sent>
+<sent type="main" lang="kor" page="36_3b" n="3">命終 쩌긔 여듧 菩薩이 虛空 타 와</sent>
+<sent type="anno" lang="chi" page="36_3b-37a" n="4">佛言，昔作方曼荼羅供八菩薩所致。謂觀世音菩薩，彌勒菩薩，虛空藏菩薩，普賢菩薩，執金剛主菩薩，文殊師利菩薩，止諸障菩薩，地藏菩薩。</sent><!--출전: 嘉興大藏經　第31冊 No.B271 閱藏知津 第 5 卷-->
+<sent type="anno" lang="kor" page="36_3b-37a" n="4">여듧 菩薩 觀世音菩薩와 彌勒菩薩와 虛空藏菩薩와 普賢菩薩와 金剛藏菩薩와 文殊師利菩薩와 除障碍菩薩와 地藏王菩薩왜라</sent><!--藏^菩-->
+
+<sent type="main" lang="chi" page="37a" n="1">示其道路。卽於彼界種種雜色衆寶華中自然化生。</sent>
+<sent type="main" lang="kor" page="37a" n="1">길흘 쳐 즉자히 뎌 나랏 種種 雜色 衆寶花 中에 自然히 化야 나며</sent>
+<sent type="main" lang="chi" page="37a" n="2">或有因此生於天上。</sent>
+<sent type="main" lang="kor" page="37a" n="2">일로브터 天上애 나리도 이시리니</sent>
+<sent type="main" lang="chi" page="37a-37b" n="3">雖生天中而本善根亦未窮盡</sent>
+<sent type="main" lang="kor" page="37a-37b" n="3">비록 하해 나고도 本來 됴 根源이 다디 아니</sent><!--이 ^ 다-->
+
+<sent type="main" lang="chi" page="37b" n="1">不復更生諸餘惡趣。</sent>
+<sent type="main" lang="kor" page="37b" n="1">녀나 惡趣예 다시 나디 아니야</sent>
+<sent type="main" lang="chi" page="37b" n="2">天上壽盡還生人間。</sent>
+<sent type="main" lang="kor" page="37b" n="2">하 목수미 다면 도로 人間애 나아</sent>
+<sent type="main" lang="chi" page="37b" n="3">或爲輪王統攝四洲</sent>
+<sent type="main" lang="kor" page="37b" n="3">輪王이 외야 四天下 거느려</sent>
+<sent type="main" lang="chi" page="37b" n="4">威德自在</sent>
+<sent type="main" lang="kor" page="37b" n="4">威嚴과 德괘 自在야</sent>
+<sent type="main" lang="chi" page="37b" n="5">安立無量百千有情於十善道。</sent>
+<sent type="main" lang="kor" page="37b" n="5">無量 百千 有情을 十善道애 便安킈 리도 이시며</sent>
+<sent type="main" lang="chi" page="37b-38a" n="6">或生剎帝利婆羅門居士大家</sent>
+<sent type="main" lang="kor" page="37b-38a" n="6">刹帝利 婆羅門 居士 큰 지븨 나아</sent><!--'士'는 보사--><!--刹^帝-->
+
+<sent type="anno" lang="chi" page="38a" n="1">王舍城人也。姓剎帝利。父斛飯王。</sent><!--관련 내용을 보임. 卍新纂大日本續藏經　第78冊 No.1553 天聖廣燈錄 第 2 卷-->
+<sent type="anno" lang="kor" page="38a" n="1">刹帝利 王ᄀ 姓이라</sent>
+<sent type="main" lang="chi" page="38a" n="2">多饒財寶倉庫盈溢</sent>
+<sent type="main" lang="kor" page="38a" n="2">쳔랴 有餘고 倉庫ᅵ 기 넘고</sent>
+<sent type="anno" lang="kor" page="38a" n="3">倉 갈씨니 나 갈씨라</sent>
+<sent type="anno" lang="kor" page="38a" n="4">庫 쳔 초아 뒷 지비라</sent>
+<sent type="main" lang="chi" page="38a" n="5">形相端嚴眷屬具足聰明智慧</sent>
+<sent type="main" lang="kor" page="38a" n="5"> 端正고 眷屬이 며 聦明며 智慧며</sent>
+<sent type="main" lang="chi" page="38a-38b" n="6">勇健威猛如大力士。</sent>
+<sent type="main" lang="kor" page="38a-38b" n="6">勇猛코 게여미 큰 力士 니도 이시며</sent><!--니^도-->
+
+<sent type="main" lang="chi" page="38b" n="1">若是女人得聞世尊藥師如來名號至心受持。</sent>
+<sent type="main" lang="kor" page="38b" n="1">겨지비라도 이 藥師如來ᄉ 일후믈 듣 고 로 디니면</sent>
+<sent type="main" lang="chi" page="38b" n="2">於後不復更受女身。</sent>
+<sent type="main" lang="kor" page="38b" n="2">외야 겨지븨 모미 아니 외리라</sent>
+<sent type="main" lang="chi" page="38b" n="3">爾時曼殊室利童子白佛言。</sent>
+<sent type="main" lang="kor" page="38b" n="3">그 文殊師利 부텻긔 샤</sent>
+<sent type="main" lang="chi" page="38b" n="4">我當誓於像法轉時以種種方便</sent>
+<sent type="main" lang="kor" page="38b" n="4">내 盟誓 노니 像法 轉 時節에 種種 方便으로</sent>
+<sent type="main" lang="chi" page="38b-39a" n="5">令諸淨信善男子善女人等得聞世尊藥師琉璃光如來名號。</sent>
+<sent type="main" lang="kor" page="38b-39a" n="5">淨信 善男子 善女人히 이 藥師瑠璃光如來ᄉ 일후믈 듣긔 며</sent><!--'善男子'의 '善' 보사--><!--男^子-->
+
+<sent type="main" lang="chi" page="39a" n="1">乃至睡中亦以佛名覺悟其耳。</sent>
+<sent type="main" lang="kor" page="39a" n="1"> 저기라도 이 부텻 일후므로 들여 긔 호리다</sent>
+<sent type="main" lang="chi" page="39a" n="2">世尊。若於此經受持讀誦</sent>
+<sent type="main" lang="kor" page="39a" n="2">世尊하 아뫼나 이 經을 디녀 닐거 외오며</sent>
+<sent type="main" lang="chi" page="39a" n="3">或復爲他演說開示。若自書。若教人書。</sent>
+<sent type="main" lang="kor" page="39a" n="3">려 불어 닐어 여러 뵈어나 제 쓰거나  여 쓰거나 고</sent>
+<sent type="main" lang="chi" page="39a-39b" n="4">恭敬尊重以種種華香塗抹香燒香華鬘瓔珞幡蓋伎樂而爲供養。</sent>
+<sent type="main" lang="kor" page="39a-39b" n="4">恭敬며 尊重히 너겨 種種 花香과 瓔珞과 幡과 蓋와 류로 供養고</sent><!--^며-->
+
+<sent type="main" lang="chi" page="39b" n="1">以五色綵作囊盛之</sent>
+<sent type="main" lang="kor" page="39b" n="1">五色 기로  라 녀허</sent>
+<sent type="main" lang="chi" page="39b" n="2">掃灑淨處敷設高座而用安處。</sent>
+<sent type="main" lang="kor" page="39b" n="2">조  믈 려 오 노 座 오 연면</sent>
+<sent type="main" lang="chi" page="39b" n="3">爾時四大天王與其眷屬及餘無量百千天衆</sent>
+<sent type="main" lang="kor" page="39b" n="3">그 四天王이 眷屬과 無量 百千 天衆 리고</sent>
+<sent type="main" lang="chi" page="39b-40a" n="4">皆詣其所供養守護。</sent>
+<sent type="main" lang="kor" page="39b-40a" n="4">다 그 고대 가 供養며 디킈리다</sent><!--供^養-->
+
+<sent type="main" lang="chi" page="40a" n="1">世尊。若此經寶流行之處</sent>
+<sent type="main" lang="kor" page="40a" n="1">世尊하 이 經 流行 해</sent>
+<sent type="anno" lang="chi" page="40a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="40a" n="2">流는 믈 흐를씨오 行 녈씨니</sent>
+<sent type="anno" lang="chi" page="40a" n="3">없음</sent>
+<sent type="anno" lang="kor" page="40a" n="3">法이 펴디여 가미 믈 흘러 녀미  流行이라 니라</sent>
+<sent type="main" lang="chi" page="40a" n="4">有能受持以彼世尊藥師琉璃光如來本願功德及聞名號。</sent>
+<sent type="main" lang="kor" page="40a" n="4">뎌 藥師瑠璃光如來ᄉ 本願功德을 디니며 일후믈 듣면</sent>
+<sent type="main" lang="chi" page="40a" n="5">當知是處無復橫死。</sent>
+<sent type="main" lang="kor" page="40a" n="5">다 이 해 橫死 주리 업스며</sent>
+<sent type="anno" lang="kor" page="40a-40b" n="6">橫 빗글씨니 橫死 제 命 아닌 일로 주글씨라</sent><!--일^로-->
+
+<sent type="main" lang="chi" page="40b" n="1">亦復不爲諸惡鬼神奪其精氣。</sent>
+<sent type="main" lang="kor" page="40b" n="1"> 모딘 귓것히 精氣 몯 아리니</sent>
+<sent type="anno" lang="kor" page="40b" n="2">精氣 넉시라   디라</sent>
+<sent type="main" lang="chi" page="40b" n="3">設已奪者還得如故身心安樂。</sent>
+<sent type="main" lang="kor" page="40b" n="3">비록 아도 도로 녜 야 몸과 괘 便安리다</sent>
+<sent type="main" lang="chi" page="40b" n="4">佛告曼殊室利。如是如是。如汝所說。曼殊室利。</sent>
+<sent type="main" lang="kor" page="40b" n="4">부톄 니샤 올타 올타 네 말 니라 文殊師利여</sent>
+<sent type="main" lang="chi" page="40b-41a" n="5">若有淨信善男子善女人等欲供養彼世尊藥師琉璃光如來者。</sent>
+<sent type="main" lang="kor" page="40b-41a" n="5">다가 淨信 善男子 善女人이 뎌 藥師瑠璃光如來 供養코져 거든</sent><!--璃^光-->
+
+<sent type="main" lang="chi" page="41a" n="1">應先造立彼佛形像。敷淸淨座而安處之。</sent>
+<sent type="main" lang="kor" page="41a" n="1">몬져 뎌 부텻 像 라 조 座애 노고</sent>
+<sent type="main" lang="chi" page="41a" n="2">散種種華燒種種香以種種幢幡莊嚴其處。</sent>
+<sent type="main" lang="kor" page="41a" n="2">種種ᄀ 곳 비코 種種ᄀ 香 퓌우고 種種ᄀ 幢幡으로 그  莊嚴고</sent>
+<sent type="main" lang="chi" page="41a" n="3">七日七夜受八分齋戒。</sent>
+<sent type="main" lang="kor" page="41a" n="3">밤낫 닐웨 八分齋戒 디녀</sent>
+<sent type="main" lang="chi" page="41a-41b" n="4">食淸淨食。澡浴香潔著新淨衣。</sent>
+<sent type="main" lang="kor" page="41a-41b" n="4">조 밥 먹고 沐浴 마 조 옷 닙고</sent><!--닙^고-->
+
+<sent type="main" lang="chi" page="41b" n="1">應生無垢濁心無怒害心。</sent>
+<sent type="main" lang="kor" page="41b" n="1"> 업슨 과 嗔心 업슨  내야</sent>
+<sent type="main" lang="chi" page="41b" n="2">於一切有情起利益安樂</sent>
+<sent type="main" lang="kor" page="41b" n="2">一切 有情에 利益며 安樂며</sent>
+<sent type="anno" lang="kor" page="41b" n="3">安樂 便安코 즐거씨라</sent>
+<sent type="main" lang="chi" page="41b" n="4">慈悲喜捨平等之心。</sent>
+<sent type="main" lang="kor" page="41b" n="4">慈悲喜捨 平等  니르와다</sent>
+<sent type="anno" lang="chi" page="41b" n="5">없음</sent>
+<sent type="anno" lang="kor" page="41b" n="5">慈 衆生  念야 便安코 즐거 일로 饒益게 코져 논 미오</sent>
+<sent type="anno" lang="chi" page="41b-42a" n="6">없음</sent>
+<sent type="anno" lang="kor" page="41b-42a" n="6">悲 衆生 어엿비 너겨 念야 여러 가짓 苦惱 受거든 受苦애 고져 논 미오</sent><!--고^져-->
+
+<sent type="anno" lang="chi" page="42a" n="1">없음</sent>
+<sent type="anno" lang="kor" page="42a" n="1">喜 깃글씨니 衆生 念호 즐거 이 조차 즐겨 호 得과뎌 야 恭敬야 慰勞논 미오</sent>
+<sent type="anno" lang="chi" page="42a" n="2">없음</sent>
+<sent type="anno" lang="kor" page="42a" n="2">捨 릴씨니 衆生 念호 믜디 아니며 디 아니야 平等 미라</sent>
+<sent type="anno" lang="chi" page="42a" n="3">없음</sent>
+<sent type="anno" lang="kor" page="42a" n="3"> 慈 嗔心 업수미 體오 즐거 일 주미 用이라</sent>
+<sent type="anno" lang="chi" page="42a" n="4">없음</sent>
+<sent type="anno" lang="kor" page="42a" n="4">悲 害티 아니호미 體오 受苦애 내요미 用이라</sent>
+<sent type="anno" lang="chi" page="42a" n="5">없음</sent>
+<sent type="anno" lang="kor" page="42a" n="5">喜 뎌를 즐겨 깃게 씨오</sent>
+<sent type="anno" lang="chi" page="42a" n="6">없음</sent>
+<sent type="anno" lang="kor" page="42a" n="6">捨 내 念을 여흴씨니 여희유미 捨ᅵ라</sent>
+<sent type="main" lang="chi" page="42a-42b" n="7">鼓樂歌讚右遶佛像。</sent>
+<sent type="main" lang="kor" page="42a-42b" n="7">류와 놀애로 讚嘆 佛像 올 녀그로 도고</sent><!--像 ^ 올-->
+
+<sent type="main" lang="chi" page="42b" n="1">復應念彼如來本願功德讀誦此經</sent>
+<sent type="main" lang="kor" page="42b" n="1">뎌 如來ᄉ 本願功德을  念야 이 經을 닐거 외오며</sent>
+<sent type="main" lang="chi" page="42b" n="2">思惟其義演說開示。</sent>
+<sent type="main" lang="kor" page="42b" n="2">들 야 불어 닐어 여러 뵈면</sent>
+<sent type="main" lang="chi" page="42b" n="3">隨所樂願一切皆遂。求長壽得長壽。</sent>
+<sent type="main" lang="kor" page="42b" n="3">一切 願이 다 이러 長壽를 求면 長壽를 得고</sent>
+<sent type="main" lang="chi" page="42b" n="4">求富饒得富饒。</sent>
+<sent type="main" lang="kor" page="42b" n="4">가며로 求면 가며로 得고</sent>
+<sent type="main" lang="chi" page="42b-43a" n="5">求官位得官位。</sent>
+<sent type="main" lang="kor" page="42b-43a" n="5">벼스를 求면 벼스를 得고</sent><!--면 ^ 벼-->
+
+<sent type="main" lang="chi" page="43a" n="1">求男女得男女。</sent>
+<sent type="main" lang="kor" page="43a" n="1">아  求면 아  得리라</sent>
+<sent type="main" lang="chi" page="43a" n="2">若復有人忽得惡夢</sent>
+<sent type="main" lang="kor" page="43a" n="2">아뫼나  사미 모딘 믈 어더</sent>
+<sent type="main" lang="chi" page="43a" n="3">見諸惡相。或怪鳥來集。</sent>
+<sent type="main" lang="kor" page="43a" n="3">구즌 相 보거나 妖怪 새 오거나</sent>
+<sent type="anno" lang="kor" page="43a" n="4">妖怪 常例디 아니 荒唐 이리라</sent>
+<sent type="main" lang="chi" page="43a" n="5">或於住處百怪出現。</sent>
+<sent type="main" lang="kor" page="43a" n="5">잇논 해 온 가짓 妖怪 뵈어나 거든</sent>
+<sent type="main" lang="chi" page="43a-43b" n="6">此人若以衆妙資具恭敬供養彼世尊藥師琉璃光如來者。</sent>
+<sent type="main" lang="kor" page="43a-43b" n="6">이 사미 種種 貴 거스로 뎌 藥師瑠璃光如來 恭敬야 供養면</sent><!--璃^光-->
+
+<sent type="main" lang="chi" page="43b" n="1">惡夢惡相諸不吉祥皆悉隱沒不能爲患。</sent>
+<sent type="main" lang="kor" page="43b" n="1">머즌 미며 믈읫 됴티 몯 이리 다 업서 분벼리 아니 외며</sent>
+<sent type="main" lang="chi" page="43b" n="2">或有水火刀毒懸嶮</sent>
+<sent type="main" lang="kor" page="43b" n="2">믈와 블와 갈콰 毒과 어려 石壁과</sent>
+<sent type="anno" lang="kor" page="43b" n="3">石은 돌히오 壁은 미니 티 션 바회 石壁이라 니라</sent>
+<sent type="main" lang="chi" page="43b-44a" n="4">惡象師子虎狼熊羆毒蛇惡蠍蜈蚣蚰蜒蚊虻等怖。</sent>
+<sent type="main" lang="kor" page="43b-44a" n="4">모딘 象과 獅子와 범과 일히와 곰과 모딘 얌과 지네와 이 트렛 므여 이리 이셔도</sent><!--이 ^ 트-->
+
+<sent type="main" lang="chi" page="44a" n="1">若能至心憶念彼佛恭敬供養。</sent>
+<sent type="main" lang="kor" page="44a" n="1">고 로 뎌 부텨를 念야 恭敬 供養면</sent>
+<sent type="main" lang="chi" page="44a" n="2">一切怖畏皆得解脫。</sent>
+<sent type="main" lang="kor" page="44a" n="2">다 버서나리며</sent><!--'버서나리며 다'의 '며', '다'는 판독 불가자를 추정하여 보사한 것임-->
+<sent type="main" lang="chi" page="44a" n="3">若他國侵擾盜賊反亂。</sent>
+<sent type="main" lang="kor" page="44a" n="3">다 나라히 와 보차거나 도기 외어나 야도</sent><!--'외어나'의 '외'와 '어'는 판독 불가자를 추정하여 보사한 것임-->
+<sent type="main" lang="chi" page="44a" n="4">憶念恭敬彼如來者亦皆解脫。</sent>
+<sent type="main" lang="kor" page="44a" n="4">뎌 如來 念야 恭敬면 다 버서나리라</sent>
+<sent type="main" lang="chi" page="44a-44b" n="5">復次曼殊室利。若有淨信善男子善女人等乃至盡形不事餘天。</sent>
+<sent type="main" lang="kor" page="44a-44b" n="5"> 文殊師利여 아뫼나 淨信 善男子 善女人히 죽록 녀나 하 셤기디 아니코</sent><!--信^-->
+
+<sent type="main" lang="chi" page="44b" n="1">唯當一心歸佛法僧受持禁戒。</sent>
+<sent type="main" lang="kor" page="44b" n="1"> 로 佛 法 僧에 歸依야 警戒 디뉴</sent>
+<sent type="main" lang="chi" page="44b-45a" n="2">若五戒十戒菩薩四百戒苾芻二百五十戒苾芻尼五百戒。</sent>
+<sent type="main" lang="kor" page="44b-45a" n="2">五戒어나 十戒어나 菩薩 四百 戒어나 比丘 二百五十 戒어나 比丘尼 五百 戒어나</sent><!--百^ 戒-->
+
+<sent type="main" lang="chi" page="45a" n="1">於所受中或有毀犯怖墮惡趣。</sent>
+<sent type="main" lang="kor" page="45a" n="1">디니다가 헐오 惡趣예 러듀믈 두리여</sent>
+<sent type="main" lang="chi" page="45a" n="2">若能專念彼佛名號恭敬供養者。</sent>
+<sent type="main" lang="kor" page="45a" n="2">뎌 부텻 일후믈 고기 念야 恭敬야 供養면</sent>
+<sent type="main" lang="chi" page="45a" n="3">必定不受三惡趣生。</sent>
+<sent type="main" lang="kor" page="45a" n="3">다 三惡趣예 나디 아니리며</sent>
+<sent type="main" lang="chi" page="45a" n="4">或有女人臨當產時受於極苦。</sent>
+<sent type="main" lang="kor" page="45a" n="4">아뫼나 겨지비 아기 나 時節을 當야 至極 受苦  쩌긔</sent>
+<sent type="main" lang="chi" page="45a-45b" n="5">若能至心稱名禮讚恭敬供養彼如來者</sent>
+<sent type="main" lang="kor" page="45a-45b" n="5">고 로 뎌 如來ᄉ 일후믈 일 讚嘆야 恭敬 供養면</sent><!--로 ^ 뎌-->
+
+<sent type="main" lang="chi" page="45b" n="1">衆苦皆除。所生之子身分具足形色端正見者歡喜</sent>
+<sent type="main" lang="kor" page="45b" n="1">한 受苦ᅵ 다 업고 나흔 子息이  端正야 본 사미 깃거며</sent>
+<sent type="main" lang="chi" page="45b" n="2">利根聰明安穩少病。</sent>
+<sent type="main" lang="kor" page="45b" n="2">根機 카 聦明며 便安야 病이 젹고</sent>
+<sent type="main" lang="chi" page="45b" n="3">無有非人奪其精氣。</sent>
+<sent type="main" lang="kor" page="45b" n="3">귓거시 精氣 앗디 아니리라</sent>
+<sent type="main" lang="chi" page="45b-46a" n="4">爾時世尊告阿難言。</sent>
+<sent type="main" lang="kor" page="45b-46a" n="4">그 世尊이 阿難이려 니샤</sent><!--世^尊-->
+
+<sent type="main" lang="chi" page="46a" n="1">如我稱揚彼佛 世尊藥師琉璃光如來所有功德。</sent>
+<sent type="main" lang="kor" page="46a" n="1">뎌 藥師瑠璃光如來ᄉ 功德을 내 일 야</sent>
+<sent type="main" lang="chi" page="46a" n="2">此是諸佛甚深行處難可解了。</sent>
+<sent type="main" lang="kor" page="46a" n="2">이 諸佛ᄉ 甚히 기픈 뎌기라 아로미 어려니</sent>
+<sent type="main" lang="chi" page="46a" n="3">汝爲信不。</sent>
+<sent type="main" lang="kor" page="46a" n="3">네 信다 아니다</sent>
+<sent type="main" lang="chi" page="46a-46b" n="4">阿難白言。大德世尊。我於如來所說契經不生疑惑。所以者何。</sent>
+<sent type="main" lang="kor" page="46a-46b" n="4">阿難이  大德世尊하 내 如來 니샨 經에 疑心 아니노니 엇뎨어뇨 란</sent><!--疑^心-->
+
+<sent type="main" lang="chi" page="46b" n="1">一切如來身語意業無不淸淨。</sent>
+<sent type="main" lang="kor" page="46b" n="1">一切 如來ᄉ 몸과 말과 뎃 業이 다 淸淨시니</sent>
+<sent type="main" lang="chi" page="46b" n="2">世尊。此日月輪可令墮落。</sent>
+<sent type="main" lang="kor" page="46b" n="2">世尊하 이 日月도 어루 러디긔 며</sent>
+<sent type="main" lang="chi" page="46b" n="3">妙高山王可使傾動。</sent>
+<sent type="main" lang="kor" page="46b" n="3">須彌山도 어루 기울의 려니와</sent>
+<sent type="main" lang="chi" page="46b" n="4">諸佛所言無有異也。</sent>
+<sent type="main" lang="kor" page="46b" n="4">諸佛ᄉ 마 달 주리 업스시니다</sent>
+<sent type="main" lang="chi" page="46b-47a" n="5">世尊。有諸衆生信根不具</sent>
+<sent type="main" lang="kor" page="46b-47a" n="5">世尊하 衆生히 信根이 디 몯야</sent><!--生^-->
+
+<sent type="anno" lang="kor" page="47a" n="1">信根 信 根이라</sent>
+<sent type="main" lang="chi" page="47a" n="2">聞說諸佛甚深行處作是思惟。</sent>
+<sent type="main" lang="kor" page="47a" n="2">諸佛ᄉ 甚히 기픈 뎍 니르거시든 듣고 너교</sent>
+<sent type="main" lang="chi" page="47a" n="3">云何但念藥師琉璃光如來一佛名號</sent>
+<sent type="main" lang="kor" page="47a" n="3">어듸 藥師瑠璃光如來  부텻 일훔 念 네</sent>
+<sent type="main" lang="chi" page="47a" n="4">便獲爾所功德勝利。</sent>
+<sent type="main" lang="kor" page="47a" n="4">이런 功德 됴 利 어드리오 야</sent>
+<sent type="main" lang="chi" page="47a" n="5">由此不信返生誹謗。</sent>
+<sent type="main" lang="kor" page="47a" n="5">도 비웃논  내야</sent>
+<sent type="main" lang="chi" page="47a-47b" n="6">彼於長夜失大利樂</sent>
+<sent type="main" lang="kor" page="47a-47b" n="6">긴 바 큰 利樂 일허</sent><!--樂^-->
+
+<sent type="main" lang="chi" page="47b" n="1">墮諸惡趣流轉無窮。</sent>
+<sent type="main" lang="kor" page="47b" n="1">모딘 길헤 러디여 그지업시 그우니니다</sent>
+<sent type="main" lang="chi" page="47b" n="2">佛告阿難。是諸有情若聞世尊藥師琉璃光如來名號。</sent>
+<sent type="main" lang="kor" page="47b" n="2">부톄 阿難이려 니샤 有情히 藥師瑠璃光如來ᄉ 일후믈 듣고</sent>
+<sent type="main" lang="chi" page="47b" n="3">至心受持不生疑惑。</sent>
+<sent type="main" lang="kor" page="47b" n="3">고 로 바다 디녀 疑心 아니면</sent>
+<sent type="main" lang="chi" page="47b" n="4">墮惡趣者無有是處。</sent>
+<sent type="main" lang="kor" page="47b" n="4">惡趣예 러 주리 업스니라</sent>
+<sent type="main" lang="chi" page="47b-48a" n="5">阿難。此是諸佛甚深所行難可信解。</sent>
+<sent type="main" lang="kor" page="47b-48a" n="5">阿難아 이 諸佛ᄉ 甚히 기픈 뎌기라 信야 아로미 어렵거늘</sent><!--佛^ᄉ-->
+
+<sent type="main" lang="chi" page="48a" n="1">汝今能受當知皆是如來威力。</sent>
+<sent type="main" lang="kor" page="48a" n="1">네 이제 能히 受니 다 如來ᄉ 威力이론 고 아라라</sent>
+<sent type="main" lang="chi" page="48a" n="2">阿難。一切聲聞獨覺及未登地諸菩薩等</sent>
+<sent type="main" lang="kor" page="48a" n="2">阿難아 오직 一生補處菩薩 外예 一切 聲聞이며 辟支佛이며 地예 몯 올앳 菩薩히</sent>
+<sent type="anno" lang="kor" page="48a-48b" n="3">地 十地라</sent><!--十^地-->
+
+<sent type="main" lang="chi" page="48b" n="1">皆悉不能如實信解。</sent><!--뒤의 唯除一生所繫菩薩。언해 생략-->
+<sent type="main" lang="kor" page="48b" n="1">다 實다히 信야 아로 몯니</sent>
+<sent type="main" lang="chi" page="48b" n="2">阿難。人身難得。</sent>
+<sent type="main" lang="kor" page="48b" n="2">阿難아 사 몸 외요미 어렵고</sent>
+<sent type="main" lang="chi" page="48b" n="3">於三寶中信敬尊重亦難可得。</sent>
+<sent type="main" lang="kor" page="48b" n="3">三寶 信야 恭敬호미  어렵고</sent>
+<sent type="main" lang="chi" page="48b" n="4">得聞世尊藥師琉璃光如來名號復難於是。</sent>
+<sent type="main" lang="kor" page="48b" n="4">藥師瑠璃光如來ᄉ 일훔 듣미  倍히 어려니</sent>
+<sent type="main" lang="chi" page="48b-49a" n="5">阿難。彼藥師琉璃光如來無量菩薩行。無量巧方便。無量廣大願。</sent>
+<sent type="main" lang="kor" page="48b-49a" n="5">阿難아 뎌 藥師瑠璃光如來ᄉ 그지업슨 菩薩行과 그지업슨 工巧신 方便과 그지업슨 큰 願을</sent><!--지^업-->
+
+<sent type="main" lang="chi" page="49a" n="1">我若一劫若一劫餘而廣說者。</sent>
+<sent type="main" lang="kor" page="49a" n="1">내  劫이어나  劫이 남거나 너펴 닐올띤댄</sent>
+<sent type="main" lang="chi" page="49a" n="2">劫可速盡。</sent>
+<sent type="main" lang="kor" page="49a" n="2">劫은 리 다려니와</sent>
+<sent type="main" lang="chi" page="49a" n="3">彼佛行願善巧方便無有盡也。</sent>
+<sent type="main" lang="kor" page="49a" n="3">뎌 부텻 行과 願과 工巧신 方便은 다오미 업스리라</sent>
+<sent type="main" lang="chi" page="49a-49b" n="4">爾時衆中有一菩薩摩訶薩名曰救脫。</sent>
+<sent type="main" lang="kor" page="49a-49b" n="4">그 모 中에  菩薩摩訶薩 일후미 救脫이라 샤리</sent><!--訶^薩-->
+
+<sent type="main" lang="chi" page="49b" n="1">卽從座起偏袒一肩右膝著地曲躬合掌而白佛言。</sent>
+<sent type="main" lang="kor" page="49b" n="1">座애셔 니르샤 올 엇게 메고 올 무룹 러 몸 구펴 合掌야 부텨 샤</sent>
+<sent type="main" lang="chi" page="49b" n="2">大德世尊。像法轉時有諸衆生爲種種患之所困厄</sent>
+<sent type="main" lang="kor" page="49b" n="2">大德世尊하 像法 轉 時節에 衆生히 種種 분벼릐 보채요미 외야</sent>
+<sent type="main" lang="chi" page="49b-50a" n="3">長病羸瘦不能飲食</sent>
+<sent type="main" lang="kor" page="49b-50a" n="3">長常 病야 시드러 飮食 몯고</sent><!--食 ^ 몯-->
+
+<sent type="main" lang="chi" page="50a" n="1">喉脣乾燥見諸方暗死相現前。</sent>
+<sent type="main" lang="kor" page="50a" n="1">모기며 입시우리 내 라 주 相이 一定야</sent>
+<sent type="main" lang="chi" page="50a" n="2">父母親屬朋友知識啼泣圍遶</sent>
+<sent type="main" lang="kor" page="50a" n="2">어버며 아미며 버디며 아로리며 두루 에야셔 울어든</sent>
+<sent type="main" lang="chi" page="50a" n="3">然彼自身臥在本處見</sent>
+<sent type="main" lang="kor" page="50a" n="3">제 모미 누 자히셔 보</sent>
+<sent type="main" lang="chi" page="50a" n="4">琰魔使引其神識</sent>
+<sent type="main" lang="kor" page="50a" n="4">琰魔王ᄀ 使者ᅵ 神識을 려</sent>
+<sent type="anno" lang="chi" page="50a" n="5">琰(以再)魔。或云琰羅。此翻靜息。以能靜息造惡者。不善業故。或翻遮。謂遮令不造惡故。或閻磨羅。經音義應云。夜磨盧迦。此云雙。世鬼官之總司也。亦云閻羅焰魔。</sent><!--관련 내용: T54n2131_002 翻譯名義集 第2卷-->
+<sent type="anno" lang="kor" page="50a" n="5">琰魔 閻羅ᅵ라</sent>
+<sent type="main" lang="chi" page="50a" n="6">至于琰魔法王之前。</sent>
+<sent type="main" lang="kor" page="50a" n="6">琰魔法王 알 니거든</sent>
+<sent type="anno" lang="chi" page="50a-50b" n="7">是故焰摩。由能饒益諸眾生。故名法王。</sent><!--출전: T54n2131_002 翻譯名義集 第2卷-->
+<sent type="anno" lang="kor" page="50a-50b" n="7">琰魔王이 能히 衆生 饒益게  法王이라 니라</sent><!-- ^ 饒-->
+
+<sent type="main" lang="chi" page="50b" n="1">然諸有情有俱生神隨其所作若罪若福皆具書之盡持授與琰魔法王。</sent>
+<sent type="main" lang="kor" page="50b" n="1">有情의  나온 神靈이 제 지 罪며 福 다 써 琰魔法王 맛뎌든</sent>
+<sent type="main" lang="chi" page="50b" n="2">爾時彼王推問其人算計所作隨其罪福而處斷之。</sent>
+<sent type="main" lang="kor" page="50b" n="2">뎌 王이 그 사려 무러 지 罪며 福이며 혜여 公事리니</sent>
+<sent type="main" lang="chi" page="50b" n="3">時彼病人親屬知識若能爲彼</sent>
+<sent type="main" lang="kor" page="50b" n="3">그 病 사 아미어나 아로리어나 病니 爲야</sent>
+<sent type="main" lang="chi" page="50b-51a" n="4">歸依世尊藥師琉璃光如來。</sent>
+<sent type="main" lang="kor" page="50b-51a" n="4">藥師瑠璃光如來 歸依야</sent><!--璃^光-->
+
+<sent type="main" lang="chi" page="51a" n="1">請諸衆僧轉讀此經。</sent>
+<sent type="main" lang="kor" page="51a" n="1">한  請야 이 經을 닑고</sent>
+<sent type="main" lang="chi" page="51a" n="2">燃七層之燈懸著五色續命神幡。</sent>
+<sent type="main" lang="kor" page="51a" n="2">七層燈의 블 혀고 五色 續命神幡 면</sent>
+<sent type="anno" lang="kor" page="51a" n="3">續命神幡은 목숨 니 神奇 幡이라</sent>
+<sent type="main" lang="chi" page="51a" n="4">或有是處彼識得還如在夢中明了自見。</sent>
+<sent type="main" lang="kor" page="51a" n="4">시혹 病 넉시 이 고대 도라와 티 子細히 보리니</sent>
+<sent type="main" lang="chi" page="51a-51b" n="5">或經七日。或二十一日。或三十五日。或四十九日。</sent>
+<sent type="main" lang="kor" page="51a-51b" n="5">닐웨어나 스믈리어나 셜흔다쐐어나 마아래어나 디내오</sent><!--아^-->
+
+<sent type="main" lang="chi" page="51b" n="1">彼識還時如從夢覺。</sent>
+<sent type="main" lang="kor" page="51b" n="1">病 넉시 도로  저긔 므로셔  야</sent>
+<sent type="main" lang="chi" page="51b" n="2">皆自憶知善不善業所得果報。</sent>
+<sent type="main" lang="kor" page="51b" n="2">됴 業이며 구즌 業엣 果報 다 각야 알리니</sent>
+<sent type="main" lang="chi" page="51b" n="3">由自證見業果報故乃至命難亦</sent>
+<sent type="main" lang="kor" page="51b" n="3">제 보아 아론 젼로 주구매 다라도</sent>
+<sent type="main" lang="chi" page="51b" n="4">不造作諸惡之業。</sent>
+<sent type="main" lang="kor" page="51b" n="4">모딘 業을 짓디 아니리니</sent>
+<sent type="main" lang="chi" page="51b-52a" n="5">是故淨信善男子善女人等皆應受持藥師琉璃光如來名號。</sent>
+<sent type="main" lang="kor" page="51b-52a" n="5">이럴 淨信 善男子 善女人히 다 藥師瑠璃光如來ᄉ 일후믈 디녀</sent><!--瑠^璃-->
+
+<sent type="main" lang="chi" page="52a" n="1">隨力所能恭敬供養。</sent>
+<sent type="main" lang="kor" page="52a" n="1">제 히메 홀 야로 恭敬야 供養 리로소다</sent>
+<sent type="main" lang="chi" page="52a" n="2">爾時阿難問救脫菩薩曰。</sent><!--뒤의 善男子。언해 생략-->
+<sent type="main" lang="kor" page="52a" n="2">그 阿難이 救脫菩薩 묻</sent>
+<sent type="main" lang="chi" page="52a" n="3">應云何恭敬供養彼世尊藥師琉璃光如來。</sent>
+<sent type="main" lang="kor" page="52a" n="3">뎌 藥師瑠璃光如來 恭敬 供養 엇뎨 며</sent>
+<sent type="main" lang="chi" page="52a-52b" n="4">續命幡燈復云何造。</sent>
+<sent type="main" lang="kor" page="52a-52b" n="4">續命幡과 燈과 엇뎨 리고</sent><!--엇^뎨-->
+
+<sent type="main" lang="chi" page="52b" n="1">救脫菩薩言。</sent>
+<sent type="main" lang="kor" page="52b" n="1">救脫菩薩이 니샤</sent>
+<sent type="main" lang="chi" page="52b" n="2">大德。若有病人欲脫病苦。</sent>
+<sent type="main" lang="kor" page="52b" n="2">大德아 아뫼나 病 사미 病을 여희오져 거든</sent>
+<sent type="main" lang="chi" page="52b" n="3">當爲其人七日七夜受持八分齋戒。</sent>
+<sent type="main" lang="kor" page="52b" n="3">그 사 爲야 밤낫 닐웨 八分齋戒 디녀</sent>
+<sent type="main" lang="chi" page="52b" n="4">應以飲食及餘資具隨力所辯供養苾芻僧。</sent>
+<sent type="main" lang="kor" page="52b" n="4">飮食이며 녀나 거슬 제 혼 야로 쥬 供養고</sent>
+<sent type="main" lang="chi" page="52b-53a" n="5">晝夜六時禮拜供養彼世尊藥師琉璃光如來。</sent>
+<sent type="main" lang="kor" page="52b-53a" n="5">밤낫 여슷  뎌 藥師瑠璃光如來 저 供養</sent><!--璃^光-->
+
+<sent type="main" lang="chi" page="53a" n="1">讀誦此經四十九遍。燃四十九燈。</sent>
+<sent type="main" lang="kor" page="53a" n="1">이 經을 마아홉 디위 讀誦고 마아홉 燈의 블 혀고</sent>
+<sent type="main" lang="chi" page="53a" n="2">造彼如來形像七軀。</sent>
+<sent type="main" lang="kor" page="53a" n="2">뎌 如來ᄉ 像 닐구블 고</sent>
+<sent type="main" lang="chi" page="53a" n="3">一一像前各置七燈。一一燈量大如車輪。</sent>
+<sent type="main" lang="kor" page="53a" n="3">像마다 알 닐굽 燈을 노호 燈마다 술위만 크긔 야</sent>
+<sent type="main" lang="chi" page="53a" n="4">乃至四十九日光明不絕。</sent>
+<sent type="main" lang="kor" page="53a" n="4">마아래 光明이 긋디 아니킈 고</sent>
+<sent type="main" lang="chi" page="53a-53b" n="5">造五色綵幡長四十九[打-丁+桀]手。</sent><!--cbeta 자료(本藥:261c21(05))의 표기를 그대로 옮김-->
+<sent type="main" lang="kor" page="53a-53b" n="5">五色 綵幡을 로 기릐 마아홉 搩手ᅵ오</sent><!--色^ 綵-->
+
+<sent type="anno" lang="chi" page="53b" n="1">없음</sent><!--(瑜伽論○搩磔同陟各反周尺。人一尺。佛二尺)。: 大正新脩大藏經　第49冊 No.2035 佛祖統紀 第 30 卷-->
+<sent type="anno" lang="kor" page="53b" n="1">搩手 소 펼씨니 사 周尺으로  자히오 부텨 두 자히시니라</sent>
+<sent type="main" lang="chi" page="53b" n="2">應放雜類衆生至四十九</sent>
+<sent type="main" lang="kor" page="53b" n="2">雜 숨  마아호 노면</sent>
+<sent type="main" lang="chi" page="53b" n="3">可得過度危厄之難不爲諸橫惡鬼所持。</sent>
+<sent type="main" lang="kor" page="53b" n="3">어려 厄 버서나며 모딘 귓거슬 아니 자피리라</sent>
+<sent type="main" lang="chi" page="53b-54a" n="4">復次阿難。若剎帝利灌頂王等。災難起時。</sent>
+<sent type="main" lang="kor" page="53b-54a" n="4"> 阿難아 다가 刹帝利 灌頂王히 災難  時節에</sent><!--節^에-->
+
+<sent type="anno" lang="kor" page="54a" n="1">難 厄이라</sent>
+<sent type="main" lang="chi" page="54a" n="2">所謂人衆疾疫難。他國侵逼難。</sent>
+<sent type="main" lang="kor" page="54a" n="2">한 사미 셕 難이어나 다 나라히 보차 難이어나</sent>
+<sent type="main" lang="chi" page="54a" n="3">自界叛逆難。星宿變怪難。</sent>
+<sent type="main" lang="kor" page="54a" n="3">걋 나라해셔 거슬   難이어나 星宿ᄉ 變怪難이어나</sent>
+<sent type="anno" lang="kor" page="54a" n="4">星宿는 벼리라</sent>
+<sent type="anno" lang="kor" page="54a" n="5">變怪 常例디 아니 妖怪라</sent>
+<sent type="main" lang="chi" page="54a" n="6">日月薄蝕難。非時風雨難。</sent>
+<sent type="main" lang="kor" page="54a" n="6">日食 月食 難이어나 時節 그른  비 難이어나</sent>
+<sent type="main" lang="chi" page="54a-54b" n="7">過時不雨難。</sent>
+<sent type="main" lang="kor" page="54a-54b" n="7"> 難이어나 거든</sent><!-- ^ 難-->
+
+<sent type="main" lang="chi" page="54b" n="1">彼剎帝利灌頂王等。爾時應於一切有情起慈悲心。赦諸繫閉。</sent>
+<sent type="main" lang="kor" page="54b" n="1">뎌 王히 一切 有情에 慈悲心 내야 가도앳던 사 노코</sent>
+<sent type="main" lang="chi" page="54b" n="2">依前所說供養之法供養彼世尊藥師琉璃光如來。</sent>
+<sent type="main" lang="kor" page="54b" n="2">알 니르던 다히 뎌 藥師瑠璃光如來 供養면</sent>
+<sent type="main" lang="chi" page="54b-55a" n="3">由此善根及彼如來本願力故。令其國界卽得安穩。</sent>
+<sent type="main" lang="kor" page="54b-55a" n="3">이 됴 根源과 뎌 如來ᄉ 本願力 젼로 그 나라히 즉자히 便安야</sent><!--安^-->
+
+<sent type="main" lang="chi" page="55a" n="1">風雨順時穀稼成熟。</sent>
+<sent type="main" lang="kor" page="55a" n="1"> 비 時節에 마자 녀르미 외야</sent>
+<sent type="main" lang="chi" page="55a" n="2">一切有情無病歡樂。</sent>
+<sent type="main" lang="kor" page="55a" n="2">一切 有情이 無病歡樂며</sent>
+<sent type="anno" lang="kor" page="55a" n="3">歡樂 깃거 즐길씨라</sent>
+<sent type="main" lang="chi" page="55a" n="4">於其國中無有暴惡藥叉等神惱有情者。</sent>
+<sent type="main" lang="kor" page="55a" n="4">그 나라해 모딘 夜叉 等 神靈이 有情 보차리 업스며</sent>
+<sent type="main" lang="chi" page="55a" n="5">一切惡相皆卽隱沒。</sent>
+<sent type="main" lang="kor" page="55a" n="5">一切 머즌 相이 다 업고</sent>
+<sent type="main" lang="chi" page="55a-55b" n="6">而剎帝利灌頂王等壽命色力無病自在皆得增益。</sent>
+<sent type="main" lang="kor" page="55a-55b" n="6">刹帝利 灌頂王토 長壽고 病 업서 다 自在리라</sent><!--업^서-->
+
+<sent type="main" lang="chi" page="55b" n="1">阿難。若帝后妃主儲君王子大臣輔相</sent>
+<sent type="main" lang="kor" page="55b" n="1">阿難아 다가 皇帝며 皇后ᅵ며 妃子ᅵ며 太子ᅵ며 王子ᅵ며 大臣이며 宰相이며</sent>
+<sent type="main" lang="chi" page="55b" n="2">中宮婇女百官梨庶爲病所苦及餘厄難。</sent>
+<sent type="main" lang="kor" page="55b" n="2">大闕ᄉ 각시며 百官이며 百姓이 病을 거나 어려 厄이어든</sent>
+<sent type="main" lang="chi" page="55b-56a" n="3">亦應造立五色神幡燃燈續明</sent>
+<sent type="main" lang="kor" page="55b-56a" n="3"> 五色 神幡 며 燈 혀아 닛위여 게 며</sent><!--燈 ^ 혀-->
+
+<sent type="main" lang="chi" page="56a" n="1">放諸生命散雜色華燒衆名香。</sent>
+<sent type="main" lang="kor" page="56a" n="1">숨  노코 雜色 고 비며 여러 가짓 일훔난 香 퓌우면</sent>
+<sent type="main" lang="chi" page="56a" n="2">病得除愈衆難解脫。</sent>
+<sent type="main" lang="kor" page="56a" n="2">病도 덜며 厄도 다 버스리라</sent>
+<sent type="main" lang="chi" page="56a" n="3">爾時阿難問救脫菩薩言。</sent><!--뒤의 善男子。언해 생략-->
+<sent type="main" lang="kor" page="56a" n="3">그 阿難이 救脫菩薩 묻</sent>
+<sent type="main" lang="chi" page="56a" n="4">云何已盡之命而可增益。</sent>
+<sent type="main" lang="kor" page="56a" n="4">엇뎨 마 다 목수미 더으리고</sent>
+<sent type="main" lang="chi" page="56a-56b" n="5">救脫菩薩言。大德。汝豈不聞如來說有九橫死邪。</sent>
+<sent type="main" lang="kor" page="56a-56b" n="5">救脫菩薩이 니샤 大德아 如來 니르시논 아홉 橫死 매 몯 듣다</sent><!--來 ^ 니-->
+
+<sent type="main" lang="chi" page="56b" n="1">是故勸造續命幡燈修諸福德。</sent>
+<sent type="main" lang="kor" page="56b" n="1">이럴 續命幡燈 라 福德 닷고 勸노니</sent>
+<sent type="main" lang="chi" page="56b" n="2">以修福故盡其壽命不經苦患。</sent>
+<sent type="main" lang="kor" page="56b" n="2">福 닷면 목숨 록 受苦 아니 디내리라</sent>
+<sent type="main" lang="chi" page="56b" n="3">阿難問言。九橫云何。</sent>
+<sent type="main" lang="kor" page="56b" n="3">阿難이 묻 아홉 橫死 므스기고</sent>
+<sent type="main" lang="chi" page="56b-57a" n="4">救脫菩薩言。有諸有情得病雖輕。</sent>
+<sent type="main" lang="kor" page="56b-57a" n="4">救脫菩薩이 니샤 有情히 가야 病을 어더도</sent><!--情^-->
+
+<sent type="main" lang="chi" page="57a" n="1">然無醫藥及看病者。</sent>
+<sent type="main" lang="kor" page="57a" n="1">醫와 [醫 病 고티 사미라] 藥과 病 간슈리 업거나</sent>
+<sent type="main" lang="chi" page="57a" n="2">設復遇醫授以非藥。實不應死而便橫死。</sent>
+<sent type="main" lang="kor" page="57a" n="2">醫 맛나고도 왼 藥 머겨 아니 주 저긔 곧 橫死며</sent>
+<sent type="main" lang="chi" page="57a" n="3">又信世間邪魔外道妖孽之師</sent>
+<sent type="main" lang="kor" page="57a" n="3"> 世間앳 邪魔外道앳 妖蘖엣 스스 信야</sent>
+<sent type="anno" lang="kor" page="57a" n="4">妖蘖은 妖怪라</sent>
+<sent type="main" lang="chi" page="57a-57b" n="5">妄說禍福便生恐動。</sent>
+<sent type="main" lang="kor" page="57a-57b" n="5">간대옛 禍福 닐어든 곧 두리 들 내야</sent><!--리^-->
+
+<sent type="main" lang="chi" page="57b" n="1">心不自正卜問覓禍。</sent>
+<sent type="main" lang="kor" page="57b" n="1">미 正티 몯야 됴쿠주믈 묻그리 야</sent>
+<sent type="main" lang="chi" page="57b" n="2">殺種種衆生解奏神明</sent>
+<sent type="main" lang="kor" page="57b" n="2">種種  주겨 神靈 플며</sent>
+<sent type="main" lang="chi" page="57b" n="3">呼諸魍魎請乞福祐。</sent>
+<sent type="main" lang="kor" page="57b" n="3">돗가비 請야 福 비러</sent>
+<sent type="main" lang="chi" page="57b" n="4">欲冀延年終不能得。</sent>
+<sent type="main" lang="kor" page="57b" n="4">목숨 길오져 다가 乃終내 得디 몯니</sent>
+<sent type="main" lang="chi" page="57b" n="5">愚癡迷惑信邪倒見。</sent>
+<sent type="main" lang="kor" page="57b" n="5">어리여 迷惑야 邪曲 信야 갓고로 볼</sent>
+<sent type="main" lang="chi" page="57b-58a" n="6">遂令橫死入於地獄無有出期。</sent>
+<sent type="main" lang="kor" page="57b-58a" n="6">橫死야 地獄애 드러  그지 업스니</sent><!--드^러-->
+
+<sent type="main" lang="chi" page="58a" n="1">是名初橫。</sent>
+<sent type="main" lang="kor" page="58a" n="1">이 첫 橫死ᅵ라 니라</sent>
+<sent type="main" lang="chi" page="58a" n="2">二者橫被王法之所誅戮。</sent>
+<sent type="main" lang="kor" page="58a" n="2">둘흔 王法을 니버 橫死씨오</sent>
+<sent type="main" lang="chi" page="58a" n="3">三者畋獵嬉戲耽婬嗜酒放逸無度</sent>
+<sent type="main" lang="kor" page="58a" n="3">세흔 山行 거나 노 거나 婬亂 맛들어나 수으를 즐기거나 듧 조심 아니다가</sent>
+<sent type="main" lang="chi" page="58a" n="4">橫爲非人奪其精氣。</sent>
+<sent type="main" lang="kor" page="58a" n="4">귓거시 精氣 아 橫死씨오</sent>
+<sent type="main" lang="chi" page="58a-58b" n="5">四者橫爲火焚。</sent>
+<sent type="main" lang="kor" page="58a-58b" n="5">네흔 브레 여 橫死씨오</sent><!--死^-->
+
+<sent type="main" lang="chi" page="58b" n="1">五者橫爲水溺。</sent>
+<sent type="main" lang="kor" page="58b" n="1">다 므레 디여 橫死씨오</sent>
+<sent type="main" lang="chi" page="58b" n="2">六者橫爲種種惡獸所噉。</sent>
+<sent type="main" lang="kor" page="58b" n="2">여스 모딘  믈여 橫死씨오</sent>
+<sent type="main" lang="chi" page="58b" n="3">七者橫墮山崖。</sent>
+<sent type="main" lang="kor" page="58b" n="3">닐구븐 묏 언헤 디여 橫死씨오</sent>
+<sent type="main" lang="chi" page="58b" n="4">八者橫爲毒藥厭禱咒咀起屍鬼等之所中害。</sent>
+<sent type="main" lang="kor" page="58b" n="4">여들븐 厭禱와 [厭은 오누씨오 禱 빌씨라] 毒藥과 起屍鬼히 害야 橫死씨오</sent>
+<sent type="main" lang="chi" page="58b" n="5">九者飢渴所困不得飲食而便橫死。</sent>
+<sent type="main" lang="kor" page="58b" n="5">아호븐 주으리며 목 라 橫死씨니</sent>
+<sent type="main" lang="chi" page="58b-59a" n="6">是爲如來略說橫死有此九種。</sent>
+<sent type="main" lang="kor" page="58b-59a" n="6">이 如來 어둘 니르시논 아홉 가짓 橫死ᅵ니</sent><!--如^來-->
+
+<sent type="main" lang="chi" page="59a" n="1">其餘復有無量諸橫難可具說。</sent>
+<sent type="main" lang="kor" page="59a" n="1"> 그지업슨 여러 橫死ᅵ 몯내 니르리라</sent>
+<sent type="main" lang="chi" page="59a" n="2">復次阿難。彼琰魔王主領世間名藉之記。</sent>
+<sent type="main" lang="kor" page="59a" n="2"> 阿難아 뎌 琰魔王이 世間앳 일훔 브튼 글와 아랫니</sent>
+<sent type="main" lang="chi" page="59a" n="3">若諸有情不孝五逆</sent>
+<sent type="main" lang="kor" page="59a" n="3">다가 有情히 不孝 거나 五逆을 거나</sent>
+<sent type="main" lang="chi" page="59a-59b" n="4">破辱三寶壞君臣法</sent>
+<sent type="main" lang="kor" page="59a-59b" n="4">三寶 허러 辱거나 君臣ᄉ 法을 헐어나</sent><!--나 ^ 君-->
+
+<sent type="anno" lang="kor" page="59b" n="1">君臣ᄉ 法은 님금 臣下ᄉ 法이라</sent>
+<sent type="main" lang="chi" page="59b" n="2">毀於信戒。琰魔法王隨罪輕重考而罰之。</sent>
+<sent type="main" lang="kor" page="59b" n="2">信戒 헐어나 면 琰魔法王이 罪 야로 詳考야 罪 주니</sent>
+<sent type="anno" lang="kor" page="59b" n="3">詳考 子細히 마초 알씨라</sent>
+<sent type="main" lang="chi" page="59b" n="4">是故我今勸諸有情燃燈造幡</sent>
+<sent type="main" lang="kor" page="59b" n="4">이럴 내 이제 有情 勸야 燈 혀며 幡 며</sent>
+<sent type="main" lang="chi" page="59b-60a" n="5">放生修福。令度苦厄</sent>
+<sent type="main" lang="kor" page="59b-60a" n="5">산 것 노하 福 닷가 苦厄 버서나</sent><!--버^서-->
+
+<sent type="main" lang="chi" page="60a" n="1">不遭衆難。</sent>
+<sent type="main" lang="kor" page="60a" n="1">여러 難 맛나디 아니케 노라</sent>
+<sent type="main" lang="chi" page="60a" n="2">爾時衆中有十二藥叉大將俱在會坐。</sent>
+<sent type="main" lang="kor" page="60a" n="2">그 衆 中에 열두 夜叉大將이 모 座애 잇더니</sent>
+<sent type="anno" lang="kor" page="60a" n="3">大將 큰 將軍이라</sent>
+<sent type="main" lang="chi" page="60a-60b" n="4">所謂宮毘羅大將。伐折羅大將。迷企羅大將。安底羅大將。頞爾羅大將。珊底羅大將。</sent>
+<sent type="main" lang="kor" page="60a-60b" n="4">宮毗羅大將과 伐折羅大將과 迷企羅大將과 安底羅大將과 頞你羅大將과 珊底羅大將과</sent><!--'頞你羅大將과'의 '과'는 추정하여 보사한 것, '珊底羅'의 '珊'는 원문에 따라 보사한 것임--><!--珊^底-->
+
+<sent type="main" lang="chi" page="60b" n="1">因達羅大將。波夷羅大將。摩虎羅大將。真達羅大將。招杜羅大將。毘羯羅大將。</sent>
+<sent type="main" lang="kor" page="60b" n="1">因達羅大將과 波夷羅大將과 摩虎羅大將과 眞達羅大將과 招杜羅大將과 毗羯羅大將과</sent><!--'因達羅大將'의 '達羅'는 원문에 따라 보사한 것임-->
+<sent type="main" lang="chi" page="60b-61a" n="2">此十二藥叉大將一一各有七千藥叉以爲眷屬。</sent>
+<sent type="main" lang="kor" page="60b-61a" n="2">이 열두 夜叉大將이 各各 七千 夜叉 眷屬 사맷더니</sent><!--사^맷-->
+
+<sent type="main" lang="chi" page="61a" n="1">同時舉聲白佛言。</sent>
+<sent type="main" lang="kor" page="61a" n="1"> 소리 내야 </sent>
+<sent type="main" lang="chi" page="61a" n="2">世尊。我等今者蒙佛威力</sent>
+<sent type="main" lang="kor" page="61a" n="2">世尊하 우리 이제 부텻 威力을 닙</sent>
+<sent type="main" lang="chi" page="61a" n="3">得聞世尊藥師琉璃光如來名號。</sent>
+<sent type="main" lang="kor" page="61a" n="3">藥師瑠璃光如來ᄉ 일후믈 듣니</sent>
+<sent type="main" lang="chi" page="61a" n="4">不復更有惡趣之怖。</sent>
+<sent type="main" lang="kor" page="61a" n="4">외야 惡趣 저푸미 업스니</sent>
+<sent type="main" lang="chi" page="61a" n="5">我等相率皆同一心乃至盡形歸佛法僧。</sent>
+<sent type="main" lang="kor" page="61a" n="5">우리히 다  로 죽록 三寶애 歸依</sent>
+<sent type="main" lang="chi" page="61a-61b" n="6">誓當荷負一切有情</sent>
+<sent type="main" lang="kor" page="61a-61b" n="6">盟誓 호 一切 有情을 어버 녀</sent><!--情^을-->
+
+<sent type="main" lang="chi" page="61b" n="1">爲作義利饒益安樂。</sent>
+<sent type="main" lang="kor" page="61b" n="1">利益며 安樂 이 지리니</sent>
+<sent type="main" lang="chi" page="61b" n="2">隨於何等村城國邑空閑林中。</sent>
+<sent type="main" lang="kor" page="61b" n="2">아란 히어나 자시어나 올히어나 나라히어나 뷘 수프리어나</sent>
+<sent type="main" lang="chi" page="61b" n="3">若有流布此經或復受持藥師琉璃光如來名號</sent>
+<sent type="main" lang="kor" page="61b" n="3">이 經을 너비 펴며 藥師瑠璃光如來ᄉ 일후믈 디니</sent>
+<sent type="main" lang="chi" page="61b" n="4">恭敬供養者。</sent>
+<sent type="main" lang="kor" page="61b" n="4">恭敬 供養리옷 잇거든</sent>
+<sent type="main" lang="chi" page="61b-62a" n="5">我等眷屬衛護是人。</sent>
+<sent type="main" lang="kor" page="61b-62a" n="5">우리히 이 사 衛護야</sent><!-- ^ 衛-->
+
+<sent type="anno" lang="kor" page="62a" n="1">衛護 들어 더브러셔 護持씨라</sent>
+<sent type="main" lang="chi" page="62a" n="2">皆使解脫一切苦難。</sent>
+<sent type="main" lang="kor" page="62a" n="2">다 一切 苦難 버서나고</sent>
+<sent type="main" lang="chi" page="62a" n="3">諸有願求悉令滿足。</sent>
+<sent type="main" lang="kor" page="62a" n="3">願논 이 다 일의 호리다</sent>
+<sent type="main" lang="chi" page="62a" n="4">或有疾厄求度脫者。亦應讀誦此經。</sent>
+<sent type="main" lang="kor" page="62a" n="4">아뫼나 病이며 厄이 이셔 버서나고져  사 이 經을 讀誦며</sent>
+<sent type="main" lang="chi" page="62a" n="5">以五色縷結我名字。</sent>
+<sent type="main" lang="kor" page="62a" n="5">五色 실로 우리 일후믈 자</sent>
+<sent type="main" lang="chi" page="62a" n="6">得如願已然後解結。</sent>
+<sent type="main" lang="kor" page="62a" n="6">제 願을 일운 後에 글어 리다</sent>
+<sent type="main" lang="chi" page="62a-62b" n="7">爾時世尊讚諸藥叉大將言。</sent>
+<sent type="main" lang="kor" page="62a-62b" n="7">그 世尊이 夜叉大將 讚歎야 니샤</sent><!--大^將-->
+
+<sent type="main" lang="chi" page="62b" n="1">善哉善哉。汝等念報世尊藥師琉璃光如來恩德者。</sent><!--善哉善哉。뒤의 大藥叉將。언해 생략-->
+<sent type="main" lang="kor" page="62b" n="1">됴타 됴타 너희히 藥師瑠璃光如來ᄉ 恩德 갑 이 念거든</sent>
+<sent type="main" lang="chi" page="62b" n="2">常應如是利益安樂一切有情。</sent>
+<sent type="main" lang="kor" page="62b" n="2">녜 이러트시 一切 有情을 利益며 安樂긔 라</sent>
+
+<sent type="title" lang="chi" page="62b" n="3">月印千江之曲第九</sent>
+
+<sent type="title" lang="chi" page="62b" n="4">釋譜詳節第九</sent>
+</doc>

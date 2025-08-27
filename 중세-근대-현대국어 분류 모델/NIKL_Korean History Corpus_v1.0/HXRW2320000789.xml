@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title>諺解臘藥症治方</title>
+<author>내의원</author>
+<date>17~18세기 교체기</date>
+</titleStmt>
+<notesStmt>
+<bibl><title>臘藥症治方解(규장각본 표제)</title>
+<pubPlace>서울</pubPlace>
+<publisher>홍문각(규장각본 참조)</publisher>
+<date>1995</date>
+</bibl>
+</notesStmt>
+<revisionDesc>
+<date>2016/03/08</date>
+<respStmt>
+<resp>입력자</resp><name>신용남</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>박재연</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">諺解臘藥症治方目錄</sent>
+<sent type="title" lang="kor" page="01a" n="1">언납약증티방 목녹</sent>
+<sent type="main" lang="chi" page="01a" n="2">牛黃淸心元</sent>
+<sent type="main" lang="kor" page="01a" n="2">우황쳥심원[이제  쳥심원이라]</sent>
+<sent type="main" lang="chi" page="01a" n="3">九味淸心元</sent>
+<sent type="main" lang="kor" page="01a" n="3">구미쳥심원</sent>
+<sent type="main" lang="chi" page="01a" n="4">蘇合元</sent>
+<sent type="main" lang="kor" page="01a" n="4">소합원</sent>
+<sent type="main" lang="chi" page="01a" n="5">至寶丹</sent>
+<sent type="main" lang="kor" page="01a" n="5">지보단</sent>
+
+<sent type="main" lang="chi" page="01b" n="1">木香保命丹</sent>
+<sent type="main" lang="kor" page="01b" n="1">목향보명단</sent>
+<sent type="main" lang="chi" page="01b" n="2">龍腦安神丸</sent>
+<sent type="main" lang="kor" page="01b" n="2">룡노안신환</sent>
+<sent type="main" lang="chi" page="01b" n="3">牛黃凉膈元</sent>
+<sent type="main" lang="kor" page="01b" n="3">우황냥격원</sent>
+<sent type="main" lang="chi" page="01b" n="4">加減薄荷煎元</sent>
+<sent type="main" lang="kor" page="01b" n="4">가감박하젼원</sent>
+<sent type="main" lang="chi" page="01b" n="5">龍腦膏</sent>
+<sent type="main" lang="kor" page="01b" n="5">룡노고</sent>
+
+<sent type="main" lang="chi" page="02a" n="1">解毒雄黃元</sent>
+<sent type="main" lang="kor" page="02a" n="1">독웅황원</sent>
+<sent type="main" lang="chi" page="02a" n="2">瀉靑丸</sent>
+<sent type="main" lang="kor" page="02a" n="2">샤쳥환</sent>
+<sent type="main" lang="chi" page="02a" n="3">水煮木香膏</sent>
+<sent type="main" lang="kor" page="02a" n="3">슈쟈목향고</sent>
+<sent type="main" lang="chi" page="02a" n="4">感應元</sent>
+<sent type="main" lang="kor" page="02a" n="4">감응원</sent>
+<sent type="main" lang="chi" page="02a" n="5">神保元</sent>
+<sent type="main" lang="kor" page="02a" n="5">신보원</sent>
+
+<sent type="main" lang="chi" page="02b" n="1">九痛元</sent>
+<sent type="main" lang="kor" page="02b" n="1">구통원</sent>
+<sent type="main" lang="chi" page="02b" n="2">萬病元</sent>
+<sent type="main" lang="kor" page="02b" n="2">만병원</sent>
+<sent type="main" lang="chi" page="02b" n="3">溫白元</sent>
+<sent type="main" lang="kor" page="02b" n="3">온원</sent>
+<sent type="main" lang="chi" page="02b" n="4">靈寶丹</sent>
+<sent type="main" lang="kor" page="02b" n="4">녕보단</sent>
+<sent type="main" lang="chi" page="02b" n="5">備急元</sent>
+<sent type="main" lang="kor" page="02b" n="5">비급원</sent>
+
+<sent type="main" lang="chi" page="03a" n="1">捉虎丹</sent>
+<sent type="main" lang="kor" page="03a" n="1">착호단</sent>
+<sent type="main" lang="chi" page="03a" n="2">好合茵陳丸</sent>
+<sent type="main" lang="kor" page="03a" n="2">호합인딘환[이제  인딘환이라]</sent>
+<sent type="main" lang="chi" page="03a" n="3">紫金丹</sent>
+<sent type="main" lang="kor" page="03a" n="3">금단</sent>
+<sent type="main" lang="chi" page="03a" n="4">玉樞丹</sent>
+<sent type="main" lang="kor" page="03a" n="4">옥츄단</sent>
+<sent type="main" lang="chi" page="03a" n="5">鬼哭丹</sent>
+<sent type="main" lang="kor" page="03a" n="5">귀곡단</sent>
+
+<sent type="main" lang="chi" page="03b" n="1">勝金丹</sent>
+<sent type="main" lang="kor" page="03b" n="1">승금단</sent>
+<sent type="main" lang="chi" page="03b" n="2">脾寒丹</sent>
+<sent type="main" lang="kor" page="03b" n="2">비한단</sent>
+<sent type="main" lang="chi" page="03b" n="3">安胎丸</sent>
+<sent type="main" lang="kor" page="03b" n="3">안환</sent>
+<sent type="main" lang="chi" page="03b" n="4">保安丸</sent>
+<sent type="main" lang="kor" page="03b" n="4">보안환</sent>
+<sent type="main" lang="chi" page="03b" n="5">催生丹</sent>
+<sent type="main" lang="kor" page="03b" n="5">최단</sent>
+
+<sent type="main" lang="chi" page="04a" n="1">小兒淸心元</sent>
+<sent type="main" lang="kor" page="04a" n="1">쇼쳥심원</sent>
+<sent type="main" lang="chi" page="04a" n="2">稀痘兎紅元</sent>
+<sent type="main" lang="kor" page="04a" n="2">희두토홍원[이제  토홍원이라]</sent>
+<sent type="main" lang="chi" page="04a" n="3">錢氏安神丸</sent>
+<sent type="main" lang="kor" page="04a" n="3">젼시안신환</sent>
+<sent type="main" lang="chi" page="04a" n="4">至聖保命丹</sent>
+<sent type="main" lang="kor" page="04a" n="4">지셩보명단</sent>
+<sent type="main" lang="chi" page="04a" n="5">抱龍丸</sent>
+<sent type="main" lang="kor" page="04a" n="5">포룡환</sent>
+
+<sent type="main" lang="chi" page="04b" n="1">牛黃抱龍丸</sent>
+<sent type="main" lang="kor" page="04b" n="1">우황포룡환</sent>
+<sent type="main" lang="chi" page="04b" n="2">臘香膏</sent>
+<sent type="main" lang="kor" page="04b" n="2">납향고</sent>
+<sent type="main" lang="chi" page="04b" n="3">神聖辟瘟丹</sent>
+<sent type="main" lang="kor" page="04b" n="3">신셩벽온단</sent>
+<sent type="title" lang="chi" page="04b" n="4">諺解臘藥症治方目錄終</sent>
+<sent type="title" lang="kor" page="04b" n="4">언납약증티방 목녹 죵</sent>
+
+<sent type="title" lang="chi" page="01a" n="1">諺解臘藥症治方</sent>
+<sent type="title" lang="kor" page="01a" n="1">언납약증티방</sent>
+<sent type="main" lang="chi" page="01a-01b" n="2">牛黃淸心元治中風不語 恍惚煩鬱 痰熱傷寒 發熱</sent>
+<sent type="main" lang="kor" page="01a-01b" n="2">우황쳥심원은 듕풍으로 말 못며 어즐코 답답며 담쳔으로 열 증이며 샹한의 열이 나며</sent><!--열^이-->
+
+<sent type="main" lang="chi" page="01b" n="1">心氣不足 神志不定 一切病發熱等症</sent>
+<sent type="main" lang="kor" page="01b" n="1">심긔 브죡여 졍신과 을 뎡티 못머 온갓 병의 열나 증들을 고티고</sent>
+<sent type="main" lang="chi" page="01b" n="2">又治卒中風 不省人事 痰涎壅塞精神昏憒 言語蹇澁</sent>
+<sent type="main" lang="kor" page="01b" n="2"> 과리 듕풍여 인를 히디 못며 건춤이 막켜 졍신이 아득며 말이 어을프며</sent>
+<sent type="main" lang="chi" page="01b" n="3">口眼喎斜 手足不收 每取一丸溫水化下</sent>
+<sent type="main" lang="kor" page="01b" n="3">입과 눈이 기올며 손발을 거두디 못호믈 고티니  번의  환을  믈의 프러 리오라</sent>
+<sent type="main" lang="chi" page="01b" n="4">○忌鯽魚 熱麵 桃李 雀蛤 胡荽 大蒜</sent>
+<sent type="main" lang="kor" page="01b" n="4">○금긔 붕어와 더온 국슈와 복숑아와 외앗과 새와 죠개와 고싀와 마과</sent>
+<sent type="main" lang="chi" page="01b" n="5">靑魚鮓 猪肉 粟米 醋酸物 菘菜 海藻 生蔥 鹽</sent>
+<sent type="main" lang="kor" page="01b" n="5">쳥어젓과 돗틔고기와 조과 초브티 싄 것과 와 자반과 파와 소곰이라</sent>
+
+<sent type="main" lang="chi" page="02a" n="1">九味淸心元症治與牛黃淸心元同 而治熱之功尤捷</sent>
+<sent type="main" lang="kor" page="02a" n="1">구미쳥심원은 병증 고티기 우황쳥심원과 가지로 열 다리 공이 더옥 니라</sent>
+<sent type="main" lang="chi" page="02a" n="2">○忌鹽 大蒜</sent>
+<sent type="main" lang="kor" page="02a" n="2">○금긔 소곰과 마이라</sent>
+
+<sent type="main" lang="chi" page="02b" n="1">蘇合元治傳尸鬼氣 卒心腹痛</sent>
+<sent type="main" lang="kor" page="02b" n="1">소합원은 뎐염 주검 긔운과 귀신 긔운이며 과리 가  알며</sent>
+<sent type="main" lang="chi" page="02b-03a" n="2">霍亂時氣 瘴瘧 暴利赤白</sent>
+<sent type="main" lang="kor" page="02b-03a" n="2">곽난이며 시병이며 바다 모딘 긔운으로 된 고곰이며 과 젹니질이며</sent><!--과^-->
+
+<sent type="main" lang="chi" page="03a" n="1">月閉 痃癖 小兒吐乳 大人狐狸等疾</sent>
+<sent type="main" lang="kor" page="03a" n="1">월경이 막히며 슈긔과 담이 응결 증이며 어린 아 졋 토기며 얼운이 여이며 긔 홀리인 병들을 고티고</sent>
+<sent type="main" lang="chi" page="03a" n="2">大能順氣化痰 又治一切氣痰及中風上氣氣逆氣鬱氣痛</sent>
+<sent type="main" lang="kor" page="03a" n="2">크게 능히 긔운을 슌케 며 담을 프러디게 고  온갓 긔증 담증과 듕풍으로 긔운이 올오며 긔운이 거리 켜며 긔운이 답답며 긔운으로 알 증을 고티니</sent>
+<sent type="main" lang="chi" page="03a" n="3">有龍腦則謂之龍腦蘇合元 無龍腦則謂之麝香蘇合元</sent>
+<sent type="main" lang="kor" page="03a" n="3">룡노 녀허 지으 니 룡노소합원이라 니고 룡노 업시 지으니 샤향소합원이라 니니</sent>
+<sent type="main" lang="chi" page="03a-03b" n="4">每取二三丸 或四五丸 早朝空心井華水或溫酒化下</sent>
+<sent type="main" lang="kor" page="03a-03b" n="4"> 번의 두세 환이어나 혹 네다 환을 이 아젹 공심의 졍화어나 혹  술의 프러 리오</sent><!--아^젹-->
+
+<sent type="main" lang="chi" page="03b" n="1">病急則不拘時服 胸腹痛及氣疾痰症 並以童便化下 則功用尤勝</sent>
+<sent type="main" lang="kor" page="03b" n="1">병이 급거든  거리디 말고 먹고 가  알 이와 긔운으로 된 병과 담으로 된 증에 다 나 아 오좀으로 프러 리오면 효험이 더 나으리라</sent>
+<sent type="main" lang="chi" page="03b" n="2">小兒裹一丸紅絹袋盛 當心佩之 一切邪神不敢近</sent>
+<sent type="main" lang="kor" page="03b" n="2">어린 아  환을  블근 깁주머니예 녀허 가의 당여 면 온갓 샤긔옛 귀신이 감히 갓갑디 못니라</sent>
+<sent type="main" lang="chi" page="03b-04a" n="3">一方凡人 每取九丸浸一甁淸酒中 時時飮之 最辟鬼疫之氣</sent>
+<sent type="main" lang="kor" page="03b-04a" n="3"> 방문의 므 사이  번의 아홉 환식 근 술  병의 가 로 마시면 귀신이며 시병 긔운을 장 믈리티고</sent><!--티^고-->
+
+<sent type="main" lang="chi" page="04a" n="1">又絳囊盛三丸 當心帶之 亦妙</sent>
+<sent type="main" lang="kor" page="04a" n="1"> 세 환을 블근 주머니예 녀허 가의 당여 면  긔묘니라</sent>
+<sent type="main" lang="chi" page="04a" n="2">○忌桃李 雀蛤 胡荽 大蒜 靑魚鮓 鹽 生血物</sent>
+<sent type="main" lang="kor" page="04a" n="2">○금긔 복숑아와 외앗과 새과 죠개과 고싀와 마과 쳥어젓과 소곰과 피브티 시라</sent>
+
+<sent type="main" lang="chi" page="04b" n="1">至寶丹治中風不語 諸毒山嵐瘴氣蠱毒肉毒水毒</sent>
+<sent type="main" lang="kor" page="04b" n="1">지보단은 듕풍으로 말 못며 모 독과 묏안개 긔운과 바다 모딘 긔운이며 노올이며 고기독이며 믈엣독이며</sent>
+<sent type="main" lang="chi" page="04b" n="2">産後血暈悶亂 難産</sent>
+<sent type="main" lang="kor" page="04b" n="2">식 나흔 후의 피로 어즐코 답답고 어즐어오며 식 나키를 어려이 호믈 고티고</sent>
+<sent type="main" lang="chi" page="04b" n="3">又治小兒諸癎 急驚 卒中客忤不得眠煩燥 風搐</sent>
+<sent type="main" lang="kor" page="04b" n="3"> 어린 아 모든 디랄증이며 급 경풍이며 과리 된 샤긔를 마자  못 자 번열며 으로 뒤틀리며</sent>
+<sent type="main" lang="chi" page="04b-05a" n="4">卒中風 不省人事 急風中臟精神昏冒</sent>
+<sent type="main" lang="kor" page="04b-05a" n="4">과 듕풍으로 인를 히디 못며 이 오장의 마자 졍신이 아득호믈 고티니</sent><!--며 ^ -->
+
+<sent type="main" lang="chi" page="05a" n="1">每用二三丸至五丸 人參湯和下 或薑汁和童便用之</sent>
+<sent type="main" lang="kor" page="05a" n="1"> 번의 두세 환으로 다 환에 니히 되 인 달힌 믈에 프러 리오고 혹 강즙을 나희 아 오의  라</sent>
+<sent type="main" lang="chi" page="05a" n="2">如無人參湯薑汁 溫水和下</sent>
+<sent type="main" lang="kor" page="05a" n="2">만일 인 달힌 믈과 강즙이 업거든  믈의 프러 리오라</sent>
+<sent type="main" lang="chi" page="05a" n="3">此藥救急遽用時 化開極難</sent>
+<sent type="main" lang="kor" page="05a" n="3">이 약은 급 병을 구려코 믄득  예 플기 극히 어려오니</sent>
+<sent type="main" lang="chi" page="05a" n="4">不入湯汁時 或嚼細或碎破 然後入水及用</sent>
+<sent type="main" lang="kor" page="05a" n="4">인 달힌 믈과 강즙의 녀티 아니여셔 혹 게 십거나 혹  후의 믈의 녀허야 밋처 리라</sent>
+<sent type="main" lang="chi" page="05a" n="5">○忌鹽 生血物 大蒜</sent>
+<sent type="main" lang="kor" page="05a" n="5">○금긔 소곰과 피브티 것과 마이라</sent>
+
+<sent type="main" lang="chi" page="05b" n="1">木香保命丹治諸風眩暈 中風口噤 手足偏苦</sent>
+<sent type="main" lang="kor" page="05b" n="1">목향보명단은 모든 증으로 아득고 어즐며  마자 입을 다믈며 손발이  편이 며</sent>
+<sent type="main" lang="chi" page="05b-06a" n="2">頭目昏眩 心神恍惚及諸般冷氣 又治中一切諸症</sent>
+<sent type="main" lang="kor" page="05b-06a" n="2">머리와 눈이 아득며 어즐고 과 졍신이 어즐홈과 모든 긔를 고티고  듕풍의 온갓 모든 증을 고티니</sent><!--티^고-->
+
+<sent type="main" lang="chi" page="06a" n="1">每服一丸 細嚼 溫酒或熱水化下</sent>
+<sent type="main" lang="kor" page="06a" n="1"> 번의  환식 되 게 씨버  술이어나 혹 더온 믈의 프러 리오고</sent>
+<sent type="main" lang="chi" page="06a" n="2">或取三丸浸淸酒一甁 春五夏三秋七冬十日 時時飮之</sent>
+<sent type="main" lang="kor" page="06a" n="2">혹 세 환을 근 술  병의 므되 봄은 닷쌔오 녀은 사흘이오 은 닐웨오 겨을은 열흘만의 로 마시라</sent>
+<sent type="main" lang="chi" page="06a" n="3">○忌生蔥 豬肉 豆 牛肉 茗 熱湯 熱麵 菘菜 海藻 大蒜 生血物</sent>
+<sent type="main" lang="kor" page="06a" n="3">○금긔 파와 돗고기와 콩과 고기과 텬디차와 더온 믈과 더온 국슈와 와 자반과 마과 피브티 시라</sent>
+
+<sent type="main" lang="chi" page="06b" n="1">龍腦安神丸治五般癲癎 無問遠近 發作無時</sent>
+<sent type="main" lang="kor" page="06b" n="1">룡노안신환은 다 가지 뎐질이며 간질을 고티니 오라며 갓가오며 발작기  업시 호믈 뭇디 말고</sent>
+<sent type="main" lang="chi" page="06b" n="2">大人一丸 小兒半丸 冬月溫水夏月涼水化下</sent>
+<sent type="main" lang="kor" page="06b" n="2">얼운은  환이오 어린 아 반 환을 겨을이어든  믈이오 녀이어든  믈의 프러 리오</sent>
+<sent type="main" lang="chi" page="06b" n="3">不拘時日再服</sent>
+<sent type="main" lang="kor" page="06b" n="3">를 거리디 말고  두 번식 머그라</sent>
+<sent type="main" lang="chi" page="06b-07a" n="4">○忌醋酸物 菘菜 海藻 鯽魚 生血物 鹽 大蒜</sent>
+<sent type="main" lang="kor" page="06b-07a" n="4">○금긔 초브티 싄 것과 와 자반과 붕어와 피브티 것과 소곰과 마이라</sent><!--브^티-->
+
+<sent type="main" lang="chi" page="07a" n="1">牛黃凉膈元治咽喉腫痛 口舌生瘡 頷頰赤腫</sent>
+<sent type="main" lang="kor" page="07a" n="1">우황냥격원은 목굼기 브어 알며 입과 혜 헐며  아래와 보죠개 블거브으며</sent>
+<sent type="main" lang="chi" page="07a" n="2">熱痰壅塞 除風熱 消瘡疹</sent>
+<sent type="main" lang="kor" page="07a" n="2">열 담이 마키믈 고티고 풍열을 덜며 헐므은 를 스러디게 니</sent>
+<sent type="main" lang="chi" page="07a-07b" n="3">每用一丸噙化 或薄荷湯嚼下</sent>
+<sent type="main" lang="kor" page="07a-07b" n="3"> 번의  환을 머금어 프러디게 며 혹 박하 달힌 믈의 십버 리오고</sent><!--오^고-->
+
+<sent type="main" lang="chi" page="07b" n="1">小兒急驚每用半丸 如無薄荷 溫水下</sent>
+<sent type="main" lang="kor" page="07b" n="1">어린 아 급경풍의란  번의 반 환을 되 만일 박해 업거든  믈의 리오라</sent>
+<sent type="main" lang="chi" page="07b" n="2">○忌菘菜 海藻 大蒜</sent>
+<sent type="main" lang="kor" page="07b" n="2">○금긔 와 자반과 마이라</sent>
+<sent type="main" lang="chi" page="07b" n="3">加減薄荷煎元治頭目眩昏 口舌生瘡 痰涎壅塞</sent>
+<sent type="main" lang="kor" page="07b" n="3">가감박하젼원은 머리과 눈이 아득며 어즐고 입과 혜 헐며 건춤이 마키며</sent>
+<sent type="main" lang="chi" page="07b" n="4">咽喉腫痛 除風熱 消瘡疹</sent>
+<sent type="main" lang="kor" page="07b" n="4">풍열로 목굼기 브어 알믈 고티고 풍열을 덜며 헐므은 를 스러디게 니</sent>
+<sent type="main" lang="chi" page="07b-08a" n="5">每用一丸噙化嚥之</sent>
+<sent type="main" lang="kor" page="07b-08a" n="5"> 번의  환을 머금어 프러디거든 기라</sent><!--을 ^ 머-->
+
+<sent type="main" lang="chi" page="08a" n="1">○忌猪肉 菘菜 海藻</sent>
+<sent type="main" lang="kor" page="08a" n="1">○금긔 돗고기과 와 자반이라</sent>
+<sent type="main" lang="chi" page="08a" n="2">龍腦膏症治與加減薄荷煎元同 每用一丸噙化嚥下</sent>
+<sent type="main" lang="kor" page="08a" n="2">룡노고 병증 고티기 가감박하젼원과 가지니  번의  환을 머금어 프러디거든 라</sent>
+<sent type="main" lang="chi" page="08a" n="3">○忌菘菜 海藻 猪肉</sent>
+<sent type="main" lang="kor" page="08a" n="3">○금긔 와 자반과 돗고기라</sent>
+
+<sent type="main" lang="chi" page="08b" n="1">解毒雄黃元治喉閉口噤 水漿不下 危急者</sent>
+<sent type="main" lang="kor" page="08b" n="1">독웅황원은 목굼기 마키고 입이 다믈려 믈도 리디 아닌 위급 증을 고티니</sent>
+<sent type="main" lang="chi" page="08b" n="2">每七丸茶淸下 如口噤 醋和灌鼻</sent>
+<sent type="main" lang="kor" page="08b" n="2"> 번의 닐곱 환을 근 차의 리오 입이 다믈렷거든 초의 프러 코해 흘리라</sent>
+<sent type="main" lang="chi" page="08b-09a" n="3">○忌蘆笋羹 野猪肉 及醬 豉 冷水</sent>
+<sent type="main" lang="kor" page="08b-09a" n="3">○금긔 슌국과 산뎨고기과 쟝과 젼국과 라</sent><!--^라-->
+
+<sent type="main" lang="chi" page="09a" n="1">○過服致傷 令人大瀉或吐 煩渴發熱</sent>
+<sent type="main" lang="kor" page="09a" n="1">○너모 머거 샹면 사으로 여곰 크게 즈고 혹 토며 답답고 목 고 열이 나니</sent>
+<sent type="main" lang="chi" page="09a" n="2">黃連黃栢煎湯冷服 黑豆煮汁飮之 寒水石磨水服之</sent>
+<sent type="main" lang="kor" page="09a" n="2">황년 황 달힌 믈을 게 여 먹고 거믄콩 달힌 즙을 먹고 한슈셕을 믈의 라 먹고</sent>
+<sent type="main" lang="chi" page="09a" n="3">菖蒲或葛根擣取汁飮之 更以冷水浸手足 忌食熱物</sent>
+<sent type="main" lang="kor" page="09a" n="3">챵푀어나 혹 츩블회를 허 즙 내여 마시고 다시 슈로 손발을 므고 열 거슬 먹디 말라</sent>
+<sent type="main" lang="chi" page="09a" n="4">又藍根砂糖擂爛和水服之</sent>
+<sent type="main" lang="kor" page="09a" n="4"> 족블회과 사당을   즛야 믈의  머그라</sent>
+
+<sent type="main" lang="chi" page="09b" n="1">瀉靑丸治肝熱 急驚搐搦 又治眼疾</sent>
+<sent type="main" lang="kor" page="09b" n="1">샤쳥환은 간장열이며 급 경풍으로 뒤틀리 증을 고티고  안질을 고티니</sent>
+<sent type="main" lang="chi" page="09b" n="2">小兒每用半丸或一丸 竹葉湯或砂糖水化下 大人用二三丸</sent>
+<sent type="main" lang="kor" page="09b" n="2">어린 아  번의 반 환이나 혹  환을 댓닙 달힌 믈이어나 혹 사당믈의 프러 리오고 얼운은 두세 환을 라</sent>
+<sent type="main" lang="chi" page="09b" n="3">○忌熱麵</sent>
+<sent type="main" lang="kor" page="09b" n="3">○금긔 더온 국라</sent>
+
+<sent type="main" lang="chi" page="10a" n="1">水煮木香膏治脾胃受濕 臟腑滑 泄無度 腹痛 腸鳴水聲</sent>
+<sent type="main" lang="kor" page="10a" n="1">슈쟈목향고 비위에 습긔 들어 장뷔 활여 즈기를 도쉬 업며  알며  울기 믈소 며</sent>
+<sent type="main" lang="chi" page="10a" n="2">不思飮食 每欲下利 裏急後重 或下赤白便膿</sent>
+<sent type="main" lang="kor" page="10a" n="2">음식을 각디 아니며 양 즈고져 며  급고 뒤히 므즑며 혹 젹니를 누며 대변의 고롬  것 나믈 고티고</sent>
+<sent type="main" lang="chi" page="10a" n="3">又治一切諸痢 每一丸水一盞棗一枚煎至七分</sent>
+<sent type="main" lang="kor" page="10a" n="3"> 온갓 모든 니질을 고티니  번의  환을 믈  되예 대쵸  낫과   달혀 칠 홉만 거든</sent>
+<sent type="main" lang="chi" page="10a" n="4">去棗和滓 空心溫服</sent>
+<sent type="main" lang="kor" page="10a" n="4">대쵸란 리고 즈의 조차 공심의 히 여 머그라</sent>
+<sent type="main" lang="chi" page="10a-10b" n="5">○忌熱麵 猪肉 冷水 豆 菘菜 海藻</sent>
+<sent type="main" lang="kor" page="10a-10b" n="5">○금긔 더온 국슈과 돗고기과 슈과 콩과 와 자반이라</sent><!--슈^과-->
+
+<sent type="main" lang="chi" page="11a" n="1">感應元治虛中積冷氣弱 有傷飢飽飮食</sent>
+<sent type="main" lang="kor" page="11a" n="1">감응원은 소기 허여 이 싸혀 긔운이 약며 주리거나 브기로 음식의 샹호미 이셔</sent>
+<sent type="main" lang="chi" page="11a" n="2">心下脇間堅滿 霍亂嘔吐 久痢赤白膿血相雜 米穀不化</sent>
+<sent type="main" lang="kor" page="11a" n="2">명치 아래와 녑히 든든코 턍만며 곽난으로 토며 오란 젹니질의 고롬 피 섯겨 나며 머근 밥이 삭디 아니며</sent>
+<sent type="main" lang="chi" page="11a-11b" n="3">中酒 嘔吐 惡心 頭旋 四肢倦怠 姙娠傷寒</sent>
+<sent type="main" lang="kor" page="11a-11b" n="3">술의 샹여 토며 눅눅며 머리 어즐며 지 거두디 슬며 식   샹한이며</sent><!--^여-->
+
+<sent type="main" lang="chi" page="11b" n="1">小兒傷滯 赤白或進或退 連綿不止</sent>
+<sent type="main" lang="kor" page="11b" n="1">어린 아 톄 거 샹여 젹니질이 오락가락여 오래 그치디 아니믈 고티니</sent>
+<sent type="main" lang="chi" page="11b" n="2">每用一錠米飮調下 或作丸菉豆大 十丸呑下</sent>
+<sent type="main" lang="kor" page="11b" n="2"> 번의  뎡을 미음의  리오고 혹 녹두마곰 환을 지어 열 환식 라</sent>
+<sent type="main" lang="chi" page="11b" n="3">此藥一錠蘇合元四丸合 和丸菉豆大 名蘇感丸</sent>
+<sent type="main" lang="kor" page="11b" n="3">이 약  뎡의 소합원 네 환을 합여 녹두마곰 환을 지으면 일홈이 소감원이라</sent>
+<sent type="main" lang="chi" page="11b" n="4">每五六丸空心米飮呑下 取微注</sent>
+<sent type="main" lang="kor" page="11b" n="4"> 번의 대엿 환을 공심의 미음으로  잠간 주면</sent>
+<sent type="main" lang="chi" page="11b-12a" n="5">治臟腑積年久痢最有神效</sent>
+<sent type="main" lang="kor" page="11b-12a" n="5">장부의 여러  오란 니질 다리기예 장 신긔로온 효험이 인니라</sent><!--인^-->
+
+<sent type="main" lang="chi" page="12a" n="1">○忌粟米 蘆笋羹 野猪肉 及醬 豉 冷水</sent>
+<sent type="main" lang="kor" page="12a" n="1">○금긔 조과 슌국과 산뎨고기과 쟝과 젼국과 라</sent>
+<sent type="main" lang="chi" page="12a" n="2">○過服致傷 令人大瀉或吐 煩渴發熱</sent>
+<sent type="main" lang="kor" page="12a" n="2">○너모 머거 샹면 사으로 여곰 크게 즈고 혹 토며 답답고 목 고 열이 나니</sent>
+<sent type="main" lang="chi" page="12a" n="3">黃連黃栢煎湯冷服 黑豆煮汁飮之 寒水石磨水服之</sent>
+<sent type="main" lang="kor" page="12a" n="3">황년 황 달힌 믈을 게 여 먹고 거믄콩 달힌 즙을 마시고 한슈셕을 믈의 라 먹고</sent>
+<sent type="main" lang="chi" page="12a" n="4">菖蒲或葛根擣取汁飮之 更以冷水浸手足 忌食熱物</sent>
+<sent type="main" lang="kor" page="12a" n="4">챵푀어나 혹 츩블회를 허 즙 내여 마시고 다시 슈로 손발을 므고 열 거슬 먹디 말라</sent>
+<sent type="main" lang="chi" page="12a" n="5">又藍根砂糖擂爛和水服之</sent>
+<sent type="main" lang="kor" page="12a" n="5"> 족불회와 사당을   즛야 믈을  머그라</sent>
+
+<sent type="main" lang="chi" page="12b" n="1">神保元治諸氣注痛</sent>
+<sent type="main" lang="kor" page="12b" n="1">신보원은 모든 긔운이 뉴주여 알 증을 고티고</sent>
+<sent type="main" lang="chi" page="12b" n="2">又治心膈痛腹脇痛腎氣痛</sent>
+<sent type="main" lang="kor" page="12b" n="2"> 가 알며  알며 녑 알며 신장 긔운으로 알 증을 고티니</sent>
+<sent type="main" lang="chi" page="12b-13a" n="3">每五七丸薑湯溫酒任下</sent>
+<sent type="main" lang="kor" page="12b-13a" n="3"> 번의 다 환 닐곱 환식 강 달힌 믈이어나  술의 임의로 리오고</sent><!--의 ^ 다-->
+
+<sent type="main" lang="chi" page="13a" n="1">氣痛木香湯下 治疝最有神效</sent>
+<sent type="main" lang="kor" page="13a" n="1">긔운으로 알 란 목향 달힌 믈의 리오라 산증 고티기예 장 신긔로온 효험이 잇니라</sent>
+<sent type="main" lang="chi" page="13a" n="2">○忌蘆笋羹 野猪肉 及醬 豉 冷水 生血物</sent>
+<sent type="main" lang="kor" page="13a" n="2">○금긔 슌국과 산데고기과 쟝과 젼국과 슈와 피브티 거시라</sent>
+<sent type="main" lang="chi" page="13a" n="3">○過服致傷 令人大瀉或吐 煩渴發熱</sent>
+<sent type="main" lang="kor" page="13a" n="3">○너모 머거 샹면 사으로 여곰 크게 즈고 혹 토며 답답고 목 고 열이 나니</sent>
+<sent type="main" lang="chi" page="13a" n="4">黃連黃栢煎湯冷服 黑豆煮汁飮之 寒水石磨水服之</sent>
+<sent type="main" lang="kor" page="13a" n="4">황년 황 달힌 믈을 게 여 먹고 거믄콩 달힌 즙을 마시고 한슈셕을 믈의 라 먹고</sent>
+<sent type="main" lang="chi" page="13a-13b" n="5">菖蒲或葛根擣取汁飮之 更以冷水浸手足 忌食熱物</sent>
+<sent type="main" lang="kor" page="13a-13b" n="5"> 챵푀어나 혹 츩블회를 허 즙 내여 마시고 다시 슈로 손발을 므고 더온 거 먹디 말라</sent><!--회^를-->
+
+<sent type="main" lang="chi" page="13b" n="1">又藍根砂糖擂爛和水飮之</sent>
+<sent type="main" lang="kor" page="13b" n="1"> 족불회와 사당을   즛야 믈의  머그라</sent>
+
+<sent type="main" lang="chi" page="14a" n="1">九痛元治九種心痛 及卒中惡腹脹痛 口不能言</sent>
+<sent type="main" lang="kor" page="14a" n="1">구통원은 아홉 가지 가 알키와 과리 듕악여  턍고 알며 능히 말 못 증을 고티고</sent>
+<sent type="main" lang="chi" page="14a" n="2">又治連年積冷留在心胸 墜落傷損</sent>
+<sent type="main" lang="kor" page="14a" n="2"> 여러  싸힌 이 명치며 가의 머므러 이시며 낙샹 증을 고티니</sent>
+<sent type="main" lang="chi" page="14a" n="3">每三五丸空心溫酒下</sent>
+<sent type="main" lang="kor" page="14a" n="3"> 번의 세 환 다 환식 공심의  술의 리오라</sent>
+<sent type="main" lang="chi" page="14a" n="4">○忌蘆笋羹 野猪肉 及醬 豉 冷水</sent>
+<sent type="main" lang="kor" page="14a" n="4">○금긔 슌국과 산뎨고기과 쟝과 젼국과 라</sent>
+<sent type="main" lang="chi" page="14a-14b" n="5">○過服致傷 令人大瀉或吐 煩渴發熱</sent>
+<sent type="main" lang="kor" page="14a-14b" n="5">○너모 머거 샹면 사으로 여곰 크게 즈고 혹 토며 답답고 목 고 열이 나니</sent><!--으^로-->
+
+<sent type="main" lang="chi" page="14b" n="1">黃連黃栢煎湯冷服 黑豆煮汁服之 寒水石磨水服之</sent>
+<sent type="main" lang="kor" page="14b" n="1">황년 황 달힌 믈을 게 여 먹고 거믄콩 달힌 즙을 먹고 한슈셕을 믈의 라 먹고</sent>
+<sent type="main" lang="chi" page="14b" n="2">菖蒲或葛根擣取汁飮之 更以冷水浸手足 忌食熱物</sent>
+<sent type="main" lang="kor" page="14b" n="2">챵푀어나 혹 츩불회 허 즙 내여 마시고 다시 슈로 손발을 므고 더온 거 먹디 말라</sent>
+<sent type="main" lang="chi" page="14b" n="3">又藍根砂糖擂爛和水飮之 菉豆煮汁冷服</sent>
+<sent type="main" lang="kor" page="14b" n="3"> 족불회와 사당을   즛아 믈의  먹고 녹두 달힌 즙을 게 여 먹고</sent>
+<sent type="main" lang="chi" page="14b" n="4">甘草煎汁服之 入口卽定 多飮井水大吐瀉卽愈</sent>
+<sent type="main" lang="kor" page="14b" n="4">감초 달힌 즙을 머그면 입의 들며 즉시 뎡고 우믈 믈을 만히 머거 크게 토고 즈면 즉시 됴코</sent>
+<sent type="main" lang="chi" page="14b-15a" n="5">童便服之 黃連湯飮之 藍葉汁服之</sent>
+<sent type="main" lang="kor" page="14b-15a" n="5">나 아 오좀을 먹고 황년 달힌 믈을 마시고 족닙즙을 머그라</sent><!--을 ^ 먹-->
+
+<sent type="main" lang="chi" page="15b" n="1">萬病元治七種癖塊 八種痞滿</sent>
+<sent type="main" lang="kor" page="15b" n="1">만병원은 닐곱 가지 뭉긘 증과 여 가지 막혀 턍만 증과</sent>
+<sent type="main" lang="chi" page="15b" n="2">五種癲疾 十種疰忤 七種飛尸</sent>
+<sent type="main" lang="kor" page="15b" n="2">다 가지 딜알과 열 가지 뉴주 샤긔며 닐곱 가지 라 뎐 주검 긔운이며</sent>
+<sent type="main" lang="chi" page="15b-16a" n="3">十二種蠱毒 五種黃疸 十二種瘧疾 十種水病</sent>
+<sent type="main" lang="kor" page="15b-16a" n="3">열두 가지 모올과 다 가지 황달과 열두 가지 고곰과 열 가지 슈죵병과</sent><!--달^과-->
+
+<sent type="main" lang="chi" page="16a" n="1">八種大風 十二種濕痺 及積聚脹滿</sent>
+<sent type="main" lang="kor" page="16a" n="1">여 가지 대풍증과 열두 가지 습으로 범븬 증과  복듕의 싸힌 긔운으로 턍만며</sent>
+<sent type="main" lang="chi" page="16a" n="2">久遠心腹痛 疳 蛔 寸白諸虫</sent>
+<sent type="main" lang="kor" page="16a" n="2">오란 가 알히며 감튱이며 회튱이며 촌튱과 모든 튱증이며</sent>
+<sent type="main" lang="chi" page="16a" n="3">久積痰飮 消瘦疲困 或婦人子臟瘀血凝滯 因此斷產</sent>
+<sent type="main" lang="kor" page="16a" n="3">오래 싸힌 담으로 여위고 피곤며 혹 부인 장의 어혈이 엉긔여 막혀일로 인아 식 나키 그처시믈 고티니</sent>
+<sent type="main" lang="chi" page="16a" n="4">服此藥以三丸爲一劑 不過三劑 其病悉除</sent>
+<sent type="main" lang="kor" page="16a" n="4">이 약 먹기를 세 환으로  졔를 삼을니 세 졔예 디나디 못여셔 그 병이 다 업니</sent>
+<sent type="main" lang="chi" page="16a" n="5">說無窮盡 故稱爲萬病元</sent>
+<sent type="main" lang="kor" page="16a" n="5">고티 증이 무궁므로 일홈을 만병원이라</sent>
+
+<sent type="main" lang="chi" page="16b" n="1">溫水或薑湯下三丸 以吐利爲度</sent>
+<sent type="main" lang="kor" page="16b" n="1"> 믈이어나 혹 강 달힌 믈의 세 환식 리와 토며 즈기로 을 삼으라</sent>
+<sent type="main" lang="chi" page="16b" n="2">○忌生蔥 蘆笋羹 野猪肉 及醬 豉 冷水 熱麵 鹽 醋酸物 生菜 大蒜 生血物</sent>
+<sent type="main" lang="kor" page="16b" n="2">○금긔 파와 슌국과 산뎨고기와 쟝과 젼국과 슈와 더온 국슈와 소곰과 초브티 싄 것과 믈과 마과 피브티 거시라</sent>
+<sent type="main" lang="chi" page="16b" n="3">○過服致傷 令人大瀉或吐 煩渴發熱</sent>
+<sent type="main" lang="kor" page="16b" n="3">○너모 머거 샹면 사으로 여곰 크게 즈고 혹 토며 답답고 목 고 열이 나니</sent>
+<sent type="main" lang="chi" page="16b" n="4">黃連黃栢煎湯冷服 黑豆煮汁飮之 寒水石磨水服之</sent>
+<sent type="main" lang="kor" page="16b" n="4">황년 황 달힌 믈을 게 여 먹고 거믄콩 달힌 즙을 마시고 한슈셕을 믈의 라 먹고</sent>
+<sent type="main" lang="chi" page="16b-17a" n="5">菖蒲或葛根擣取汁服之 更以冷水浸手足 忌食熱物</sent>
+<sent type="main" lang="kor" page="16b-17a" n="5">챵푀어나 혹 츩불회를 허 즙 내여 먹고 다시 슈로 손발을 므고 더온 거 먹디 말라</sent><!--다^시-->
+
+<sent type="main" lang="chi" page="17a" n="1">又藍根砂糖擂爛和水服之 甘草煮汁服之 薺苨煎汁服之</sent>
+<sent type="main" lang="kor" page="17a" n="1"> 족불회와 사당을   즛야 믈에  먹고 감초 달힌 즙을 먹고 계로기 달힌 즙을 마시라</sent>
+
+<sent type="main" lang="chi" page="17b" n="1">溫白元治心腹積聚 癥癖積年 食不消下</sent>
+<sent type="main" lang="kor" page="17b" n="1">온원은 가과 예 싸힌 긔운으로 뭉긘 증이  오래여 머근 거시 사가 리디 아니며</sent>
+<sent type="main" lang="chi" page="17b" n="2">黃疸 鼓脹 十種水氣 八種痞塞 五種淋疾</sent>
+<sent type="main" lang="kor" page="17b" n="2">황달과 고턍증이며 열 가지 슈죵 병과 여 가지 덧부록여 마킨 증과 다 가지 님질과</sent>
+<sent type="main" lang="chi" page="17b-18a" n="3">九種心痛 遠年瘧疾 及療七十二種風</sent>
+<sent type="main" lang="kor" page="17b-18a" n="3">아홉 가지 가 알키과 오란 고곰을 고티고  닐두 가지 증과</sent><!--을 ^ 고-->
+
+<sent type="main" lang="chi" page="18a" n="1">三十六種尸疰 癲狂邪祟 一切腹中諸疾</sent>
+<sent type="main" lang="kor" page="18a" n="1">셜여 가지 주검 긔운으로 뉴주 증과 딜알과 미친 병과 사긔증과 복듕 온갓 병을 고티니</sent>
+<sent type="main" lang="chi" page="18a" n="2">每用三丸或五丸至七丸</sent>
+<sent type="main" lang="kor" page="18a" n="2"> 번의 세 환 혹 다 환으로 닐곱 환의 니히 되</sent>
+<sent type="main" lang="chi" page="18a" n="3">薑湯或紫蘇湯下 如無生薑紫蘇 溫水下</sent>
+<sent type="main" lang="kor" page="18a" n="3">강 달힌 믈이어나 혹 소 달힌 믈의 리오고 만일 강과 쇠 업거든  믈의 리오라</sent>
+<sent type="main" lang="chi" page="18a" n="4">○忌猪肉 飴糖 羊肉 海藻 冷水 生蔥 蘆笋羹 及醬 豉 醋酸物 豆</sent>
+<sent type="main" lang="kor" page="18a" n="4">○금긔 돗고기와 엿과 양의 고기과 자반과 슈과 파와 슌국과 쟝과 젼국과 초브티 싄 것과 콩이라</sent>
+<sent type="main" lang="chi" page="18a-18b" n="5">○過服致傷 令人大瀉或吐 煩渴發熱</sent>
+<sent type="main" lang="kor" page="18a-18b" n="5">○너모 머거 샹먼 사으로 여곰 크게 즈고 혹 토며 답답고 목 고 열이 나니</sent><!--게 ^ 즈-->
+
+<sent type="main" lang="chi" page="18b" n="1">黃連黃栢煎湯冷飮 黑豆煮汁服之 寒水石磨水服之</sent>
+<sent type="main" lang="kor" page="18b" n="1">황년 황 달힌 믈을 게 여 마시고 거믄콩 달힌 즙을 먹고 한슈셕을 믈의 라 먹고</sent>
+<sent type="main" lang="chi" page="18b" n="2">菖蒲或葛根擣取汁服之 更以冷水浸手足 忌食熱物</sent>
+<sent type="main" lang="kor" page="18b" n="2">챵푀어나 혹 츩불회를 허 즙 내여 먹고 다시 슈로 손발을 므고 더온 거슬 먹디 말라</sent>
+<sent type="main" lang="chi" page="18b" n="3">又藍根砂糖擂爛和水服之 甘草煮汁服之</sent>
+<sent type="main" lang="kor" page="18b" n="3"> 족불회와 사당을   즛야 믈의  먹고 감초 달힌 즙을 머그라</sent>
+
+<sent type="main" lang="chi" page="19a" n="1">靈寶丹治大便不通 推下積滯</sent>
+<sent type="main" lang="kor" page="19a" n="1">녕보단은 대변을 누디 못홈을 고티며 싸혀 톄 거슬 리오며</sent>
+<sent type="main" lang="chi" page="19a" n="2">一切無名惡瘡毒腫</sent>
+<sent type="main" lang="kor" page="19a" n="2">온갓 일흠 업슨 모딘 창질과 독 죵긔를 고티니</sent>
+<sent type="main" lang="chi" page="19a" n="3">每一丸凉水下 欲利三行 先喫凉水三口 然後用凉水呑下</sent>
+<sent type="main" lang="kor" page="19a" n="3"> 번의  환을  믈의 리오 세 번 즈츼러 면 몬져  믈 세 머곰 머근 후의  믈의 라</sent>
+<sent type="main" lang="chi" page="19a-19b" n="4">忌蘆笋羹 野猪肉 及醬 豉 冷水</sent>
+<sent type="main" lang="kor" page="19a-19b" n="4">금긔 슌국과 산뎨고기과 쟝과 젼국과 라</sent><!--긔^-->
+
+<sent type="main" lang="chi" page="19b" n="1">○過服致傷 令人大瀉或吐 煩渴發熱</sent>
+<sent type="main" lang="kor" page="19b" n="1">○너모 머거 샹면 사으로 여곰 크게 즈고 혹 토며 답답고 목 고 열이 나니</sent>
+<sent type="main" lang="chi" page="19b" n="2">黃連黃栢煎湯冷服 黑豆煮汁服之 寒水石磨水服之</sent>
+<sent type="main" lang="kor" page="19b" n="2">황년 황 달힌 믈을 게 여 먹고 거믄콩 달힌 즙을 먹고 한슈셕을 믈의 라 먹고</sent>
+<sent type="main" lang="chi" page="19b" n="3">菖蒲或葛根擣取汁飮之 更以冷水浸手足 忌食熱物</sent>
+<sent type="main" lang="kor" page="19b" n="3">챵푀어나 혹 츩불회를 허 즙 내여 마시고 다시 슈로 손발을 므고 더온 거 먹디 말라</sent>
+<sent type="main" lang="chi" page="19b" n="4">又藍根砂糖擂爛和水服之</sent>
+<sent type="main" lang="kor" page="19b" n="4"> 족불회와 사당을   즛야 믈의  미그라</sent>
+
+<sent type="main" lang="chi" page="20a" n="1">備急元治心腹痛 諸卒暴百病 已死折恥灌之</sent>
+<sent type="main" lang="kor" page="20a" n="1">비급원은 가  알며 모 과  가지 병을 다 고티니 이 주거셔도 니 고 브으라</sent>
+<sent type="main" lang="chi" page="20a" n="2">中惡客忤尤妙 每用三丸 溫水呑下</sent>
+<sent type="main" lang="kor" page="20a" n="2">듕악과 된 샤긔예 더옥 긔특니  번의 세 환을 되  믈의 라</sent>
+
+<sent type="main" lang="chi" page="20b" n="1">○忌蘆笋羹 野猪肉 及醬 豉 冷水</sent>
+<sent type="main" lang="kor" page="20b" n="1">○금긔 슌국과 산뎨고기과 쟝과 젼국과 라</sent>
+<sent type="main" lang="chi" page="20b" n="2">○過服致傷 令人大瀉或吐 煩渴發熱</sent>
+<sent type="main" lang="kor" page="20b" n="2">○너모 머거 샹면 사으로 여곰 크게 즈고 혹 토며 답답고 목 고 열이 나니</sent>
+<sent type="main" lang="chi" page="20b" n="3">黃連黃栢煎湯冷服 黑豆煮汁服之 寒水石磨水服之</sent>
+<sent type="main" lang="kor" page="20b" n="3">황년 황 달힌 믈을 게 여 먹고 거믄콩 달힌 즙을 먹고 한슈셕을 믈의 라 먹고</sent>
+<sent type="main" lang="chi" page="20b" n="4">菖蒲或葛根擣取汁飮之 更以冷水浸手足 忌食熱物</sent>
+<sent type="main" lang="kor" page="20b" n="4">챵푀어나 혹 츩불회를 허 즙 내여 마시고 다시 슈로 손발을 므고 더온 거슬 먹디 말라</sent>
+<sent type="main" lang="chi" page="20b" n="5">又藍根砂糖擂爛和水服之</sent>
+<sent type="main" lang="kor" page="20b" n="5"> 족불회와 사당을   즛야 믈의  머그라</sent>
+
+<sent type="main" lang="chi" page="21a-21b" n="1">捉虎丹治四氣爲脚氣 無問遠近</sent>
+<sent type="main" lang="kor" page="21a-21b" n="1">착호단은 풍한과 셔습 긔운으로 다리 알 증이 된  오라며 갓가오믈 뭇디 말며</sent><!-- ^ 증-->
+
+<sent type="main" lang="chi" page="21b" n="1">一切注疼</sent>
+<sent type="main" lang="kor" page="21b" n="1">다 온갓 긔운으로 뉴주여 알히 증을 고티니</sent>
+<sent type="main" lang="chi" page="21b" n="2">臨發時 每一丸空心溫酒化下</sent>
+<sent type="main" lang="kor" page="21b" n="2">병이 발 예  번의  환을 공심의  술의 프러 리오라</sent>
+<sent type="main" lang="chi" page="21b" n="3">趕到脚面上 必赤腫 痛不散</sent>
+<sent type="main" lang="kor" page="21b" n="3">알히 긔운이 치여 발등의 다면 블거븟고 알히 거시 허여디디 아니니</sent>
+<sent type="main" lang="chi" page="21b" n="4">再服一丸 趕至脚心中 出黑汗 乃除根</sent>
+<sent type="main" lang="kor" page="21b" n="4">다시  환을 머거 알히 긔운이 치여 발바당 가온대 려가 거믄 이 나야 병근이 업니라</sent>
+<sent type="main" lang="chi" page="21b" n="5">又治中風癱瘓 白虎歷節</sent>
+<sent type="main" lang="kor" page="21b" n="5"> 듕풍으로 좌우편을 거두디 못 증이며 호녁졀풍증이며</sent>
+<sent type="main" lang="chi" page="21b-22a" n="6">手足麻痺不仁 偏枯不得屈伸</sent>
+<sent type="main" lang="kor" page="21b-22a" n="6">손발이 잘이고 범븨여 디 못며  편이 라 곱가 디 못 증을 고티니</sent><!--디 ^ 못-->
+
+<sent type="main" lang="chi" page="22a" n="1">溫酒化下 二丸連二次服</sent>
+<sent type="main" lang="kor" page="22a" n="1"> 술의 프러 리오 두 환식 년여 두 번을 머그라</sent>
+<sent type="main" lang="chi" page="22a" n="2">初中風不省 牙關不開 二丸酒硏灌下</sent>
+<sent type="main" lang="kor" page="22a" n="2">듕풍을  어더 인 히디 못며 아괴를 버리디 못거든 두 환을 술의 라 흘녀 리오라</sent>
+<sent type="main" lang="chi" page="22a" n="3">此藥若對症 則服後或精神昏眩 有若氣絶者</sent>
+<sent type="main" lang="kor" page="22a" n="3">이 약이 만일 증의 마즈면 머근 후의 혹 졍신이 아득고 어즐여 긔운이 그처디  쟤 잇거니와</sent>
+<sent type="main" lang="chi" page="22a" n="4">然小待斯須則無害 而此其效也</sent>
+<sent type="main" lang="kor" page="22a" n="4">져근덧 기도로면 해로오미 업고 이 그 효험이니라</sent>
+<sent type="main" lang="chi" page="22a" n="5">○忌熱麵 大蒜</sent>
+<sent type="main" lang="kor" page="22a" n="5">○금긔 더온 국슈과 마이라</sent>
+<sent type="main" lang="chi" page="22a-22b" n="6">○過服致傷 令人麻痺暈悶</sent>
+<sent type="main" lang="kor" page="22a-22b" n="6">○너모 머거 샹면 사으로 여곰 자리고 법븨며 어즐코 답답니</sent><!--자^리-->
+
+<sent type="main" lang="chi" page="22b" n="1">甘豆湯飮之 生薑汁飮之 童便飮之 又黃連湯飮之</sent>
+<sent type="main" lang="kor" page="22b" n="1">감두탕 달힌 믈을 마시고 강즙을 마시고 나희 아 오좀을 마시고  황년 달힌 믈을 마시라</sent>
+
+<sent type="main" lang="chi" page="23a" n="1">好合茵陳丸治天行病急黃</sent>
+<sent type="main" lang="kor" page="23a" n="1">호합인딘환은 텬 시병으로 급히 난 황달이며</sent>
+<sent type="main" lang="chi" page="23a" n="2">及瘴瘧發黃 熱病熱毒入裏發狂</sent>
+<sent type="main" lang="kor" page="23a" n="2">바다 모딘 긔운으로 된 고곰애 황달 발 증이며 열병의 열독이 소게 드러 미친 증을 고티니</sent>
+<sent type="main" lang="chi" page="23a" n="3">每三丸或五丸溫水呑下 以吐利爲效</sent>
+<sent type="main" lang="kor" page="23a" n="3"> 번의 세 환이나 혹 다 환을  믈의 기되 토며 즈기로 효험을 삼으라</sent>
+<sent type="main" lang="chi" page="23a" n="4">○忌生蔥 生菜[一作菘菜] 粟米 莧菜 蘆笋羹 野猪肉 及醬 豉 冷水</sent>
+<sent type="main" lang="kor" page="23a" n="4">○금긔 파와 과 와 조과 비과 슌국과 산뎨고기와 쟝과 젼국과 라</sent>
+<sent type="main" lang="chi" page="23a-23b" n="5">○過服致傷 令人大瀉或吐 煩渴發熱</sent>
+<sent type="main" lang="kor" page="23a-23b" n="5">○너모 머거 샹면 사으로 여곰 크게 즈고 혹 토며 답답고 목 고 열이 나니</sent><!--답^답-->
+
+<sent type="main" lang="chi" page="23b" n="1">黃連黃栢煎湯冷服 黑豆煮汁飮之 寒水石磨水服之</sent>
+<sent type="main" lang="kor" page="23b" n="1">황년 황 달힌 믈을 게 여 먹고 거믄콩 달힌 즙을 마시고 한슈셕을 믈의 라 먹고</sent>
+<sent type="main" lang="chi" page="23b" n="2">菖蒲或葛根擣取汁飮之 更以冷水浸手足 忌食熱物</sent>
+<sent type="main" lang="kor" page="23b" n="2">챵푀어나 혹 츩불회를 허 즙 내여 마시고 다시 슈로 손발을 므고 더온 거슬 먹디 말라</sent>
+<sent type="main" lang="chi" page="23b" n="3">又藍根砂糖擂爛和水服之</sent>
+<sent type="main" lang="kor" page="23b" n="3"> 족불회와 사당을   즛야 믈의  머그라</sent>
+
+<sent type="main" lang="chi" page="24a" n="1">紫金丹治蠱毒 狐狸 鼠蟒</sent>
+<sent type="main" lang="kor" page="24a" n="1">금단은 노올독과 여이며 의 홀리인 병과 쥐며 구렁의게 믈리인 병과</sent>
+<sent type="main" lang="chi" page="24a" n="2">惡菌河豚死牛馬肉毒 山嵐瘴氣毒</sent>
+<sent type="main" lang="kor" page="24a" n="2">독 버스시며 복이며 절로 주근 쇼고기 머근 독과 묏안개 긔운과 바다 모딘 긔운이며</sent>
+<sent type="main" lang="chi" page="24a-24b" n="3">諸藥金石草木鳥獸百虫 一切諸毒</sent>
+<sent type="main" lang="kor" page="24a-24b" n="3">모든 약독이며 쇳독 돌독이며 플독 나모독이며 새 즘승의게 샹 독이며  가지 버러지게 샹 독과 온갓 모든 독이며</sent><!--샹^-->
+
+<sent type="main" lang="chi" page="24b" n="1">癰疽惡瘡 癮疹 赤瘤 丹腫等</sent>
+<sent type="main" lang="kor" page="24b" n="1">죵긔며 모딘 창질이며 두드러기며 혹이며 단독증을 고티니</sent>
+<sent type="main" lang="chi" page="24b" n="2">每用半錠或一錠薄荷湯下</sent>
+<sent type="main" lang="kor" page="24b" n="2"> 번의 반 뎡이어나 혹  뎡을 되 박하 달힌 믈의 리오라</sent>
+<sent type="main" lang="chi" page="24b" n="3">自縊落水 鬼迷驚死 心頭溫者 並令冷水磨灌卽醒</sent>
+<sent type="main" lang="kor" page="24b" n="3">목야 주그니며 믈의 뎌 주그니며 귀긔로 놀라 주근 사이 가의  긔운 인 쟈를 다 슈의 라 입의 흘리면 즉시 니</sent>
+<sent type="main" lang="chi" page="24b" n="4">又蛇犬所傷 諸惡虫傷 以酒磨服</sent>
+<sent type="main" lang="kor" page="24b" n="4"> 암이며 개게 믈려 샹니와 모든 모딘 버러지게 믈려 샹여거든 술의 라 머기고</sent>
+<sent type="main" lang="chi" page="24b-25a" n="5">以水磨塗傷處 諸腫毒亦可塗之</sent>
+<sent type="main" lang="kor" page="24b-25a" n="5">믈의 라 샹  고 모든 죵긔독의  가히 니라</sent><!--니^라-->
+
+<sent type="main" lang="chi" page="25a" n="1">○忌大蒜</sent>
+<sent type="main" lang="kor" page="25a" n="1">○금긔 마이라</sent>
+<sent type="main" lang="chi" page="25a" n="2">○過服致傷 薺苨煎汁服之 又菖蒲擣取汁飮之</sent>
+<sent type="main" lang="kor" page="25a" n="2">○너모 머거 샹거든 계로기 달힌 즙을 마시고  챵포를 허 즙 내여 마시라</sent>
+
+<sent type="main" lang="chi" page="25b" n="1">玉樞丹症治與紫金丹同 而功用尤勝</sent>
+<sent type="main" lang="kor" page="25b" n="1">옥츄단은 병증 고티기 금단과 가지로 효험이 더 나으리라</sent>
+<sent type="main" lang="chi" page="25b" n="2">又治瘟疫 喉腫 諸瘤 遠近頭痛 牙痛</sent>
+<sent type="main" lang="kor" page="25b" n="2"> 시병으로 목굼기 브으며 모든 혹이며 오라며 갓가온 머리 알키와 니 알키며</sent>
+<sent type="main" lang="chi" page="25b" n="3">卒中癲邪 狂走 諸瘧 婦人鬼胎</sent>
+<sent type="main" lang="kor" page="25b" n="3">과리 딜알 샤긔를 마며 미쳐 며 모든 고곰이며 부인의 거즛 긔며</sent>
+<sent type="main" lang="chi" page="25b" n="4">小兒急慢驚風服法亦與紫金丹同</sent>
+<sent type="main" lang="kor" page="25b" n="4">어린 아 급경풍과 만경풍을 고티니 먹 법이  금단과 가지로</sent>
+<sent type="main" lang="chi" page="25b-26a" n="5">而治瘧則東向桃柳枝煎湯化下</sent>
+<sent type="main" lang="kor" page="25b-26a" n="5">고곰을 고티려 면 동 향 복숑아 가지과 버들 가지 달힌 믈의 프러 리오라</sent><!--지^과-->
+
+<sent type="main" lang="chi" page="26a" n="1">○忌大蒜 生血物</sent>
+<sent type="main" lang="kor" page="26a" n="1">○금긔 마과 피브티 거시라</sent>
+<sent type="main" lang="chi" page="26a" n="2">○過服致傷 薺苨煎汁服之 又菖蒲擣取汁飮之</sent>
+<sent type="main" lang="kor" page="26a" n="2">○너모 머거 샹거든 계로기 달힌 즙을 마시고  챵포를 허 즙 내여 마시라</sent>
+<sent type="main" lang="chi" page="26a" n="3">○凡用注藥或致過度 注泄頻數 卽用解藥</sent>
+<sent type="main" lang="kor" page="26a" n="3">○므 주 약 기를 과도히 여 즈기 로 거든 즉시 독 약을 되</sent>
+<sent type="main" lang="chi" page="26a" n="4">而氣甚困憊不能收拾 獨參湯濃煎用之 令氣乃蘇 繼以稀粥將理得宜</sent>
+<sent type="main" lang="kor" page="26a" n="4">긔운이 곤븨여 거두디 못거든 인을 딧게 달혀 머겨 긔운으로 여곰 소복게 고 닛다혀 믈근 쥭으로 됴리라</sent>
+
+<sent type="main" lang="chi" page="26b" n="1">鬼哭丹治痎瘧 每用三十丸</sent>
+<sent type="main" lang="kor" page="26b" n="1">귀곡단은 오란 고곰을 고티니  번의 셜흔 환식 되</sent>
+<sent type="main" lang="chi" page="26b" n="2">隔夜臨睡冷酒呑下 次日早再服</sent>
+<sent type="main" lang="kor" page="26b" n="2">안날 밤 잘 예  술의 고 이튼날 아져긔  머그라</sent>
+<sent type="main" lang="chi" page="26b" n="3">○忌生蔥 生菜[一作菘菜] 飴糖 羊肉 海藻</sent>
+<sent type="main" lang="kor" page="26b" n="3">○금긔 파와 믈과 와 엿과 양의고기와 자반이라</sent>
+
+<sent type="main" lang="chi" page="27a" n="1">勝金丹治諸瘧久不愈</sent>
+<sent type="main" lang="kor" page="27a" n="1">승금단은 모든 고곰이 오래 됴티 아니믈 고티니</sent>
+<sent type="main" lang="chi" page="27a" n="2">隔夜臨睡時 每取三十丸冷酒呑下 至次日早又取十五丸冷酒呑下</sent>
+<sent type="main" lang="kor" page="27a" n="2">안날 밤 잘 예  번의 셜흔 환을  술의 고 이튼날 아젹의  열다 환을  술의 라</sent>
+<sent type="main" lang="chi" page="27a" n="3">○忌生蔥 生菜[一作菘菜]</sent>
+<sent type="main" lang="kor" page="27a" n="3">○금긔 파와 믈과 라</sent>
+<sent type="main" lang="chi" page="27a" n="4">脾寒丹治諸瘧</sent>
+<sent type="main" lang="kor" page="27a" n="4">비한단은 모든 고곰을 고티니</sent>
+<sent type="main" lang="chi" page="27a" n="5">每七八丸當發日早晨長流水面東呑下</sent>
+<sent type="main" lang="kor" page="27a" n="5"> 번의 닐곱 환 여 환식 알 날 새배 동 향여 댱뉴슈로 고</sent>
+<sent type="main" lang="chi" page="27a-27b" n="6">或四更東向桃柳枝煎湯化下</sent>
+<sent type="main" lang="kor" page="27a-27b" n="6">혹 경에 동 향 복숑아 가지과 버들 가지 달힌 믈의 리오라</sent><!--지^과-->
+
+<sent type="main" lang="chi" page="27b" n="1">安胎丸治懷孕四五月常堕不安</sent>
+<sent type="main" lang="kor" page="27b" n="1">안환은 식  네다  만의 양 낙여 편안티 아니홈을 고티니</sent>
+<sent type="main" lang="chi" page="27b" n="2">每一二丸白湯化下</sent>
+<sent type="main" lang="kor" page="27b" n="2"> 번의  환 두 환을 힌 믈의 프러 리오라</sent>
+<sent type="main" lang="chi" page="27b" n="3">○忌蘿葍 蔥 蒜 醋酸物 桃 李 雀蛤</sent>
+<sent type="main" lang="kor" page="27b" n="3">○금긔 댓무우와 파과 마과 초브티 싄 것과 복숑아과 외앗과 새와 죠개와</sent>
+<sent type="main" lang="chi" page="27b" n="4">胡荽 靑魚鮓 熱麵 菘菜 海藻</sent>
+<sent type="main" lang="kor" page="27b" n="4">고싀와 쳥어젓과 더온 국슈과 와 자반이라</sent>
+
+<sent type="main" lang="chi" page="28a" n="1">保安丸治產前後諸疾</sent>
+<sent type="main" lang="kor" page="28a" n="1">보안환은 산 젼과 산 후 모든 병을 고티니</sent>
+<sent type="main" lang="chi" page="28a" n="2">並用酒下一丸 難産及胞衣不下</sent>
+<sent type="main" lang="kor" page="28a" n="2">다 술의  환을 프러 리오 난산거나 안 나디 아니거든</sent>
+<sent type="main" lang="chi" page="28a" n="3">芎歸湯煎水和二丸服之 卽下</sent>
+<sent type="main" lang="kor" page="28a" n="3">궁귀탕 달힌 믈의 두 환을 프러 머그면 즉시 낫니라</sent>
+<sent type="main" lang="chi" page="28a" n="4">○忌蘿葍 蔥 蒜 醋酸物 生胡荽</sent>
+<sent type="main" lang="kor" page="28a" n="4">○금긔 댓무우과 파과 마과 초브티 싄 것과 고싀와</sent>
+<sent type="main" lang="chi" page="28a-28b" n="5">生菜 熱麵 牛肉 菘菜 海藻 猪肉</sent>
+<sent type="main" lang="kor" page="28a-28b" n="5">믈과 더온 국슈과 고기과 와 자반과 돗고기라</sent><!--^-->
+
+<sent type="main" lang="chi" page="28b" n="1">催生丹治產婦生理不順 産育艱難 或橫或逆</sent>
+<sent type="main" lang="kor" page="28b" n="1">최단은 산뷔 식 나키 슌티 아녀 혹 빗 낫커나 혹 거스리 나이 고티니</sent>
+<sent type="main" lang="chi" page="28b" n="2">每用一丸溫水磨服 卽産</sent>
+<sent type="main" lang="kor" page="28b" n="2"> 번의  환을 되  믈의 라 머그면 즉시 슌히 낫니라</sent>
+<sent type="main" lang="chi" page="28b" n="3">○大蒜</sent>
+<sent type="main" lang="kor" page="28b" n="3">○금긔 마이라</sent>
+
+<sent type="main" lang="chi" page="29a" n="1">小兒淸心元治諸熱 及驚熱煩燥</sent>
+<sent type="main" lang="kor" page="29a" n="1">쇼쳥심원은 어린 아 모든 열 증과 놀나고 열여 답답 증을 고티니</sent>
+<sent type="main" lang="chi" page="29a" n="2">每用一丸竹瀝調下 如無竹瀝 汲水調下</sent>
+<sent type="main" lang="kor" page="29a" n="2"> 번의  환을 되 듁녁의  리오고 만일 듁녁이 업거든  기른 우믈믈의  리오라</sent>
+<sent type="main" lang="chi" page="29a" n="3">○忌醋酸物 生血物</sent>
+<sent type="main" lang="kor" page="29a" n="3">○금긔 초브티 싄 것과 피브티 시라</sent>
+<sent type="main" lang="chi" page="29a" n="4">稀痘兎紅元初生小兒二三丸乳汁送下</sent>
+<sent type="main" lang="kor" page="29a" n="4">희두토홍원은 난 아란 두세 환을 졋즙의 리오</sent>
+<sent type="main" lang="chi" page="29a-29b" n="5">一歲兒五丸或七丸 三歲後十五丸</sent>
+<sent type="main" lang="kor" page="29a-29b" n="5">  머근 아란 다 환이어나 혹 닐곱 환이오 세  후란 열다 환을 머기라</sent><!--어^나-->
+
+<sent type="main" lang="chi" page="29b" n="1">久服則遍身發出紅斑是其驗也</sent>
+<sent type="main" lang="kor" page="29b" n="1">오래 머그면 온몸의 블근 뎜 퍼디기 이 효험이니라</sent>
+<sent type="main" lang="chi" page="29b" n="2">錢氏安神丸治邪熱驚啼 心疳面黃頰赤壯熱</sent>
+<sent type="main" lang="kor" page="29b" n="2">젼시안신환은 어린 아 샤긔예 열로 놀나 울며 심경허로증으로 치 누로고 보죠개 븕고 거륵 열을 고티고</sent>
+<sent type="main" lang="chi" page="29b-30a" n="3">又治急驚風及心熱驚啼</sent>
+<sent type="main" lang="kor" page="29b-30a" n="3"> 급경풍증과 심열로 놀라 우 증을 고티니</sent><!--심^열-->
+
+<sent type="main" lang="chi" page="30a" n="1">每一丸砂糖水化下 慢驚參术煎湯下</sent>
+<sent type="main" lang="kor" page="30a" n="1"> 번의  환을 사당믈의 프러 리오고 만경풍증에란 인 튤 달힌 믈의 리오되</sent>
+<sent type="main" lang="chi" page="30a" n="2">如無砂糖參术溫水下</sent>
+<sent type="main" lang="kor" page="30a" n="2">만일 사당과 인 튤이 업거든  믈의 리오라</sent>
+<sent type="main" lang="chi" page="30a" n="3">○忌鯽魚 醋酸物 菘菜 海藻 生血物</sent>
+<sent type="main" lang="kor" page="30a" n="3">○금긔 붕어와 초브티 싄 것과 와 자반과 피브티 거시라</sent>
+
+<sent type="main" lang="chi" page="30b" n="1">至聖保命丹治小兒胎驚 內吊 腹肚堅脹</sent>
+<sent type="main" lang="kor" page="30b" n="1">지셩보명단은 어린 아 듕의셔 놀라셔 안히 혀이여  든든코 턍며</sent>
+<sent type="main" lang="chi" page="30b" n="2">目睛上視 角弓反張 一切急慢驚風痰涎等症</sent>
+<sent type="main" lang="kor" page="30b" n="2">눈의 티이며 등이 졋혀이기 활 뒤지은 듯머 온갓 급경풍이며 만경풍이며 건춤 흐르 증들을 고티니</sent>
+<sent type="main" lang="chi" page="30b" n="3">初生兒半丸乳汁化下 周歲兒一丸薄荷湯下</sent>
+<sent type="main" lang="kor" page="30b" n="3">난 아란 반 환을 졋즙의 프러 리오고  돌 디난 아란  환을 박하 달힌 믈의 리오고</sent>
+<sent type="main" lang="chi" page="30b" n="4">十歲以上用二丸 如無薄荷溫水化下 每一圓薄荷湯調下</sent>
+<sent type="main" lang="kor" page="30b" n="4">열  이상 아란 두 환을 되 만일 박해 업거든  믈의 프러 리오라</sent>
+<sent type="main" lang="chi" page="30b" n="5">○忌大蒜 生血物</sent>
+<sent type="main" lang="kor" page="30b" n="5">○금긔 마과 피브티 시</sent>
+
+<sent type="main" lang="chi" page="31a" n="1">抱龍丸治驚風 潮搐身熱昏睡</sent>
+<sent type="main" lang="kor" page="31a" n="1">포룡환은 경풍증으로 뒤틀리기 오락가락며 몸이 열고 아득고 조으 증을 고티고</sent>
+<sent type="main" lang="chi" page="31a" n="2">能下痰熱喘急 百日內兒半丸</sent>
+<sent type="main" lang="kor" page="31a" n="2"> 능히 담열로 쳔급 승을 리오니 일 안 아란 반 환이오</sent>
+<sent type="main" lang="chi" page="31a" n="3">五歲兒一二丸 溫水化下 竹瀝和用尤妙</sent>
+<sent type="main" lang="kor" page="31a" n="3">다 의 아  환 두 환을  믈의 프러 리오 듁녁의  면 더옥 긔특니라</sent>
+<sent type="main" lang="chi" page="31a" n="4">○忌生血物 大蒜 菘菜 海藻</sent>
+<sent type="main" lang="kor" page="31a" n="4">○금긔 피브티 것과 마과 와 자반이라</sent>
+
+<sent type="main" lang="chi" page="31b" n="1">牛黃抱龍丸治小兒急慢驚風 痰嗽</sent>
+<sent type="main" lang="kor" page="31b" n="1">우황포룡환은 어린 아 급경풍이며 만경이며 담으로 기츰 기며</sent>
+<sent type="main" lang="chi" page="31b-32a" n="2">潮搐 及傷風 瘟疫 身熱 昏睡</sent>
+<sent type="main" lang="kor" page="31b-32a" n="2">뒤틀리기 오락가락며 의 샹며 시병이며 몸이 열고 아득고 조을며</sent><!--가^락-->
+
+<sent type="main" lang="chi" page="32a" n="1">氣麄 風熱痰實 壅嗽喘急 一切發熱</sent>
+<sent type="main" lang="kor" page="32a" n="1">숨 쉬 긔운이 만며 풍열과 담이 셩여 마켜 기츰 기츠며 쳔급며 온갓 열나믈 고티니</sent>
+<sent type="main" lang="chi" page="32a" n="2">三歲兒一丸 五歲兒二丸 十歲兒三五丸</sent>
+<sent type="main" lang="kor" page="32a" n="2">세 의 아란  환이오 다 의 아란 두 환이오 열 의 아란 세 환이나 다 환이나</sent>
+<sent type="main" lang="chi" page="32a" n="3">滾水待溫 磨化服 驚風薄荷湯化下</sent>
+<sent type="main" lang="kor" page="32a" n="3">힌 믈이 홈을 기드려 라 프러 먹고 경풍이기든 박하 달힌 믈의 프러 리오라</sent>
+<sent type="main" lang="chi" page="32a" n="4">此藥能鎭驚安神 除諸熱</sent>
+<sent type="main" lang="kor" page="32a" n="4">이 약은 능히 놀라믈 딘뎡며 졍신을 평안케 며 모든 열을 덜며</sent>
+<sent type="main" lang="chi" page="32a-32b" n="5">注痰涎 止嗽定喘 壯實小兒 宜時少與服之</sent>
+<sent type="main" lang="kor" page="32a-32b" n="5">건춤을 그치며 기츰을 그치고 쳔만을 뎡니 장실 어린 아를 맛당이 로 젹게 머기면</sent><!--쳔^만-->
+
+<sent type="main" lang="chi" page="32b" n="1">則免痰熱驚風之症 而痘疹首尾亦可服</sent>
+<sent type="main" lang="kor" page="32b" n="1">담열과 경풍증을 면고 역질에 처엄으로 낭죵지  가히 머글니라</sent>
+<sent type="main" lang="chi" page="32b" n="2">○忌生血物 大蒜 菘菜 海藻</sent>
+<sent type="main" lang="kor" page="32b" n="2">○금긔 피브티 것과 마과 과 자반이라</sent>
+<sent type="main" lang="chi" page="32b" n="3">臘香膏治凍瘡不差 臨用以藥水先洗後塗</sent>
+<sent type="main" lang="kor" page="32b" n="3">남향고 라 허러 됴티 아니홈을 고티니  예 약믈로 몬져 시슨 후의 라</sent>
+<sent type="main" lang="chi" page="32b-33a" n="4">凡諸瘡久不差 塗之有效</sent>
+<sent type="main" lang="kor" page="32b-33a" n="4">므 모든 헌  오래 됴티 아니거든 면 효험이 인니라</sent><!--면 ^ 효-->
+
+<sent type="main" lang="chi" page="33a" n="1">神聖辟瘟丹留傳在世間 正元焚一炷 四季保平安</sent>
+<sent type="main" lang="kor" page="33a" n="1">신셩벽온단은 뉴뎐여 인셰간의 잇니 한설날 야젹의  환을 픠오면  를 평안히 디내니라</sent>
+
+<sent type="title" lang="chi" page="33b" n="1">諺解臘藥症治方終</sent>
+<sent type="title" lang="kor" page="33b" n="1">언납약증티방 죵</sent><!--title: 제목, main: 본문 -->
+</doc>

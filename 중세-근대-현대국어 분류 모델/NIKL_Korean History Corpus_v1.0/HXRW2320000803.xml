@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title>女訓諺解</title>
+<volume n="_上" />
+<author>崔世珍</author>
+<date>1658년</date>
+</titleStmt>
+<notesStmt>
+<bibl><title>女訓諺解 上</title>
+<pubPlace>홍문각</pubPlace>
+<publisher>고려대학교</publisher>
+<date>1990년</date>
+</bibl>
+</notesStmt>
+<revisionDesc>
+<date>2016/02/22</date>
+<respStmt>
+<resp>입력자</resp><name>김정주</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name>이병기</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">女訓諺解 上</sent>
+<sent type="title" lang="chi" page="01a" n="2">御製女訓序</sent>
+<sent type="title" lang="kor" page="01a" n="2">御製신 女訓 序ᅵ라</sent>
+
+<sent type="main" lang="chi" page="06a-06b" n="1">朕 聖母 章聖慈仁皇太后ᅵ 昔在藩邸샤</sent>
+<sent type="main" lang="kor" page="06a-06b" n="1">朕의 聖母 章聖慈仁皇太后ᅵ 녜 藩邸에[藩邸 졔후왕이 셔울 와 인 집] 겨실 제</sent><!--겨^실-->
+
+<sent type="main" lang="chi" page="06b" n="1">嘗著一書시니 名曰女訓이라</sent>
+<sent type="main" lang="kor" page="06b" n="1">일즙  글을 지으시니 일홈은 온 女訓이라</sent>
+<sent type="main" lang="chi" page="06b" n="2">朕 皇考 恭睿淵仁寬穆純 聖獻皇帝 親灑圭章샤 冠諸卷首시고</sent>
+<sent type="main" lang="kor" page="06b" n="2">朕의 皇考 恭睿淵仁寬穆純 聖獻皇帝 친히 奎[奎 문쟝 쥬 별 일홈]章을 리샤 卷 머리예 씌오시고</sent>
+<sent type="main" lang="chi" page="06b" n="3">聖母ᅵ 亦自序於其次ᅵ러시니</sent>
+<sent type="main" lang="kor" page="06b" n="3">聖母ᅵ  스스로 그 버그매 序엿더시니</sent>
+<sent type="main" lang="chi" page="06b" n="4">朕ᅵ 幾務之暇애 因閱舊笥積冊야</sent>
+<sent type="main" lang="kor" page="06b" n="4">朕이 幾務ᄉ 겨를에 因야 녜 설긔 싸힌 을 샹고다가</sent>
+<sent type="main" lang="chi" page="06b" n="5">遂出示輔臣과 暨日講禮官等고 又命同</sent>
+<sent type="main" lang="kor" page="06b" n="5">이예 어더 드듸여 돕 신하과 믿 日로 講 禮官 等을 내여 뵈고  命야</sent>
+
+<sent type="main" lang="chi" page="07a" n="1">朕孝慈高皇后傳과 仁孝文 皇后 內訓야 刊授皇后고 頒之天下대</sent>
+<sent type="main" lang="kor" page="07a" n="1">朕의 孝慈高皇后傳과 仁孝文 皇后 內訓과 가지로 야 사겨 皇后人 밧고 天下에 반포라 대</sent>
+<sent type="main" lang="chi" page="07a" n="2">輔部諸臣이 進奏曰 可ᅵ라야</sent>
+<sent type="main" lang="kor" page="07a" n="2">輔와 部[輔 보신 部 례부] 諸臣이 나아 奏야 오 可타 여</sent>
+<sent type="main" lang="chi" page="07a" n="3">乃於十月十有七日에 朕躬告于 親考 列聖 聖母고</sent>
+<sent type="main" lang="kor" page="07a" n="3">이에 十 月 열히오  七 日에 朕이 몸소 祖考列聖 聖母 告고</sent>
+<sent type="main" lang="chi" page="07a-07b" n="4">親授女訓于 皇后 張氏</sent>
+<sent type="main" lang="kor" page="07a-07b" n="4">친히 女訓을 皇后 張氏 밧와니</sent><!--밧^-->
+
+<sent type="main" lang="chi" page="07b" n="1">十二月 望後 三日에 刻工이 告就어</sent>
+<sent type="main" lang="kor" page="07b" n="1">十二 月 望後 三日에 사기 工쟝이 일오믈 告여</sent>
+<sent type="main" lang="chi" page="07b" n="2">禮官이 裝䌙 進覽다</sent>
+<sent type="main" lang="kor" page="07b" n="2">禮官이 裝䌙여 드리와 보시게 다</sent>
+<sent type="main" lang="chi" page="07b" n="3">先該 輔臣 少 傅 璁 等이 謂朕宜爲之序ᅵ라 고</sent>
+<sent type="main" lang="kor" page="07b" n="3">先該 [젼의랏 말] 輔臣 少 傅 璁 等이 닐오 朕이 맛당히 序 거시라 고</sent>
+<sent type="main" lang="chi" page="07b" n="4">至是야 禮官時等이 又謂朕宜序之야</sent>
+<sent type="main" lang="kor" page="07b" n="4">이제 니러 禮官 時 等이  닐오 朕이 맛당히 序야</sent>
+<sent type="main" lang="chi" page="07b" n="5">闡揚聖母恩德야 于以昭示無窮이라호</sent>
+<sent type="main" lang="kor" page="07b" n="5">聖母의 恩德을 여러 혀 이예  無窮에 기 뵈라 호</sent>
+<sent type="main" lang="chi" page="07b" n="6">朕이 未之輕擧야 以爲朕皇考ᅵ 旣序諸首시고</sent>
+<sent type="main" lang="kor" page="07b" n="6">朕이 가브야이 드러 못야  호 朕의 皇考ᅵ 임의</sent>
+
+<sent type="main" lang="chi" page="08a" n="1">聖母ᅵ 又序諸次시니 已無餘蘊矣라</sent>
+<sent type="main" lang="kor" page="08a" n="1">머리예 序시고 聖母ᅵ  버금에 序시니 임의 남은 촌 거시 업디라</sent>
+<sent type="main" lang="chi" page="08a" n="2">又不待 朕의 復贅之矣러니</sent>
+<sent type="main" lang="kor" page="08a" n="2"> 朕의 다시 贅 [贅 이라] 호믈 기도디 아니리라 더니</sent>
+<sent type="main" lang="chi" page="08a" n="3">是日에 因詣聖母前야 奏陳書完애 卽蒙慈命曰</sent>
+<sent type="main" lang="kor" page="08a" n="3">이 날에 因여 聖母 압픠 나아가 글의 인주 엿조오매 곳 慈命을 닙소오니 샤</sent>
+<sent type="main" lang="chi" page="08a" n="4">汝其序之야 庶可爲傳ᅵ라시</sent>
+<sent type="main" lang="kor" page="08a" n="4">네 그 序야 거의 가히 傳케 라 야시</sent>
+<sent type="main" lang="chi" page="08a" n="5">朕이 惶拜受命야 退而思之호니</sent>
+<sent type="main" lang="kor" page="08a" n="5">朕이 젓와 절야 命을 받고 믈러 각니</sent>
+<sent type="main" lang="chi" page="08a" n="6">朕嚴慈之聖德이 非言可名之也</sent>
+<sent type="main" lang="kor" page="08a" n="6">朕의 嚴과 慈의 聖德이 말로 가히 일홈</sent>
+
+<sent type="main" lang="chi" page="08b" n="1">考母之敎育이 非言可酬之也ᅵ라</sent>
+<sent type="main" lang="kor" page="08b" n="1">못 거시오 考와 母의 敎育이 말로 가히 갑디 못 거시라</sent>
+<sent type="main" lang="chi" page="08b" n="2">但輔臣宗伯이 交請爲序之고</sent>
+<sent type="main" lang="kor" page="08b" n="2">다믄 輔臣과 宗伯[宗伯은 례부 샹셔]이 서 請여 序라 고</sent>
+<sent type="main" lang="chi" page="08b" n="3">朕이 又面承慈命니 安敢故違리오</sent>
+<sent type="main" lang="kor" page="08b" n="3">朕이  慈命을 면당야 밧오니 엇디 敢히 짐즛 어긔리오</sent>
+<sent type="main" lang="chi" page="08b" n="4">愧 無學而爲之文也라</sent>
+<sent type="main" lang="kor" page="08b" n="4">붓그러온 바 學이 업고셔 文을 호미라</sent>
+<sent type="main" lang="chi" page="08b" n="5">其作書之詳이 關繫敎化 則我皇考聖謨ᅵ 備矣오</sent>
+<sent type="main" lang="kor" page="08b" n="5">그 글 짓기 셰호미 敎化에 關繫호믄 우리 皇考의 어딘 謨訓이 시고</sent>
+<sent type="main" lang="chi" page="08b-09a" n="6">以身爲敎와 與作訓以敎之之 聖母</sent>
+<sent type="main" lang="kor" page="08b-09a" n="6">몸으로 침을 심과 다 訓을 지어  치신  우리 聖母의</sent><!--母^의-->
+
+<sent type="main" lang="chi" page="09a" n="1">慈訓이 備矣어니와 但稱善君親은 臣子至情이라</sent>
+<sent type="main" lang="kor" page="09a" n="1">慈訓이 시거니와 담은 君親을 어디다 일은 臣子의 지극 情이라</sent>
+<sent type="main" lang="chi" page="09a" n="2">朕이 謹頓首言曰</sent>
+<sent type="main" lang="kor" page="09a" n="2">朕이 삼가 頓首[頓首 머리 해 두드리다]며 닐러 오</sent>
+<sent type="main" lang="chi" page="09a" n="3">我皇考日躋聖敬之功시며</sent>
+<sent type="main" lang="kor" page="09a" n="3">우리 皇考ᅵ 날로 聖敬[聖은 어디르시미오 敬은 공경시미라]신 功이 오시며</sent>
+<sent type="main" lang="chi" page="09a" n="4">天授欽明之德시고</sent>
+<sent type="main" lang="kor" page="09a" n="4">하이 欽明[欽은 공경시미오 明은 그시미라]신 德을 밧오시고</sent>
+<sent type="main" lang="chi" page="09a" n="5">訝聖母ᅵ 克配乾元</sent>
+<sent type="main" lang="kor" page="09a" n="5">우리 聖母ᅵ 능히 乾元[乾元은 하히니 황뎨 지향 마리라]에 샤</sent>
+<sent type="main" lang="chi" page="09a-09b" n="6">躬備聖善샤 徽柔恭懿시며</sent>
+<sent type="main" lang="kor" page="09a-09b" n="6">몸의 어디르시미 샤 아다오시며 부드러오시며 온恭시며 크시며</sent><!--^시-->
+
+<sent type="main" lang="chi" page="09b" n="1">仁順貞慈시니</sent>
+<sent type="main" lang="kor" page="09b" n="1">仁시며 順시며 貞시며 慈시니</sent>
+<sent type="main" lang="chi" page="09b" n="2">皇考致治于一國而遠可平乎天下샤</sent>
+<sent type="main" lang="kor" page="09b" n="2">皇考ᅵ 다림을 一國에 닐외샤 멀리 可히 天下 平샤</sent>
+<sent type="main" lang="chi" page="09b" n="3">將不讓唐虞矣시고 聖母ᅵ 爲範以一身而</sent>
+<sent type="main" lang="kor" page="09b" n="3">將 唐虞에 양티 아니시고 聖母ᅵ 법시믈  몸으로 법이 되샤</sent>
+<sent type="main" lang="chi" page="09b" n="4">風可並乎二南야</sent>
+<sent type="main" lang="kor" page="09b" n="4">風이 可히 二南[二南은 周南과 召南과ᅵ니 文王과 后妃의 덕홰 미츤 히라]에 오샤</sent>
+<sent type="main" lang="chi" page="09b" n="5">將不獨成周矣라 皇考ᅵ 本乎至性시고</sent>
+<sent type="main" lang="kor" page="09b" n="5">將 成周ᅵ 혼자 아니라 皇考ᅵ 지극 性에 근本 시고</sent>
+<sent type="main" lang="chi" page="09b-10a" n="6">聖母ᅵ 原乎自有시고 非他僞飾</sent>
+<sent type="main" lang="kor" page="09b-10a" n="6">聖母ᅵ 스스로 두겨신  근原시니 다 거 며</sent><!--거^-->
+
+<sent type="main" lang="chi" page="10a" n="1">以誣人者ᅵ라</sent>
+<sent type="main" lang="kor" page="10a" n="1"> 사을 소긴 거시 아니라</sent>
+<sent type="main" lang="chi" page="10a" n="2">故로 德並格于皇天시고 孝共孚于 祖考</sent>
+<sent type="main" lang="kor" page="10a" n="2">故로 德이 다 皇天에 니시고 孝ᅵ 가지로 祖考 밋브샤</sent>
+<sent type="main" lang="chi" page="10a" n="3">乃流慶沖人며 澤及眇昧야 仰荷天命야</sent>
+<sent type="main" lang="kor" page="10a" n="3">이에 慶이 져믄 사의게 흐르며 恩澤ᅵ 젹고 아  밋처 울어러 天命을 니버 드러</sent>
+<sent type="main" lang="chi" page="10a" n="4">入主祀典호니 實由皇考 聖母之聖功懿德之所來也ᅵ라</sent>
+<sent type="main" lang="kor" page="10a" n="4">祭祀ᄉ법을 主니 實로 皇考와 聖母의 어딘 功과 아다온 德을 말믜아마 온 배라</sent>
+<sent type="main" lang="chi" page="10a-10b" n="5">玆訓之一書ᅵ 實我聖母躬行體踐之事ᅵ라 歷歷可考ᅵ니</sent>
+<sent type="main" lang="kor" page="10a-10b" n="5">이 訓 글이 實로 우리 聖母의 몸소 行시고 몸소 오신 이리라 歷歷히 可히 샹고디니</sent><!--디^니-->
+
+<sent type="main" lang="chi" page="10b" n="1">子孫臣民ᅵ 誠能以傳訓之書로 硏精致力야</sent>
+<sent type="main" lang="kor" page="10b" n="1">子孫과 臣民이 진실로 能히 傳과 訓의 글로 精을 궁구며 힘을 닐위여  말이며</sent>
+<sent type="main" lang="chi" page="10b" n="2">一言一行 動遵行之며 靜思誦之면</sent>
+<sent type="main" lang="kor" page="10b" n="2"> 실을 動홈애 조차 行며 靜홈애 각야 외오면</sent>
+<sent type="main" lang="chi" page="10b" n="3">必王后ᅵ 有姜班之美고</sent>
+<sent type="main" lang="kor" page="10b" n="3">반시 王后ᅵ 姜班[姜班은 쥬태강과 한반쳡여라] 아다오미 잇고</sent>
+<sent type="main" lang="chi" page="10b" n="4">侯妃ᅵ 著二順之休고</sent>
+<sent type="main" lang="kor" page="10b" n="4">졔侯의 妃 二順[二順은 衛靈王 夫人과 妾이 둘히 다 順탄 마리라] 아다오미 나타나고</sent>
+<sent type="main" lang="chi" page="10b" n="5">夫人이 可齊敬姜之名이오</sent>
+<sent type="main" lang="kor" page="10b" n="5">夫人이 可히 敬姜[敬姜은 공보문의 어마님이라]의 일홈과 고</sent>
+<sent type="main" lang="chi" page="10b-11a" n="6">士庶人妻ᅵ 獲軻子之賢矣리라</sent>
+<sent type="main" lang="kor" page="10b-11a" n="6">士庶人의 妻ᅵ 軻子[軻子   식이라]의 어디르믈 어리라</sent><!--子^-->
+
+<sent type="main" lang="chi" page="11a" n="1">然於內則皇后 朕이 又切有望焉노라</sent>
+<sent type="main" lang="kor" page="11a" n="1">그러나 안힌 則 皇后 朕이  切히 라미 인노라</sent>
+<sent type="main" lang="chi" page="11a" n="2">掇拾數言야 以表人子愛親之意如此노니</sent>
+<sent type="main" lang="kor" page="11a" n="2">두어 말 주어  人子의 親을 愛 디 이 믈 表노니</sent>
+<sent type="main" lang="chi" page="11a" n="3">如謂闡揚 恩德야 昭示無窮者</sent>
+<sent type="main" lang="kor" page="11a" n="3">만일 恩德을 여러 켜 無窮에 기 뵈라 면</sent>
+<sent type="main" lang="chi" page="11a" n="4">則縱使中欲爲而口實不能言耳라</sent>
+<sent type="main" lang="kor" page="11a" n="4">비록 여곰 소개 고져 나 입에 實로 能히 니디 못디라</sent>
+<sent type="main" lang="chi" page="11a" n="5">明識愽學者ᅵ 其誏朕之心야 幸勿誚斥云爾니라</sent>
+<sent type="main" lang="kor" page="11a" n="5">기 알고 너비 혼 者ᅵ 그 朕의 음을 미더 幸혀 죵여 믈리티디 마롤디니라</sent>
+<sent type="title" lang="chi" page="11a" n="6">女訓序</sent>
+
+<sent type="main" lang="chi" page="16a-16b" n="1">予ᅵ 歷觀經史所載而</sent>
+<sent type="main" lang="kor" page="16a-16b" n="1">내 經史의 載얀 바 歷歷히 보아</sent><!--歷^히-->
+
+<sent type="main" lang="chi" page="16b" n="1">知女德之關係者ᅵ 不小矣호라</sent>
+<sent type="main" lang="kor" page="16b" n="1">女德의 關係호미 젹디 아니호믈 알오라</sent>
+<sent type="main" lang="chi" page="16b" n="2">人處覆載內야 道莫大於綱常이오</sent>
+<sent type="main" lang="kor" page="16b" n="2">사이 覆載[覆載 하 히라] 안 處야 道ᅵ 綱과 常만 크니 업고</sent>
+<sent type="main" lang="chi" page="16b" n="3">事莫大於修齊治平니 其綱常之植立과 家國之齊治와 天下之平이</sent>
+<sent type="main" lang="kor" page="16b" n="3">事ᅵ 脩와 齊와 治와 平만 크니 업니 그 綱常의 植立과 家國의 齊治과 天下의 平호미</sent>
+<sent type="main" lang="chi" page="16b" n="4">皆於閨門焉애 基之故로 爲人女ᅵ 不可不知敎외</sent>
+<sent type="main" lang="kor" page="16b" n="4">다 閨門에 터연 故로 人女ᅵ 되얀 이 可히 敎 아디 아니티 몯 거시오</sent>
+<sent type="main" lang="chi" page="16b" n="5">爲人婦ᅵ 不可不順於德이라</sent>
+<sent type="main" lang="kor" page="16b" n="5">人婦ᅵ 되얀 이 可히 德의 順티 아니티 몯 거시라</sent>
+
+<sent type="main" lang="chi" page="17a" n="1">否則牝晨作慝야 爲厲之階니</sent>
+<sent type="main" lang="kor" page="17a" n="1">아니면 牝晨[牝晨은 암이 새배 우단 말이라]이 慝을 지어 사오나온 리 되리니</sent>
+<sent type="main" lang="chi" page="17a" n="2">欲求治化之襲美며 似續之多賢不亦難哉아</sent>
+<sent type="main" lang="kor" page="17a" n="2">治化의 아다오믈 니브며 似續[似續은 손이라]의 賢이 만홈을 求코져 미  어렵디 아니랴</sent>
+<sent type="main" lang="chi" page="17a" n="3">記曰往之女家야 必敬必戒야 毋違夫子라 고</sent>
+<sent type="main" lang="kor" page="17a" n="3">記예 오 네 집의 가 반시 敬며 반시 戒야 夫子 어긔롯디 말라 고</sent>
+<sent type="main" lang="chi" page="17a" n="4">詩云之子于歸宜其家人이라 니</sent>
+<sent type="main" lang="kor" page="17a" n="4">詩에 닐오 之子ᅵ 歸호미여 그 家人을 宜리로다 니</sent>
+<sent type="main" lang="chi" page="17a" n="5">然則先民所以訓迪天下後世之婦人女子ᅵ</sent>
+<sent type="main" lang="kor" page="17a" n="5">그러면 녯 사이  天下 後世人 婦人 女子 친</sent>
+
+<sent type="main" lang="chi" page="17b" n="1">其要ᅵ 在於和敬而已라</sent>
+<sent type="main" lang="kor" page="17b" n="1">배 그 종要ᅵ 和와 敬의 이실 이라</sent>
+<sent type="main" lang="chi" page="17b" n="2">和則嫉妬ᅵ 不生而無掩鼻攻讒之失고</sent>
+<sent type="main" lang="kor" page="17b" n="2">和면 嫉妬ᅵ 나디 아니 야 鼻 掩야 讒을 功[掩鼻功讒은 魏王 夫人 鄭褎의 이리라] 失이 업고</sent>
+<sent type="main" lang="chi" page="17b" n="3">敬則惕厲恒存而有陳詩獻規之美야</sent>
+<sent type="main" lang="kor" page="17b" n="3">敬면 惕厲호미 샹해 이셔 詩 陳며 規를 獻 美 이셔</sent>
+<sent type="main" lang="chi" page="17b" n="4">皆能流化當時며 垂範千祀야 光於紀冊며</sent>
+<sent type="main" lang="kor" page="17b" n="4">다 能히 當時예 化 流며 千祀애 법을 드리워 紀冊에 빋나며</sent>
+<sent type="main" lang="chi" page="17b-18a" n="5">播之律呂者ᅵ 齊媚之任似와 忠禮之樊孟이 是也ᅵ라</sent>
+<sent type="main" lang="kor" page="17b-18a" n="5">律呂[律呂 풍뉴 닐온 마리라]에 펴 者ᅵ 齊며 媚 任과 似와 忠며 禮 樊과 孟[任似樊孟은 태임태와 번희광이라]이라</sent><!--樊^과-->
+
+<sent type="main" lang="chi" page="18a" n="1">奈何로 世道ᅵ 漸降고 人心이 滋薄야</sent>
+<sent type="main" lang="kor" page="18a" n="1">엇디 모로 世道ᅵ 漸漸 리고 人心이 더옥 薄여</sent>
+<sent type="main" lang="chi" page="18a" n="2">溺於柔曼者ᅵ 遺其德고 狹於驕貴者ᅵ 忘厥訓니</sent>
+<sent type="main" lang="kor" page="18a" n="2">柔曼에 딘 者ᅵ 그 德을 일코 驕貴예  者ᅵ 그 訓을 니즈니</sent>
+<sent type="main" lang="chi" page="18a" n="3">而修齊治平之畿와 人倫萬化之原이 果安在哉</sent>
+<sent type="main" lang="kor" page="18a" n="3">脩와 齊와 治와 平의 幾미와 人倫萬化의 근原이 果연히 어 인뇨</sent>
+<sent type="main" lang="chi" page="18a" n="4">我朝家法이 超軼前古야 建立妃后호</sent>
+<sent type="main" lang="kor" page="18a" n="4">我 朝家法이 前古에 여 와 妃后 建立호</sent>
+<sent type="main" lang="chi" page="18a-18b" n="5">選擇窈窕야 授以閨範여</sent>
+<sent type="main" lang="kor" page="18a-18b" n="5">窈窕니  야 閨範으로 치시여 師氏로 인導야</sent><!--師^氏-->
+
+<sent type="main" lang="chi" page="18b" n="1">導以師氏여 動遵禮節야 肅雍以將야</sent>
+<sent type="main" lang="kor" page="18b" n="1">動매 禮節을 조차 싁싁며 雍화모로 가져</sent>
+<sent type="main" lang="chi" page="18b" n="2">裨益大化야 祗陰敎於藩維者ᅵ 固相踵矣라</sent>
+<sent type="main" lang="kor" page="18b" n="2">큰 티化 도아 유익게 야 陰敎 藩維[藩維 졔휘라]에 공경케  者ᅵ 진실로 서 니언디라</sent>
+<sent type="main" lang="chi" page="18b" n="3">弘治庚戌애 予ᅵ 受命出府러니</sent>
+<sent type="main" lang="kor" page="18b" n="3">弘治 庚戌에 予ᅵ 命을 받와 府에 낫더니</sent>
+<sent type="main" lang="chi" page="18b" n="4">越明年辛亥애 荷蒙 孝宗皇帝爲予擇立王妃야</sent>
+<sent type="main" lang="kor" page="18b" n="4">明年 辛亥예 孝宗皇帝 나 爲여 王妃 야 셰요시 니버 期예 몬져 妃 보내여</sent>
+
+<sent type="main" lang="chi" page="19a" n="1">入聖慈仁壽 太皇太后宮야 承誨旨習禮儀고</sent>
+<sent type="main" lang="kor" page="19a" n="1">聖慈仁壽 太皇太后 宮의 드려 誨旨 니으며 禮儀 니기고 믿</sent>
+<sent type="main" lang="chi" page="19a" n="2">暨受皇太后皇太妃之明訓야 壬子애 成大婚고</sent>
+<sent type="main" lang="kor" page="19a" n="2">皇太后 皇太妃의 明訓을 받와 壬子애 大昏을 일오고</sent>
+<sent type="main" lang="chi" page="19a" n="3">甲寅에 從之封國니 恭修順德며 相納忠言야</sent>
+<sent type="main" lang="kor" page="19a" n="3">甲寅에 封國에 조차 가니 恭경야 順 德을 닷그며 도와 忠 말을 도와 드려</sent>
+<sent type="main" lang="chi" page="19a-19b" n="4">凡百外政을 一不之預고 惟日誦詩書야</sent>
+<sent type="main" lang="kor" page="19a-19b" n="4">므론 온갓 밧긔 政 나토 참預티 아니 고 오직 날로 詩書 외와 和며</sent><!--和^-->
+
+<sent type="main" lang="chi" page="19b" n="1">求不戾於和敬之懿며</sent>
+<sent type="main" lang="kor" page="19b" n="1">敬 아다온 일에 어긔롯디 아니믈 求며</sent>
+<sent type="main" lang="chi" page="19b" n="2">間賞以所受書傳之語로 編輯成一書고 名曰女訓이라니</sent>
+<sent type="main" lang="kor" page="19b" n="2">이예 일즙 受 바 書와 傳의 말로 編輯여  書 일워 名야 오 女訓이라 니</sent>
+<sent type="main" lang="chi" page="19b" n="3">凡十二篇이라 裝䌙啓進이어늘 予ᅵ 覧之니</sent>
+<sent type="main" lang="kor" page="19b" n="3">므론 열 두 篇이라 裝䌙야 啓야 進여 내 보니</sent>
+<sent type="main" lang="chi" page="19b" n="4">其辭ᅵ 直而不俚며 其指遠而有徵야</sent>
+<sent type="main" lang="kor" page="19b" n="4">그 말이 直고 쇽디 아니 며 그 디 멀고 徵험호미 이셔</sent>
+<sent type="main" lang="chi" page="19b" n="5">櫽栝乎經史며 㕘驗乎古今며</sent>
+<sent type="main" lang="kor" page="19b" n="5">經史애 櫽栝[櫽栝은 구븐 걷 펴 거시라]며 古今에 參驗며</sent>
+<sent type="main" lang="chi" page="19b" n="6">矯制乎情質여 歆警乎貞悔니</sent>
+<sent type="main" lang="kor" page="19b" n="6">情質에 고텨 졔어며 올며 뉘오  歆며</sent>
+
+<sent type="main" lang="chi" page="20a" n="1">如曰和敬曰孝慈曰節儉曰貞靜曰胎敎曰祭祀之類ᅵ</sent>
+<sent type="main" lang="kor" page="20a" n="1">警니 온 和敬과 온 孝慈와 온 節儉과 온 貞靜과 온 胎敎와 온 祭祀의 類 </sent>
+<sent type="main" lang="chi" page="20a" n="2">鑿鑿乎如饑之必以菽粟이며 寒之必以布帛아</sent>
+<sent type="main" lang="kor" page="20a" n="2">이 鑿鑿히 주린 반시 菽粟으로 며 치운 반시 布帛으로 홈 티 야</sent>
+<sent type="main" lang="chi" page="20a" n="3">而不可須臾離於日用者也ᅵ라</sent>
+<sent type="main" lang="kor" page="20a" n="3">可히 須臾도 日用에 離티 몯 거시니라</sent>
+<sent type="main" lang="chi" page="20a" n="4">使上自王公國都로 下及閭巷之婦人女子히</sent>
+<sent type="main" lang="kor" page="20a" n="4">여곰 우흐로 王公國都로브터 아래로 閭巷읫 婦人 女子의 밋치</sent>
+<sent type="main" lang="chi" page="20a" n="5">有能擧是書야 訓而導之며 佩而服之면</sent>
+<sent type="main" lang="kor" page="20a" n="5">能히 이 書 擧야 訓야 導며 佩야</sent>
+
+<sent type="main" lang="chi" page="20b" n="1">將自身而家而國而天下야 無所往而不可야</sent>
+<sent type="main" lang="kor" page="20b" n="1">服미 이시면 將 身으로브터 家며 國이며 天下에 야 간 마다 可티 아닐 배 업서</sent>
+<sent type="main" lang="chi" page="20b" n="2">桃夭樛木之風과 螽斯麟趾之化ᅵ 有不難致</sent>
+<sent type="main" lang="kor" page="20b" n="2">桃夭ᅵ며 樛木의 風과 螽斯ᅵ며 麟趾[桃夭 樛木 螽斯 麟趾 모시 쥬람 편명이라]의 化ᅵ 닐위미 어렵디 아니 야</sent>
+<sent type="main" lang="chi" page="20b" n="3">而可徵於今日矣리라</sent>
+<sent type="main" lang="kor" page="20b" n="3">可히 오날에 徵험미 이시리라</sent>
+<sent type="main" lang="chi" page="20b" n="4">予ᅵ 直嘅三代之季皆懲於寵艶호니</sent>
+<sent type="main" lang="kor" page="20b" n="4">내 딕히 三 긋테 다 寵艶의 懲계홈을 嘅탄호니</sent>
+<sent type="main" lang="chi" page="20b" n="5">干國政蔑陰敎ᅵ 抑豈婦人之儀哉리오</sent>
+<sent type="main" lang="kor" page="20b" n="5">國政을 干예며 陰敎 업시 녀기미 엇디 婦人의 儀리오</sent>
+<sent type="main" lang="chi" page="20b-21a" n="6">良由佚慾</sent>
+<sent type="main" lang="kor" page="20b-21a" n="6">진실로 佚慾을</sent><!--慾^을-->
+
+<sent type="main" lang="chi" page="21a" n="1">自恣야 無所訓式而主君이 不能爲之綱紀耳라 故로</sent>
+<sent type="main" lang="kor" page="21a" n="1">스스로 방恣히 야 訓式홀 배 업서 主君이 能히 綱紀되디 믇홈을 말아믄 故로</sent>
+<sent type="main" lang="chi" page="21a" n="2">所貴乎婦人者 有閨門之修ᅵ오 無境外之志라</sent>
+<sent type="main" lang="kor" page="21a" n="2">婦人의게 貴 밧 者 閨門의 닷미 잇고 境外예 디 업이니</sent>
+<sent type="main" lang="chi" page="21a" n="3">慈觀妃所編女訓호니 皆內切於閨門而外有補於治化者ᅵ라</sent>
+<sent type="main" lang="kor" page="21a" n="3">이에 妃의 編 밧 女訓을 보니 다 안흐로 閨門에 切고 밧고로 治化의 補미 인디라</sent>
+<sent type="main" lang="chi" page="21a" n="4">予用嘉而序之焉노라</sent>
+<sent type="main" lang="kor" page="21a" n="4">내  아름다이 녀겨 序 노라</sent>
+<sent type="main" lang="chi" page="21a" n="5">正德 戊辰 十有一月 長至之吉에</sent>
+<sent type="main" lang="kor" page="21a" n="5">正德 戊辰 十有一月 長至[長至 동지라] 吉에[吉 초리라]</sent>
+
+<sent type="main" lang="chi" page="21b" n="1">大明興國純一道人書于中正齋노라</sent>
+<sent type="main" lang="kor" page="21b" n="1">大明興國 純一道人은 中正齋예셔 스노라</sent>
+
+<sent type="title" lang="chi" page="22a" n="1">女訓序</sent>
+
+<sent type="main" lang="chi" page="25b" n="1">人子ᅵ 事親而有孝經以爲訓며</sent>
+<sent type="main" lang="kor" page="25b" n="1">夫人子ᅵ 어버이 셤교매 孝經을 두어  訓을 삼으며</sent>
+<sent type="main" lang="chi" page="25b" n="2">人臣ᅵ 事君而有忠經以爲訓니</sent>
+<sent type="main" lang="kor" page="25b" n="2">人臣ᅵ 님금을 셤교매 忠經을 두어  訓을 삼으니</sent>
+<sent type="main" lang="chi" page="25b" n="3">忠孝人道之當然而各有訓矣라</sent>
+<sent type="main" lang="kor" page="25b" n="3">忠과 孝 人道의 當然 거시라 각각 訓이 인디라</sent>
+<sent type="main" lang="chi" page="25b-26a" n="4">然則婦之事夫애 可無訓哉아</sent>
+<sent type="main" lang="kor" page="25b-26a" n="4">그러면 婦ᅵ 夫 셤교매 可히 訓이 업 것가 사이 나며셔 아니</sent><!--사^-->
+
+<sent type="main" lang="chi" page="26a" n="1">人非生知면 不可不學ᅵ니</sent>
+<sent type="main" lang="kor" page="26a" n="1">아니면 可히 學디 아니티 몯 거시니</sent>
+<sent type="main" lang="chi" page="26a" n="2">男女ᅵ 雖異나 未有不訓敎而成者也ᅵ니</sent>
+<sent type="main" lang="kor" page="26a" n="2">男女ᅵ 비록 다나 訓敎 아니 야 成 쟈ᅵ 잇디 아니니</sent>
+<sent type="main" lang="chi" page="26a" n="3">不親書史則往行을 奚考ᅵ며</sent>
+<sent type="main" lang="kor" page="26a" n="3">書史 親히 아니면 往行을 엇디 샹고며</sent>
+<sent type="main" lang="chi" page="26a" n="4">不受姆訓則婦道를 奚修리오</sent>
+<sent type="main" lang="kor" page="26a" n="4">姆訓을 受티 아니면 婦道 엇디 닷리오</sent>
+<sent type="main" lang="chi" page="26a" n="5">是以로 古者애 敎必有方야 男子 八歲而入小學며 女子 十歲而聽姆敎더니</sent>
+<sent type="main" lang="kor" page="26a" n="5">이러모로  녜 敎호미 반시 方이 이셔 男子 八 歲예 小學에 들며 女子 十 歲예 姆敎 듯더니</sent>
+<sent type="main" lang="chi" page="26a-26b" n="6">小學之書ᅵ 無傳ᅵ어늘 晦菴朱子ᅵ</sent>
+<sent type="main" lang="kor" page="26a-26b" n="6">小學 글이 傳호미 업거 晦菴 朱子ᅵ</sent><!--朱^子-->
+
+<sent type="main" lang="chi" page="26b" n="1">編輯成書니 則小學之敎ᅵ 始有所入호 獨女敎ᅵ 未有全書니</sent>
+<sent type="main" lang="kor" page="26b" n="1">編輯야 書 일오니 小學ᄉ 敎ᅵ 비로소 들  이쇼 호올로 女敎ᅵ 全書ᅵ 잇디 아니니</sent>
+<sent type="main" lang="chi" page="26b" n="2">世ᅵ 惟取列女傳과 曹大家女戒야 爲訓니</sent>
+<sent type="main" lang="kor" page="26b" n="2">世 오직 列女傳과 曹大家[曹大家 班彪의 女ᅵ오 曹世叔의 妻ᅵ라] 女戒 取야 訓을 삼으니</sent>
+<sent type="main" lang="chi" page="26b" n="3">人常病其簡略고 有所謂女憲女則이나 皆徒有名耳라</sent>
+<sent type="main" lang="kor" page="26b" n="3">사이 덧덧이 그 簡略믈 病되이 녀기고 닐온 밧 女憲女則이 이시나 다 갓 일홈만 인디라</sent>
+<sent type="main" lang="chi" page="26b" n="4">近世애 始有女敎之書니 大要 撮曲禮</sent>
+<sent type="main" lang="kor" page="26b" n="4">近世예 비로소 女敎人書ᅵ 이시니 大要 曲禮</sent>
+
+<sent type="main" lang="chi" page="27a" n="1">內則之言과 周南召南之旨니</sent>
+<sent type="main" lang="kor" page="27a" n="1">內則읫 말과 周南 召南읫 을 撮야시니</sent>
+<sent type="main" lang="chi" page="27a" n="2">卓越往昔야 足以垂法萬載로 但文理奧妙야</sent>
+<sent type="main" lang="kor" page="27a" n="2">往昔에 卓越야 足히  萬載예 法을 드리오 다믄 文理奧妙야</sent>
+<sent type="main" lang="chi" page="27a" n="3">恐婦人女子ᅵ 未能盡知其義而率由是道也노라</sent>
+<sent type="main" lang="kor" page="27a" n="3">婦人 女子ᅵ 能히 그 義 다 아라 이 道 조차 말믜암디 몯가 저허노라</sent>
+<sent type="main" lang="chi" page="27a" n="4">吾ᅵ 自選入內庭야 榮配睿主로 躬謁祖廟之餘에 上受</sent>
+<sent type="main" lang="kor" page="27a" n="4">내 여 內庭에 드러 영화로이 睿主 配필 되므로브터 몸소 祖廟 謁 餘가애 우흐로</sent>
+
+<sent type="main" lang="chi" page="27b" n="1">聖慈仁壽 太皇太后暨皇太后 皇太妃 睿母之敎令야</sent>
+<sent type="main" lang="kor" page="27b" n="1">聖慈仁壽 太皇太后와 밋 皇太后와 皇太妃 睿母ᄉ 敎令을 밧조와</sent>
+<sent type="main" lang="chi" page="27b" n="2">耳濡目染야 服膺弗失者ᅵ 久矣라</sent>
+<sent type="main" lang="kor" page="27b" n="2">귀예 적시며 눈에 믈드려 가슴에 服야 일티 아니미 오란디라</sent>
+<sent type="main" lang="chi" page="27b" n="3">不特三宮敎令ᅵ 諄複也ᅵ라</sent>
+<sent type="main" lang="kor" page="27b" n="3">갓 三宮敎令이 諄複 이 아니라</sent>
+<sent type="main" lang="chi" page="27b" n="4">至于頒錫御物히 有加無已니 恩義之隆ᅵ 何如哉오</sent>
+<sent type="main" lang="kor" page="27b" n="4">頒錫시 御物에 니히 더으미 잇고 마디 아니 니 恩義의 隆미 엇더뇨</sent>
+<sent type="main" lang="chi" page="27b-28a" n="5">厥後에 隨侍之國야</sent>
+<sent type="main" lang="kor" page="27b-28a" n="5">그 후에 조차 뫼오와 나라 가 안졍</sent><!--졍^-->
+
+<sent type="main" lang="chi" page="28a" n="1">綜理內政 日多閒暇야</sent>
+<sent type="main" lang="kor" page="28a" n="1">綜理 날이 閑暇미 하셔</sent>
+<sent type="main" lang="chi" page="28a" n="2">間嘗侍睿主之側야 聽其議論고</sent>
+<sent type="main" lang="kor" page="28a" n="2">이에 일즉 睿主ᄉ 겨틔 뫼오와 그 議論을 듯고</sent>
+<sent type="main" lang="chi" page="28a" n="3">晝誦夜味니 豁然貫通ᅵ리라</sent>
+<sent type="main" lang="kor" page="28a" n="3">나죄 외오고 밤의 맛드리니 豁然히 貫通더라</sent>
+<sent type="main" lang="chi" page="28a" n="4">乃采古人之敎周南召南之文야 爲女訓拾貳篇호니</sent>
+<sent type="main" lang="kor" page="28a" n="4">이예 녯 사의 敎 周南 召南 글을 采야 女訓 拾貳 篇을 그노니</sent>
+<sent type="main" lang="chi" page="28a" n="5">雖不足追配忠經孝經之義나 聊取以敎貞女耳로다</sent>
+<sent type="main" lang="kor" page="28a" n="5">비록 足히 조초 忠經 孝經의 義 配합디 몯나 애으로이 取야  貞女 치노라</sent>
+<sent type="main" lang="chi" page="28a-28b" n="6">夫女之貞靜幽閒</sent>
+<sent type="main" lang="kor" page="28a-28b" n="6">겨집의 貞靜며 幽閒호믄</sent><!--幽^閒-->
+
+<sent type="main" lang="chi" page="28b" n="1">皆由於閨訓ᅵ니 茍不受命於女師之敎며</sent>
+<sent type="main" lang="kor" page="28b" n="1">다 閨訓을 말암니 진실로 女師의 敎 受命며</sent>
+<sent type="main" lang="chi" page="28b" n="2">聽其夫主之訓면 恐未必知孝乎舅姑也노라</sent>
+<sent type="main" lang="kor" page="28b" n="2">夫主의 訓을 듯디 아니면 반시 舅곳 孝 줄을 아디 몯가 저허노라</sent>
+<sent type="main" lang="chi" page="28b" n="3">知孝舅姑댄 不可以不知敬夫ᅵ니</sent>
+<sent type="main" lang="kor" page="28b" n="3">舅姑에 孝 줄을 알딘댄 可히  夫 공경홈을 아디 아니티 몯 거시니</sent>
+<sent type="main" lang="chi" page="28b" n="4">知敬夫之道則知惠逮媵妾而可推之以慈幼矣리라</sent>
+<sent type="main" lang="kor" page="28b" n="4">夫 공경 道 알면 惠ᅵ 媵妾에 밋처 可히 츄이야  幼 慈 줄을 알리라</sent>
+<sent type="main" lang="chi" page="28b-29a" n="5">況姙子之方과 敎子之法 乃繼後之大端ᅵ라</sent>
+<sent type="main" lang="kor" page="28b-29a" n="5">며 子식을  方과 子식을 치 法은 後 닌 大端이라</sent><!--大^端-->
+
+<sent type="main" lang="chi" page="29a" n="1">旣知乎此호 或非愼靜焉則身無所立ᅵ니 而立身則本於節儉也ᅵ라</sent>
+<sent type="main" lang="kor" page="29a" n="1">임의 이 아로 或 靜을 삼가디 아니면 身이 立 배 업고 身의 立믄 節儉을 本니라</sent>
+<sent type="main" lang="chi" page="29a" n="2">婦人之職ᅵ 豈越此數者之外乎ᅵ리오</sent>
+<sent type="main" lang="kor" page="29a" n="2">婦人의 職이 엇디 이 두어 밧긔 너므리오</sent>
+<sent type="main" lang="chi" page="29a" n="3">使幼而不聽姆敎며 長而不習女訓</sent>
+<sent type="main" lang="kor" page="29a" n="3">여곰 져머셔 姆敎 듯디 아니며 라셔 女訓을 니기디 아니면</sent>
+<sent type="main" lang="chi" page="29a" n="4">則上不知孝舅姑고 下不知順夫子리니</sent>
+<sent type="main" lang="kor" page="29a" n="4">우흐로 舅곳긔 孝 줄을 아디 몯고 아래로 夫子ᄉ 順 줄을 아디 몯리니</sent>
+<sent type="main" lang="chi" page="29a-29b" n="5">豈貞婦之道哉리오 爲女婦者ᅵ 誠能於古今之訓애</sent>
+<sent type="main" lang="kor" page="29a-29b" n="5">엇디 貞婦의 道ᅵ리오 女婦 되얀니 진실로 能히 古今의 訓애</sent><!--訓^애-->
+
+<sent type="main" lang="chi" page="29b" n="1">家習戶誦則風俗ᅵ 自然淳庬며</sent>
+<sent type="main" lang="kor" page="29b" n="1">家로 習며 戶로 誦면 風俗이 自然히 淳庬며</sent>
+<sent type="main" lang="chi" page="29b" n="2">彛倫ᅵ 自然敦厚리니 齊家範俗애</sent>
+<sent type="main" lang="kor" page="29b" n="2">彛倫이 自然히 敦厚리니 家 齊며 俗을 範매</sent>
+<sent type="main" lang="chi" page="29b" n="3">吾ᅵ 不敢知其有補云ᅵ라</sent>
+<sent type="main" lang="kor" page="29b" n="3">내 敢히 그 補미 이시믈 아디 몯예라</sent>
+<sent type="main" lang="chi" page="29b" n="4">大明 正德 戊辰 春王 正月 上澣日애 書노라</sent>
+<sent type="main" lang="kor" page="29b" n="4">大明 正德 戊辰 春王 正月 上澣[上澣은 망젼이라] 日에 스노라</sent>
+
+<sent type="title" lang="chi" page="30a" n="1">女訓目錄</sent>
+<sent type="main" lang="chi" page="30a" n="2">閨訓第一</sent>
+<sent type="main" lang="chi" page="30a" n="3">修德第二</sent>
+<sent type="main" lang="chi" page="30a" n="4">受命第三</sent>
+<sent type="main" lang="chi" page="30a" n="5">夫婦第四</sent>
+<sent type="main" lang="chi" page="30a" n="5">孝舅姑第五</sent>
+<sent type="main" lang="chi" page="30a" n="6">敬夫第六</sent>
+<sent type="main" lang="chi" page="30a" n="6">愛妾第七</sent>
+<sent type="main" lang="chi" page="30a" n="7">慈幼第八</sent>
+<sent type="main" lang="chi" page="30a" n="7">姙子第九</sent>
+
+<sent type="main" lang="chi" page="30b" n="1">敎子第十</sent>
+<sent type="main" lang="chi" page="30b" n="1">愼靜第十一</sent>
+<sent type="main" lang="chi" page="30b" n="2">節儉第十二</sent>
+<sent type="title" lang="chi" page="30b" n="2">女訓目錄終</sent>
+
+<sent type="title" lang="chi" page="31a" n="1">女訓</sent>
+<sent type="title" lang="kor" page="31a" n="1">겨집 치 거시라</sent>
+<sent type="title" lang="chi" page="31a" n="2">閨訓第一</sent>
+<sent type="title" lang="kor" page="31a" n="2">도장의 치 第一이라</sent>
+
+<sent type="main" lang="chi" page="32b" n="1">夫女者 坤道也ᅵ니</sent>
+<sent type="main" lang="kor" page="32b" n="1">겨집은 희 도ᅵ니</sent>
+<sent type="main" lang="chi" page="32b-33a" n="2">其生則設帨於門右 明其生女也ᅵ오</sent>
+<sent type="main" lang="kor" page="32b-33a" n="2">그 나매 門 올녁희 슈건을 베프믄 그  나 줄을 키미오</sent><!--희 ^ 슈-->
+
+<sent type="main" lang="chi" page="33a" n="1">三日에 則臥之於床下 明其卑弱也ᅵ라</sent>
+<sent type="main" lang="kor" page="33a" n="1">三 日에 床 아래 누이믄 그 고 弱 줄을 키미라</sent>
+<sent type="main" lang="chi" page="33a" n="2">七歲에 男女ᅵ 不同며</sent>
+<sent type="main" lang="kor" page="33a" n="2">닐굽 설에 나희와 겨집이 돗글 가지로 아니며</sent>
+<sent type="main" lang="chi" page="33a" n="3">十歲에 閨門不出閾고 習言貌之柔順며</sent>
+<sent type="main" lang="kor" page="33a" n="3">열 설에 도장 門에 디방애 나디 아니고 말과 얼굴의 부드럽고 順키 니기며</sent>
+<sent type="main" lang="chi" page="33a" n="4">恭聽從之懿德며 執麻任績며 養蠶治絲며</sent>
+<sent type="main" lang="kor" page="33a" n="4">들어 좃 아다온 德을 恭슌히 며 삼을 자바 리 겯기 맛드며 누에 쳐 실을 다리며</sent>
+<sent type="main" lang="chi" page="33a-33b" n="5">織紝布帛며 組紃縧纓은 皆女人之職ᅵ 以供衣服也ᅵ오</sent>
+<sent type="main" lang="kor" page="33a-33b" n="5">紝과 布와 帛을 며 紃과 縧와 纓을 기 다 겨집 사의 소임이  衣服을 쟝만미오</sent><!--服^을-->
+
+<sent type="main" lang="chi" page="33b" n="1">潔明酒漿며 親執邊豆며 理乎葅菜며</sent>
+<sent type="main" lang="kor" page="33b" n="1">酒漿을 조케며 邊豆 親히 자브며 葅菜 다리며</sent>
+<sent type="main" lang="chi" page="33b" n="2">具乎內醢 亦女人之事ᅵ 以供祭祀也ᅵ라</sent>
+<sent type="main" lang="kor" page="33b" n="2">內醢 초믄  겨집 사의 이리  祭祀 쟝만미라</sent>
+<sent type="main" lang="chi" page="33b" n="3">內言不出外言不入고 晝動以姆호</sent>
+<sent type="main" lang="kor" page="33b" n="3">안 마리 나디 아니며 밧 마리 드디 아니고 나죄 움즈기기 스승으로 호되</sent>
+<sent type="main" lang="chi" page="33b" n="4">無姆ᅵ어든 不敢妄動며 夜行以燭호</sent>
+<sent type="main" lang="kor" page="33b" n="4">스승이 업거든 敢히 망녕도이 움즈기디 말며 밤의 니기 쵸로 호</sent>
+<sent type="main" lang="chi" page="33b" n="5">無燭ᅵ어든 不敢妄行고 或見男子애 必擁其面며</sent>
+<sent type="main" lang="kor" page="33b" n="5"> 업거든 감히 망녕도이 니디 말고 或 男子 보매 반시 그  리오며</sent>
+<sent type="main" lang="chi" page="33b" n="6">或見父母애</sent>
+<sent type="main" lang="kor" page="33b" n="6">或 父母ᄉ 뵈오매</sent>
+
+<sent type="main" lang="chi" page="34a" n="1">必致其敬고 口不失嘯며</sent>
+<sent type="main" lang="kor" page="34a" n="1">반시 그 공敬을 닐위고 입에 그 람 부디 말며</sent>
+<sent type="main" lang="chi" page="34a" n="2">手不妄指고 十五而筓며 二十而嫁ᅵ니</sent>
+<sent type="main" lang="kor" page="34a" n="2">손으로 망녕도이 치디 말고 열 다새 빈혀 고즈며 스믈헤 혼嫁 디니</sent>
+<sent type="main" lang="chi" page="34a" n="3">女德之成ᅵ 由姆師之敎也ᅵ라</sent>
+<sent type="main" lang="kor" page="34a" n="3">겨집의 德 일미 스승의 치믈 말암니라</sent>
+<sent type="main" lang="chi" page="34a" n="4">蓋女人之訓ᅵ 德在安靜며 性在柔順고</sent>
+<sent type="main" lang="kor" page="34a" n="4">겨집 사 치기 德은 安靜호매 이시며 性은 柔順호매 잇고</sent>
+<sent type="main" lang="chi" page="34a" n="5">不生事以致禍며 不嬌態以取媚고</sent>
+<sent type="main" lang="kor" page="34a" n="5">일을 내여  禍 닐위디 말며 態 곱게 여  고이믈 取티 말고</sent>
+<sent type="main" lang="chi" page="34a" n="6">如衣服ᅵ 足穿則不必盈箱也ᅵ오</sent>
+<sent type="main" lang="kor" page="34a" n="6">만일 衣服이 닙기예 足 즉 구여 箱애 게 말며</sent>
+<sent type="main" lang="chi" page="34a-34b" n="7">如首飾ᅵ 足載</sent>
+<sent type="main" lang="kor" page="34a-34b" n="7">만일 首飾이 쓰기예 足</sent><!--足^-->
+
+<sent type="main" lang="chi" page="34b" n="1">則不必盈匣也ᅵ오 飮食은 充饑而已니</sent>
+<sent type="main" lang="kor" page="34b" n="1">則 구여 匣의 게 말고 飮食은 주린 거 올 만 이라</sent>
+<sent type="main" lang="chi" page="34b" n="2">何必羅列之滿前ᅵ며 僕人은 使令而已니</sent>
+<sent type="main" lang="kor" page="34b" n="2">엇디 구여 羅列여 알 게 며 죵사은 브릴 만 이라</sent>
+<sent type="main" lang="chi" page="34b" n="3">何必伶俐之爲美리오 凡此數者ᅵ 皆由女師之訓ᅵ니</sent>
+<sent type="main" lang="kor" page="34b" n="3">엇디 구여 伶俐니야 아다오리오 므 이 두어 가지 다 겨집 스승의 치믈 말암니</sent>
+<sent type="main" lang="chi" page="34b" n="4">觀古人之書며 聽夫主之敎ᅵ라 方成節儉之德也ᅵ니라</sent>
+<sent type="main" lang="kor" page="34b" n="4">녜 사의 글을 보며 夫主의 치믈 드러야 비로소 節儉 德을 일우리라</sent>
+
+<sent type="title" lang="chi" page="35a" n="1">修德第二</sent>
+<sent type="title" lang="kor" page="35a" n="1">덕 닷기 第二라</sent>
+
+<sent type="main" lang="chi" page="36b" n="1">爲婦者 上事宗廟고 下繼後世니 不爲不重也ᅵ라</sent>
+<sent type="main" lang="kor" page="36b" n="1">婦이 되얀 者 우흐로 宗廟 셤기고 아래로 後世 니오니 重티 아니티 아니니라</sent>
+<sent type="main" lang="chi" page="36b" n="2">身若不修則無以成其德ᅵ오</sent>
+<sent type="main" lang="kor" page="36b" n="2">몸을 만일 닷디 아니 즉  그 德을 일오디 못 거시오</sent>
+<sent type="main" lang="chi" page="36b" n="3">德若不養則無以立其身故로</sent>
+<sent type="main" lang="kor" page="36b" n="3">德을 만일 치디 아니면  그 몸을 셰오디 몯 거신 고로</sent>
+<sent type="main" lang="chi" page="36b" n="4">貞靜幽閒며 端莊誠一은 以成其德也ᅵ오</sent>
+<sent type="main" lang="kor" page="36b" n="4">貞靜코 幽閒며 端莊코 誠一믄  그 德을 일오미오</sent>
+<sent type="main" lang="chi" page="36b-37a" n="5">居必以正며 行必以端은 以修其行也ᅵ라</sent>
+<sent type="main" lang="kor" page="36b-37a" n="5">居홈을 반시 正으로 며 行홈을 반시 端으로 믄  그 行실을</sent><!--실^을-->
+
+<sent type="main" lang="chi" page="37a" n="1">德者 身之主ᅵ오 身者 家之本ᅵ니</sent>
+<sent type="main" lang="kor" page="37a" n="1">닷그미라 德은 몸의 主ᅵ오 몸은 家의 本이니</sent>
+<sent type="main" lang="chi" page="37a" n="2">身之邪正은 德之係오 家之隆替 身之係焉ᅵ니라</sent>
+<sent type="main" lang="kor" page="37a" n="2">몸의 邪正은 德에 이엿고 家의 隆替 몸애 엿니라</sent>
+<sent type="main" lang="chi" page="37a" n="3">養德而后에 爲貞女ᅵ오 修身而后에 能配君子ᅵ니</sent>
+<sent type="main" lang="kor" page="37a" n="3">德을 친 후에야 貞女ᅵ 되고 몸을 닷근 후에야 능히 君子의게 配디니</sent>
+<sent type="main" lang="chi" page="37a" n="4">是故로 性欲孝敬仁明며 情欲慈和柔順고</sent>
+<sent type="main" lang="kor" page="37a" n="4">이런 고로 性은 孝며 敬며 仁며 明코져 며 情은 慈며 和며 柔며 順코져 고</sent>
+<sent type="main" lang="chi" page="37a" n="5">居以柔和며 動由禮義니라 美璞ᅵ 無瑕ᅵ라아</sent>
+<sent type="main" lang="kor" page="37a" n="5">居기 柔和로 며 動매 禮義 말아믈디니라 아다온 璞玉이</sent>
+
+<sent type="main" lang="chi" page="37b" n="1">可爲至寶ᅵ오 貞女ᅵ 純德ᅵ라아 可配京室ᅵ니</sent>
+<sent type="main" lang="kor" page="37b" n="1">허믈이 업세야 가히 지극 보 되고 貞女ᅵ 德을 純젼여야 京室에 가히 配리라</sent>
+<sent type="main" lang="chi" page="37b" n="2">五綵盛服ᅵ 不足爲身華ᅵ오</sent>
+<sent type="main" lang="kor" page="37b" n="2">다 가지  盛服이 足히 몸애 빗난 거시 되디 몯고</sent>
+<sent type="main" lang="chi" page="37b" n="3">貞順率道ᅵ 乃可爲女德ᅵ니라</sent>
+<sent type="main" lang="kor" page="37b" n="3">貞順으로 道 率예야 可히 겨집의 德이 될디니라</sent>
+<sent type="main" lang="chi" page="37b" n="4">若乃驕盈嫉忌며 肆意適情야</sent>
+<sent type="main" lang="kor" page="37b" n="4">만일 驕죵고 냥 며 새오며 며 들 방肆히 며 情애 맛도록 여</sent>
+<sent type="main" lang="chi" page="37b" n="5">以病其德ᅵ면 斯亦不足取矣라</sent>
+<sent type="main" lang="kor" page="37b" n="5"> 그 德을 병 들게면 이  죡히 取티 못리라</sent>
+<sent type="main" lang="chi" page="37b-38a" n="6">凡爲女子者ᅵ 若不聽女師之訓야</sent>
+<sent type="main" lang="kor" page="37b-38a" n="6">믈읫 겨집 식이 되엿 쟤 만일 겨집 스승의 치믈 드러</sent><!--^치-->
+
+<sent type="main" lang="chi" page="38a" n="1">納嘉言則</sent>
+<sent type="main" lang="kor" page="38a" n="1">아다온 말을 드리디 아니 즉</sent>
+<sent type="main" lang="chi" page="38a" n="2">他日爲婦애 便不能行正道야 以事夫主야</sent>
+<sent type="main" lang="kor" page="38a" n="2">他日에 婦ᅵ 되요매 곳 能히 正道 行여  夫主 셤기디 못며</sent>
+<sent type="main" lang="chi" page="38a" n="3">使一家大小로 不得安靜야 重爲婦德之累ᅵ니</sent>
+<sent type="main" lang="kor" page="38a" n="3">一家大小로 여곰 安靜홈을 得디 믓여 重히 婦德의 허믈이 되리니</sent>
+<sent type="main" lang="chi" page="38a" n="4">可不戒哉며 可不愼哉아</sent>
+<sent type="main" lang="kor" page="38a" n="4">가히 경계티 아니며 가히 삼가디 아닐 것가</sent>
+
+<sent type="title" lang="chi" page="39a" n="1">受命第三</sent>
+<sent type="title" lang="kor" page="39a" n="1">命을 바든 第三이라</sent>
+
+<sent type="main" lang="chi" page="40b" n="1">夫女子 坤道也ᅵ니 而主乎靜也ᅵ라</sent>
+<sent type="main" lang="kor" page="40b" n="1">女子 희 도리니 안靜홈을 主디라</sent>
+<sent type="main" lang="chi" page="40b" n="2">在家從父母애 無父母之命이어든 不敢妄動며</sent>
+<sent type="main" lang="kor" page="40b" n="2">지븨 이셔 父母를 조차실 제 父母의 命이 업거든 敢히 망녕도이 움즈기디 말며</sent>
+<sent type="main" lang="chi" page="40b" n="3">受父母之命얀 不敢有違니</sent>
+<sent type="main" lang="kor" page="40b" n="3">父母의 命을 바다 敢히 어긔믈 두디 말디니</sent>
+<sent type="main" lang="chi" page="40b" n="4">如夫奠鴈之際애 父母ᅵ 親授於夫</sent>
+<sent type="main" lang="kor" page="40b" n="4">만일에 夫ᅵ 기러기 奠 제 父母ᅵ 親히 夫의게 주실</sent>
+<sent type="main" lang="chi" page="40b-41a" n="5">父母ᅵ 戒之曰必敬必戒야 無違夫子며 孝舅姑며</sent>
+<sent type="main" lang="kor" page="40b-41a" n="5">父母ᅵ 경계야 샤 반시 공경며 반시 경계야 夫子 어긔디 말며 舅姑 효도며 族黨을</sent><!--^며-->
+
+<sent type="main" lang="chi" page="41a" n="1">和睦族黨며 莊以持身며 慈以待下며</sent>
+<sent type="main" lang="kor" page="41a" n="1">和睦며 싁싁홈으로 몸을 기지며 랑홈으로 아랫 사을 졉며</sent>
+<sent type="main" lang="chi" page="41a" n="2">儉以處家며 豊以待賓며</sent>
+<sent type="main" lang="kor" page="41a" n="2">儉박홈으로 家애 處며 豊셩홈으로 손을 졉며</sent>
+<sent type="main" lang="chi" page="41a" n="3">有妾必愛며 有子必敎며 以敬奉祭며</sent>
+<sent type="main" lang="kor" page="41a" n="3">妾이 잇거든 반시 랑며 子ᅵ 잇거 반시 치며 공경으로 祭 奉며</sent>
+<sent type="main" lang="chi" page="41a" n="4">以誠待人며 女子ᅵ 愼多言며</sent>
+<sent type="main" lang="kor" page="41a" n="4">졍셩으로 사을 待졉며 女子ᅵ 말기 삼가며</sent>
+<sent type="main" lang="chi" page="41a-41b" n="5">婦道ᅵ 戒嫉妬며 以柔德爲本며 以和睦爲先ᅵ라니</sent>
+<sent type="main" lang="kor" page="41a-41b" n="5">婦의 道리 믜여 새오기 경계며 부드러온 德으로 근本을 사므며 和睦홈으로 몬져 사믈디라 니</sent><!--몬^져-->
+
+<sent type="main" lang="chi" page="41b" n="1">如違父母之敎命ᅵ면 則是不孝於父母矣라</sent>
+<sent type="main" lang="kor" page="41b" n="1">만일 父母의 치신 命을 어긔면 이 父母 不孝호미라</sent>
+<sent type="main" lang="chi" page="41b" n="2">然父母之命을 旣違면 貞靜之德을 難成이니 而爲貞婦者ᅵ 可不愼之哉아</sent>
+<sent type="main" lang="kor" page="41b" n="2">그러나 父母의 命을 이 어긔면 貞靜 德을 일오미 어려오니 貞婦 되연 이 可히 삼가디 아니랴</sent>
+<sent type="main" lang="chi" page="41b" n="3">蓋賢婦ᅵ 有德ᅵ면 能助夫成德ᅵ라</sent>
+<sent type="main" lang="kor" page="41b" n="3">어딘 며리 德을 두시면 能히 夫 도아 德을 일오디라</sent>
+<sent type="main" lang="chi" page="41b" n="4">故로 婦人을 謂之內助也ᅵ니 故로 夫之美德ᅵ 由賢婦之助ᅵ오</sent>
+<sent type="main" lang="kor" page="41b" n="4">그런고로 婦人을 內助ᅵ라 니니 그런고로 夫의 아다온 德이 賢婦의 도으믈 말믜암고</sent>
+<sent type="main" lang="chi" page="41b-42a" n="5">夫之淫惡ᅵ</sent>
+<sent type="main" lang="kor" page="41b-42a" n="5">夫의 淫난코 사오나오미</sent><!--오^미-->
+
+<sent type="main" lang="chi" page="42a" n="1">亦由不賢婦之所致也ᅵ라</sent>
+<sent type="main" lang="kor" page="42a" n="1"> 不賢 婦의 닐온 바 말암디라</sent>
+<sent type="main" lang="chi" page="42a" n="2">若得一賢婦人야 內主其家면</sent>
+<sent type="main" lang="kor" page="42a" n="2">만일  어딘 婦人을 어더 안흐로 그 집을 主면</sent>
+<sent type="main" lang="chi" page="42a" n="3">使上下和睦며 親疎感德리니</sent>
+<sent type="main" lang="kor" page="42a" n="3">여곰 上下 和睦게 며 親疎ᅵ 德을 感격게 리니</sent>
+<sent type="main" lang="chi" page="42a" n="4">是以家齊而夫主ᅵ 亦有美譽也ᅵ리라</sent>
+<sent type="main" lang="kor" page="42a" n="4">일로 집이 즉야 夫主ᅵ  아다온 기리미 이시리니라</sent>
+
+<sent type="title" lang="chi" page="43a" n="1">夫婦第四</sent>
+<sent type="title" lang="kor" page="43a" n="1">夫와 婦 第四ᅵ라</sent>
+
+<sent type="main" lang="chi" page="44b" n="1">夫婦之道 初合二姓之好며</sent>
+<sent type="main" lang="kor" page="44b" n="1">夫婦의 도리 처엄의 두 姓의 됴흐믈 合며</sent>
+<sent type="main" lang="chi" page="44b-45a" n="2">中篤采徵之誠야</sent>
+<sent type="main" lang="kor" page="44b-45a" n="2">가온대 납采와 납徵 졍셩을 두텁게 야</sent><!--徵^-->
+
+<sent type="main" lang="chi" page="45a" n="1">上以事宗廟며 下以繼後世라</sent>
+<sent type="main" lang="kor" page="45a" n="1">우흐로  宗廟 셤기며 아래로  後世 닌디라</sent>
+<sent type="main" lang="chi" page="45a" n="2">故로 聖王이 重之也ᅵ시니 大昏之禮예 男ᅵ 則親迎야 入門而奠鴈며</sent>
+<sent type="main" lang="kor" page="45a" n="2">그런고로 聖王이 重케 시니 큰 昏인 禮예 나 곧 親히 마자 門의 드러 기러기 奠며</sent>
+<sent type="main" lang="chi" page="45a" n="3">婦父ᅵ 既受어든 出門而御車야 緌授六轡며 輪御三周고</sent>
+<sent type="main" lang="kor" page="45a" n="3">婦의 아비 임의 바다든 門의 나 술의 御야 綏를 六轡 주며 輪을 세 번 돌지 御야</sent>
+<sent type="main" lang="chi" page="45a" n="4">婦ᅵ 至其壻門ᅵ어든 壻ᅵ 揖婦以入야 共牢而食며</sent>
+<sent type="main" lang="kor" page="45a" n="4">婦ᅵ 그 婿의 門에 니거든 婿ᅵ 婦 揖고  드러가 牢 가지로 여 머그며</sent>
+<sent type="main" lang="chi" page="45a" n="5">合巹而酳은 所以合體而同尊卑也ᅵ라</sent>
+<sent type="main" lang="kor" page="45a" n="5">박잔을 合야 마시믄  體 합야 노프니과 니 가지로  배라</sent>
+
+<sent type="main" lang="chi" page="45b" n="1">然夫 乃乾道也ᅵ오 婦 乃坤道也ᅵ니 位有陰陽며</sent>
+<sent type="main" lang="kor" page="45b" n="1">그러나 夫 하희 도리오 婦 희 도리니 位陰과 陽이 이시며</sent>
+<sent type="main" lang="chi" page="45b" n="2">義有剛柔야 立天地之洪義오 實人倫之大節ᅵ라</sent>
+<sent type="main" lang="kor" page="45b" n="2">義剛과 柔ᅵ 이셔 하과 희 큰 義 셰우고 진실로 人倫의 큰 라</sent>
+<sent type="main" lang="chi" page="45b" n="3">婦乃從人며 夫乃御婦ᅵ니</sent>
+<sent type="main" lang="kor" page="45b" n="3">婦ᅵ 사을 조며 夫ᅵ 婦 졔어니</sent>
+<sent type="main" lang="chi" page="45b" n="4">夫若不賢ᅵ면 則無以御婦ᅵ오</sent>
+<sent type="main" lang="kor" page="45b" n="4">夫ᅵ 만일 어디디 몯면  婦 졔御티 몯고</sent>
+<sent type="main" lang="chi" page="45b" n="5">婦若不賢ᅵ면 則無以事夫ᅵ라</sent>
+<sent type="main" lang="kor" page="45b" n="5">婦ᅵ 만일 어디디 몯면  夫 셤기디 몯디라</sent>
+<sent type="main" lang="chi" page="45b" n="6">夫不御婦ᅵ면</sent>
+<sent type="main" lang="kor" page="45b" n="6">夫ᅵ 婦 졔御티 몯면</sent>
+
+<sent type="main" lang="chi" page="46a" n="1">誠威儀之廢缺며 婦不事夫ᅵ면 誠義禮之衰頹야</sent>
+<sent type="main" lang="kor" page="46a" n="1">진실로 威儀 廢야 이저디며 婦ᅵ 夫 셤기디 몯면 진실로 義禮 衰야 믈허뎌</sent>
+<sent type="main" lang="chi" page="46a" n="2">三綱ᅵ 掃地고 五倫ᅵ 㦨倒리니</sent>
+<sent type="main" lang="kor" page="46a" n="2">三綱이 히   고 五倫이 믈결이 걷러디  니</sent>
+<sent type="main" lang="chi" page="46a" n="3">是故로 男不可不受父師之敎ᅵ며</sent>
+<sent type="main" lang="kor" page="46a" n="3">이런고로 男이 可히 아비와 스승의 치믈 받디 아니티 몯 거시며</sent>
+<sent type="main" lang="chi" page="46a" n="4">女不可不領夫師之敎ᅵ니</sent>
+<sent type="main" lang="kor" page="46a" n="4">女ᅵ 可히 夫와 스승의 치믈 받디 아니티 몯 거시니</sent>
+<sent type="main" lang="chi" page="46a-46b" n="5">男賢야 知所以御婦며 婦賢야 知所以事夫ᅵ면 夫婦ᅵ 氣和야</sent>
+<sent type="main" lang="kor" page="46a-46b" n="5">男이 어디러  婦 졔御 바 알며 婦ᅵ 어디러  夫 셤길 바 알면 夫婦ᅵ 氣운이 和야</sent><!--^야-->
+
+<sent type="main" lang="chi" page="46b" n="1">如鼓琴瑟而和氣生焉ᅵ라</sent>
+<sent type="main" lang="kor" page="46b" n="1">琴瑟을 鼓홈 야 和 긔운이 나리라</sent>
+<sent type="main" lang="chi" page="46b" n="2">明可以致家道之隆며 幽可以致鬼神之格ᅵ오</sent>
+<sent type="main" lang="kor" page="46b" n="2">근  可히  家道의 隆셩믈 닐위며 그윽  可히  鬼神의 오기 닐위고</sent>
+<sent type="main" lang="chi" page="46b" n="3">夫婦ᅵ 不和ᅵ면 如魚反目而乖氣生焉ᅵ라</sent>
+<sent type="main" lang="kor" page="46b" n="3">夫婦ᅵ 和티 몯면 고기눈을 두루혐 여 乖려 긔운이 나리라</sent>
+<sent type="main" lang="chi" page="46b" n="4">朝所以致藩籬之鬪ᅵ며 暮所以致悖逆之嫌ᅵ니</sent>
+<sent type="main" lang="kor" page="46b" n="4">아젹의  藩籬의 싸호믈 닐위 배며 져므러  悖逆 嫌의 닐위 배니</sent>
+<sent type="main" lang="chi" page="46b-47a" n="5">夫婦之際와 妻妾相處 以和爲貴니</sent>
+<sent type="main" lang="kor" page="46b-47a" n="5">夫婦의 이과 妻妾의 서 이시믄 和로 貴히 녀기니  번 動며</sent><!--^며-->
+
+<sent type="main" lang="chi" page="47a" n="1">一動一靜을 可不愼歟아</sent>
+<sent type="main" lang="kor" page="47a" n="1"> 번 靜기를 可히 삼가디 아니 것가</sent><!--title: 제목, main: 본문-->
+</doc>

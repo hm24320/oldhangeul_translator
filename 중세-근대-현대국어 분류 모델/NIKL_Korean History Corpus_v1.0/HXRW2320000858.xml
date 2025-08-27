@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<teiHeader>
+<titleStmt>
+<title lang="kor">원각경언해</title>
+<title lang="chi">圓覺經諺解</title>
+<volume n="상2-1"/>
+<author></author>
+<date>1465</date>
+</titleStmt>
+
+<notesStmt>
+<bibl>
+<title>세종대왕기념사업회 영인본</title>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+</notesStmt>
+
+<revisionDesc>
+<date></date>
+<respStmt>
+<resp>입력자</resp><name>신용남</name>
+</respStmt>
+<respStmt>
+<resp>교정자</resp><name></name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<sent type="title" lang="chi" page="01a" n="1">大方廣圓覺脩多羅了義經上二之一</sent>
+
+<sent type="title" lang="chi" page="01a" n="2">終南山草堂寺沙門宗密䟽鈔</sent>
+
+<sent type="title" lang="chi" page="01a" n="3">大文第二令依解修證䟽三 一自下下標大意</sent>
+
+<sent type="anno" lang="chi" page="02b" n="1">自下大段第二令依解修行隨根證入은</sent>
+<sent type="anno" lang="kor" page="02b" n="1">이브터 아랫 大段 第二解 브터 行 닷가 根을 조차 證야 들에 호</sent>
+<sent type="anno" lang="chi" page="02b" n="2">謂創因法鏡의 照心야</sent>
+<sent type="anno" lang="kor" page="02b" n="2">닐오 처 法 거우루의  비취요 因야</sent>
+<sent type="anno2" lang="chi" page="02b" n="3">法謂敎法 鏡卽是喩</sent>
+<sent type="anno2" lang="kor" page="02b" n="3">法은 敎法을 니고 거우루 곧 이 가뵤미니</sent>
+<sent type="anno2" lang="chi" page="02b-3a" n="4">如人有眼耳 無由親自見之</sent>
+<sent type="anno2" lang="kor" page="02b-3a" n="4">사미 눈과 귀와 두 親히 제 보디 몯다가</sent><!--다^가-->
+
+<sent type="anno2" lang="chi" page="03a" n="1">若以鏡照之卽見</sent>
+<sent type="anno2" lang="kor" page="03a" n="1">다가 거우루로 비취면 곧 봄 야</sent>
+<sent type="anno2" lang="chi" page="03a" n="2">衆生 自性亦爾 無由自見</sent>
+<sent type="anno2" lang="kor" page="03a" n="2">衆生 제 性도  그러야 제 보디 몯야</sent>
+<sent type="anno2" lang="chi" page="03a" n="3">因聞聖敎 依敎反照 方見矣</sent>
+<sent type="anno2" lang="kor" page="03a" n="3">聖敎 듣오 因야 敎 브터 두르혀 비취여 비르서 보니라</sent>
+<sent type="anno" lang="chi" page="03a" n="4">頓能信解호 至於長久修證얀 則節級이 不同니</sent>
+<sent type="anno" lang="kor" page="03a" n="4">다 能히 信解호 오래 닷가 證호매 니르런 節級이 디 아니니</sent>
+<sent type="anno" lang="chi" page="03a" n="5">良以障有淺深根有利鈍며</sent>
+<sent type="anno" lang="kor" page="03a" n="5">實로 障이 녀툼과 기푸미 이시며 根이 카옴과 鈍호미 이시며</sent>
+<sent type="anno" lang="chi" page="03a" n="6">習氣ᅵ 厚薄며 心行依違니</sent>
+<sent type="anno" lang="kor" page="03a" n="6">習氣 두터우며 열우며 心行이 브트며 어긜니</sent>
+<sent type="anno2" lang="chi" page="03a" n="7">依違者 依敎違敎也</sent>
+<sent type="anno2" lang="kor" page="03a" n="7">브트며 어긔요 敎애 브트며 敎애 어긔요미라</sent>
+<sent type="anno" lang="chi" page="03a" n="8">故로 須處處에 隨根야 引令得出이니</sent>
+<sent type="anno" lang="kor" page="03a" n="8">그럴 모로매 곧고대 根을 조차 혀 나 得게 샤미니</sent>
+<sent type="anno" lang="chi" page="03a" n="9">然이나 其修證階降이 雖殊나</sent>
+<sent type="anno" lang="kor" page="03a" n="9">그러나 그 닷며 證 差等이 비록 다나</sent>
+<sent type="anno" lang="chi" page="03a" n="10">必籍本因故로 云依解라</sent>
+<sent type="anno" lang="kor" page="03a" n="10">반기 本來ᄉ 因을 브틀 닐오 解 브투미라</sent><!--영본零本에는 '빈기'로 보이나 탈획된 것으로 판단됨-->
+<sent type="anno" lang="chi" page="03a" n="11">前則信解오 此則行證이니</sent>
+<sent type="anno" lang="kor" page="03a" n="11">알 信과 解왜오 이 行과 證괘니</sent>
+<sent type="anno" lang="chi" page="03a" n="12">故로 華嚴一部도 亦唯此四矣니라</sent>
+<sent type="anno" lang="kor" page="03a" n="12">그럴 華嚴一部도  오직 이 네히니라</sent>
+<sent type="anno" lang="chi" page="03a-3b" n="13">文中이 二니 初 徵釋用心이오 後 廣明行相이니</sent>
+<sent type="anno" lang="kor" page="03a-3b" n="13">文中이 둘히니 처믄  믈 묻와 사기샤미오 後는 行相 너비 기샤미니</sent><!--둘^히-->
+
+<sent type="anno" lang="chi" page="03b" n="1">所以然者 以悟修之理ᅵ 一異難明이라</sent>
+<sent type="anno" lang="kor" page="03b" n="1">그리샤 아롬과 닷곰괏 理 나콰 달오 교미 어려운 디라</sent>
+<sent type="anno" lang="chi" page="03b" n="2">意實相符호 言而似反故로</sent>
+<sent type="anno" lang="kor" page="03b" n="2">든 實로 서르 마조 닐오매 드위현  </sent>
+<sent type="anno" lang="chi" page="03b" n="3">須徵釋샤 令解用心然後에</sent>
+<sent type="anno" lang="kor" page="03b" n="3">모로매 묻와 사기샤  믈 알에 신 後에</sent>
+<sent type="anno" lang="chi" page="03b" n="4">隨性隨緣샤 廣爲明其行相이시니라</sent>
+<sent type="anno" lang="kor" page="03b" n="4">性을 조며 緣을 조샤 너비 그 行相 爲야 기시니라</sent>
+<sent type="anno" lang="chi" page="03b" n="5">今初徵釋文中에 大科四段이 不異初門며</sent>
+<sent type="anno" lang="kor" page="03b" n="5">이제 처 묻와 사기샨 文中에 큰 科 네 段이 첫 門에 다디 아니며</sent>
+<sent type="anno" lang="chi" page="03b" n="6">申請中三도 亦同前列니라</sent>
+<sent type="anno" lang="kor" page="03b" n="6">請을 펴샨 中엣 세토  알 버륨 니라</sent>
+<sent type="anno" lang="chi" page="03b" n="7">今初進問威儀라</sent>
+<sent type="anno" lang="kor" page="03b" n="7">이제 처 나 묻오시 威儀라</sent>
+
+<sent type="main" lang="chi" page="04a" n="1">於是예 普賢菩薩이 在大衆中샤 卽從座起샤 頂禮佛足시고</sent><!--형용사사전말뭉치에는 '於是에'로 되어 있으나 원문에 '於是예'로 되어 있어 바로잡음-->
+<sent type="main" lang="kor" page="04a" n="1">이 普賢菩薩이 大衆 中에 겨샤 곧 座로서 니르샤 부텻 바 頂禮시고</sent>
+<sent type="main" lang="chi" page="04a" n="2">右繞三匝시고 長跪叉手샤 而白佛言샤</sent>
+<sent type="main" lang="kor" page="04a" n="2">올 녀그로 도라 세 번 도시고 長跪叉手샤 부텻긔 오샤</sent><!--영본零本에는 '而白佛言시'로 보이나 원본에는 '而白佛言샤'로 되어 있어 탈획되어 있고 '오샤'도 영본에는 '오사'로 탈획된 것으로 판단됨-->
+<sent type="anno" lang="chi" page="04a" n="3">普賢은 是行中之體故로 標首샤 爲下所依시니</sent>
+<sent type="anno" lang="kor" page="04a" n="3">普賢은 이 行 中엣 體실 몬져 標샤 아랫 브툴 고 사시니</sent>
+<sent type="anno" lang="chi" page="04a" n="4">總別觀門이 不離此故ᅵ라</sent>
+<sent type="anno" lang="kor" page="04a" n="4">摠과 別왓 觀門이 이 여희디 아니 젼라</sent>
+<sent type="anno" lang="chi" page="04a" n="5">二聖表法은 已具前文니라</sent>
+<sent type="anno" lang="kor" page="04a" n="5">二聖ᄉ 法 表샤 마  그레 니라</sent>
+
+<sent type="anno" lang="chi" page="04b" n="1">次正陳中文이 四ᅵ니 一은 就當根徵起오</sent>
+<sent type="anno" lang="kor" page="04b" n="1">버거 正히 펴샨 中ᄉ 文이 네히니 나 當 根에 나가샤 무러 니르와샤미오</sent>
+<sent type="main" lang="chi" page="04b" n="2">大悲世尊하 願爲此會옛 諸菩薩衆시며 及爲末世옛 一切衆生쇼셔</sent>
+<sent type="main" lang="kor" page="04b" n="2">大悲 世尊하 願 이 會옛 한 菩薩衆을 爲시며  末世옛 一切 衆生 爲쇼셔</sent>
+<sent type="main" lang="chi" page="04b-5a" n="3">修大乘者ᅵ 聞此圓覺淸淨境界 고 云何修行리고</sent>
+<sent type="main" lang="kor" page="04b-5a" n="3">大乘 닷리 이 圓覺淸淨 境界 듣고 엇뎨 脩行 리고</sent><!--淨^-->
+
+<sent type="anno" lang="chi" page="05a" n="1">信解圓覺리 卽是當根이니 雖達天眞나</sent>
+<sent type="anno" lang="kor" page="05a" n="1">圓覺 信解리 곧 이 當 根이니 비록 天眞을 아나</sent>
+<sent type="anno2" lang="chi" page="05a" n="2">䟽達天眞者 前章說覺性 天然本淨 生死等非作故無</sent><!--형용사사전말뭉치에는 '䟽達天眞者 前章說覺性'의 '䟽' '說'이 빠져 있어 보충함-->
+<sent type="anno2" lang="kor" page="05a" n="2">天眞 아로 앏 章애 니샨 覺性이 天然야 本來 조며 生死 等이 지 젼로 업숨 아니라</sent>
+<sent type="anno" lang="chi" page="05a" n="3">未明緣起ᄅ</sent>
+<sent type="anno" lang="kor" page="05a" n="3">緣야 니루믈 기디 몯</sent>
+<sent type="anno" lang="chi" page="05a-5b" n="4">大士ᅵ 悲憫샤 接下垂方샤 反覆徵問用心샤 解行이 如何契合리고</sent>
+<sent type="anno" lang="kor" page="05a-5b" n="4">大士ᅵ 슬피 어엿비 너기샤 아래 혀샤 法을 드리우샤 드위힐훠  믈 묻오샤 解와 行괘 엇뎨 리고</sent><!--뎨 ^ -->
+
+<sent type="anno" lang="chi" page="05b" n="1">二 問解行相違니</sent>
+<sent type="anno" lang="kor" page="05b" n="1">둘흔 解와 行괘 서르 어긔요 묻오샤미니</sent>
+<sent type="anno" lang="chi" page="05b" n="2">於中에 復二니 一은 幻幻何修問이오</sent>
+<sent type="anno" lang="kor" page="05b" n="2">그 中에  둘히니 나 幻과 幻과 엇뎨 닷리고 묻오미오</sent>
+<sent type="main" lang="chi" page="05b" n="3">世尊하 若彼衆生이</sent>
+<sent type="main" lang="kor" page="05b" n="3">世尊하 다가 뎌 衆生이</sent>
+<sent type="anno" lang="chi" page="05b" n="4">指前當根시니라</sent>
+<sent type="anno" lang="kor" page="05b" n="4">알 當 根을 치시니라</sent>
+<sent type="main" lang="chi" page="05b" n="5">知如幻者도 身心이 亦幻이니</sent>
+<sent type="main" lang="kor" page="05b" n="5">幻 홈 알 리도 身과 心괘  幻이니</sent>
+<sent type="anno" lang="chi" page="05b" n="6">解也ᅵ라</sent>
+<sent type="anno" lang="kor" page="05b" n="6">解라</sent>
+
+<sent type="main" lang="chi" page="06a" n="1">云何以幻으로 還修於幻이리고</sent>
+<sent type="main" lang="kor" page="06a" n="1">엇뎨 幻로 도로 幻을 닷리고</sent><!--원문은 '幻을'로 되어 있으나 '幻'의 오각으로 보임-->
+
+<sent type="anno" lang="chi" page="07b" n="1">行也ᅵ라 謂一切如幻야 正解方成리니 幻法이 非眞이어니 復何修習이리오</sent>
+<sent type="anno" lang="kor" page="07b" n="1">行이라 닐오 一切 幻 야 正 解 비르서 일리니 幻法이 眞實 아니어니  엇뎨 닷가 니기리오</sent>
+<sent type="anno" lang="chi" page="07b" n="2">故로 解與行이 進退相違니 徵釋用心이 實由斯矣라</sent>
+<sent type="anno" lang="kor" page="07b" n="2">그럴 解와 行괘 나며 믈루매 서르 어긔니  믈 묻와 사기샤미 實로 이 브트시니라</sent>
+<sent type="anno" lang="chi" page="07b" n="3">此問이 從前엣 知是空華卽無輪轉等文야 而來니 意云샤</sent>
+<sent type="anno" lang="kor" page="07b" n="3">이 무르샤미 알 이 空華 알면 곧 輪轉이 업슨 햇 文을 브터 오니 데 니샤</sent>
+<sent type="anno" lang="chi" page="07b" n="4">身心이 旣如幻고 能知ᅵ 亦是幻이니 將幻야 還除幻면 幻幻이 何窮盡이리고 시니라</sent>
+<sent type="anno" lang="kor" page="07b" n="4">身과 心괘 마 幻고 能히 아로미  이 幻이니 幻을 가져 도로 幻을 덜면 幻과 幻괘 엇뎨 다리고 시니라</sent>
+<sent type="anno" lang="chi" page="07b" n="5">幻者 謂世有幻法니</sent>
+<sent type="anno" lang="kor" page="07b" n="5">幻 닐오 世예 幻法이 잇니</sent>
+<sent type="anno" lang="chi" page="07b-8a" n="6">依草木等야 幻作人畜야 宛似往來動作之相다가</sent>
+<sent type="anno" lang="kor" page="07b-8a" n="6">草木 等을 브터 幻히 사과 즁 라 가며 오며 뮈워 짓 相이 번드기 다가</sent><!--터 ^ 幻-->
+
+<sent type="anno" lang="chi" page="08a" n="1">須臾에 法謝면 還成草木니라</sent>
+<sent type="anno" lang="kor" page="08a" n="1">간 예 法이 衰면 도로 草木이 외니라</sent>
+<sent type="anno" lang="chi" page="08a" n="2">然이나 諸經敎애 幻喩ᅵ 偏多니</sent>
+<sent type="anno" lang="kor" page="08a" n="2">그러나 한 經敎애 幻ᄉ 가뵤미 츼여 하니</sent>
+<sent type="anno" lang="chi" page="08a" n="3">良以五天엔 此術이 頗衆 見聞이 旣審야 法理ᅵ 易明이어니와</sent>
+<sent type="anno" lang="kor" page="08a" n="3">實로 五天竺엔 이 術이 모 할 보며 드로미 마 仔細야 法과 理왜 쉬이 기거니와</sent>
+<sent type="anno" lang="chi" page="08a" n="4">及傳此方얀 翻成難曉니</sent>
+<sent type="anno" lang="kor" page="08a" n="4">이 方애 傳호매 미천 도로 어려이 아로미 외니</sent>
+<sent type="anno" lang="chi" page="08a" n="5">今依古師의 解華嚴如幻之文야 法喩에 各開五法노니</sent>
+<sent type="anno" lang="kor" page="08a" n="5">이제 古師 華嚴ᄉ 幻 홈 사굔 그를 브터 法과 가뵤매 各各 다 法을 여노니</sent>
+<sent type="anno" lang="chi" page="08a" n="6">喩中五者 如結一巾야 幻作一馬 니</sent>
+<sent type="anno" lang="kor" page="08a" n="6">가뵴 中엣 다  巾을 자   幻히 짓 니</sent>
+<sent type="anno" lang="chi" page="08a" n="7">一은 所依巾이오 二 幻師術法이오 三은 所幻馬ᅵ오 四 馬有ᅵ 卽無ᅵ오 五 癡執爲馬ᅵ라</sent>
+<sent type="anno" lang="kor" page="08a" n="7">나 브툰 巾이오 둘흔 幻師 術法이오 세흔 幻혼 리오 네흔  이슈미 곧 업수미오 다 어리여 리라 자보미라</sent>
+<sent type="anno" lang="chi" page="08a-8b" n="8">法中五者 一은 眞性이오 二 心識이오 三은 依他起오 四 我法이 卽空이오 五 迷執我法이니</sent>
+<sent type="anno" lang="kor" page="08a-8b" n="8">法中엣 다 나 眞實ᄉ 性이오 둘흔 心識이오 세흔 他 브터 니루미오 네흔 我法이 곧 空이오 다 迷야 我法 자보미니</sent><!--흔 ^ 他-->
+
+<sent type="anno" lang="chi" page="08b" n="1">下諸幻喩ᅵ 皆倣此知니라</sent>
+<sent type="anno" lang="kor" page="08b" n="1">아랫 한 幻 가뵤미 다 이 브터 아롤 디니라</sent>
+<sent type="anno" lang="chi" page="08b" n="2">二 斷滅誰修問이라</sent>
+<sent type="anno" lang="kor" page="08b" n="2">둘흔 그처 滅면 뉘 닷리고 묻오미라</sent>
+<sent type="main" lang="chi" page="08b" n="3">若諸幻性이 一切盡滅인댄 則無有心커니</sent>
+<sent type="main" lang="kor" page="08b" n="3">다가 한 幻性이 一切 다 滅홀딘댄 미 업거니</sent>
+<sent type="main" lang="chi" page="08b" n="4">誰爲脩行이완 云何復說修行如幻이니고</sent>
+<sent type="main" lang="kor" page="08b" n="4">뉘 脩行리완 엇뎨 幻 호 脩行호 다시 니시니고</sent>
+
+<sent type="anno" lang="chi" page="09a" n="1">此問이 亦從前拂迹中來니</sent>
+<sent type="anno" lang="kor" page="09a" n="1">이 묻오미  알 자최 르샨 中을 브터 오니</sent>
+<sent type="anno" lang="chi" page="09a" n="2">謂若以幻故로 一切皆空인댄 能所ᅵ 揔無커니</sent>
+<sent type="anno" lang="kor" page="09a" n="2">니샤 다가 幻 젼로 一切 다 空홀딘댄 能과 所왜 다 업거니</sent>
+<sent type="anno" lang="chi" page="09a" n="3">遣誰야 脩習이완 云何復說脩行如幻이니고 시니라</sent>
+<sent type="anno" lang="kor" page="09a" n="3">눌 브려 닷가 니기리완 엇뎨 幻 호 脩行호 다시 니시니고 시니라</sent>
+<sent type="anno" lang="chi" page="09a" n="4">金剛三昧예 亦云샤 衆生之心이 性本空寂야 空寂之心이 體無色相니</sent>
+<sent type="anno" lang="kor" page="09a" n="4">金剛三昧예  니샤 衆生 미 性이 本來 空寂야 공젹 미 體ᅵ 色相 업스니</sent>
+<sent type="anno" lang="chi" page="09a-9b" n="5">云何脩習야 得本空心이리고 시니라</sent>
+<sent type="anno" lang="kor" page="09a-9b" n="5">엇뎨 닷가 니겨 本來 空  어드리고 시니라</sent><!--니^라-->
+
+<sent type="anno" lang="chi" page="09b" n="1">三은 遮不脩之失이오</sent>
+<sent type="anno" lang="kor" page="09b" n="1">세흔 닷디 아니 외요 마샤미오</sent>
+<sent type="main" lang="chi" page="09b" n="2">若諸衆生이 本不脩行면 於生死中에 常居幻化야</sent>
+<sent type="main" lang="kor" page="09b" n="2">다가 한 衆生이 本來 脩行 아니면 生死 中에 녜 幻化애 사라</sent>
+<sent type="main" lang="chi" page="09b" n="3">曾不了知如幻境界리니 令妄想心으로 云何解脫리고</sent>
+<sent type="main" lang="kor" page="09b" n="3">간도 幻  境界 아디 몯리니 妄想 로 엇뎨 解脫케 리고</sent>
+
+<sent type="anno" lang="chi" page="10a" n="1">意예 恐惑者ᅵ 又云호 一切如幻이라</sent>
+<sent type="anno" lang="kor" page="10a" n="1">데 迷惑니  닐오 一切 幻 혼 디라</sent>
+<sent type="anno" lang="chi" page="10a-10b" n="2">無不是空이며 覺性이 無生야 本來淸淨니</sent>
+<sent type="anno" lang="kor" page="10a-10b" n="2">이 空 아니니 업스며 覺性이 生홈 업서 本來 淸淨니</sent><!--生^홈-->
+
+<sent type="anno" lang="chi" page="10b" n="1">知之어든 卽已니 何有修行이리오 가 샤</sent>
+<sent type="anno" lang="kor" page="10b" n="1">아라 곧 마롤디니 엇뎨 修行이 이시리오 가 저샤</sent>
+<sent type="anno" lang="chi" page="10b" n="2">故로 此애 遮云샤 本空이라 야 本不脩면 多生애 生死苦ᅵ오</sent>
+<sent type="anno" lang="kor" page="10b" n="2">그럴 이 마가 니샤 本來 空이라 야 本來 닷디 아니면 한 生애 生死ᄉ 苦ᅵ오</sent>
+<sent type="anno" lang="chi" page="10b" n="3">今空이라 야 今不脩면 云何則脫苦리오 시니라</sent>
+<sent type="anno" lang="kor" page="10b" n="3">이제 空니라 야 이제 닷디 아니면 엇뎨 苦 버스리오 시니라</sent>
+<sent type="anno" lang="chi" page="10b" n="4">不了如幻境界者 未達緣起事相也ᅵ라</sent>
+<sent type="anno" lang="kor" page="10b" n="4">幻  境界 아디 몯호 緣야 니 事相 아디 몯호미라</sent>
+<sent type="anno" lang="chi" page="10b" n="5">從來不達事야 妄想으로 不解脫호 今還不了知커니 如何得解脫리오</sent><!--원문은 '妄想으로'로 되어 있으나 '妄想로'의 오각으로 보임-->
+<sent type="anno" lang="kor" page="10b" n="5">아 이 아디 몯야 妄想로 解脫 몯호 이제  아디 몯거니 엇뎨 解脫을 得리오</sent>
+<sent type="anno" lang="chi" page="10b" n="6">溺斯意者ᅵ 近代예 尤多니 但恃天眞고 不觀力用니라</sent>
+<sent type="anno" lang="kor" page="10b" n="6">이 데 디니 近代예 더욱 하니 오직 天眞을 믿고 힘 믈 보디 아니니라</sent>
+<sent type="anno" lang="chi" page="10b" n="7">四 請脩之方便이라</sent>
+<sent type="anno" lang="kor" page="10b" n="7">네흔 닷골 方便을 請오미라</sent>
+
+<sent type="main" lang="chi" page="11a" n="1">願爲末世一切衆生쇼셔</sent>
+<sent type="main" lang="kor" page="11a" n="1">願 末世옛 一切 衆生 爲쇼셔</sent>
+<sent type="main" lang="chi" page="11a" n="2">作何方便야 漸次脩習야 令諸衆生으로 永離諸幻이리고</sent><!--원문은 '令諸衆生으로'로 되어 있으나 '令諸衆生로'의 오각으로 보임-->
+<sent type="main" lang="kor" page="11a" n="2">므슴 方便을 지 漸漸 次第로 닷가 니겨 한 衆生로 한 幻 永히 여희에 리고</sent>
+
+<sent type="anno" lang="chi" page="12a" n="1">上애 遮不脩之失샤 已知決定應脩故로</sent>
+<sent type="anno" lang="kor" page="12a" n="1">우희 닷디 아니 외요 마샤 마 決定히 반기 닷고 아실</sent>
+<sent type="anno" lang="chi" page="12a" n="2">問對治之門샤 如何永離諸幻이리고 시니라</sent>
+<sent type="anno" lang="kor" page="12a" n="2">對야 고툘 門을 묻오샤 엇뎨 한 幻을 永히 여희리고 시니라</sent>
+<sent type="anno" lang="chi" page="12a" n="3">論애 云호 若人이 唯念眞如고 不以方便으로 種種熏脩면 終無得淨이라 니라</sent>
+<sent type="anno" lang="kor" page="12a" n="3">論애 닐오 다가 사미 오직 眞如를 念고 方便으로 種種로 熏習야 닷디 아니면 내 조호 得디 몯리라 니라</sent>
+<sent type="anno" lang="chi" page="12a" n="4">對於暫離故로 言永離시니 謂初觀一體야 雖覺全眞나 後遇八風면</sent>
+<sent type="anno" lang="kor" page="12a" n="4">간 여희요 對 永히 여희다 니시니 니샤 처  體 보아 비록 오로 眞인 아나 後애 八風을 맛나면</sent>
+<sent type="anno2" lang="chi" page="12a" n="5">八風者利衰毁譽稱譏苦樂子者</sent>
+<sent type="anno2" lang="kor" page="12a" n="5">八風은 利와 衰와 할암과 기룜과 일롬과 구지좀과 苦와 樂괘라</sent>
+<sent type="anno" lang="chi" page="12a-12b" n="6">紛然起妄니 行如窮子며 解似電光니</sent>
+<sent type="anno" lang="kor" page="12a-12b" n="6">어즈러이 忘이 니니 行이 艱難 아 며 解 번겟 빗 니</sent><!--러^이-->
+
+<sent type="anno2" lang="chi" page="12b" n="1">電光者 智論說 初心聞法乍解 如闇夜電光 乍見山川人物 頃爾還闇</sent>
+<sent type="anno2" lang="kor" page="12b" n="1">번겟 비츤 첫 매 법 듣고 간 아로미 어드운  번겟 비체 간 山川과 人物을 보고 간 예 도로 어드움 니라</sent>
+<sent type="anno" lang="chi" page="12b" n="2">何法脩治야 永除病本러뇨시니라</sent>
+<sent type="anno" lang="kor" page="12b" n="2">어느 法으로 닷가 다려 病ᄉ 根原을 永히 덜려뇨 시니라</sent>
+<sent type="anno" lang="chi" page="12b" n="3">然이나 經云샨 一切衆生作何方便兩句之間에 文意斷絶니 譯之太略이니</sent>
+<sent type="anno" lang="kor" page="12b" n="3">그러나 經에 니샨 一切衆生 作何方便ᄉ 두 句 예 글 디 그츠니 飜譯이 너무 略호미니</sent>
+<sent type="anno" lang="chi" page="12b" n="4">應添分別演說等言면 意則連續리니 達者ᅵ 詳焉이니 後亦頻爾니라</sent>
+<sent type="anno" lang="kor" page="12b" n="4">반기 分別야 펴 니샴 等엣 마 더으면 디 니리니 알 사미 仔細히 홀디니 後에  조 그러니라</sent>
+<sent type="anno" lang="chi" page="12b" n="5">此下三唱經文이 倣前科段니라</sent>
+<sent type="anno" lang="kor" page="12b" n="5">이 아랫 세 니샨 經文이 알 科段 브트니라</sent>
+<sent type="anno2" lang="chi" page="12b" n="6">없음</sent><!--12b의 6번 문장에 대한 한문 원문은 없어 '없음'으로 표시하였음-->
+<sent type="anno2" lang="kor" page="12b" n="6">세 니샤 나 세 번 精誠 펴샤미오 둘흔 기리시고 許샤미오 세흔 기드려 듣오미라</sent><!--원문에는 '許사미오'로 되어 있으나 이는 '許샤미오'의 탈획으로 보임-->
+
+<sent type="main" lang="chi" page="13a" n="1">作是語已시고 五體投地샤 如是三請샤 終而復始야시</sent>
+<sent type="main" lang="kor" page="13a" n="1">이 말 시고 五體 해 더디샤 이 티 세 번 請샤 고 다시 비르서시</sent>
+<sent type="main" lang="chi" page="13a" n="2">爾時世尊이 告普賢菩薩言샤</sent>
+<sent type="main" lang="kor" page="13a" n="2">그 世尊이 普賢菩薩려 니샤</sent>
+<sent type="main" lang="chi" page="13a" n="3">善哉善哉라 善男子아 汝等이 乃能爲諸菩薩와 及末世衆生의 脩習菩薩如幻三昧홀</sent>
+<sent type="main" lang="kor" page="13a" n="3">됴타 됴타 善男子아 너희히 能히 諸菩薩와 末世衆生 菩薩幻  三昧 닷가 니굘</sent>
+
+<sent type="anno" lang="chi" page="13b" n="1">此云正受ᅵ니</sent>
+<sent type="anno" lang="kor" page="13b" n="1">예셔 닐오매 正 바도미니</sent>
+<sent type="anno" lang="chi" page="13b" n="2">由達身心如幻야 則冥本覺眞如호미 如鏡의 受影야</sent>
+<sent type="anno" lang="kor" page="13b" n="2">身과 心괘 幻 홈 아로 브터 本覺眞如에 어우루미 거우루의 그리메 바돔 야</sent>
+<sent type="anno" lang="chi" page="13b" n="3">非受非拒故로 名正受ᅵ라</sent>
+<sent type="anno" lang="kor" page="13b" n="3">바돔 아니며 거스롬 아닐 일후미 正 바도미라</sent>
+<sent type="main" lang="chi" page="13b-14a" n="4">方便漸次야 令諸衆生으로 得離諸幻케 니</sent><!--원문에는 '令諸衆生으로'로 되어 있으나 이는 '令諸衆生로'의 오각으로 보임-->
+<sent type="main" lang="kor" page="13b-14a" n="4">方便潮次 爲야 한 衆生로 한 幻 여희요 得게 니</sent><!--方^便-->
+
+<sent type="main" lang="chi" page="14a" n="1">汝今諦聽라 當爲汝說호리라</sent>
+<sent type="main" lang="kor" page="14a" n="1">네 이제 仔細히 드르라 반기 너 爲야 닐오리라</sent>
+<sent type="main" lang="chi" page="14a" n="2">時普賢菩薩이 奉敎歡喜와 及諸大衆과 黙然而聽시더니</sent>
+<sent type="main" lang="kor" page="14a" n="2">時예 普賢菩薩이 敎 받와 歡喜와 한 大衆과 야셔 듣오시더니</sent>
+
+<sent type="anno" lang="chi" page="15a" n="1">正說長行中이 四ᅵ니</sent>
+<sent type="anno" lang="kor" page="15a" n="1">正히 니샨 長行 中이 네히니</sent>
+<sent type="anno" lang="chi" page="15a-15b" n="2">一은 標幻從覺生샤 以爲義本이오</sent>
+<sent type="anno" lang="kor" page="15a-15b" n="2">나 幻이 覺 브터 나 標샤 義ᄉ 根本 사샤미오</sent><!--사^-->
+
+<sent type="anno" lang="chi" page="15b" n="1">二 明幻盡覺滿샤 以釋前疑오</sent>
+<sent type="anno" lang="kor" page="15b" n="1">둘흔 幻이 다면 覺이 호 기샤 알 疑心 사기샤미오</sent>
+<sent type="anno" lang="chi" page="15b" n="2">三은 令離幻顯覺샤 正示用心이오</sent>
+<sent type="anno" lang="kor" page="15b" n="2">세흔 幻을 여희여 覺 나토게 샤  믈 正히 뵈샤미오</sent><!--원문에는 '幻을'로 되어 있으나 이는 '幻'의 오각으로 보임-->
+<sent type="anno" lang="chi" page="15b" n="3">四 辨幻覺不俱샤 結酬其請이니</sent>
+<sent type="anno" lang="kor" page="15b" n="3">네흔 幻과 覺괘 디 아니호 샤 그 請을 結야 對答샤미니</sent>
+<sent type="anno" lang="chi" page="15b" n="4">今初第一云義本者 以普賢이 但徵修幻시고 不問幻之所生야시</sent>
+<sent type="anno" lang="kor" page="15b" n="4">이제 처 第一에 義ᄉ 根本이라 닐오 普賢이 오직 幻 닷고 묻오시고 幻의 난 고 묻디 아니야시</sent>
+<sent type="anno" lang="chi" page="15b" n="5">佛說샤 生於覺心이라 시니</sent>
+<sent type="anno" lang="kor" page="15b" n="5">부톄 니샤 覺心에 나니라 시니</sent>
+<sent type="anno" lang="chi" page="15b" n="6">未爲正答所問이언마 且要標之야 爲本시고</sent>
+<sent type="anno" lang="kor" page="15b" n="6">묻오매 正 對答 아니어신마  標야 本 사시고</sent>
+<sent type="anno" lang="chi" page="15b" n="7">憑之야 顯幻盡覺圓故로</sent>
+<sent type="anno" lang="kor" page="15b" n="7">브터 幻이 다면 覺이 두려우믈 나토려 실</sent>
+<sent type="anno" lang="chi" page="15b" n="8">得脩幻義ᅵ 成며 幻盡이 元非斷滅이니</sent>
+<sent type="anno" lang="kor" page="15b" n="8">幻 닷골 디 일며 幻 다오미 本來 그처 滅홈 아뇨 得니</sent>
+<sent type="anno" lang="chi" page="15b-16a" n="9">故로 論애 云호 自性淸淨心이 因無明風動야 乃至無明이 滅야도 智性은 不壞니</sent>
+<sent type="anno" lang="kor" page="15b-16a" n="9">그럴 論애 닐오 自性請淨 미 無明ᄉ  因야 뮈여 無明이 滅야도 智性은 야디디 아니니</sent><!--智^性-->
+
+<sent type="anno" lang="chi" page="16a" n="1">如風止動滅야도 濕性은 不壞等이라</sent>
+<sent type="anno" lang="kor" page="16a" n="1">미 그처 뮈유미 滅야도 저즌 性은 야디디 아니홈 홈해 니르로미라</sent>
+<sent type="main" lang="chi" page="16a" n="2">善男子아 一切衆生의 種種幻化ᅵ</sent>
+<sent type="main" lang="kor" page="16a" n="2">善男子아 一切 衆生의 種種앳 幻化ᅵ</sent>
+<sent type="anno" lang="chi" page="16a-16b" n="3">有漏五蘊十二處十八界等이라 偈예 云샤 幻無明이라 샨 故ᅵ라</sent>
+<sent type="anno" lang="kor" page="16a-16b" n="3">有漏ᄉ 五蘊과 十二處와 十八界 等이라 偈예 니샤 幻無明이라 샨 젼라</sent><!--幻^無-->
+
+<sent type="main" lang="chi" page="16b" n="1">皆生</sent>
+<sent type="main" lang="kor" page="16b" n="1">다</sent>
+<sent type="anno" lang="chi" page="16b" n="2">諸有漏法이 皆從性淨眞心而生也니 依眞起妄故ᅵ라</sent>
+<sent type="anno" lang="kor" page="16b" n="2">한 有漏法이 다 性이 조 眞心을 조차 나니 眞을 브터 妄 니르와 젼라</sent>
+<sent type="main" lang="chi" page="16b" n="3">如來</sent>
+<sent type="main" lang="kor" page="16b" n="3">如來</sent>
+<sent type="anno" lang="chi" page="16b" n="4">此心이 雖凡聖이 同依나 唯佛이 圓證故로 約佛標之시니라</sent>
+<sent type="anno" lang="kor" page="16b" n="4">이 미 비록 凡과 聖괘 가지로 브트나 오직 부톄 두려이 證실 부텨를 자바 標시니라</sent>
+
+<sent type="main" lang="chi" page="17a" n="1">圓</sent>
+<sent type="main" lang="kor" page="17a" n="1">圓</sent>
+<sent type="anno" lang="chi" page="17a" n="2">離相故ᅵ라</sent>
+<sent type="anno" lang="kor" page="17a" n="2">相 여흰 젼라</sent>
+<sent type="main" lang="chi" page="17a" n="3">覺</sent>
+<sent type="main" lang="kor" page="17a" n="3">覺</sent>
+<sent type="anno" lang="chi" page="17a" n="4">非空故ᅵ라</sent>
+<sent type="anno" lang="kor" page="17a" n="4">空 아닌 젼라</sent>
+<sent type="main" lang="chi" page="17a" n="5">妙</sent>
+<sent type="main" lang="kor" page="17a" n="5">妙</sent>
+<sent type="anno" lang="chi" page="17a" n="6">染而不染故ᅵ라</sent>
+<sent type="anno" lang="kor" page="17a" n="6">더러우 더럽디 아닌  젼라</sent>
+<sent type="main" lang="chi" page="17a" n="7">心호미</sent>
+<sent type="main" lang="kor" page="17a" n="7">心에 나미</sent>
+
+<sent type="anno" lang="chi" page="26b" n="1">中實神解故ᅵ니 梵云乾栗馱ᅵ니 是堅實之心也ᅵ니</sent>
+<sent type="anno" lang="kor" page="26b" n="1">가온 實야 神奇히 아 젼니 梵에 닐오맨 乾栗馱ᅵ니 이 구든 實 미니</sent>
+<sent type="anno" lang="chi" page="26b" n="2">不同緣慮集起之義니라</sent>
+<sent type="anno" lang="kor" page="26b" n="2">緣야 혜욤과 모도와 니르와 과 디 아니니라</sent>
+<sent type="anno2" lang="chi" page="26b-27a" n="3">緣慮名心謂 八識思俱能緣慮自分境故</sent>
+<sent type="anno2" lang="kor" page="26b-27a" n="3">緣야 혜요 닐오 八識이 다 能히 제 分ᄉ 境을 緣야 혜 젼오</sent><!--히 ^ 제-->
+
+<sent type="anno2" lang="chi" page="27a" n="1">謂集 起心卽第八識集諸種子起現行故</sent>
+<sent type="anno2" lang="kor" page="27a" n="1">모도와 니르와도 곧 第八識이 한 種子 모도와 現行 니왇 젼라</sent>
+<sent type="anno" lang="chi" page="27a" n="2">言皆生者 本覺心體ᅵ 爲因이오 根本不覺이 爲緣야 生三細고</sent>
+<sent type="anno" lang="kor" page="27a" n="2">다 나다 니샤 本覺心體ᅵ 因이 외오 根本不覺이 緣이 외야 세 細 내오</sent>
+<sent type="anno2" lang="chi" page="27a" n="3">論中 本覺心 卽是此經圓覺妙心也</sent>
+<sent type="anno2" lang="kor" page="27a" n="3">論中엣 本覺心은 곧 이이 經엣 圓覺妙心이오</sent>
+<sent type="anno2" lang="chi" page="27a" n="4">論中 不覺 卽此偈云 無始幻無明也</sent>
+<sent type="anno2" lang="kor" page="27a" n="4">論中엣 不覺 곧 이 偈예 니샨 無始옛 幻 無明이니</sent>
+<sent type="anno2" lang="chi" page="27a" n="5">論中 說依本覺故 而有不覺</sent>
+<sent type="anno2" lang="kor" page="27a" n="5">論中엣 마 븓건댄 本覺 브틀 不覺이 잇고</sent>
+<sent type="anno2" lang="chi" page="27a" n="6">依不覺故 生三種相</sent>
+<sent type="anno2" lang="kor" page="27a" n="6">不覺 브틀 세 가짓 相이 나니</sent>
+<sent type="anno2" lang="chi" page="27a" n="7">今配云因緣者 謂由無明風力 動彼靜心</sent>
+<sent type="anno2" lang="kor" page="27a" n="7">이제 因緣에 마켜 닐오 닐오 無明ᄉ  히믈 브터 뎌 괴외  뮈우니</sent>
+<sent type="anno2" lang="chi" page="27a" n="8">至此最微 名爲生相 乃至轉現</sent>
+<sent type="anno2" lang="kor" page="27a" n="8">이 니르러  微細 일후미 生相이니 轉과 現과애 니르니</sent>
+<sent type="anno2" lang="chi" page="27a-27b" n="9">此三之體 是本靜心 親故云因</sent>
+<sent type="anno2" lang="kor" page="27a-27b" n="9">이 세희 體이 本來ᄉ 조 미니 親 닐오 因이오</sent><!--닐^오-->
+
+<sent type="anno2" lang="chi" page="27b" n="1">但由無明動之 無明踈故 云緣</sent>
+<sent type="anno2" lang="kor" page="27b" n="1">오직 無明이 뮈우믈 브트니 無明이 踈 닐오 緣이라</sent>
+<sent type="anno" lang="chi" page="27b" n="2">業識이 爲因이오 境界ᅵ 爲緣야 生六麤니</sent>
+<sent type="anno" lang="kor" page="27b" n="2">業識이 因이 외오 境界ᅵ 緣이 외야 여슷 麤를 내니</sent>
+<sent type="anno2" lang="chi" page="27b" n="3">根本無明 與眞心 合名爲業識</sent>
+<sent type="anno2" lang="kor" page="27b" n="3">根本無明이 眞心과 어우루믈 일후미 業識이라</sent>
+<sent type="anno2" lang="chi" page="27b" n="4">此識 對自所現境界 便生智相相續等六麤也</sent>
+<sent type="anno2" lang="kor" page="27b" n="4">이 識 이제 나톤 境界 對야 곧 智相과 相續 等 여슷 麤를 내니라</sent>
+<sent type="anno" lang="chi" page="27b" n="5">故로 棱伽애 云샤 大慧여 不思議熏과 不思議變은 是現識因이오</sent>
+<sent type="anno" lang="kor" page="27b" n="5">그럴 棱伽애 니샤 大慧여 不事議熏과 不思議變은 이 現識의 因이오</sent>
+<sent type="anno" lang="chi" page="27b" n="6">取種種塵과 及無始妄想熏은 是分別事識因이라 시니</sent>
+<sent type="anno" lang="kor" page="27b" n="6">種種 듣그를 取홈과 無始 妄想熏은 이 分別 事識의 因이라 시니</sent>
+<sent type="anno2" lang="chi" page="27b" n="7">謂無明 是能熏 眞如 是所熏 熏故卽變 爲三細也</sent>
+<sent type="anno2" lang="kor" page="27b" n="7">닐오 無明은 이 能熏이오 眞如는 이 所熏이니 熏 곧 變야 세 細 외니라</sent>
+<sent type="anno2" lang="chi" page="27b-28a" n="8">不思議熏者 謂無明能熏眞如 不可熏處而熏故 名不思議熏</sent>
+<sent type="anno2" lang="kor" page="27b-28a" n="8">不思議熏은 닐오 無明이 能히 眞如를 熏야 어루 熏티 몯 고대 熏 일후미 不思議熏이라</sent><!--熏^-->
+
+<sent type="anno2" lang="chi" page="28a" n="1">又熏卽不熏 不熏之熏 名不思議熏</sent>
+<sent type="anno2" lang="kor" page="28a" n="1"> 熏이 곧 熏 아니 호미니 熏 아니 熏이 일후미 不思議熏이라</sent>
+<sent type="anno2" lang="chi" page="28a" n="2">不思議變者 謂眞如心受無明熏 不可變異而變異故 云不思議變</sent>
+<sent type="anno2" lang="kor" page="28a" n="2">不思議變은 닐오 眞如心이 無明의 熏을 바다 어루 變야 다디 몯게 變야 다 니샤 不思議變이라</sent>
+<sent type="anno2" lang="chi" page="28a" n="3">又變卽不變 不變之變 名不思議變</sent>
+<sent type="anno2" lang="kor" page="28a" n="3"> 變이 곧 變티 아니 호미니 變티 아닌 變이 일후미 不思議變이라</sent>
+<sent type="anno2" lang="chi" page="28a" n="4">取種種塵者 卽此現識所現種種境界 還能熏動心海 起諸事識之浪</sent>
+<sent type="anno2" lang="kor" page="28a" n="4">種種 듣그를 取호 곧 이 現識의 나톤 種種앳 境界 도로 能히 心海 熏야 뮈워 한 事識의 믌겨를 니르왇니라</sent>
+<sent type="anno2" lang="chi" page="28a" n="5">(及)無始妄想熏 卽被和合心海之中妄念習氣 無始已來</sent>
+<sent type="anno2" lang="kor" page="28a" n="5">無始妄想熏은 곧 뎌 어운 心海ᄉ 中엣 妄念習氣 無始로 오매</sent>
+<sent type="anno2" lang="chi" page="28a" n="6">熏習 不斷以未曾離念</sent>
+<sent type="anno2" lang="kor" page="28a" n="6">熏習호미 긋디 아니 호 간도 念 여희디 몯니</sent>
+<sent type="anno2" lang="chi" page="28a-28b" n="7">此塵及念 熏動心海 種種識生</sent>
+<sent type="anno2" lang="kor" page="28a-28b" n="7">이 듣글와 念이 心海 熏야 뮈워 種種앳 識이 나니라</sent><!--이 ^ 心-->
+
+<sent type="anno" lang="chi" page="28b" n="1">是知諸法이 皆無自體니 無自體故로 必假所依니</sent>
+<sent type="anno" lang="kor" page="28b" n="1">이 알리로다 請法이 다 제 體 업스니 제 體 업슬 반기 브툴 고 븓니</sent>
+<sent type="anno" lang="chi" page="28b" n="2">依圓覺心而生起也ᅵ니 如幻馬ᅵ 無體야 必依於巾니</sent>
+<sent type="anno" lang="kor" page="28b" n="2">圓覺心을 브터 니러 나니 幻 리 體 업서 반기 巾을 브툼 니</sent>
+<sent type="anno" lang="chi" page="28b" n="3">巾은 喩眞心고 馬 卽蘊界니 配前五法면 本末을 應知리라</sent>
+<sent type="anno" lang="kor" page="28b" n="3">巾은 眞心을 가비고  곧 蘊과 界왜니 알 다 법에 마키면 本과 末와 반기 알리라</sent>
+<sent type="anno" lang="chi" page="28b" n="4">問旣眞能生妄면 眞是妄源이니 何故로 前에 云無明이 無體오</sent>
+<sent type="anno" lang="kor" page="28b" n="4">무루 마 眞이 能히 妄 내면 眞이 이 妄 根源이니 엇던 젼로 알 無明이 體 업다 니시뇨</sent>
+<sent type="anno" lang="chi" page="28b" n="5">答호 妄託眞起 說眞爲源이니</sent>
+<sent type="anno" lang="kor" page="28b" n="5">對答호 妄이 眞을 브터 닐 眞이 根源이라 니니</sent>
+<sent type="anno" lang="chi" page="28b" n="6">現且迷眞이언 眞本無妄니</sent>
+<sent type="anno" lang="kor" page="28b" n="6"> 眞迷호 나톨 니언 眞은 本來 妄 업스니</sent>
+<sent type="anno" lang="chi" page="28b" n="7">如二月이 託本月而起 說本月호 爲起二之依언</sent>
+<sent type="anno" lang="kor" page="28b" n="7">二月이 本月을 브터 닐 本月을 닐오 二 니 브투미라  니언</sent>
+<sent type="anno" lang="chi" page="28b-29a" n="8">本月이 實無二輪니 卽是二無其體니라</sent>
+<sent type="anno" lang="kor" page="28b-29a" n="8">本月이 實로 二輪 업스니 곧 이 二 그 體 업숨 니라</sent><!--니 ^ 곧-->
+
+<sent type="anno" lang="chi" page="29a" n="1">故로 經에 說샤 種種이 生於覺心이라 시니 不是心이 生種種이라</sent>
+<sent type="anno" lang="kor" page="29a" n="1">그럴 經에 니샤 種種이 覺心에 나다 시니 이 미 種種 내욘 디 아니라</sent>
+<sent type="anno" lang="chi" page="29a" n="2">然諸經論애 俱說호 萬法이 一心이라 며 三界ᅵ 唯識이라 야</sent>
+<sent type="anno" lang="kor" page="29a" n="2">그러나 諸經論애 다 닐오 萬法이 一心이라 며 三界 오직 識이라 야</sent>
+<sent type="anno" lang="chi" page="29a" n="3">宗途ᅵ 有異야 學者ᅵ 罕知니라</sent>
+<sent type="anno" lang="kor" page="29a" n="3">宗途ᅵ 달오미 이셔 學者ᅵ 알 리 드므니라</sent>
+<sent type="anno2" lang="chi" page="29a" n="4">宗途者 宗旨途轍也</sent>
+<sent type="anno2" lang="kor" page="29a" n="4">宗 디오 途 길히니</sent>
+<sent type="anno2" lang="chi" page="29a" n="5">就佛則 權實有異 就人則 情尙有異</sent>
+<sent type="anno2" lang="kor" page="29a" n="5">부텻긔 나가면 權과 實왜 달옴 겨시고 사게 나가면 데 崇尙호미 달옴 잇니라</sent>
+<sent type="anno" lang="chi" page="29a" n="6">今約五敎야 略彰其別노니</sent>
+<sent type="anno" lang="kor" page="29a" n="6">이제 五敎 자바 畧히 그 달오 나토노니</sent>
+<sent type="anno" lang="chi" page="29a" n="7">一은 愚法聲聞敎ᅵ니 假說一心샤 謂實有外境이라 샤</sent>
+<sent type="anno" lang="kor" page="29a" n="7">나 法에 어린 聲聞敎ᅵ니 一心을 비러 니샤 實로 밧 境이 잇니라 니샤</sent>
+<sent type="anno" lang="chi" page="29a" n="8">但由心造業之所感이랏 故ᅵ라</sent>
+<sent type="anno" lang="kor" page="29a" n="8">오직  브터 業을 지 感이라 샨 젼라</sent>
+<sent type="anno2" lang="chi" page="29a" n="9">愚法者 不了法空也</sent>
+<sent type="anno2" lang="kor" page="29a" n="9">法에 어료 法空 아디 몯호미니</sent>
+<sent type="anno2" lang="chi" page="29a-29b" n="10">卽是法執假說者 謂不了唯識 計有外境</sent>
+<sent type="anno2" lang="kor" page="29a-29b" n="10">곧 이 法執이라 비러 니샤 닐오 오직 識인 아디 몯야 밧 境이 잇니라 혜여</sent><!--識^인-->
+
+<sent type="anno2" lang="chi" page="29b" n="1">但云由心造別業故 感得自身</sent>
+<sent type="anno2" lang="kor" page="29b" n="1">오직 닐오  브터 各別 業을 지 제 모 感야 得고</sent>
+<sent type="anno2" lang="chi" page="29b" n="2">由心造共業故 感外山河器界</sent>
+<sent type="anno2" lang="kor" page="29b" n="2"> 브터 모 業을 지 밧 山何器界 感야</sent>
+<sent type="anno2" lang="chi" page="29b" n="3">一切善惡悉 由心成故 云假說</sent>
+<sent type="anno2" lang="kor" page="29b" n="3">一切 善과 惡괘 다  브터 이니라  닐오 비러 닐오미라</sent>
+<sent type="anno" lang="chi" page="29b" n="4">二 大乘權敎ᅵ니 明異熟과 賴邪와 샤 名爲一心이니</sent>
+<sent type="anno" lang="kor" page="29b" n="4">둘흔 大乘權敎ᅵ니 異熟과 賴邪와 기샤 일후미 一心이니</sent><!--원문과 언해문에는 '賴邪'로 되어 있고 해주에는 '賴耶'로 되어 있으나 한자음으로 보아 '邪'는 '耶'의 오각으로 보임-->
+<sent type="anno2" lang="chi" page="29b" n="5">(䟽)異熟賴耶者 第八識也 此是諸識本故</sent>
+<sent type="anno2" lang="kor" page="29b" n="5">異熟賴耶 第八 識이니 이 여러 識의 根源인 젼라</sent>
+<sent type="anno2" lang="chi" page="29b" n="6">異熟 是善惡業果 從無始來至於等覺 因位最寬故 取之也</sent>
+<sent type="anno2" lang="kor" page="29b" n="6">異熟 이 善惡 業果ᅵ니 無始 브터 와 等覺애 니르니 因位  어윌 取니라</sent>
+<sent type="anno" lang="chi" page="29b" n="7">遮無境故ᅵ라</sent>
+<sent type="anno" lang="kor" page="29b" n="7">境 업수믈 마신 젼라</sent>
+<sent type="anno2" lang="chi" page="29b" n="8">(䟽)遮無境者 正出彼一心義也</sent>
+<sent type="anno2" lang="kor" page="29b" n="8">境 업수믈 마고 正히 뎌 一心ᄉ 義 내니</sent>
+<sent type="anno2" lang="chi" page="29b-30a" n="9">謂若一分是境 一分是心 卽不成一 今以境唯心變</sent>
+<sent type="anno2" lang="kor" page="29b-30a" n="9">닐오 다가 一分은 이 境이오 一分은 이 心이면 곧 一이 외디 몯려니와 이제 境이 오직  變호미라</sent><!--려^니-->
+
+<sent type="anno2" lang="chi" page="30a" n="1">亦但是心故 唯一也</sent>
+<sent type="anno2" lang="kor" page="30a" n="1"> 오직 이 밀 오직 一이라</sent>
+<sent type="anno" lang="chi" page="30a" n="2">三은 大乘實敎ᅵ니 說如來藏샤 以爲一心이니 理無二故ᅵ라</sent>
+<sent type="anno" lang="kor" page="30a" n="2">세흔 大乘實敎ᅵ 니 如來藏 니샤 一心이라 샤미니 理 둘 업슨 젼라</sent>
+<sent type="anno2" lang="chi" page="30a" n="3">(䟽)理無故者 謂如來藏擧體 隨緣成辦諸事</sent>
+<sent type="anno2" lang="kor" page="30a" n="3">理 둘 업수믄 닐오 如來藏이 온 體ᅵ 緣을 조차 한 이 일우</sent>
+<sent type="anno2" lang="chi" page="30a" n="4">而其自性本不生滅 是故一心二門皆無障礙</sent>
+<sent type="anno2" lang="kor" page="30a" n="4">그 自性은 本來 生滅 아니니 그럴 一心二門이 다 룜 업스니라</sent>
+<sent type="anno" lang="chi" page="30a" n="5">四 一乘頓敎ᅵ니 泯絶染淨샤 但是一心이니 破諸數故ᅵ라</sent>
+<sent type="anno" lang="kor" page="30a" n="5">네흔 一乘 頓敎ᅵ 니 染淨을 업게 그치샤 오직 이 一心이니 한 數를 허논 젼라</sent>
+<sent type="anno" lang="chi" page="30a" n="6">五 一乘圓敎ᅵ니 總該萬有샤 卽是一心이니 理事本末이 無別異故ᅵ라</sent>
+<sent type="anno" lang="kor" page="30a" n="6">다 一乘 圓敎ᅵ 니 萬有 다 리샤 곧 이 一心이니 理와 事와 本과 末왜 달옴 업슨 젼라</sent>
+<sent type="anno" lang="chi" page="30a" n="7">此上五敎ᅵ 後後ᅵ 轉深니 後必收前이오 前不攝後니라</sent>
+<sent type="anno" lang="kor" page="30a" n="7">이 웃 五敎ᅵ 後後ᅵ 더욱 기프니 後ᅵ 반기 前을 잡고 前이 後를 잡디 몯니라</sent>
+<sent type="anno" lang="chi" page="30a" n="8">然皆說一心샤</sent>
+<sent type="anno" lang="kor" page="30a" n="8">그러나 다 一心을 니샤</sent>
+<sent type="anno" lang="chi" page="30a-30b" n="9">有斯異者 蓋以經隨機說시고 論逐經通고 人隨論執야</sent>
+<sent type="anno" lang="kor" page="30a-30b" n="9">이 달오미 이쇼 經은 機를 조차 니시고 論 經을 조차 通고 사 論을 조차 자바</sent><!--이^쇼-->
+
+<sent type="anno" lang="chi" page="30b" n="1">致令末代로 固守淺權</sent>
+<sent type="anno" lang="kor" page="30b" n="1">末代로 녇가온 權을 구디 잡게 </sent>
+<sent type="anno" lang="chi" page="30b" n="2">今에 本末을 會通야 令五門이 皆顯며</sent>
+<sent type="anno" lang="kor" page="30b" n="2">이제 本과 末와 뫼화 通야 다 門이 다 낟게 며</sent>
+<sent type="anno" lang="chi" page="30b" n="3">詮旨ᅵ 相對야 復爲三門노니</sent>
+<sent type="anno" lang="kor" page="30b" n="3">詮과 旨왜 서르 對야  세 門을 노니</sent>
+<sent type="anno" lang="chi" page="30b" n="4">初 約所詮이니 逆次고 順法야</sent>
+<sent type="anno" lang="kor" page="30b" n="4">처믄 所詮을 자보미니 次第 거스리고 法을 順야</sent>
+<sent type="anno2" lang="chi" page="30b" n="5">逆次者 逆前五門次第也</sent>
+<sent type="anno2" lang="kor" page="30b" n="5">次第 거스료 알 다 門 次第 거스릴시오</sent>
+<sent type="anno2" lang="chi" page="30b" n="6">順法者 順諸衆生迷眞起妄從本起末心數次第也</sent>
+<sent type="anno2" lang="kor" page="30b" n="6">법을 順호 한 衆生 眞을 몰라 妄을 니르와다 本 조차 末 니르왇 心數ᄉ 次第 順시라</sent>
+<sent type="anno" lang="chi" page="30b" n="7">從四至一히 展轉起末니</sent>
+<sent type="anno" lang="kor" page="30b" n="7">네흘 브터 나해 니르리 올며 올마 末 니르와니</sent>
+<sent type="anno2" lang="chi" page="30b" n="8">從四至一者 緣第五是本末融通故 且說前四也</sent>
+<sent type="anno2" lang="kor" page="30b" n="8">네흘 조차 나해 니르로 다 재 이 本과 末와 노겨 通 아직 앏 네흘 니니라</sent>
+<sent type="anno" lang="chi" page="30b-31a" n="9">謂本唯非染非淨 一法界心이 由不覺之야 名如來藏이오</sent>
+<sent type="anno" lang="kor" page="30b-31a" n="9">닐오 本來 오직 染 아니며 淨 아닌  法界心이 [頓敎ᅵ라] 아디 몯호 브터 일후미 如來藏이오</sent><!--法^界-->
+
+<sent type="anno" lang="chi" page="31a" n="1">與生滅合야 成阿梨邪識고</sent>
+<sent type="anno" lang="kor" page="31a" n="1">生滅와 어우러 何黎邪識이 외오 [實敎ᅵ라]</sent>
+<sent type="anno" lang="chi" page="31a" n="2">復由執此야 爲我法故로 轉起餘七야 成八種識고</sent>
+<sent type="anno" lang="kor" page="31a" n="2"> 이 자보 브터 我法을 사 나 닐구블 옮겨 니르와다 여듧 가짓 識이 외오</sent>
+<sent type="anno" lang="chi" page="31a" n="3">各由識體야 起能見分니 由能見故로 似外境이 現니</sent>
+<sent type="anno" lang="kor" page="31a" n="3">各各 識體를 브터 能 見分을 니르와니 能 見을 브틀 밧 境이 現홈 니 [權敎ᅵ라]</sent>
+<sent type="anno" lang="chi" page="31a" n="4">執取此境야 爲定實故로 造種種別業共業니</sent>
+<sent type="anno" lang="kor" page="31a" n="4">이 境을 자바 가져 一定 實을 사 種種앳 別業과 共業을 지니</sent>
+<sent type="anno" lang="chi" page="31a" n="5">故로 內感自身고 外感器界一切諸法니라</sent>
+<sent type="anno" lang="kor" page="31a" n="5">그럴 안로 제 모 感고 밧그로 器界ᄉ 一切 諸法을 感니라 [聲聞敎ᅵ라]</sent>
+<sent type="anno" lang="chi" page="31a" n="6">二 約能詮이니 順文고 逆法야</sent>
+<sent type="anno" lang="kor" page="31a" n="6">둘흔 能詮을 자보미니 文을 順고 法을 거스려</sent>
+<sent type="anno2" lang="chi" page="31a-31b" n="7">順文者 法是能詮敎 如前所列從末至本</sent>
+<sent type="anno2" lang="kor" page="31a-31b" n="7">文을 順호 文은 이 能詮敎ᅵ니 알 버룜티 末 브터 本애 니르로미오</sent><!--애 ^ 니-->
+
+<sent type="anno2" lang="chi" page="31b" n="1">逆法者 法是衆生心法 相生次第從本起末</sent>
+<sent type="anno2" lang="kor" page="31b" n="1">法을 거스료 法은 이 衆生 心法이니 서르 나논 次第本 브터 末 니르와도미라</sent>
+<sent type="anno" lang="chi" page="31b" n="2">從一至四히 展轉窮本이니</sent>
+<sent type="anno" lang="kor" page="31b" n="2">나 브터 네헤 니르리 올며 올마 本애 다니</sent>
+<sent type="anno" lang="chi" page="31b" n="3">謂佛이 對下劣根性의 未能頓達萬法所起根本者샤</sent>
+<sent type="anno" lang="kor" page="31b" n="3">닐오 부톄 가온 사오나온 根性의 萬法의 니러난 根本 能히 다 아디 몯릴 對샤</sent>
+<sent type="anno" lang="chi" page="31b" n="4">且言從業所感시니 此則初聲聞敎ᅵ오</sent>
+<sent type="anno" lang="kor" page="31b" n="4"> 業의 感호 브트니라 니시니 이 첫 聲聞敎ᅵ오</sent>
+<sent type="anno" lang="chi" page="31b" n="5">次爲機稍勝者샤 說能所感이 一切唯識이라 샤</sent>
+<sent type="anno" lang="kor" page="31b" n="5">버거 機ᅵ 져기 勝닐 爲샤 能과 所왓 感호미 一切 오직 識이라 니샤</sent>
+<sent type="anno" lang="chi" page="31b" n="6">展轉乃至唯一眞心이라 시니 名頓敎等이니</sent>
+<sent type="anno" lang="kor" page="31b" n="6">올며 올마 오직  眞心이라 샤매 니르르시니 일후미 頓敎 等이니</sent>
+<sent type="anno" lang="chi" page="31b" n="7">皆由根有勝劣故로 令說有淺深니</sent>
+<sent type="anno" lang="kor" page="31b" n="7">다 根이 勝홈과 사오나옴 이슈믈 브트실 말미 녇가옴과 기품괘 겨시게 니</sent>
+<sent type="anno" lang="chi" page="31b" n="8">若執前前면 卽迷後後리니</sent>
+<sent type="anno" lang="kor" page="31b" n="8">다가 前前을 자면 곧 後後를 迷리니</sent>
+<sent type="anno" lang="chi" page="31b-32a" n="9">始終을 通會야 方盡其源이니라</sent>
+<sent type="anno" lang="kor" page="31b-32a" n="9">始와 終과 通히 모도아 비르서 그 根原을 다리라</sent><!--根^原-->
+
+<sent type="anno" lang="chi" page="32a" n="1">三은 能詮所詮逆順本末이 皆無障礙니 由稱法性히 直譚이오</sent>
+<sent type="anno" lang="kor" page="32a" n="1">세흔 能詮所詮과 거슬며 順홈과 本末이 다 룜 업스니 法性에 맛게 바 니샤미오</sent>
+<sent type="anno" lang="chi" page="32a" n="2">不逐機宜샤 異說故로 卽圓敎也ᅵ라</sent>
+<sent type="anno" lang="kor" page="32a" n="2">機宜를 조샤 달이 닐옴 아니실 곧 圓敎ᅵ라</sent>
+<sent type="anno" lang="chi" page="32a" n="3">唯心之義ᅵ 經論所宗이니 迷之則觸向애 面牆이오</sent>
+<sent type="anno" lang="kor" page="32a" n="3">오직 미라 혼 디 經論애 宗논 고디니 迷면 向  다라  向호미오</sent>
+<sent type="anno2" lang="chi" page="32a" n="4">如人面牆立 卽於百萬種差別物色 都無所見</sent>
+<sent type="anno2" lang="kor" page="32a" n="4">사미  담 向야 셔면 곧 百萬 가짓 差別物色을 다 보디 몯홈 니라</sent>
+<sent type="anno" lang="chi" page="32a" n="5">解之則萬法이 臨鏡이리니</sent>
+<sent type="anno" lang="kor" page="32a" n="5">알면 萬法이 거우루 보미리니</sent>
+<sent type="anno" lang="chi" page="32a" n="6">況此標爲義本을 如何不盡源流ᅵ리오</sent>
+<sent type="anno" lang="kor" page="32a" n="6">며 이 標샤 義ᄉ 根本 샤 엇뎨 根源과 그틀 다디 아니리오</sent>
+<sent type="anno" lang="chi" page="32a" n="7">達者 審之야 勿嫌具列이니라</sent>
+<sent type="anno" lang="kor" page="32a" n="7">알리 仔細히 야 초 버류믈 疑心 마롤디니라</sent>
+
+<sent type="anno" lang="chi" page="36b" n="1">此下 第二明幻盡覺滿샤 以釋前疑니</sent>
+<sent type="anno" lang="kor" page="36b" n="1">이 아랜 둘찻 幻이 다면 覺이 가호 기샤 알 疑心을 사기샤미니</sent>
+<sent type="anno" lang="chi" page="36b" n="2">然이나 上애 說幻從覺生은 染緣起也ᅵ오</sent>
+<sent type="anno" lang="kor" page="36b" n="2">그러나 우희 幻이 覺 브터 나 니샤 染緣의 니루미오</sent>
+<sent type="anno" lang="chi" page="36b-37a" n="3">此애 明幻盡覺滿은 淨緣起也ᅵ라</sent>
+<sent type="anno" lang="kor" page="36b-37a" n="3">이 幻이 다면 覺이 호 기샤 淨緣의 니루미라</sent><!--緣^의-->
+
+<sent type="anno" lang="chi" page="37a" n="1">故로 論애 云호 有四種法薰習義故로</sent>
+<sent type="anno" lang="kor" page="37a" n="1">그럴 論애 닐오 네 가짓 法이 熏習논 디 이실</sent>
+<sent type="anno" lang="chi" page="37a" n="2">染法淨法이 起不斷絶이라 니</sent>
+<sent type="anno" lang="kor" page="37a" n="2">染法과 淨法괘 니루미 긋디 아닌니라 니</sent>
+<sent type="anno2" lang="chi" page="37a" n="3">四法者 論具云 一者 淨法名爲眞如</sent>
+<sent type="anno2" lang="kor" page="37a" n="3">네 法은 論애 초 닐오 나 淨法이니 일후미 眞如ᅵ오</sent>
+<sent type="anno2" lang="chi" page="37a" n="4">二者 一切染因名爲無明</sent>
+<sent type="anno2" lang="kor" page="37a" n="4">둘흔 一體ᄉ 染因이니 일후미 無明이오</sent>
+<sent type="anno2" lang="chi" page="37a" n="5">三者 妄心名業識</sent>
+<sent type="anno2" lang="kor" page="37a" n="5">세흔 妄心이니 일후미 業識이오</sent>
+<sent type="anno2" lang="chi" page="37a" n="6">四者 妄境界 所謂六塵</sent>
+<sent type="anno2" lang="kor" page="37a" n="6">네흔 妄境界니 닐온 六廛이라</sent>
+<sent type="anno" lang="chi" page="37a" n="7">染法者 以依眞如法故로 有於無明고</sent>
+<sent type="anno" lang="kor" page="37a" n="7">染法은 眞染法을 브틀 無明이 잇고</sent>
+<sent type="anno" lang="chi" page="37a" n="8">無明이 熏習眞如故로 則有妄心고</sent>
+<sent type="anno" lang="kor" page="37a" n="8">無明이 眞如를 熏習 妄心이 잇고</sent>
+<sent type="anno" lang="chi" page="37a" n="9">妄心이 熏習無明야 不了眞如法故로</sent>
+<sent type="anno" lang="kor" page="37a" n="9">妄心이 無明을 熏習야 眞如法을 아디 몯</sent>
+<sent type="anno" lang="chi" page="37a" n="10">不覺念起야 現妄境界고</sent>
+<sent type="anno" lang="kor" page="37a" n="10">不覺ᄉ 念이 니러 妄境界 나토고</sent>
+<sent type="anno" lang="chi" page="37a" n="11">妄境界ᅵ 染法緣故로</sent>
+<sent type="anno" lang="kor" page="37a" n="11">忘境界ᅵ 染法의 緣일</sent>
+<sent type="anno" lang="chi" page="37a" n="12">卽熏習妄心야 令其念著야 造種種業야</sent>
+<sent type="anno" lang="kor" page="37a" n="12">곧 妄心을 熏習야 그 念며 着야 種種 業을 지</sent>
+<sent type="anno" lang="chi" page="37a-37b" n="13">受於一切身心等苦니</sent>
+<sent type="anno" lang="kor" page="37a-37b" n="13">一切ᄉ 身과 心과 等엣 苦 受케 니</sent><!--身^과-->
+
+<sent type="anno" lang="chi" page="37b" n="1">故로 勝鬘애 云샤 不染而染이라 시며</sent>
+<sent type="anno" lang="kor" page="37b" n="1">그럴 勝鬘애 니샤 染티 아니 호 染타 시며</sent>
+<sent type="anno" lang="chi" page="37b" n="2">法身不增不減經에 云샤 法身이 流轉五道시 名曰衆生이라 시며</sent>
+<sent type="anno" lang="kor" page="37b" n="2">法身不增不感經에 니샤 法身이 五道애 흘러 그울 시 일후믈 닐오 衆生이라 시며</sent>
+<sent type="anno" lang="chi" page="37b" n="3">華嚴에 云샤 心如工畵師等이라</sent>
+<sent type="anno" lang="kor" page="37b" n="3">華嚴에 니샤 미 工巧 畵師 다 샴 히라</sent>
+<sent type="anno" lang="chi" page="37b" n="4">淨緣起者 論애 云호</sent>
+<sent type="anno" lang="kor" page="37b" n="4">淨緣 니로 論애 닐오</sent>
+<sent type="anno" lang="chi" page="37b" n="5">以有眞如法故로 熏習無明야</sent>
+<sent type="anno" lang="kor" page="37b" n="5">眞如法이 이실 無明을 熏習야</sent>
+<sent type="anno" lang="chi" page="37b" n="6">則令妄心으로 厭生死苦고 樂求涅槃케 며</sent>
+<sent type="anno" lang="kor" page="37b" n="6">妄心으로 生死苦 아쳗고 涅槃 즐겨 求케 며</sent>
+<sent type="anno" lang="chi" page="37b" n="7">以厭求故로 卽熏習眞如야 自信已性야</sent>
+<sent type="anno" lang="kor" page="37b" n="7">아쳐러 며 求 젼로 곧 眞如를 熏習야 제 제 性을 信야</sent>
+<sent type="anno" lang="chi" page="37b" n="8">知心의 妄動야 無前境界야 修遠離法야</sent>
+<sent type="anno" lang="kor" page="37b" n="8"> 妄히 뮈여 알 境界 업수믈 아라 머리 여희욜 法을 닷가</sent>
+<sent type="anno" lang="chi" page="37b" n="9">種種方便으로 起隨順行야 不取不念야</sent>
+<sent type="anno" lang="kor" page="37b" n="9">種種 方便으로 조차 順 行 니르와다 取티 아니며 念티 아니야</sent>
+<sent type="anno" lang="chi" page="37b-38a" n="10">乃至久遠熏習力故로 無明이 則滅고</sent>
+<sent type="anno" lang="kor" page="37b-38a" n="10">오래 熏習혼 히메 니를 無明이 滅고</sent><!--니^를-->
+
+<sent type="anno" lang="chi" page="38a" n="1">無明滅故로 心無有起야 境界隨滅니</sent>
+<sent type="anno" lang="kor" page="38a" n="1">無明이 滅 미 니루미 업서 境界 조차 滅니</sent>
+<sent type="anno" lang="chi" page="38a" n="2">心相이 皆盡야 名得涅槃이라 成自然業니라</sent>
+<sent type="anno" lang="kor" page="38a" n="2"> 相이 다 다아 일후미 涅槃 得호미라 自然 業을 일우니라</sent>
+<sent type="anno" lang="chi" page="38a" n="3">然이나 淨緣起ᅵ 翻前染緣니</sent>
+<sent type="anno" lang="kor" page="38a" n="3">그러나 淨緣 니루미 알 染緣을 드위혀니</sent>
+<sent type="anno" lang="chi" page="38a" n="4">緣이 無自性야 染淨이 俱融야 合法界性야</sent>
+<sent type="anno" lang="kor" page="38a" n="4">緣이 제 性이 업서 染과 淨괘 다 노가 法界性에 마자 니루미</sent>
+<sent type="anno" lang="chi" page="38a" n="5">起唯性起故로 無斷盡니 如華嚴說니라</sent>
+<sent type="anno" lang="kor" page="38a" n="5">오직 性의 니루민 젼로 그처 다옴 업스니 華嚴에 니샴 니라</sent>
+<sent type="anno" lang="chi" page="38a" n="6">依此야 方名幻盡覺滿이니라</sent>
+<sent type="anno" lang="kor" page="38a" n="6">이 브터 비르서 일후미 幻이 다아 覺이  호미니라</sent>
+<sent type="anno" lang="chi" page="38a" n="7">文中에 分三니 一은 擧喩샤 該釋前文이오</sent>
+<sent type="anno" lang="kor" page="38a" n="7">文中에 세헤 호니 나 가뵤 드르샤 알 그를 려 사기샤미오</sent>
+<sent type="anno" lang="chi" page="38a" n="8">二 法合이니 唯譚本義오</sent>
+<sent type="anno" lang="kor" page="38a" n="8">둘흔 法 마초샤미니 오직 本來ᄉ 들 니샤미오</sent>
+<sent type="anno" lang="chi" page="38a" n="9">三은 兼拂同幻之覺이니 今初ᅵ라</sent>
+<sent type="anno" lang="kor" page="38a" n="9">세흔 幻  覺 조쳐 르샤미니 이제 처미라</sent>
+<sent type="main" lang="chi" page="38a-38b" n="10">猶如空華ᅵ 從空而有니</sent>
+<sent type="main" lang="kor" page="38a-38b" n="10">空엣 고지 空 브터 이숌 니</sent><!--^-->
+
+<sent type="anno" lang="chi" page="38b" n="1">喩前義本시니</sent>
+<sent type="anno" lang="kor" page="38b" n="1">알 義ᄉ 根本 가비시니</sent>
+<sent type="anno" lang="chi" page="38b" n="2">謂空中에 畢竟히 實無起滅이어늘</sent>
+<sent type="anno" lang="kor" page="38b" n="2">닐오 空中에 畢竟히 實로 니롬과 滅홈괘 업거늘</sent>
+<sent type="anno" lang="chi" page="38b" n="3">但以眼翳로 空裏예 見華니</sent>
+<sent type="anno" lang="kor" page="38b" n="3">오직 누넷 료로 空裏예 고 보니</sent>
+<sent type="anno" lang="chi" page="38b-39a" n="4">旣翳時예 華ᅵ 依空야 現故로 言從空而有ᅵ니</sent>
+<sent type="anno" lang="kor" page="38b-39a" n="4">마 린 時節에 고지 空 브터 나 니샤 空 브터 이쇼미니</sent><!-- ^ 브-->
+
+<sent type="anno" lang="chi" page="39a" n="1">如圓覺妙性이 畢竟히 無生이어늘</sent>
+<sent type="anno" lang="kor" page="39a" n="1">圓覺微妙 性이 畢竟히 生이 업거늘</sent>
+<sent type="anno" lang="chi" page="39a" n="2">但以心迷로 性中에 見妄니</sent>
+<sent type="anno" lang="kor" page="39a" n="2">오직  迷호로 性中에 妄 봄 니</sent>
+<sent type="anno" lang="chi" page="39a" n="3">旣迷時예 妄이 依覺야 現故로 言生於覺也ᅵ라</sent>
+<sent type="anno" lang="kor" page="39a" n="3">마 迷 時節에 妄이 覺 브터 나 니샤 覺애 나미라</sent>
+<sent type="main" lang="chi" page="39a" n="4">幻華雖滅나 空性은 不壞니</sent>
+<sent type="main" lang="kor" page="39a" n="4">幻 고지 비록 滅나 空性은 허디 아니니</sent>
+<sent type="anno" lang="chi" page="39a-39b" n="5">正喩此段釋疑之文시니</sent>
+<sent type="anno" lang="kor" page="39a-39b" n="5">正히 이 段ᄉ 疑心 사기샨 그를 가비시니</sent><!--正^히-->
+
+<sent type="anno" lang="chi" page="39b" n="1">謂翳差則見華ᅵ 滅於空中리니</sent>
+<sent type="anno" lang="kor" page="39b" n="1">닐오 료미 됴면 고지 空中에 滅호 보리니</sent>
+<sent type="anno" lang="chi" page="39b" n="2">華ᅵ 雖滅나 而空은 常在니라</sent>
+<sent type="anno" lang="kor" page="39b" n="2">고지 비록 滅나 空 녜 잇니라</sent>
+<sent type="anno" lang="chi" page="39b" n="3">然이나 華ᅵ 生時예도 不生며 滅時예도 不滅이어늘</sent>
+<sent type="anno" lang="kor" page="39b" n="3">그러나 고지 生 時節에도 生티 아니 하며 滅 時節에도 滅티 아니커늘</sent>
+<sent type="anno" lang="chi" page="39b" n="4">有翳有差로 見生見滅니라</sent>
+<sent type="anno" lang="kor" page="39b" n="4">룜 이시며 됴홈 이쇼로 生 보며 滅 보니라</sent>
+<sent type="anno" lang="chi" page="39b" n="5">二 法合이니 唯譚本義라</sent>
+<sent type="anno" lang="kor" page="39b" n="5">둘흔 法 마초샤미니 오직 本來ᄉ 들 니샤미라</sent>
+<sent type="main" lang="chi" page="39b-40a" n="6">衆生幻心이 還依幻滅니</sent>
+<sent type="main" lang="kor" page="39b-40a" n="6">衆生 幻 미 도로 幻 브터 滅니</sent><!--도^로-->
+
+<sent type="anno" lang="chi" page="40a" n="1">謂此幻心이 由智了達야 方得除滅리니</sent>
+<sent type="anno" lang="kor" page="40a" n="1">닐오 이 幻 미 智 브터 아라 비르서 더러 滅호 得리니</sent>
+<sent type="anno" lang="chi" page="40a" n="2">所了ᅵ 是幻이오 能了ᅵ 亦幻이니</sent>
+<sent type="anno" lang="kor" page="40a" n="2">아론 고디 이 幻이오 能히 아로미  幻이니</sent>
+<sent type="anno" lang="chi" page="40a" n="3">則前에 疑云샤 幻幻何修ᅵ리고 실</sent>
+<sent type="anno" lang="kor" page="40a" n="3">알 疑心야 니샤 幻과 幻과 엇데 닷리고 실</sent>
+<sent type="anno" lang="chi" page="40a-40b" n="4">今에 答意云샤 不妨以幻으로 除幻이라 시고</sent>
+<sent type="anno" lang="kor" page="40a-40b" n="4">이제 對答샨 데 니샤 幻로 幻 더루미 害티 아니니라 시고</sent><!--샤^-->
+
+<sent type="anno" lang="chi" page="40b" n="1">又前에 云샤 幻盡斷滅이라 실 次下애 答云샤</sent>
+<sent type="anno" lang="kor" page="40b" n="1"> 알 니샤 幻이 다면 그처 滅니라 실 버거 아래 對答야 니샤</sent>
+<sent type="main" lang="chi" page="40b" n="2">諸幻이 盡滅면 覺心이 不動니</sent>
+<sent type="main" lang="kor" page="40b" n="2">한 幻이 다 滅면 覺心이 뮈디 아니니</sent>
+<sent type="anno" lang="chi" page="40b" n="3">此 乃能所ᅵ 雙亡면 卽契圓覺리니</sent>
+<sent type="anno" lang="kor" page="40b" n="3">이 能과 所왜 둘히 업스면 곧 圓覺애 마리니</sent>
+<sent type="anno" lang="chi" page="40b" n="4">其猶波ᅵ 因水야 起얫다가 波滅면 水存 야</sent>
+<sent type="anno" lang="kor" page="40b" n="4">그 믌겨리 므를 因야 니렛다가 믌겨리 滅면 므리 잇 야</sent>
+<sent type="anno" lang="chi" page="40b-41a" n="5">幻이 從覺야 生얫다가 幻滅면 覺滿니라</sent>
+<sent type="anno" lang="kor" page="40b-41a" n="5">幻이 覺 브터 냇다가 幻이 滅면 覺이 니라</sent><!--滅^-->
+
+<sent type="anno" lang="chi" page="41a" n="1">三은 兼拂同幻之覺이니 拂有三重니라</sent>
+<sent type="anno" lang="kor" page="41a" n="1">세흔 幻  覺 조쳐 르샤미니 르샤미 세 비 잇니라</sent>
+<sent type="main" lang="chi" page="41a" n="2">依幻說覺도 亦名爲幻이며</sent>
+<sent type="main" lang="kor" page="41a" n="2">幻 브터 覺 닐옴도  일후미 幻이며</sent>
+<sent type="anno" lang="chi" page="41a" n="3">拂覺妄之覺也ᅵ라 對緣而起故로 亦是幻이라</sent>
+<sent type="anno" lang="kor" page="41a" n="3">妄 아론 覺 르샤미라 緣을 對야 닐  이 幻이라</sent>
+<sent type="main" lang="chi" page="41a" n="4">若說有覺야도 猶未離幻며</sent>
+<sent type="main" lang="kor" page="41a" n="4">다가 覺 이쇼 닐어도  幻 여희디 몯며</sent>
+
+<sent type="anno" lang="chi" page="41b" n="1">恐修習者ᅵ 作是念言호</sent>
+<sent type="anno" lang="kor" page="41b" n="1">저흐샤 닷가 니기리 이 念을 지 닐오</sent>
+<sent type="anno" lang="chi" page="41b" n="2">對妄之覺은 則名爲幻이오</sent>
+<sent type="anno" lang="kor" page="41b" n="2">妄 對 覺 일후미 幻이오</sent>
+<sent type="anno" lang="chi" page="41b" n="3">不對妄者 本有之覺이라</sent>
+<sent type="anno" lang="kor" page="41b" n="3">妄 對티 아니닌 本來 잇 覺이라</sent>
+<sent type="anno" lang="chi" page="41b" n="4">則非虛幻이라 야 若起此心면 起則如幻니라</sent>
+<sent type="anno" lang="kor" page="41b" n="4">虛幻 아니라 야 다가 이  니르와다면 니르와도미 幻 니라</sent>
+<sent type="main" lang="chi" page="41b" n="5">說無覺者도 亦復如是니</sent>
+<sent type="main" lang="kor" page="41b" n="5">覺 업수믈 니리도  이 니</sent>
+
+<sent type="anno" lang="chi" page="42a" n="1">若謂二覺俱無로 卽名眞者댄 此意ᅵ 居然如幻니</sent>
+<sent type="anno" lang="kor" page="42a" n="1">다가 닐오 두 覺이 다 업수므로 곧 일후미 眞이라 홀딘댄 이 디 居然히 幻 니</sent>
+<sent type="anno" lang="chi" page="42a" n="2">擧要而言컨댄 起心動念며</sent>
+<sent type="anno" lang="kor" page="42a" n="2">조라외요 드러 니건댄  니르와며 念을 뮈우며</sent>
+<sent type="anno" lang="chi" page="42a" n="3">言妄言眞이 無非幻也ᅵ라</sent>
+<sent type="anno" lang="kor" page="42a" n="3">妄 니며 眞을 닐오미 幻 아니니 업스니라</sent>
+<sent type="anno" lang="chi" page="42a" n="4">相躡起念샤 勢極三重시니라</sent>
+<sent type="anno" lang="kor" page="42a" n="4">서르 드듸여 念을 니르와샤 勢 세 배 至極시니라</sent>
+<sent type="main" lang="chi" page="42a-42b" n="5">是故幻滅이 名爲不動이라</sent>
+<sent type="main" lang="kor" page="42a-42b" n="5">그럴 幻滅호미 일후미 뮈디 아니 호미라</sent><!--뮈^디-->
+
+<sent type="anno" lang="chi" page="42b" n="1">若泯絶無寄야 分別이 不生면</sent>
+<sent type="anno" lang="kor" page="42b" n="1">다가 업게 그처 브툼 업서 分別이 나디 아니면</sent>
+<sent type="anno" lang="chi" page="42b" n="2">圓覺眞心이 自然顯現야 元無幻化故로 言不動이라</sent>
+<sent type="anno" lang="kor" page="42b" n="2">圓覺眞心이 自然히 나타 本來 幻化 업슨 젼로 니샤 뮈디 아니호미라</sent>
+<sent type="anno" lang="chi" page="42b" n="3">三은 令離幻顯覺샤 正示用心이시니</sent>
+<sent type="anno" lang="kor" page="42b" n="3">세흔 幻을 여희여 覺 나토게 샤  믈 正히 뵈샤미시니</sent>
+
+<sent type="anno" lang="chi" page="43a" n="1">三은 令離幻顯覺샤 正示用心이시니</sent>
+<sent type="anno" lang="kor" page="43a" n="1">세흔 幻을 여희여 覺 나토게 샤  믈 正히 뵈샤미시니</sent>
+<sent type="anno" lang="chi" page="43a" n="2">卽答前에 請問修習之意也ᅵ라</sent>
+<sent type="anno" lang="kor" page="43a" n="2">곧 알 닷가 니교 請야 묻오 對答샨 디라</sent>
+<sent type="anno" lang="chi" page="43a" n="3">前에 不疑合修不修시고</sent>
+<sent type="anno" lang="kor" page="43a" n="3">알 닷고미 맛홈과 닷디 아니 호 疑心 아니시고</sent>
+<sent type="anno" lang="chi" page="43a-43b" n="4">但於修中에 疑用心違妨샤</sent>
+<sent type="anno" lang="kor" page="43a-43b" n="4">오직 닷곰 中에  미 어긔여 害가 疑心샤</sent><!--中^에-->
+
+<sent type="anno" lang="chi" page="43b" n="1">一向但請如何修行離幻시고</sent>
+<sent type="anno" lang="kor" page="43b" n="1">一向야 오직 엇뎨 修行야 幻을 여희리고 請시고</sent>
+<sent type="anno" lang="chi" page="43b" n="2">兼已自遮不修之失실</sent>
+<sent type="anno" lang="kor" page="43b" n="2">내 닷디 아니 외요 兼야 걔 마실</sent>
+<sent type="anno" lang="chi" page="43b" n="3">故로 前段애 釋疑了시고</sent>
+<sent type="anno" lang="kor" page="43b" n="3">그럴 앏 段에 疑心 사교 시고</sent>
+<sent type="anno" lang="chi" page="43b" n="4">此段애 正示用心시고</sent>
+<sent type="anno" lang="kor" page="43b" n="4">이 段애  믈 正히 뵈시고</sent>
+<sent type="anno" lang="chi" page="43b" n="5">後段애 卽會通方便漸次之語샤</sent>
+<sent type="anno" lang="kor" page="43b" n="5">後ᄉ段애 곧 方便 漸漸 次第ᄉ 마 뫼화 通샤</sent>
+<sent type="anno" lang="chi" page="43b" n="6">旣令離幻修行시니</sent>
+<sent type="anno" lang="kor" page="43b" n="6">마 幻을 여희여 修行케 시니</sent>
+<sent type="anno" lang="chi" page="43b" n="7">便已通得不修之失疑也ᅵ실</sent>
+<sent type="anno" lang="kor" page="43b" n="7">곧 마 닷디 아니호미 왼 疑心을 通실</sent>
+<sent type="anno" lang="chi" page="43b" n="8">故로 無別答之文시니라</sent>
+<sent type="anno" lang="kor" page="43b" n="8">各別히 對答샨 그리 업스시니라</sent>
+<sent type="anno" lang="chi" page="43b" n="9">文中이 三이니 謂法과 喩와 合괘라</sent>
+<sent type="anno" lang="kor" page="43b" n="9">文中이 세히니 닐오 法과 가뵴과 마촘괘라</sent>
+<sent type="anno" lang="chi" page="43b" n="10">法中이 二니 初 展轉離幻이오</sent>
+<sent type="anno" lang="kor" page="43b" n="10">法中이 둘히니 처믄 올며 올마 幻 여희요미오</sent>
+<sent type="main" lang="chi" page="43b" n="11">善男子아 一切菩薩及末世衆生이</sent>
+<sent type="main" lang="kor" page="43b" n="11">善男子아 一切 菩薩와 末世衆生이</sent>
+
+<sent type="anno" lang="chi" page="44a" n="1">標指當機시니라</sent>
+<sent type="anno" lang="kor" page="44a" n="1">當 機를 標야 치시니라</sent>
+<sent type="main" lang="chi" page="44a" n="2">應當</sent>
+<sent type="main" lang="kor" page="44a" n="2">반기</sent>
+<sent type="anno" lang="chi" page="44a" n="3">誡勸之辭也ᅵ니 展轉四重이라</sent>
+<sent type="anno" lang="kor" page="44a" n="3">警械야 勸시 말미니 올며 올마 네 비라</sent>
+<sent type="main" lang="chi" page="44a" n="4">遠離一切幻化虛妄境界니</sent>
+<sent type="main" lang="kor" page="44a" n="4">一切ᄉ 幻化虛妄 境界 머리 여희욜 디니</sent>
+<sent type="anno" lang="chi" page="44a" n="5">一은 離諸幻境이라</sent>
+<sent type="anno" lang="kor" page="44a" n="5">나 한 幻 境을 여희요미라</sent>
+
+<sent type="main" lang="chi" page="44b" n="1">由堅執持遠離心故로</sent>
+<sent type="main" lang="kor" page="44b" n="1">머리 여흰  구디 자바 가죠 브틀</sent>
+<sent type="main" lang="chi" page="44b" n="2">心如幻者 亦復遠離며</sent>
+<sent type="main" lang="kor" page="44b" n="2">미 幻 닐  머리 여희며</sent>
+<sent type="anno" lang="chi" page="44b-45a" n="3">二 離離幻之心이니</sent>
+<sent type="anno" lang="kor" page="44b-45a" n="3">둘흔 幻 여흰  여희요미니</sent><!--흰 ^ -->
+
+<sent type="anno" lang="chi" page="45a" n="1">言如幻者 簡非幻心이라</sent>
+<sent type="anno" lang="kor" page="45a" n="1">幻 다 니샤 幻心 아뇨 샤미라</sent>
+<sent type="main" lang="chi" page="45a" n="2">遠離 爲幻을 亦復遠離며</sent>
+<sent type="main" lang="kor" page="45a" n="2">머리 여흰 이 幻을  머리 여희며</sent>
+<sent type="anno" lang="chi" page="45a" n="3">三은 遣離幻之離라</sent>
+<sent type="anno" lang="kor" page="45a" n="3">세흔 幻 여흰 여희요 아미라</sent>
+<sent type="main" lang="chi" page="45a" n="4">離遠離 幻을 亦復遠離니</sent>
+<sent type="main" lang="kor" page="45a" n="4">머리 여희옴 여흰 幻을  머리 여희욜디니</sent>
+
+<sent type="anno" lang="chi" page="46a" n="1">四 遣離離之離라</sent>
+<sent type="anno" lang="kor" page="46a" n="1">네흔 여희욤 여흰 여희요 아미라</sent>
+<sent type="anno" lang="chi" page="46a" n="2">亦可一은 離妄이오</sent>
+<sent type="anno" lang="kor" page="46a" n="2"> 어루 나 妄 여희요미오</sent>
+<sent type="anno" lang="chi" page="46a" n="3">二 離覺이오</sent>
+<sent type="anno" lang="kor" page="46a" n="3">둘흔 覺 여희요미오</sent>
+<sent type="anno" lang="chi" page="46a" n="4">三은 遣離오</sent>
+<sent type="anno" lang="kor" page="46a" n="4">세흔 여희욤 아미오</sent>
+<sent type="anno" lang="chi" page="46a" n="5">四 遣遣이라</sent>
+<sent type="anno" lang="kor" page="46a" n="5">네흔 아 아미라</sent>
+<sent type="anno" lang="chi" page="46a" n="6">皆言遠離者ᅵ 有二니 一은 止오 二 觀이니</sent>
+<sent type="anno" lang="kor" page="46a" n="6">다 머리 여희다 니샤미 둘히 잇니 나 正오 둘흔 觀이니</sent>
+<sent type="anno" lang="chi" page="46a-46b" n="7">止離者 休心息意야 永不追攀이니</sent>
+<sent type="anno" lang="kor" page="46a-46b" n="7">止ᄉ 여희요  쉬우며 들 그쳐 永히 미조차 잡디 아니 호미니</sent><!--쳐 ^ 永-->
+
+<sent type="anno" lang="chi" page="46b" n="1">如人이 遇怨야 不應共處 고</sent>
+<sent type="anno" lang="kor" page="46b" n="1">사미 怨讐를 맛나  사디 아니 고</sent>
+<sent type="anno" lang="chi" page="46b" n="2">觀離者 虛妄之法이 體性이 皆空야</sent>
+<sent type="anno" lang="kor" page="46b" n="2">觀ᄉ 여희요 虛妄 法이 體性이 다 空야</sent>
+<sent type="anno" lang="chi" page="46b" n="3">如夢枷鎖ᅵ 寤則已離 니</sent>
+<sent type="anno" lang="kor" page="46b" n="3">멧 갈와 사줄왜 면 마 여희 니</sent>
+<sent type="anno" lang="chi" page="46b" n="4">故로 下文에 云샤 知幻卽離라 시니라</sent>
+<sent type="anno" lang="kor" page="46b" n="4">그럴 아랫 文에 니샤 幻 알면 곧 여희요미라 시니라</sent>
+<sent type="anno" lang="chi" page="46b" n="5">後 密顯眞覺이라</sent>
+<sent type="anno" lang="kor" page="46b" n="5">後는 眞實ᄉ 覺 그기 나토샤미라</sent>
+<sent type="main" lang="chi" page="46b" n="6">得無所離면 卽除諸幻리라</sent>
+<sent type="main" lang="kor" page="46b" n="6">여흴 곧 업수믈 득면 곧 한 幻을 덜리라</sent>
+
+<sent type="anno" lang="chi" page="47a" n="1">夢中에 見夢야 轉轉覺於前非니</sent>
+<sent type="anno" lang="kor" page="47a" n="1">메 보아 올며 올마 알 외묘 아니</sent>
+<sent type="anno" lang="chi" page="47a" n="2">直到寤時면 所見이 方實故로 云爾也ᅵ시니라</sent>
+<sent type="anno" lang="kor" page="47a" n="2">바  時節에 다면 보 거시 비르서 實 그리 니시니라</sent>
+<sent type="anno" lang="chi" page="47a" n="3">無所離者ᅵ 有其二意니</sent>
+<sent type="anno" lang="kor" page="47a" n="3">여흴 곧 업수미 두 디 잇니</sent>
+<sent type="anno" lang="chi" page="47a" n="4">一則冥於眞覺이니 眞覺則不可離니라</sent>
+<sent type="anno" lang="kor" page="47a" n="4">나 眞實ᄉ 覺애 어우루미니 眞實ᄉ 覺 여희디 몯리라</sent>
+<sent type="anno" lang="chi" page="47a" n="5">二則到眞覺之中얀 自然無如上앳 節節之幻이 可離니</sent>
+<sent type="anno" lang="kor" page="47a" n="5">둘흔 眞實ᄉ 覺中에 니르런 自然히 우횟  幻이 어루 여흴 것 니 업스니</sent>
+<sent type="anno" lang="chi" page="47a-47b" n="6">故로 荷澤이 云호 妄起면 卽覺이오 妄滅면 覺滅니</sent>
+<sent type="anno" lang="kor" page="47a-47b" n="6">그럴 荷澤이 닐오 妄이 닐면 곧 覺이오 妄이 滅면 覺이 滅니</sent><!-- ^ 荷-->
+
+<sent type="anno" lang="chi" page="47b" n="1">覺妄俱滅이 卽是眞如ᅵ라 니라</sent>
+<sent type="anno" lang="kor" page="47b" n="1">覺과 妄괘 다 滅호미 곧 이 眞如ᅵ라 니라</sent>
+<sent type="anno" lang="chi" page="47b" n="2">二 喩ᅵ오</sent>
+<sent type="anno" lang="kor" page="47b" n="2">둘흔 가뵤미오</sent>
+<sent type="main" lang="chi" page="47b" n="3">譬如鑽火니</sent>
+<sent type="main" lang="kor" page="47b" n="3">가비건댄 블 비븨욤 니</sent>
+<sent type="main" lang="chi" page="47b" n="4">兩木이 相因야 火出木盡면 灰飛煙滅니</sent>
+<sent type="main" lang="kor" page="47b" n="4">두 남기 서르 因야 브리 나 남기 다면  며  滅니</sent>
+
+<sent type="anno" lang="chi" page="48b" n="1">如有一段乾木거든 以一木燧로 鑽之야 火出면 還將却燒二木니</sent>
+<sent type="anno" lang="kor" page="48b" n="1"> 段ᄉ  남기 잇거든  나모 燧로 [燧 블 내 남기라] 비븨여 블 나면 도로 가져 두 남 니</sent>
+<sent type="anno" lang="chi" page="48b" n="2">木火ᅵ 旣盡면 煙이 自然滅야 旣成灰燼면 任運飛散야</sent>
+<sent type="anno" lang="kor" page="48b" n="2">나모와 블왜 마 다면  自然히 滅야 마  외면 運을 맛뎌 라 흐터</sent>
+<sent type="anno" lang="chi" page="48b" n="3">不同二木의 形質이 爲礙니</sent>
+<sent type="anno" lang="kor" page="48b" n="3">두 남긔 얼구리 료미 디 아니홈 니</sent>
+<sent type="anno" lang="chi" page="48b" n="4">如次히 四節을 以配於法노니</sent>
+<sent type="anno" lang="kor" page="48b" n="4">次第 티 네  法에 마키노니</sent>
+<sent type="anno" lang="chi" page="48b" n="5">木段은 喩所修幻妄시고</sent>
+<sent type="anno" lang="kor" page="48b" n="5">나못 段은 닷논 幻妄 가비시고</sent>
+<sent type="anno" lang="chi" page="48b" n="6">木燧 喩能修幻智시고</sent>
+<sent type="anno" lang="kor" page="48b" n="6">나모 燧 能히 닷 幻智 가비시고</sent>
+<sent type="anno" lang="chi" page="48b" n="7">煙은 喩離시고 灰 喩遣시니</sent>
+<sent type="anno" lang="kor" page="48b" n="7"> 여희요 가비시고  아믈 가비시니</sent>
+<sent type="anno" lang="chi" page="48b" n="8">經文에 先云灰飛 譯之倒也ᅵ니</sent>
+<sent type="anno" lang="kor" page="48b" n="8">經文에  로 몬져 니샤 飜譯이 갓니</sent>
+<sent type="anno" lang="chi" page="48b" n="9">定合是煙이 先滅커든 餘灰ᅵ 飛散니라</sent>
+<sent type="anno" lang="kor" page="48b" n="9">一定히 반기 이  몬져 滅커든 나  라 흗니라</sent>
+<sent type="anno" lang="chi" page="48b-49a" n="10">喩中에 闕於顯覺시니 蓋文이 略爾로다</sent>
+<sent type="anno" lang="kor" page="48b-49a" n="10">가빈 中에 覺 나토샤미 闕시니 文이 略도다</sent><!--나^토-->
+
+<sent type="anno" lang="chi" page="49a" n="1">前法後合애 悉皆具有니</sent>
+<sent type="anno" lang="kor" page="49a" n="1">알 법과 後에 마촘과애 다 초 잇니</sent>
+<sent type="anno" lang="chi" page="49a" n="2">若欲具之ᄂ댄 應以地로 唯圓覺이니</sent>
+<sent type="anno" lang="kor" page="49a" n="2">다가 초코져 홀딘댄 반기 로 圓覺 가뵬디니</sent>
+<sent type="anno" lang="chi" page="49a" n="3">由前木等이 本從地出얫다가 燒滅總盡면 唯有地存니</sent>
+<sent type="anno" lang="kor" page="49a" n="3">알 나모히 本來  브터 냇다가 라 滅야 다 업스면 오직 히 잇니</sent>
+<sent type="anno" lang="chi" page="49a" n="4">如種種幻化ᅵ 生於圓覺妙心얫다가 幻化數重을 遣盡면 圓覺이 元來不動니라</sent>
+<sent type="anno" lang="kor" page="49a" n="4">種種앳 幻化ᅵ 圓覺妙心에 냇다가 幻化 두  아 다면 圓覺이 本來 뮈디 아니홈 니라</sent>
+<sent type="anno" lang="chi" page="49a" n="5">三은 合이라</sent>
+<sent type="anno" lang="kor" page="49a" n="5">세흔 마초미라</sent>
+<sent type="main" lang="chi" page="49a" n="6">以幻修幻도 亦復如是야 諸幻이 雖盡야도 不入斷滅니라</sent>
+<sent type="main" lang="kor" page="49a" n="6">幻로 幻 닷곰도  이 야 한 幻이 비록 다아도 그처 滅호매 드디 아니니라</sent><!--원문에는 '다아도'로 되어 있으나 '다면'의 오각으로 보임-->
+
+<sent type="anno" lang="chi" page="49b" n="1">上三句 正合喩之現文이오</sent>
+<sent type="anno" lang="kor" page="49b" n="1">웃 세 句는 正히 가비샨 現 문을 마초샤미오</sent>
+<sent type="anno" lang="chi" page="49b" n="2">下一句 兼前엣 密顯眞覺이라</sent>
+<sent type="anno" lang="kor" page="49b" n="2">아랫  句는 알 眞實ᄉ 覺 그기 나토샤미 兼니라</sent>
+<sent type="anno" lang="chi" page="49b" n="3">四 辨幻覺不俱샤 結酬其請이라</sent>
+<sent type="anno" lang="kor" page="49b" n="3">네흔 幻과 覺괘 디 아니 호 샤 그 請을 結야 對答샤미라</sent>
+<sent type="main" lang="chi" page="49b" n="4">善男子아 知幻면 卽離라</sent>
+<sent type="main" lang="kor" page="49b" n="4">善男子아 幻을 알면 곧 여희요미라</sent>
+<sent type="main" lang="chi" page="49b" n="5">不作方便며 離幻면 卽覺이라 亦無漸次니</sent>
+<sent type="main" lang="kor" page="49b" n="5">方便을 짓디 아니며 幻을 여희면 곧 覺이라  漸漸 次第 업스니</sent>
+
+<sent type="anno" lang="chi" page="50b" n="1">前에 云샤 作何方便야 漸次修習야 令諸衆生으로 永離諸幻이니고 실</sent><!--원문에는 '令諸衆生으로'로 되어 있으나 '令諸衆生로'의 오각으로 보임-->
+<sent type="anno" lang="kor" page="50b" n="1">알 니샤 므슴 方便을 지 漸漸 次第로 닷가 니겨 한 衆生로 한 幻을 永히 여희에 리고 실</sent>
+<sent type="anno" lang="chi" page="50b" n="2">故로 佛이 示用心竟시고</sent>
+<sent type="anno" lang="kor" page="50b" n="2">부톄   뵈샤 시고</sent>
+<sent type="anno" lang="chi" page="50b" n="3">結答샤 不作方便며 亦無漸次니</sent>
+<sent type="anno" lang="kor" page="50b" n="3">結야 對答샤 方便을 짓디 아니며  漸漸 次第 업스니</sent>
+<sent type="anno" lang="chi" page="50b" n="4">如是라 乃能永離諸幻이라 시니</sent>
+<sent type="anno" lang="kor" page="50b" n="4">이티 야 能히 한 幻을 永히 여희리라 시니</sent>
+<sent type="anno" lang="chi" page="50b" n="5">會通問中之文也ᅵ라</sent>
+<sent type="anno" lang="kor" page="50b" n="5">묻오샴 中엣 그를 뫼화 通샤미라</sent>
+<sent type="anno" lang="chi" page="50b" n="6">但能知之是幻면 已名爲離오</sent>
+<sent type="anno" lang="kor" page="50b" n="6">오직 能히 이 幻을 알면 마 일후미 여희요미오</sent>
+<sent type="anno" lang="chi" page="50b" n="7">但得離幻면 即元是覺이라</sent>
+<sent type="anno" lang="kor" page="50b" n="7">오직 幻 여희요 得면 곧 本來 이 覺이라</sent>
+<sent type="anno" lang="chi" page="50b" n="8">更無階級이 漸變爲覺니</sent>
+<sent type="anno" lang="kor" page="50b" n="8">외야 皆級이 漸漸 變야 覺 욀 것 업스니</sent>
+<sent type="anno" lang="chi" page="50b-51a" n="9">如人이 夢見身瘡야 問醫求藥다가</sent>
+<sent type="anno" lang="kor" page="50b-51a" n="9">가비건댄 사미 메 모맷 브르믈 보아 醫員을 무르며 藥 求다가</sent><!--^르-->
+
+<sent type="anno" lang="chi" page="51a" n="1">寤來예 旣知是夢면 更欲作何方便이리오</sent>
+<sent type="anno" lang="kor" page="51a" n="1">요매 마 이 민  알면 외야 므슴 方便을 지려 리오</sent>
+<sent type="anno" lang="chi" page="51a" n="2">若待方便야 修之漸離면 卽是實法이어니 何幻名化ᅵ며</sent>
+<sent type="anno" lang="kor" page="51a" n="2">다가 方便을 기드려 닷가 漸漸 여희면 곧 이 實 法이어니 엇뎨 일후미 幻化ᅵ며</sent>
+<sent type="anno" lang="chi" page="51a" n="3">若執實有면 還是妄計어니 何名修行이리오</sent>
+<sent type="anno" lang="kor" page="51a" n="3">다가 實히 이쇼 자면 도로 이 妄 혜미어니 엇뎨 일후미 脩行이리오</sent>
+<sent type="anno" lang="chi" page="51a" n="4">故로 云爾시니라</sent>
+<sent type="anno" lang="kor" page="51a" n="4">그럴 그리 니시니라</sent>
+<sent type="main" lang="chi" page="51a" n="5">一切菩薩와 及末世衆生이 依此修行야 如是라 乃能永離諸幻리라</sent>
+<sent type="main" lang="kor" page="51a" n="5">一切 善薩와 末世 衆生이 이 브터 脩行야 이티 야 能히 한 幻을 永히 여희리라</sent>
+
+<sent type="anno" lang="chi" page="51b" n="1">結成眞離시니 亦是通結前엣 用心之文이라</sent>
+<sent type="anno" lang="kor" page="51b" n="1">眞實로 여희요 結야 일우시니  이 알  멧 그를 通히 結샤미라</sent>
+<sent type="anno" lang="chi" page="51b" n="2">第二偈諷中四段은 依次야 重諷長行이라</sent>
+<sent type="anno" lang="kor" page="51b" n="2">第二 偈諷 中ᄉ 네 段은 次第 브터 長行을 다시 諷샨디라</sent>
+<sent type="anno" lang="chi" page="51b" n="3">科文이 全同 不煩重寫ᅵ니 後皆例此니라</sent>
+<sent type="anno" lang="kor" page="51b" n="3">科文이 오로  어즈러이 다시 술디 아니니 後ᅵ 다 이 例니라</sent>
+<sent type="main" lang="chi" page="51b" n="4">爾時世尊이 欲重宣此義샤 而說偈言샤</sent>
+<sent type="main" lang="kor" page="51b" n="4">그 世尊이 이 들 다시 펴려 샤 偈 니샤</sent>
+<sent type="anno" lang="chi" page="51b-52a" n="5">且標擧也ᅵ라 下文이 倣此니라</sent>
+<sent type="anno" lang="kor" page="51b-52a" n="5"> 標야 드르샤미라 아랫 文이 이를 브트니라</sent><!--샤^미-->
+
+<sent type="main" lang="chi" page="52a" n="1">普賢아 汝ᅵ 當知라</sent>
+<sent type="main" lang="kor" page="52a" n="1">普賢아 네 반기 알라</sent>
+<sent type="main" lang="chi" page="52a" n="2">一切諸衆生의 無始幻無明이 皆從諸如來圓覺心야 建立니</sent><!--원문에는 '一切諸衆生의'로 되어 있으나 '一切諸衆生'의 오각으로 보임-->
+<sent type="main" lang="kor" page="52a" n="2">一切 한 衆生 無始옛 幻無明이 다 한 如來圓覺心을 브터 셔니</sent>
+<sent type="anno" lang="chi" page="52a" n="3">標指生無明之言이 長無고 偈有니라</sent>
+<sent type="anno" lang="kor" page="52a" n="3">標야 치샨 無明 난 말미 長애 업고 偈예 잇니라</sent>
+
+<sent type="main" lang="chi" page="52b" n="1">猶如虛空華ᅵ依空而有相다가</sent>
+<sent type="main" lang="kor" page="52b" n="1">虛空ᄉ 고지 虛空 브터 相이 잇다가</sent>
+<sent type="main" lang="chi" page="52b" n="2">空華ᅵ 若復滅면　虛空은 本不動니</sent><!--원문에는 '虛空은'로 되어 있으나 '虛空'의 오각으로 보임-->
+<sent type="main" lang="kor" page="52b" n="2">虛空ᄉ 고지 다가  滅면 虛空 本來 뮈디 아니홈 니</sent>
+<sent type="main" lang="chi" page="52b" n="3">幻從諸覺生얫다가 幻滅면 覺이 圓滿니</sent>
+<sent type="main" lang="kor" page="52b" n="3">幻이 覺 브터 냇다가 幻이 滅면 覺이 圓滿니</sent>
+<sent type="main" lang="chi" page="52b" n="4">覺心이 不動故ᅵ라</sent>
+<sent type="main" lang="kor" page="52b" n="4">覺心이 뮈디 아니 젼라</sent>
+<sent type="anno" lang="chi" page="52b" n="5">展轉拂迹이 長有偈無니라</sent>
+<sent type="anno" lang="kor" page="52b" n="5">올며 올마 자최 르샤미 長애 잇고 偈예 업스니라</sent>
+<sent type="main" lang="chi" page="52b-53a" n="6">若彼諸菩薩와 及末世衆生이 常應遠離幻이니</sent>
+<sent type="main" lang="kor" page="52b-53a" n="6">다가 뎌 諸 菩薩와 末世 衆生이 녜 반기 幻을 머리 여희욜디니</sent><!--반^-->
+
+<sent type="main" lang="chi" page="53a" n="1">諸幻을 悉皆離면 如木中生火야 木盡면 火還滅 니라</sent>
+<sent type="main" lang="kor" page="53a" n="1">한 幻을 다 여희면 나못 가온 블 나 남기 다면 브리 도로 滅 니라</sent><!--원문에는 거의 대부분 '幻을'로 되어 있으나 이는 '幻'의 오각으로 보임-->
+<sent type="anno" lang="chi" page="53a" n="2">長離偈合니라</sent>
+<sent type="anno" lang="kor" page="53a" n="2">長애 호고 偈예 어우니라</sent>
+<sent type="anno" lang="chi" page="53a" n="3">又法合과 及密顯眞覺은 長有偈無니라</sent>
+<sent type="anno" lang="kor" page="53a" n="3"> 法 마촘과 眞實ᄉ 覺 그기 나토샤 長애 잇고 偈예 업스니라</sent>
+<sent type="main" lang="chi" page="53a" n="4">覺則無漸次며 方便도 亦如是니라</sent>
+<sent type="main" lang="kor" page="53a" n="4">覺 漸漸 次第 업스며 方便도  이 니라</sent>
+<sent type="anno" lang="chi" page="53a" n="5">其結酬之文은 長有偈無니라</sent>
+<sent type="anno" lang="kor" page="53a" n="5">그 結야 對答샨 그른 長애 잇고 偈예 업스니라</sent>
+<sent type="anno" lang="chi" page="53a-53b" n="6">徵釋用心竟니라</sent>
+<sent type="anno" lang="kor" page="53a-53b" n="6">  무러 사기샤미 니라</sent><!--^-->
+
+<sent type="title" lang="chi" page="53b" n="1">大方廣圓覺脩多羅了義經上二之一</sent>
+</doc>
