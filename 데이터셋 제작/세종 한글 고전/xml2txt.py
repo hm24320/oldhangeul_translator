@@ -2,7 +2,10 @@ import os
 import re
 import sys
 from lxml import etree
-## from OldHangeul import OldTexts ##
+# OldHangeul 라이브러리에서 hNFD 함수를 가져옵니다.
+# 라이브러리가 설치되어 있지 않다면, 터미널(명령 프롬프트)에서 먼저 설치해주세요.
+# pip install OldHangeul
+from OldHangeul import hNFD
 
 # 스크립트가 어디서 실행되든, 스크립트 파일 기준 상대 경로 사용
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -56,7 +59,7 @@ def get_period_from_xml(root):
     return "중세국어" if year <= 1592 else "근대국어"
 
 def get_full_text(element):
-    """태그 안의 모든 텍스트 추출 (단, <원본위치>는 태그ごと 제거)"""
+    """태그 안의 모든 텍스트 추출 후 첫가끝 코드로 변환 (단, <원본위치>는 태그ごと 제거)"""
     for pos in element.findall(".//원본위치"):
         parent = pos.getparent()
         if pos.tail:  # 원본위치 뒤에 붙은 실제 텍스트 보존
@@ -67,7 +70,14 @@ def get_full_text(element):
                 parent.text = (parent.text or "") + pos.tail
         parent.remove(pos)  # 태그 삭제
 
-    return etree.tostring(element, method="text", encoding="utf-8").decode("utf-8").strip()
+    # 1. 태그 내의 모든 텍스트를 추출합니다.
+    original_text = etree.tostring(element, method="text", encoding="utf-8").decode("utf-8").strip()
+    
+    # 2. 추출된 텍스트를 hNFD 함수를 이용해 첫가끝 코드로 변환합니다.
+    converted_text = hNFD(original_text)
+    
+    # 3. 변환된 텍스트를 반환합니다.
+    return converted_text
 
 def process_xml(xml_path, rel_path):
     # 원본 읽기
@@ -97,11 +107,13 @@ def process_xml(xml_path, rel_path):
         번역문들 = 기사.findall(".//번역문")
 
         for 원문 in 원문들:
+            # get_full_text 함수가 이제 변환된 텍스트를 반환합니다.
             text = get_full_text(원문)
             if text:
                 lines_언해.append(text)
 
         for 번역문 in 번역문들:
+            # get_full_text 함수가 이제 변환된 텍스트를 반환합니다.
             text = get_full_text(번역문)
             if text:
                 lines_번역문.append(text)
@@ -140,3 +152,4 @@ for idx, xml_path in enumerate(total_files, 1):
         safe_print(f"오류: {xml_path} -> {e}")
     if idx % 10 == 0 or idx == len(total_files):
         safe_print(f"[진행상황] {idx}/{len(total_files)} 완료")
+
