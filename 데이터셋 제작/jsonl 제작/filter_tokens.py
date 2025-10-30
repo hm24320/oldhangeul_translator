@@ -96,4 +96,4 @@ if __name__ == "__main__":
         exit(1)
     
     # 토큰 필터링 실행 (필요하면 model과 max_tokens 값 조절)
-    filter_jsonl_by_tokens(input_file, output_file, max_tokens=30000, model="gpt-4")
+    filter_jsonl_by_tokens(input_file, output_file, max_tokens=10000, model="gpt-4")
